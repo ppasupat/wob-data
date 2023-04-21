@@ -1,0 +1,62 @@
+{
+ "a1257bdf24": {
+  "instruction": {
+   "team": "PITTSBURGH PENGUINS\t",
+   "year": "2016"
+  }
+ },
+ "d7cfe5b56b": {
+  "instruction": {
+   "team": "PITTSBURGH PENGUINS\t",
+   "year": "2009"
+  }
+ },
+ "121abfefaa": {
+  "instruction": {
+   "team": "CHICAGO BLACKHAWKS\t",
+   "year": "2010"
+  }
+ },
+ "1bb5c59128": {
+  "instruction": {
+   "team": "CHICAGO BLACKHAWKS\t",
+   "year": "2015"
+  }
+ },
+ "0656c7a531": {
+  "instruction": {
+   "team": "LOS ANGELES KINGS\t",
+   "year": "2014"
+  }
+ },
+ "cb408f2e6e": {
+  "instruction": {
+   "team": "CHICAGO BLACKHAWKS\t",
+   "year": "2013"
+  }
+ },
+ "5861f6329e": {
+  "instruction": {
+   "team": "BOSTON BRUINS\t",
+   "year": "2011"
+  }
+ },
+ "dbc495dca7": {
+  "instruction": {
+   "team": "ANAHEIM DUCKS\t",
+   "year": "2007"
+  }
+ },
+ "41c178c9f6": {
+  "instruction": {
+   "team": "LOS ANGELES KINGS\t",
+   "year": "2012"
+  }
+ },
+ "5b76b65827": {
+  "instruction": {
+   "team": "DETROIT RED WINGS\t",
+   "year": "2008"
+  }
+ }
+}

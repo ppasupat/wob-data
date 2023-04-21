@@ -1,0 +1,942 @@
+{
+ "f4b9f6eed2": {
+  "instruction": {
+   "ending location": "Bismark, North Dakota",
+   "starting location": "St. Louis",
+   "return date": "March10",
+   "departure date": "March 3"
+  }
+ },
+ "3023b14b14": {
+  "instruction": {
+   "departure date": "06/15/2017",
+   "destination geographic location": "Miami, FL",
+   "departure geographic location": "Shreveport, LA",
+   "ANSWER": "$299.00"
+  }
+ },
+ "b8181e335b": {
+  "instruction": {
+   "departure date": "02/22/17",
+   "destination geographic location": "rome, italy",
+   "departure geographic location": "los angeles, ca",
+   "ANSWER": "$872.00"
+  }
+ },
+ "b9b3380fb9": {
+  "instruction": {
+   "departure date": "02/19/17",
+   "destination geographic location": "new york city, ny",
+   "departure geographic location": "los angeles, ca ",
+   "ANSWER": "$434.00"
+  }
+ },
+ "28566b0471": {
+  "instruction": {
+   "departure date": "03/11/17",
+   "destination geographic location": "New York, NY",
+   "departure geographic location": "Boston, MA",
+   "ANSWER": "59"
+  }
+ },
+ "aa0a57dc45": {
+  "instruction": {
+   "departure date": "03/25/2017",
+   "destination geographic location": "Minneapolis, MN",
+   "departure geographic location": "New York, NY"
+  }
+ },
+ "5417d798b8": {
+  "instruction": {
+   "departure date": "03/12/2017",
+   "destination geographic location": "Long Beach, CA",
+   "departure geographic location": "West Palm Beach, FL",
+   "ANSWER": "$205"
+  }
+ },
+ "547e1d2ede": {
+  "instruction": {
+   "departure date": "03/14/17",
+   "destination geographic location": "Las Vegas, NV",
+   "departure geographic location": "Dallas, TX",
+   "ANSWER": "73"
+  }
+ },
+ "158d211daa": {
+  "instruction": {
+   "departure date": "06/01/2017",
+   "destination geographic location": "Winnipeg, Canada",
+   "departure geographic location": "Charlotte, NC",
+   "ANSWER": "$164.00"
+  }
+ },
+ "bb3fa69206": {
+  "instruction": {
+   "ending location": "New York City",
+   "starting location": "New Orleans",
+   "return date": "March 20",
+   "departure date": "March 4"
+  }
+ },
+ "9b1057bc4f": {
+  "instruction": {
+   "departure date": "3/08/2017",
+   "destination geographic location": "Denver, CO",
+   "departure geographic location": "Oklahoma City, OK",
+   "ANSWER": "142"
+  }
+ },
+ "90676c0158": {
+  "instruction": {
+   "departure date": "05/02/2017",
+   "destination geographic location": "Myrtle Beach, SC",
+   "departure geographic location": "Latrobe, PA",
+   "ANSWER": "56"
+  }
+ },
+ "5babcb7638": {
+  "instruction": {
+   "departure date": "04/04/2017",
+   "destination geographic location": "Orlando, FL",
+   "departure geographic location": "Phoenix, AZ",
+   "ANSWER": "198"
+  }
+ },
+ "72c48df4cb": {
+  "instruction": {
+   "departure date": "3/05/2017",
+   "destination geographic location": "Houston, TX",
+   "departure geographic location": "Nashville, TN",
+   "ANSWER": "182"
+  }
+ },
+ "96244ff98d": {
+  "instruction": {
+   "departure date": "02/21/2017",
+   "destination geographic location": "Los Angeles, CA",
+   "departure geographic location": "Sacramento, CA"
+  }
+ },
+ "c2f73745cc": {
+  "instruction": {
+   "destination geographic location": "Los Angeles, CA",
+   "departure geographic location": "San Francisco, CA",
+   "departure date": "03/10/2017"
+  }
+ },
+ "cd434ad9f5": {
+  "instruction": {
+   "departure date": "03/05/2017",
+   "destination geographic location": "St. George, UT",
+   "departure geographic location": "San Francisco, CA",
+   "ANSWER": "$121"
+  }
+ },
+ "810c89f93c": {
+  "instruction": {
+   "departure date": "5/26/2017",
+   "destination geographic location": "Wilmington, NC",
+   "departure geographic location": "Kansas City, MO",
+   "ANSWER": "336"
+  }
+ },
+ "ea0e01a766": {
+  "instruction": {
+   "departure date": "03/08/2017",
+   "destination geographic location": "St. Louis, MO",
+   "departure geographic location": "Denver, CO",
+   "ANSWER": "$29"
+  }
+ },
+ "30ea884907": {
+  "instruction": {
+   "departure date": "3/14/2017",
+   "destination geographic location": "Boston, MA",
+   "departure geographic location": "Scottsbluff, NE",
+   "ANSWER": "286"
+  }
+ },
+ "ff7ae1c1c8": {
+  "instruction": {
+   "departure date": "03/10/2017",
+   "destination geographic location": "Los Angeles, CA",
+   "departure geographic location": "San Francisco, CA"
+  }
+ },
+ "e0a3ed619d": {
+  "instruction": {
+   "ending location": "Newark",
+   "starting location": "Los Angeles",
+   "return date": "March 27",
+   "departure date": "March 19"
+  }
+ },
+ "50dc288ed0": {
+  "instruction": {
+   "departure date": "05/30/2017",
+   "destination geographic location": "Alexandria, LA ",
+   "departure geographic location": "Dallas, TX",
+   "ANSWER": "$195.00"
+  }
+ },
+ "71eca0f6d6": {
+  "instruction": {
+   "destination geographic location": "New York, NY",
+   "departure geographic location": "San Diego, CA",
+   "departure date": "04/12/2017"
+  }
+ },
+ "b0999ec268": {
+  "instruction": {
+   "departure date": "05/2/1017",
+   "destination geographic location": "New York, NY",
+   "departure geographic location": "Orlando, FL",
+   "ANSWER": "$46.00"
+  }
+ },
+ "9f19e2752c": {
+  "instruction": {
+   "departure date": "3/07/2017",
+   "destination geographic location": "Chicago, IL",
+   "departure geographic location": "Oklahoma City, OK",
+   "ANSWER": "133"
+  }
+ },
+ "67c8ed44c0": {
+  "instruction": {
+   "departure date": "03/13/17",
+   "destination geographic location": "Dallas, TX",
+   "departure geographic location": "Los Angeles, CA",
+   "ANSWER": "135"
+  }
+ },
+ "4d8910bcaf": {
+  "instruction": {
+   "departure date": "05/11/2017",
+   "destination geographic location": "Houston, TX",
+   "departure geographic location": "Atlanta, GA",
+   "ANSWER": "80"
+  }
+ },
+ "37212f5f94": {
+  "instruction": {
+   "departure date": "03/01/2017",
+   "destination geographic location": "Jersey, JER",
+   "departure geographic location": "London, LHR",
+   "ANSWER": "\u00a3358"
+  }
+ },
+ "e75228f988": {
+  "instruction": {
+   "departure date": "03/15/2017",
+   "destination geographic location": "Orlando, FL",
+   "departure geographic location": "New Orleans, LA",
+   "ANSWER": "$97.00"
+  }
+ },
+ "8be4bb84b2": {
+  "instruction": {
+   "destination geographic location": "Portland, OR",
+   "departure geographic location": "Seattle, WA",
+   "departure date": "05/14/2017"
+  }
+ },
+ "7e78dd870f": {
+  "instruction": {
+   "departure date": "04/05/2017",
+   "destination geographic location": "Seattle, WA",
+   "departure geographic location": "Denver, CO",
+   "ANSWER": "71"
+  }
+ },
+ "c619557cce": {
+  "instruction": {
+   "departure date": "04/23/2017",
+   "destination geographic location": "London, LHR",
+   "departure geographic location": "New York City, LGA",
+   "ANSWER": "\u00a31,001"
+  }
+ },
+ "6d872350bb": {
+  "instruction": {
+   "departure date": "05/28/2017",
+   "destination geographic location": "New York, NY",
+   "departure geographic location": "Denver, CO",
+   "ANSWER": "$118.00"
+  }
+ },
+ "1d594c639d": {
+  "instruction": {
+   "departure date": "03/08/17",
+   "destination geographic location": "Mami, FL",
+   "departure geographic location": "Nashville, TN",
+   "ANSWER": "72"
+  }
+ },
+ "f1ac0e2e19": {
+  "instruction": {
+   "departure date": "10/31/2017",
+   "destination geographic location": "New Orleans, LA",
+   "departure geographic location": "Boston, MA",
+   "ANSWER": "$126.00"
+  }
+ },
+ "9cf2a095bb": {
+  "instruction": {
+   "departure date": "03/10/17",
+   "destination geographic location": "Boston, MA",
+   "departure geographic location": "Orlando, FL",
+   "ANSWER": "87"
+  }
+ },
+ "b474053779": {
+  "instruction": {
+   "departure date": "5/2/2017",
+   "destination geographic location": "Tampa, FL",
+   "departure geographic location": "Las Vegas, NV",
+   "ANSWER": "99"
+  }
+ },
+ "7da4f1beac": {
+  "instruction": {
+   "departure date": "05/15/2017",
+   "destination geographic location": "Las Vegas, NV",
+   "departure geographic location": "Cleveland. OH",
+   "ANSWER": "79"
+  }
+ },
+ "f513e9c18a": {
+  "instruction": {
+   "departure date": "07/05/2017",
+   "destination geographic location": "Atlanta, GA",
+   "departure geographic location": "Tampa, FL",
+   "ANSWER": "55"
+  }
+ },
+ "1cc857efdf": {
+  "instruction": {
+   "departure date": "06/05/2017",
+   "destination geographic location": "Dallas, TX",
+   "departure geographic location": "El Paso, TX",
+   "ANSWER": "164"
+  }
+ },
+ "9435ed068c": {
+  "instruction": {
+   "departure date": "3/07/2017",
+   "destination geographic location": "Las Vegas, NV",
+   "departure geographic location": "Phoenix, AZ",
+   "ANSWER": "125"
+  }
+ },
+ "c7eb1a99ff": {
+  "instruction": {
+   "departure date": "05/21/2017",
+   "destination geographic location": "Baltimore, MD",
+   "departure geographic location": "Erie, PA",
+   "ANSWER": "211"
+  }
+ },
+ "16e9ff3b79": {
+  "instruction": {
+   "departure date": "03/07/17",
+   "destination geographic location": "london, united kingdom",
+   "departure geographic location": "los angeles, ca ",
+   "ANSWER": "$532.00"
+  }
+ },
+ "73da72e670": {
+  "instruction": {
+   "departure date": "03/70/17",
+   "destination geographic location": "phoenix, az",
+   "departure geographic location": "los angeles, ca ",
+   "ANSWER": "$127.00"
+  }
+ },
+ "71f8378ed8": {
+  "instruction": {
+   "departure date": "07/05/2017",
+   "destination geographic location": "Columbus, GA",
+   "departure geographic location": "Atlanta, GA",
+   "ANSWER": "$197.00"
+  }
+ },
+ "bea7d18bb4": {
+  "instruction": {
+   "departure date": "3/06/2017",
+   "destination geographic location": "Albuquerque, NM",
+   "departure geographic location": "Dallas, TX",
+   "ANSWER": "175"
+  }
+ },
+ "a9cb5c2bbf": {
+  "instruction": {
+   "departure date": "5/13/2017",
+   "destination geographic location": "Knoxville, TN",
+   "departure geographic location": "Minneapolis, MN",
+   "ANSWER": "361"
+  }
+ },
+ "3e20cb290a": {
+  "instruction": {
+   "departure date": "6/8/2017",
+   "destination geographic location": "Savannah, GA",
+   "departure geographic location": "Denver, CO",
+   "ANSWER": "208"
+  }
+ },
+ "21ad062720": {
+  "instruction": {
+   "ending location": "Portland, Maine",
+   "starting location": "Portland, Oregon",
+   "return date": "March 29",
+   "departure date": "March 9"
+  }
+ },
+ "052890f3c2": {
+  "instruction": {
+   "departure date": "04/30/2017",
+   "destination geographic location": "Houston, TX",
+   "departure geographic location": "Las Vegas, NV",
+   "ANSWER": "$116.00"
+  }
+ },
+ "632543c685": {
+  "instruction": {
+   "departure date": "09/07/17",
+   "destination geographic location": "rome, italy ",
+   "departure geographic location": "los angeles, ca ",
+   "ANSWER": "$482.00"
+  }
+ },
+ "cb84be623d": {
+  "instruction": {
+   "departure date": "04/05/2017",
+   "destination geographic location": "Newquay, NQY",
+   "departure geographic location": "Warsaw, WAW",
+   "ANSWER": "\u00a3111"
+  }
+ },
+ "983a340268": {
+  "instruction": {
+   "ending location": "Rome, Italy",
+   "starting location": "London, United Kingdom",
+   "return date": "April 10",
+   "departure date": "April 3"
+  }
+ },
+ "1acc9134ca": {
+  "instruction": {
+   "departure date": "04/08/2017",
+   "destination geographic location": "Westerland, GWT",
+   "departure geographic location": "Newquay, NQY",
+   "ANSWER": "\u00a3790"
+  }
+ },
+ "93a3122604": {
+  "instruction": {
+   "departure date": "6/12/2017",
+   "destination geographic location": "Houston, TX",
+   "departure geographic location": "Los Angeles, CA",
+   "ANSWER": "$130.00"
+  }
+ },
+ "851da3ade3": {
+  "instruction": {
+   "departure date": "09/14/2017",
+   "destination geographic location": "Chicago, IL",
+   "departure geographic location": "San Antonio, TX",
+   "ANSWER": "$184.00"
+  }
+ },
+ "c47163ebe6": {
+  "instruction": {
+   "departure date": "05/24/2017",
+   "destination geographic location": "Oklahoma, Ok",
+   "departure geographic location": "Jackson, MA",
+   "ANSWER": "$224.00"
+  }
+ },
+ "48df805616": {
+  "instruction": {
+   "ending location": "Atlanta",
+   "starting location": "Orlando",
+   "return date": "March 13",
+   "departure date": "March 5"
+  }
+ },
+ "0d14363208": {
+  "instruction": {
+   "departure date": "03/07/17",
+   "destination geographic location": "Nashville, TN",
+   "departure geographic location": "Newark, NJ",
+   "ANSWER": "122"
+  }
+ },
+ "e134fdaefa": {
+  "instruction": {
+   "departure date": "04/10/2017",
+   "destination geographic location": "Paris, ORY",
+   "departure geographic location": "Westerland, GWT",
+   "ANSWER": "\u00a3782"
+  }
+ },
+ "f4efd9a4f5": {
+  "instruction": {
+   "destination geographic location": "Richmond, VA",
+   "departure geographic location": "Orlando, FL",
+   "departure date": "05/10/2017"
+  }
+ },
+ "4b92486c79": {
+  "instruction": {
+   "departure date": "04/12/2017",
+   "destination geographic location": "Berlin, TXL",
+   "departure geographic location": "Paris, ORY",
+   "ANSWER": "\u00a3168"
+  }
+ },
+ "2c2e13d9c4": {
+  "instruction": {
+   "departure date": "03/07/2017",
+   "destination geographic location": "Tallahassee, FL",
+   "departure geographic location": "Pocatello, ID",
+   "ANSWER": "$269"
+  }
+ },
+ "c93e6f97ff": {
+  "instruction": {
+   "departure date": "03/05/2017",
+   "destination geographic location": "Kansas City, MO",
+   "departure geographic location": "Toledo, OH",
+   "ANSWER": "308"
+  }
+ },
+ "77611b785d": {
+  "instruction": {
+   "departure date": "04/21/2017",
+   "destination geographic location": "New York City, LGA",
+   "departure geographic location": "Mumbai, BOM",
+   "ANSWER": "\u00a3549"
+  }
+ },
+ "a6548532dc": {
+  "instruction": {
+   "departure date": "4/18/2017",
+   "destination geographic location": "San Diego, CA",
+   "departure geographic location": "Atlanta, GA",
+   "ANSWER": "127"
+  }
+ },
+ "a383b9e087": {
+  "instruction": {
+   "departure date": "3/09/2017",
+   "destination geographic location": "Las Vegas, NV",
+   "departure geographic location": "New York City, NY",
+   "ANSWER": "152"
+  }
+ },
+ "e6824c084a": {
+  "instruction": {
+   "departure date": "05/05/2017",
+   "destination geographic location": "Denver, CO",
+   "departure geographic location": "Pittsburgh, PA",
+   "ANSWER": "137"
+  }
+ },
+ "03b39fd585": {
+  "instruction": {
+   "departure date": "3/01/2017",
+   "destination geographic location": "New York City, NY",
+   "departure geographic location": "Lincoln, NE",
+   "ANSWER": "373"
+  }
+ },
+ "2f4679718c": {
+  "instruction": {
+   "departure date": "03/16/17",
+   "destination geographic location": "Houston, TX",
+   "departure geographic location": "San Francisco, CA",
+   "ANSWER": "259"
+  }
+ },
+ "56f5b6b57c": {
+  "instruction": {
+   "ending location": "New York City",
+   "starting location": "Chicago",
+   "return date": "March 13",
+   "departure date": "February 28"
+  }
+ },
+ "bbc8133e91": {
+  "instruction": {
+   "departure date": "03/15/2017",
+   "destination geographic location": "Boston, MA",
+   "departure geographic location": "Fort Lauderdale, FL",
+   "ANSWER": "$60.00"
+  }
+ },
+ "b9bf4af5f3": {
+  "instruction": {
+   "departure date": "05/04/2017",
+   "destination geographic location": "Dallas, TX",
+   "departure geographic location": "Boise, ID"
+  }
+ },
+ "7ef55ad2eb": {
+  "instruction": {
+   "ending location": "New York City",
+   "starting location": "minneapolis",
+   "return date": "March 8",
+   "departure date": "March 6"
+  }
+ },
+ "13af9952d3": {
+  "instruction": {
+   "departure date": "03/01/2017",
+   "destination geographic location": "Colorado Springs, CO",
+   "departure geographic location": "Atlanta, GA",
+   "ANSWER": "$232"
+  }
+ },
+ "8d062e1e50": {
+  "instruction": {
+   "ending location": "Seattle",
+   "starting location": "Milwaukee",
+   "return date": "March 19",
+   "departure date": "March 12"
+  }
+ },
+ "856f168780": {
+  "instruction": {
+   "departure date": "02/27/2017",
+   "destination geographic location": "Raleigh, NC",
+   "departure geographic location": "Sioux Falls, SD",
+   "ANSWER": "$344"
+  }
+ },
+ "27c0aa0a98": {
+  "instruction": {
+   "departure date": "02/28/2017",
+   "destination geographic location": "Seattle, WA",
+   "departure geographic location": "New York, NY",
+   "ANSWER": "$149"
+  }
+ },
+ "c8dcc70cc4": {
+  "instruction": {
+   "destination geographic location": "Salt Lake City, UT",
+   "departure geographic location": "Houston, TX",
+   "departure date": "05/01/2017"
+  }
+ },
+ "0774f12829": {
+  "instruction": {
+   "departure date": "7/12/2017",
+   "destination geographic location": "Fresno, CA",
+   "departure geographic location": "Flint, MI",
+   "ANSWER": "271"
+  }
+ },
+ "942c3078b9": {
+  "instruction": {
+   "departure date": "05/10/2017",
+   "destination geographic location": "Richmond, VA",
+   "departure geographic location": "Orlando, FL"
+  }
+ },
+ "99451ff191": {
+  "instruction": {
+   "departure date": "04/12/2017",
+   "destination geographic location": "New York, NY",
+   "departure geographic location": "San Diego, CA"
+  }
+ },
+ "941708f840": {
+  "instruction": {
+   "departure date": "02/22/17",
+   "destination geographic location": "paris, france ",
+   "departure geographic location": "los angeles, ca",
+   "ANSWER": "$662.00"
+  }
+ },
+ "e169621431": {
+  "instruction": {
+   "departure date": "6/9/2017",
+   "destination geographic location": "Fort Lauderdale, FL",
+   "departure geographic location": "Houston, TX",
+   "ANSWER": "89"
+  }
+ },
+ "a07aacfdf8": {
+  "instruction": {
+   "destination geographic location": "Dallas, TX",
+   "departure geographic location": "Boise, ID",
+   "departure date": "05/04/2017"
+  }
+ },
+ "9ff90c529a": {
+  "instruction": {
+   "departure date": "04/15/2017",
+   "destination geographic location": "Edinburgh, EDI",
+   "departure geographic location": "Berlin, TXL",
+   "ANSWER": "\u00a3134"
+  }
+ },
+ "fca6e3b3f2": {
+  "instruction": {
+   "destination geographic location": "Minneapolis, MN",
+   "departure geographic location": "New York, NY",
+   "departure date": "03/25/2017"
+  }
+ },
+ "58197deb28": {
+  "instruction": {
+   "departure date": "02/19/17",
+   "destination geographic location": "salt lake city, ut",
+   "departure geographic location": "los angeles, ca ",
+   "ANSWER": "$154.00"
+  }
+ },
+ "b300b56362": {
+  "instruction": {
+   "departure date": "3/07/2017",
+   "destination geographic location": "Dallas, TX",
+   "departure geographic location": "Las Vegas, NV",
+   "ANSWER": "66"
+  }
+ },
+ "d14ed4ead5": {
+  "instruction": {
+   "destination geographic location": "Los Angeles, CA",
+   "departure geographic location": "Sacramento, CA",
+   "departure date": "02/21/2017"
+  }
+ },
+ "b0843ebfdf": {
+  "instruction": {
+   "departure date": "04/03/2017",
+   "destination geographic location": "Warsaw, WAW",
+   "departure geographic location": "Jersey, JER",
+   "ANSWER": "\u00a3108"
+  }
+ },
+ "e2c5cd15e7": {
+  "instruction": {
+   "departure date": "03/12/17",
+   "destination geographic location": "Los Angeles, CA",
+   "departure geographic location": "New York, NY",
+   "ANSWER": "139"
+  }
+ },
+ "8611392766": {
+  "instruction": {
+   "departure date": "6/7/2017",
+   "destination geographic location": "New York City, NY",
+   "departure geographic location": "Daytona Beach, FL",
+   "ANSWER": "92"
+  }
+ },
+ "044ab87660": {
+  "instruction": {
+   "departure date": "04/17/2017",
+   "destination geographic location": "Orlando, FL",
+   "departure geographic location": "Syracuse, NY",
+   "ANSWER": "$127.00"
+  }
+ },
+ "b8dd5a07f6": {
+  "instruction": {
+   "destination geographic location": "St. Louis, MO",
+   "departure geographic location": "Miami, FL",
+   "departure date": "06/23/2017"
+  }
+ },
+ "7ef0ae6b52": {
+  "instruction": {
+   "departure date": "03/09/17",
+   "destination geographic location": "Orlando, FL",
+   "departure geographic location": "Miami, FL",
+   "ANSWER": "64"
+  }
+ },
+ "b74838e2b7": {
+  "instruction": {
+   "departure date": "02/19/17",
+   "destination geographic location": "mexico city, mexico",
+   "departure geographic location": "los angeles, ca ",
+   "ANSWER": "$201.00"
+  }
+ },
+ "099b151bda": {
+  "instruction": {
+   "departure date": "05/14/2017",
+   "destination geographic location": "Portland, OR",
+   "departure geographic location": "Seattle, WA"
+  }
+ },
+ "823bc7e829": {
+  "instruction": {
+   "departure date": "03/14/2017",
+   "destination geographic location": "Indianapolis, IN",
+   "departure geographic location": "Fresno, CA",
+   "ANSWER": "$205"
+  }
+ },
+ "195825cc74": {
+  "instruction": {
+   "departure date": "7/1/2017",
+   "destination geographic location": "Charlotte, NC",
+   "departure geographic location": "Baton Rouge, LA",
+   "ANSWER": "281"
+  }
+ },
+ "e6924e234f": {
+  "instruction": {
+   "departure date": "05/01/2017",
+   "destination geographic location": "Salt Lake City, UT",
+   "departure geographic location": "Houston, TX"
+  }
+ },
+ "63dd39af8f": {
+  "instruction": {
+   "departure date": "03/31/2017",
+   "destination geographic location": "San Juan, Puerto Rico",
+   "departure geographic location": "Mexico City, Mexico",
+   "ANSWER": "$129.00"
+  }
+ },
+ "6270e306ab": {
+  "instruction": {
+   "ending location": "France",
+   "starting location": "Atlanta",
+   "return date": "March 20",
+   "departure date": "March 11"
+  }
+ },
+ "7d73432a59": {
+  "instruction": {
+   "departure date": "08/01/2017",
+   "destination geographic location": "Orlando, FL",
+   "departure geographic location": "Lafayette, LA",
+   "ANSWER": "$144.00"
+  }
+ },
+ "d49e69ac48": {
+  "instruction": {
+   "departure date": "04/01/2017",
+   "destination geographic location": "Los Angeles, CA",
+   "departure geographic location": "New York City, NY",
+   "ANSWER": "$203.00"
+  }
+ },
+ "d3a2ef9c1a": {
+  "instruction": {
+   "departure date": "03/09/2017",
+   "destination geographic location": "Chicago, IL",
+   "departure geographic location": "Palm Springs, CA",
+   "ANSWER": "$191"
+  }
+ },
+ "c8a592bf76": {
+  "instruction": {
+   "departure date": "03/15/17",
+   "destination geographic location": "San Francisco, CA",
+   "departure geographic location": "Las Vegas, NV",
+   "ANSWER": "29"
+  }
+ },
+ "c317e42f20": {
+  "instruction": {
+   "departure date": "03/20/2017",
+   "destination geographic location": "Portland, OR",
+   "departure geographic location": "Los Angeles, CA"
+  }
+ },
+ "a33611818d": {
+  "instruction": {
+   "departure date": "03/17/2017",
+   "destination geographic location": "Seattle, WA",
+   "departure geographic location": "Boise, ID",
+   "ANSWER": "$116.00"
+  }
+ },
+ "26b8d2c25f": {
+  "instruction": {
+   "departure date": "04/18/2017",
+   "destination geographic location": "Mumbai, BOM",
+   "departure geographic location": "Edinburgh, EDI",
+   "ANSWER": "\u00a3375"
+  }
+ },
+ "b15efce9f0": {
+  "instruction": {
+   "departure date": "05/17/2017",
+   "destination geographic location": "Madison, WI",
+   "departure geographic location": "Albany, NY",
+   "ANSWER": "$161.00"
+  }
+ },
+ "afb73dbfb7": {
+  "instruction": {
+   "departure date": "06/23/2017",
+   "destination geographic location": "St. Louis, MO",
+   "departure geographic location": "Miami, FL"
+  }
+ },
+ "b738fdbd99": {
+  "instruction": {
+   "departure date": "3/11/2017",
+   "destination geographic location": "Oakland, CA",
+   "departure geographic location": "San Antonio, TX",
+   "ANSWER": "431"
+  }
+ },
+ "b16c6212a6": {
+  "instruction": {
+   "departure date": "3/14/2017",
+   "destination geographic location": "Tampa, FL",
+   "departure geographic location": "Kansas City, MO",
+   "ANSWER": "101"
+  }
+ },
+ "fd9321394a": {
+  "instruction": {
+   "departure date": "02/27/2017",
+   "destination geographic location": "Boston, MA",
+   "departure geographic location": "Plattsburgh, NY",
+   "ANSWER": "$109.00"
+  }
+ },
+ "a6ae58f0a0": {
+  "instruction": {
+   "departure date": "03/17/2017",
+   "destination geographic location": "Birmingham, AL",
+   "departure geographic location": "Baltimore, MD",
+   "ANSWER": "$178"
+  }
+ },
+ "e8f6ae699f": {
+  "instruction": {
+   "departure date": "02/19/17",
+   "destination geographic location": "paris, france",
+   "departure geographic location": "los angeles, ca",
+   "ANSWER": "$876.00"
+  }
+ },
+ "98bbbef268": {
+  "instruction": {
+   "departure date": "02/19/17",
+   "destination geographic location": "san salvador, salvador ",
+   "departure geographic location": "los angeles, ca",
+   "ANSWER": "$479.00"
+  }
+ },
+ "ac500a6e7a": {
+  "instruction": {
+   "destination geographic location": "Portland, OR",
+   "departure geographic location": "Los Angeles, CA",
+   "departure date": "03/20/2017"
+  }
+ }
+}

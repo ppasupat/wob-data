@@ -1,0 +1,62 @@
+{
+ "6cfdf715e7": {
+  "instruction": {
+   "state": "Oregon",
+   "type of motorcycle": "Ducati Desmosedici RR"
+  }
+ },
+ "7afc9377ff": {
+  "instruction": {
+   "state": "Washington",
+   "type of motorcycle": "Honda CB750"
+  }
+ },
+ "0fa3da6996": {
+  "instruction": {
+   "state": "Rhode Island",
+   "type of motorcycle": "Triumph Bonneville"
+  }
+ },
+ "f1d797563b": {
+  "instruction": {
+   "state": "New York",
+   "type of motorcycle": "KTM 950 Adventure"
+  }
+ },
+ "49edbd2adf": {
+  "instruction": {
+   "state": "California",
+   "type of motorcycle": "Ducati 916"
+  }
+ },
+ "3cf3c0d011": {
+  "instruction": {
+   "state": "Montana",
+   "type of motorcycle": "Honda Africa Twin"
+  }
+ },
+ "8696c547e6": {
+  "instruction": {
+   "state": "Florida",
+   "type of motorcycle": "Britten V1000"
+  }
+ },
+ "4d5374f99a": {
+  "instruction": {
+   "state": "Idaho",
+   "type of motorcycle": "Vincent Black Shadow"
+  }
+ },
+ "1d0bc72081": {
+  "instruction": {
+   "state": "Texas",
+   "type of motorcycle": "Moto Guzzi Le Mans"
+  }
+ },
+ "a8c3dfbff2": {
+  "instruction": {
+   "state": "Colorado",
+   "type of motorcycle": "Suzuki SV650"
+  }
+ }
+}

@@ -1,0 +1,1452 @@
+{
+ "c0383db0fc": {
+  "instruction": {
+   "Destination": "10028",
+   "Origin": "59002",
+   "ANSWER": "$7.15"
+  }
+ },
+ "ee3790834a": {
+  "instruction": {
+   "Origin": "06101",
+   "Destination": "96807",
+   "ANSWER": "54.90"
+  }
+ },
+ "12865bbd1f": {
+  "instruction": {
+   "Origin": "AUSTIN TX 78701",
+   "Destination": "NEWPORT RI 02840",
+   "ANSWER": "7.15"
+  }
+ },
+ "428e770bdd": {
+  "instruction": {
+   "type of package": "Letter",
+   "postal variances": "Mixed ADC",
+   "weight": "1.5"
+  }
+ },
+ "11c3212e68": {
+  "instruction": {
+   "Destination": "37011",
+   "Origin": "98101",
+   "ANSWER": "$7.15"
+  }
+ },
+ "19536d8cd3": {
+  "instruction": {
+   "type of package": "Flat",
+   "postal variances": "Full Service Intelligent Mail Option",
+   "weight": "4"
+  }
+ },
+ "b14fc307ab": {
+  "instruction": {
+   "Destination": "77001",
+   "Origin": "90291",
+   "ANSWER": "$7.15"
+  }
+ },
+ "eb71519a1d": {
+  "instruction": {
+   "Origin": "54403",
+   "Destination": "27540",
+   "ANSWER": "$7.15"
+  }
+ },
+ "e1e18cf2b8": {
+  "instruction": {
+   "Destination": "10010",
+   "Origin": "75001",
+   "ANSWER": "$7.15"
+  }
+ },
+ "0b6e15a1ac": {
+  "instruction": {
+   "type of package": "Letter",
+   "postal variances": "3-Digit",
+   "weight": "2"
+  }
+ },
+ "df4987bf06": {
+  "instruction": {
+   "Origin": "90210",
+   "Destination": "96807"
+  }
+ },
+ "652c7bdc79": {
+  "instruction": {
+   "Origin": "10012",
+   "Destination": "29575",
+   "ANSWER": "7.15"
+  }
+ },
+ "feede7539f": {
+  "instruction": {
+   "Destination": "33018",
+   "Origin": "60649",
+   "ANSWER": "$7.15"
+  }
+ },
+ "ec3a4ea1d6": {
+  "instruction": {
+   "Origin": "LOS ANGELES, CA",
+   "Destination": "ALBUQUERQUE, NM",
+   "ANSWER": "$7.15"
+  }
+ },
+ "902314ef32": {
+  "instruction": {
+   "Destination": "NEW YORK, NY",
+   "Origin": "LOS ANGELES, CA",
+   "ANSWER": "$7.15"
+  }
+ },
+ "645be602fc": {
+  "instruction": {
+   "Origin": "Knoxville, TN",
+   "Destination": "06101"
+  }
+ },
+ "0cbc59d75e": {
+  "instruction": {
+   "Origin": "Los Angeles, CA",
+   "Destination": "Ardmore, OK",
+   "ANSWER": "7.15"
+  }
+ },
+ "bfdf0da07b": {
+  "instruction": {
+   "Origin": "70112",
+   "Destination": "94206",
+   "ANSWER": "$7.15"
+  }
+ },
+ "28a88fa566": {
+  "instruction": {
+   "Destination": "94581",
+   "Origin": "70165",
+   "ANSWER": "$7.15"
+  }
+ },
+ "a495481c5f": {
+  "instruction": {
+   "Destination": "49734",
+   "Origin": "PINEDALE WY",
+   "ANSWER": "7.15"
+  }
+ },
+ "e1b5c386d8": {
+  "instruction": {
+   "Destination": "Ardmore, OK",
+   "Origin": "Los Angeles, CA",
+   "ANSWER": "7.15"
+  }
+ },
+ "46a6b3f690": {
+  "instruction": {
+   "Destination": "48127",
+   "Origin": "10012",
+   "ANSWER": "7.15"
+  }
+ },
+ "fcd195191a": {
+  "instruction": {
+   "Origin": "LOS ANGELES CA",
+   "Destination": "HUNTSVILLE AL",
+   "ANSWER": "7.15"
+  }
+ },
+ "bf280273c2": {
+  "instruction": {
+   "type of package": "Flat",
+   "postal variances": "5-Digit",
+   "weight": "5"
+  }
+ },
+ "f804399f1e": {
+  "instruction": {
+   "Destination": "22508",
+   "Origin": "35801"
+  }
+ },
+ "de5524cb94": {
+  "instruction": {
+   "Destination": "85001",
+   "Origin": "99501",
+   "ANSWER": "54.90"
+  }
+ },
+ "d2245a7ca2": {
+  "instruction": {
+   "Destination": "70124",
+   "Origin": "55111",
+   "ANSWER": "$7.15"
+  }
+ },
+ "2f603283fb": {
+  "instruction": {
+   "Origin": "Phoenix, AZ",
+   "Destination": "San Diego, CA",
+   "ANSWER": "7.15"
+  }
+ },
+ "6ab3089347": {
+  "instruction": {
+   "Destination": "94206",
+   "Origin": "70112",
+   "ANSWER": "$7.15"
+  }
+ },
+ "4c732dea28": {
+  "instruction": {
+   "Origin": "22508",
+   "Destination": "84322",
+   "ANSWER": "54.90"
+  }
+ },
+ "083834680a": {
+  "instruction": {
+   "Destination": "72201",
+   "Origin": "PHOENIX AZ",
+   "ANSWER": "7.15"
+  }
+ },
+ "b5eec269a8": {
+  "instruction": {
+   "Origin": "99501",
+   "Destination": "20018"
+  }
+ },
+ "8d5d8398d7": {
+  "instruction": {
+   "Origin": "55111",
+   "Destination": "70124",
+   "ANSWER": "$7.15"
+  }
+ },
+ "24f9ed7cd1": {
+  "instruction": {
+   "Origin": "ATLANTA GA 30303",
+   "Destination": "MIAMI FAL33124",
+   "ANSWER": "7.15"
+  }
+ },
+ "d66583cf59": {
+  "instruction": {
+   "Destination": "BALTIMORE MD",
+   "Origin": "DES MOINES IA",
+   "ANSWER": "7.15"
+  }
+ },
+ "9db5ab3a4b": {
+  "instruction": {
+   "Origin": "10012",
+   "Destination": "29409",
+   "ANSWER": "7.15"
+  }
+ },
+ "06bb49790d": {
+  "instruction": {
+   "Origin": "Spokane, WA",
+   "Destination": "Kansas City, MO",
+   "ANSWER": "7.15"
+  }
+ },
+ "7d0650f05f": {
+  "instruction": {
+   "Origin": "10018",
+   "Destination": "07001",
+   "ANSWER": "$7.15"
+  }
+ },
+ "0827dba25e": {
+  "instruction": {
+   "Origin": "70165",
+   "Destination": "94581",
+   "ANSWER": "$7.15"
+  }
+ },
+ "9ce428134a": {
+  "instruction": {
+   "Origin": "LOS ANGELES, CA",
+   "Destination": "NEW YORK, NY",
+   "ANSWER": "$7.15"
+  }
+ },
+ "b665003d8e": {
+  "instruction": {
+   "Destination": "NEW YORK NY 10001",
+   "Origin": "CAMDEN SC 29020",
+   "ANSWER": "7.15"
+  }
+ },
+ "261b315abe": {
+  "instruction": {
+   "Origin": "TULSA OK",
+   "Destination": "NEWPORT RI",
+   "ANSWER": "7.15"
+  }
+ },
+ "60750e06d5": {
+  "instruction": {
+   "Destination": "34653",
+   "Origin": "54403",
+   "ANSWER": "$7.15"
+  }
+ },
+ "1f937bc953": {
+  "instruction": {
+   "type of package": "Flat",
+   "postal variances": "3-Digit",
+   "weight": "13"
+  }
+ },
+ "cf14db18e3": {
+  "instruction": {
+   "Origin": "ALBUQUERQUE, NM",
+   "Destination": "LINCOLN, NE",
+   "ANSWER": "$7.15"
+  }
+ },
+ "3f24235e20": {
+  "instruction": {
+   "Destination": "NEWPORT RI",
+   "Origin": "TULSA OK",
+   "ANSWER": "7.15"
+  }
+ },
+ "548019fb83": {
+  "instruction": {
+   "Destination": "96807",
+   "Origin": "90210"
+  }
+ },
+ "1c5bfdfc3f": {
+  "instruction": {
+   "Origin": "Pueblo, CO",
+   "Destination": "Ada, OK",
+   "ANSWER": "7.15"
+  }
+ },
+ "1af3788c6e": {
+  "instruction": {
+   "Origin": "33018",
+   "Destination": "40502",
+   "ANSWER": "$7.15"
+  }
+ },
+ "73bd540366": {
+  "instruction": {
+   "Destination": "HENDERSON, NV",
+   "Origin": "AURORA, CO",
+   "ANSWER": "$7.15"
+  }
+ },
+ "bacacc3c09": {
+  "instruction": {
+   "Origin": "Denver, CO",
+   "Destination": "Fairbanks, AK"
+  }
+ },
+ "b5eeb11cb9": {
+  "instruction": {
+   "Origin": "PHOENIX AZ",
+   "Destination": "72201",
+   "ANSWER": "7.15"
+  }
+ },
+ "4f830d0680": {
+  "instruction": {
+   "Origin": "19002",
+   "Destination": "12901",
+   "ANSWER": "$7.15"
+  }
+ },
+ "e2f6815e22": {
+  "instruction": {
+   "Origin": "10012",
+   "Destination": "73344",
+   "ANSWER": "7.15"
+  }
+ },
+ "d794044e45": {
+  "instruction": {
+   "Destination": "Tulsa, OK",
+   "Origin": "Alamosa, CO",
+   "ANSWER": "7.15"
+  }
+ },
+ "e758f966c1": {
+  "instruction": {
+   "type of package": "Flat",
+   "postal variances": "ADC",
+   "weight": "2"
+  }
+ },
+ "593c889520": {
+  "instruction": {
+   "Destination": "48555",
+   "Origin": "10012",
+   "ANSWER": "7.15"
+  }
+ },
+ "28fbac0b19": {
+  "instruction": {
+   "Destination": "73344",
+   "Origin": "10012",
+   "ANSWER": "7.15"
+  }
+ },
+ "ebe0a0e1f0": {
+  "instruction": {
+   "Destination": "84322",
+   "Origin": "22508",
+   "ANSWER": "54.90"
+  }
+ },
+ "cbd9d057eb": {
+  "instruction": {
+   "Destination": "75001",
+   "Origin": "91945",
+   "ANSWER": "$7.15"
+  }
+ },
+ "5e72f00d7b": {
+  "instruction": {
+   "Origin": "PITTSBURGH PA",
+   "Destination": "57401",
+   "ANSWER": "7.15"
+  }
+ },
+ "531e01ab38": {
+  "instruction": {
+   "Origin": "05751",
+   "Destination": "Atlanta, GA"
+  }
+ },
+ "1b9b3bc5e4": {
+  "instruction": {
+   "Origin": "Tempe, AZ",
+   "Destination": "Dallas, TX",
+   "ANSWER": "7.15"
+  }
+ },
+ "5b4addd11f": {
+  "instruction": {
+   "Origin": "San Bruno, CA",
+   "Destination": "Beverly Hills, CA",
+   "ANSWER": "$7.15"
+  }
+ },
+ "f38f34054e": {
+  "instruction": {
+   "Destination": "NEW YORK, NY",
+   "Origin": "ALBUQUERQUE, NM",
+   "ANSWER": "$7.15"
+  }
+ },
+ "177fcdf763": {
+  "instruction": {
+   "Origin": "ASHLAND NH",
+   "Destination": "58282",
+   "ANSWER": "7.15"
+  }
+ },
+ "45527ebbd0": {
+  "instruction": {
+   "Origin": "75001",
+   "Destination": "10010",
+   "ANSWER": "$7.15"
+  }
+ },
+ "6329fc0d98": {
+  "instruction": {
+   "Origin": "06101",
+   "Destination": "68620",
+   "ANSWER": "50.50"
+  }
+ },
+ "39aafa156a": {
+  "instruction": {
+   "Origin": "01876",
+   "Destination": "11365",
+   "ANSWER": "$7.15"
+  }
+ },
+ "6bd12794a7": {
+  "instruction": {
+   "Origin": "DALLAS, TX",
+   "Destination": "ALBUQUERQUE, NM",
+   "ANSWER": "$7.15"
+  }
+ },
+ "12612cbfc7": {
+  "instruction": {
+   "Destination": "LINCOLN, NE",
+   "Origin": "ALBUQUERQUE, NM",
+   "ANSWER": "$7.15"
+  }
+ },
+ "3c58055958": {
+  "instruction": {
+   "type of package": "Letter",
+   "postal variances": "Full Service Intelligent Mail Option",
+   "weight": "13"
+  }
+ },
+ "09a95c3ccd": {
+  "instruction": {
+   "Origin": "BOSTON MA 02101",
+   "Destination": "NEW ORLEANS LA 70112",
+   "ANSWER": "7.15"
+  }
+ },
+ "1f039bd056": {
+  "instruction": {
+   "Destination": "72002",
+   "Origin": "10012",
+   "ANSWER": "7.15"
+  }
+ },
+ "4872744f4d": {
+  "instruction": {
+   "Destination": "ALBUQUERQUE, NM",
+   "Origin": "DALLAS, TX",
+   "ANSWER": "$7.15"
+  }
+ },
+ "0b7014d76c": {
+  "instruction": {
+   "Origin": "75001",
+   "Destination": "27007",
+   "ANSWER": "$7.15"
+  }
+ },
+ "cd7b1bacfe": {
+  "instruction": {
+   "Origin": "99501 ",
+   "Destination": "99524",
+   "ANSWER": "23.85"
+  }
+ },
+ "8662993f2a": {
+  "instruction": {
+   "Origin": "10012",
+   "Destination": "48108",
+   "ANSWER": "7.15"
+  }
+ },
+ "630dcbac84": {
+  "instruction": {
+   "type of package": "Letter",
+   "postal variances": "ADC",
+   "weight": "3.2"
+  }
+ },
+ "cfb9b08280": {
+  "instruction": {
+   "Destination": "57401",
+   "Origin": "PITTSBURGH PA",
+   "ANSWER": "7.15"
+  }
+ },
+ "2c8083b8bb": {
+  "instruction": {
+   "Origin": "98101",
+   "Destination": "37011",
+   "ANSWER": "$7.15"
+  }
+ },
+ "9d5ccfb057": {
+  "instruction": {
+   "Destination": "LOS ANGELES, CA",
+   "Origin": "ALBUQUERQUE, NM",
+   "ANSWER": "$7.15"
+  }
+ },
+ "67b57e8492": {
+  "instruction": {
+   "Destination": "Fairbanks, AK",
+   "Origin": "Denver, CO"
+  }
+ },
+ "5a5f7df08d": {
+  "instruction": {
+   "Destination": "LAUREL MT 59044",
+   "Origin": "SANTA FE NM 87500",
+   "ANSWER": "7.15"
+  }
+ },
+ "ca02b80ac1": {
+  "instruction": {
+   "Destination": "Akron, OH",
+   "Origin": "Miami, FL",
+   "ANSWER": "7.15"
+  }
+ },
+ "096060834c": {
+  "instruction": {
+   "Destination": "46077",
+   "Origin": "10001",
+   "ANSWER": "$7.15"
+  }
+ },
+ "c604df690f": {
+  "instruction": {
+   "Origin": "10012",
+   "Destination": "49505",
+   "ANSWER": "7.15"
+  }
+ },
+ "1239884de0": {
+  "instruction": {
+   "Origin": "TAMPA FL 33602",
+   "Destination": "BOISE ID 83702",
+   "ANSWER": "7.15"
+  }
+ },
+ "871b04aa9e": {
+  "instruction": {
+   "Destination": "52240",
+   "Origin": "52001",
+   "ANSWER": "$7.15"
+  }
+ },
+ "126548e418": {
+  "instruction": {
+   "Origin": "90210",
+   "Destination": "73120",
+   "ANSWER": "7.15"
+  }
+ },
+ "875d644bd1": {
+  "instruction": {
+   "Destination": "Kansas City, MO",
+   "Origin": "Spokane, WA",
+   "ANSWER": "7.15"
+  }
+ },
+ "e6e4d6e8d8": {
+  "instruction": {
+   "Destination": "58102",
+   "Origin": "45342",
+   "ANSWER": "$7.15"
+  }
+ },
+ "fff1ac0707": {
+  "instruction": {
+   "Destination": "94262",
+   "Origin": "82005",
+   "ANSWER": "$7.15"
+  }
+ },
+ "7a62197e9b": {
+  "instruction": {
+   "Destination": "32034",
+   "Origin": "11368",
+   "ANSWER": "$7.15"
+  }
+ },
+ "4e6ac82104": {
+  "instruction": {
+   "Destination": "12901",
+   "Origin": "19002",
+   "ANSWER": "$7.15"
+  }
+ },
+ "e27911b5f8": {
+  "instruction": {
+   "Destination": "63101",
+   "Origin": "77001",
+   "ANSWER": "$7.15"
+  }
+ },
+ "d116805f9e": {
+  "instruction": {
+   "Destination": "20018",
+   "Origin": "99501"
+  }
+ },
+ "fb89bd0b0b": {
+  "instruction": {
+   "Origin": "35801",
+   "Destination": "22508"
+  }
+ },
+ "0671c5c9c0": {
+  "instruction": {
+   "Origin": "PINEDALE WY",
+   "Destination": "49734",
+   "ANSWER": "7.15"
+  }
+ },
+ "eedf63be10": {
+  "instruction": {
+   "Origin": "WICHITA KS 67201",
+   "Destination": "DULUTH MN 55801",
+   "ANSWER": "7.15"
+  }
+ },
+ "336094279c": {
+  "instruction": {
+   "Destination": "58282",
+   "Origin": "ASHLAND NH",
+   "ANSWER": "7.15"
+  }
+ },
+ "ca5cc9cb78": {
+  "instruction": {
+   "Destination": "PENSACOLA FL",
+   "Origin": "80120",
+   "ANSWER": "7.15"
+  }
+ },
+ "915d6ba2a3": {
+  "instruction": {
+   "Destination": "NEWPORT RI 02840",
+   "Origin": "AUSTIN TX 78701",
+   "ANSWER": "7.15"
+  }
+ },
+ "ed1438af04": {
+  "instruction": {
+   "Destination": "Ada, OK",
+   "Origin": "Pueblo, CO",
+   "ANSWER": "7.15"
+  }
+ },
+ "f73ba8a97d": {
+  "instruction": {
+   "Origin": "90210",
+   "Destination": "35801",
+   "ANSWER": "53.45"
+  }
+ },
+ "67f8dace51": {
+  "instruction": {
+   "Origin": "94558",
+   "Destination": "55402",
+   "ANSWER": "$7.15"
+  }
+ },
+ "5505815af0": {
+  "instruction": {
+   "Origin": "10005",
+   "Destination": "07002",
+   "ANSWER": "$7.15"
+  }
+ },
+ "846e7c5c31": {
+  "instruction": {
+   "Destination": "Dallas, TX",
+   "Origin": "Tempe, AZ",
+   "ANSWER": "7.15"
+  }
+ },
+ "02aa98c6b7": {
+  "instruction": {
+   "Destination": "72217",
+   "Origin": "99524",
+   "ANSWER": "54.90"
+  }
+ },
+ "f0af1f8aa9": {
+  "instruction": {
+   "Origin": "99501",
+   "Destination": "85001",
+   "ANSWER": "54.90"
+  }
+ },
+ "81878173bc": {
+  "instruction": {
+   "Destination": "11365",
+   "Origin": "01876",
+   "ANSWER": "$7.15"
+  }
+ },
+ "b872fe0489": {
+  "instruction": {
+   "Origin": "35801",
+   "Destination": "ANCHORAGE AK",
+   "ANSWER": "7.15"
+  }
+ },
+ "abdf1cc899": {
+  "instruction": {
+   "Origin": "ALBUQUERQUE, NM",
+   "Destination": "NEW YORK, NY",
+   "ANSWER": "$7.15"
+  }
+ },
+ "6af8cc9150": {
+  "instruction": {
+   "Origin": "18064",
+   "Destination": "32708",
+   "ANSWER": "$7.15"
+  }
+ },
+ "e1980c73b1": {
+  "instruction": {
+   "Origin": "Phoenix, AZ",
+   "Destination": "Flint, MI",
+   "ANSWER": "7.15"
+  }
+ },
+ "e5f58a8733": {
+  "instruction": {
+   "Origin": "59002",
+   "Destination": "10028",
+   "ANSWER": "$7.15"
+  }
+ },
+ "2f595dd3eb": {
+  "instruction": {
+   "Destination": "72201",
+   "Origin": "85001",
+   "ANSWER": "50.50"
+  }
+ },
+ "db3663b3f4": {
+  "instruction": {
+   "Origin": "91945",
+   "Destination": "75001",
+   "ANSWER": "$7.15"
+  }
+ },
+ "f85cdcfde6": {
+  "instruction": {
+   "Origin": "CAMDEN SC 29020",
+   "Destination": "NEW YORK NY 10001",
+   "ANSWER": "7.15"
+  }
+ },
+ "d1d58b6b4a": {
+  "instruction": {
+   "Origin": "48127",
+   "Destination": "60606",
+   "ANSWER": "$7.15"
+  }
+ },
+ "b2b94f0a12": {
+  "instruction": {
+   "Destination": "07001",
+   "Origin": "10018",
+   "ANSWER": "$7.15"
+  }
+ },
+ "effaca24a1": {
+  "instruction": {
+   "Destination": "DULUTH MN 55801",
+   "Origin": "WICHITA KS 67201",
+   "ANSWER": "7.15"
+  }
+ },
+ "09f430bb09": {
+  "instruction": {
+   "Origin": "60649",
+   "Destination": "33018",
+   "ANSWER": "$7.15"
+  }
+ },
+ "0cbd1b9eae": {
+  "instruction": {
+   "Destination": "10001",
+   "Origin": "48103",
+   "ANSWER": "$7.15"
+  }
+ },
+ "53946b8784": {
+  "instruction": {
+   "Destination": "68763",
+   "Origin": "68655",
+   "ANSWER": "23.85"
+  }
+ },
+ "8eba2e7360": {
+  "instruction": {
+   "Origin": "85001",
+   "Destination": "72201",
+   "ANSWER": "50.50"
+  }
+ },
+ "be6ccce65e": {
+  "instruction": {
+   "Destination": "06101",
+   "Origin": "Knoxville, TN"
+  }
+ },
+ "ad669fd4fe": {
+  "instruction": {
+   "Origin": "94203 ",
+   "Destination": "90213",
+   "ANSWER": "39.20"
+  }
+ },
+ "f65febc43b": {
+  "instruction": {
+   "Origin": "SAN DIEGO CA 92101",
+   "Destination": "CHICAGO IL 60601",
+   "ANSWER": "7.15"
+  }
+ },
+ "a0284e73ea": {
+  "instruction": {
+   "Origin": "77001",
+   "Destination": "63101",
+   "ANSWER": "$7.15"
+  }
+ },
+ "226afe14c0": {
+  "instruction": {
+   "Origin": "Seattle, WA",
+   "Destination": " Detroit, MI",
+   "ANSWER": "7.15"
+  }
+ },
+ "dcd27b1a94": {
+  "instruction": {
+   "Destination": "49036",
+   "Origin": "Detroit, MI"
+  }
+ },
+ "bccc1cf399": {
+  "instruction": {
+   "Destination": "MILWAUKEE WI 53201",
+   "Origin": "BILOXI MS 39530",
+   "ANSWER": "7.15"
+  }
+ },
+ "adae989f6f": {
+  "instruction": {
+   "Destination": "49505",
+   "Origin": "10012",
+   "ANSWER": "7.15"
+  }
+ },
+ "6ed384dc0c": {
+  "instruction": {
+   "Destination": "27007",
+   "Origin": "75001",
+   "ANSWER": "$7.15"
+  }
+ },
+ "2e1a341e17": {
+  "instruction": {
+   "Destination": "MIAMI, FL",
+   "Origin": "SEATTLE, WA",
+   "ANSWER": "$7.15"
+  }
+ },
+ "c3bd614d55": {
+  "instruction": {
+   "Origin": "48103",
+   "Destination": "10001",
+   "ANSWER": "$7.15"
+  }
+ },
+ "cc0e9f374a": {
+  "instruction": {
+   "Origin": "ALBUQUERQUE, NM",
+   "Destination": "AUSTIN, TX",
+   "ANSWER": "$7.15"
+  }
+ },
+ "c5ec4ae67e": {
+  "instruction": {
+   "Origin": "10012",
+   "Destination": "48555",
+   "ANSWER": "7.15"
+  }
+ },
+ "256bea5752": {
+  "instruction": {
+   "Origin": "ALBUQUERQUE, NM",
+   "Destination": "MIAMI, FL",
+   "ANSWER": "$7.15"
+  }
+ },
+ "419fa06cca": {
+  "instruction": {
+   "Origin": "ALBUQUERQUE, NM",
+   "Destination": "LOS ANGELES, CA",
+   "ANSWER": "$7.15"
+  }
+ },
+ "20bb902faa": {
+  "instruction": {
+   "Origin": "10012",
+   "Destination": "72002",
+   "ANSWER": "7.15"
+  }
+ },
+ "4db43b2f6c": {
+  "instruction": {
+   "Destination": " Detroit, MI",
+   "Origin": "Seattle, WA",
+   "ANSWER": "7.15"
+  }
+ },
+ "94bf044496": {
+  "instruction": {
+   "Destination": "BOISE ID 83702",
+   "Origin": "TAMPA FL 33602",
+   "ANSWER": "7.15"
+  }
+ },
+ "18f9e6dd42": {
+  "instruction": {
+   "Destination": "55402",
+   "Origin": "94558",
+   "ANSWER": "$7.15"
+  }
+ },
+ "1a938fa155": {
+  "instruction": {
+   "Destination": "07002",
+   "Origin": "10005",
+   "ANSWER": "$7.15"
+  }
+ },
+ "008ee5000f": {
+  "instruction": {
+   "Origin": "10012",
+   "Destination": "75126",
+   "ANSWER": "7.15"
+  }
+ },
+ "7a88f377f5": {
+  "instruction": {
+   "Destination": "29575",
+   "Origin": "10012",
+   "ANSWER": "7.15"
+  }
+ },
+ "2d679292c3": {
+  "instruction": {
+   "Destination": "60606",
+   "Origin": "48127",
+   "ANSWER": "$7.15"
+  }
+ },
+ "3717b13539": {
+  "instruction": {
+   "Destination": "90213",
+   "Origin": "94203 ",
+   "ANSWER": "39.20"
+  }
+ },
+ "f18d23fd69": {
+  "instruction": {
+   "Destination": "27540",
+   "Origin": "54403",
+   "ANSWER": "$7.15"
+  }
+ },
+ "21ccc47da6": {
+  "instruction": {
+   "Destination": "68620",
+   "Origin": "06101",
+   "ANSWER": "50.50"
+  }
+ },
+ "3b0fde4ae3": {
+  "instruction": {
+   "Origin": "99524",
+   "Destination": "72217",
+   "ANSWER": "54.90"
+  }
+ },
+ "e1e7e5e75f": {
+  "instruction": {
+   "Destination": "73120",
+   "Origin": "90210",
+   "ANSWER": "7.15"
+  }
+ },
+ "599a4ef478": {
+  "instruction": {
+   "Destination": "HUNTSVILLE AL",
+   "Origin": "LOS ANGELES CA",
+   "ANSWER": "7.15"
+  }
+ },
+ "6acca38308": {
+  "instruction": {
+   "Origin": "10001",
+   "Destination": "46077",
+   "ANSWER": "$7.15"
+  }
+ },
+ "ef7dae8530": {
+  "instruction": {
+   "Origin": "82005",
+   "Destination": "94262",
+   "ANSWER": "$7.15"
+  }
+ },
+ "d1fe4f6847": {
+  "instruction": {
+   "Origin": "Alamosa, CO",
+   "Destination": "Tulsa, OK",
+   "ANSWER": "7.15"
+  }
+ },
+ "695ad92e7e": {
+  "instruction": {
+   "type of package": "Flat",
+   "postal variances": "Mixed ADC",
+   "weight": "4"
+  }
+ },
+ "d0c7506f97": {
+  "instruction": {
+   "Destination": "35801",
+   "Origin": "90210",
+   "ANSWER": "53.45"
+  }
+ },
+ "cb280ffbe7": {
+  "instruction": {
+   "Destination": "San Diego, CA",
+   "Origin": "Phoenix, AZ",
+   "ANSWER": "7.15"
+  }
+ },
+ "bfed6b150d": {
+  "instruction": {
+   "type of package": "Letter",
+   "postal variances": "5-Digit",
+   "weight": "3"
+  }
+ },
+ "2856de8538": {
+  "instruction": {
+   "Destination": "48108",
+   "Origin": "10012",
+   "ANSWER": "7.15"
+  }
+ },
+ "be3fbb0fc5": {
+  "instruction": {
+   "Destination": "96807",
+   "Origin": "06101",
+   "ANSWER": "54.90"
+  }
+ },
+ "a035bcbb8f": {
+  "instruction": {
+   "Origin": "BILOXI MS 39530",
+   "Destination": "MILWAUKEE WI 53201",
+   "ANSWER": "7.15"
+  }
+ },
+ "4ff880cbd2": {
+  "instruction": {
+   "Origin": "Detroit, MI",
+   "Destination": "49036"
+  }
+ },
+ "7d5b9e0d45": {
+  "instruction": {
+   "Destination": "29409",
+   "Origin": "10012",
+   "ANSWER": "7.15"
+  }
+ },
+ "e6ae197d67": {
+  "instruction": {
+   "Destination": "MIAMI, FL",
+   "Origin": "ALBUQUERQUE, NM",
+   "ANSWER": "$7.15"
+  }
+ },
+ "36fd5e1a08": {
+  "instruction": {
+   "Destination": "NEW ORLEANS LA 70112",
+   "Origin": "BOSTON MA 02101",
+   "ANSWER": "7.15"
+  }
+ },
+ "f80ee25c9a": {
+  "instruction": {
+   "Origin": "DES MOINES IA",
+   "Destination": "BALTIMORE MD",
+   "ANSWER": "7.15"
+  }
+ },
+ "75009e3a93": {
+  "instruction": {
+   "Destination": "99524",
+   "Origin": "99501 ",
+   "ANSWER": "23.85"
+  }
+ },
+ "2e6940c05f": {
+  "instruction": {
+   "Origin": "SEATTLE, WA",
+   "Destination": "MIAMI, FL",
+   "ANSWER": "$7.15"
+  }
+ },
+ "0413525580": {
+  "instruction": {
+   "Origin": "Kansas City, MO",
+   "Destination": "Washington, DC"
+  }
+ },
+ "b8450f4578": {
+  "instruction": {
+   "Origin": "15146",
+   "Destination": "30274",
+   "ANSWER": "$7.15"
+  }
+ },
+ "386be2e2e3": {
+  "instruction": {
+   "Destination": "ALBUQUERQUE, NM",
+   "Origin": "LOS ANGELES, CA",
+   "ANSWER": "$7.15"
+  }
+ },
+ "22e707700a": {
+  "instruction": {
+   "Origin": "Miami, FL",
+   "Destination": "Akron, OH",
+   "ANSWER": "7.15"
+  }
+ },
+ "e683cf46bf": {
+  "instruction": {
+   "Origin": "10012",
+   "Destination": "48127",
+   "ANSWER": "7.15"
+  }
+ },
+ "b327446c51": {
+  "instruction": {
+   "Origin": "SANTA FE NM 87500",
+   "Destination": "LAUREL MT 59044",
+   "ANSWER": "7.15"
+  }
+ },
+ "460b5e3038": {
+  "instruction": {
+   "Destination": "40502",
+   "Origin": "33018",
+   "ANSWER": "$7.15"
+  }
+ },
+ "da82ad4ffa": {
+  "instruction": {
+   "Origin": "37421",
+   "Destination": "01803",
+   "ANSWER": "$7.15"
+  }
+ },
+ "4a811ddd17": {
+  "instruction": {
+   "Origin": "45342",
+   "Destination": "58102",
+   "ANSWER": "$7.15"
+  }
+ },
+ "00b737f5c4": {
+  "instruction": {
+   "Origin": "DAVENPORT IA",
+   "Destination": "FREEPORT ME",
+   "ANSWER": "7.15"
+  }
+ },
+ "909e7a14cf": {
+  "instruction": {
+   "Destination": "AUSTIN, TX",
+   "Origin": "ALBUQUERQUE, NM",
+   "ANSWER": "$7.15"
+  }
+ },
+ "029083cd59": {
+  "instruction": {
+   "Origin": "11368",
+   "Destination": "32034",
+   "ANSWER": "$7.15"
+  }
+ },
+ "cd4f27aa99": {
+  "instruction": {
+   "Origin": "84322",
+   "Destination": "Chicago, IL"
+  }
+ },
+ "0168c82d67": {
+  "instruction": {
+   "Destination": "Beverly Hills, CA",
+   "Origin": "San Bruno, CA",
+   "ANSWER": "$7.15"
+  }
+ },
+ "02bf84c329": {
+  "instruction": {
+   "Destination": "01803",
+   "Origin": "37421",
+   "ANSWER": "$7.15"
+  }
+ },
+ "278499c843": {
+  "instruction": {
+   "Destination": "75126",
+   "Origin": "10012",
+   "ANSWER": "7.15"
+  }
+ },
+ "d448fafdee": {
+  "instruction": {
+   "Destination": "Atlanta, GA",
+   "Origin": "05751"
+  }
+ },
+ "9abf42d27e": {
+  "instruction": {
+   "Origin": "Miami, FL",
+   "Destination": "Wichita, KS"
+  }
+ },
+ "0a297b1bd4": {
+  "instruction": {
+   "Destination": "72701",
+   "Origin": "10012",
+   "ANSWER": "7.15"
+  }
+ },
+ "c552237767": {
+  "instruction": {
+   "Origin": "90291",
+   "Destination": "77001",
+   "ANSWER": "$7.15"
+  }
+ },
+ "7cde598fad": {
+  "instruction": {
+   "Origin": "ANNAPOLIS MD 21401",
+   "Destination": "DAMASCUS,MD 20872",
+   "ANSWER": "7.15"
+  }
+ },
+ "c2e09b076b": {
+  "instruction": {
+   "Destination": "Flint, MI",
+   "Origin": "Phoenix, AZ",
+   "ANSWER": "7.15"
+  }
+ },
+ "76051c4495": {
+  "instruction": {
+   "Origin": "AURORA, CO",
+   "Destination": "HENDERSON, NV",
+   "ANSWER": "$7.15"
+  }
+ },
+ "2755beccaf": {
+  "instruction": {
+   "Destination": "Wichita, KS",
+   "Origin": "Miami, FL"
+  }
+ },
+ "7eef586aa6": {
+  "instruction": {
+   "Destination": "MIAMI FAL33124",
+   "Origin": "ATLANTA GA 30303",
+   "ANSWER": "7.15"
+  }
+ },
+ "4bc0c55084": {
+  "instruction": {
+   "Origin": "52001",
+   "Destination": "52240",
+   "ANSWER": "$7.15"
+  }
+ },
+ "d1837c2a84": {
+  "instruction": {
+   "Destination": "32708",
+   "Origin": "18064",
+   "ANSWER": "$7.15"
+  }
+ },
+ "e3f33ae4fc": {
+  "instruction": {
+   "Origin": "54403",
+   "Destination": "34653",
+   "ANSWER": "$7.15"
+  }
+ },
+ "1473ab88d2": {
+  "instruction": {
+   "Destination": "DAMASCUS,MD 20872",
+   "Origin": "ANNAPOLIS MD 21401",
+   "ANSWER": "7.15"
+  }
+ },
+ "22af671162": {
+  "instruction": {
+   "Destination": "30274",
+   "Origin": "15146",
+   "ANSWER": "$7.15"
+  }
+ },
+ "f91be6d517": {
+  "instruction": {
+   "Destination": "Washington, DC",
+   "Origin": "Kansas City, MO"
+  }
+ },
+ "f9fc41ec1d": {
+  "instruction": {
+   "Destination": "ANCHORAGE AK",
+   "Origin": "35801",
+   "ANSWER": "7.15"
+  }
+ },
+ "0f8f4a2d86": {
+  "instruction": {
+   "Origin": "10012",
+   "Destination": "72701",
+   "ANSWER": "7.15"
+  }
+ },
+ "b7c80eea42": {
+  "instruction": {
+   "Destination": "CHICAGO IL 60601",
+   "Origin": "SAN DIEGO CA 92101",
+   "ANSWER": "7.15"
+  }
+ },
+ "a255df3498": {
+  "instruction": {
+   "Destination": "FREEPORT ME",
+   "Origin": "DAVENPORT IA",
+   "ANSWER": "7.15"
+  }
+ },
+ "0305e15844": {
+  "instruction": {
+   "Origin": "80120",
+   "Destination": "PENSACOLA FL",
+   "ANSWER": "7.15"
+  }
+ },
+ "17b91048b8": {
+  "instruction": {
+   "Origin": "68655",
+   "Destination": "68763",
+   "ANSWER": "23.85"
+  }
+ },
+ "5d998649c8": {
+  "instruction": {
+   "Destination": "Chicago, IL",
+   "Origin": "84322"
+  }
+ }
+}

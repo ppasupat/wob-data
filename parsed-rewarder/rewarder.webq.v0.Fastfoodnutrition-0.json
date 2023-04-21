@@ -1,0 +1,62 @@
+{
+ "b6f242c278": {
+  "instruction": {
+   "food": "Baked Hot Apple Pie",
+   "restaurant": "McDonalds"
+  }
+ },
+ "1b9db74a66": {
+  "instruction": {
+   "food": "Jr. Bacon Cheeseburger",
+   "restaurant": "Wendy's"
+  }
+ },
+ "7adfd1e0cc": {
+  "instruction": {
+   "food": "7-Layer Burrito",
+   "restaurant": "Taco Bell"
+  }
+ },
+ "dab4d4bd1c": {
+  "instruction": {
+   "food": "Original Recipe Chicken - Breast",
+   "restaurant": "KFC"
+  }
+ },
+ "c553b25b04": {
+  "instruction": {
+   "food": "Double Cheeseburger",
+   "restaurant": "Burger King"
+  }
+ },
+ "c85c0a2a2c": {
+  "instruction": {
+   "food": "Buffalo Chicken Fries",
+   "restaurant": "Burger King"
+  }
+ },
+ "d6415f7d95": {
+  "instruction": {
+   "food": "Arby-Q Sandwich",
+   "restaurant": "Arby's"
+  }
+ },
+ "0420b9a857": {
+  "instruction": {
+   "food": "Big Mac",
+   "restaurant": "McDonalds"
+  }
+ },
+ "67f6d7506d": {
+  "instruction": {
+   "food": "Chocolate Frosty - Small",
+   "restaurant": "Wendy's"
+  }
+ },
+ "b9201901ea": {
+  "instruction": {
+   "food": "Cheesy Gordita Crunch",
+   "restaurant": "Taco Bell"
+  }
+ }
+}

@@ -1,0 +1,1632 @@
+{
+ "6d53183b31": {
+  "instruction": {
+   "state": "MD",
+   "city": "Baltimore",
+   "Home value": "200000",
+   "ANSWER": "3038"
+  }
+ },
+ "9ff73331e9": {
+  "instruction": {
+   "state": "GA",
+   "city": "Johns Creek",
+   "Home value": "800,000",
+   "ANSWER": "$9,152"
+  }
+ },
+ "dfc1ad8cbc": {
+  "instruction": {
+   "state": "TX",
+   "Home value": "250000",
+   "city": "Austin"
+  }
+ },
+ "4364656759": {
+  "instruction": {
+   "Home value": "90.000",
+   "state": "CA",
+   "ANSWER": "$854",
+   "city": "Sacramento"
+  }
+ },
+ "8248e85c7c": {
+  "instruction": {
+   "state": "US",
+   "city": "California",
+   "Home value": "250,000",
+   "ANSWER": "2,033"
+  }
+ },
+ "ab4ab5ae68": {
+  "instruction": {
+   "state": "OH",
+   "city": "Akron",
+   "Home value": "200000",
+   "ANSWER": "3534"
+  }
+ },
+ "12aaa14deb": {
+  "instruction": {
+   "Home value": "720,000",
+   "state": "TX",
+   "ANSWER": "15,646",
+   "city": "Balch Springs"
+  }
+ },
+ "df3d258076": {
+  "instruction": {
+   "state": "CO",
+   "city": "Ohio City",
+   "Home value": "250,000",
+   "ANSWER": "945"
+  }
+ },
+ "863847cf38": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "CO",
+   "ANSWER": "945",
+   "city": "Ohio City"
+  }
+ },
+ "e02a3ecc60": {
+  "instruction": {
+   "location": "Chicago, IL",
+   "filling status": "Married",
+   "household income": "23444"
+  }
+ },
+ "7f2e70380b": {
+  "instruction": {
+   "location": "Indianapolis, IN",
+   "filling status": "Single",
+   "household income": "55000"
+  }
+ },
+ "02e8169d76": {
+  "instruction": {
+   "state": "ky",
+   "city": "louisville",
+   "Home value": "750000",
+   "ANSWER": "7058"
+  }
+ },
+ "4fdbb36cd0": {
+  "instruction": {
+   "Home value": "800000",
+   "state": "MS",
+   "ANSWER": "5264",
+   "city": "Tippah County"
+  }
+ },
+ "adfb4a43f8": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "US",
+   "ANSWER": "2,175",
+   "city": "Montana"
+  }
+ },
+ "10dc0f82c2": {
+  "instruction": {
+   "state": "NY",
+   "city": "Florida",
+   "Home value": "250,000",
+   "ANSWER": "5,940"
+  }
+ },
+ "2bc128caf8": {
+  "instruction": {
+   "state": "CT",
+   "city": "Washington Depot",
+   "Home value": "415,000",
+   "ANSWER": "$7,283"
+  }
+ },
+ "7b1f803f89": {
+  "instruction": {
+   "Home value": "100000",
+   "city": "Richmond",
+   "state": "VA"
+  }
+ },
+ "c110dd648f": {
+  "instruction": {
+   "Home value": "800,000",
+   "state": "GA",
+   "ANSWER": "$9,152",
+   "city": "Johns Creek"
+  }
+ },
+ "426a341b91": {
+  "instruction": {
+   "state": "WA",
+   "Home value": "350000",
+   "city": "Seattle"
+  }
+ },
+ "43225b882a": {
+  "instruction": {
+   "Home value": "300,000",
+   "state": "CA",
+   "ANSWER": "2049",
+   "city": "San Francisco"
+  }
+ },
+ "548f20cbe8": {
+  "instruction": {
+   "Home value": "540000",
+   "state": "CA",
+   "ANSWER": "4676",
+   "city": "Albany"
+  }
+ },
+ "f500f32956": {
+  "instruction": {
+   "state": "TX",
+   "Home value": "200000",
+   "city": "Dallas"
+  }
+ },
+ "6285f5963a": {
+  "instruction": {
+   "state": "US",
+   "city": "Montana",
+   "Home value": "250,000",
+   "ANSWER": "2,175"
+  }
+ },
+ "185f8f118c": {
+  "instruction": {
+   "state": "CA",
+   "city": "Cupertino",
+   "Home value": "200000",
+   "ANSWER": "1588"
+  }
+ },
+ "824453a2a4": {
+  "instruction": {
+   "Home value": "800000",
+   "state": "New York",
+   "ANSWER": "21,976",
+   "city": "Syracuse"
+  }
+ },
+ "49d4c90918": {
+  "instruction": {
+   "Home value": "100000",
+   "state": "CA",
+   "city": "Oakland"
+  }
+ },
+ "9b74289506": {
+  "instruction": {
+   "Home value": "350000",
+   "city": "Seattle",
+   "state": "WA"
+  }
+ },
+ "f86ab571ca": {
+  "instruction": {
+   "Home value": "300000",
+   "state": "New York",
+   "ANSWER": "8,247",
+   "city": "Corning"
+  }
+ },
+ "d66c4160e5": {
+  "instruction": {
+   "state": "WA",
+   "city": "Seattle",
+   "Home value": "350.000",
+   "ANSWER": "$3,587"
+  }
+ },
+ "246ae6bdf3": {
+  "instruction": {
+   "Home value": "100.000",
+   "state": "CA",
+   "ANSWER": "$793",
+   "city": "Torrance"
+  }
+ },
+ "54ce80c55a": {
+  "instruction": {
+   "Home value": "189000",
+   "city": "Casper   ",
+   "state": "WY"
+  }
+ },
+ "6dfae6eb69": {
+  "instruction": {
+   "Home value": "300,000",
+   "state": "NY",
+   "ANSWER": "8,169",
+   "city": "Buffalo"
+  }
+ },
+ "0048ff68f2": {
+  "instruction": {
+   "Home value": "200000",
+   "state": "OH",
+   "ANSWER": "3534",
+   "city": "Akron"
+  }
+ },
+ "1427b1306a": {
+  "instruction": {
+   "Home value": "500,000",
+   "state": "KY",
+   "ANSWER": "$3,245",
+   "city": "Jeremiah"
+  }
+ },
+ "5ada5d0a69": {
+  "instruction": {
+   "state": "SD",
+   "Home value": "750000",
+   "city": "Sioux Falls"
+  }
+ },
+ "2a373c8e21": {
+  "instruction": {
+   "state": "AK",
+   "city": "Anchor Point",
+   "Home value": "590000",
+   "ANSWER": "4,337"
+  }
+ },
+ "0208405884": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "US",
+   "ANSWER": "2,690",
+   "city": "Oregon"
+  }
+ },
+ "24ac0aec87": {
+  "instruction": {
+   "state": "LA",
+   "city": "Baton Rouge",
+   "Home value": "200000",
+   "ANSWER": "1072"
+  }
+ },
+ "dca9a8821f": {
+  "instruction": {
+   "Home value": "395,000",
+   "state": "PA",
+   "ANSWER": "$6,288",
+   "city": "Washington Boro"
+  }
+ },
+ "78887b7e97": {
+  "instruction": {
+   "state": "US",
+   "city": "Washington",
+   "Home value": "250,000",
+   "ANSWER": "2,708"
+  }
+ },
+ "441d03bd5d": {
+  "instruction": {
+   "state": "OH",
+   "Home value": "400000",
+   "city": "Cincinnati "
+  }
+ },
+ "3d6994d4a3": {
+  "instruction": {
+   "state": "CA",
+   "city": "Los Angeles",
+   "Home value": "250,000",
+   "ANSWER": "1983"
+  }
+ },
+ "9f60a77a3a": {
+  "instruction": {
+   "state": "US",
+   "city": "Ohio",
+   "Home value": "250,000",
+   "ANSWER": "3,883"
+  }
+ },
+ "ab4a22524d": {
+  "instruction": {
+   "state": "NY",
+   "city": "New York",
+   "Home value": "1550000",
+   "ANSWER": "39,634"
+  }
+ },
+ "99ed874516": {
+  "instruction": {
+   "Home value": "200000",
+   "state": "NJ",
+   "ANSWER": "4468",
+   "city": "Jersey City"
+  }
+ },
+ "608ee37fd6": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "US",
+   "ANSWER": "3,883",
+   "city": "Ohio"
+  }
+ },
+ "283682110c": {
+  "instruction": {
+   "state": "ca",
+   "city": "hayward",
+   "Home value": "600000",
+   "ANSWER": "2165"
+  }
+ },
+ "ed7b6dce45": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "LA",
+   "city": "Houma"
+  }
+ },
+ "d1cb99cd1f": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "US",
+   "ANSWER": "2,708",
+   "city": "Washington"
+  }
+ },
+ "9d2db95a1d": {
+  "instruction": {
+   "state": "NJ",
+   "city": "Jersey City",
+   "Home value": "200000",
+   "ANSWER": "4468"
+  }
+ },
+ "8c37755947": {
+  "instruction": {
+   "Home value": "300,000",
+   "state": "NY",
+   "ANSWER": "7,128",
+   "city": "Florida"
+  }
+ },
+ "22173bb651": {
+  "instruction": {
+   "state": "fl",
+   "city": "orlando",
+   "Home value": "230000",
+   "ANSWER": "2714"
+  }
+ },
+ "213f56b19f": {
+  "instruction": {
+   "Home value": "750000",
+   "city": "Sioux Falls",
+   "state": "SD"
+  }
+ },
+ "877bc05502": {
+  "instruction": {
+   "Home value": "600,000",
+   "state": "LA",
+   "ANSWER": "$4,440",
+   "city": "New Orleans"
+  }
+ },
+ "e2a68a7156": {
+  "instruction": {
+   "state": "PA",
+   "city": "New Albany",
+   "Home value": "750,000",
+   "ANSWER": "$9,510"
+  }
+ },
+ "5b0af6b6e0": {
+  "instruction": {
+   "Home value": "250000",
+   "state": "New York",
+   "ANSWER": "4,993",
+   "city": "Albany"
+  }
+ },
+ "e363b76d9b": {
+  "instruction": {
+   "Home value": "1550000",
+   "state": "NY",
+   "ANSWER": "39,634",
+   "city": "New York"
+  }
+ },
+ "cff64b5e5c": {
+  "instruction": {
+   "location": "San Diego, CA",
+   "filling status": "Married",
+   "household income": "371731"
+  }
+ },
+ "62023bad0a": {
+  "instruction": {
+   "state": "US",
+   "city": "Mississippi",
+   "Home value": "250,000",
+   "ANSWER": "1,960"
+  }
+ },
+ "038eb6ecd7": {
+  "instruction": {
+   "Home value": "675000",
+   "city": "Butte",
+   "state": "MT"
+  }
+ },
+ "7649fc67ac": {
+  "instruction": {
+   "state": "CO",
+   "city": "Ohio City",
+   "Home value": "300,000",
+   "ANSWER": "1,134"
+  }
+ },
+ "caa7716b3b": {
+  "instruction": {
+   "state": "New York",
+   "city": "White Plains",
+   "Home value": "700000",
+   "ANSWER": "13,748"
+  }
+ },
+ "39beedd833": {
+  "instruction": {
+   "Home value": "750,000",
+   "state": "PA",
+   "ANSWER": "$9,510",
+   "city": "New Albany"
+  }
+ },
+ "281f0b1137": {
+  "instruction": {
+   "state": "New York",
+   "city": "Watervliet\t",
+   "Home value": "400000",
+   "ANSWER": "7,988"
+  }
+ },
+ "2e24820560": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "US",
+   "ANSWER": "1,088",
+   "city": "Alabama"
+  }
+ },
+ "c7fb845240": {
+  "instruction": {
+   "state": "NM",
+   "city": "Las Vegas",
+   "Home value": "295,000",
+   "ANSWER": "$1,661"
+  }
+ },
+ "524039e9d1": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "US",
+   "ANSWER": "1,993",
+   "city": "Virginia"
+  }
+ },
+ "b5b371af4b": {
+  "instruction": {
+   "Home value": "300,000",
+   "state": "CO",
+   "ANSWER": "1,134",
+   "city": "Ohio City"
+  }
+ },
+ "5b2b881ef6": {
+  "instruction": {
+   "Home value": "250000",
+   "state": "nv",
+   "ANSWER": "2220",
+   "city": "reno "
+  }
+ },
+ "30c0135789": {
+  "instruction": {
+   "Home value": "250.000",
+   "state": "CA",
+   "ANSWER": "$1,708",
+   "city": "San Francisco"
+  }
+ },
+ "3329e6e66c": {
+  "instruction": {
+   "Home value": "1,020,000",
+   "state": "MD",
+   "ANSWER": "8466",
+   "city": "Pasadena "
+  }
+ },
+ "6bcf389668": {
+  "instruction": {
+   "state": "CO",
+   "city": "Boulder",
+   "Home value": "200000",
+   "ANSWER": "1282"
+  }
+ },
+ "25dfd63ddf": {
+  "instruction": {
+   "Home value": "100,000",
+   "state": "LA",
+   "city": "New Orleans"
+  }
+ },
+ "7c77a42207": {
+  "instruction": {
+   "state": "New York",
+   "city": "Buffalo",
+   "Home value": "400000",
+   "ANSWER": "10,892"
+  }
+ },
+ "1884571f5b": {
+  "instruction": {
+   "Home value": "200000",
+   "city": "Dallas",
+   "state": "TX"
+  }
+ },
+ "1b15bf31fc": {
+  "instruction": {
+   "state": "CA",
+   "Home value": "250,000",
+   "city": "San Francisco"
+  }
+ },
+ "e14a497097": {
+  "instruction": {
+   "Home value": "400.000",
+   "state": "CA",
+   "ANSWER": "$3,172",
+   "city": "Los Angeles "
+  }
+ },
+ "4b5c2ee17f": {
+  "instruction": {
+   "state": "US",
+   "city": "Tennessee",
+   "Home value": "250,000",
+   "ANSWER": "1,870"
+  }
+ },
+ "8f84ecdd59": {
+  "instruction": {
+   "Home value": "200000",
+   "state": "MD",
+   "ANSWER": "3038",
+   "city": "Baltimore"
+  }
+ },
+ "9ba723b86e": {
+  "instruction": {
+   "Home value": "200000",
+   "state": "CA",
+   "ANSWER": "1586",
+   "city": "Los Angeles"
+  }
+ },
+ "db51d62b57": {
+  "instruction": {
+   "state": "NC",
+   "city": "Wilsons Mills",
+   "Home value": "1,050,000",
+   "ANSWER": "9,293"
+  }
+ },
+ "8cc2343174": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "LA",
+   "city": "Baton Rouge"
+  }
+ },
+ "d57c0c8a55": {
+  "instruction": {
+   "state": "NY",
+   "city": "Buffalo",
+   "Home value": "300,000",
+   "ANSWER": "8,169"
+  }
+ },
+ "fa75e7c469": {
+  "instruction": {
+   "Home value": "300,000",
+   "state": "CA",
+   "ANSWER": "2379",
+   "city": "Los Angeles"
+  }
+ },
+ "e283f13778": {
+  "instruction": {
+   "state": "PA",
+   "city": "Washington Boro",
+   "Home value": "395,000",
+   "ANSWER": "$6,288"
+  }
+ },
+ "3d812fb4f5": {
+  "instruction": {
+   "state": "NY",
+   "Home value": "1250000",
+   "city": "New York"
+  }
+ },
+ "3834a5ffc6": {
+  "instruction": {
+   "state": "CA",
+   "city": "San Francisco",
+   "Home value": "250.000",
+   "ANSWER": "$1,708"
+  }
+ },
+ "8e0539ee29": {
+  "instruction": {
+   "Home value": "650,000",
+   "state": "NC",
+   "ANSWER": "$5,077",
+   "city": "Sophia"
+  }
+ },
+ "8e4bc52f7e": {
+  "instruction": {
+   "location": "Miami, FL",
+   "filling status": "Single",
+   "household income": "500000"
+  }
+ },
+ "43d4e0cc00": {
+  "instruction": {
+   "state": "ga",
+   "city": "gainsville ",
+   "Home value": "540000",
+   "ANSWER": "4757"
+  }
+ },
+ "8c15e1c8bb": {
+  "instruction": {
+   "Home value": "355,000",
+   "state": "OH",
+   "ANSWER": "$5,378",
+   "city": "Austintown"
+  }
+ },
+ "0c2e5a43fa": {
+  "instruction": {
+   "state": "KY",
+   "city": "Bailey Switch",
+   "Home value": "680000",
+   "ANSWER": "4665"
+  }
+ },
+ "b5f52bf149": {
+  "instruction": {
+   "state": "CA",
+   "Home value": "250,225",
+   "city": "Los Angeles"
+  }
+ },
+ "c86368e929": {
+  "instruction": {
+   "state": "New York",
+   "city": "Rochester",
+   "Home value": "700000",
+   "ANSWER": "21,756"
+  }
+ },
+ "0ae676d51a": {
+  "instruction": {
+   "state": "LA",
+   "Home value": "250,000",
+   "city": "Houma"
+  }
+ },
+ "a7fc3dfb7a": {
+  "instruction": {
+   "state": "MT",
+   "Home value": "675000",
+   "city": "Butte"
+  }
+ },
+ "ad40d6e285": {
+  "instruction": {
+   "state": "WV",
+   "city": "Kentuck",
+   "Home value": "320,000",
+   "ANSWER": "$1,837"
+  }
+ },
+ "d1cf328e9c": {
+  "instruction": {
+   "state": "LA",
+   "Home value": "100,000",
+   "city": "New Orleans"
+  }
+ },
+ "72a67c6000": {
+  "instruction": {
+   "Home value": "936,000",
+   "state": "WA",
+   "ANSWER": "11,054",
+   "city": "Pasco"
+  }
+ },
+ "ff854c202a": {
+  "instruction": {
+   "Home value": "320,000",
+   "state": "WV",
+   "ANSWER": "$1,837",
+   "city": "Kentuck"
+  }
+ },
+ "3d78677502": {
+  "instruction": {
+   "Home value": "415,000",
+   "state": "CT",
+   "ANSWER": "$7,283",
+   "city": "Washington Depot"
+  }
+ },
+ "f4dba65511": {
+  "instruction": {
+   "state": "CA",
+   "city": "Sacramento",
+   "Home value": "90.000",
+   "ANSWER": "$854"
+  }
+ },
+ "ebac3440b0": {
+  "instruction": {
+   "Home value": "400000",
+   "state": "New York",
+   "ANSWER": "7,988",
+   "city": "Watervliet\t"
+  }
+ },
+ "3ecfdf299c": {
+  "instruction": {
+   "state": "US",
+   "city": "South Carolina",
+   "Home value": "250,000",
+   "ANSWER": "1,435"
+  }
+ },
+ "2436bd3b74": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "US",
+   "ANSWER": "1,870",
+   "city": "Tennessee"
+  }
+ },
+ "6d74c3f185": {
+  "instruction": {
+   "Home value": "150.000",
+   "state": "AR",
+   "ANSWER": "$804",
+   "city": "Cleveland"
+  }
+ },
+ "2bd5f41c37": {
+  "instruction": {
+   "Home value": "200000",
+   "state": "New York",
+   "ANSWER": "6,074",
+   "city": "Lockport"
+  }
+ },
+ "ba493ddf6a": {
+  "instruction": {
+   "state": "AZ",
+   "city": "Goodyear",
+   "Home value": "340.000",
+   "ANSWER": "$ 2,005"
+  }
+ },
+ "492a62ffa8": {
+  "instruction": {
+   "state": "New York",
+   "city": "Lockport",
+   "Home value": "200000",
+   "ANSWER": "6,074"
+  }
+ },
+ "b261061141": {
+  "instruction": {
+   "location": "Little Rock, AR",
+   "filling status": "Married",
+   "household income": "250000"
+  }
+ },
+ "3f35190e19": {
+  "instruction": {
+   "Home value": "1500000",
+   "state": "or",
+   "ANSWER": "16875",
+   "city": "portland"
+  }
+ },
+ "ad599441b5": {
+  "instruction": {
+   "Home value": "490,000",
+   "state": "VA",
+   "ANSWER": "2533",
+   "city": "Alum Ridge"
+  }
+ },
+ "a939efaab1": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "US",
+   "ANSWER": "1,960",
+   "city": "Mississippi"
+  }
+ },
+ "6ee26dffff": {
+  "instruction": {
+   "location": "San Antonio, TX",
+   "filling status": "Married",
+   "household income": "75777"
+  }
+ },
+ "5b75109747": {
+  "instruction": {
+   "state": "TX",
+   "Home value": "300,000",
+   "city": "Dallas"
+  }
+ },
+ "a74a93102b": {
+  "instruction": {
+   "state": "ca",
+   "city": "los angeles",
+   "Home value": "500000",
+   "ANSWER": "3965"
+  }
+ },
+ "767a7487a6": {
+  "instruction": {
+   "state": "New York",
+   "city": "Utica",
+   "Home value": "500000",
+   "ANSWER": "12,785"
+  }
+ },
+ "4359b01a5b": {
+  "instruction": {
+   "Home value": "1,050,000",
+   "state": "NC",
+   "ANSWER": "9,293",
+   "city": "Wilsons Mills"
+  }
+ },
+ "33cb2a6202": {
+  "instruction": {
+   "Home value": "700000",
+   "state": "New York",
+   "ANSWER": "13,748",
+   "city": "White Plains"
+  }
+ },
+ "95fe8be087": {
+  "instruction": {
+   "state": "CA",
+   "city": "San Francisco",
+   "Home value": "300,000",
+   "ANSWER": "2049"
+  }
+ },
+ "05ed8b5193": {
+  "instruction": {
+   "state": "CA",
+   "city": "San Francisco",
+   "Home value": "250000",
+   "ANSWER": "1708"
+  }
+ },
+ "9e815559ea": {
+  "instruction": {
+   "state": "nv",
+   "city": "reno ",
+   "Home value": "250000",
+   "ANSWER": "2220"
+  }
+ },
+ "1468e4e002": {
+  "instruction": {
+   "Home value": "680000",
+   "state": "KY",
+   "ANSWER": "4665",
+   "city": "Bailey Switch"
+  }
+ },
+ "f69b2eb161": {
+  "instruction": {
+   "Home value": "540000",
+   "state": "ga",
+   "ANSWER": "4757",
+   "city": "gainsville "
+  }
+ },
+ "7a33413009": {
+  "instruction": {
+   "state": "CA",
+   "Home value": "100000",
+   "city": "Oakland"
+  }
+ },
+ "76f750de26": {
+  "instruction": {
+   "Home value": "200000",
+   "state": "CO",
+   "ANSWER": "1282",
+   "city": "Boulder"
+  }
+ },
+ "4f3f79cd0d": {
+  "instruction": {
+   "Home value": "350000",
+   "state": "New York",
+   "ANSWER": "8,610",
+   "city": "Canandaigua"
+  }
+ },
+ "67f5fc9481": {
+  "instruction": {
+   "state": "CA",
+   "city": "San Francisco",
+   "Home value": "190.000",
+   "ANSWER": "$1,298"
+  }
+ },
+ "ff1227c4a6": {
+  "instruction": {
+   "state": "AK",
+   "city": "Fairbanks",
+   "Home value": "200000",
+   "ANSWER": "2626"
+  }
+ },
+ "355ddf25d1": {
+  "instruction": {
+   "state": "US",
+   "city": "Virginia",
+   "Home value": "250,000",
+   "ANSWER": "1,993"
+  }
+ },
+ "d1dfd1823c": {
+  "instruction": {
+   "state": "WY",
+   "Home value": "189000",
+   "city": "Casper   "
+  }
+ },
+ "923487a990": {
+  "instruction": {
+   "state": "NY",
+   "city": "Buffalo",
+   "Home value": "250,000",
+   "ANSWER": "6,808"
+  }
+ },
+ "c3a10eb5ad": {
+  "instruction": {
+   "Home value": "230000",
+   "state": "fl",
+   "ANSWER": "2714",
+   "city": "orlando"
+  }
+ },
+ "e70ff38d1c": {
+  "instruction": {
+   "state": "CA",
+   "city": "Torrance",
+   "Home value": "100.000",
+   "ANSWER": "$793"
+  }
+ },
+ "445b6fa863": {
+  "instruction": {
+   "state": "CA",
+   "city": "Los Angeles",
+   "Home value": "200000",
+   "ANSWER": "1586"
+  }
+ },
+ "9dcbbf9d39": {
+  "instruction": {
+   "Home value": "1250000",
+   "city": "New York",
+   "state": "NY"
+  }
+ },
+ "d0ada7fcda": {
+  "instruction": {
+   "state": "tx",
+   "city": "austin",
+   "Home value": "1000000",
+   "ANSWER": "19730"
+  }
+ },
+ "404a3960cc": {
+  "instruction": {
+   "state": "FL",
+   "city": "Miami",
+   "Home value": "200000",
+   "ANSWER": "2560"
+  }
+ },
+ "ce4d2fa6b1": {
+  "instruction": {
+   "Home value": "600000",
+   "state": "ca",
+   "ANSWER": "2165",
+   "city": "hayward"
+  }
+ },
+ "ce686f1d37": {
+  "instruction": {
+   "Home value": "530.000",
+   "state": "IL",
+   "ANSWER": "$10,648",
+   "city": "Chicago"
+  }
+ },
+ "2b56ab312c": {
+  "instruction": {
+   "Home value": "300,000",
+   "state": "TX",
+   "city": "Dallas"
+  }
+ },
+ "75972ecf41": {
+  "instruction": {
+   "state": "OK",
+   "Home value": "550000",
+   "city": "Tulsa"
+  }
+ },
+ "baff09ecd6": {
+  "instruction": {
+   "state": "VA",
+   "Home value": "100000",
+   "city": "Richmond"
+  }
+ },
+ "8dcafe2613": {
+  "instruction": {
+   "Home value": "2000000",
+   "state": "ca",
+   "ANSWER": "13660",
+   "city": "san francisco"
+  }
+ },
+ "c02ff14ae3": {
+  "instruction": {
+   "Home value": "250,225",
+   "state": "CA",
+   "city": "Los Angeles"
+  }
+ },
+ "47949871be": {
+  "instruction": {
+   "state": "NY",
+   "city": "Florida",
+   "Home value": "300,000",
+   "ANSWER": "7,128"
+  }
+ },
+ "6240e6f0f3": {
+  "instruction": {
+   "location": "Pomona, IL",
+   "filling status": "Married",
+   "household income": "5000"
+  }
+ },
+ "19d7c4bfbb": {
+  "instruction": {
+   "location": "New York, NY",
+   "filling status": "Single",
+   "household income": "102200"
+  }
+ },
+ "7c765a69eb": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "IL",
+   "city": "Chicago"
+  }
+ },
+ "8144dca5af": {
+  "instruction": {
+   "state": "TX",
+   "city": "Balch Springs",
+   "Home value": "720,000",
+   "ANSWER": "15,646"
+  }
+ },
+ "71fd3f7ceb": {
+  "instruction": {
+   "state": "AR",
+   "city": "Cleveland",
+   "Home value": "150.000",
+   "ANSWER": "$804"
+  }
+ },
+ "ad20f8e270": {
+  "instruction": {
+   "Home value": "500000",
+   "state": "New York",
+   "ANSWER": "12,785",
+   "city": "Utica"
+  }
+ },
+ "3064c05e87": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "CA",
+   "ANSWER": "1983",
+   "city": "Los Angeles"
+  }
+ },
+ "3d07eb303d": {
+  "instruction": {
+   "Home value": "1000000",
+   "state": "tx",
+   "ANSWER": "19730",
+   "city": "austin"
+  }
+ },
+ "e21a8f228a": {
+  "instruction": {
+   "Home value": "350.000",
+   "state": "WA",
+   "ANSWER": "$3,587",
+   "city": "Seattle"
+  }
+ },
+ "4ea3906738": {
+  "instruction": {
+   "state": "IL",
+   "city": "Chicago",
+   "Home value": "530.000",
+   "ANSWER": "$10,648"
+  }
+ },
+ "3065a02c5b": {
+  "instruction": {
+   "Home value": "295,000",
+   "state": "NM",
+   "ANSWER": "$1,661",
+   "city": "Las Vegas"
+  }
+ },
+ "268f4b2774": {
+  "instruction": {
+   "state": "CA",
+   "city": "Los Angeles ",
+   "Home value": "400.000",
+   "ANSWER": "$3,172"
+  }
+ },
+ "ea231b65ea": {
+  "instruction": {
+   "state": "New York",
+   "city": "Corning",
+   "Home value": "300000",
+   "ANSWER": "8,247"
+  }
+ },
+ "3b920eef1f": {
+  "instruction": {
+   "Home value": "200000",
+   "state": "LA",
+   "ANSWER": "1072",
+   "city": "Baton Rouge"
+  }
+ },
+ "38f5222fae": {
+  "instruction": {
+   "Home value": "590000",
+   "state": "AK",
+   "ANSWER": "4,337",
+   "city": "Anchor Point"
+  }
+ },
+ "439ac8326c": {
+  "instruction": {
+   "state": "TX",
+   "Home value": "250,000",
+   "city": "Paris"
+  }
+ },
+ "7f666117ee": {
+  "instruction": {
+   "state": "me",
+   "city": "portland ",
+   "Home value": "200000",
+   "ANSWER": "2250"
+  }
+ },
+ "e155d63388": {
+  "instruction": {
+   "state": "VA",
+   "city": "Alum Ridge",
+   "Home value": "490,000",
+   "ANSWER": "2533"
+  }
+ },
+ "308046688d": {
+  "instruction": {
+   "state": "IL",
+   "Home value": "250,000",
+   "city": "Chicago"
+  }
+ },
+ "ba86f04894": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "CA",
+   "city": "San Francisco"
+  }
+ },
+ "22b229f2d4": {
+  "instruction": {
+   "Home value": "200000",
+   "state": "AK",
+   "ANSWER": "2626",
+   "city": "Fairbanks"
+  }
+ },
+ "057e149d2a": {
+  "instruction": {
+   "location": "Chicago, IL",
+   "filling status": "Single",
+   "household income": "55054"
+  }
+ },
+ "27d516ddd6": {
+  "instruction": {
+   "state": "WA",
+   "city": "Pasco",
+   "Home value": "936,000",
+   "ANSWER": "11,054"
+  }
+ },
+ "50ba3448b6": {
+  "instruction": {
+   "state": "KY",
+   "city": "Jeremiah",
+   "Home value": "500,000",
+   "ANSWER": "$3,245"
+  }
+ },
+ "2f992dcff9": {
+  "instruction": {
+   "state": "US",
+   "city": "Oregon",
+   "Home value": "250,000",
+   "ANSWER": "2,690"
+  }
+ },
+ "f790114372": {
+  "instruction": {
+   "state": "ca",
+   "city": "san francisco",
+   "Home value": "2000000",
+   "ANSWER": "13660"
+  }
+ },
+ "06c0ed4793": {
+  "instruction": {
+   "state": "US",
+   "city": "Alabama",
+   "Home value": "250,000",
+   "ANSWER": "1,088"
+  }
+ },
+ "8e0fd7e33f": {
+  "instruction": {
+   "Home value": "400000",
+   "city": "Cincinnati ",
+   "state": "OH"
+  }
+ },
+ "48b3ed93d6": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "GA",
+   "city": "Atlanta"
+  }
+ },
+ "2fe9f305c3": {
+  "instruction": {
+   "Home value": "700000",
+   "state": "New York",
+   "ANSWER": "21,756",
+   "city": "Rochester"
+  }
+ },
+ "a6ae32a0ab": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "NY",
+   "ANSWER": "6,808",
+   "city": "Buffalo"
+  }
+ },
+ "d80be80866": {
+  "instruction": {
+   "Home value": "750000",
+   "state": "ky",
+   "ANSWER": "7058",
+   "city": "louisville"
+  }
+ },
+ "bd1b3d262c": {
+  "instruction": {
+   "Home value": "200000",
+   "state": "me",
+   "ANSWER": "2250",
+   "city": "portland "
+  }
+ },
+ "325f9a9303": {
+  "instruction": {
+   "state": "GA",
+   "Home value": "250,000",
+   "city": "Atlanta"
+  }
+ },
+ "4ae2236ca1": {
+  "instruction": {
+   "state": "MD",
+   "city": "Pasadena ",
+   "Home value": "1,020,000",
+   "ANSWER": "8466"
+  }
+ },
+ "08d159e41b": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "TX",
+   "city": "Paris"
+  }
+ },
+ "52e39446fd": {
+  "instruction": {
+   "Home value": "190.000",
+   "state": "CA",
+   "ANSWER": "$1,298",
+   "city": "San Francisco"
+  }
+ },
+ "59e626b469": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "US",
+   "ANSWER": "1,435",
+   "city": "South Carolina"
+  }
+ },
+ "2658dcf88c": {
+  "instruction": {
+   "state": "NC",
+   "city": "Sophia",
+   "Home value": "650,000",
+   "ANSWER": "$5,077"
+  }
+ },
+ "1d69a82d36": {
+  "instruction": {
+   "Home value": "200000",
+   "state": "FL",
+   "ANSWER": "2560",
+   "city": "Miami"
+  }
+ },
+ "a15f75cab0": {
+  "instruction": {
+   "state": "FL",
+   "city": "Miami",
+   "Home value": "850.000",
+   "ANSWER": "$10,880"
+  }
+ },
+ "736337de89": {
+  "instruction": {
+   "state": "GA",
+   "city": "Brunswick",
+   "Home value": "200000",
+   "ANSWER": "1424"
+  }
+ },
+ "32b7b35257": {
+  "instruction": {
+   "Home value": "340.000",
+   "state": "AZ",
+   "ANSWER": "$ 2,005",
+   "city": "Goodyear"
+  }
+ },
+ "18cd6abd51": {
+  "instruction": {
+   "state": "CA",
+   "city": "Los Angeles",
+   "Home value": "300,000",
+   "ANSWER": "2379"
+  }
+ },
+ "07d61d9294": {
+  "instruction": {
+   "state": "OH",
+   "city": "Austintown",
+   "Home value": "355,000",
+   "ANSWER": "$5,378"
+  }
+ },
+ "124b400517": {
+  "instruction": {
+   "Home value": "200000",
+   "state": "CA",
+   "ANSWER": "1588",
+   "city": "Cupertino"
+  }
+ },
+ "d299b4b073": {
+  "instruction": {
+   "state": "New York",
+   "city": "Albany",
+   "Home value": "250000",
+   "ANSWER": "4,993"
+  }
+ },
+ "d550e504fa": {
+  "instruction": {
+   "state": "CA",
+   "city": "Albany",
+   "Home value": "540000",
+   "ANSWER": "4676"
+  }
+ },
+ "ce1b1867c1": {
+  "instruction": {
+   "Home value": "250000",
+   "city": "Austin",
+   "state": "TX"
+  }
+ },
+ "c826812953": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "US",
+   "ANSWER": "2,033",
+   "city": "California"
+  }
+ },
+ "a370f17105": {
+  "instruction": {
+   "state": "LA",
+   "Home value": "250,000",
+   "city": "Baton Rouge"
+  }
+ },
+ "797650dc32": {
+  "instruction": {
+   "Home value": "500000",
+   "state": "ca",
+   "ANSWER": "3965",
+   "city": "los angeles"
+  }
+ },
+ "ff52e8625d": {
+  "instruction": {
+   "location": "Chicago, IL",
+   "filling status": "Married",
+   "household income": "42242"
+  }
+ },
+ "b178a6eebe": {
+  "instruction": {
+   "Home value": "550000",
+   "city": "Tulsa",
+   "state": "OK"
+  }
+ },
+ "68dbe09c4d": {
+  "instruction": {
+   "Home value": "250,000",
+   "state": "NY",
+   "ANSWER": "5,940",
+   "city": "Florida"
+  }
+ },
+ "617070cec3": {
+  "instruction": {
+   "state": "or",
+   "city": "portland",
+   "Home value": "1500000",
+   "ANSWER": "16875"
+  }
+ },
+ "bf6aa556c9": {
+  "instruction": {
+   "Home value": "250000",
+   "state": "CA",
+   "ANSWER": "1708",
+   "city": "San Francisco"
+  }
+ },
+ "f1e074c248": {
+  "instruction": {
+   "state": "New York",
+   "city": "Canandaigua",
+   "Home value": "350000",
+   "ANSWER": "8,610"
+  }
+ },
+ "9d926276c8": {
+  "instruction": {
+   "Home value": "400000",
+   "state": "New York",
+   "ANSWER": "10,892",
+   "city": "Buffalo"
+  }
+ },
+ "9219ebfbdf": {
+  "instruction": {
+   "Home value": "200000",
+   "state": "GA",
+   "ANSWER": "1424",
+   "city": "Brunswick"
+  }
+ },
+ "8fbf0ccfbf": {
+  "instruction": {
+   "state": "LA",
+   "city": "New Orleans",
+   "Home value": "600,000",
+   "ANSWER": "$4,440"
+  }
+ },
+ "851129236f": {
+  "instruction": {
+   "state": "MS",
+   "city": "Tippah County",
+   "Home value": "800000",
+   "ANSWER": "5264"
+  }
+ },
+ "85faf9222c": {
+  "instruction": {
+   "Home value": "850.000",
+   "state": "FL",
+   "ANSWER": "$10,880",
+   "city": "Miami"
+  }
+ },
+ "956f53ff41": {
+  "instruction": {
+   "state": "New York",
+   "city": "Syracuse",
+   "Home value": "800000",
+   "ANSWER": "21,976"
+  }
+ }
+}

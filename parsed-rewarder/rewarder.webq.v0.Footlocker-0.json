@@ -1,0 +1,62 @@
+{
+ "39bb6e9c97": {
+  "instruction": {
+   "manufacturer": "Nike",
+   "activity": "running"
+  }
+ },
+ "fd601e1a85": {
+  "instruction": {
+   "manufacturer": "New Balance",
+   "activity": "spinning"
+  }
+ },
+ "3302511cb3": {
+  "instruction": {
+   "manufacturer": "Puma",
+   "activity": "walking"
+  }
+ },
+ "0ffb0c8c79": {
+  "instruction": {
+   "manufacturer": "Vans",
+   "activity": "basketball"
+  }
+ },
+ "0a718ce0b5": {
+  "instruction": {
+   "manufacturer": "Jordan",
+   "activity": "aerobics"
+  }
+ },
+ "368385a8c4": {
+  "instruction": {
+   "manufacturer": "ASICS",
+   "activity": "cross fit"
+  }
+ },
+ "9e3f3bdc4a": {
+  "instruction": {
+   "manufacturer": "Adidas",
+   "activity": "jogging"
+  }
+ },
+ "d401c313a3": {
+  "instruction": {
+   "manufacturer": "Sketchers",
+   "activity": "casual"
+  }
+ },
+ "2fb9b4ae36": {
+  "instruction": {
+   "manufacturer": "Saucony",
+   "activity": "rock climbing"
+  }
+ },
+ "f15fb7be99": {
+  "instruction": {
+   "manufacturer": "Converse",
+   "activity": "soccer"
+  }
+ }
+}

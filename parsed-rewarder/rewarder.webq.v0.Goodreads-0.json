@@ -1,0 +1,62 @@
+{
+ "7e005a8b0f": {
+  "instruction": {
+   "category": "Strategy",
+   "reader's purpose": "Improving my skills"
+  }
+ },
+ "c9be10889b": {
+  "instruction": {
+   "category": "Romantic",
+   "reader's purpose": "Writing poems"
+  }
+ },
+ "73c5632cad": {
+  "instruction": {
+   "category": "Educational",
+   "reader's purpose": "Learning more about the world"
+  }
+ },
+ "c7ebae2e38": {
+  "instruction": {
+   "category": "Cooking",
+   "reader's purpose": "Adding more recipes to my collection"
+  }
+ },
+ "e47da1e18b": {
+  "instruction": {
+   "category": "Self-Help",
+   "reader's purpose": "Improving my life"
+  }
+ },
+ "e66fbfc3da": {
+  "instruction": {
+   "category": "Psychology",
+   "reader's purpose": "Understanding the human mind"
+  }
+ },
+ "7b939a30d6": {
+  "instruction": {
+   "category": "Biography",
+   "reader's purpose": "Knowing about important people"
+  }
+ },
+ "767d47ba7c": {
+  "instruction": {
+   "category": "Drama",
+   "reader's purpose": "A new hobby"
+  }
+ },
+ "abb5bc9066": {
+  "instruction": {
+   "category": "Fairy tales",
+   "reader's purpose": "Reading to my children"
+  }
+ },
+ "c2dc612838": {
+  "instruction": {
+   "category": "History",
+   "reader's purpose": "Learning about important world events"
+  }
+ }
+}

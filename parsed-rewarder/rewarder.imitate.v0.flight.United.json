@@ -1,0 +1,3377 @@
+{
+ "626d69eada": {
+  "instruction": {
+   "Departure City": "Dallas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 24,
+   "Returning Day": 24,
+   "Destination City": "Austin"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "dallas",
+     "DepartTime": "0000",
+     "DepartDate": "Tue., Jan. 24, 2017",
+     "To": "austin",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 24, 2017",
+     "ToCode": "austin",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "dallas",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "327801c041": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 9,
+   "Returning Day": 15,
+   "Destination City": "Boston"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 9, 2017",
+     "To": "Boston, MA (BOS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 15, 2017",
+     "ToCode": "BOS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "6fb2570f5b": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 16,
+   "Returning Day": 29,
+   "Destination City": "Los Angeles"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "denver",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 16, 2017",
+     "To": "los angeles",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 29, 2017",
+     "ToCode": "los angeles",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "denver",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "0498bc646b": {
+  "instruction": {
+   "Departure City": "San Francisco",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 12,
+   "Returning Day": 12,
+   "Destination City": "Los Angeles"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "San Francisco, CA (SFO)",
+     "DepartTime": "0000",
+     "DepartDate": "Thu., Jan. 12, 2017",
+     "To": "Los Angeles, CA (LAX)",
+     "Cabin": "Coach",
+     "ReturnDate": "Thu., Jan. 12, 2017",
+     "ToCode": "LAX",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "SFO",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "c4070117c9": {
+  "instruction": {
+   "Departure City": "Washinton DC",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 6,
+   "Returning Day": 12,
+   "Destination City": "Dallas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "washington dc",
+     "DepartTime": "0000",
+     "DepartDate": "Fri., Jan. 6, 2017",
+     "To": "dallas",
+     "Cabin": "Coach",
+     "ReturnDate": "Thu., Jan. 12, 2017",
+     "ToCode": "dallas",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "washington dc",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "e0815f31ab": {
+  "instruction": {
+   "Departure City": "Boston",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 24,
+   "Returning Day": 31,
+   "Destination City": "Las Vegas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Boston, MA (BOS)",
+     "DepartTime": "0000",
+     "DepartDate": "Tue., Jan. 24, 2017",
+     "To": "Las Vegas, NV (LAS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 31, 2017",
+     "ToCode": "LAS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "BOS",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "319478d5bb": {
+  "instruction": {
+   "Departure City": "Austin",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 31,
+   "Returning Day": 31,
+   "Destination City": "San Diego"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Austin, TX (AUS)",
+     "DepartTime": "0000",
+     "DepartDate": "Tue., Jan. 31, 2017",
+     "To": "San Diego, CA (SAN)",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 31, 2017",
+     "ToCode": "SAN",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "AUS",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "159b1bd292": {
+  "instruction": {
+   "Departure City": "Dallas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 19,
+   "Returning Day": 31,
+   "Destination City": "San Francisco"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "dallas",
+     "DepartTime": "0000",
+     "DepartDate": "Thu., Jan. 19, 2017",
+     "To": "san francisco",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 31, 2017",
+     "ToCode": "san francisco",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "dallas",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "69f6232502": {
+  "instruction": {
+   "Departure City": "San Diego",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 13,
+   "Returning Day": 15,
+   "Destination City": "Portland"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "san diego",
+     "DepartTime": "0000",
+     "DepartDate": "Fri., Jan. 13, 2017",
+     "To": "portland",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 15, 2017",
+     "ToCode": "portland",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "san diego",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "3578e1369a": {
+  "instruction": {
+   "Departure City": "Las Vegas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 11,
+   "Returning Day": 21,
+   "Destination City": "Boston"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "las vegas",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 11, 2017",
+     "To": "boston",
+     "Cabin": "Coach",
+     "ReturnDate": "Sat., Jan. 21, 2017",
+     "ToCode": "boston",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "las vegas",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "4ea6dd61c2": {
+  "instruction": {
+   "Departure City": "Los Angeles",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 30,
+   "Returning Day": 31,
+   "Destination City": "Portland"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "los angeles",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 30, 2017",
+     "To": "portland",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 31, 2017",
+     "ToCode": "portland",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "los angeles",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "e44c509f17": {
+  "instruction": {
+   "Departure City": "San Diego",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 26,
+   "Returning Day": 29,
+   "Destination City": "Dallas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 18, 2017",
+     "To": "Boston, MA (BOS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 25, 2017",
+     "ToCode": "BOS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    },
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 18, 2017",
+     "To": "Boston, MA (BOS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 25, 2017",
+     "ToCode": "BOS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    },
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 18, 2017",
+     "To": "Boston, MA (BOS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 25, 2017",
+     "ToCode": "BOS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    },
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 18, 2017",
+     "To": "Boston, MA (BOS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 25, 2017",
+     "ToCode": "BOS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    },
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 18, 2017",
+     "To": "Boston, MA (BOS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 25, 2017",
+     "ToCode": "BOS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    },
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Tue., Jan. 17, 2017",
+     "To": "Boston, MA (BOS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Thu., Jan. 26, 2017",
+     "ToCode": "BOS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    },
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Tue., Jan. 17, 2017",
+     "To": "Boston, MA (BOS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Thu., Jan. 26, 2017",
+     "ToCode": "BOS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    },
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 16, 2017",
+     "To": "Boston, MA (BOS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Fri., Jan. 27, 2017",
+     "ToCode": "BOS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    },
+    {
+     "NumberOfAdults": "1",
+     "From": "san diego",
+     "DepartTime": "0000",
+     "DepartDate": "Thu., Jan. 26, 2017",
+     "To": "dallas",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 29, 2017",
+     "ToCode": "dallas",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "san diego",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "699704a251": {
+  "instruction": {
+   "Departure City": "Boston",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 13,
+   "Returning Day": 26,
+   "Destination City": "Washinton DC"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "boston",
+     "DepartTime": "0000",
+     "DepartDate": "Fri., Jan. 13, 2017",
+     "To": "washington dc",
+     "Cabin": "Coach",
+     "ReturnDate": "Thu., Jan. 26, 2017",
+     "ToCode": "washington dc",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "boston",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "7365cc3746": {
+  "instruction": {
+   "Departure City": "Las Vegas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 14,
+   "Returning Day": 25,
+   "Destination City": "Washinton DC"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "las vegas",
+     "DepartTime": "0000",
+     "DepartDate": "Sat., Jan. 14, 2017",
+     "To": "washington dc",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 25, 2017",
+     "ToCode": "washington dc",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "las vegas",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "24f21dfa5e": {
+  "instruction": {
+   "Departure City": "Portland",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 26,
+   "Returning Day": 30,
+   "Destination City": "Las Vegas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "portland",
+     "DepartTime": "0000",
+     "DepartDate": "Thu., Jan. 26, 2017",
+     "To": "las vegas",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 30, 2017",
+     "ToCode": "las vegas",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "portland",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "ba5b030aa1": {
+  "instruction": {
+   "Departure City": "Austin",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 16,
+   "Returning Day": 29,
+   "Destination City": "New York"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "austin",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 16, 2017",
+     "To": "new york",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 29, 2017",
+     "ToCode": "new york",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "austin",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "4773976bef": {
+  "instruction": {
+   "Departure City": "New York",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 1,
+   "Returning Day": 28,
+   "Destination City": "Dallas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "new york",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 1, 2017",
+     "To": "dallas",
+     "Cabin": "Coach",
+     "ReturnDate": "Sat., Jan. 28, 2017",
+     "ToCode": "dallas",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "new york",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "a6e6f0a8c0": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 30,
+   "Returning Day": 30,
+   "Destination City": "New York"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 30, 2017",
+     "To": "New York City, NY (NYC - All Airports)",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 30, 2017",
+     "ToCode": "NYC",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "c8684292ea": {
+  "instruction": {
+   "Departure City": "Austin",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 30,
+   "Returning Day": 30,
+   "Destination City": "Las Vegas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Austin, TX (AUS)",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 30, 2017",
+     "To": "Las Vegas, NV (LAS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 30, 2017",
+     "ToCode": "LAS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "AUS",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "77c7999e73": {
+  "instruction": {
+   "Departure City": "Austin",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 20,
+   "Returning Day": 25,
+   "Destination City": "San Francisco"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "austin",
+     "DepartTime": "0000",
+     "DepartDate": "Fri., Jan. 20, 2017",
+     "To": "san francisco",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 25, 2017",
+     "ToCode": "san francisco",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "austin",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "55dc257663": {
+  "instruction": {
+   "Departure City": "New York",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 8,
+   "Returning Day": 21,
+   "Destination City": "Dallas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "new york",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 8, 2017",
+     "To": "dallas",
+     "Cabin": "Coach",
+     "ReturnDate": "Sat., Jan. 21, 2017",
+     "ToCode": "dallas",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "new york",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "a090d73f08": {
+  "instruction": {
+   "Departure City": "Portland",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 2,
+   "Returning Day": 17,
+   "Destination City": "Denver"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "portland",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 2, 2017",
+     "To": "denver",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 17, 2017",
+     "ToCode": "denver",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "portland",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "cde632ea9c": {
+  "instruction": {
+   "Departure City": "Washinton DC",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 8,
+   "Returning Day": 27,
+   "Destination City": "Portland"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Washington, DC (DCA - National)",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 8, 2017",
+     "To": "Portland, OR (PDX)",
+     "Cabin": "Coach",
+     "ReturnDate": "Fri., Jan. 27, 2017",
+     "ToCode": "PDX",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DCA",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "7e75b59558": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 13,
+   "Returning Day": 16,
+   "Destination City": "Dallas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "denver",
+     "DepartTime": "0000",
+     "DepartDate": "Fri., Jan. 13, 2017",
+     "To": "dallas",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 16, 2017",
+     "ToCode": "dallas",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "denver",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "387958561a": {
+  "instruction": {
+   "Departure City": "Portland",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 7,
+   "Returning Day": 29,
+   "Destination City": "Las Vegas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "portland",
+     "DepartTime": "0000",
+     "DepartDate": "Sat., Jan. 7, 2017",
+     "To": "las vegas",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 29, 2017",
+     "ToCode": "las vegas",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "portland",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "b1d8bb2c50": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 2,
+   "Returning Day": 17,
+   "Destination City": "Las Vegas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "denver",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 2, 2017",
+     "To": "las vegas",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 17, 2017",
+     "ToCode": "las vegas",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "denver",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "00d436dedd": {
+  "instruction": {
+   "Departure City": "Dallas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 3,
+   "Returning Day": 15,
+   "Destination City": "San Diego"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Dallas/Fort Worth, TX (DFW)",
+     "DepartTime": "0000",
+     "DepartDate": "Tue., Jan. 3, 2017",
+     "To": "San Diego, CA (SAN)",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 15, 2017",
+     "ToCode": "SAN",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DFW",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "932cbe2cd3": {
+  "instruction": {
+   "Departure City": "Las Vegas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 8,
+   "Returning Day": 18,
+   "Destination City": "Austin"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "las vegas",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 8, 2017",
+     "To": "austin",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 18, 2017",
+     "ToCode": "austin",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "las vegas",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "3210bbaae7": {
+  "instruction": {
+   "Departure City": "New York",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 11,
+   "Returning Day": 15,
+   "Destination City": "Washinton DC"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "New York, NY (JFK)",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 11, 2017",
+     "To": "Washington, DC (IAD - Dulles)",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 15, 2017",
+     "ToCode": "IAD",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "JFK",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "773cae35a5": {
+  "instruction": {
+   "Departure City": "Dallas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 20,
+   "Returning Day": 26,
+   "Destination City": "Austin"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Dallas, TX (DAL - Love Field)",
+     "DepartTime": "0000",
+     "DepartDate": "Fri., Jan. 20, 2017",
+     "To": "Austin, TX (AUS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Thu., Jan. 26, 2017",
+     "ToCode": "AUS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DAL",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "ec3e1eb771": {
+  "instruction": {
+   "Departure City": "Austin",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 21,
+   "Returning Day": 29,
+   "Destination City": "Washinton DC"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "austin",
+     "DepartTime": "0000",
+     "DepartDate": "Sat., Jan. 21, 2017",
+     "To": "washington dc",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 29, 2017",
+     "ToCode": "washington dc",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "austin",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "1f0ae7ffdf": {
+  "instruction": {
+   "Departure City": "San Diego",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 10,
+   "Returning Day": 10,
+   "Destination City": "Austin"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "San Diego, CA (SAN)",
+     "DepartTime": "0000",
+     "DepartDate": "Tue., Jan. 10, 2017",
+     "To": "Austin, TX (AUS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 10, 2017",
+     "ToCode": "AUS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "SAN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "27cf6adaa0": {
+  "instruction": {
+   "Departure City": "New York",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 7,
+   "Returning Day": 24,
+   "Destination City": "Washinton DC"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "new york",
+     "DepartTime": "0000",
+     "DepartDate": "Sat., Jan. 7, 2017",
+     "To": "washington dc",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 24, 2017",
+     "ToCode": "washington dc",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "new york",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "fb3a269bd3": {
+  "instruction": {
+   "Departure City": "Boston",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 23,
+   "Returning Day": 24,
+   "Destination City": "Las Vegas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "boston",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 23, 2017",
+     "To": "Las Vegas, NV (LAS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 24, 2017",
+     "ToCode": "LAS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "boston",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "87e4283695": {
+  "instruction": {
+   "Departure City": "Austin",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 16,
+   "Returning Day": 23,
+   "Destination City": "Washinton DC"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "austin",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 16, 2017",
+     "To": "washington dc",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 23, 2017",
+     "ToCode": "washington dc",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "austin",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "29d662422a": {
+  "instruction": {
+   "Departure City": "Las Vegas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 15,
+   "Returning Day": 24,
+   "Destination City": "Dallas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "las vegas",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 15, 2017",
+     "To": "dallas",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 24, 2017",
+     "ToCode": "dallas",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "las vegas",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "81e6ae6971": {
+  "instruction": {
+   "Departure City": "Portland",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 22,
+   "Returning Day": 30,
+   "Destination City": "San Diego"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Portland, OR (PDX)",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 22, 2017",
+     "To": "San Diego, CA (SAN)",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 30, 2017",
+     "ToCode": "SAN",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "PDX",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "359c329afd": {
+  "instruction": {
+   "Departure City": "New York",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 5,
+   "Returning Day": 10,
+   "Destination City": "Las Vegas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "new york",
+     "DepartTime": "0000",
+     "DepartDate": "Thu., Jan. 5, 2017",
+     "To": "las vegas",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 10, 2017",
+     "ToCode": "las vegas",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "new york las vegas",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "62de196ad4": {
+  "instruction": {
+   "Departure City": "New York",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 20,
+   "Returning Day": 30,
+   "Destination City": "Austin"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "New York City, NY (NYC - All Airports)",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 30, 2017",
+     "To": "Austin, TX (AUS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 30, 2017",
+     "ToCode": "AUS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "NYC",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "532912b25c": {
+  "instruction": {
+   "Departure City": "Las Vegas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 1,
+   "Returning Day": 31,
+   "Destination City": "San Diego"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "las vegas",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 1, 2017",
+     "To": "san diego",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 31, 2017",
+     "ToCode": "san diego",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "las vegas",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "73af4cdff6": {
+  "instruction": {
+   "Departure City": "Los Angeles",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 8,
+   "Returning Day": 18,
+   "Destination City": "New York"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "LAX",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 8, 2017",
+     "To": "New York, NY (JFK)",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 18, 2017",
+     "ToCode": "JFK",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "los",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "cb7536aaf5": {
+  "instruction": {
+   "Departure City": "New York",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 5,
+   "Returning Day": 28,
+   "Destination City": "Austin"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "New York, NY (JFK)",
+     "DepartTime": "0000",
+     "DepartDate": "Thu., Jan. 5, 2017",
+     "To": "Austin, TX (AUS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Sat., Jan. 28, 2017",
+     "ToCode": "AUS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "JFK",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "c02a308aab": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 4,
+   "Returning Day": 25,
+   "Destination City": "San Francisco"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 4, 2017",
+     "To": "San Francisco, CA (SFO)",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 25, 2017",
+     "ToCode": "SFO",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "e22fe0220b": {
+  "instruction": {
+   "Departure City": "Austin",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 16,
+   "Returning Day": 30,
+   "Destination City": "Denver"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Austin, TX (AUS)",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 16, 2017",
+     "To": "Denver, CO (DEN)",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 30, 2017",
+     "ToCode": "DEN",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "AUS",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "baa2b9c68f": {
+  "instruction": {
+   "Departure City": "Washinton DC",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 31,
+   "Returning Day": 31,
+   "Destination City": "San Francisco"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Washington, DC (DCA - National)",
+     "DepartTime": "0000",
+     "DepartDate": "Tue., Jan. 31, 2017",
+     "To": "San Francisco, CA (SFO)",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 31, 2017",
+     "ToCode": "SFO",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DCA",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "d3a330d9c5": {
+  "instruction": {
+   "Departure City": "Dallas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 30,
+   "Returning Day": 30,
+   "Destination City": "New York"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Dallas/Fort Worth, TX (DFW)",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 30, 2017",
+     "To": "New York, NY (JFK)",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 30, 2017",
+     "ToCode": "JFK",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DFW",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "9acc33ce32": {
+  "instruction": {
+   "Departure City": "Los Angeles",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 4,
+   "Returning Day": 21,
+   "Destination City": "Washinton DC"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "los angeles",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 4, 2017",
+     "To": "washington dc",
+     "Cabin": "Coach",
+     "ReturnDate": "Sat., Jan. 21, 2017",
+     "ToCode": "washington dc",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "los angeles",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "d2794a7dec": {
+  "instruction": {
+   "Departure City": "Las Vegas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 22,
+   "Returning Day": 26,
+   "Destination City": "Portland"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "las vegas",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 22, 2017",
+     "To": "portland",
+     "Cabin": "Coach",
+     "ReturnDate": "Thu., Jan. 26, 2017",
+     "ToCode": "portland",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "las vegas",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "d230c7a4e8": {
+  "instruction": {
+   "Departure City": "Austin",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 9,
+   "Returning Day": 14,
+   "Destination City": "Las Vegas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "austin",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 9, 2017",
+     "To": "las vegas",
+     "Cabin": "Coach",
+     "ReturnDate": "Sat., Jan. 14, 2017",
+     "ToCode": "las vegas",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "austin",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "c5cea4ba14": {
+  "instruction": {
+   "Departure City": "Los Angeles",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 2,
+   "Returning Day": 22,
+   "Destination City": "Dallas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Los Angeles, CA (LAX)",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 2, 2017",
+     "To": "Dallas, TX (DAL - Love Field)",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 22, 2017",
+     "ToCode": "DAL",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "LAX",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "87ab99ee89": {
+  "instruction": {
+   "Departure City": "Austin",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 17,
+   "Returning Day": 27,
+   "Destination City": "Las Vegas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Austin, TX (AUS)",
+     "DepartTime": "0000",
+     "DepartDate": "Tue., Jan. 17, 2017",
+     "To": "Las Vegas, NV (LAS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Fri., Jan. 27, 2017",
+     "ToCode": "LAS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "AUS",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "b1bc99f198": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 25,
+   "Returning Day": 27,
+   "Destination City": "Washinton DC"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 25, 2017",
+     "To": "Washington, DC (WAS - All Airports)",
+     "Cabin": "Coach",
+     "ReturnDate": "Fri., Jan. 27, 2017",
+     "ToCode": "WAS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "dd8a903a84": {
+  "instruction": {
+   "Departure City": "Las Vegas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 29,
+   "Returning Day": 29,
+   "Destination City": "Denver"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "las vegas",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 29, 2017",
+     "To": "denver",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 29, 2017",
+     "ToCode": "denver",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "las vegas",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "a61b500be2": {
+  "instruction": {
+   "Departure City": "Austin",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 24,
+   "Returning Day": 29,
+   "Destination City": "San Francisco"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "austin",
+     "DepartTime": "0000",
+     "DepartDate": "Tue., Jan. 24, 2017",
+     "To": "san francisco",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 29, 2017",
+     "ToCode": "san francisco",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "austin",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "04cd549509": {
+  "instruction": {
+   "Departure City": "Los Angeles",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 4,
+   "Returning Day": 14,
+   "Destination City": "San Francisco"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "los angeles",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 4, 2017",
+     "To": "san francisco",
+     "Cabin": "Coach",
+     "ReturnDate": "Sat., Jan. 14, 2017",
+     "ToCode": "san francisco",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "los angeles",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "f8a4265942": {
+  "instruction": {
+   "Departure City": "Washinton DC",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 2,
+   "Returning Day": 23,
+   "Destination City": "New York"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Washington, DC (WAS - All Airports)",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 2, 2017",
+     "To": "New York City, NY (NYC - All Airports)",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 23, 2017",
+     "ToCode": "NYC",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "WAS",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "1935df4658": {
+  "instruction": {
+   "Departure City": "Austin",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 27,
+   "Returning Day": 30,
+   "Destination City": "Dallas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Austin, TX (AUS)",
+     "DepartTime": "0000",
+     "DepartDate": "Fri., Jan. 27, 2017",
+     "To": "Dallas/Fort Worth, TX (DFW)",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 30, 2017",
+     "ToCode": "DFW",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "AUS",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "e0cb884c5e": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 1,
+   "Returning Day": 27,
+   "Destination City": "Washinton DC"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "denver",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 1, 2017",
+     "To": "washington dc",
+     "Cabin": "Coach",
+     "ReturnDate": "Fri., Jan. 27, 2017",
+     "ToCode": "washington dc",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "denver",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "1806bf1d51": {
+  "instruction": {
+   "Departure City": "Portland",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 31,
+   "Returning Day": 31,
+   "Destination City": "Dallas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "portland",
+     "DepartTime": "0000",
+     "DepartDate": "Tue., Feb. 14, 2017",
+     "To": "dallas",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 31, 2017",
+     "ToCode": "dallas",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "portland",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "059d801f5b": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 27,
+   "Returning Day": 29,
+   "Destination City": "San Diego"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "denver",
+     "DepartTime": "0000",
+     "DepartDate": "Fri., Jan. 27, 2017",
+     "To": "san diego",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 29, 2017",
+     "ToCode": "san diego",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "denver",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "c3dbf7099e": {
+  "instruction": {
+   "Departure City": "Dallas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 25,
+   "Returning Day": 31,
+   "Destination City": "Boston"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Dallas, TX (DAL - Love Field)",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 25, 2017",
+     "To": "Boston, MA (BOS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 31, 2017",
+     "ToCode": "BOS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DAL",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "51e8980dbe": {
+  "instruction": {
+   "Departure City": "Los Angeles",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 25,
+   "Returning Day": 30,
+   "Destination City": "Dallas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Los Angeles, CA (LAX)",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 25, 2017",
+     "To": "Dallas, TX (DAL - Love Field)",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 30, 2017",
+     "ToCode": "DAL",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "LAX",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "3ce91f090d": {
+  "instruction": {
+   "Departure City": "Dallas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 16,
+   "Returning Day": 20,
+   "Destination City": "Portland"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Dallas/Fort Worth, TX (DFW)",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 16, 2017",
+     "To": "Portland, OR (PDX)",
+     "Cabin": "Coach",
+     "ReturnDate": "Fri., Jan. 20, 2017",
+     "ToCode": "PDX",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DFW",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "275bd32e93": {
+  "instruction": {
+   "Departure City": "Washinton DC",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 8,
+   "Returning Day": 30,
+   "Destination City": "Boston"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "washington dc",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 8, 2017",
+     "To": "boston",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 30, 2017",
+     "ToCode": "boston",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "washington dc",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "ec5b2d08e5": {
+  "instruction": {
+   "Departure City": "Boston",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 4,
+   "Returning Day": 26,
+   "Destination City": "Washinton DC"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Boston, MA (BOS)",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 4, 2017",
+     "To": "Washington, DC (DCA - National)",
+     "Cabin": "Coach",
+     "ReturnDate": "Thu., Jan. 26, 2017",
+     "ToCode": "DCA",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "BOS",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "97b6332d2b": {
+  "instruction": {
+   "Departure City": "Las Vegas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 19,
+   "Returning Day": 23,
+   "Destination City": "San Diego"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Las Vegas, NV (LAS)",
+     "DepartTime": "0000",
+     "DepartDate": "Thu., Jan. 19, 2017",
+     "To": "San Diego, CA (SAN)",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 23, 2017",
+     "ToCode": "SAN",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "LAS",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "b0c8f2e386": {
+  "instruction": {
+   "Departure City": "New York",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 6,
+   "Returning Day": 24,
+   "Destination City": "Denver"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "new york",
+     "DepartTime": "0000",
+     "DepartDate": "Fri., Jan. 6, 2017",
+     "To": "denver",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 24, 2017",
+     "ToCode": "denver",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "new york",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "5510884fdf": {
+  "instruction": {
+   "Departure City": "Boston",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 25,
+   "Returning Day": 30,
+   "Destination City": "Portland"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "boston",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 25, 2017",
+     "To": "portland",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 30, 2017",
+     "ToCode": "portland",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "boston po",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "88a0e55f03": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 19,
+   "Returning Day": 21,
+   "Destination City": "San Diego"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Thu., Jan. 19, 2017",
+     "To": "San Diego, CA (SAN)",
+     "Cabin": "Coach",
+     "ReturnDate": "Sat., Jan. 21, 2017",
+     "ToCode": "SAN",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "b3d7c18eae": {
+  "instruction": {
+   "Departure City": "Las Vegas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 24,
+   "Returning Day": 26,
+   "Destination City": "Austin"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "las vegas",
+     "DepartTime": "0000",
+     "DepartDate": "Tue., Jan. 24, 2017",
+     "To": "austin",
+     "Cabin": "Coach",
+     "ReturnDate": "Thu., Jan. 26, 2017",
+     "ToCode": "austin",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "las vegas",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "aff05fc75f": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 6,
+   "Returning Day": 26,
+   "Destination City": "Boston"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "denver",
+     "DepartTime": "0000",
+     "DepartDate": "Fri., Jan. 6, 2017",
+     "To": "boston",
+     "Cabin": "Coach",
+     "ReturnDate": "Thu., Jan. 26, 2017",
+     "ToCode": "boston",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "denver",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "e48d614632": {
+  "instruction": {
+   "Departure City": "Dallas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 13,
+   "Returning Day": 17,
+   "Destination City": "Austin"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Dallas/Fort Worth, TX (DFW)",
+     "DepartTime": "0000",
+     "DepartDate": "Fri., Jan. 13, 2017",
+     "To": "Austin, TX (AUS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 17, 2017",
+     "ToCode": "AUS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DFW",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "3819c2aa02": {
+  "instruction": {
+   "Departure City": "New York",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 17,
+   "Returning Day": 18,
+   "Destination City": "Los Angeles"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "New York, NY (JFK)",
+     "DepartTime": "0000",
+     "DepartDate": "Tue., Jan. 17, 2017",
+     "To": "Los Angeles, CA (LAX)",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 18, 2017",
+     "ToCode": "LAX",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "JFK",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "5cda1b377d": {
+  "instruction": {
+   "Departure City": "Dallas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 4,
+   "Returning Day": 12,
+   "Destination City": "San Diego"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "dallas",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 4, 2017",
+     "To": "san diego",
+     "Cabin": "Coach",
+     "ReturnDate": "Thu., Jan. 12, 2017",
+     "ToCode": "san diego",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "dallas",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "9ffde585ed": {
+  "instruction": {
+   "Departure City": "San Francisco",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 18,
+   "Returning Day": 25,
+   "Destination City": "Washinton DC"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "San Francisco, CA (SFO)",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 18, 2017",
+     "To": "Washington, DC (DCA - National)",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 25, 2017",
+     "ToCode": "DCA",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "SFO",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "1fbc335020": {
+  "instruction": {
+   "Departure City": "Boston",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 22,
+   "Returning Day": 22,
+   "Destination City": "Portland"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "boston",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 22, 2017",
+     "To": "portland",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 22, 2017",
+     "ToCode": "portland",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "boston",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "717223378d": {
+  "instruction": {
+   "Departure City": "Las Vegas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 2,
+   "Returning Day": 2,
+   "Destination City": "Denver"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Las Vegas, NV (LAS)",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 2, 2017",
+     "To": "Denver, CO (DEN)",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 2, 2017",
+     "ToCode": "DEN",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "LAS",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "96c0d7344c": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 31,
+   "Returning Day": 31,
+   "Destination City": "Los Angeles"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "denver",
+     "DepartTime": "0000",
+     "DepartDate": "Tue., Jan. 31, 2017",
+     "To": "los angeles",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 31, 2017",
+     "ToCode": "los angeles",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "denver",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "6912fa574b": {
+  "instruction": {
+   "Departure City": "Portland",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 27,
+   "Returning Day": 28,
+   "Destination City": "Los Angeles"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "portland",
+     "DepartTime": "0000",
+     "DepartDate": "Fri., Jan. 27, 2017",
+     "To": "los angeles",
+     "Cabin": "Coach",
+     "ReturnDate": "Sat., Jan. 28, 2017",
+     "ToCode": "los angeles",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "portland",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "59b49e1977": {
+  "instruction": {
+   "Departure City": "Dallas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 4,
+   "Returning Day": 11,
+   "Destination City": "San Francisco"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "dallas",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 4, 2017",
+     "To": "san francisco",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 11, 2017",
+     "ToCode": "san francisco",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "dallas",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "9a5012feaa": {
+  "instruction": {
+   "Departure City": "New York",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 5,
+   "Returning Day": 5,
+   "Destination City": "San Francisco"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "new york",
+     "DepartTime": "0000",
+     "DepartDate": "Thu., Jan. 5, 2017",
+     "To": "san francisco",
+     "Cabin": "Coach",
+     "ReturnDate": "Thu., Jan. 5, 2017",
+     "ToCode": "san francisco",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "new york",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "22c8391cfb": {
+  "instruction": {
+   "Departure City": "Dallas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 25,
+   "Returning Day": 25,
+   "Destination City": "Austin"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "dallas",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 25, 2017",
+     "To": "austin",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 25, 2017",
+     "ToCode": "austin",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "dallas",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "51bc22e0a7": {
+  "instruction": {
+   "Departure City": "Boston",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 4,
+   "Returning Day": 30,
+   "Destination City": "Washinton DC"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Boston, MA (BOS)",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 4, 2017",
+     "To": "Washington, DC (WAS - All Airports)",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 30, 2017",
+     "ToCode": "WAS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "BOS",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "dbb9fbbd2c": {
+  "instruction": {
+   "Departure City": "Boston",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 14,
+   "Returning Day": 30,
+   "Destination City": "Austin"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "boston",
+     "DepartTime": "0000",
+     "DepartDate": "Sat., Jan. 14, 2017",
+     "To": "austin",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 30, 2017",
+     "ToCode": "austin",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "boston",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "4ce653623e": {
+  "instruction": {
+   "Departure City": "Dallas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 14,
+   "Returning Day": 31,
+   "Destination City": "Austin"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "dallas",
+     "DepartTime": "0000",
+     "DepartDate": "Sat., Jan. 14, 2017",
+     "To": "austin",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 31, 2017",
+     "ToCode": "austin",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "dallasin",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "56312b9c7e": {
+  "instruction": {
+   "Departure City": "San Diego",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 7,
+   "Returning Day": 16,
+   "Destination City": "Washinton DC"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "san diego",
+     "DepartTime": "0000",
+     "DepartDate": "Sat., Jan. 7, 2017",
+     "To": "washington dc",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 16, 2017",
+     "ToCode": "washington dc",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "san diego",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "9469f7e015": {
+  "instruction": {
+   "Departure City": "Los Angeles",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 14,
+   "Returning Day": 19,
+   "Destination City": "Las Vegas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "los angeles",
+     "DepartTime": "0000",
+     "DepartDate": "Sat., Jan. 14, 2017",
+     "To": "los vegas",
+     "Cabin": "Coach",
+     "ReturnDate": "Thu., Jan. 19, 2017",
+     "ToCode": "los vegas",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "los angeles",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "1b8e85fd56": {
+  "instruction": {
+   "Departure City": "New York",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 22,
+   "Returning Day": 31,
+   "Destination City": "Portland"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "new york",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 22, 2017",
+     "To": "portland",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 31, 2017",
+     "ToCode": "portland",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "new york",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "95508e14bb": {
+  "instruction": {
+   "Departure City": "New York",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 25,
+   "Returning Day": 25,
+   "Destination City": "Washinton DC"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "new york",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 25, 2017",
+     "To": "washington dc",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 25, 2017",
+     "ToCode": "washington dc",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "new york",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "80e4954e8d": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 25,
+   "Returning Day": 29,
+   "Destination City": "San Diego"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "denver",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 25, 2017",
+     "To": "san diego",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 29, 2017",
+     "ToCode": "san diego",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "denver",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "0106ca58dc": {
+  "instruction": {
+   "Departure City": "Las Vegas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 8,
+   "Returning Day": 28,
+   "Destination City": "Austin"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "las vegas",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 8, 2017",
+     "To": "austin",
+     "Cabin": "Coach",
+     "ReturnDate": "Sat., Jan. 28, 2017",
+     "ToCode": "austin",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "las vegas",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "378fa09e97": {
+  "instruction": {
+   "Departure City": "San Diego",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 23,
+   "Returning Day": 23,
+   "Destination City": "Washinton DC"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "san diego",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 23, 2017",
+     "To": "washington dc",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 23, 2017",
+     "ToCode": "washington dc",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "san diego",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "b966ca6a03": {
+  "instruction": {
+   "Departure City": "Dallas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 6,
+   "Returning Day": 29,
+   "Destination City": "New York"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Dallas/Fort Worth, TX (DFW)",
+     "DepartTime": "0000",
+     "DepartDate": "Fri., Jan. 6, 2017",
+     "To": "New York City, NY (NYC - All Airports)",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 29, 2017",
+     "ToCode": "NYC",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DFW",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "75df95606a": {
+  "instruction": {
+   "Departure City": "Boston",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 30,
+   "Returning Day": 31,
+   "Destination City": "San Francisco"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "boston",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 30, 2017",
+     "To": "san francisco",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 31, 2017",
+     "ToCode": "san francisco",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "boston",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "ca0b833176": {
+  "instruction": {
+   "Departure City": "Los Angeles",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 14,
+   "Returning Day": 24,
+   "Destination City": "Boston"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Los Angeles, CA (LAX)",
+     "DepartTime": "0000",
+     "DepartDate": "Sat., Jan. 14, 2017",
+     "To": "Boston, MA (BOS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 24, 2017",
+     "ToCode": "BOS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "LAX",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "3bc3ad9bd5": {
+  "instruction": {
+   "Departure City": "Los Angeles",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 26,
+   "Returning Day": 31,
+   "Destination City": "Denver"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Los Angeles, CA (LAX)",
+     "DepartTime": "0000",
+     "DepartDate": "Thu., Jan. 26, 2017",
+     "To": "Denver, CO (DEN)",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 31, 2017",
+     "ToCode": "DEN",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "LAX",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "15340da1b6": {
+  "instruction": {
+   "Departure City": "San Diego",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 14,
+   "Returning Day": 17,
+   "Destination City": "Los Angeles"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "san diego",
+     "DepartTime": "0000",
+     "DepartDate": "Sat., Jan. 14, 2017",
+     "To": "los angeles",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 17, 2017",
+     "ToCode": "los angeles",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "san diego",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "49b3c1ed3f": {
+  "instruction": {
+   "Departure City": "Austin",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 12,
+   "Returning Day": 22,
+   "Destination City": "New York"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Austin, TX (AUS)",
+     "DepartTime": "0000",
+     "DepartDate": "Thu., Jan. 12, 2017",
+     "To": "New York, NY (JFK)",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 22, 2017",
+     "ToCode": "JFK",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "AUS",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "00a130952b": {
+  "instruction": {
+   "Departure City": "Dallas",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 2,
+   "Returning Day": 10,
+   "Destination City": "Austin"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Dallas, TX (DAL - Love Field)",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 2, 2017",
+     "To": "Austin, TX (AUS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 10, 2017",
+     "ToCode": "AUS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DAL",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "590a23c15d": {
+  "instruction": {
+   "Departure City": "New York",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 30,
+   "Returning Day": 30,
+   "Destination City": "Las Vegas"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "New York, NY (JFK)",
+     "DepartTime": "0000",
+     "DepartDate": "Mon., Jan. 30, 2017",
+     "To": "Las Vegas, NV (LAS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 30, 2017",
+     "ToCode": "LAS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "JFK",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "a3730a02bc": {
+  "instruction": {
+   "Departure City": "Washinton DC",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 19,
+   "Returning Day": 23,
+   "Destination City": "Denver"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Washington, DC (DCA - National)",
+     "DepartTime": "0000",
+     "DepartDate": "Thu., Jan. 19, 2017",
+     "To": "Denver, CO (DEN)",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 23, 2017",
+     "ToCode": "DEN",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DCA",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "a24a6a3582": {
+  "instruction": {
+   "Departure City": "Portland",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 22,
+   "Returning Day": 30,
+   "Destination City": "San Francisco"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Portland, OR (PDX)",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 22, 2017",
+     "To": "San Francisco, CA (SFO)",
+     "Cabin": "Coach",
+     "ReturnDate": "Mon., Jan. 30, 2017",
+     "ToCode": "SFO",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "PDX",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "d4c11ca199": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 18,
+   "Returning Day": 25,
+   "Destination City": "Boston"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 18, 2017",
+     "To": "Boston, MA (BOS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 25, 2017",
+     "ToCode": "BOS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    },
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Wed., Jan. 18, 2017",
+     "To": "Boston, MA (BOS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 25, 2017",
+     "ToCode": "BOS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "d0ab7073c1": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 29,
+   "Returning Day": 31,
+   "Destination City": "Austin"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Denver, CO (DEN)",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 29, 2017",
+     "To": "Austin, TX (AUS)",
+     "Cabin": "Coach",
+     "ReturnDate": "Tue., Jan. 31, 2017",
+     "ToCode": "AUS",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "DEN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "a523af3bc9": {
+  "instruction": {
+   "Departure City": "Denver",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 14,
+   "Returning Day": 18,
+   "Destination City": "Boston"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "denver",
+     "DepartTime": "0000",
+     "DepartDate": "Sat., Jan. 14, 2017",
+     "To": "boston",
+     "Cabin": "Coach",
+     "ReturnDate": "Wed., Jan. 18, 2017",
+     "ToCode": "boston",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "denver",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "bb9c3dc948": {
+  "instruction": {
+   "Departure City": "New York",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 5,
+   "Returning Day": 26,
+   "Destination City": "San Francisco"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "new york",
+     "DepartTime": "0000",
+     "DepartDate": "Thu., Jan. 5, 2017",
+     "To": "san francisco",
+     "Cabin": "Coach",
+     "ReturnDate": "Thu., Jan. 26, 2017",
+     "ToCode": "san francisco",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "new york",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "eed4147160": {
+  "instruction": {
+   "Departure City": "Washinton DC",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 15,
+   "Returning Day": 15,
+   "Destination City": "Denver"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "Washington, DC (WAS - All Airports)",
+     "DepartTime": "0000",
+     "DepartDate": "Sun., Jan. 15, 2017",
+     "To": "Denver, CO (DEN)",
+     "Cabin": "Coach",
+     "ReturnDate": "Sun., Jan. 15, 2017",
+     "ToCode": "DEN",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "WAS",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ },
+ "5216bd246e": {
+  "instruction": {
+   "Departure City": "San Diego",
+   "Returning Month": 1,
+   "One Way or Round Trip": "return flight",
+   "Departure Month": 1,
+   "Departure Day": 26,
+   "Returning Day": 27,
+   "Destination City": "Los Angeles"
+  },
+  "requests": {
+   "mobile.united.com/Booking": [
+    {
+     "NumberOfAdults": "1",
+     "From": "San Diego, CA (SAN)",
+     "DepartTime": "0000",
+     "DepartDate": "Thu., Jan. 26, 2017",
+     "To": "Los Angeles, CA (LAX)",
+     "Cabin": "Coach",
+     "ReturnDate": "Fri., Jan. 27, 2017",
+     "ToCode": "LAX",
+     "NonstopOnly": "false",
+     "SearchBy": "P",
+     "FromCode": "SAN",
+     "ReturnTime": "0000",
+     "SearchType": "RT"
+    }
+   ]
+  }
+ }
+}

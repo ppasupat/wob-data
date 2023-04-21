@@ -1,0 +1,1278 @@
+{
+ "98caa33cd6": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Wells Cargo",
+   "ANSWER": "2017 WELLS CARGO 7X10 HAULMARK ALUMINUM OPEN TRAILER"
+  }
+ },
+ "90fe7601f2": {
+  "instruction": {
+   "type of atv": "Kawasaki Teryx4",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=IL&make=Kawasaki%7C2318344&model=TERYX4%7C764948554&",
+   "state": "Illinois"
+  }
+ },
+ "a159300b4a": {
+  "instruction": {
+   "type of atv": "Suzuki LT-R450",
+   "state": "Arkansas"
+  }
+ },
+ "f87f2f7f82": {
+  "instruction": {
+   "type of atv": "POLARIS RZR XP",
+   "state": "California"
+  }
+ },
+ "297514807e": {
+  "instruction": {
+   "type of atv": "2017 HONDA PIONEER 700 DELUXE DIVER BLUE",
+   "ANSWER": "Blue Springs, FL",
+   "state": "Florida"
+  }
+ },
+ "80b725a7a1": {
+  "instruction": {
+   "state": "Oklahoma",
+   "type of atv": "POLARIS SPORTSMAN"
+  }
+ },
+ "038c6c3839": {
+  "instruction": {
+   "type of atv": "Polaris ACE 500",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=AL&modelkeyword=1&make=Polaris%7C2319876&model=ACE%20500&",
+   "state": "Alabama"
+  }
+ },
+ "3f30e9bbb7": {
+  "instruction": {
+   "type of atv": "Bad Boy Off Road Stampede 900 EPS",
+   "state": "Florida"
+  }
+ },
+ "38d48061fd": {
+  "instruction": {
+   "state": "Florida",
+   "type of atv": "Kawasaki KFX450R"
+  }
+ },
+ "2c2f1afb7c": {
+  "instruction": {
+   "type of atv": "Kawasaki Tecate-4 KFX250",
+   "state": "Georgia"
+  }
+ },
+ "fa9d00f692": {
+  "instruction": {
+   "state": "Texas",
+   "type of atv": "Arctic Cat Prowler ",
+   "ANSWER": "https://www.atvtrader.com/dealers/Rockwall-Honda-Yamaha-2886842/listing/2016-Arctic-Cat-Prowler%C2%AE-700-XT%E2%84%A2-118798747"
+  }
+ },
+ "06f258bdf2": {
+  "instruction": {
+   "state": "Minnesota",
+   "type of atv": "John Deere RSX860",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=MN&modelkeyword=1&make=John%20Deere%7C6169545&model=RSX860&"
+  }
+ },
+ "ed81e22207": {
+  "instruction": {
+   "type of atv": " 2016 POLARIS PHOENIX\u00ae 200",
+   "ANSWER": "Greer, SC",
+   "state": "South Carolina"
+  }
+ },
+ "4a05ede73d": {
+  "instruction": {
+   "state": "Michigan",
+   "type of atv": "Yamaha YXZ1000R SE",
+   "ANSWER": "https://www.atvtrader.com/dealers/Approval-Powersports-2894216/listing/2016-Yamaha-YXZ1000R-SE-119994625"
+  }
+ },
+ "bf18225608": {
+  "instruction": {
+   "state": "Utah",
+   "type of atv": "Yamaha Viking VI EPS",
+   "ANSWER": "https://www.atvtrader.com/dealers/Moto-United-3021226/listing/2017-Yamaha-Viking-VI-EPS-120467767"
+  }
+ },
+ "3aa866f9db": {
+  "instruction": {
+   "type of atv": "KTM",
+   "ANSWER": "2008 KTM 525 XC",
+   "state": "California"
+  }
+ },
+ "d7783505e0": {
+  "instruction": {
+   "type of atv": "Polaris Outlaw 50",
+   "ANSWER": "https://www.atvtrader.com/dealers/North-County%27s-House-of-Motorcycles-2882140/listing/2017-Polaris-Outlaw-50-Lime-Squeeze-120072621",
+   "state": "California"
+  }
+ },
+ "7b4f4a54ab": {
+  "instruction": {
+   "state": "Texas",
+   "type of atv": "Hisun HS2DGF"
+  }
+ },
+ "29d1492e56": {
+  "instruction": {
+   "state": "Arizona",
+   "type of atv": "Honda TRX250R"
+  }
+ },
+ "300f1275d8": {
+  "instruction": {
+   "state": "Tennessee ",
+   "type of atv": "Polaris RANGER ETX",
+   "ANSWER": "https://www.atvtrader.com/dealers/Tommy%27s-Motorsports-2983524/listing/2016-Polaris-RANGER-ETX-Sage-Green-119347407"
+  }
+ },
+ "2691c9423e": {
+  "instruction": {
+   "state": "West Virginia",
+   "type of atv": "Kawasaki Brute Force"
+  }
+ },
+ "c7549b7376": {
+  "instruction": {
+   "type of atv": "Yamaha YFZ450",
+   "state": "Alaska"
+  }
+ },
+ "9e45fee552": {
+  "instruction": {
+   "state": "Alabama",
+   "type of atv": "Polaris ACE 500",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=AL&modelkeyword=1&make=Polaris%7C2319876&model=ACE%20500&"
+  }
+ },
+ "1e0bcefe54": {
+  "instruction": {
+   "type of atv": "John Deere RSX860",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=MN&modelkeyword=1&make=John%20Deere%7C6169545&model=RSX860&",
+   "state": "Minnesota"
+  }
+ },
+ "83067ae0c7": {
+  "instruction": {
+   "type of atv": "Artic Cat 400",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=MI&make=Arctic%20Cat%7C2315236&model=400%7C764949641&",
+   "state": "Michigan"
+  }
+ },
+ "19ea75860c": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Yamaha Raptor 660/700"
+  }
+ },
+ "a1c2284e39": {
+  "instruction": {
+   "type of atv": "Tao Tao GK80",
+   "state": "Ohio"
+  }
+ },
+ "c87ae79f2c": {
+  "instruction": {
+   "state": "Texas",
+   "type of atv": "Polaris RZR 1000-4 XP EPS High Lifter Edition",
+   "ANSWER": "https://www.atvtrader.com/dealers/Louis-Powersports-2798102/listing/2017-Polaris-RZR-1000-4-XP-EPS-High-Lifter-Edition-120730845"
+  }
+ },
+ "2e9f251611": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Polaris RZR S 800"
+  }
+ },
+ "1185313d32": {
+  "instruction": {
+   "type of atv": "CAN-AM COMMANDER XT 1000 CAB",
+   "state": "California"
+  }
+ },
+ "0c133f4344": {
+  "instruction": {
+   "type of atv": "Honda Pioneer 1000-5 Deluxe",
+   "ANSWER": "https://www.atvtrader.com/dealers/Honda-of-the-Ozarks-2973774/listing/2016-Honda-Pioneer%E2%84%A2-1000-5-Deluxe-120305131",
+   "state": "Missouri"
+  }
+ },
+ "787a8c7532": {
+  "instruction": {
+   "type of atv": "ARCTIC CAT PROWLER 500",
+   "ANSWER": "https://www.atvtrader.com/dealers/Cannon-Power-Sports-2797576/listing/2017-Arctic-Cat-Prowler-500-119660699",
+   "state": "Minnesota"
+  }
+ },
+ "092b86e6f5": {
+  "instruction": {
+   "state": "New Hampshire",
+   "type of atv": "Polaris Ranger 6X6"
+  }
+ },
+ "15119e48d1": {
+  "instruction": {
+   "state": "Illinois",
+   "type of atv": "CAN-AM MAVERICK X3 TURBO R"
+  }
+ },
+ "dea279cab3": {
+  "instruction": {
+   "type of atv": "Arctic Cat Prowler ",
+   "ANSWER": "https://www.atvtrader.com/dealers/Rockwall-Honda-Yamaha-2886842/listing/2016-Arctic-Cat-Prowler%C2%AE-700-XT%E2%84%A2-118798747",
+   "state": "Texas"
+  }
+ },
+ "deeba77d55": {
+  "instruction": {
+   "type of atv": " 2017 POLARIS OUTLAW 110 PINK POWER",
+   "ANSWER": "Santa Ana, CA",
+   "state": "California"
+  }
+ },
+ "ce12810d0a": {
+  "instruction": {
+   "type of atv": "HONDA FOURTRAX RANCHER",
+   "state": "Virginia"
+  }
+ },
+ "a201172800": {
+  "instruction": {
+   "state": "Arizona",
+   "type of atv": "Yamaha YFZ",
+   "ANSWER": "https://www.atvtrader.com/listing/2006-Yamaha-YFZ-120749368"
+  }
+ },
+ "7f5222c2e1": {
+  "instruction": {
+   "type of atv": "Can-Am Commander",
+   "ANSWER": "https://www.atvtrader.com/dealers/ABC-Cycle-Dealer%28Demo-Dealer%29-2985080/listing/2016-Can-Am-Commander%E2%84%A2-Limited-1000-120908260",
+   "state": "New York"
+  }
+ },
+ "96a1fc1ddc": {
+  "instruction": {
+   "type of atv": "Yamaha Raptor 700R",
+   "ANSWER": "https://www.atvtrader.com/dealers/Mission-Motorsports-735896/listing/2017-Yamaha-Raptor-700R-120500300",
+   "state": "California"
+  }
+ },
+ "b1b5ab30eb": {
+  "instruction": {
+   "state": "Washington",
+   "type of atv": "Custom GAS 4 PASSENGER "
+  }
+ },
+ "3c4741d851": {
+  "instruction": {
+   "type of atv": "Can-Am Defender MAX XT HD10",
+   "ANSWER": "https://www.atvtrader.com/dealers/Zia-Powersports-3043506/listing/2017-Can-Am-Defender-MAX-XT%E2%84%A2-HD10-120989388",
+   "state": "New Mexico"
+  }
+ },
+ "814285bc51": {
+  "instruction": {
+   "type of atv": "Honda",
+   "ANSWER": "1987 HONDA TRX 250R",
+   "state": "California"
+  }
+ },
+ "b1e098ed25": {
+  "instruction": {
+   "type of atv": "Sea Doo",
+   "ANSWER": "2016 SEA DOO SCRAMBLER XP 1000 TITANIUM MATTE LIME",
+   "state": "California"
+  }
+ },
+ "674407c9b1": {
+  "instruction": {
+   "type of atv": "Honda TRX 400EX",
+   "state": "Indiana"
+  }
+ },
+ "fa90c68ea0": {
+  "instruction": {
+   "type of atv": "Custom GAS 4 PASSENGER ",
+   "state": "Washington"
+  }
+ },
+ "2f33a3f288": {
+  "instruction": {
+   "state": "California",
+   "type of atv": " 2017 POLARIS RZR XP\u00ae 1000 EPS LE",
+   "ANSWER": "EL Cajon, CA"
+  }
+ },
+ "66a03980cb": {
+  "instruction": {
+   "type of atv": " SUZUKI KINGQUAD 500AXI",
+   "state": "Florida"
+  }
+ },
+ "0b3d995b94": {
+  "instruction": {
+   "type of atv": "Yamaha GRIZZLY",
+   "state": "New York"
+  }
+ },
+ "d490e9ef5a": {
+  "instruction": {
+   "type of atv": "Hisun HS2DGF",
+   "state": "Texas"
+  }
+ },
+ "3eb18d1897": {
+  "instruction": {
+   "type of atv": "Kawasaki Bruce Force 750",
+   "state": "Maine"
+  }
+ },
+ "498d3fdd98": {
+  "instruction": {
+   "state": "Virginia",
+   "type of atv": "HONDA FOURTRAX RANCHER"
+  }
+ },
+ "01eb21a80b": {
+  "instruction": {
+   "state": "Illinois",
+   "type of atv": "Can-Am Maverick X3"
+  }
+ },
+ "51e1e4792f": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "BMS",
+   "ANSWER": "2015 BMS 400CC UTILITY ATV QUAD"
+  }
+ },
+ "d576408f08": {
+  "instruction": {
+   "state": "Virginia",
+   "type of atv": "Honda FourTrax Ranger"
+  }
+ },
+ "9a9201b562": {
+  "instruction": {
+   "state": "Illinois",
+   "type of atv": "Kawasaki Teryx4",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=IL&make=Kawasaki%7C2318344&model=TERYX4%7C764948554&"
+  }
+ },
+ "d0a93593c6": {
+  "instruction": {
+   "state": "Louisiana",
+   "type of atv": "Suzuki King Quad 450AXI"
+  }
+ },
+ "81ce29c749": {
+  "instruction": {
+   "state": "Florida",
+   "type of atv": "Kawasaki Teryx4 LE",
+   "ANSWER": "https://www.atvtrader.com/dealers/Champions-Honda-Kawasaki-2881612/listing/2017-Kawasaki-Teryx4-LE-120430794"
+  }
+ },
+ "fa8fa6dd8c": {
+  "instruction": {
+   "state": "Massachusetts",
+   "type of atv": "Yamaha GRIZZLY 700 EPS",
+   "ANSWER": "https://www.atvtrader.com/dealers/MOMS-Foxboro-2898050/listing/2017-Yamaha-GRIZZLY-700-EPS-120212909"
+  }
+ },
+ "cd409584e1": {
+  "instruction": {
+   "type of atv": "Kawasaki KFX450R",
+   "state": "Florida"
+  }
+ },
+ "27b666e2ea": {
+  "instruction": {
+   "type of atv": " 2017 POLARIS RZR 4 1000 XP EPS",
+   "ANSWER": "Greenville, TX",
+   "state": "Texas"
+  }
+ },
+ "d6a5c7f33b": {
+  "instruction": {
+   "state": "Georgia",
+   "type of atv": " POLARIS RANGER 570"
+  }
+ },
+ "8c2cbef4cf": {
+  "instruction": {
+   "type of atv": "Can-Am",
+   "ANSWER": "2001 CAN AM BOMBARDIER",
+   "state": "California"
+  }
+ },
+ "14ae414bbf": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Sea Doo",
+   "ANSWER": "2016 SEA DOO SCRAMBLER XP 1000 TITANIUM MATTE LIME"
+  }
+ },
+ "ae9ad8f3bf": {
+  "instruction": {
+   "state": "Arkansas",
+   "type of atv": "Suzuki LT-R450"
+  }
+ },
+ "fea56aa9c8": {
+  "instruction": {
+   "state": "Georgia",
+   "type of atv": "Kawasaki Tecate-4 KFX250"
+  }
+ },
+ "e383c38f4f": {
+  "instruction": {
+   "type of atv": "Polaris SPTS 90",
+   "state": "Texas"
+  }
+ },
+ "ecb0258a1d": {
+  "instruction": {
+   "type of atv": " 2017 ARCTIC CAT ALTERRA TRV 500",
+   "ANSWER": "Rockwall, TX",
+   "state": "Texas"
+  }
+ },
+ "f0013dbf1d": {
+  "instruction": {
+   "state": "Texas",
+   "type of atv": "Polaris SPTS 90"
+  }
+ },
+ "753ed3fb26": {
+  "instruction": {
+   "type of atv": "Odes",
+   "ANSWER": "2017 ODES 110CC 125CC",
+   "state": "California"
+  }
+ },
+ "2ee725db20": {
+  "instruction": {
+   "state": "Florida",
+   "type of atv": "Suzuki KingQuad",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=FL&make=Suzuki%7C2320128&model=KINGQUAD%7C764861185&"
+  }
+ },
+ "509d820d76": {
+  "instruction": {
+   "type of atv": "Honda CRX250",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&state=CA&make=Honda%7C2316874&model=CRX250%7C764936718&radius=150&",
+   "state": "California"
+  }
+ },
+ "fc17394ffa": {
+  "instruction": {
+   "state": "Florida",
+   "type of atv": "Honda Pioneer 500"
+  }
+ },
+ "6017715101": {
+  "instruction": {
+   "state": "Florida",
+   "type of atv": "Honda Pioneer 700"
+  }
+ },
+ "fe9e4b8586": {
+  "instruction": {
+   "state": "Hawaii",
+   "type of atv": "Yamaha Banshee"
+  }
+ },
+ "daada9d84e": {
+  "instruction": {
+   "type of atv": "Yamaha Viking VI EPS",
+   "ANSWER": "https://www.atvtrader.com/dealers/Moto-United-3021226/listing/2017-Yamaha-Viking-VI-EPS-120467767",
+   "state": "Utah"
+  }
+ },
+ "65e9a5a137": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Polaris Outlaw 50",
+   "ANSWER": "https://www.atvtrader.com/dealers/North-County%27s-House-of-Motorcycles-2882140/listing/2017-Polaris-Outlaw-50-Lime-Squeeze-120072621"
+  }
+ },
+ "646e3f5406": {
+  "instruction": {
+   "state": "Indiana",
+   "type of atv": "Honda TRX 400EX"
+  }
+ },
+ "7a87971611": {
+  "instruction": {
+   "state": "Texas",
+   "type of atv": "Kawasaki Mule Pro-FXT",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=TX&make=Kawasaki%7C2318344&model=MULE%7C764858038&trim=PRO-FXT%7C24040&"
+  }
+ },
+ "ea197c5642": {
+  "instruction": {
+   "state": "Pennsylvania",
+   "type of atv": "Argo FRONTIER 6X6 S"
+  }
+ },
+ "ace8ad6c45": {
+  "instruction": {
+   "type of atv": " 2017 CAN-AM MAVERICK X3 X RS TURBO R",
+   "ANSWER": "Jones, OK",
+   "state": "Oklahoma"
+  }
+ },
+ "203ed75dae": {
+  "instruction": {
+   "state": "West Virginia",
+   "type of atv": "KAWASAKI BRUTE FORCE 750 4X4I EPS"
+  }
+ },
+ "4d76803d11": {
+  "instruction": {
+   "type of atv": "Honda TRX400EX",
+   "state": "Florida"
+  }
+ },
+ "e68e715873": {
+  "instruction": {
+   "state": "West Virginia",
+   "type of atv": "Kawasaki Mule PRO-FXT\u2122 EPS Camo",
+   "ANSWER": "https://www.atvtrader.com/dealers/Romney-Cycle-Center-2916730/listing/2017-Kawasaki-Mule-PRO-FXT%E2%84%A2-EPS-Camo-120124302"
+  }
+ },
+ "41692dabc9": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Honda CRX250",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&state=CA&make=Honda%7C2316874&model=CRX250%7C764936718&radius=150&"
+  }
+ },
+ "0558b4833e": {
+  "instruction": {
+   "type of atv": "KAWASAKI BRUTE FORCE 750 4X4I EPS",
+   "state": "West Virginia"
+  }
+ },
+ "bee660bb76": {
+  "instruction": {
+   "type of atv": "Kawasaki Brute Force",
+   "state": "West Virginia"
+  }
+ },
+ "22ce4d446a": {
+  "instruction": {
+   "state": "Michigan",
+   "type of atv": "Arctic Cat ALTERRA 500"
+  }
+ },
+ "ee6bdf8d5d": {
+  "instruction": {
+   "state": "New York",
+   "type of atv": "Yamaha GRIZZLY"
+  }
+ },
+ "00e720ad9e": {
+  "instruction": {
+   "type of atv": "Yamaha",
+   "ANSWER": "2013 YAMAHA GRIZZLY 700 FI AUTO 4X4 EPS SPECIAL EDITION",
+   "state": "California"
+  }
+ },
+ "080eeba568": {
+  "instruction": {
+   "state": "Conneticut",
+   "type of atv": "Bobcat UTV 3400"
+  }
+ },
+ "9048c868b5": {
+  "instruction": {
+   "type of atv": "Kawasaki Mule PRO-FXT\u2122 EPS Camo",
+   "ANSWER": "https://www.atvtrader.com/dealers/Romney-Cycle-Center-2916730/listing/2017-Kawasaki-Mule-PRO-FXT%E2%84%A2-EPS-Camo-120124302",
+   "state": "West Virginia"
+  }
+ },
+ "da56cc9f67": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "DRR",
+   "ANSWER": "2016 DRR DRX 50"
+  }
+ },
+ "2182c8f013": {
+  "instruction": {
+   "state": "Florida",
+   "type of atv": "Bad Boy Off Road Stampede 900 EPS"
+  }
+ },
+ "e8d7488aaf": {
+  "instruction": {
+   "type of atv": "Arctic Cat PROWLER 500 HDX",
+   "ANSWER": "https://www.atvtrader.com/listing/2017-Arctic-Cat-PROWLER-500-HDX-121004595",
+   "state": "North Dakota"
+  }
+ },
+ "e058ec5856": {
+  "instruction": {
+   "state": "Virginia",
+   "type of atv": "Honda FourTrax Rancher 4X4",
+   "ANSWER": "https://www.atvtrader.com/dealers/Fredericksburg-Motor-Sports-2996626/listing/2017-Honda-FourTrax-Rancher-4X4-118555910"
+  }
+ },
+ "39f257cea2": {
+  "instruction": {
+   "state": "Minnesota",
+   "type of atv": "ARCTIC CAT PROWLER 500",
+   "ANSWER": "https://www.atvtrader.com/dealers/Cannon-Power-Sports-2797576/listing/2017-Arctic-Cat-Prowler-500-119660699"
+  }
+ },
+ "2e7211a7b1": {
+  "instruction": {
+   "state": "Illinois",
+   "type of atv": "Polaris Sportsman 570 SP",
+   "ANSWER": "https://www.atvtrader.com/dealers/Nielsen-Enterprises-2976430/listing/2018-Polaris-Sportsman-570-SP-120632274"
+  }
+ },
+ "0d010098ab": {
+  "instruction": {
+   "state": "Florida",
+   "type of atv": "Honda Pioneer"
+  }
+ },
+ "dd85f86a4b": {
+  "instruction": {
+   "state": "Idaho",
+   "type of atv": "Kawasaki KLF220"
+  }
+ },
+ "f820b1cddd": {
+  "instruction": {
+   "state": "North Carolina",
+   "type of atv": "Bobcat UTV 3400"
+  }
+ },
+ "fa954092ac": {
+  "instruction": {
+   "type of atv": "Bobcat UTV 3400",
+   "state": "Conneticut"
+  }
+ },
+ "6ba4f8a78d": {
+  "instruction": {
+   "state": "Florida",
+   "type of atv": " SUZUKI KINGQUAD 500AXI"
+  }
+ },
+ "2c2b127882": {
+  "instruction": {
+   "type of atv": "Yamaha YXZ1000R SE",
+   "ANSWER": "https://www.atvtrader.com/dealers/Approval-Powersports-2894216/listing/2016-Yamaha-YXZ1000R-SE-119994625",
+   "state": "Michigan"
+  }
+ },
+ "e98cb4dcc7": {
+  "instruction": {
+   "state": "Missouri",
+   "type of atv": "Honda Pioneer 1000-5 Deluxe",
+   "ANSWER": "https://www.atvtrader.com/dealers/Honda-of-the-Ozarks-2973774/listing/2016-Honda-Pioneer%E2%84%A2-1000-5-Deluxe-120305131"
+  }
+ },
+ "006b465087": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Can-Am",
+   "ANSWER": "2001 CAN AM BOMBARDIER"
+  }
+ },
+ "dc49665d31": {
+  "instruction": {
+   "state": "North Dakota",
+   "type of atv": "Arctic Cat PROWLER 500 HDX",
+   "ANSWER": "https://www.atvtrader.com/listing/2017-Arctic-Cat-PROWLER-500-HDX-121004595"
+  }
+ },
+ "0a9df6ae3d": {
+  "instruction": {
+   "state": "Alabama",
+   "type of atv": "Kymco Mxu 450i Camo"
+  }
+ },
+ "6ab1966822": {
+  "instruction": {
+   "type of atv": "Honda Pioneer",
+   "state": "Florida"
+  }
+ },
+ "70e7654b75": {
+  "instruction": {
+   "state": "Ohio",
+   "type of atv": "Tao Tao GK80"
+  }
+ },
+ "9924e0ca92": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Polaris RZR XP 4"
+  }
+ },
+ "c7d667365d": {
+  "instruction": {
+   "state": "Texas",
+   "type of atv": "Arctic Cat Alterra TRV 500"
+  }
+ },
+ "0b430a7df0": {
+  "instruction": {
+   "type of atv": "Yamaha Banshee",
+   "state": "Hawaii"
+  }
+ },
+ "1caa35041c": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Odes",
+   "ANSWER": "2017 ODES 110CC 125CC"
+  }
+ },
+ "c087e6a4c3": {
+  "instruction": {
+   "state": "Alaska",
+   "type of atv": "Yamaha YFZ450"
+  }
+ },
+ "1ca4b420c9": {
+  "instruction": {
+   "state": "Oklahoma",
+   "type of atv": " 2017 CAN-AM MAVERICK X3 X RS TURBO R",
+   "ANSWER": "Jones, OK"
+  }
+ },
+ "f91365eea3": {
+  "instruction": {
+   "type of atv": "Arctic Cat Alterra TRV 500",
+   "state": "Texas"
+  }
+ },
+ "b52c67574b": {
+  "instruction": {
+   "type of atv": "Suzuki LT250R and LT500R",
+   "state": "Connecticut"
+  }
+ },
+ "3ea88a8c82": {
+  "instruction": {
+   "type of atv": "Honda Pioneer 700",
+   "state": "Florida"
+  }
+ },
+ "088baf240e": {
+  "instruction": {
+   "type of atv": "Polaris Ranger 6X6",
+   "state": "New Hampshire"
+  }
+ },
+ "81754eace7": {
+  "instruction": {
+   "type of atv": "BMS",
+   "ANSWER": "2015 BMS 400CC UTILITY ATV QUAD",
+   "state": "California"
+  }
+ },
+ "c5855f2319": {
+  "instruction": {
+   "type of atv": "Polaris Ranger",
+   "state": "Oklahoma"
+  }
+ },
+ "2fb4152a4f": {
+  "instruction": {
+   "type of atv": "2017 Polaris RZR XP 4 1000 EPS High Lifter Editio",
+   "ANSWER": "Lake Wales, FL",
+   "state": "Florida"
+  }
+ },
+ "64a1be0195": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "POLARIS RZR XP TURBO EPS"
+  }
+ },
+ "eb4a817d67": {
+  "instruction": {
+   "type of atv": "Yamaha YFZ",
+   "ANSWER": "https://www.atvtrader.com/listing/2006-Yamaha-YFZ-120749368",
+   "state": "Arizona"
+  }
+ },
+ "f85df3151e": {
+  "instruction": {
+   "type of atv": "Kawasaki Teryx4 LE",
+   "ANSWER": "https://www.atvtrader.com/dealers/Champions-Honda-Kawasaki-2881612/listing/2017-Kawasaki-Teryx4-LE-120430794",
+   "state": "Florida"
+  }
+ },
+ "a8c899a3e1": {
+  "instruction": {
+   "state": "South Carolina",
+   "type of atv": " 2016 POLARIS PHOENIX\u00ae 200",
+   "ANSWER": "Greer, SC"
+  }
+ },
+ "b8408ffb28": {
+  "instruction": {
+   "state": "Texas",
+   "type of atv": "Suzuki KingQuad 400",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=TX&make=Suzuki%7C2320128&model=KingQuad%20400%7C764861185&"
+  }
+ },
+ "4411abc7e9": {
+  "instruction": {
+   "state": "South Carolina",
+   "type of atv": "Arctic Cat Wildcat X Limited",
+   "ANSWER": "https://www.atvtrader.com/dealers/A-1-Speed-and-Sport-3040356/listing/2017-Arctic-Cat-Wildcat-X-Limited-120489859"
+  }
+ },
+ "75a602c9d8": {
+  "instruction": {
+   "type of atv": "DRR",
+   "ANSWER": "2016 DRR DRX 50",
+   "state": "California"
+  }
+ },
+ "4b4bd5f0e7": {
+  "instruction": {
+   "state": "Florida",
+   "type of atv": "2017 Polaris RZR XP 4 1000 EPS High Lifter Editio",
+   "ANSWER": "Lake Wales, FL"
+  }
+ },
+ "b3d09dec31": {
+  "instruction": {
+   "type of atv": "Yamaha GRIZZLY 700 EPS",
+   "ANSWER": "https://www.atvtrader.com/dealers/MOMS-Foxboro-2898050/listing/2017-Yamaha-GRIZZLY-700-EPS-120212909",
+   "state": "Massachusetts"
+  }
+ },
+ "5905bd42c5": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Honda FourTrax Rancher",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&state=CA&radius=150&make=Honda%7C2316874&model=FOURTRAX%20RANCHER%7C764948961&"
+  }
+ },
+ "12a3176240": {
+  "instruction": {
+   "type of atv": "Arctic Cat ALTERRA 500",
+   "state": "Michigan"
+  }
+ },
+ "5beffe7b0f": {
+  "instruction": {
+   "type of atv": "Yamaha YXZ1000R",
+   "state": "California"
+  }
+ },
+ "2e51982d27": {
+  "instruction": {
+   "type of atv": "Yamaha Raptor 660/700",
+   "state": "California"
+  }
+ },
+ "f03c4b8c75": {
+  "instruction": {
+   "state": "Texas",
+   "type of atv": " 2017 ARCTIC CAT ALTERRA TRV 500",
+   "ANSWER": "Rockwall, TX"
+  }
+ },
+ "95e833592c": {
+  "instruction": {
+   "type of atv": "Honda TRX250R",
+   "state": "Arizona"
+  }
+ },
+ "71b08768a6": {
+  "instruction": {
+   "type of atv": "POLARIS RZR XP TURBO EPS",
+   "state": "California"
+  }
+ },
+ "6cf3db52ef": {
+  "instruction": {
+   "type of atv": " POLARIS RANGER 570",
+   "state": "Georgia"
+  }
+ },
+ "86635f6fbc": {
+  "instruction": {
+   "state": "Florida",
+   "type of atv": "Honda TRX400EX"
+  }
+ },
+ "b3c072fabb": {
+  "instruction": {
+   "type of atv": "Can-Am Maverick X3",
+   "state": "Illinois"
+  }
+ },
+ "053bb715b4": {
+  "instruction": {
+   "type of atv": "Polaris RANGER ETX",
+   "ANSWER": "https://www.atvtrader.com/dealers/Tommy%27s-Motorsports-2983524/listing/2016-Polaris-RANGER-ETX-Sage-Green-119347407",
+   "state": "Tennessee "
+  }
+ },
+ "90813d34df": {
+  "instruction": {
+   "type of atv": "Bobcat UTV 3400",
+   "state": "North Carolina"
+  }
+ },
+ "59dac184f6": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Yamaha YXZ1000R"
+  }
+ },
+ "2a48775397": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Yamaha",
+   "ANSWER": "2013 YAMAHA GRIZZLY 700 FI AUTO 4X4 EPS SPECIAL EDITION"
+  }
+ },
+ "4d9c8a59d2": {
+  "instruction": {
+   "type of atv": "Taotao",
+   "ANSWER": "2017 TAO TAO CHEETAH",
+   "state": "California"
+  }
+ },
+ "d404323c99": {
+  "instruction": {
+   "type of atv": "Kawasaki Mule Pro-FXT",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=TX&make=Kawasaki%7C2318344&model=MULE%7C764858038&trim=PRO-FXT%7C24040&",
+   "state": "Texas"
+  }
+ },
+ "3f73f6190c": {
+  "instruction": {
+   "state": "Connecticut",
+   "type of atv": "Suzuki LT250R and LT500R"
+  }
+ },
+ "9e2b26fa39": {
+  "instruction": {
+   "state": "Colorado",
+   "type of atv": "Honda TRX450R"
+  }
+ },
+ "d4df53ff93": {
+  "instruction": {
+   "type of atv": " 2017 POLARIS RZR XP\u00ae 1000 EPS LE",
+   "ANSWER": "EL Cajon, CA",
+   "state": "California"
+  }
+ },
+ "68607087df": {
+  "instruction": {
+   "state": "California",
+   "type of atv": " 2017 POLARIS OUTLAW 110 PINK POWER",
+   "ANSWER": "Santa Ana, CA"
+  }
+ },
+ "2a92ad4f5e": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "POLARIS RZR XP"
+  }
+ },
+ "2f4cb2086a": {
+  "instruction": {
+   "type of atv": "Can-Am Maverick",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=OH&make=Can-Am%7C2315918&model=MAVERICK%7C764949372&",
+   "state": "Ohio"
+  }
+ },
+ "7c8f1b6342": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "KTM",
+   "ANSWER": "2008 KTM 525 XC"
+  }
+ },
+ "3840f6d000": {
+  "instruction": {
+   "type of atv": "Can-Am Maverick\u2122 X3 X rs Turbo R",
+   "ANSWER": "https://www.atvtrader.com/dealers/Mission-Motorsports-735896/listing/2017-Can-Am-Maverick%E2%84%A2-X3-X-rs-Turbo-R-120118774",
+   "state": "California"
+  }
+ },
+ "46756879de": {
+  "instruction": {
+   "type of atv": "Argo FRONTIER 6X6 S",
+   "state": "Pennsylvania"
+  }
+ },
+ "c9bada3d10": {
+  "instruction": {
+   "type of atv": "Polaris Sportsman 570 SP",
+   "ANSWER": "https://www.atvtrader.com/dealers/Nielsen-Enterprises-2976430/listing/2018-Polaris-Sportsman-570-SP-120632274",
+   "state": "Illinois"
+  }
+ },
+ "cb06810daf": {
+  "instruction": {
+   "state": "Florida",
+   "type of atv": "2017 HONDA PIONEER 700 DELUXE DIVER BLUE",
+   "ANSWER": "Blue Springs, FL"
+  }
+ },
+ "8fe5435644": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Can-Am Maverick\u2122 X3 X rs Turbo R",
+   "ANSWER": "https://www.atvtrader.com/dealers/Mission-Motorsports-735896/listing/2017-Can-Am-Maverick%E2%84%A2-X3-X-rs-Turbo-R-120118774"
+  }
+ },
+ "f8423689d8": {
+  "instruction": {
+   "type of atv": "Kawasaki KLF220",
+   "state": "Idaho"
+  }
+ },
+ "ff808722ab": {
+  "instruction": {
+   "type of atv": "Honda FourTrax Rancher",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&state=CA&radius=150&make=Honda%7C2316874&model=FOURTRAX%20RANCHER%7C764948961&",
+   "state": "California"
+  }
+ },
+ "ab880bb555": {
+  "instruction": {
+   "state": "Georgia",
+   "type of atv": "2017 KAWASAKI MULE PRO-FXT EPS",
+   "ANSWER": "Kennesaw, GA"
+  }
+ },
+ "166f9362ff": {
+  "instruction": {
+   "state": "Michigan",
+   "type of atv": "Artic Cat 400",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=MI&make=Arctic%20Cat%7C2315236&model=400%7C764949641&"
+  }
+ },
+ "ece65aedb5": {
+  "instruction": {
+   "type of atv": "Polaris RZR XP 4",
+   "state": "California"
+  }
+ },
+ "0818728041": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Taotao",
+   "ANSWER": "2017 TAO TAO CHEETAH"
+  }
+ },
+ "36c9220e91": {
+  "instruction": {
+   "type of atv": "Kawasaki KFX700",
+   "state": "Delaware"
+  }
+ },
+ "b6a3eaaaf1": {
+  "instruction": {
+   "type of atv": "Polaris RZR S 800",
+   "state": "California"
+  }
+ },
+ "cd501ebcba": {
+  "instruction": {
+   "type of atv": "CAN-AM MAVERICK X3 TURBO R",
+   "state": "Illinois"
+  }
+ },
+ "f7fa69bd7a": {
+  "instruction": {
+   "type of atv": " 2017 POLARIS RZR XP 1000 EPS TITANIUM METALLIC",
+   "ANSWER": "Inglewood, CA",
+   "state": "California"
+  }
+ },
+ "745af1996a": {
+  "instruction": {
+   "state": "New Mexico",
+   "type of atv": "Can-Am Defender MAX XT HD10",
+   "ANSWER": "https://www.atvtrader.com/dealers/Zia-Powersports-3043506/listing/2017-Can-Am-Defender-MAX-XT%E2%84%A2-HD10-120989388"
+  }
+ },
+ "d35414fe88": {
+  "instruction": {
+   "state": "Oklahoma",
+   "type of atv": "Polaris Ranger"
+  }
+ },
+ "1384d8303a": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Yamaha Raptor 700R",
+   "ANSWER": "https://www.atvtrader.com/dealers/Mission-Motorsports-735896/listing/2017-Yamaha-Raptor-700R-120500300"
+  }
+ },
+ "7845630130": {
+  "instruction": {
+   "state": "Ohio",
+   "type of atv": "Can-Am Maverick",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=OH&make=Can-Am%7C2315918&model=MAVERICK%7C764949372&"
+  }
+ },
+ "897fc7f0af": {
+  "instruction": {
+   "type of atv": "Honda FourTrax Rancher 4X4",
+   "ANSWER": "https://www.atvtrader.com/dealers/Fredericksburg-Motor-Sports-2996626/listing/2017-Honda-FourTrax-Rancher-4X4-118555910",
+   "state": "Virginia"
+  }
+ },
+ "47b27c3df7": {
+  "instruction": {
+   "state": "California",
+   "type of atv": " 2017 POLARIS RZR XP 1000 EPS TITANIUM METALLIC",
+   "ANSWER": "Inglewood, CA"
+  }
+ },
+ "48b25b0e70": {
+  "instruction": {
+   "type of atv": "Suzuki KingQuad",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=FL&make=Suzuki%7C2320128&model=KINGQUAD%7C764861185&",
+   "state": "Florida"
+  }
+ },
+ "af8ee02369": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "Honda",
+   "ANSWER": "1987 HONDA TRX 250R"
+  }
+ },
+ "9226353569": {
+  "instruction": {
+   "type of atv": "Kawasaki Mule Pro-FXT",
+   "state": "Texas"
+  }
+ },
+ "c1ce5bdeec": {
+  "instruction": {
+   "type of atv": "2017 KAWASAKI MULE PRO-FXT EPS",
+   "ANSWER": "Kennesaw, GA",
+   "state": "Georgia"
+  }
+ },
+ "7914d2d5eb": {
+  "instruction": {
+   "state": "New York",
+   "type of atv": "Can-Am Commander",
+   "ANSWER": "https://www.atvtrader.com/dealers/ABC-Cycle-Dealer%28Demo-Dealer%29-2985080/listing/2016-Can-Am-Commander%E2%84%A2-Limited-1000-120908260"
+  }
+ },
+ "9d25985c4c": {
+  "instruction": {
+   "type of atv": "Polaris RZR 1000-4 XP EPS High Lifter Edition",
+   "ANSWER": "https://www.atvtrader.com/dealers/Louis-Powersports-2798102/listing/2017-Polaris-RZR-1000-4-XP-EPS-High-Lifter-Edition-120730845",
+   "state": "Texas"
+  }
+ },
+ "2f8e6e4769": {
+  "instruction": {
+   "state": "Texas",
+   "type of atv": " 2017 POLARIS RZR 4 1000 XP EPS",
+   "ANSWER": "Greenville, TX"
+  }
+ },
+ "e83282eecd": {
+  "instruction": {
+   "type of atv": "POLARIS SPORTSMAN",
+   "state": "Oklahoma"
+  }
+ },
+ "7f15f713c7": {
+  "instruction": {
+   "type of atv": "Suzuki King Quad 450AXI",
+   "state": "Louisiana"
+  }
+ },
+ "fdcb03efb5": {
+  "instruction": {
+   "type of atv": "Honda FourTrax Ranger",
+   "state": "Virginia"
+  }
+ },
+ "65e460b8b6": {
+  "instruction": {
+   "type of atv": "Suzuki KingQuad 400",
+   "ANSWER": "https://www.atvtrader.com/search-results?sort=featured%3Aasc&page=1&radius=150&state=TX&make=Suzuki%7C2320128&model=KingQuad%20400%7C764861185&",
+   "state": "Texas"
+  }
+ },
+ "68911cd3aa": {
+  "instruction": {
+   "state": "Texas",
+   "type of atv": "Kawasaki Mule Pro-FXT"
+  }
+ },
+ "546d3fcfb4": {
+  "instruction": {
+   "type of atv": "Honda Pioneer 500",
+   "state": "Florida"
+  }
+ },
+ "8624e47142": {
+  "instruction": {
+   "state": "Maine",
+   "type of atv": "Kawasaki Bruce Force 750"
+  }
+ },
+ "d6b473b1ea": {
+  "instruction": {
+   "state": "California",
+   "type of atv": "CAN-AM COMMANDER XT 1000 CAB"
+  }
+ },
+ "a4b00e3ac8": {
+  "instruction": {
+   "type of atv": "Honda TRX450R",
+   "state": "Colorado"
+  }
+ },
+ "ca4f2ed5eb": {
+  "instruction": {
+   "type of atv": "Arctic Cat Wildcat X Limited",
+   "ANSWER": "https://www.atvtrader.com/dealers/A-1-Speed-and-Sport-3040356/listing/2017-Arctic-Cat-Wildcat-X-Limited-120489859",
+   "state": "South Carolina"
+  }
+ },
+ "1e28ea3276": {
+  "instruction": {
+   "type of atv": "Wells Cargo",
+   "ANSWER": "2017 WELLS CARGO 7X10 HAULMARK ALUMINUM OPEN TRAILER",
+   "state": "California"
+  }
+ },
+ "487050253b": {
+  "instruction": {
+   "type of atv": "Kymco Mxu 450i Camo",
+   "state": "Alabama"
+  }
+ },
+ "198c4f4261": {
+  "instruction": {
+   "state": "Delaware",
+   "type of atv": "Kawasaki KFX700"
+  }
+ }
+}

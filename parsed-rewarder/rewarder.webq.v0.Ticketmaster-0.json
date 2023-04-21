@@ -1,0 +1,1112 @@
+{
+ "a00bb031cd": {
+  "instruction": {
+   "start date": "02/26/2017",
+   "type of music played": "R&B/Urban Soul",
+   "name of City": "New York",
+   "end date": "03/02/2017"
+  }
+ },
+ "77e48e81e6": {
+  "instruction": {
+   "event type": "Rent (Touring)",
+   "state": "Washington",
+   "ANSWER": "Paramount Theatre"
+  }
+ },
+ "7d1b16783d": {
+  "instruction": {
+   "event type": "Circus",
+   "ANSWER": "Westchester County Center",
+   "state": "New York/Tri-State Area"
+  }
+ },
+ "9372a3a713": {
+  "instruction": {
+   "event type": "Where can i buy tickets for Wicked?",
+   "state": "MA"
+  }
+ },
+ "91988b4200": {
+  "instruction": {
+   "event type": "football",
+   "state": "michigan"
+  }
+ },
+ "7efc8442a0": {
+  "instruction": {
+   "event type": "Disney On Ice presents Worlds of Enchantment ",
+   "state": "California",
+   "ANSWER": "SAP Center at San Jose"
+  }
+ },
+ "214445a404": {
+  "instruction": {
+   "event type": "Bill Engvall",
+   "state": "Minneapolis/St. Paul & More",
+   "ANSWER": "TREASURE ISLAND RESORT & CASINO"
+  }
+ },
+ "281be31dc2": {
+  "instruction": {
+   "event type": "Lady Gaga",
+   "state": "Tacoma, WA",
+   "ANSWER": "Tacoma Dome"
+  }
+ },
+ "df54b6d2e2": {
+  "instruction": {
+   "event type": "Magic Shows",
+   "state": "Greater Las Vegas Area",
+   "ANSWER": "David Copperfield Theater at MGM Grand Hotel and Casino"
+  }
+ },
+ "350801279f": {
+  "instruction": {
+   "event type": "CONCACAF Gold Cup",
+   "ANSWER": "Red Bull Arena, Harrison",
+   "state": "New Jersey"
+  }
+ },
+ "731f669628": {
+  "instruction": {
+   "event type": "Future ",
+   "ANSWER": "Bold Sphere Music at Champions Square New Orleans, LA",
+   "state": "LA"
+  }
+ },
+ "7328c9e2ec": {
+  "instruction": {
+   "event type": "Rock and Pop",
+   "ANSWER": "http://www.ticketmaster.com/browse/rock-and-pop-catid-1/music-rid-10001/new-orleans-and-more-dma-344",
+   "state": "Louisiana"
+  }
+ },
+ "d1a2417478": {
+  "instruction": {
+   "event type": "Sturgill Simpson",
+   "ANSWER": "Charlotte Metro Credit Union Amphitheatre Charlotte, NC",
+   "state": "NC"
+  }
+ },
+ "dcead4059d": {
+  "instruction": {
+   "event type": "Game of Thrones Live Concert Experience ",
+   "state": "OH",
+   "ANSWER": "Nationwide Arena Columbus, OH"
+  }
+ },
+ "42c84f8500": {
+  "instruction": {
+   "event type": "Tennis",
+   "ANSWER": "Ticketmaster",
+   "state": " FL"
+  }
+ },
+ "ed833b5e10": {
+  "instruction": {
+   "event type": "Bill Engvall",
+   "ANSWER": "TREASURE ISLAND RESORT & CASINO",
+   "state": "Minneapolis/St. Paul & More"
+  }
+ },
+ "77e088be29": {
+  "instruction": {
+   "event type": "Disney On Ice presents Dream Big ",
+   "ANSWER": "PPG Paints Arena (Formerly CONSOL Energy Center)",
+   "state": " Pennsylvania"
+  }
+ },
+ "5b547701fd": {
+  "instruction": {
+   "event type": "Where can i buy tickets for Lady Gaga?",
+   "state": "NY"
+  }
+ },
+ "c2f92d774a": {
+  "instruction": {
+   "event type": "soccer",
+   "state": "california"
+  }
+ },
+ "992f4a3ce1": {
+  "instruction": {
+   "event type": "Katt Williams: Great America Tour",
+   "state": "Wisconsin",
+   "ANSWER": "Milwaukee Theatre"
+  }
+ },
+ "dc249453ba": {
+  "instruction": {
+   "event type": "Lady Gaga",
+   "ANSWER": "Tacoma Dome",
+   "state": "Tacoma, WA"
+  }
+ },
+ "8594da5bcc": {
+  "instruction": {
+   "event type": "Gin Blossoms",
+   "ANSWER": "B.B. King Blues Club & Grill ",
+   "state": "New York"
+  }
+ },
+ "47f037286a": {
+  "instruction": {
+   "event type": "WWE ",
+   "ANSWER": "Ticketmaster",
+   "state": "DC"
+  }
+ },
+ "62810bc07a": {
+  "instruction": {
+   "event type": "Basketball",
+   "ANSWER": "Ticketmaster",
+   "state": "MD"
+  }
+ },
+ "5c14abf285": {
+  "instruction": {
+   "event type": "Metallica ",
+   "ANSWER": "M&T Bank Stadium Baltimore, MD",
+   "state": "MD"
+  }
+ },
+ "8e4b40f929": {
+  "instruction": {
+   "event type": "Rock and Pop",
+   "state": "Virginia",
+   "ANSWER": "http://www.ticketmaster.com/browse/rock-and-pop-catid-1/music-rid-10001?tm_link=tm_changeloc_cities"
+  }
+ },
+ "58bfb7fce6": {
+  "instruction": {
+   "event type": "Chris Stapleton",
+   "state": "VA",
+   "ANSWER": "Live Nation"
+  }
+ },
+ "d669714718": {
+  "instruction": {
+   "event type": "World Music",
+   "ANSWER": "http://www.ticketmaster.com/browse/world-music-catid-5/music-rid-10001?tm_link=tm_changeloc_cities",
+   "state": "Maine"
+  }
+ },
+ "f180cb6ed9": {
+  "instruction": {
+   "event type": "Chris Tomlin",
+   "state": "TX",
+   "ANSWER": "Freeman Coliseum San Antonio, TX"
+  }
+ },
+ "23e4807a6d": {
+  "instruction": {
+   "start date": "02/20/2017",
+   "type of music played": "Country and Folk",
+   "name of City": "Boston",
+   "end date": "02/25/2017"
+  }
+ },
+ "e6c24d2156": {
+  "instruction": {
+   "event type": "Chance The Rapper",
+   "state": "Saint Louis & More",
+   "ANSWER": "Scottrade Center"
+  }
+ },
+ "6b55c9c7a5": {
+  "instruction": {
+   "event type": "Jazz and Blues",
+   "ANSWER": "http://www.ticketmaster.com/browse/jazz-and-blues-catid-4/music-rid-10001?tm_link=tm_changeloc_cities",
+   "state": "Iowa"
+  }
+ },
+ "c81c6da7fe": {
+  "instruction": {
+   "event type": "Rent (Touring)",
+   "ANSWER": "Paramount Theatre",
+   "state": "Washington"
+  }
+ },
+ "8993c126c7": {
+  "instruction": {
+   "event type": "professional basketball",
+   "ANSWER": "http://www.ticketmaster.com/artist/805932?list_view=1",
+   "state": "TX"
+  }
+ },
+ "aee0449222": {
+  "instruction": {
+   "event type": "Theatre",
+   "ANSWER": "Live Nation",
+   "state": "NJ"
+  }
+ },
+ "cd996404c5": {
+  "instruction": {
+   "event type": "rodeo",
+   "ANSWER": "http://www.ticketmaster.com/browse/rodeo-catid-28/sports-rid-10004/dallas-fort-worth-and-more-dma-261?rdc_select=n186&type=selected&tm_link=tm_sports_header_l5",
+   "state": "TX"
+  }
+ },
+ "bf80d3aa0c": {
+  "instruction": {
+   "event type": "Harlem Globetrotters",
+   "state": "VA",
+   "ANSWER": "Ticketmaster"
+  }
+ },
+ "8fbbf5c198": {
+  "instruction": {
+   "event type": "live music",
+   "state": "kentucky"
+  }
+ },
+ "56ce4ae0c9": {
+  "instruction": {
+   "event type": "Alternative Rock",
+   "state": "Alabama",
+   "ANSWER": "http://www.ticketmaster.com/browse/alternative-rock-catid-60/music-rid-10001?tm_link=tm_changeloc_cities"
+  }
+ },
+ "353c904b3b": {
+  "instruction": {
+   "event type": "New Age and Spiritual",
+   "ANSWER": "http://www.ticketmaster.com/browse/new-age-and-spiritual-catid-50/music-rid-10001?tm_link=tm_changeloc_cities",
+   "state": "Nebraska"
+  }
+ },
+ "0d8fb7be83": {
+  "instruction": {
+   "event type": "Children's Music and Theater",
+   "state": "Saint Louis & More",
+   "ANSWER": "Peabody Opera House"
+  }
+ },
+ "971bc44184": {
+  "instruction": {
+   "event type": "Texas Stars vs. Chicago Wolves",
+   "state": "TX",
+   "ANSWER": "H-E-B Center at Cedar Park Cedar Park, TX"
+  }
+ },
+ "00d3ca5f85": {
+  "instruction": {
+   "event type": "Harlem Globetrotters",
+   "ANSWER": "Ticketmaster",
+   "state": "VA"
+  }
+ },
+ "1d12c7d426": {
+  "instruction": {
+   "event type": "WWE ",
+   "state": "DC",
+   "ANSWER": "Ticketmaster"
+  }
+ },
+ "94bb57bb5a": {
+  "instruction": {
+   "event type": "Disney On Ice presents Dream Big ",
+   "state": " Pennsylvania",
+   "ANSWER": "PPG Paints Arena (Formerly CONSOL Energy Center)"
+  }
+ },
+ "c6477b2c67": {
+  "instruction": {
+   "event type": "Beautiful: the Carole King Musical ",
+   "state": "TN",
+   "ANSWER": "The Orpheum Theatre Memphis Memphis, TN"
+  }
+ },
+ "493d172d3c": {
+  "instruction": {
+   "event type": "Chance The Rapper",
+   "ANSWER": "Scottrade Center",
+   "state": "Saint Louis & More"
+  }
+ },
+ "d4d7fc0da8": {
+  "instruction": {
+   "event type": "Anaheim Ducks vs. Los Angeles Kings",
+   "ANSWER": "Honda Center",
+   "state": "Anaheim, CA"
+  }
+ },
+ "469f982e6b": {
+  "instruction": {
+   "event type": "Musicals",
+   "state": "New York/Tri-State Area",
+   "ANSWER": "New Amsterdam Theatre"
+  }
+ },
+ "a53ce442e0": {
+  "instruction": {
+   "event type": "Where can i buy tickets for Jerry Seinfeld?",
+   "state": "NY"
+  }
+ },
+ "79da305a36": {
+  "instruction": {
+   "event type": "Theatre",
+   "state": "NJ",
+   "ANSWER": "Live Nation"
+  }
+ },
+ "0636ee8a55": {
+  "instruction": {
+   "event type": "St. Louis Blues vs. Florida Panthers",
+   "ANSWER": "Scottrade Center",
+   "state": "St Louis, MO"
+  }
+ },
+ "95996c8817": {
+  "instruction": {
+   "event type": "Ballet and Dance",
+   "state": "Minneapolis/St. Paul & More",
+   "ANSWER": "Orpheum Theatre"
+  }
+ },
+ "475f170b75": {
+  "instruction": {
+   "event type": "Future ",
+   "state": "LA",
+   "ANSWER": "Bold Sphere Music at Champions Square New Orleans, LA"
+  }
+ },
+ "092c860feb": {
+  "instruction": {
+   "event type": "fairs and festivals",
+   "ANSWER": "Ticketmaster",
+   "state": "Miami, FL"
+  }
+ },
+ "5744d116aa": {
+  "instruction": {
+   "event type": "Festivals",
+   "ANSWER": "http://www.ticketmaster.com/browse/festivals-catid-766/music-rid-10001?tm_link=tm_changeloc_cities",
+   "state": "Colorado"
+  }
+ },
+ "6f56ea8674": {
+  "instruction": {
+   "event type": "Country and Folkd",
+   "state": "Georgia",
+   "ANSWER": "http://www.ticketmaster.com/browse/country-and-folk-catid-2/music-rid-10001?tm_link=tm_changeloc_cities"
+  }
+ },
+ "597755d3c9": {
+  "instruction": {
+   "event type": "volleyball",
+   "state": "ichigan"
+  }
+ },
+ "b2c463dad9": {
+  "instruction": {
+   "event type": "Magic Shows",
+   "ANSWER": "David Copperfield Theater at MGM Grand Hotel and Casino",
+   "state": "Greater Las Vegas Area"
+  }
+ },
+ "e9715c7bb5": {
+  "instruction": {
+   "event type": "Where can I buy tickets for WWE vs WWE RAW?",
+   "state": "MA"
+  }
+ },
+ "29243fdd67": {
+  "instruction": {
+   "event type": "Game of Thrones Live Concert Experience ",
+   "ANSWER": "Nationwide Arena Columbus, OH",
+   "state": "OH"
+  }
+ },
+ "2a1353a9db": {
+  "instruction": {
+   "event type": "Children's Music and Theater",
+   "ANSWER": "Peabody Opera House",
+   "state": "Saint Louis & More"
+  }
+ },
+ "8e24a9da6a": {
+  "instruction": {
+   "event type": "Circus",
+   "state": "New York/Tri-State Area",
+   "ANSWER": "Westchester County Center"
+  }
+ },
+ "c2944b93a1": {
+  "instruction": {
+   "event type": "Where can i buy tickets for The Lion King?",
+   "state": "NY"
+  }
+ },
+ "c545963767": {
+  "instruction": {
+   "event type": "Dance/Electronic",
+   "state": "Alaska",
+   "ANSWER": "http://www.ticketmaster.com/browse/dance-electronic-catid-201/music-rid-10001/alaska-dma-219"
+  }
+ },
+ "4ca1a8c40f": {
+  "instruction": {
+   "event type": "Matthew Curry",
+   "ANSWER": "The Saint",
+   "state": "Asbury Park, NJ"
+  }
+ },
+ "b812979dd6": {
+  "instruction": {
+   "event type": "Football",
+   "state": "DC",
+   "ANSWER": "Ticketmaster"
+  }
+ },
+ "2a3fcad7d5": {
+  "instruction": {
+   "start date": "03/27/2017",
+   "type of music played": "Rap and Hip-Hop",
+   "name of City": "Chicago",
+   "end date": "04/26/2017"
+  }
+ },
+ "524ab9fc9b": {
+  "instruction": {
+   "event type": "Disney On Ice presents Dream Big ",
+   "ANSWER": "Verizon Center Washington, DC",
+   "state": "DC"
+  }
+ },
+ "1a57e2049a": {
+  "instruction": {
+   "event type": "CONCACAF Gold Cup",
+   "state": "New Jersey",
+   "ANSWER": "Red Bull Arena, Harrison"
+  }
+ },
+ "81a2e65e20": {
+  "instruction": {
+   "event type": "soccer",
+   "ANSWER": "http://www.ticketmaster.com/search?tm_link=tm_homeA_header_search&user_input=soccer&q=soccer",
+   "state": "TX"
+  }
+ },
+ "05b78828fd": {
+  "instruction": {
+   "event type": "The Lion King",
+   "state": "New York",
+   "ANSWER": "Minskoff Theatre"
+  }
+ },
+ "8f2815ac54": {
+  "instruction": {
+   "event type": "Gin Blossoms",
+   "state": "New York",
+   "ANSWER": "B.B. King Blues Club & Grill "
+  }
+ },
+ "08ae18a250": {
+  "instruction": {
+   "event type": "amateur basketball",
+   "ANSWER": "http://www.ticketmaster.com/search?tm_link=tm_header_search&user_input=basketball&q=basketball",
+   "state": "TX"
+  }
+ },
+ "31f76a7b6e": {
+  "instruction": {
+   "event type": "Cirque du Soleil: OVO",
+   "ANSWER": "Laredo Energy Arena Laredo, TX",
+   "state": "TX"
+  }
+ },
+ "1b9460e94c": {
+  "instruction": {
+   "event type": "magic show",
+   "ANSWER": "Ticketmaster",
+   "state": "New York City, NY"
+  }
+ },
+ "deeb9d65a9": {
+  "instruction": {
+   "event type": "Jimmy Buffett",
+   "state": "FL",
+   "ANSWER": "Live Nation"
+  }
+ },
+ "3c4ce75358": {
+  "instruction": {
+   "event type": "Sturgill Simpson",
+   "state": "NC",
+   "ANSWER": "Charlotte Metro Credit Union Amphitheatre Charlotte, NC"
+  }
+ },
+ "af48e7f22a": {
+  "instruction": {
+   "event type": "Cherub + The Floozies",
+   "state": "North Carolina",
+   "ANSWER": "The Fillmore Charlotte "
+  }
+ },
+ "6960f615ab": {
+  "instruction": {
+   "event type": "New Age and Spiritual",
+   "state": "Nebraska",
+   "ANSWER": "http://www.ticketmaster.com/browse/new-age-and-spiritual-catid-50/music-rid-10001?tm_link=tm_changeloc_cities"
+  }
+ },
+ "a744f29b0a": {
+  "instruction": {
+   "event type": "Musicals",
+   "ANSWER": "New Amsterdam Theatre",
+   "state": "New York/Tri-State Area"
+  }
+ },
+ "aa875f0163": {
+  "instruction": {
+   "event type": "Ballet and Dance",
+   "ANSWER": "Rosemont Theatre",
+   "state": "Chicagoland & Northern IL"
+  }
+ },
+ "e3c62ae9b3": {
+  "instruction": {
+   "event type": "Jazz and Blues",
+   "state": "Iowa",
+   "ANSWER": "http://www.ticketmaster.com/browse/jazz-and-blues-catid-4/music-rid-10001?tm_link=tm_changeloc_cities"
+  }
+ },
+ "930a7cb6c8": {
+  "instruction": {
+   "event type": "Chris Tomlin",
+   "ANSWER": "Freeman Coliseum San Antonio, TX",
+   "state": "TX"
+  }
+ },
+ "f0caf00ff1": {
+  "instruction": {
+   "event type": "Alaska Aces",
+   "ANSWER": "George M Sullivan Sports Arena",
+   "state": "Anchorage, AK"
+  }
+ },
+ "a1df131174": {
+  "instruction": {
+   "event type": "Luke Bryan",
+   "state": "Saint Louis & More",
+   "ANSWER": "Hollywood Casino Amphitheatre - St. Louis, MO"
+  }
+ },
+ "e697e78f88": {
+  "instruction": {
+   "event type": "live theater",
+   "ANSWER": "http://www.ticketmaster.com/search?tm_link=tm_header_search&user_input=broadway+theater&q=broadway+theater",
+   "state": "TX"
+  }
+ },
+ "6ca0f39424": {
+  "instruction": {
+   "event type": "golf",
+   "ANSWER": "http://www.ticketmaster.com/ATT-Byron-Nelson-Championship-tickets/artist/861152",
+   "state": "TX"
+  }
+ },
+ "ee13b7edb9": {
+  "instruction": {
+   "event type": "Music",
+   "state": "New Jersey",
+   "ANSWER": "Ticketmaster"
+  }
+ },
+ "207168ad85": {
+  "instruction": {
+   "event type": "The Lion King",
+   "ANSWER": "Minskoff Theatre",
+   "state": "New York"
+  }
+ },
+ "a3bf164c9e": {
+  "instruction": {
+   "event type": "plays",
+   "ANSWER": "Ticketmaster",
+   "state": "Long Beach, CA"
+  }
+ },
+ "2c5c60cb32": {
+  "instruction": {
+   "event type": "Ballet and Dance",
+   "state": "Chicagoland & Northern IL",
+   "ANSWER": "Rosemont Theatre"
+  }
+ },
+ "9e9cd59b38": {
+  "instruction": {
+   "event type": "pop music",
+   "state": "california"
+  }
+ },
+ "a47f34841d": {
+  "instruction": {
+   "event type": "Where can i buy tickets for Blue Man Group?",
+   "state": "MA"
+  }
+ },
+ "523399d376": {
+  "instruction": {
+   "start date": "03/27/2017",
+   "type of music played": "Latin",
+   "name of City": "Los Angelos",
+   "end date": "04/26/2017"
+  }
+ },
+ "f7acf658f9": {
+  "instruction": {
+   "event type": "Where can i buy tickets for Chris Stapleton?",
+   "state": "NY"
+  }
+ },
+ "49a63e0c56": {
+  "instruction": {
+   "event type": " Lady Gaga",
+   "ANSWER": "Ticketmaster",
+   "state": "DC"
+  }
+ },
+ "b121c9892c": {
+  "instruction": {
+   "event type": "Country and Folkd",
+   "ANSWER": "http://www.ticketmaster.com/browse/country-and-folk-catid-2/music-rid-10001?tm_link=tm_changeloc_cities",
+   "state": "Georgia"
+  }
+ },
+ "9b9b81e89d": {
+  "instruction": {
+   "event type": "Cirque du Soleil: OVO",
+   "state": "TX",
+   "ANSWER": "Laredo Energy Arena Laredo, TX"
+  }
+ },
+ "c6fa846b27": {
+  "instruction": {
+   "event type": "Rap and Hip-Hop",
+   "state": "South Dakota",
+   "ANSWER": "http://www.ticketmaster.com/browse/rap-and-hip-hop-catid-3/music-rid-10001?tm_link=tm_changeloc_cities"
+  }
+ },
+ "37668a8d1b": {
+  "instruction": {
+   "event type": "world music",
+   "ANSWER": "Ticketmaster",
+   "state": "Oakland, CA"
+  }
+ },
+ "6016f84ed8": {
+  "instruction": {
+   "event type": "Where can i buy tickets for New York Knicks?",
+   "state": "NY"
+  }
+ },
+ "39e3758401": {
+  "instruction": {
+   "event type": "Metallica ",
+   "state": "MD",
+   "ANSWER": "M&T Bank Stadium Baltimore, MD"
+  }
+ },
+ "b104948893": {
+  "instruction": {
+   "event type": "Basketball",
+   "state": "MD",
+   "ANSWER": "Ticketmaster"
+  }
+ },
+ "2c1a89d161": {
+  "instruction": {
+   "start date": "03/14/2017",
+   "type of music played": "R&B/Urban Soul",
+   "name of City": "Atlanta",
+   "end date": "03/21/2017"
+  }
+ },
+ "46c7f46cde": {
+  "instruction": {
+   "event type": "Music",
+   "ANSWER": "Ticketmaster",
+   "state": "New Jersey"
+  }
+ },
+ "99f4a8bc03": {
+  "instruction": {
+   "event type": "Tennis",
+   "state": " FL",
+   "ANSWER": "Ticketmaster"
+  }
+ },
+ "568d7b190c": {
+  "instruction": {
+   "event type": "Where can i buy tickets for Metallica?",
+   "state": "MA"
+  }
+ },
+ "8d588f90b5": {
+  "instruction": {
+   "event type": "Beautiful: the Carole King Musical ",
+   "ANSWER": "The Orpheum Theatre Memphis Memphis, TN",
+   "state": "TN"
+  }
+ },
+ "1cbc488ffd": {
+  "instruction": {
+   "event type": "Disney On Ice presents Follow Your Heart",
+   "ANSWER": "TD Garden",
+   "state": "Massachusetts"
+  }
+ },
+ "c3b7da9975": {
+  "instruction": {
+   "event type": "comedy",
+   "ANSWER": "Ticketmaster",
+   "state": "Denver, CO"
+  }
+ },
+ "570d9af9cf": {
+  "instruction": {
+   "event type": "college wrestling",
+   "ANSWER": "http://www.ticketmaster.com/search?tm_link=tm_header_search&user_input=college+wrestling&q=college+wrestling",
+   "state": "TX"
+  }
+ },
+ "b9a87a6eec": {
+  "instruction": {
+   "event type": "rock concert",
+   "state": "indiana"
+  }
+ },
+ "9e58bea7b3": {
+  "instruction": {
+   "event type": "Disney On Ice presents Dream Big ",
+   "state": "DC",
+   "ANSWER": "Verizon Center Washington, DC"
+  }
+ },
+ "cfbd044352": {
+  "instruction": {
+   "event type": "Texas Stars vs. Chicago Wolves",
+   "ANSWER": "H-E-B Center at Cedar Park Cedar Park, TX",
+   "state": "TX"
+  }
+ },
+ "a63e1c22ba": {
+  "instruction": {
+   "event type": "World Music",
+   "state": "Maine",
+   "ANSWER": "http://www.ticketmaster.com/browse/world-music-catid-5/music-rid-10001?tm_link=tm_changeloc_cities"
+  }
+ },
+ "0075b00319": {
+  "instruction": {
+   "event type": " Lady Gaga",
+   "state": "DC",
+   "ANSWER": "Ticketmaster"
+  }
+ },
+ "32168d4936": {
+  "instruction": {
+   "event type": "classical music",
+   "state": "michigan"
+  }
+ },
+ "92cdd46447": {
+  "instruction": {
+   "event type": "opera",
+   "state": "illinois"
+  }
+ },
+ "89a29c6c52": {
+  "instruction": {
+   "event type": "competitions",
+   "ANSWER": "Ticketmaster",
+   "state": "Los Angeles, CA"
+  }
+ },
+ "f77b9e3332": {
+  "instruction": {
+   "event type": "Disney On Ice presents Follow Your Heart",
+   "state": "Massachusetts",
+   "ANSWER": "TD Garden"
+  }
+ },
+ "fcd918d218": {
+  "instruction": {
+   "start date": "03/06/2017",
+   "type of music played": "Latin",
+   "name of City": "San Diego",
+   "end date": "03/27/2017"
+  }
+ },
+ "0312585324": {
+  "instruction": {
+   "event type": "Rock and Pop",
+   "ANSWER": "http://www.ticketmaster.com/browse/rock-and-pop-catid-1/music-rid-10001?tm_link=tm_changeloc_cities",
+   "state": "Virginia"
+  }
+ },
+ "ae0654e186": {
+  "instruction": {
+   "event type": "Cherub + The Floozies",
+   "ANSWER": "The Fillmore Charlotte ",
+   "state": "North Carolina"
+  }
+ },
+ "f307c8a96e": {
+  "instruction": {
+   "start date": "02/14/2017",
+   "type of music played": "Jazz and Blues",
+   "name of City": "Boston",
+   "end date": "02/25/2017"
+  }
+ },
+ "0ad7497e2f": {
+  "instruction": {
+   "event type": "hockey",
+   "state": "michigan"
+  }
+ },
+ "9a18e68474": {
+  "instruction": {
+   "event type": "basketball",
+   "state": "indiana"
+  }
+ },
+ "60be036c15": {
+  "instruction": {
+   "event type": "Disney On Ice presents Worlds of Enchantment ",
+   "ANSWER": "SAP Center at San Jose",
+   "state": "California"
+  }
+ },
+ "dfdfc4ca05": {
+  "instruction": {
+   "start date": "03/02/2017",
+   "type of music played": "World Music",
+   "name of City": "Chicago",
+   "end date": "03/04/2017"
+  }
+ },
+ "0e5e99ad7f": {
+  "instruction": {
+   "event type": "Rock and Pop",
+   "state": "Louisiana",
+   "ANSWER": "http://www.ticketmaster.com/browse/rock-and-pop-catid-1/music-rid-10001/new-orleans-and-more-dma-344"
+  }
+ },
+ "8943c3c708": {
+  "instruction": {
+   "event type": "comedy show",
+   "ANSWER": "http://www.ticketmaster.com/search?tm_link=tm_header_search&user_input=comedy+show&q=comedy+show",
+   "state": "TX"
+  }
+ },
+ "655b8aba51": {
+  "instruction": {
+   "event type": "UCLA Bruins Baseball vs. San Jose State Spartans Baseball",
+   "ANSWER": "Jackie Robinson Stadium",
+   "state": "Los Angeles, CA"
+  }
+ },
+ "d932a7a1c4": {
+  "instruction": {
+   "event type": "Flavors of the BluesCarver Theater New Orleans, LA",
+   "ANSWER": "Carver Theater",
+   "state": "New Orleans, LA"
+  }
+ },
+ "9b45bd0552": {
+  "instruction": {
+   "event type": "Ryan Adams",
+   "state": "Florida",
+   "ANSWER": "Parker Playhouse, Ft Lauderdale"
+  }
+ },
+ "33c1621aa6": {
+  "instruction": {
+   "event type": "Football",
+   "ANSWER": "Ticketmaster",
+   "state": "DC"
+  }
+ },
+ "9f8311edb8": {
+  "instruction": {
+   "start date": "04/01/2017",
+   "type of music played": "Rock and Pop",
+   "name of City": "Houston",
+   "end date": "04/31/2017"
+  }
+ },
+ "8da5c1b0aa": {
+  "instruction": {
+   "event type": "Alternative Rock",
+   "ANSWER": "http://www.ticketmaster.com/browse/alternative-rock-catid-60/music-rid-10001?tm_link=tm_changeloc_cities",
+   "state": "Alabama"
+  }
+ },
+ "fd1eb8bc01": {
+  "instruction": {
+   "event type": "Maceo Parker",
+   "ANSWER": "Birchmere",
+   "state": "Alexandria, VA"
+  }
+ },
+ "61b813f25b": {
+  "instruction": {
+   "event type": "Where can i buy tickets for Harlem Globetrotters?",
+   "state": "NY"
+  }
+ },
+ "14065782ae": {
+  "instruction": {
+   "event type": "ice shows",
+   "ANSWER": "http://www.ticketmaster.com/browse/ice-shows-catid-22/family-rid-10003/dallas-fort-worth-and-more-dma-261?rdc_select=n186&type=selected&tm_link=tm_family_header_l4",
+   "state": "TX"
+  }
+ },
+ "310be8ceb3": {
+  "instruction": {
+   "event type": "Luke Bryan",
+   "ANSWER": "Hollywood Casino Amphitheatre - St. Louis, MO",
+   "state": "Saint Louis & More"
+  }
+ },
+ "803f98f6a1": {
+  "instruction": {
+   "event type": "circus",
+   "ANSWER": "Ticketmaster",
+   "state": "Las Vegas, NV"
+  }
+ },
+ "9c66007dc0": {
+  "instruction": {
+   "event type": "circus",
+   "ANSWER": "http://www.ticketmaster.com/browse/circus-catid-29/family-rid-10003/dallas-fort-worth-and-more-dma-261?rdc_select=n186&type=selected&tm_link=tm_family_header_l2",
+   "state": "TX"
+  }
+ },
+ "36e2dd2960": {
+  "instruction": {
+   "start date": "04/16/2017",
+   "type of music played": "New Age and Spiritual",
+   "name of City": "San Diego",
+   "end date": "04/24/2017"
+  }
+ },
+ "3fd09a007e": {
+  "instruction": {
+   "event type": "Blink 182 ",
+   "state": "AR",
+   "ANSWER": "Verizon Arena North Little Rock, AR"
+  }
+ },
+ "9f15879311": {
+  "instruction": {
+   "event type": "Rap and Hip-Hop",
+   "ANSWER": "http://www.ticketmaster.com/browse/rap-and-hip-hop-catid-3/music-rid-10001?tm_link=tm_changeloc_cities",
+   "state": "South Dakota"
+  }
+ },
+ "2cbe849c33": {
+  "instruction": {
+   "event type": "Festivals",
+   "state": "Colorado",
+   "ANSWER": "http://www.ticketmaster.com/browse/festivals-catid-766/music-rid-10001?tm_link=tm_changeloc_cities"
+  }
+ },
+ "020c394dca": {
+  "instruction": {
+   "event type": "Katt Williams: Great America Tour",
+   "ANSWER": "Milwaukee Theatre",
+   "state": "Wisconsin"
+  }
+ },
+ "fbc3db2b6a": {
+  "instruction": {
+   "event type": "Jimmy Buffett",
+   "ANSWER": "Live Nation",
+   "state": "FL"
+  }
+ },
+ "549b68157d": {
+  "instruction": {
+   "event type": "SDSU Aztec Baseball vs. University of the Pacific Tigers Baseball",
+   "ANSWER": "Aztec Baseball at Tony Gwynn Stadium",
+   "state": "San Diego, CA"
+  }
+ },
+ "212b2a3e70": {
+  "instruction": {
+   "event type": "Steve Tyrell",
+   "ANSWER": "Catalina Bar & Grill ",
+   "state": "Hollywood, CA"
+  }
+ },
+ "a0191e157a": {
+  "instruction": {
+   "event type": "Dance/Electronic",
+   "ANSWER": "http://www.ticketmaster.com/browse/dance-electronic-catid-201/music-rid-10001/alaska-dma-219",
+   "state": "Alaska"
+  }
+ },
+ "d72130ffc4": {
+  "instruction": {
+   "event type": "Chris Stapleton",
+   "ANSWER": "Live Nation",
+   "state": "VA"
+  }
+ },
+ "e19a5d0d17": {
+  "instruction": {
+   "event type": "Blink 182 ",
+   "ANSWER": "Verizon Arena North Little Rock, AR",
+   "state": "AR"
+  }
+ },
+ "6afa16158e": {
+  "instruction": {
+   "event type": "Ryan Adams",
+   "ANSWER": "Parker Playhouse, Ft Lauderdale",
+   "state": "Florida"
+  }
+ },
+ "50c40550e7": {
+  "instruction": {
+   "event type": "Ballet and Dance",
+   "ANSWER": "Orpheum Theatre",
+   "state": "Minneapolis/St. Paul & More"
+  }
+ },
+ "b17c7452fa": {
+  "instruction": {
+   "event type": "CSUN Mens Baseball",
+   "ANSWER": "CSUN - Cal State Northridge",
+   "state": "Northridge, CA"
+  }
+ },
+ "4fc6556c61": {
+  "instruction": {
+   "event type": "musicals",
+   "ANSWER": "Ticketmaster",
+   "state": "Columbia, MD"
+  }
+ },
+ "87b566c9db": {
+  "instruction": {
+   "event type": "ballet and dance",
+   "ANSWER": "Ticketmaster",
+   "state": "Jacksonville, FL"
+  }
+ },
+ "1564f9ef93": {
+  "instruction": {
+   "event type": "motorsports",
+   "ANSWER": "Ticketmaster",
+   "state": "Beaumont, TX"
+  }
+ }
+}

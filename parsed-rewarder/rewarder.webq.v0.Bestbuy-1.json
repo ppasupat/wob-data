@@ -1,0 +1,1432 @@
+{
+ "d15024d5df": {
+  "instruction": {
+   "state": "California",
+   "type of cell phone": "Apple - iPhone 7 128GB - Jet Black (AT&T)",
+   "ANSWER": "$799.99"
+  }
+ },
+ "747e17e2e2": {
+  "instruction": {
+   "type of cell phone": "iPhone 7 Plus",
+   "ANSWER": "$969.99",
+   "state": "Florida"
+  }
+ },
+ "995bd90490": {
+  "instruction": {
+   "type of cell phone": "(Verizon Prepaid - Samsung Galaxy J3 4G LTE with 8GB )",
+   "ANSWER": "59.99",
+   "state": "(Lexington, KY)"
+  }
+ },
+ "4a2561936f": {
+  "instruction": {
+   "state": "California",
+   "type of cell phone": "LG - G5 with 32GB Memory Cell Phone - Titan (AT&T)",
+   "ANSWER": "$599.99"
+  }
+ },
+ "8b028b91c3": {
+  "instruction": {
+   "state": "Florida",
+   "type of cell phone": "iPhone 7 Plus",
+   "ANSWER": "$969.99"
+  }
+ },
+ "eefedaa7b9": {
+  "instruction": {
+   "state": "(Lexington, KY)",
+   "type of cell phone": "(Samsung Gusto 3)",
+   "ANSWER": "19.99"
+  }
+ },
+ "f83dc85781": {
+  "instruction": {
+   "state": "Alabama",
+   "type of cell phone": "LG - K7",
+   "ANSWER": "$99.99"
+  }
+ },
+ "c9e61e053d": {
+  "instruction": {
+   "type of cell phone": "(Apple iPhone 5s 16GB Memory)",
+   "ANSWER": "199.99",
+   "state": "(Lexington, KY)"
+  }
+ },
+ "95a583a2d7": {
+  "instruction": {
+   "type of cell phone": "Huawei Mate 9",
+   "state": "Minnesota"
+  }
+ },
+ "157bd3d76d": {
+  "instruction": {
+   "state": "New York",
+   "type of cell phone": "Samsung Galaxy J5 Prime",
+   "ANSWER": "$249.99"
+  }
+ },
+ "7059229695": {
+  "instruction": {
+   "state": "Tennessee",
+   "type of cell phone": "Asus ZenFone 3 Max",
+   "ANSWER": "149.99"
+  }
+ },
+ "4df55bcbb5": {
+  "instruction": {
+   "state": "Washington",
+   "type of cell phone": "Apple - iPhone 7 32GB - Black (Sprint)",
+   "ANSWER": "$699.99"
+  }
+ },
+ "d209757014": {
+  "instruction": {
+   "state": "Kansas ",
+   "type of cell phone": "Huawei - Mate 9 4G LTE with 64GB Memory Cell Phone (Unlocked) - Space Gray",
+   "ANSWER": "$599.99"
+  }
+ },
+ "06948f58d9": {
+  "instruction": {
+   "type of cell phone": "LG V20",
+   "ANSWER": "$729.99",
+   "state": "Colorado"
+  }
+ },
+ "9fcea3b83b": {
+  "instruction": {
+   "state": "Kentucky",
+   "type of cell phone": "Google Pixel XL"
+  }
+ },
+ "13e7e1c776": {
+  "instruction": {
+   "state": "New York",
+   "type of cell phone": "LG G5",
+   "ANSWER": "$579.99"
+  }
+ },
+ "7686d87c34": {
+  "instruction": {
+   "type of cell phone": "iPhone 7 128GB",
+   "ANSWER": "$799.99",
+   "state": "Pennsylvania"
+  }
+ },
+ "a3ffc96914": {
+  "instruction": {
+   "type of cell phone": "ZTE Warp 7 LTE",
+   "ANSWER": "$49.99",
+   "state": "Idaho"
+  }
+ },
+ "ed51e0cc42": {
+  "instruction": {
+   "state": "Idaho",
+   "type of cell phone": "Samsung Galaxy Sol 4G",
+   "ANSWER": "$89.99"
+  }
+ },
+ "7f9dffa2cd": {
+  "instruction": {
+   "type of cell phone": "(Samsung Galaxy J7 (2016) 4G LTE with 16GB Memory )",
+   "ANSWER": "149.99",
+   "state": "(Lexington, KY)"
+  }
+ },
+ "e3ff786050": {
+  "instruction": {
+   "type of cell phone": "Motorola - Moto G Plus",
+   "ANSWER": "$249.99",
+   "state": "Alabama"
+  }
+ },
+ "e00b3d9ab6": {
+  "instruction": {
+   "type of cell phone": "Apple - iPhone 7 128GB - Jet Black (AT&T)",
+   "ANSWER": "$799.99",
+   "state": "California"
+  }
+ },
+ "dbfbd61b38": {
+  "instruction": {
+   "state": "New York",
+   "type of cell phone": "LG G5",
+   "ANSWER": "399.99"
+  }
+ },
+ "ef12bedae2": {
+  "instruction": {
+   "type of cell phone": "Polaroid Link A5",
+   "ANSWER": "99.99",
+   "state": "Alaska"
+  }
+ },
+ "493e575661": {
+  "instruction": {
+   "state": "Kansas",
+   "type of cell phone": "Samsung Galaxy S7 Edge"
+  }
+ },
+ "957f7550f3": {
+  "instruction": {
+   "type of cell phone": "Samsung Galaxy S7 Edge",
+   "ANSWER": "$799.99",
+   "state": "Massachusetts"
+  }
+ },
+ "3567a9b125": {
+  "instruction": {
+   "state": "(Lexington, KY)",
+   "type of cell phone": "(Alcatel Ideal 4G LTE with 8GB )",
+   "ANSWER": "19.99"
+  }
+ },
+ "e52f9f7a31": {
+  "instruction": {
+   "hp laptop": "HP - OMEN 17.3\" Laptop - Intel Core i7 - 12GB Memory - NVIDIA GeForce GTX 965M - 1TB HDD + 256GB Solid State Drive - Onyx Black/Twinkle Black"
+  }
+ },
+ "4d5a0dead8": {
+  "instruction": {
+   "type of cell phone": "Samsung - Galaxy S7 32GB - Pink Gold (AT&T)",
+   "ANSWER": "$624.99",
+   "state": "California"
+  }
+ },
+ "8aa6702e17": {
+  "instruction": {
+   "state": "Alabama",
+   "type of cell phone": "Sony - XPERIA X Performance",
+   "ANSWER": "$499.99"
+  }
+ },
+ "e06a775e4b": {
+  "instruction": {
+   "hp laptop": "HP - Stream 14\" Laptop - Intel Celeron - 4GB Memory - 32GB eMMC Flash Memory - Aqua blue"
+  }
+ },
+ "870f63967b": {
+  "instruction": {
+   "type of cell phone": "Samsung Galaxy J3",
+   "ANSWER": "179.99",
+   "state": "Kentucky"
+  }
+ },
+ "8da5281746": {
+  "instruction": {
+   "type of cell phone": "Sony XPERIA XA Ultra",
+   "ANSWER": "329.99",
+   "state": "Hawaii"
+  }
+ },
+ "7676e33811": {
+  "instruction": {
+   "state": "Alabama",
+   "type of cell phone": "Alcatel - One Touch Pixi 4 ",
+   "ANSWER": "$99.99"
+  }
+ },
+ "6a075f0fd6": {
+  "instruction": {
+   "state": "Florida",
+   "type of cell phone": "iPhone 6S Plus 32GB",
+   "ANSWER": "$699.99"
+  }
+ },
+ "fc4f0930b7": {
+  "instruction": {
+   "type of cell phone": "BLU Studio G",
+   "ANSWER": "$49.99",
+   "state": "Connecticut "
+  }
+ },
+ "18a7808c8b": {
+  "instruction": {
+   "type of cell phone": "Nexus 6P",
+   "state": "Maryland"
+  }
+ },
+ "326b3cc06f": {
+  "instruction": {
+   "type of cell phone": "Motorola - MOTO G4 Play ",
+   "ANSWER": "$129.99",
+   "state": "Alabama"
+  }
+ },
+ "8066085707": {
+  "instruction": {
+   "type of cell phone": "Sony XPERIA X Performance",
+   "ANSWER": "$499.99",
+   "state": "Ohio"
+  }
+ },
+ "bbd9652f57": {
+  "instruction": {
+   "type of cell phone": "Apple - iPhone SE 64GB - Space Gray (Sprint)",
+   "ANSWER": "$499.99",
+   "state": "Alaska "
+  }
+ },
+ "07e2240710": {
+  "instruction": {
+   "state": "Kentucky",
+   "type of cell phone": "Apple iPhone 6s",
+   "ANSWER": "$599.99"
+  }
+ },
+ "d433f740f4": {
+  "instruction": {
+   "state": "Pennsylvania",
+   "type of cell phone": "iPhone 7 128GB",
+   "ANSWER": "$799.99"
+  }
+ },
+ "779233b7c9": {
+  "instruction": {
+   "type of cell phone": "LG Tribute HD 4G LTE",
+   "ANSWER": "$49.99",
+   "state": "Utah"
+  }
+ },
+ "d791f8f4e9": {
+  "instruction": {
+   "type of cell phone": "Samsung galaxy s7 edge",
+   "ANSWER": "$599.76",
+   "state": "Illinois"
+  }
+ },
+ "7b0feeca16": {
+  "instruction": {
+   "type of cell phone": "ZTE Axon 7 mini",
+   "ANSWER": "$249.99",
+   "state": "Maryland"
+  }
+ },
+ "1816ed10e9": {
+  "instruction": {
+   "type of cell phone": "Apple - iPhone 7 32GB - Black (Sprint)",
+   "ANSWER": "$699.99",
+   "state": "Washington"
+  }
+ },
+ "cf6fc9b5d8": {
+  "instruction": {
+   "hp laptop": "HP - Star Wars Special Edition 15.6\" Laptop - Intel Core i7 - 8GB Memory - 1TB Hard Drive - Darkside Black"
+  }
+ },
+ "69c9857136": {
+  "instruction": {
+   "state": "Lousiana",
+   "type of cell phone": "iPhone SE"
+  }
+ },
+ "d5d452e3c9": {
+  "instruction": {
+   "state": "Massachusetts ",
+   "type of cell phone": "Huawei Honor 6x",
+   "ANSWER": "$249.99"
+  }
+ },
+ "90dfa814e5": {
+  "instruction": {
+   "type of cell phone": "Samsung Galaxy S7 Active",
+   "ANSWER": "$724.99",
+   "state": "New Hampshire"
+  }
+ },
+ "bb4dd4ac59": {
+  "instruction": {
+   "state": "Washington",
+   "type of cell phone": "Samsung - Galaxy S7 edge 32GB - Black Onyx",
+   "ANSWER": "$359.76"
+  }
+ },
+ "94735e5d1e": {
+  "instruction": {
+   "type of cell phone": "iPhone 6S Plus 32GB",
+   "ANSWER": "$699.99",
+   "state": "Florida"
+  }
+ },
+ "034fcab9c1": {
+  "instruction": {
+   "hp laptop": "HP - 15.6\" Touch-Screen Laptop - Intel Core i3 - 6GB Memory - 1TB Hard Drive - Black"
+  }
+ },
+ "7e400bb6e8": {
+  "instruction": {
+   "state": "Connecticut",
+   "type of cell phone": "MOTO G4 Play",
+   "ANSWER": "$129.99"
+  }
+ },
+ "4bdf7af434": {
+  "instruction": {
+   "type of cell phone": "Samsung - Galaxy S7 edge 32GB - Titanium Silver (AT&T)",
+   "ANSWER": "$724.99",
+   "state": "California"
+  }
+ },
+ "255af3ada5": {
+  "instruction": {
+   "state": "Massachusetts",
+   "type of cell phone": "Samsung Galaxy S7 Edge",
+   "ANSWER": "$799.99"
+  }
+ },
+ "85663a9e2a": {
+  "instruction": {
+   "type of cell phone": "(Samsung Gusto 3)",
+   "ANSWER": "19.99",
+   "state": "(Lexington, KY)"
+  }
+ },
+ "ab333b7148": {
+  "instruction": {
+   "state": "(Lexington, KY)",
+   "type of cell phone": "(Alcatel Dawn)",
+   "ANSWER": "39.99"
+  }
+ },
+ "4bdd98fcd9": {
+  "instruction": {
+   "state": "Rhode Island",
+   "type of cell phone": "LG G5",
+   "ANSWER": "$599.99"
+  }
+ },
+ "3ce774bdde": {
+  "instruction": {
+   "hp laptop": "HP - Spectre 13.3\" Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Dark ash silver, Luxe copper accent"
+  }
+ },
+ "0bb4837531": {
+  "instruction": {
+   "type of cell phone": "LG G5",
+   "ANSWER": "399.99",
+   "state": "New York"
+  }
+ },
+ "5a546f0ddc": {
+  "instruction": {
+   "state": "Colorado",
+   "type of cell phone": "LG V20",
+   "ANSWER": "$729.99"
+  }
+ },
+ "a332d59431": {
+  "instruction": {
+   "state": "Alabama",
+   "type of cell phone": "Motorola - Moto X Pure",
+   "ANSWER": "$299.99"
+  }
+ },
+ "4a207833e5": {
+  "instruction": {
+   "state": "Kentucky",
+   "type of cell phone": "Samsung Galaxy J3",
+   "ANSWER": "179.99"
+  }
+ },
+ "024e77385f": {
+  "instruction": {
+   "type of cell phone": "Moto Z Force Droid",
+   "ANSWER": "$799.99",
+   "state": "Alabama"
+  }
+ },
+ "63e0fc055c": {
+  "instruction": {
+   "state": "New Hampshire",
+   "type of cell phone": "Samsung Galaxy S7 Active",
+   "ANSWER": "$724.99"
+  }
+ },
+ "c52ab77ed2": {
+  "instruction": {
+   "type of cell phone": "Samsung Galaxy J5 Prime",
+   "ANSWER": "$249.99",
+   "state": "New York"
+  }
+ },
+ "3124e9de7e": {
+  "instruction": {
+   "type of cell phone": "LG G5",
+   "ANSWER": "$599.99",
+   "state": "Rhode Island"
+  }
+ },
+ "e99d2a299f": {
+  "instruction": {
+   "state": "Oregon ",
+   "type of cell phone": "Motorola - MOTO G (4th Generation) 4G LTE with 16GB Memory Cell Phone (Unlocked) - Black",
+   "ANSWER": "$199.99"
+  }
+ },
+ "62ce380c55": {
+  "instruction": {
+   "type of cell phone": "LG - G5 4G LTE with 32GB Memory Cell Phone - Titan (Sprint)",
+   "ANSWER": "$579.99",
+   "state": "Washington"
+  }
+ },
+ "ac6ed26fde": {
+  "instruction": {
+   "state": "North Carolina",
+   "type of cell phone": "Asus ZenFone 3 Deluxe",
+   "ANSWER": "$499.99"
+  }
+ },
+ "6f5a8ffab7": {
+  "instruction": {
+   "state": "California",
+   "type of cell phone": "Samsung - Galaxy S7 edge 32GB - Black Onyx (AT&T)",
+   "ANSWER": "$724.99"
+  }
+ },
+ "5d92a394c9": {
+  "instruction": {
+   "state": "Washington",
+   "type of cell phone": "LG G5",
+   "ANSWER": "$579.99"
+  }
+ },
+ "953420bd80": {
+  "instruction": {
+   "state": "Texas ",
+   "type of cell phone": "HTC - Desire 626 4G LTE with 8GB Memory Cell Phone (Unlocked) - Terra white",
+   "ANSWER": "$179.99"
+  }
+ },
+ "ba935c3012": {
+  "instruction": {
+   "state": "Wyoming",
+   "type of cell phone": "Samsung Galaxy J7",
+   "ANSWER": "$149.99"
+  }
+ },
+ "7d9d589614": {
+  "instruction": {
+   "type of cell phone": "Samsung Galaxy J3",
+   "ANSWER": "$199.99",
+   "state": "Oklahoma"
+  }
+ },
+ "b4b03a1a1d": {
+  "instruction": {
+   "state": "Connecticut ",
+   "type of cell phone": "BLU Studio G",
+   "ANSWER": "$49.99"
+  }
+ },
+ "9aa8668150": {
+  "instruction": {
+   "type of cell phone": "Samsung Galaxy Express 3 4G LTE",
+   "ANSWER": "$49.99",
+   "state": "Idaho"
+  }
+ },
+ "6929322567": {
+  "instruction": {
+   "state": "California",
+   "type of cell phone": "Apple - iPhone SE 64GB - Space Gray (AT&T)",
+   "ANSWER": "$499.99"
+  }
+ },
+ "8ba0694ae0": {
+  "instruction": {
+   "state": "(Lexington, KY)",
+   "type of cell phone": "(LG X POWER 4G LTE with 16GB Memory)",
+   "ANSWER": "99.99"
+  }
+ },
+ "e1607f3cee": {
+  "instruction": {
+   "state": "(Lexington, KY)",
+   "type of cell phone": "(Verizon Prepaid - Samsung Galaxy J3 4G LTE with 8GB )",
+   "ANSWER": "59.99"
+  }
+ },
+ "b4d8a370d6": {
+  "instruction": {
+   "state": "Georgia",
+   "type of cell phone": "Blackberry 9810",
+   "ANSWER": "95.99"
+  }
+ },
+ "42142b80f7": {
+  "instruction": {
+   "type of cell phone": "iPhone 6S 32GB",
+   "ANSWER": "$599.99",
+   "state": "New York"
+  }
+ },
+ "496f00f59d": {
+  "instruction": {
+   "state": "California",
+   "type of cell phone": "LG - G5 4G LTE with 32GB Memory Cell Phone - Titan (Sprint)",
+   "ANSWER": "$579.99"
+  }
+ },
+ "4ef8761490": {
+  "instruction": {
+   "state": "Alabama",
+   "type of cell phone": "Moto Z Force Droid",
+   "ANSWER": "$799.99"
+  }
+ },
+ "aa26e87fd0": {
+  "instruction": {
+   "state": "Idaho",
+   "type of cell phone": "ZTE Grand X3 4G LTE",
+   "ANSWER": "$69.99"
+  }
+ },
+ "643d070d72": {
+  "instruction": {
+   "type of cell phone": "LG G5",
+   "ANSWER": "$579.99",
+   "state": "New York"
+  }
+ },
+ "d48d70419a": {
+  "instruction": {
+   "type of cell phone": "Samsung - Galaxy S7 32GB - Black Onyx (AT&T)",
+   "ANSWER": "$624.99",
+   "state": "California"
+  }
+ },
+ "31852f65d9": {
+  "instruction": {
+   "state": "Washington",
+   "type of cell phone": "LG - G5 4G LTE with 32GB Memory Cell Phone - Titan (Sprint)",
+   "ANSWER": "$579.99"
+  }
+ },
+ "8e294f7e9f": {
+  "instruction": {
+   "type of cell phone": "Apple - iPhone 6s Plus 32GB - Space Gray (AT&T)",
+   "ANSWER": "$699.99",
+   "state": "California"
+  }
+ },
+ "6d8e012ad1": {
+  "instruction": {
+   "state": "California",
+   "type of cell phone": "Asus ZenFone 3 Max",
+   "ANSWER": "$149.99"
+  }
+ },
+ "dafb1d9e93": {
+  "instruction": {
+   "type of cell phone": "Alcatel - One Touch Pixi 4 ",
+   "ANSWER": "$99.99",
+   "state": "Alabama"
+  }
+ },
+ "d619ba82c1": {
+  "instruction": {
+   "type of cell phone": "(Alcatel Ideal 4G LTE with 8GB )",
+   "ANSWER": "19.99",
+   "state": "(Lexington, KY)"
+  }
+ },
+ "e877db0323": {
+  "instruction": {
+   "type of cell phone": "LG V20",
+   "ANSWER": "$749.99",
+   "state": "Vermont"
+  }
+ },
+ "74a64fae40": {
+  "instruction": {
+   "state": "Idaho",
+   "type of cell phone": "ZTE Warp 7 LTE",
+   "ANSWER": "$49.99"
+  }
+ },
+ "00e2b151fb": {
+  "instruction": {
+   "state": "(Lexington, KY)",
+   "type of cell phone": "(Samsung GALAXY On5 4G LTE with 8GB)",
+   "ANSWER": "49.99"
+  }
+ },
+ "b9850bb5ab": {
+  "instruction": {
+   "type of cell phone": "LG - G5 with 32GB Memory Cell Phone - Titan (AT&T)",
+   "ANSWER": "$599.99",
+   "state": "California"
+  }
+ },
+ "d4874d584b": {
+  "instruction": {
+   "type of cell phone": "Samsung Galaxy J3 (2016)",
+   "ANSWER": "$179.99",
+   "state": "Utah"
+  }
+ },
+ "2428508da8": {
+  "instruction": {
+   "type of cell phone": "Samsung Galaxy Sol 4G",
+   "ANSWER": "$89.99",
+   "state": "Idaho"
+  }
+ },
+ "466decac09": {
+  "instruction": {
+   "state": "Massachusetts",
+   "type of cell phone": "LG G5"
+  }
+ },
+ "433dbd8ff5": {
+  "instruction": {
+   "state": "Michigan",
+   "type of cell phone": "HTC 10"
+  }
+ },
+ "924370e46a": {
+  "instruction": {
+   "state": "California",
+   "type of cell phone": "Samsung - Galaxy S7 32GB - Pink Gold (AT&T)",
+   "ANSWER": "$624.99"
+  }
+ },
+ "d552722412": {
+  "instruction": {
+   "type of cell phone": "Motorola - MOTO G (4th Generation) 4G LTE with 16GB Memory Cell Phone (Unlocked) - Black",
+   "ANSWER": "$199.99",
+   "state": "Oregon "
+  }
+ },
+ "768e310cc0": {
+  "instruction": {
+   "state": "Michigan",
+   "type of cell phone": "Huawei Honor 8",
+   "ANSWER": "399.99"
+  }
+ },
+ "370fcb45e6": {
+  "instruction": {
+   "state": "Alaska",
+   "type of cell phone": "Polaroid Link A5",
+   "ANSWER": "99.99"
+  }
+ },
+ "93ddca1772": {
+  "instruction": {
+   "state": "Hawaii",
+   "type of cell phone": "Sony XPERIA XA Ultra",
+   "ANSWER": "329.99"
+  }
+ },
+ "6801bbf353": {
+  "instruction": {
+   "type of cell phone": "Apple iPhone 6s",
+   "ANSWER": "$599.99",
+   "state": "Kentucky"
+  }
+ },
+ "21ad261f1f": {
+  "instruction": {
+   "type of cell phone": "Samsung Galaxy J7",
+   "ANSWER": "$149.99",
+   "state": "Wyoming"
+  }
+ },
+ "6bf93c707c": {
+  "instruction": {
+   "state": "Idaho",
+   "type of cell phone": "Apple iPhone 5s 4G LTE",
+   "ANSWER": "$199.99"
+  }
+ },
+ "1097746acd": {
+  "instruction": {
+   "state": "New York",
+   "type of cell phone": "iPhone 6S 32GB",
+   "ANSWER": "$599.99"
+  }
+ },
+ "8b9c4e3cde": {
+  "instruction": {
+   "type of cell phone": "Motorola MOTO G",
+   "ANSWER": "199.99",
+   "state": "Pennsylvania"
+  }
+ },
+ "d97b75823a": {
+  "instruction": {
+   "state": "(Lexington, KY)",
+   "type of cell phone": "(Jitterbug)",
+   "ANSWER": "99.99"
+  }
+ },
+ "508f4287e7": {
+  "instruction": {
+   "type of cell phone": "Samsung - Galaxy S7",
+   "ANSWER": "$569.99",
+   "state": "Alabama"
+  }
+ },
+ "e6c848c854": {
+  "instruction": {
+   "type of cell phone": "Samsung - Galaxy S7 edge 32GB - Black Onyx (AT&T)",
+   "ANSWER": "$724.99",
+   "state": "California"
+  }
+ },
+ "079d964091": {
+  "instruction": {
+   "type of cell phone": "Huawei Honor 6x",
+   "ANSWER": "$249.99",
+   "state": "Massachusetts "
+  }
+ },
+ "f46182853a": {
+  "instruction": {
+   "state": "Maine",
+   "type of cell phone": "OnePlus 3T"
+  }
+ },
+ "9dd54b2e22": {
+  "instruction": {
+   "state": "Ohio",
+   "type of cell phone": "iPhone 7 Plus 128GB",
+   "ANSWER": "$969.99"
+  }
+ },
+ "2da2acb5cb": {
+  "instruction": {
+   "type of cell phone": "Sony - XPERIA X Performance",
+   "ANSWER": "$499.99",
+   "state": "Alabama"
+  }
+ },
+ "30beaaecad": {
+  "instruction": {
+   "state": "South Carolina",
+   "type of cell phone": "BlackBerry - PRIV 4G with 32GB Memory Cell Phone (Unlocked) - Black",
+   "ANSWER": "$319.99"
+  }
+ },
+ "7c463dce33": {
+  "instruction": {
+   "hp laptop": "HP - 15.6\" Laptop - AMD A6-Series - 4GB Memory - 500GB Hard Drive - Black"
+  }
+ },
+ "ebda215217": {
+  "instruction": {
+   "state": "California",
+   "type of cell phone": "Apple - iPhone 7 Plus 256GB - Black (AT&T)",
+   "ANSWER": "$1069.99"
+  }
+ },
+ "d6bfa3e2d6": {
+  "instruction": {
+   "state": "California",
+   "type of cell phone": "Apple - iPhone 6s Plus 32GB - Space Gray (AT&T)",
+   "ANSWER": "$699.99"
+  }
+ },
+ "b478c665c7": {
+  "instruction": {
+   "type of cell phone": "Blackberry 9810",
+   "ANSWER": "95.99",
+   "state": "Georgia"
+  }
+ },
+ "8e0c0e887c": {
+  "instruction": {
+   "type of cell phone": "ZTE - Axon 7 mini",
+   "ANSWER": "$249.99",
+   "state": "Alabama"
+  }
+ },
+ "6496c41cf3": {
+  "instruction": {
+   "state": "Alabama",
+   "type of cell phone": "Sony - Xperia X",
+   "ANSWER": "$399.99"
+  }
+ },
+ "941fede4e3": {
+  "instruction": {
+   "type of cell phone": "Google Pixel XL",
+   "state": "Kentucky"
+  }
+ },
+ "0008d3f927": {
+  "instruction": {
+   "type of cell phone": "LG G5",
+   "ANSWER": "$579.99",
+   "state": "Washington"
+  }
+ },
+ "dff083b9e2": {
+  "instruction": {
+   "state": "Illinois",
+   "type of cell phone": "Samsung galaxy s7 edge",
+   "ANSWER": "$599.76"
+  }
+ },
+ "7fbab3b91d": {
+  "instruction": {
+   "type of cell phone": "OnePlus 3T",
+   "state": "Maine"
+  }
+ },
+ "e206180115": {
+  "instruction": {
+   "type of cell phone": "Huawei Honor 8",
+   "ANSWER": "399.99",
+   "state": "Michigan"
+  }
+ },
+ "e545e79ed7": {
+  "instruction": {
+   "type of cell phone": "Samsung Galaxy J3",
+   "ANSWER": "$84.99",
+   "state": "Delaware"
+  }
+ },
+ "e8eb7cf151": {
+  "instruction": {
+   "state": "Utah",
+   "type of cell phone": "LG Tribute HD 4G LTE",
+   "ANSWER": "$49.99"
+  }
+ },
+ "13fedd2b7d": {
+  "instruction": {
+   "state": "Washington",
+   "type of cell phone": "Google Pixel 4G",
+   "ANSWER": "$749.99"
+  }
+ },
+ "d01a393682": {
+  "instruction": {
+   "type of cell phone": "LG K8V",
+   "ANSWER": "$199.99",
+   "state": "Georgia"
+  }
+ },
+ "2467585d74": {
+  "instruction": {
+   "hp laptop": "HP - OMEN 15.6\" Laptop - Intel Core i7 - 8GB Memory - NVIDIA GeForce GTX 960M - 1TB HDD + 128GB SSD - Onyx Black"
+  }
+ },
+ "e86cb1fc14": {
+  "instruction": {
+   "hp laptop": "HP - 17.3\" Laptop - Intel Core i5 - 6GB Memory - 1TB Hard Drive - Textured linear gradient grooves in black"
+  }
+ },
+ "68b82d8c20": {
+  "instruction": {
+   "type of cell phone": "Sony Z5 Premium",
+   "state": "Mississippo"
+  }
+ },
+ "eb4a284bdb": {
+  "instruction": {
+   "hp laptop": "HP - ENVY 17.3\" Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 1TB Hard Drive - Natural Silver"
+  }
+ },
+ "4a4580d8ed": {
+  "instruction": {
+   "state": "Georgia",
+   "type of cell phone": "LG K8V",
+   "ANSWER": "$199.99"
+  }
+ },
+ "d42a289748": {
+  "instruction": {
+   "type of cell phone": "Samsung Galaxy Express Prime 4G LTE",
+   "ANSWER": "$69.99",
+   "state": "Idaho"
+  }
+ },
+ "b92870829e": {
+  "instruction": {
+   "state": "Mississippo",
+   "type of cell phone": "Sony Z5 Premium"
+  }
+ },
+ "744f424565": {
+  "instruction": {
+   "state": "Indiana",
+   "type of cell phone": "iPhone 7 Plus"
+  }
+ },
+ "3667b6d130": {
+  "instruction": {
+   "type of cell phone": "LG G5",
+   "state": "Massachusetts"
+  }
+ },
+ "6dd07be703": {
+  "instruction": {
+   "state": "California",
+   "type of cell phone": "Samsung - Galaxy S7 32GB - Black Onyx (AT&T)",
+   "ANSWER": "$624.99"
+  }
+ },
+ "39270876bb": {
+  "instruction": {
+   "state": "Alabama",
+   "type of cell phone": "Samsung - Galaxy S7",
+   "ANSWER": "$569.99"
+  }
+ },
+ "1aae3fb0c1": {
+  "instruction": {
+   "state": "Oklahoma",
+   "type of cell phone": "Samsung Galaxy J3",
+   "ANSWER": "$199.99"
+  }
+ },
+ "0ca6f10640": {
+  "instruction": {
+   "state": "(Lexington, KY)",
+   "type of cell phone": "(Samsung Galaxy J7 (2016) 4G LTE with 16GB Memory )",
+   "ANSWER": "149.99"
+  }
+ },
+ "2024d01135": {
+  "instruction": {
+   "state": "Ohio",
+   "type of cell phone": "Sony XPERIA X Performance",
+   "ANSWER": "$499.99"
+  }
+ },
+ "2c0be01155": {
+  "instruction": {
+   "type of cell phone": "LG Escape 2",
+   "ANSWER": "$49.99",
+   "state": "Maine"
+  }
+ },
+ "7cbe519dd6": {
+  "instruction": {
+   "state": "Alaska ",
+   "type of cell phone": "Apple - iPhone SE 64GB - Space Gray (Sprint)",
+   "ANSWER": "$499.99"
+  }
+ },
+ "05b9ed469b": {
+  "instruction": {
+   "type of cell phone": "ZTE Grand X3 4G LTE",
+   "ANSWER": "$69.99",
+   "state": "Idaho"
+  }
+ },
+ "39aff0c717": {
+  "instruction": {
+   "type of cell phone": "LG Phoenix 2 4G LTE",
+   "ANSWER": "$69.99",
+   "state": "Idaho"
+  }
+ },
+ "6b4e703772": {
+  "instruction": {
+   "type of cell phone": "(Alcatel Dawn)",
+   "ANSWER": "39.99",
+   "state": "(Lexington, KY)"
+  }
+ },
+ "6a453b97b7": {
+  "instruction": {
+   "state": "Colorado ",
+   "type of cell phone": "Sony - XPERIA XA Ultra 4G LTE with 16GB Memory Cell Phone (Unlocked) - White",
+   "ANSWER": "$329.99"
+  }
+ },
+ "95e790cc7e": {
+  "instruction": {
+   "type of cell phone": "iPhone 7 Plus",
+   "state": "Indiana"
+  }
+ },
+ "62ef1ec436": {
+  "instruction": {
+   "type of cell phone": "Apple iPhone 5s 4G LTE",
+   "ANSWER": "$199.99",
+   "state": "Idaho"
+  }
+ },
+ "fff1b4b8b2": {
+  "instruction": {
+   "type of cell phone": "BlackBerry - PRIV 4G with 32GB Memory Cell Phone (Unlocked) - Black",
+   "ANSWER": "$319.99",
+   "state": "South Carolina"
+  }
+ },
+ "138939622e": {
+  "instruction": {
+   "type of cell phone": "Samsung - Galaxy S7 edge 32GB - Black Onyx",
+   "ANSWER": "$359.76",
+   "state": "Washington"
+  }
+ },
+ "817ac75e3b": {
+  "instruction": {
+   "type of cell phone": "Apple - iPhone 7 Plus 256GB - Black (AT&T)",
+   "ANSWER": "$1069.99",
+   "state": "California"
+  }
+ },
+ "616b0d81fb": {
+  "instruction": {
+   "type of cell phone": "Apple - iPhone SE 64GB - Space Gray (AT&T)",
+   "ANSWER": "$499.99",
+   "state": "California"
+  }
+ },
+ "d13a948d84": {
+  "instruction": {
+   "state": "Utah",
+   "type of cell phone": "Samsung Galaxy J3 (2016)",
+   "ANSWER": "$179.99"
+  }
+ },
+ "cbe4974231": {
+  "instruction": {
+   "state": "Idaho",
+   "type of cell phone": "LG Phoenix 2 4G LTE",
+   "ANSWER": "$69.99"
+  }
+ },
+ "d02325b225": {
+  "instruction": {
+   "type of cell phone": "Nokia E71X",
+   "ANSWER": "63.99",
+   "state": "Ohio"
+  }
+ },
+ "4dd2157bb5": {
+  "instruction": {
+   "state": "Maryland",
+   "type of cell phone": "ZTE Axon 7 mini",
+   "ANSWER": "$249.99"
+  }
+ },
+ "2f3c47e188": {
+  "instruction": {
+   "state": "Minnesota",
+   "type of cell phone": "Huawei Mate 9"
+  }
+ },
+ "dec1a85492": {
+  "instruction": {
+   "state": "North Carolina",
+   "type of cell phone": "CAT S60",
+   "ANSWER": "629.99"
+  }
+ },
+ "68aad4e7cf": {
+  "instruction": {
+   "type of cell phone": "(Jitterbug)",
+   "ANSWER": "99.99",
+   "state": "(Lexington, KY)"
+  }
+ },
+ "d119d3d0cd": {
+  "instruction": {
+   "state": "Alabama",
+   "type of cell phone": "Motorola - MOTO G4 Play ",
+   "ANSWER": "$129.99"
+  }
+ },
+ "bfdc88e101": {
+  "instruction": {
+   "type of cell phone": "iPhone SE",
+   "state": "Lousiana"
+  }
+ },
+ "be1a2ef6e7": {
+  "instruction": {
+   "type of cell phone": "MOTO G4 Play",
+   "ANSWER": "$129.99",
+   "state": "Connecticut"
+  }
+ },
+ "e46c56451a": {
+  "instruction": {
+   "type of cell phone": "Samsung Galaxy S7 Edge",
+   "state": "Kansas"
+  }
+ },
+ "4fa41b08c8": {
+  "instruction": {
+   "state": "Alabama",
+   "type of cell phone": "Motorola - Moto G Plus",
+   "ANSWER": "$249.99"
+  }
+ },
+ "d95d9924cb": {
+  "instruction": {
+   "state": "Alabama",
+   "type of cell phone": "Motorola - Moto Z Play",
+   "ANSWER": "$399.99"
+  }
+ },
+ "b01bd915b5": {
+  "instruction": {
+   "type of cell phone": "Asus ZenFone 3 Max",
+   "ANSWER": "149.99",
+   "state": "Tennessee"
+  }
+ },
+ "be560e5ffe": {
+  "instruction": {
+   "state": "Idaho",
+   "type of cell phone": "Samsung Galaxy Express 3 4G LTE",
+   "ANSWER": "$49.99"
+  }
+ },
+ "ebec16d1d3": {
+  "instruction": {
+   "type of cell phone": "(Samsung GALAXY On5 4G LTE with 8GB)",
+   "ANSWER": "49.99",
+   "state": "(Lexington, KY)"
+  }
+ },
+ "3e68bc32c9": {
+  "instruction": {
+   "type of cell phone": "Sony - Xperia X",
+   "ANSWER": "$399.99",
+   "state": "Alabama"
+  }
+ },
+ "f09850b81c": {
+  "instruction": {
+   "state": "Maryland",
+   "type of cell phone": "Nexus 6P"
+  }
+ },
+ "3cf33fc676": {
+  "instruction": {
+   "state": "Ohio",
+   "type of cell phone": "Nokia E71X",
+   "ANSWER": "63.99"
+  }
+ },
+ "432e216f5c": {
+  "instruction": {
+   "type of cell phone": "Sony - XPERIA XA Ultra 4G LTE with 16GB Memory Cell Phone (Unlocked) - White",
+   "ANSWER": "$329.99",
+   "state": "Colorado "
+  }
+ },
+ "5ba89eb1ff": {
+  "instruction": {
+   "type of cell phone": "CAT S60",
+   "ANSWER": "629.99",
+   "state": "North Carolina"
+  }
+ },
+ "80d24ad579": {
+  "instruction": {
+   "type of cell phone": "Asus ZenFone 3 Deluxe",
+   "ANSWER": "$499.99",
+   "state": "North Carolina"
+  }
+ },
+ "5f20744615": {
+  "instruction": {
+   "type of cell phone": "LG - G5 4G LTE with 32GB Memory Cell Phone - Titan (Sprint)",
+   "ANSWER": "$579.99",
+   "state": "California"
+  }
+ },
+ "1c5ee908f3": {
+  "instruction": {
+   "state": "Oregon",
+   "type of cell phone": "Sony XPERIA XA Ultra",
+   "ANSWER": "$329.99"
+  }
+ },
+ "c2433e2baa": {
+  "instruction": {
+   "state": "California",
+   "type of cell phone": "Samsung - Galaxy S7 edge 32GB - Titanium Silver (AT&T)",
+   "ANSWER": "$724.99"
+  }
+ },
+ "942a38b7f1": {
+  "instruction": {
+   "state": "Alabama",
+   "type of cell phone": "ZTE - Axon 7 mini",
+   "ANSWER": "$249.99"
+  }
+ },
+ "bb76118262": {
+  "instruction": {
+   "type of cell phone": "LG - K7",
+   "ANSWER": "$99.99",
+   "state": "Alabama"
+  }
+ },
+ "0b828dea1f": {
+  "instruction": {
+   "state": "Idaho",
+   "type of cell phone": "Moto G4 Play 4G LTE ",
+   "ANSWER": "$59.99"
+  }
+ },
+ "a71fc80319": {
+  "instruction": {
+   "state": "(Lexington, KY)",
+   "type of cell phone": "(Samsung Galaxy Sol 4G with 8GB Memory)",
+   "ANSWER": "89.99"
+  }
+ },
+ "b93b472f68": {
+  "instruction": {
+   "type of cell phone": "iPhone 7 Plus 128GB",
+   "ANSWER": "$969.99",
+   "state": "Ohio"
+  }
+ },
+ "547c433e7e": {
+  "instruction": {
+   "state": "Vermont",
+   "type of cell phone": "LG V20",
+   "ANSWER": "$749.99"
+  }
+ },
+ "9135588266": {
+  "instruction": {
+   "state": "Delaware",
+   "type of cell phone": "Samsung Galaxy J3",
+   "ANSWER": "$84.99"
+  }
+ },
+ "ec3217e15d": {
+  "instruction": {
+   "type of cell phone": "HTC 10",
+   "state": "Michigan"
+  }
+ },
+ "6ee523b356": {
+  "instruction": {
+   "type of cell phone": "Motorola - Moto X Pure",
+   "ANSWER": "$299.99",
+   "state": "Alabama"
+  }
+ },
+ "f2862cdb8d": {
+  "instruction": {
+   "type of cell phone": "Google Pixel 4G",
+   "ANSWER": "$749.99",
+   "state": "Washington"
+  }
+ },
+ "1df5cb76a4": {
+  "instruction": {
+   "state": "Idaho",
+   "type of cell phone": "Samsung Galaxy Express Prime 4G LTE",
+   "ANSWER": "$69.99"
+  }
+ },
+ "bc2e1e2d8b": {
+  "instruction": {
+   "state": "Pennsylvania",
+   "type of cell phone": "Motorola MOTO G",
+   "ANSWER": "199.99"
+  }
+ },
+ "d0088baca5": {
+  "instruction": {
+   "type of cell phone": "Moto G4 Play 4G LTE ",
+   "ANSWER": "$59.99",
+   "state": "Idaho"
+  }
+ },
+ "a1aaa1800c": {
+  "instruction": {
+   "type of cell phone": "(LG X POWER 4G LTE with 16GB Memory)",
+   "ANSWER": "99.99",
+   "state": "(Lexington, KY)"
+  }
+ },
+ "37881ffe17": {
+  "instruction": {
+   "state": "Maine",
+   "type of cell phone": "LG Escape 2",
+   "ANSWER": "$49.99"
+  }
+ },
+ "74b35d788a": {
+  "instruction": {
+   "type of cell phone": "Samsung - Galaxy S7 Active 32GB - Titanium Gray (AT&T)",
+   "ANSWER": "$724.99",
+   "state": "California"
+  }
+ },
+ "7e967073be": {
+  "instruction": {
+   "type of cell phone": "Motorola - Moto Z Play",
+   "ANSWER": "$399.99",
+   "state": "Alabama"
+  }
+ },
+ "f459121b82": {
+  "instruction": {
+   "state": "(Lexington, KY)",
+   "type of cell phone": "(Apple iPhone 5s 16GB Memory)",
+   "ANSWER": "199.99"
+  }
+ },
+ "179561d67f": {
+  "instruction": {
+   "hp laptop": "HP - 17.3\" Laptop - Intel Core i5 - 8GB Memory - 1TB HDD"
+  }
+ },
+ "9ea91abae5": {
+  "instruction": {
+   "type of cell phone": "Huawei - Mate 9 4G LTE with 64GB Memory Cell Phone (Unlocked) - Space Gray",
+   "ANSWER": "$599.99",
+   "state": "Kansas "
+  }
+ },
+ "c194db47c6": {
+  "instruction": {
+   "state": "California",
+   "type of cell phone": "Samsung - Galaxy S7 Active 32GB - Titanium Gray (AT&T)",
+   "ANSWER": "$724.99"
+  }
+ },
+ "bfa3a3bad5": {
+  "instruction": {
+   "type of cell phone": "Sony XPERIA XA Ultra",
+   "ANSWER": "$329.99",
+   "state": "Oregon"
+  }
+ },
+ "393727fcc2": {
+  "instruction": {
+   "type of cell phone": "(Samsung Galaxy Sol 4G with 8GB Memory)",
+   "ANSWER": "89.99",
+   "state": "(Lexington, KY)"
+  }
+ },
+ "1fdebe3160": {
+  "instruction": {
+   "type of cell phone": "HTC - Desire 626 4G LTE with 8GB Memory Cell Phone (Unlocked) - Terra white",
+   "ANSWER": "$179.99",
+   "state": "Texas "
+  }
+ },
+ "088268b78c": {
+  "instruction": {
+   "type of cell phone": "Asus ZenFone 3 Max",
+   "ANSWER": "$149.99",
+   "state": "California"
+  }
+ }
+}

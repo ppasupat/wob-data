@@ -1,0 +1,1092 @@
+{
+ "ccc85d67f8": {
+  "instruction": {
+   "Restaurant address": "1055 Lexington Avenue, New York, NY 10021",
+   "Restaurant name": "Eats",
+   "ANSWER": "https://www.zomato.com/new-york-city/eat-upper-east-side"
+  }
+ },
+ "c9978fbe29": {
+  "instruction": {
+   "Restaurant name": "Grand Central Oyster Bar & Restaurant",
+   "Restaurant address": "Grand Central Terminal, 89 E 42nd Street, New York,"
+  }
+ },
+ "375fb584f6": {
+  "instruction": {
+   "Restaurant address": "210 Spring Street, New York, NY 10012",
+   "Restaurant name": "Aquagrill",
+   "ANSWER": "https://www.zomato.com/new-york-city/aquagrill-greenwich-village"
+  }
+ },
+ "afbce18503": {
+  "instruction": {
+   "Restaurant address": "945 2nd Avenue, New York, NY 10022",
+   "Restaurant name": "Crave Fishbar",
+   "ANSWER": "https://www.zomato.com/new-york-city/crave-fishbar-turtle-bay"
+  }
+ },
+ "11f1944f73": {
+  "instruction": {
+   "Restaurant address": "242 E 81st Street, New York, NY 10028",
+   "Restaurant name": "Luke's Lobster",
+   "ANSWER": "Restaurants near Manhattan Luke's Lobster that serves sea food with address 242 E 81st Street, New York, NY 10028"
+  }
+ },
+ "06282cdbeb": {
+  "instruction": {
+   "Restaurant name": "Fish",
+   "Restaurant address": "280 Bleecker Street, New York, NY 10014",
+   "ANSWER": "https://www.zomato.com/new-york-city/fish-west-village"
+  }
+ },
+ "c41406efe7": {
+  "instruction": {
+   "Restaurant address": "93 E 7th Street, New York, NY 10009",
+   "Restaurant name": "Luke's Lobster"
+  }
+ },
+ "b5de60356b": {
+  "instruction": {
+   "Restaurant address": "1143 1st Avenue, New York, NY 10065",
+   "Restaurant name": "Sushi Seki ",
+   "ANSWER": "Restaurants near Manhattan Sushi Seki that serves sea food with address 1143 1st Avenue, New York, NY 10065"
+  }
+ },
+ "723779970c": {
+  "instruction": {
+   "Restaurant name": "Lure Fishbar",
+   "Restaurant address": "142 Mercer Street, Soho, NY 10012",
+   "ANSWER": "Soho"
+  }
+ },
+ "85c9da636f": {
+  "instruction": {
+   "Restaurant address": "1584 2nd Avenue, New York, NY 10028",
+   "Restaurant name": "Sushi Ren",
+   "ANSWER": "Restaurants near Manhattan Sushi Ren that serves sea food with address 1584 2nd Avenue, New York, NY 10028"
+  }
+ },
+ "937c937602": {
+  "instruction": {
+   "Restaurant address": "120 West 49th Street, New York, NY 10020",
+   "Restaurant name": "Oceana",
+   "ANSWER": "Restaurants near Manhattan Oceana that serves sea food with address 120 West 49th Street, New York, NY 10020?"
+  }
+ },
+ "a5ca7929e2": {
+  "instruction": {
+   "Restaurant address": "384 Columbus Avenue, New York, NY 10024",
+   "Restaurant name": "Ocean Grill",
+   "ANSWER": "Upper west Side"
+  }
+ },
+ "f523ce7bdb": {
+  "instruction": {
+   "Restaurant address": "18 Cornelia Street, New York, NY 10014",
+   "Restaurant name": "Pearl Oyster Bar",
+   "ANSWER": "Restaurants near Manhattan Pearl Oyster Bar that serves sea food with address 18 Cornelia Street, New York, NY 10014?"
+  }
+ },
+ "8e3e7afb29": {
+  "instruction": {
+   "Restaurant address": "33 E 61st Street, New York, NY 10065",
+   "Restaurant name": "Serafina Always",
+   "ANSWER": "https://www.zomato.com/new-york-city/serafina-always-upper-east-side"
+  }
+ },
+ "4881818f2b": {
+  "instruction": {
+   "Restaurant address": "1196 Broadway, New York, NY 10001",
+   "Restaurant name": "John Dory Oyster Bar",
+   "ANSWER": "Pomodoro Restaurant"
+  }
+ },
+ "c742bd6302": {
+  "instruction": {
+   "Restaurant name": "theBoil",
+   "Restaurant address": "139 Chrystie Street, New York, NY 10002",
+   "ANSWER": "https://www.zomato.com/new-york-city/the-boil-lower-east-side"
+  }
+ },
+ "4bd540138f": {
+  "instruction": {
+   "Restaurant address": "21 9th Avenue, New York, NY 10014",
+   "Restaurant name": "Catch",
+   "ANSWER": " 9th Avenue, Meat Packing District"
+  }
+ },
+ "09da0d1362": {
+  "instruction": {
+   "Restaurant address": "1055 Lexington Avenue, New York, NY 10021",
+   "Restaurant name": "Eats",
+   "ANSWER": "Restaurants near Manhattan Eats that serves sea food with address 1055 Lexington Avenue, New York, NY 10021"
+  }
+ },
+ "7cbb36cf29": {
+  "instruction": {
+   "Restaurant name": "Cull & Pistol",
+   "Restaurant address": "Chelsea Market, 75 9th Avenue, New York, NY 10011",
+   "ANSWER": "https://www.zomato.com/new-york-city/cull-pistol-greenwich-village"
+  }
+ },
+ "09292b9cbb": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Breakfast"
+  }
+ },
+ "61704f193a": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Dinner"
+  }
+ },
+ "9a86dba7d8": {
+  "instruction": {
+   "Restaurant address": "225 E 60th Street, New York, NY 10022",
+   "Restaurant name": "Serendipity 3",
+   "ANSWER": "https://www.zomato.com/new-york-city/serendipity-3-upper-east-side"
+  }
+ },
+ "edd34b7f6b": {
+  "instruction": {
+   "Restaurant address": "402 W 43rd Street, New York, NY 10036",
+   "Restaurant name": "Esca",
+   "ANSWER": "Bubba Gump Shrimp Co."
+  }
+ },
+ "f20e33ebff": {
+  "instruction": {
+   "Restaurant address": "Grand Central Terminal, 89 E 42nd Street, New York,",
+   "Restaurant name": "Grand Central Oyster Bar & Restaurant"
+  }
+ },
+ "de6d6135d1": {
+  "instruction": {
+   "Restaurant address": "1580 York Ave, New York, NY 10028",
+   "Restaurant name": "Dorian's Seafood Market",
+   "ANSWER": "https://www.zomato.com/new-york-city/dorians-seafood-market-upper-east-side"
+  }
+ },
+ "8218d7dca1": {
+  "instruction": {
+   "Restaurant name": "Atlantic Grill",
+   "Restaurant address": "1341 3rd Avenue, New York, NY 10021",
+   "ANSWER": "Restaurants near Manhattan Atlantic Grill that serves sea food with address 1341 3rd Avenue, New York, NY 10021"
+  }
+ },
+ "c7f785d814": {
+  "instruction": {
+   "Restaurant name": "The Sea Fire Grill",
+   "Restaurant address": "158 E 48th Street, New York, NY 10017",
+   "ANSWER": "https://www.zomato.com/new-york-city/the-sea-fire-grill-turtle-bay"
+  }
+ },
+ "33954dc4fa": {
+  "instruction": {
+   "Restaurant name": "Luke's Lobster",
+   "Restaurant address": "93 E 7th Street, New York, NY 10009"
+  }
+ },
+ "8a8357e214": {
+  "instruction": {
+   "Restaurant address": "174 East 82nd Street, New York, NY 10028",
+   "Restaurant name": "Flex Mussels",
+   "ANSWER": "Restaurants near Manhattan Flex Mussels that serves sea food with address 174 East 82nd Street, New York, NY 10028?"
+  }
+ },
+ "ccfb937684": {
+  "instruction": {
+   "Restaurant name": "Mary's Fish Camp",
+   "Restaurant address": "64 Charles Street, New York, NY 10014"
+  }
+ },
+ "7429382b54": {
+  "instruction": {
+   "Restaurant address": "158 E 48th Street, New York, NY 10017",
+   "Restaurant name": "The Sea Fire Grill",
+   "ANSWER": "https://www.zomato.com/new-york-city/the-sea-fire-grill-turtle-bay"
+  }
+ },
+ "081f442b66": {
+  "instruction": {
+   "Restaurant address": " 26 South William Street, New York, NY 10004",
+   "Restaurant name": "Luke's Lobster",
+   "ANSWER": "Lobster Roll $16"
+  }
+ },
+ "d5b58b792a": {
+  "instruction": {
+   "Restaurant address": "1196 Broadway, New York, NY 10001",
+   "Restaurant name": "John Dory Oyster Bar",
+   "ANSWER": "Restaurants near Manhattan John Dory Oyster Bar that serves sea food with address 1196 Broadway, New York, NY 10001?"
+  }
+ },
+ "2207f20922": {
+  "instruction": {
+   "Restaurant name": "Flex Mussels",
+   "Restaurant address": "174 East 82nd Street, New York, NY 10028"
+  }
+ },
+ "ec7eb392ba": {
+  "instruction": {
+   "Restaurant address": "33 E 61st Street, New York, NY 1006",
+   "Restaurant name": "Serafina Always",
+   "ANSWER": "Restaurants near Manhattan Serafina Always that serves sea food with address 33 E 61st Street, New York, NY 1006"
+  }
+ },
+ "10c9389acc": {
+  "instruction": {
+   "Restaurant address": "174 East 82nd Street, New York, NY 10028",
+   "Restaurant name": "Flex Mussels"
+  }
+ },
+ "60b68716ee": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Indian"
+  }
+ },
+ "39c499ce46": {
+  "instruction": {
+   "Restaurant address": " 363 Greenwich Street, New York, NY 10013",
+   "Restaurant name": "American Cut",
+   "ANSWER": "Bang Bang Shrimp $18"
+  }
+ },
+ "7ee7eb11c4": {
+  "instruction": {
+   "Restaurant name": "Sushi Ren",
+   "Restaurant address": "1584 2nd Avenue, New York, NY 10028",
+   "ANSWER": "Restaurants near Manhattan Sushi Ren that serves sea food with address 1584 2nd Avenue, New York, NY 10028"
+  }
+ },
+ "11fd17328e": {
+  "instruction": {
+   "Restaurant name": "Parlor Steak & Fish",
+   "Restaurant address": "1600 3rd Avenue, New York, NY 10128",
+   "ANSWER": "Restaurants near Manhattan Parlor Steak & Fish that serves sea food with address 1600 3rd Avenue, New York, NY 10128"
+  }
+ },
+ "9dd288a7e4": {
+  "instruction": {
+   "Restaurant address": "1501 Broadway, NY NY 10036",
+   "Restaurant name": "Tony's di Napoli",
+   "ANSWER": "Bubba Gump Shrimp Co."
+  }
+ },
+ "27d80038a6": {
+  "instruction": {
+   "Restaurant address": "174 East 82nd Street, New York, NY 10028",
+   "Restaurant name": "Flex Mussels",
+   "ANSWER": "Restaurants near Manhattan Flex Mussels that serves sea food with address 174 East 82nd Street, New York, NY 10028"
+  }
+ },
+ "54782700f7": {
+  "instruction": {
+   "Restaurant address": "1580 York Ave, New York, NY 10028",
+   "Restaurant name": "Dorian's Seafood Market",
+   "ANSWER": "Restaurants near Manhattan Dorian's Seafood Market that serves sea food with address 1580 York Ave, New York, NY 10028"
+  }
+ },
+ "d6403a916b": {
+  "instruction": {
+   "Restaurant name": "Russ & Daughters",
+   "Restaurant address": "179 E Houston Street, New York, NY 10002"
+  }
+ },
+ "308956e4c1": {
+  "instruction": {
+   "Restaurant address": "120 W 59th St, NY NY 10020",
+   "Restaurant name": "R Lounge at Two Times Square",
+   "ANSWER": "Oceana"
+  }
+ },
+ "0a647254c8": {
+  "instruction": {
+   "Restaurant name": "Crave Fishbar",
+   "Restaurant address": "945 2nd Avenue, New York, NY 10022",
+   "ANSWER": "https://www.zomato.com/new-york-city/crave-fishbar-turtle-bay"
+  }
+ },
+ "e983e46e95": {
+  "instruction": {
+   "Restaurant address": "384 Columbus Avenue, New York, NY 10024",
+   "Restaurant name": "Ocean Grill",
+   "ANSWER": "Ocean Grill"
+  }
+ },
+ "ce7a219b7e": {
+  "instruction": {
+   "Restaurant address": "1196 Broadway, New York, NY 10001",
+   "Restaurant name": "John Dory Oyster Bar",
+   "ANSWER": "Chelsea,Manhattan"
+  }
+ },
+ "897f0e97ee": {
+  "instruction": {
+   "Restaurant address": "280 Bleecker St, New York, NY 10014",
+   "Restaurant name": "Fish",
+   "ANSWER": "280 Bleecker St, New York, NY 10014"
+  }
+ },
+ "04994f1ef2": {
+  "instruction": {
+   "Restaurant address": "409 8th Avenue, New York, NY 10001",
+   "Restaurant name": "Riko Peruvian Cuisine",
+   "ANSWER": "Blue Fin"
+  }
+ },
+ "fe9410109e": {
+  "instruction": {
+   "Restaurant address": "39 W 19th Street, New York, NY 10011",
+   "Restaurant name": "Burger and Lobster",
+   "ANSWER": "Burger and Lobster"
+  }
+ },
+ "4804790d0c": {
+  "instruction": {
+   "Restaurant name": "Lukes Lobster",
+   "Restaurant address": "93 E 7th Street, New York, NY 10009",
+   "ANSWER": "Cornelia st., West billiage"
+  }
+ },
+ "66bbe8ca3a": {
+  "instruction": {
+   "Restaurant address": "132 W 31st Street, New York, NY 10001",
+   "Restaurant name": "Pennsylvania 6",
+   "ANSWER": "Le Bernardin"
+  }
+ },
+ "467c2850a9": {
+  "instruction": {
+   "Restaurant name": "Estiatorio Milos",
+   "Restaurant address": "125 W 55th Street, New York, NY 10019",
+   "ANSWER": "https://www.zomato.com/new-york-city/estiatorio-milos-midtown"
+  }
+ },
+ "9894465d20": {
+  "instruction": {
+   "Restaurant address": "W Hotel, 1567 Broadway, New York, NY 10036",
+   "Restaurant name": "Blue Fin",
+   "ANSWER": "https://www.zomato.com/new-york-city/blue-fin-gramercy"
+  }
+ },
+ "a71261db23": {
+  "instruction": {
+   "Restaurant name": "Serafina Always",
+   "Restaurant address": "33 E 61st Street, New York, NY 1006",
+   "ANSWER": "Restaurants near Manhattan Serafina Always that serves sea food with address 33 E 61st Street, New York, NY 1006"
+  }
+ },
+ "bed6e787a9": {
+  "instruction": {
+   "Restaurant name": "Red Lobster",
+   "Restaurant address": "5 Times Square, New York, NY 10036",
+   "ANSWER": "Gramercy"
+  }
+ },
+ "1eddf27fee": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Chinese"
+  }
+ },
+ "06f6e7debb": {
+  "instruction": {
+   "Restaurant name": "Blue Water Grill",
+   "Restaurant address": "31 Union Square West, New York, NY 10003"
+  }
+ },
+ "5bbd1256c9": {
+  "instruction": {
+   "Restaurant name": "Luke's Lobster",
+   "Restaurant address": "242 E 81st Street, New York, NY 10028",
+   "ANSWER": "Restaurants near Manhattan Luke's Lobster that serves sea food with address 242 E 81st Street, New York, NY 10028"
+  }
+ },
+ "b8bb0f3c87": {
+  "instruction": {
+   "Restaurant address": "1 E 35th St, New York, NY 10016",
+   "Restaurant name": "Royal 35 Steakhouse",
+   "ANSWER": "1 E 35th St, New York, NY 10016"
+  }
+ },
+ "d1cca4f284": {
+  "instruction": {
+   "Restaurant address": "1584 2nd Avenue, New York, NY 10028",
+   "Restaurant name": "Sushi Ren",
+   "ANSWER": "https://www.zomato.com/new-york-city/sushi-ren-upper-east-side"
+  }
+ },
+ "cb100cdc36": {
+  "instruction": {
+   "Restaurant name": "Sable's",
+   "Restaurant address": "1489 2nd Avenue, New York, NY 10021",
+   "ANSWER": "Restaurants near Manhattan Sable's that serves sea food with address 1489 2nd Avenue, New York, NY 10021"
+  }
+ },
+ "129b658dda": {
+  "instruction": {
+   "Restaurant address": " 120 Broadway, New York, NY 10271",
+   "Restaurant name": "The Capital Grille",
+   "ANSWER": "6 Fresh Oysters on the Half Shell $20"
+  }
+ },
+ "92bf13e6dc": {
+  "instruction": {
+   "Restaurant address": "64 Charles Street, New York, NY 10014",
+   "Restaurant name": "Mary's Fish Camp"
+  }
+ },
+ "b2e9bd95a8": {
+  "instruction": {
+   "Restaurant name": "Ocean Grill",
+   "Restaurant address": "384 Columbus Avenue, New York, NY 10024",
+   "ANSWER": "Upper west Side"
+  }
+ },
+ "81ee98b851": {
+  "instruction": {
+   "Restaurant address": "93 E 7th Street, New York, NY 10009",
+   "Restaurant name": "Lukes Lobster",
+   "ANSWER": "Cornelia st., West billiage"
+  }
+ },
+ "132e73ea63": {
+  "instruction": {
+   "Restaurant address": " 1 Hanover Square, New York, NY 10004",
+   "Restaurant name": "Harr's Steak and Cafe",
+   "ANSWER": "Maine Lobster Cocktail $24"
+  }
+ },
+ "106c6a7a93": {
+  "instruction": {
+   "Restaurant address": "21 9th Avenue, New York, NY 10014",
+   "Restaurant name": "Catch"
+  }
+ },
+ "14a33cde87": {
+  "instruction": {
+   "Restaurant name": "Burger and Lobster",
+   "Restaurant address": "39 W 19th Street, New York, NY 10011",
+   "ANSWER": "Gramercy-Flatiron"
+  }
+ },
+ "03cea9d479": {
+  "instruction": {
+   "Restaurant address": " 56 Beaver Street, New York, NY 10004",
+   "Restaurant name": "Delmonico's",
+   "ANSWER": "Classic Baked Alaska $13"
+  }
+ },
+ "d82f79c3c1": {
+  "instruction": {
+   "Restaurant address": "64 Charles Street, New York, NY 10014",
+   "Restaurant name": "Mary's Fish Camp",
+   "ANSWER": "Restaurants near Manhattan Mary's Fish Camp that serves sea food with address 64 Charles Street, New York, NY 10014?"
+  }
+ },
+ "3e53359a64": {
+  "instruction": {
+   "Restaurant address": "384 Columbus Avenue, New York, NY 10024",
+   "Restaurant name": "Ocean Grill",
+   "ANSWER": "Restaurants near Manhattan Ocean Grill that serves sea food with address 384 Columbus Avenue, New York, NY 10024?"
+  }
+ },
+ "04381f3eeb": {
+  "instruction": {
+   "Restaurant address": "683 9th Avenue, New York, NY 10036",
+   "Restaurant name": "Pietrasanta",
+   "ANSWER": "Flex Mussels"
+  }
+ },
+ "6958fdd5e9": {
+  "instruction": {
+   "Restaurant address": "142 Mercer Street, Soho, NY 10012",
+   "Restaurant name": "Lure Fishbar"
+  }
+ },
+ "dc7078479d": {
+  "instruction": {
+   "Restaurant address": "1341 3rd Avenue, New York, NY 10021",
+   "Restaurant name": "Atlantic Grill",
+   "ANSWER": "Restaurants near Manhattan Atlantic Grill that serves sea food with address 1341 3rd Avenue, New York, NY 10021"
+  }
+ },
+ "869ef3dc63": {
+  "instruction": {
+   "Restaurant address": "271 W 119th St, New York, NY 10026",
+   "Restaurant name": "B2 Harlem",
+   "ANSWER": "271 W 119th St, New York, NY 10026"
+  }
+ },
+ "53e3ee707a": {
+  "instruction": {
+   "Restaurant address": "1196 Broadway, New York, NY 10001",
+   "Restaurant name": "John Dory Oyster Bar",
+   "ANSWER": "John Dory Oyster Bar"
+  }
+ },
+ "bf0e4bd32a": {
+  "instruction": {
+   "Restaurant address": " 40 Exchange Place, New York, NY 10005",
+   "Restaurant name": "The Irish Punt",
+   "ANSWER": "Tender Calamari $9.50"
+  }
+ },
+ "0f4741e163": {
+  "instruction": {
+   "Restaurant address": "31 Union Square West, New York, NY 10003",
+   "Restaurant name": "Blue Water Grill"
+  }
+ },
+ "cba1e6cc4a": {
+  "instruction": {
+   "Restaurant address": " 323 Greenwich Street, New York, NY 10013",
+   "Restaurant name": "Gigino Trattoria",
+   "ANSWER": "Grilled Salmon $18"
+  }
+ },
+ "83083bd2f9": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Mexican"
+  }
+ },
+ "7278887ea9": {
+  "instruction": {
+   "Restaurant address": "1341 3rd Avenue, New York, NY 10021",
+   "Restaurant name": "Atlantic Grill",
+   "ANSWER": "https://www.zomato.com/new-york-city/atlantic-grill-upper-east-side"
+  }
+ },
+ "00b2fbdcde": {
+  "instruction": {
+   "Restaurant address": "179 E Houston Street, New York, NY 10002",
+   "Restaurant name": "Russ & Daughters"
+  }
+ },
+ "d90d7624ee": {
+  "instruction": {
+   "Restaurant address": "1501 Broadway, New York, NY 1003",
+   "Restaurant name": "Bubba Gump Shrimp Co."
+  }
+ },
+ "d9559e13e2": {
+  "instruction": {
+   "Restaurant address": "1489 2nd Avenue, New York, NY 10021",
+   "Restaurant name": "Sable's",
+   "ANSWER": "Restaurants near Manhattan Sable's that serves sea food with address 1489 2nd Avenue, New York, NY 10021"
+  }
+ },
+ "b1ebd17c24": {
+  "instruction": {
+   "Restaurant name": "Ocean Prime",
+   "Restaurant address": "123 West 52nd Street, New York, NY 10019",
+   "ANSWER": "https://www.zomato.com/new-york-city/ocean-prime-gramercy"
+  }
+ },
+ "c367d321f6": {
+  "instruction": {
+   "Restaurant name": "Catch",
+   "Restaurant address": "21 9th Avenue, New York, NY 10014"
+  }
+ },
+ "836fedcd40": {
+  "instruction": {
+   "Restaurant address": "384 Columbus Ave, NY NY 10024",
+   "Restaurant name": "Atlantic Grill",
+   "ANSWER": "Ocean Grill"
+  }
+ },
+ "8bd2177625": {
+  "instruction": {
+   "Restaurant name": "Sushi Seki",
+   "Restaurant address": "1143 1st Avenue, New York, NY 10065",
+   "ANSWER": "Upper East Side"
+  }
+ },
+ "73d8ce71e3": {
+  "instruction": {
+   "Restaurant address": "158 E 48th St, New York, NY 10017",
+   "Restaurant name": "The Fire Grill",
+   "ANSWER": "158 E 48th St, New York, NY 10017"
+  }
+ },
+ "c4f6b167c8": {
+  "instruction": {
+   "Restaurant address": "5 Times Square, New York, NY 10036",
+   "Restaurant name": "Red Lobster",
+   "ANSWER": "Red Lobster"
+  }
+ },
+ "bb6ed678ca": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Lunch"
+  }
+ },
+ "a23fe8b4f2": {
+  "instruction": {
+   "Restaurant address": "18 Cornelia Street, New York, NY 10014",
+   "Restaurant name": "Pearl Oyster Bar"
+  }
+ },
+ "5b16dbc70e": {
+  "instruction": {
+   "Restaurant address": " 363 Greenwich Street, New York, NY 10013",
+   "Restaurant name": "Tribeca Tap House",
+   "ANSWER": "Seared Ahi Tuna $16"
+  }
+ },
+ "f10566b84a": {
+  "instruction": {
+   "Restaurant name": "Sushi Seki ",
+   "Restaurant address": "1143 1st Avenue, New York, NY 10065",
+   "ANSWER": "Restaurants near Manhattan Sushi Seki that serves sea food with address 1143 1st Avenue, New York, NY 10065"
+  }
+ },
+ "9fb7e37e8d": {
+  "instruction": {
+   "Restaurant address": "Grand Central Terminal, 89 E 42nd Street, New York, NY 10017",
+   "Restaurant name": "Grand Central Oyster Bar & Restaurant",
+   "ANSWER": "Restaurants near Manhattan Grand Central Oyster Bar & Restaurant that serves sea food with address Grand Central Terminal, 89 E 42nd Street, New York, NY 10017?"
+  }
+ },
+ "5de8ad6b51": {
+  "instruction": {
+   "Restaurant name": "Flex Mussels",
+   "Restaurant address": "174 East 82nd Street, New York, NY 10028",
+   "ANSWER": "Restaurants near Manhattan Flex Mussels that serves sea food with address 174 East 82nd Street, New York, NY 10028"
+  }
+ },
+ "cfa1fec245": {
+  "instruction": {
+   "Restaurant address": "261 W 125th St, NY NY 10027",
+   "Restaurant name": "LoLo's Seafood Shack",
+   "ANSWER": "Red Lobster"
+  }
+ },
+ "7aa9c39709": {
+  "instruction": {
+   "Restaurant name": "Aquagrill",
+   "Restaurant address": "210 Spring Street, New York, NY 10012",
+   "ANSWER": "https://www.zomato.com/new-york-city/aquagrill-greenwich-village"
+  }
+ },
+ "5c076bb664": {
+  "instruction": {
+   "Restaurant address": "1143 1st Avenue, New York, NY 10065",
+   "Restaurant name": "Sushi Seki",
+   "ANSWER": "Upper East Side"
+  }
+ },
+ "3074793953": {
+  "instruction": {
+   "Restaurant address": "18 Cornelia Street, New York, NY 10014",
+   "Restaurant name": "Pearl Oyster Bar",
+   "ANSWER": "Pearl Oyster Bar"
+  }
+ },
+ "1b59385a7a": {
+  "instruction": {
+   "Restaurant address": "1055 Lexington Ave, NY NY 10021 ",
+   "Restaurant name": "Atlantic Grill",
+   "ANSWER": "Eats"
+  }
+ },
+ "681403f2d8": {
+  "instruction": {
+   "Restaurant address": "75 9th Ave New York, NY 10011",
+   "Restaurant name": "Los Mariscos",
+   "ANSWER": "75 9th Ave New York, NY 10011"
+  }
+ },
+ "0244292156": {
+  "instruction": {
+   "Restaurant address": "142 Mercer Street, Soho, NY 10012",
+   "Restaurant name": "Lure Fishbar",
+   "ANSWER": "Lure Fishbar"
+  }
+ },
+ "0c3de43ecb": {
+  "instruction": {
+   "Restaurant address": "890 7th Ave, NY NY 10019",
+   "Restaurant name": "Estiatorio Milos",
+   "ANSWER": "Redeye Grill"
+  }
+ },
+ "169e94e8e4": {
+  "instruction": {
+   "Restaurant address": "120 West 49th Street, New York, NY 10020",
+   "Restaurant name": "Oceana",
+   "ANSWER": "Oceana"
+  }
+ },
+ "e16c2ba94c": {
+  "instruction": {
+   "Restaurant address": "95 1st Ave, New York, NY 10003",
+   "Restaurant name": "Upstate",
+   "ANSWER": "95 1st Ave, New York, NY 10003"
+  }
+ },
+ "1f933814fc": {
+  "instruction": {
+   "Restaurant address": "240 Central Park South, NY NY 10021",
+   "Restaurant name": "Blue Ribbon Sushi Bar & Grill",
+   "ANSWER": "Marea"
+  }
+ },
+ "4bace8aab6": {
+  "instruction": {
+   "Restaurant name": "Oceana",
+   "Restaurant address": "120 West 49th Street, New York, NY 10020",
+   "ANSWER": "Granercy"
+  }
+ },
+ "b80a0002ea": {
+  "instruction": {
+   "Restaurant address": "1143 1st Avenue, New York, NY 10065",
+   "Restaurant name": "Sushi Seki",
+   "ANSWER": "https://www.zomato.com/new-york-city/sushi-seki-upper-east-side"
+  }
+ },
+ "c09579b551": {
+  "instruction": {
+   "Restaurant address": "365 W. 46th Street, NY NY 10036",
+   "Restaurant name": "Esca",
+   "ANSWER": "Sushi Seki"
+  }
+ },
+ "3a0f3c9cb8": {
+  "instruction": {
+   "Restaurant address": "32 W 33rd Street, New York, NY 10001",
+   "Restaurant name": "Cajunsea",
+   "ANSWER": "https://www.zomato.com/new-york-city/cajunsea-gramercy"
+  }
+ },
+ "0d60be50e0": {
+  "instruction": {
+   "Restaurant address": "32 W 33rd St, New York, NY 10001",
+   "Restaurant name": "CajunSea & Oyster Bar",
+   "ANSWER": "32 W 33rd St, New York, NY 10001"
+  }
+ },
+ "d0b4f6922d": {
+  "instruction": {
+   "Restaurant name": "Dorian's Seafood Market",
+   "Restaurant address": "1580 York Ave, New York, NY 10028",
+   "ANSWER": "Restaurants near Manhattan Dorian's Seafood Market that serves sea food with address 1580 York Ave, New York, NY 10028"
+  }
+ },
+ "9953776fbb": {
+  "instruction": {
+   "Restaurant name": "Catch",
+   "Restaurant address": "21 9th Avenue, New York, NY 10014",
+   "ANSWER": " 9th Avenue, Meat Packing District"
+  }
+ },
+ "084e269634": {
+  "instruction": {
+   "Restaurant name": "North End Grill",
+   "Restaurant address": "104 North End Avenue, New York, NY 10282",
+   "ANSWER": "Lower Manhattan"
+  }
+ },
+ "e078b28d0b": {
+  "instruction": {
+   "Restaurant address": "104 North End Avenue, New York, NY 10282",
+   "Restaurant name": "North End Grill",
+   "ANSWER": "Lower Manhattan"
+  }
+ },
+ "e475c06b41": {
+  "instruction": {
+   "Restaurant address": "1260 Broadway, New York, NY 10001",
+   "Restaurant name": "Martinique Cafe",
+   "ANSWER": "Sardi's"
+  }
+ },
+ "5e6a194be4": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Mediterranean "
+  }
+ },
+ "f2ea1e32cb": {
+  "instruction": {
+   "Restaurant address": "350 7th Avenue, New York, Chelsea, Manhattan, New York",
+   "Restaurant name": "Seven Bar and Grill",
+   "ANSWER": "Red Lobster"
+  }
+ },
+ "c7c5f47de4": {
+  "instruction": {
+   "Restaurant address": "5 Times Square, New York, NY 10036",
+   "Restaurant name": "Red Lobster",
+   "ANSWER": "Gramercy"
+  }
+ },
+ "e7cc0ed65c": {
+  "instruction": {
+   "Restaurant address": "104 North End Avenue, New York, NY 10282",
+   "Restaurant name": "North End Grill",
+   "ANSWER": " Head-on Prawns $4 "
+  }
+ },
+ "48d4a9540d": {
+  "instruction": {
+   "Restaurant address": "700 8th Avenue, NY NY 10036",
+   "Restaurant name": "Sardis",
+   "ANSWER": "Lukes Lobster"
+  }
+ },
+ "4930b21245": {
+  "instruction": {
+   "Restaurant address": "120 West 49th Street, New York, NY 10020",
+   "Restaurant name": "Oceana",
+   "ANSWER": "Granercy"
+  }
+ },
+ "056fe8b26a": {
+  "instruction": {
+   "Restaurant name": "Bubba Gump Shrimp Co.",
+   "Restaurant address": "1501 Broadway, New York, NY 1003"
+  }
+ },
+ "ec925adf29": {
+  "instruction": {
+   "Restaurant name": "Cajunsea",
+   "Restaurant address": "32 W 33rd Street, New York, NY 10001",
+   "ANSWER": "https://www.zomato.com/new-york-city/cajunsea-gramercy"
+  }
+ },
+ "692c718b98": {
+  "instruction": {
+   "Restaurant address": "123 West 52nd Street, New York, NY 10019",
+   "Restaurant name": "Ocean Prime",
+   "ANSWER": "https://www.zomato.com/new-york-city/ocean-prime-gramercy"
+  }
+ },
+ "5bf5e68b7d": {
+  "instruction": {
+   "Restaurant name": "John Dory Oyster Bar",
+   "Restaurant address": "1196 Broadway, New York, NY 10001",
+   "ANSWER": "Chelsea,Manhattan"
+  }
+ },
+ "d21b3fc022": {
+  "instruction": {
+   "Restaurant address": "39 W 19th Street, New York, NY 10011",
+   "Restaurant name": "Burger and Lobster",
+   "ANSWER": "Restaurants near Manhattan Burger and Lobster that serves sea food with address 39 W 19th Street, New York, NY 10011?"
+  }
+ },
+ "a642bb1917": {
+  "instruction": {
+   "Restaurant address": "159 West 23rd Street, New York, NY 10011",
+   "Restaurant name": "Francisco's Centro Vasco",
+   "ANSWER": "Catch"
+  }
+ },
+ "b478f0582c": {
+  "instruction": {
+   "Restaurant address": "280 Bleecker Street, New York, NY 10014",
+   "Restaurant name": "Fish",
+   "ANSWER": "https://www.zomato.com/new-york-city/fish-west-village"
+  }
+ },
+ "9baee90b89": {
+  "instruction": {
+   "Restaurant address": "1501 Broadway, New York, NY 10036",
+   "Restaurant name": "Bubba Gump Shrimp Co.",
+   "ANSWER": "Bubba Gump Shrimp Co."
+  }
+ },
+ "6d4a24f8e0": {
+  "instruction": {
+   "Restaurant address": " 77 Pearl Street, New York, NY 10004",
+   "Restaurant name": "Terrace Fish & Chips",
+   "ANSWER": "Grilled Salmon Salad $13.99"
+  }
+ },
+ "83dd583238": {
+  "instruction": {
+   "Restaurant address": "125 W 55th Street, New York, NY 10019",
+   "Restaurant name": "Estiatorio Milos",
+   "ANSWER": "https://www.zomato.com/new-york-city/estiatorio-milos-midtown"
+  }
+ },
+ "60d83d567e": {
+  "instruction": {
+   "Restaurant address": "142 Mercer Street, Soho, NY 10012",
+   "Restaurant name": "Lure Fishbar",
+   "ANSWER": "Soho"
+  }
+ },
+ "b8846c80c6": {
+  "instruction": {
+   "Restaurant address": "174 East 82nd Street, New York, NY 10028",
+   "Restaurant name": "Flex Mussels",
+   "ANSWER": "Flex Mussels"
+  }
+ },
+ "03c5f0d884": {
+  "instruction": {
+   "Restaurant address": "1600 3rd Avenue, New York, NY 10128",
+   "Restaurant name": "Parlor Steak & Fish",
+   "ANSWER": "https://www.zomato.com/new-york-city/parlor-steak-fish-upper-east-side"
+  }
+ },
+ "1a60930733": {
+  "instruction": {
+   "Restaurant address": "5 Times Square, New York, NY 10036",
+   "Restaurant name": "Red Lobster",
+   "ANSWER": "Restaurants near Manhattan Red Lobster that serves sea food with address 5 Times Square, New York, NY 10036?"
+  }
+ },
+ "7554a67fef": {
+  "instruction": {
+   "Restaurant address": "179 E Houston Street, New York, NY 10002",
+   "Restaurant name": "Russ & Daughters",
+   "ANSWER": "Russ & Daughters"
+  }
+ },
+ "a408abe699": {
+  "instruction": {
+   "Restaurant name": "Pearl Oyster Bar",
+   "Restaurant address": "18 Cornelia Street, New York, NY 10014"
+  }
+ },
+ "46bd54a8df": {
+  "instruction": {
+   "Restaurant address": "245 Park Ave S, New York, NY 10003",
+   "Restaurant name": "Gramercy Farmer & The Fish",
+   "ANSWER": "245 Park Ave S, New York, NY 10003"
+  }
+ },
+ "48623c41b9": {
+  "instruction": {
+   "Restaurant address": "139 Chrystie Street, New York, NY 10002",
+   "Restaurant name": "theBoil",
+   "ANSWER": "https://www.zomato.com/new-york-city/the-boil-lower-east-side"
+  }
+ },
+ "2790bb4d9a": {
+  "instruction": {
+   "Restaurant address": "39 W 19th Street, New York, NY 10011",
+   "Restaurant name": "Burger and Lobster",
+   "ANSWER": "Gramercy-Flatiron"
+  }
+ },
+ "6e816ac660": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Take Out"
+  }
+ },
+ "0909a8c8d9": {
+  "instruction": {
+   "Restaurant address": "365 West 46th Street, New York, NY 10036",
+   "Restaurant name": "Sushi Seki",
+   "ANSWER": "Grand Central Oyster Bar & Restaurant"
+  }
+ },
+ "e9266363db": {
+  "instruction": {
+   "Restaurant address": "1600 3rd Avenue, New York, NY 10128",
+   "Restaurant name": "Parlor Steak & Fish",
+   "ANSWER": "Restaurants near Manhattan Parlor Steak & Fish that serves sea food with address 1600 3rd Avenue, New York, NY 10128"
+  }
+ },
+ "235f252cdf": {
+  "instruction": {
+   "Restaurant name": "Eats",
+   "Restaurant address": "1055 Lexington Avenue, New York, NY 10021",
+   "ANSWER": "Restaurants near Manhattan Eats that serves sea food with address 1055 Lexington Avenue, New York, NY 10021"
+  }
+ },
+ "d998346cfb": {
+  "instruction": {
+   "Restaurant name": "Lure Fishbar",
+   "Restaurant address": "142 Mercer Street, Soho, NY 10012"
+  }
+ },
+ "96598f539b": {
+  "instruction": {
+   "Restaurant address": "139 Chrystie St, New York, NY 10002",
+   "Restaurant name": "The Boil",
+   "ANSWER": "139 Chrystie St, New York, NY 10002"
+  }
+ },
+ "35523d8074": {
+  "instruction": {
+   "Restaurant address": "Chelsea Market, 75 9th Avenue, New York, NY 10011",
+   "Restaurant name": "Cull & Pistol",
+   "ANSWER": "https://www.zomato.com/new-york-city/cull-pistol-greenwich-village"
+  }
+ },
+ "79cd13e485": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Korean"
+  }
+ },
+ "c5d58b6bc4": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Delievery"
+  }
+ },
+ "a041e18889": {
+  "instruction": {
+   "Restaurant address": "1 Water Street, Brooklyn, NY 11201",
+   "Restaurant name": "The River Caf\u00e9",
+   "ANSWER": "Restaurants near Manhattan The River Caf\u00e9 that serves sea food with address 1 Water Street, Brooklyn, NY 11201?"
+  }
+ },
+ "032b820274": {
+  "instruction": {
+   "Restaurant address": "174 East 82nd Street, New York, NY 10028",
+   "Restaurant name": "Flex Mussels",
+   "ANSWER": "https://www.zomato.com/new-york-city/flex-mussels-upper-east-side"
+  }
+ },
+ "605107829c": {
+  "instruction": {
+   "Restaurant address": "65 E 55th St, NY NY 10022",
+   "Restaurant name": "Butterfish",
+   "ANSWER": "Aquavit"
+  }
+ },
+ "570d1d3f37": {
+  "instruction": {
+   "Restaurant name": "Blue Fin",
+   "Restaurant address": "W Hotel, 1567 Broadway, New York, NY 10036",
+   "ANSWER": "https://www.zomato.com/new-york-city/blue-fin-gramercy"
+  }
+ },
+ "a0bd140a07": {
+  "instruction": {
+   "Restaurant address": "39 W 19th St, New York, NY 10011",
+   "Restaurant name": "Burger & Lobster",
+   "ANSWER": "39 W 19th St, New York, NY 10011"
+  }
+ },
+ "73bf54e1d4": {
+  "instruction": {
+   "Restaurant address": "1489 2nd Avenue, New York, NY 10021",
+   "Restaurant name": "Sable's",
+   "ANSWER": "https://www.zomato.com/new-york-city/sables-upper-east-side"
+  }
+ },
+ "28c1b63a51": {
+  "instruction": {
+   "Restaurant address": "136 West 33rd Street, New York, NY 10001",
+   "Restaurant name": "Statler Grill",
+   "ANSWER": "Cajunsea"
+  }
+ }
+}

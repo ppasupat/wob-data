@@ -1,0 +1,72 @@
+{
+ "87cf5d7a01": {
+  "instruction": {
+   "1st, 2nd, 3rd, etc...": "100th",
+   "highly rated/recent": "recent",
+   "tag": "puzzle"
+  }
+ },
+ "85e8561f06": {
+  "instruction": {
+   "1st, 2nd, 3rd, etc...": "30th",
+   "highly rated/recent": "recent",
+   "tag": "rating-g"
+  }
+ },
+ "347650e4e9": {
+  "instruction": {
+   "1st, 2nd, 3rd, etc...": "4th",
+   "highly rated/recent": "highly rated",
+   "tag": "mac"
+  }
+ },
+ "8d2428a078": {
+  "instruction": {
+   "1st, 2nd, 3rd, etc...": "49th",
+   "highly rated/recent": "recent",
+   "tag": "download"
+  }
+ },
+ "0a1a0bd17d": {
+  "instruction": {
+   "1st, 2nd, 3rd, etc...": "10th",
+   "highly rated/recent": "recent",
+   "tag": "escape"
+  }
+ },
+ "cdbcf4b4b3": {
+  "instruction": {
+   "1st, 2nd, 3rd, etc...": "3rd",
+   "highly rated/recent": "recent",
+   "tag": "adventure"
+  }
+ },
+ "5a20a50f04": {
+  "instruction": {
+   "1st, 2nd, 3rd, etc...": "18th",
+   "highly rated/recent": "highly rated",
+   "tag": "pointandclick"
+  }
+ },
+ "b058655d55": {
+  "instruction": {
+   "1st, 2nd, 3rd, etc...": "33rd",
+   "highly rated/recent": "highly rated",
+   "tag": "Neutral"
+  }
+ },
+ "92b54b0d84": {
+  "instruction": {
+   "1st, 2nd, 3rd, etc...": "22nd",
+   "highly rated/recent": "highly rated",
+   "tag": "unity"
+  }
+ },
+ "6a071fe635": {
+  "instruction": {
+   "1st, 2nd, 3rd, etc...": "29th",
+   "highly rated/recent": "highly rated",
+   "tag": "rating-y"
+  }
+ }
+}

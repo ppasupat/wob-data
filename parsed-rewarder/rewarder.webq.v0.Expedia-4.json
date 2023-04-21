@@ -1,0 +1,62 @@
+{
+ "60709a9473": {
+  "instruction": {
+   "state": "MI",
+   "city": "Detroit"
+  }
+ },
+ "515a140fb1": {
+  "instruction": {
+   "state": "CA",
+   "city": "San Diego"
+  }
+ },
+ "a85ebfa265": {
+  "instruction": {
+   "state": "MI",
+   "city": "Dearborn"
+  }
+ },
+ "a0d3afc4e6": {
+  "instruction": {
+   "state": "KY",
+   "city": "Lexington"
+  }
+ },
+ "fa3671d300": {
+  "instruction": {
+   "state": "TX",
+   "city": "Dallas"
+  }
+ },
+ "b1fc30795e": {
+  "instruction": {
+   "state": "CO",
+   "city": "Denver"
+  }
+ },
+ "ed43555c90": {
+  "instruction": {
+   "state": "MT",
+   "city": "Butte"
+  }
+ },
+ "c3fcc2b9d9": {
+  "instruction": {
+   "state": "WA",
+   "city": "Seattle"
+  }
+ },
+ "b5633fefed": {
+  "instruction": {
+   "state": "OH",
+   "city": "Cincinnati"
+  }
+ },
+ "966eee05c6": {
+  "instruction": {
+   "state": "AZ",
+   "city": "Phoenix"
+  }
+ }
+}

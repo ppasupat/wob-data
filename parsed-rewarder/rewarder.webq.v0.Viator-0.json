@@ -1,0 +1,1060 @@
+{
+ "1c81399b98": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Ferry service",
+   "ANSWER": "$75.50",
+   "geographic location": "Dana Point to Catalina Island"
+  }
+ },
+ "7c00c40287": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "private transfer",
+   "geographic location": "Orange County",
+   "ANSWER": "42.69"
+  }
+ },
+ "8da622bfbf": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Arrival Transfer",
+   "geographic location": "Long beach",
+   "ANSWER": "16.99"
+  }
+ },
+ "223e644da1": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Port Transfers ",
+   "ANSWER": "34.99",
+   "geographic location": "Orange"
+  }
+ },
+ "6a52041070": {
+  "instruction": {
+   "type of transfers&ground transport": "Private transfers",
+   "geographic location": "San Diego"
+  }
+ },
+ "6beb41fbc3": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Departure Transfer",
+   "ANSWER": "16.99",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "13d0835f31": {
+  "instruction": {
+   "geographic location": "...",
+   "type of transfers&ground transport": "Bus services "
+  }
+ },
+ "62eecb7b5e": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "What is the price to ferry to Angel Island",
+   "ANSWER": "From 9.00",
+   "geographic location": "San Francisco"
+  }
+ },
+ "66b4153139": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "What is the price for a round trip private transfer",
+   "ANSWER": "From 110.00",
+   "geographic location": "San Francisco"
+  }
+ },
+ "50d9ea753a": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Luxury Transfer Service",
+   "geographic location": "Los Angeles",
+   "ANSWER": "93.99"
+  }
+ },
+ "783c0c5d82": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Bus transfer",
+   "geographic location": "Port of Los Angeles",
+   "ANSWER": "16.99"
+  }
+ },
+ "89503c9216": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Shared Airport Arrival Transfer",
+   "geographic location": "LAX International Airport",
+   "ANSWER": "25.99"
+  }
+ },
+ "15a8a5ce51": {
+  "instruction": {
+   "geographic location": "Las Vegas",
+   "type of transfers&ground transport": "Bus services "
+  }
+ },
+ "d183242bed": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Arrival Transfer",
+   "ANSWER": "$22.99",
+   "geographic location": "LAX to Los Angeles"
+  }
+ },
+ "7723e36a73": {
+  "instruction": {
+   "type of transfers&ground transport": "Private transfers",
+   "geographic location": "Oakland"
+  }
+ },
+ "4d0b3c270f": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Airport Transfer",
+   "geographic location": "Los Angeles",
+   "ANSWER": "24.99"
+  }
+ },
+ "be242eb353": {
+  "instruction": {
+   "type of transfers&ground transport": "Bus services ",
+   "geographic location": "San Diego"
+  }
+ },
+ "9b5b4f51a5": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Bus service",
+   "geographic location": "San Deigo",
+   "ANSWER": "39.00"
+  }
+ },
+ "66eee4a3ba": {
+  "instruction": {
+   "geographic location": "San Francisco",
+   "type of transfers&ground transport": "Rail Services"
+  }
+ },
+ "6bc9ac3c9c": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Departure Transfer",
+   "geographic location": "San Francisco",
+   "ANSWER": "20.56"
+  }
+ },
+ "c7a7feddfc": {
+  "instruction": {
+   "type of transfers&ground transport": "Private transfers",
+   "geographic location": "..."
+  }
+ },
+ "4dea03855f": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Shared Departure Transfer",
+   "geographic location": "San Francisco",
+   "ANSWER": "16.99"
+  }
+ },
+ "3543231069": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "ferry service",
+   "ANSWER": "73.50",
+   "geographic location": "Long Beach"
+  }
+ },
+ "166ef1a846": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Shared Airport Departure Transfer",
+   "ANSWER": "25.99",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "acd77dc236": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Transfers",
+   "ANSWER": "110.00",
+   "geographic location": "San Francisco"
+  }
+ },
+ "e2f5cb3c78": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Airport Arrival",
+   "ANSWER": "$17.99",
+   "geographic location": "SFO to Hotels"
+  }
+ },
+ "83cbe00607": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Shared Airport Arrival Transfer",
+   "ANSWER": "25.99",
+   "geographic location": "LAX International Airport"
+  }
+ },
+ "6ce9ffa266": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Arrival Transfer",
+   "ANSWER": "16.99",
+   "geographic location": " San Francisco"
+  }
+ },
+ "72c36e828d": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Transfers",
+   "ANSWER": "26.69",
+   "geographic location": "San Diego"
+  }
+ },
+ "b08dc7786d": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "rail service",
+   "geographic location": "SFO",
+   "ANSWER": "20.00"
+  }
+ },
+ "3bc8d62683": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Theme Park Transport",
+   "geographic location": "Buena Park",
+   "ANSWER": "29.99"
+  }
+ },
+ "49aef4d930": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Arrival Transfer",
+   "ANSWER": "20.56",
+   "geographic location": "San Francisco"
+  }
+ },
+ "98a94927e5": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Luxury Transfer",
+   "ANSWER": "$72.99",
+   "geographic location": "Anaheim to Las Vegas"
+  }
+ },
+ "e4be0d6284": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Ferry Services",
+   "geographic location": "Long Beach",
+   "ANSWER": "73.50"
+  }
+ },
+ "c5f166504a": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Round-trip Ferry Service",
+   "ANSWER": "75.50",
+   "geographic location": "Dana Point"
+  }
+ },
+ "928a160b60": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Bus transfer",
+   "ANSWER": "16.99",
+   "geographic location": "Port of Los Angeles"
+  }
+ },
+ "2b3527b647": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Luxury Transfer Service",
+   "ANSWER": "93.99",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "f2356b1043": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Theme Park Transport",
+   "ANSWER": "29.99",
+   "geographic location": "Buena Park"
+  }
+ },
+ "d7eb131c22": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Bus service",
+   "ANSWER": "39.00",
+   "geographic location": "San Deigo"
+  }
+ },
+ "365a39bc9e": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Shared Airport Departure Transfer",
+   "geographic location": "Los Angeles",
+   "ANSWER": "25.99"
+  }
+ },
+ "a28ac322c6": {
+  "instruction": {
+   "type of transfers&ground transport": "Bus services ",
+   "geographic location": "Las Vegas"
+  }
+ },
+ "14fe157f8e": {
+  "instruction": {
+   "type of transfers&ground transport": "Rail Services",
+   "geographic location": "San Francisco"
+  }
+ },
+ "062e187b7f": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Bus Services",
+   "geographic location": "San Diego",
+   "ANSWER": "19.00"
+  }
+ },
+ "c580362207": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Shuttle service",
+   "ANSWER": "$7.99",
+   "geographic location": "San Diego"
+  }
+ },
+ "f61b1e798a": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "What is the price for private transfer ",
+   "ANSWER": "From 20.56",
+   "geographic location": "San Francisco"
+  }
+ },
+ "a486aa4fdd": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "ferry service",
+   "geographic location": "Angel Island",
+   "ANSWER": "9.00"
+  }
+ },
+ "ade59717e5": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Port Transfers ",
+   "geographic location": "Orange",
+   "ANSWER": "34.99"
+  }
+ },
+ "fb5eebd070": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Arrival Transfer",
+   "geographic location": "LAX to Los Angeles",
+   "ANSWER": "$22.99"
+  }
+ },
+ "70a9facc2f": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Transfers",
+   "ANSWER": "60.00",
+   "geographic location": "Oakland"
+  }
+ },
+ "3f9d184362": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Rail Services",
+   "ANSWER": "20.00",
+   "geographic location": "San Francisco"
+  }
+ },
+ "818ac912c9": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Transfers",
+   "geographic location": "San Diego",
+   "ANSWER": "26.69"
+  }
+ },
+ "3cac0350de": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Round-trip Ferry Service",
+   "ANSWER": "73.50",
+   "geographic location": "Long Beach"
+  }
+ },
+ "fec42243fc": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Arrival Transfer",
+   "geographic location": " San Francisco",
+   "ANSWER": "16.99"
+  }
+ },
+ "c0c6393887": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Bus Services",
+   "ANSWER": "19.00",
+   "geographic location": "San Diego"
+  }
+ },
+ "df55f00ab1": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Rail Services",
+   "geographic location": "San Francisco",
+   "ANSWER": "20.00"
+  }
+ },
+ "e169305e55": {
+  "instruction": {
+   "type of transfers&amp;ground transport": " cost of Arrival Transfer: to Anaheim, Buena Park and Newport Beach Hotels",
+   "ANSWER": "from $16.99",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "287842cd2d": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Arrival Transfer",
+   "geographic location": "San Diego",
+   "ANSWER": "7.99"
+  }
+ },
+ "80ab12504e": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Signature Flight Support",
+   "ANSWER": "From $230.00",
+   "geographic location": "San Jose"
+  }
+ },
+ "3274fc7d6e": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "(by shared bus from Los Angeles Airport )",
+   "ANSWER": "($24.99)",
+   "geographic location": "(Anaheim Resort Area)"
+  }
+ },
+ "bcbe0dcab1": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "ferry service",
+   "geographic location": "Long Beach",
+   "ANSWER": "73.50"
+  }
+ },
+ "14753f7751": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Arrival Transfer",
+   "geographic location": "San Francisco",
+   "ANSWER": "20.56"
+  }
+ },
+ "01d4749bb3": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "What is the price for a private transfer to a hotel from the airport ",
+   "ANSWER": "From 60.00",
+   "geographic location": "Oakland"
+  }
+ },
+ "40782362b2": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Transfers",
+   "geographic location": "San Francisco",
+   "ANSWER": "110.00"
+  }
+ },
+ "98948f6409": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Departure Transfer",
+   "geographic location": "Buena Park",
+   "ANSWER": "16.99"
+  }
+ },
+ "e5a967cb46": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "private transfer",
+   "geographic location": "SFO",
+   "ANSWER": "110.00"
+  }
+ },
+ "7439cf9c5b": {
+  "instruction": {
+   "geographic location": "Los Angeles",
+   "type of transfers&ground transport": "Private transfers"
+  }
+ },
+ "3cf4228fb9": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Shared Departure Transfer",
+   "ANSWER": "16.99",
+   "geographic location": "San Francisco"
+  }
+ },
+ "2079b12053": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "rail service",
+   "ANSWER": "20.00",
+   "geographic location": "SFO"
+  }
+ },
+ "06499f3fcf": {
+  "instruction": {
+   "type of transfers&ground transport": "Ferry Services",
+   "geographic location": "Catalina Island"
+  }
+ },
+ "4c0affca13": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Disney Express",
+   "ANSWER": "$24.99",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "7ea3a4b453": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "(private transfer service)",
+   "ANSWER": "($20.56)",
+   "geographic location": "(San Francisco International Airport (SFO))"
+  }
+ },
+ "73d4bbb631": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Mini Wine Tour and Airport Transfer",
+   "ANSWER": "From $400.00",
+   "geographic location": "Napa"
+  }
+ },
+ "1873c0bea7": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "private transfer",
+   "ANSWER": "60.00",
+   "geographic location": "Oakland Int Airport"
+  }
+ },
+ "9bc0c10f11": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Arrival Transfer",
+   "geographic location": "Los Angeles",
+   "ANSWER": "16.99"
+  }
+ },
+ "e0ce77e200": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "(air-conditioned coach)",
+   "ANSWER": "($29.99)",
+   "geographic location": "(Knotts Berry Farm Resort Hotel)"
+  }
+ },
+ "e4c6cd761d": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Arrival Transfer by Sedan",
+   "ANSWER": "from $22.99",
+   "geographic location": " LAX International Airport to Los Angeles Hotels "
+  }
+ },
+ "61ad2768ea": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Transfer",
+   "ANSWER": "$55.00",
+   "geographic location": "San Francisco"
+  }
+ },
+ "9df7d1caff": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Ferry Services",
+   "geographic location": "San Francisco",
+   "ANSWER": "9.00"
+  }
+ },
+ "0254968f35": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Ferry service ",
+   "ANSWER": "$73.50",
+   "geographic location": "Long Beach"
+  }
+ },
+ "472121db6d": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Transfer ",
+   "geographic location": "San Francisco",
+   "ANSWER": "$20.56"
+  }
+ },
+ "c43bfbc83b": {
+  "instruction": {
+   "geographic location": "Oakland",
+   "type of transfers&ground transport": "Private transfers"
+  }
+ },
+ "db763b144c": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Port Transfers",
+   "geographic location": "Los Angeles",
+   "ANSWER": "16.99"
+  }
+ },
+ "bc6a8a3f3b": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Port Transfers",
+   "ANSWER": "16.99",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "78582b2550": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "(shared transfer service from Los Angeles)",
+   "ANSWER": "($93.99)",
+   "geographic location": "(Las Vegas)"
+  }
+ },
+ "533fd29f57": {
+  "instruction": {
+   "geographic location": "San Diego",
+   "type of transfers&ground transport": "Bus services "
+  }
+ },
+ "9ad88e26e4": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Departure Transfer",
+   "ANSWER": "16.99",
+   "geographic location": "Buena Park"
+  }
+ },
+ "f9a1106a65": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "ferry service",
+   "geographic location": "Dana Point",
+   "ANSWER": "75.50"
+  }
+ },
+ "83d62bcf06": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "cost of San Francisco Arrival Transfer:  Airport to Hotels",
+   "ANSWER": "starting from $16.99",
+   "geographic location": "San Francisco"
+  }
+ },
+ "3191806d72": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Ferry Services",
+   "ANSWER": "73.50",
+   "geographic location": "Long Beach"
+  }
+ },
+ "136e4d8052": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "private transfer",
+   "ANSWER": "110.00",
+   "geographic location": "SFO"
+  }
+ },
+ "b1a8497c3c": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Transfers",
+   "geographic location": "Oakland",
+   "ANSWER": "60.00"
+  }
+ },
+ "c4b1c0ca58": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Ferry",
+   "geographic location": "San Francisco",
+   "ANSWER": "9.00"
+  }
+ },
+ "3b6e6d5738": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Round-trip Ferry Service",
+   "geographic location": "Long Beach",
+   "ANSWER": "73.50"
+  }
+ },
+ "b223b69b15": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Ferry",
+   "ANSWER": "9.00",
+   "geographic location": "San Francisco"
+  }
+ },
+ "f450a93a9d": {
+  "instruction": {
+   "geographic location": "Catalina Island",
+   "type of transfers&ground transport": "Ferry Services"
+  }
+ },
+ "e02cd55ed7": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "ferry service",
+   "ANSWER": "75.50",
+   "geographic location": "Dana Point"
+  }
+ },
+ "f2d123a493": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "(shared arrival transfer from Los Angeles International Airport (LAX))",
+   "ANSWER": "($16.99)",
+   "geographic location": "(Buena Park, Anaheim/Disneyland area or Newport Beach)"
+  }
+ },
+ "68c0342b26": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Ferry services",
+   "ANSWER": "From $75.50",
+   "geographic location": "Dana Point"
+  }
+ },
+ "673f38e4c7": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private SFO Airport Transfer",
+   "ANSWER": "From $63.80",
+   "geographic location": "San Francisco"
+  }
+ },
+ "b2654cfd0d": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "What is the price for private transfer to disney world ",
+   "ANSWER": "From 151.00",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "69ae97e6c6": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "What is the price for a ferry trip from San Francisco",
+   "ANSWER": "From 11.50",
+   "geographic location": "Tiburon"
+  }
+ },
+ "7fa9e818d5": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "cost of Round-trip Ferry Service",
+   "ANSWER": "from $75.50",
+   "geographic location": "Dana Point to Catalina Island"
+  }
+ },
+ "521ae3223c": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Ferry service ",
+   "geographic location": "Long Beach",
+   "ANSWER": "$73.50"
+  }
+ },
+ "e17c25f855": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Charge for  Las Vegas Luxury Transfer Service",
+   "ANSWER": "from $93.99",
+   "geographic location": "Los Angeles "
+  }
+ },
+ "b676a53e5d": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "how much is Catalina Express Round-Trip Ferry Service",
+   "ANSWER": " from $73.50",
+   "geographic location": " Long Beach or San Pedro to Avalon"
+  }
+ },
+ "5e03babaad": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "What is the price for a private trip from the airport to a hotel ",
+   "ANSWER": "From 55.00",
+   "geographic location": "San Francisco"
+  }
+ },
+ "689c6ce054": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Rail services",
+   "ANSWER": "From $20.00",
+   "geographic location": "San Francisco"
+  }
+ },
+ "5be20b7791": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Airport Arrival",
+   "geographic location": "SFO to Hotels",
+   "ANSWER": "$17.99"
+  }
+ },
+ "912a613bb2": {
+  "instruction": {
+   "type of transfers&ground transport": "Private transfers",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "e90195a9cc": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Bus service",
+   "geographic location": "Anaheim",
+   "ANSWER": "72.99"
+  }
+ },
+ "febb77a8c7": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Shuttle service",
+   "geographic location": "San Francisco",
+   "ANSWER": "$16.99"
+  }
+ },
+ "1ad4836161": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Airport Transfer",
+   "ANSWER": "24.99",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "d12cb7c49e": {
+  "instruction": {
+   "type of transfers&ground transport": "Bus services ",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "44d500aad1": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Transfer",
+   "geographic location": "San Francisco",
+   "ANSWER": "$55.00"
+  }
+ },
+ "48756ea140": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Arrival to hotel Transfer",
+   "ANSWER": "from $ 20.56",
+   "geographic location": "San Francisco International Airport "
+  }
+ },
+ "f5dca3f792": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Ferry service",
+   "geographic location": "Dana Point to Catalina Island",
+   "ANSWER": "$75.50"
+  }
+ },
+ "dee2ea0547": {
+  "instruction": {
+   "geographic location": "Los Angeles",
+   "type of transfers&ground transport": "Bus services "
+  }
+ },
+ "fd0d9c0185": {
+  "instruction": {
+   "geographic location": "San Diego",
+   "type of transfers&ground transport": "Private transfers"
+  }
+ },
+ "b833011f84": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Shuttle service",
+   "geographic location": "San Diego",
+   "ANSWER": "$7.99"
+  }
+ },
+ "69e9e61db8": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Bus services",
+   "ANSWER": "From $20.00",
+   "geographic location": "Malibu"
+  }
+ },
+ "522eb9823e": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Transfer ",
+   "ANSWER": "$20.56",
+   "geographic location": "San Francisco"
+  }
+ },
+ "4c02312daa": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Ferry services",
+   "ANSWER": "From $73.50",
+   "geographic location": "Long Beach"
+  }
+ },
+ "5fd0bcdb1d": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "(Bay Area Rapid Transit from San Francisco Airport )",
+   "ANSWER": "($ 20.00)",
+   "geographic location": "(Oakland or Berkeley)"
+  }
+ },
+ "fc6a862133": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Ferry Services",
+   "ANSWER": "9.00",
+   "geographic location": "San Francisco"
+  }
+ },
+ "b8b18e043d": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "private transfer",
+   "geographic location": "Oakland Int Airport",
+   "ANSWER": "60.00"
+  }
+ },
+ "fc826d9a3a": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Shuttle service",
+   "ANSWER": "$16.99",
+   "geographic location": "San Francisco"
+  }
+ },
+ "b58ee52f33": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Ferry Services",
+   "geographic location": "Dana Point",
+   "ANSWER": "75.50"
+  }
+ },
+ "d57083a4f0": {
+  "instruction": {
+   "geographic location": "...",
+   "type of transfers&ground transport": "Private transfers"
+  }
+ },
+ "f83ace18e5": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "cost of This round-trip transport to universal studios",
+   "ANSWER": "from $29.99",
+   "geographic location": "Hollywood"
+  }
+ },
+ "0ba1881a4d": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Bus service",
+   "ANSWER": "72.99",
+   "geographic location": "Anaheim"
+  }
+ },
+ "b3c058f134": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Departure Transfer",
+   "ANSWER": "20.56",
+   "geographic location": "San Francisco"
+  }
+ },
+ "219d08268c": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "private transfer",
+   "ANSWER": "42.69",
+   "geographic location": "Orange County"
+  }
+ },
+ "b0012e4c4a": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Arrival Transfer",
+   "ANSWER": "16.99",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "28dd724e4b": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Disneyland Resort Express: Airport Transfers",
+   "ANSWER": "from $24.99",
+   "geographic location": " Los Angeles Airport and Anaheim Resort Area"
+  }
+ },
+ "1e7174449e": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Round-trip Ferry Service",
+   "geographic location": "Dana Point",
+   "ANSWER": "75.50"
+  }
+ },
+ "f49f89c3c5": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Disney Express",
+   "geographic location": "Los Angeles",
+   "ANSWER": "$24.99"
+  }
+ },
+ "09aab71645": {
+  "instruction": {
+   "type of transfers&ground transport": "Bus services ",
+   "geographic location": "..."
+  }
+ },
+ "b651a38dc5": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "ferry service",
+   "ANSWER": "9.00",
+   "geographic location": "Angel Island"
+  }
+ },
+ "fce1b867f3": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "What is the price for a limousine trip to Hollywood from the airport ",
+   "ANSWER": "From 89.00",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "1a2231abf1": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Departure Transfer",
+   "geographic location": "Los Angeles",
+   "ANSWER": "16.99"
+  }
+ },
+ "ad31dec7fb": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Arrival Transfer",
+   "ANSWER": "16.99",
+   "geographic location": "Long beach"
+  }
+ },
+ "2db27c1e1a": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "cost of departure transfer",
+   "ANSWER": "from $16.99",
+   "geographic location": "San Francisco International Airport to Hote"
+  }
+ },
+ "2d169e8491": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Arrival Transfer",
+   "ANSWER": "7.99",
+   "geographic location": "San Diego"
+  }
+ },
+ "dfbe734f3c": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Luxury Transfer",
+   "geographic location": "Anaheim to Las Vegas",
+   "ANSWER": "$72.99"
+  }
+ },
+ "886e09b4ce": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Ferry Services",
+   "ANSWER": "75.50",
+   "geographic location": "Dana Point"
+  }
+ },
+ "b97f9090d5": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Port transfers",
+   "ANSWER": "From $34.99",
+   "geographic location": "Orange"
+  }
+ },
+ "a098dafb84": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Airport Transfer",
+   "ANSWER": "From $432.00",
+   "geographic location": "Santa Ynez"
+  }
+ },
+ "253391b7fa": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "(shared transfer service by bus)",
+   "ANSWER": "($16.99)",
+   "geographic location": "(Port of Long Beach)"
+  }
+ },
+ "2a9e4f7dd2": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "Private Arrival Transfer",
+   "ANSWER": "From $26.69",
+   "geographic location": "San Diego"
+  }
+ },
+ "1666e2f261": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "What is the price for a private transfer to six flags ",
+   "ANSWER": "From 151.00",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "0a4831dd22": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "(private transfer)",
+   "ANSWER": "($20.56)",
+   "geographic location": "(San Francisco)"
+  }
+ },
+ "e85bc520c9": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "(Catalina Express ferry from Dana Point)",
+   "ANSWER": "($ 75.50)",
+   "geographic location": "(Catalina Island)"
+  }
+ },
+ "258951b94d": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "(ferry service)",
+   "ANSWER": "($73.50)",
+   "geographic location": "(San Pedro)"
+  }
+ },
+ "2b8d32fec5": {
+  "instruction": {
+   "type of transfers&amp;ground transport": "What is the price for the getty transfer ",
+   "ANSWER": "From 42.00",
+   "geographic location": "Los Angeles"
+  }
+ }
+}

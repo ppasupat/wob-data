@@ -1,0 +1,62 @@
+{
+ "dcfc8bc8a6": {
+  "instruction": {
+   "geographic location": "Manhattan",
+   "services": "threading"
+  }
+ },
+ "d4bf52297a": {
+  "instruction": {
+   "geographic location": "95621",
+   "services": "massages"
+  }
+ },
+ "72dacdea64": {
+  "instruction": {
+   "geographic location": "San Francisco",
+   "services": "botox"
+  }
+ },
+ "8e4805ad05": {
+  "instruction": {
+   "geographic location": "Hollywood",
+   "services": "blow dry bars"
+  }
+ },
+ "1554849f37": {
+  "instruction": {
+   "geographic location": "Stanford",
+   "services": "manicures"
+  }
+ },
+ "4b2264eb36": {
+  "instruction": {
+   "geographic location": "Sacramento, CA",
+   "services": "body wraps"
+  }
+ },
+ "45c8732151": {
+  "instruction": {
+   "geographic location": "Portland ME",
+   "services": "facials"
+  }
+ },
+ "d4a733ebd5": {
+  "instruction": {
+   "geographic location": "San Diego CA",
+   "services": "hair styling"
+  }
+ },
+ "fca1f2fdc9": {
+  "instruction": {
+   "geographic location": "90210",
+   "services": "waxing"
+  }
+ },
+ "807ad95cd4": {
+  "instruction": {
+   "geographic location": "71040",
+   "services": "makeovers"
+  }
+ }
+}

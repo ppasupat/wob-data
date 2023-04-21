@@ -1,0 +1,1468 @@
+{
+ "4f9232521f": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Mexican food",
+   "ANSWER": "The Tamale Place"
+  }
+ },
+ "9dc7d9ea56": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Pizza",
+   "ANSWER": "Brozinni Pizzeria"
+  }
+ },
+ "2765665441": {
+  "instruction": {
+   "cuisine": "Seafood",
+   "location": "Orlando, FL",
+   "ANSWER": "Eddie V's Prime Seafood, Tibby's New Orleans Kitchen, Deep Blu Seafood Grille, Kings Orlando Restaurant, MoonFish"
+  }
+ },
+ "e60a817ae6": {
+  "instruction": {
+   "city": "Indianapolis",
+   "type of food": "American food",
+   "ANSWER": "Capital Grille"
+  }
+ },
+ "49c1aeb554": {
+  "instruction": {
+   "cuisine": "mediterranean",
+   "location": "McAllen, TX",
+   "ANSWER": "Zoe's Kitchen"
+  }
+ },
+ "d172455c68": {
+  "instruction": {
+   "type of food": "Mexican Food",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "0c482476cf": {
+  "instruction": {
+   "city": "Los Angeles, CA",
+   "type of food": "Thai",
+   "ANSWER": "Ayala Thai Cuisine"
+  }
+ },
+ "86646f9118": {
+  "instruction": {
+   "city": "Indianapolis",
+   "type of food": "Creole food",
+   "ANSWER": "Yats on College"
+  }
+ },
+ "1d84fe3f5c": {
+  "instruction": {
+   "city": "Dallas, TX",
+   "type of food": "BBQ",
+   "ANSWER": "Pecan Lodge"
+  }
+ },
+ "82307a43bb": {
+  "instruction": {
+   "cuisine": "fish ",
+   "location": "Kriva Palanka,Republic of Macedonia",
+   "ANSWER": "Park Ginovci"
+  }
+ },
+ "88c587d8fc": {
+  "instruction": {
+   "type of food": "Coffee",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "20b7667a51": {
+  "instruction": {
+   "city": "Indianapolis",
+   "type of food": "a good burger",
+   "ANSWER": "Bru Burger Bar"
+  }
+ },
+ "0055c31039": {
+  "instruction": {
+   "cuisine": "sushi",
+   "location": "Anaheim, CA"
+  }
+ },
+ "660f7cdff3": {
+  "instruction": {
+   "city": "Boba Raton, FL",
+   "type of food": "Chinese",
+   "ANSWER": "Ichiyami Buffet and Sushi"
+  }
+ },
+ "3092179da1": {
+  "instruction": {
+   "city": "Ann Arbor, Michigan",
+   "type of food": "Sushi",
+   "ANSWER": "Yotsuba Japanese Restaurant"
+  }
+ },
+ "40883b4188": {
+  "instruction": {
+   "city": "Ann Arbor, Michigan",
+   "type of food": "Cuban",
+   "ANSWER": "Frita Batidos"
+  }
+ },
+ "59660d4bd6": {
+  "instruction": {
+   "type of food": "Deli sandwiches",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "8f727839a9": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Cheesesteaks",
+   "ANSWER": "Mombo's Cheesesteak Grill"
+  }
+ },
+ "ae11246372": {
+  "instruction": {
+   "city": "Ann Arbor, Michigan",
+   "type of food": "Chinese",
+   "ANSWER": "TK Wu"
+  }
+ },
+ "75bc9818aa": {
+  "instruction": {
+   "city": "Indianapolis,Indiana",
+   "type of food": "soups",
+   "ANSWER": "McAlister's Deli"
+  }
+ },
+ "9cc8a8d34d": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Thai food",
+   "ANSWER": "Thai Paradise"
+  }
+ },
+ "2a5203ed20": {
+  "instruction": {
+   "city": "Indianapolis,Indiana",
+   "type of food": "barbeque",
+   "ANSWER": "City Barbeque"
+  }
+ },
+ "dcff938107": {
+  "instruction": {
+   "cuisine": "Middle Eastern",
+   "location": "Sacramento, CA",
+   "ANSWER": "Casablanca Moroccan Restaurant,  Vela Cafe - Restaurant and Salad Bar, Famous Kabob, Shalimar Restaurant,Marrakech Moroccan Restaurant     "
+  }
+ },
+ "790d3a13fd": {
+  "instruction": {
+   "cuisine": "Greek",
+   "location": "Louisville, KY"
+  }
+ },
+ "4ecd2339df": {
+  "instruction": {
+   "cuisine": "pizza",
+   "location": "New Haven, CT",
+   "ANSWER": "Modern Apizza"
+  }
+ },
+ "e63c7002dd": {
+  "instruction": {
+   "cuisine": "Indian",
+   "location": "Raleigh, NC",
+   "ANSWER": "Garland, Azitra Restaurant, Kadhai, The Indian Wok, Kabab and Curry, Taj Mahal Fine Indian Cuisine"
+  }
+ },
+ "8d5e33f33f": {
+  "instruction": {
+   "cuisine": "Italian",
+   "location": "Cincinnati, OH",
+   "ANSWER": "Sotto"
+  }
+ },
+ "0c8de07a74": {
+  "instruction": {
+   "type of food": "Vegan food",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "dd08cf43df": {
+  "instruction": {
+   "cuisine": "traditional cuisine ",
+   "location": "Kyustendil, Bulgaria",
+   "ANSWER": "Tihiat kat"
+  }
+ },
+ "b3991e7bed": {
+  "instruction": {
+   "type of food": "Tacos",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "6a1e83800e": {
+  "instruction": {
+   "city": "Ann Arbor, Michigan",
+   "type of food": "Italian",
+   "ANSWER": "Mani Osteria"
+  }
+ },
+ "6cbb8125a3": {
+  "instruction": {
+   "cuisine": "steak",
+   "location": "Trenton, NJ"
+  }
+ },
+ "af832a7e27": {
+  "instruction": {
+   "city": "Indianapolis",
+   "type of food": "Good coffee",
+   "ANSWER": "Cafe Patachou"
+  }
+ },
+ "99b27c589a": {
+  "instruction": {
+   "type of food": "Italian food",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "e0f3b8a234": {
+  "instruction": {
+   "city": "Seattle",
+   "type of food": "Chinese",
+   "ANSWER": "Din Tai Fung"
+  }
+ },
+ "74bb909685": {
+  "instruction": {
+   "geographic location": "clearwater",
+   "age groups": "family",
+   "type of activity": "beach"
+  }
+ },
+ "e3211b3970": {
+  "instruction": {
+   "type of food": "Dessert",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "e92dc858e0": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Seafood",
+   "ANSWER": "Caplinger's Fresh Catch"
+  }
+ },
+ "70de2a7175": {
+  "instruction": {
+   "cuisine": "pizza",
+   "location": "Denver, CO"
+  }
+ },
+ "f0d3fbcd1d": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "tamales",
+   "ANSWER": "The Tamale Place"
+  }
+ },
+ "04630025ea": {
+  "instruction": {
+   "cuisine": "Seafood",
+   "location": "Austin, TX",
+   "ANSWER": "Truluck's Seafood - Austin Downtown"
+  }
+ },
+ "e8ed28acfb": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Italian food",
+   "ANSWER": "Osteria Pronto"
+  }
+ },
+ "dc522d1720": {
+  "instruction": {
+   "cuisine": "Chinese",
+   "location": "Dallas, TX",
+   "ANSWER": "Chino Chinatown"
+  }
+ },
+ "eabc65f99b": {
+  "instruction": {
+   "cuisine": "asian",
+   "location": "Edinburg, TX",
+   "ANSWER": "Snowbite"
+  }
+ },
+ "6683df6ffb": {
+  "instruction": {
+   "cuisine": "Chinese",
+   "location": "Mumbai",
+   "ANSWER": "Hornby's Pavilion,Global Fusion Restaurant,Yauatcha"
+  }
+ },
+ "867406cc74": {
+  "instruction": {
+   "cuisine": "Pizza",
+   "location": "Bloomington, IN",
+   "ANSWER": "Mother Bears Pizza"
+  }
+ },
+ "12fdb29beb": {
+  "instruction": {
+   "type of food": "Burger",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "3e7015a8a6": {
+  "instruction": {
+   "cuisine": "Greek",
+   "location": "Columbus, OH",
+   "ANSWER": "Yanni's Greek Restaurant"
+  }
+ },
+ "c768d1d6a0": {
+  "instruction": {
+   "city": "Indianapolis",
+   "type of food": "Tamales",
+   "ANSWER": "The Tamale Place"
+  }
+ },
+ "0740f3dbe5": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "barbeque",
+   "ANSWER": "City Barbeque "
+  }
+ },
+ "66834ca0a0": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "vegan",
+   "ANSWER": "Cafe Patachou "
+  }
+ },
+ "6da36e7ecc": {
+  "instruction": {
+   "cuisine": "American",
+   "location": "Phoenix, AZ",
+   "ANSWER": "Little Miss Bbq"
+  }
+ },
+ "f9547fba61": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Indian food",
+   "ANSWER": "Saffron Cafe"
+  }
+ },
+ "9c4aaa8ff9": {
+  "instruction": {
+   "cuisine": "French",
+   "location": "New Orleans, LA",
+   "ANSWER": "Upperline Restaurant, Restaurant August,  Orleans Grapevine Wine Bar and Bistro, Restaurant R'evolution, Commander's Palace "
+  }
+ },
+ "79d8280c52": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "French food",
+   "ANSWER": "The Cake Bake Shop"
+  }
+ },
+ "b4d62e0993": {
+  "instruction": {
+   "cuisine": "indian restaurants",
+   "location": " 179 Essex St, New York City, NY 10002-1547 (East Houston Street) ",
+   "ANSWER": "The MasalaWala"
+  }
+ },
+ "734dd37c3c": {
+  "instruction": {
+   "cuisine": "vietnamese",
+   "location": "Mission, TX",
+   "ANSWER": "Pho Le Lai"
+  }
+ },
+ "253581397a": {
+  "instruction": {
+   "cuisine": "Italian",
+   "location": "Dallas, TX",
+   "ANSWER": "Jimmy's Food Store"
+  }
+ },
+ "1d8068f393": {
+  "instruction": {
+   "city": "Indianapolis,Indiana",
+   "type of food": "latin",
+   "ANSWER": "Delicia"
+  }
+ },
+ "a95d6b1b35": {
+  "instruction": {
+   "cuisine": "cajun",
+   "location": "Buffalo, NY"
+  }
+ },
+ "a946d4b142": {
+  "instruction": {
+   "cuisine": "Pizza Places",
+   "location": "19 Old Fulton St, Brooklyn, NY 11201-1322",
+   "ANSWER": "Juliana's Pizza"
+  }
+ },
+ "26b17ebd3c": {
+  "instruction": {
+   "type of food": "Middle Eastern",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "3705a10a17": {
+  "instruction": {
+   "geographic location": "orlando",
+   "age groups": "family",
+   "type of activity": "disney world"
+  }
+ },
+ "bcdd1d088f": {
+  "instruction": {
+   "city": "Ann Arbor, Michigan",
+   "type of food": "Burritos",
+   "ANSWER": "Big Ten Burrito"
+  }
+ },
+ "1c119cc0a7": {
+  "instruction": {
+   "cuisine": "Chinese",
+   "location": "Oklahoma City, Oklahoma",
+   "ANSWER": "P.F. Chang's"
+  }
+ },
+ "bae554d751": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Sushi",
+   "ANSWER": "Kona Jack's Fish Market"
+  }
+ },
+ "8d480b924b": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Cajun & Creole",
+   "ANSWER": "Yats on College"
+  }
+ },
+ "0ff34f8c06": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Chinese",
+   "ANSWER": "China Bistro "
+  }
+ },
+ "4be54f8530": {
+  "instruction": {
+   "cuisine": "Pizza",
+   "location": "Boston, MA",
+   "ANSWER": "Italian Express Pizzeria"
+  }
+ },
+ "ef58c7cd83": {
+  "instruction": {
+   "type of food": "ice cream",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "b33cc11270": {
+  "instruction": {
+   "city": "Indianapolis",
+   "type of food": "Brazilian food",
+   "ANSWER": "Fogo de Chao Brazilian Steakhouse"
+  }
+ },
+ "11073044de": {
+  "instruction": {
+   "cuisine": "Pizza Places",
+   "location": "413 8th Ave, New York City, NY 10001-1804",
+   "ANSWER": "Pizza Suprema"
+  }
+ },
+ "f3b3387f0e": {
+  "instruction": {
+   "cuisine": "Lounge",
+   "location": "Skopje, Republic of Macedonia",
+   "ANSWER": "Lounge Restaurant Trend & Bistro London"
+  }
+ },
+ "5e28fe3599": {
+  "instruction": {
+   "type of food": "PIzza",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "79a8a6767f": {
+  "instruction": {
+   "type of food": "Wine bars",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "4f640d4df3": {
+  "instruction": {
+   "cuisine": "Korean",
+   "location": "Atlanta, GA",
+   "ANSWER": "Heirloom Market, Hankook Taqueria, Takorea, Kwan's Deli and Korean Kitchen, Stone Bowl House Woo Nam Jeong"
+  }
+ },
+ "af12e67fb2": {
+  "instruction": {
+   "cuisine": "Seafood",
+   "location": "Los Angeles, CA",
+   "ANSWER": "Providence"
+  }
+ },
+ "e627b2f3b9": {
+  "instruction": {
+   "cuisine": "Mexican",
+   "location": "San Antonio, TX",
+   "ANSWER": "Pollos Asados Los Nortenos"
+  }
+ },
+ "96d6b9dfd8": {
+  "instruction": {
+   "cuisine": "French",
+   "location": "New York City, NY",
+   "ANSWER": "Daniel"
+  }
+ },
+ "c06138d774": {
+  "instruction": {
+   "type of food": "gyros",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "615c1fc75c": {
+  "instruction": {
+   "cuisine": "indian restaurants",
+   "location": "Blvd. Kukulcan Km. 12. 5, Cancun, Yucatan Peninsula, Mexico",
+   "ANSWER": "Elefanta Indian Cuisine"
+  }
+ },
+ "1f4893410b": {
+  "instruction": {
+   "city": "Portland",
+   "type of food": "Middle Eastern",
+   "ANSWER": "DarSalam"
+  }
+ },
+ "674e969d6e": {
+  "instruction": {
+   "type of food": "Steaks",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "d7d1a36bfb": {
+  "instruction": {
+   "geographic location": "aspen",
+   "age groups": "family",
+   "type of activity": "skiing"
+  }
+ },
+ "b13b1780e3": {
+  "instruction": {
+   "cuisine": "Italian",
+   "location": "Skopje, Republic of Macedonia",
+   "ANSWER": "Ristorante da Gino"
+  }
+ },
+ "6c6d90e3e6": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "breakfast",
+   "ANSWER": "Long's Bakery"
+  }
+ },
+ "f6ab9a8c3e": {
+  "instruction": {
+   "city": "Indianapolis",
+   "type of food": "Good Steak",
+   "ANSWER": "St. Elmo Steakhouse"
+  }
+ },
+ "90510c8d2e": {
+  "instruction": {
+   "cuisine": "Seafood",
+   "location": "Kolkata",
+   "ANSWER": "Santa's Fantasea, Blue & Beyond"
+  }
+ },
+ "29a4ac3b18": {
+  "instruction": {
+   "cuisine": "chinese",
+   "location": "Richmond, VA"
+  }
+ },
+ "8c7e224cf6": {
+  "instruction": {
+   "type of food": "coffee",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "dfd656fe1c": {
+  "instruction": {
+   "cuisine": "American",
+   "location": "San Diego, CA",
+   "ANSWER": "A.R. Valentien at The Lodge at Torrey Pines"
+  }
+ },
+ "ad4bf3b670": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Thai",
+   "ANSWER": "Thai Paradise"
+  }
+ },
+ "1bb3a9624a": {
+  "instruction": {
+   "cuisine": "Pizza Places",
+   "location": "Moose's Tooth Pub and Pizzeria",
+   "ANSWER": "Moose's Tooth Pub and Pizzeria"
+  }
+ },
+ "1423432f41": {
+  "instruction": {
+   "type of food": "tacos",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "7062dc2fdc": {
+  "instruction": {
+   "city": "Las Vegas",
+   "type of food": "Ethiopian ",
+   "ANSWER": "Blue Nile Ethiopian Restaurant"
+  }
+ },
+ "7875b3a926": {
+  "instruction": {
+   "cuisine": "cajon",
+   "location": "McAllen, TX",
+   "ANSWER": "Dirty Al's Bayou"
+  }
+ },
+ "f2f3a3d7ce": {
+  "instruction": {
+   "city": "Dallas",
+   "type of food": "American",
+   "ANSWER": "Nazca Kitchen"
+  }
+ },
+ "00ec8d59dc": {
+  "instruction": {
+   "cuisine": "French",
+   "location": "Sacramento, California",
+   "ANSWER": "Estelle's Patisserie"
+  }
+ },
+ "0173297e8b": {
+  "instruction": {
+   "cuisine": "Mediterranean",
+   "location": "Skopje, Republic of Macedonia",
+   "ANSWER": "Four Restaurant"
+  }
+ },
+ "9cbcb796a6": {
+  "instruction": {
+   "cuisine": "Italian",
+   "location": "San Diego, CA",
+   "ANSWER": "Bobboi Natural Gelato"
+  }
+ },
+ "0bc9ec120a": {
+  "instruction": {
+   "geographic location": "paris",
+   "age groups": "adults",
+   "type of activity": "shopping"
+  }
+ },
+ "d3a649581a": {
+  "instruction": {
+   "city": "Indianapolis,Indiana",
+   "type of food": "sea food",
+   "ANSWER": "Caplinger's Fresh Catch"
+  }
+ },
+ "48e05b177d": {
+  "instruction": {
+   "city": "Ann Arbor, Michigan",
+   "type of food": "Japanese",
+   "ANSWER": "Yotsuba Japanese Restaurant"
+  }
+ },
+ "46d9fe25dc": {
+  "instruction": {
+   "geographic location": "london",
+   "age groups": "family",
+   "type of activity": "musueums"
+  }
+ },
+ "facf9b02ce": {
+  "instruction": {
+   "city": "Boston",
+   "type of food": "Italian",
+   "ANSWER": "Italian Express Pizzeria"
+  }
+ },
+ "aea790ef36": {
+  "instruction": {
+   "cuisine": "italian",
+   "location": "Weslaco, TX",
+   "ANSWER": "Cortino's"
+  }
+ },
+ "eebf085c1c": {
+  "instruction": {
+   "cuisine": "Sushi",
+   "location": "Salt Lake City, UT",
+   "ANSWER": "Takashi"
+  }
+ },
+ "04396fe1d3": {
+  "instruction": {
+   "cuisine": "Mexican",
+   "location": "Cincinnati, OH",
+   "ANSWER": "Nada"
+  }
+ },
+ "cb1abd8013": {
+  "instruction": {
+   "city": "Indianapolis",
+   "type of food": "Diner food",
+   "ANSWER": "Historic Steer-In Restaurant"
+  }
+ },
+ "740be9790e": {
+  "instruction": {
+   "cuisine": "Asian",
+   "location": "Seattle, WA",
+   "ANSWER": "Umi Sake House, Din Tai Fung, Japonessa Sushi, Wild Ginger, Chan"
+  }
+ },
+ "8cd82d33d8": {
+  "instruction": {
+   "cuisine": "Mediterrean",
+   "location": "Cincinnati, OH",
+   "ANSWER": "Abigail Street"
+  }
+ },
+ "6f3bb4875a": {
+  "instruction": {
+   "cuisine": "chinese restaurants",
+   "location": "Tamaulipas 95, Mexico City, Central Mexico and Gulf Coast, Mexico",
+   "ANSWER": "Asian Bay"
+  }
+ },
+ "abde5e880b": {
+  "instruction": {
+   "city": "New York City",
+   "type of food": "Japanese",
+   "ANSWER": "Sakagura"
+  }
+ },
+ "6da5a1f0f9": {
+  "instruction": {
+   "city": "Ann Arbor, Michigan",
+   "type of food": "Thai",
+   "ANSWER": "SIAM Square"
+  }
+ },
+ "4de13f1e2e": {
+  "instruction": {
+   "city": "Spokane",
+   "type of food": "Sushi",
+   "ANSWER": "Sushi.com"
+  }
+ },
+ "64cf976d6a": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Chinese food",
+   "ANSWER": "P.F. Chang's"
+  }
+ },
+ "3cd6754dc2": {
+  "instruction": {
+   "type of food": "seafood",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "95bbf199b0": {
+  "instruction": {
+   "type of food": "hamburgers",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "77c8616185": {
+  "instruction": {
+   "cuisine": "Indian",
+   "location": "Mumbai",
+   "ANSWER": "The Peshwa Pavilion"
+  }
+ },
+ "bd3a6c02e9": {
+  "instruction": {
+   "cuisine": "british restaurants",
+   "location": "123 Chestnut St, Philadelphia, Pennsylvania",
+   "ANSWER": "Han Dynasty"
+  }
+ },
+ "2547f9a784": {
+  "instruction": {
+   "cuisine": "Sushi",
+   "location": "Mumbai",
+   "ANSWER": "Wasabi, San-Qi, Seven Kitchens"
+  }
+ },
+ "9288e23dbe": {
+  "instruction": {
+   "type of food": "Chinese food",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "453ba4188c": {
+  "instruction": {
+   "city": "Denver",
+   "type of food": "Thai",
+   "ANSWER": "Thai Pot Cafe"
+  }
+ },
+ "b57f4d9826": {
+  "instruction": {
+   "cuisine": "seafood",
+   "location": "Pittsburgh, PA"
+  }
+ },
+ "11790b61ac": {
+  "instruction": {
+   "cuisine": "Cuban",
+   "location": "Skopje, Republic of Macedonia",
+   "ANSWER": "Casa Cubana"
+  }
+ },
+ "9263d5b7b0": {
+  "instruction": {
+   "type of food": "barbeque",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "00af687174": {
+  "instruction": {
+   "cuisine": " grill ",
+   "location": " Kyustendil, Bulgaria",
+   "ANSWER": "Friends Bar & Grill"
+  }
+ },
+ "7542f4b671": {
+  "instruction": {
+   "type of food": "cookies",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "502c9aeab1": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Indian",
+   "ANSWER": "Saffron Cafe "
+  }
+ },
+ "d996bcb9ad": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Hoagies",
+   "ANSWER": "Hoagies & Hops"
+  }
+ },
+ "3656a656d7": {
+  "instruction": {
+   "city": "Helen, GA",
+   "type of food": "German",
+   "ANSWER": "Schnitzel"
+  }
+ },
+ "342970730e": {
+  "instruction": {
+   "cuisine": "Italian",
+   "location": "Phoenix, Arizona",
+   "ANSWER": "Pomo Pizzeria Napoletana - Phoenix"
+  }
+ },
+ "f9d039fb79": {
+  "instruction": {
+   "cuisine": "French",
+   "location": "Mumbai",
+   "ANSWER": "Le Cirque Signature,Le Pain Quotidien"
+  }
+ },
+ "0d68da414b": {
+  "instruction": {
+   "city": "Ann Arbor, Michigan",
+   "type of food": "mediteranean",
+   "ANSWER": "Cafe Zola"
+  }
+ },
+ "c802e0faea": {
+  "instruction": {
+   "type of food": "gluten free food",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "f928d44d3f": {
+  "instruction": {
+   "cuisine": "pizza",
+   "location": "Kyustendil, Bulgaria",
+   "ANSWER": "Napoli"
+  }
+ },
+ "93a297d3e2": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Barbecue",
+   "ANSWER": "City Barbeque"
+  }
+ },
+ "64509e7cef": {
+  "instruction": {
+   "type of food": "doughnuts",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "3acce4682f": {
+  "instruction": {
+   "cuisine": "Italian",
+   "location": "Washington, DC"
+  }
+ },
+ "6312325e13": {
+  "instruction": {
+   "city": "Indianapolis,Indiana",
+   "type of food": "turkish",
+   "ANSWER": "Bosphorus Istanbul Cafe"
+  }
+ },
+ "d773ad5306": {
+  "instruction": {
+   "type of food": "Hamburgers",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "71406cee11": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "lamb",
+   "ANSWER": "Fogo de Chao Brazilian Steakhouse"
+  }
+ },
+ "83426ffaab": {
+  "instruction": {
+   "city": "Miami, FL",
+   "type of food": "Cuban",
+   "ANSWER": "Enriqueta's Sandwich Shop"
+  }
+ },
+ "9d10cb0a3a": {
+  "instruction": {
+   "cuisine": "Mexican",
+   "location": "Skopje, Republic of Macedonia",
+   "ANSWER": "Amigos"
+  }
+ },
+ "a5ccfb57bf": {
+  "instruction": {
+   "cuisine": "Indian",
+   "location": "Chicago, IL",
+   "ANSWER": "The Indian Garden"
+  }
+ },
+ "8dd1cb8473": {
+  "instruction": {
+   "cuisine": "Dessert",
+   "location": "Toledo, OH",
+   "ANSWER": "Wixey Bakery"
+  }
+ },
+ "b112ca8576": {
+  "instruction": {
+   "cuisine": "International",
+   "location": "Chicago, IL",
+   "ANSWER": "Alinea "
+  }
+ },
+ "bb7a683670": {
+  "instruction": {
+   "cuisine": "Chinese",
+   "location": "Portland, OR",
+   "ANSWER": "Frank's Noodle House"
+  }
+ },
+ "a1f9dce8f1": {
+  "instruction": {
+   "cuisine": "seafood",
+   "location": "Los Angeles, CA",
+   "ANSWER": "Providence"
+  }
+ },
+ "b41750a24c": {
+  "instruction": {
+   "city": "Ann Arbor, Michigan",
+   "type of food": "Indian",
+   "ANSWER": "Cardamom"
+  }
+ },
+ "6ed785637f": {
+  "instruction": {
+   "city": "Key West, FL",
+   "type of food": "Seafood",
+   "ANSWER": "Hog Fish Bar and Grill"
+  }
+ },
+ "59b623dbd2": {
+  "instruction": {
+   "cuisine": "indian restaurants",
+   "location": " 150 East 50th Street, Between Lexington & 3rd Avenue, New York City, NY 10022 ",
+   "ANSWER": "Spice Symphony "
+  }
+ },
+ "92e2c83bed": {
+  "instruction": {
+   "cuisine": "Asian",
+   "location": "San Diego, CA",
+   "ANSWER": "Sushi Ota"
+  }
+ },
+ "5f52145949": {
+  "instruction": {
+   "cuisine": "mexican",
+   "location": "Harlingen, TX",
+   "ANSWER": "La Playa Mexican"
+  }
+ },
+ "27312d1841": {
+  "instruction": {
+   "cuisine": "Grill",
+   "location": "Mumbai",
+   "ANSWER": "Mostly Grills, Beluga"
+  }
+ },
+ "5b11f6b92d": {
+  "instruction": {
+   "cuisine": "Thai",
+   "location": "Las Vegas, NV",
+   "ANSWER": "Arawan Thai Bistro and Dessert"
+  }
+ },
+ "a1982a0b70": {
+  "instruction": {
+   "cuisine": "European",
+   "location": "Portland, OR",
+   "ANSWER": "Little Bird Bistro, Verdigris, Olympic Provisions, Swiss Hibiscus, Stammtisch"
+  }
+ },
+ "c7fe5d15c7": {
+  "instruction": {
+   "geographic location": "colorado",
+   "age groups": "family",
+   "type of activity": "hiking"
+  }
+ },
+ "96e657dd23": {
+  "instruction": {
+   "type of food": "fried chicken",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "e0c6540278": {
+  "instruction": {
+   "cuisine": "Greek",
+   "location": "Seattle, WA",
+   "ANSWER": "Lola"
+  }
+ },
+ "4ddd7500f9": {
+  "instruction": {
+   "cuisine": "Delicatessen ",
+   "location": "Chicago, IL",
+   "ANSWER": "Lou Mitchell's Restaurant, Eleven City Diner, Al's #1 Italian Beef, Potbelly Sandwich Works, Panera Bread"
+  }
+ },
+ "8d52e21965": {
+  "instruction": {
+   "cuisine": "Steakhouse",
+   "location": "Houston, TX",
+   "ANSWER": "Chama Gaucha Brazilian Steakhouse"
+  }
+ },
+ "45c16d6ca9": {
+  "instruction": {
+   "city": "Indianapolis",
+   "type of food": "Breakfast",
+   "ANSWER": "Long's Bakery"
+  }
+ },
+ "c74e31f2c6": {
+  "instruction": {
+   "cuisine": "international cuisine ",
+   "location": "Skopje, Republic of Macedonia",
+   "ANSWER": "Skopski Merak"
+  }
+ },
+ "741304a1c4": {
+  "instruction": {
+   "cuisine": "Japanese",
+   "location": "San Francisco, CA",
+   "ANSWER": "Don of The Bimini Twist"
+  }
+ },
+ "ea95d9c4c6": {
+  "instruction": {
+   "cuisine": "French",
+   "location": "New York City, New York",
+   "ANSWER": "Daniel"
+  }
+ },
+ "6bd222682c": {
+  "instruction": {
+   "city": "Chicago, IL",
+   "type of food": "Pizza",
+   "ANSWER": "Giordano's"
+  }
+ },
+ "23d0140c8c": {
+  "instruction": {
+   "geographic location": "new york city",
+   "age groups": "family",
+   "type of activity": "sightseeing"
+  }
+ },
+ "64ed36c27d": {
+  "instruction": {
+   "cuisine": "Italian ",
+   "location": "Newport Beach, CA",
+   "ANSWER": "Mama D's Italian"
+  }
+ },
+ "e813fb1034": {
+  "instruction": {
+   "cuisine": "Japanese",
+   "location": "New Providence, New Jersey",
+   "ANSWER": "Takuma"
+  }
+ },
+ "d37e16a223": {
+  "instruction": {
+   "cuisine": "Middle Eastern",
+   "location": "Indianapolis, IN",
+   "ANSWER": "Bosphorus Istanbul Cafe"
+  }
+ },
+ "f131f995a4": {
+  "instruction": {
+   "cuisine": "Greek",
+   "location": "Fort Lauderdale, FL",
+   "ANSWER": "Greek Islands Taverna"
+  }
+ },
+ "67e195103e": {
+  "instruction": {
+   "cuisine": "Indian",
+   "location": "New Delhi",
+   "ANSWER": "Tamra, Dakshin, Dum Pukht"
+  }
+ },
+ "f26165f4e0": {
+  "instruction": {
+   "city": "San Francisco",
+   "type of food": "Greek",
+   "ANSWER": "Kokkari Estiatorio"
+  }
+ },
+ "b3f3814658": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Cuban and latin",
+   "ANSWER": "Taste of Havana"
+  }
+ },
+ "f134a16d2a": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Spanish food",
+   "ANSWER": "The Tamale Place"
+  }
+ },
+ "84b0671e8e": {
+  "instruction": {
+   "cuisine": "Seafood",
+   "location": "Mumbai",
+   "ANSWER": "Trishna, Mahesh Lunch Home"
+  }
+ },
+ "a853392d61": {
+  "instruction": {
+   "cuisine": "BBQ",
+   "location": "San Diego, CA"
+  }
+ },
+ "ab648a2c0b": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Italian",
+   "ANSWER": "Mama Carolla's Old Italian Restaurant "
+  }
+ },
+ "4431193eef": {
+  "instruction": {
+   "cuisine": "japanese",
+   "location": "Edinburg, TX",
+   "ANSWER": "Lucky Sushi Bar"
+  }
+ },
+ "62e0f58431": {
+  "instruction": {
+   "cuisine": "British",
+   "location": "Philadelphia, PA"
+  }
+ },
+ "8b7fa1663f": {
+  "instruction": {
+   "city": "Orlando",
+   "type of food": "Seafood",
+   "ANSWER": "Eddie V's Prime Seafood"
+  }
+ },
+ "beb058fe82": {
+  "instruction": {
+   "cuisine": "Sushi",
+   "location": "Los Angeles, CA",
+   "ANSWER": "Sushi Gen, Houston's, Katsuya, Sugarfish, Nobu"
+  }
+ },
+ "bcc4b42f39": {
+  "instruction": {
+   "type of food": "cakes",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "137637136b": {
+  "instruction": {
+   "cuisine": "chinese restaurants",
+   "location": "Ralph Melgar and Calle 3, Cozumel, Yucatan Peninsula, Mexico",
+   "ANSWER": "Chi"
+  }
+ },
+ "e6f6ea4f82": {
+  "instruction": {
+   "cuisine": "Mediterrranean",
+   "location": "Mumbai",
+   "ANSWER": "Souk,Citrus, Rivea"
+  }
+ },
+ "a2b3ee0201": {
+  "instruction": {
+   "geographic location": "hawaii",
+   "age groups": "family",
+   "type of activity": "scuba diving"
+  }
+ },
+ "9c2967651f": {
+  "instruction": {
+   "city": "San Antonio, TX",
+   "type of food": "Mexican",
+   "ANSWER": "Cascabel Mexican Patio"
+  }
+ },
+ "d801236a5c": {
+  "instruction": {
+   "cuisine": "german",
+   "location": "McAllen, TX",
+   "ANSWER": "Schneider's German"
+  }
+ },
+ "ed13c78a34": {
+  "instruction": {
+   "type of food": "Vegetarian food",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "d5a152b27e": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Soups",
+   "ANSWER": "Oceanaire Seafood Room"
+  }
+ },
+ "a2d67d1ede": {
+  "instruction": {
+   "city": "Indianapolis",
+   "type of food": "Cuban food",
+   "ANSWER": "Taste of Havana"
+  }
+ },
+ "ec4457ac58": {
+  "instruction": {
+   "cuisine": "Italian",
+   "location": "Dallas, Texas",
+   "ANSWER": "Jimmy's Food Store"
+  }
+ },
+ "12cd3d25d6": {
+  "instruction": {
+   "cuisine": "Japanese ",
+   "location": "San Francisco, CA",
+   "ANSWER": "Don of The Bimini Twist"
+  }
+ },
+ "2052cdec02": {
+  "instruction": {
+   "city": "Indianapolis,Indiana",
+   "type of food": "thai",
+   "ANSWER": "Thai Paradise"
+  }
+ },
+ "4836d2ae41": {
+  "instruction": {
+   "cuisine": "south american ",
+   "location": "Nuevo Progreso, TX",
+   "ANSWER": "Chuy's Red Snapper"
+  }
+ },
+ "e23177ff18": {
+  "instruction": {
+   "city": "Indianapolis,Indiana",
+   "type of food": "indian",
+   "ANSWER": "Saffron Cafe"
+  }
+ },
+ "9d63134256": {
+  "instruction": {
+   "city": "Cape Elizabeth, Maine",
+   "type of food": "Lobster",
+   "ANSWER": "The Lobster Shack at two lights"
+  }
+ },
+ "acfceeb365": {
+  "instruction": {
+   "cuisine": "American",
+   "location": "San Diego, CA",
+   "ANSWER": "Broken Yolk Cafe"
+  }
+ },
+ "fe0353b65d": {
+  "instruction": {
+   "cuisine": "thai ",
+   "location": "McAllen, TX",
+   "ANSWER": "Thai Red Chili's"
+  }
+ },
+ "e560609bbc": {
+  "instruction": {
+   "city": "Indianapolis,Indiana",
+   "type of food": "japanese",
+   "ANSWER": "The Journey"
+  }
+ },
+ "b406f0fbbb": {
+  "instruction": {
+   "cuisine": "british restaurants",
+   "location": "1915 S Broad St, Philadelphia, Pennsylvania",
+   "ANSWER": "Ristorante Pesto"
+  }
+ },
+ "245c24062d": {
+  "instruction": {
+   "city": "Indianapolis,Indiana",
+   "type of food": "spanish food ",
+   "ANSWER": "The Tamale Palace"
+  }
+ },
+ "86de60179e": {
+  "instruction": {
+   "city": "Ann Arbor, Michigan",
+   "type of food": "Burgers",
+   "ANSWER": "Elevation Burger Ann Arbor - Washtenaw"
+  }
+ },
+ "c214e2658c": {
+  "instruction": {
+   "cuisine": "Korean",
+   "location": "Los Angeles, CA",
+   "ANSWER": "Kang Hodong Baekjeong"
+  }
+ },
+ "86d9edfa66": {
+  "instruction": {
+   "city": "Indianapolis,Indiana",
+   "type of food": "pizza",
+   "ANSWER": "Brozinni Pizzeria"
+  }
+ },
+ "0a093b7740": {
+  "instruction": {
+   "geographic location": "kenya",
+   "age groups": "family",
+   "type of activity": "safari"
+  }
+ },
+ "532768a08e": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "Greek food",
+   "ANSWER": "Santorini Greek Kitchen"
+  }
+ },
+ "43b47b62bf": {
+  "instruction": {
+   "city": "New York, NY",
+   "type of food": "Italian",
+   "ANSWER": "Eataly"
+  }
+ },
+ "d3b4602d07": {
+  "instruction": {
+   "cuisine": "Steakhouse",
+   "location": "Salt Lake City, UT",
+   "ANSWER": "Ruth's Chris Steak House, BRIO Tuscan Grille, Spencer's for Steaks and Chops, Texas de Brazil, Fleming's Prime Steakhouse & Wine Bar"
+  }
+ },
+ "2129dee7ff": {
+  "instruction": {
+   "geographic location": "vero beach",
+   "age groups": "family",
+   "type of activity": "spring training baseball"
+  }
+ },
+ "5641be3d9d": {
+  "instruction": {
+   "type of food": "ribs",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "91d2a6f65b": {
+  "instruction": {
+   "type of food": "French food",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "125506da50": {
+  "instruction": {
+   "cuisine": "Barbeque",
+   "location": "Pune ",
+   "ANSWER": "Barbeque Nation."
+  }
+ },
+ "314f683821": {
+  "instruction": {
+   "city": "Indianapolis, Indiana",
+   "type of food": "seafood",
+   "ANSWER": "Caplinger's Fresh Catch "
+  }
+ }
+}

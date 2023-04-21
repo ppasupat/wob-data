@@ -1,0 +1,1974 @@
+{
+ "4114ee5699": {
+  "instruction": {
+   "ANSWER": "Original Hot Dog Shop",
+   "geographic location": "Pittsburgh, PA",
+   "type of food": "Hot Dogs"
+  },
+  "spans": [
+   {
+    "html": "\r\n                            1.\r\n                        Mr. Beaners Drive-Thru Weiners\r\n                    ",
+    "url": "https://m.yelp.com/search?find_desc=Hot%20Dogs&find_loc=Pittsburgh%2C%20PA&mapsize=375%2C667",
+    "text": "1. Mr. Beaners Drive-Thru Weiners",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "a2346a368f": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=breakfast&find_loc=Houston%2C%20TX&mapsize=375%2C667",
+    "text": "1. The Toasted Yolk Cafe",
+    "html": "\r\n                            1.\r\n                        The Toasted Yolk Cafe\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "(breakfast)",
+   "geographic location": "Houston, TX"
+  }
+ },
+ "c2bac8c5d7": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=korean%20food&find_loc=Salem%2C%20OR&mapsize=375%2C667",
+    "text": "1. Happy Bibim Bap House",
+    "html": "\r\n                            1.\r\n                        Happy Bibim Bap House\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "Korean",
+   "ANSWER": "Happy Bibim Bap House",
+   "geographic location": "Salem"
+  }
+ },
+ "30a295d64c": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[3]/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=sangria&find_loc=Pittsburgh%2C%20PA&mapsize=375%2C667",
+    "text": "3. Bakersfield Penn Ave",
+    "html": "\r\n                            3.\r\n                        Bakersfield Penn Ave\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "Sangria",
+   "ANSWER": "Seviche",
+   "geographic location": "Pittsburgh,PA"
+  }
+ },
+ "54ff91bf25": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[3]/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=thai%20food&find_loc=Pittsburgh%2C%20PA&mapsize=375%2C667",
+    "text": "3. Thai Touch Kitchen",
+    "html": "\r\n                            3.\r\n                        Thai Touch Kitchen\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Sawasdee Thai Kitchen",
+   "geographic location": "Pittsburgh, PA"
+  }
+ },
+ "d1f68420d2": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=taquitos&find_loc=Houston%2C%20TX&mapsize=375%2C667",
+    "text": "1. 100% Taquito",
+    "html": "\r\n                            1.\r\n                        100% Taquito\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "taquitos",
+   "ANSWER": "100% Taquito",
+   "geographic location": "Houston"
+  }
+ },
+ "850d13185b": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=wings&find_loc=Orlando%2C%20FL&mapsize=375%2C667",
+    "text": "1. WingHouse of International Drive",
+    "html": "\r\n                            1.\r\n                        WingHouse of International Drive\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "wings",
+   "ANSWER": "flyer's wings and grill",
+   "geographic location": "orlando, fl"
+  }
+ },
+ "b1b50799bf": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[2]/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=chinese%20food&find_loc=San%20Francisco%20Airport%2C%20CA&mapsize=375%2C667",
+    "text": "2. Royal Feast",
+    "html": "\r\n                            2.\r\n                        Royal Feast\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "Chinese food",
+   "geographic location": "SFO"
+  }
+ },
+ "d4d8c03faf": {
+  "instruction": {
+   "type of food": "barbeque",
+   "geographic location": "Kansas City"
+  }
+ },
+ "640ed48f28": {
+  "instruction": {
+   "type of food": "South Indian",
+   "ANSWER": "Shri Balaji Bhavan",
+   "geographic location": "Houston"
+  }
+ },
+ "503f66c7f5": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=pad%20thai&find_loc=Houston%2C%20TX&mapsize=375%2C667",
+    "text": "1. Thai Chefs",
+    "html": "\r\n                            1.\r\n                        Thai Chefs\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "(Pad Tai)",
+   "geographic location": "Houston, TX"
+  }
+ },
+ "2731da77ab": {
+  "instruction": {
+   "type of food": "Sushi",
+   "geographic location": "New Orleans, LA"
+  }
+ },
+ "1e5e498cdf": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=gyro&find_loc=Las%20Vegas%20Strip%2C%20NV&mapsize=375%2C667",
+    "text": "1. Pita +",
+    "html": "\r\n                            1.\r\n                        Pita +\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "gyro",
+   "ANSWER": "Istanbul Mediterranean, Off The Strip at the LINQ, Nook Cafe",
+   "geographic location": "Las Vegas Strip, NV"
+  }
+ },
+ "53b5bd292b": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=cantonese%20food&find_loc=San%20Francisco%2C%20CA&mapsize=375%2C667",
+    "text": "1. Sam Wo Restaurant",
+    "html": "\r\n                            1.\r\n                        Sam Wo Restaurant\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "Cantonese Restaurant",
+   "ANSWER": "San Tung",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "42f390cd60": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=alcoholic%20beverages&find_loc=bourbon%20street%2C%20new%20orleans&mapsize=375%2C667",
+    "text": "1. Restaurant August",
+    "html": "\r\n                            1.\r\n                        Restaurant August\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "alcoholic beverages",
+   "geographic location": "Bourbon Street, New Orleans"
+  }
+ },
+ "e486fd51a5": {
+  "instruction": {
+   "type of food": "Mexican Food",
+   "ANSWER": "El Toreador Restaurant",
+   "geographic location": "West Portal, San Francisco"
+  }
+ },
+ "7be40cd652": {
+  "instruction": {
+   "type of food": "Cuban",
+   "ANSWER": "Las Olas Cafe",
+   "geographic location": "Miami, FL"
+  }
+ },
+ "acff370294": {
+  "instruction": {
+   "type of food": "Cambodian",
+   "ANSWER": "Phnom Penh Noodle House",
+   "geographic location": "Seattle, WA"
+  }
+ },
+ "9b31c1f4bf": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[8]/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=diner&find_loc=Salt%20Lake%20City%2C%20UT&mapsize=375%2C667",
+    "text": "8. Vertical Diner",
+    "html": "\r\n                            8.\r\n                        Vertical Diner\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "diner",
+   "geographic location": "Salt Lake City, UT"
+  }
+ },
+ "d9ae8c1623": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Pop Pop Thai Street Food",
+   "geographic location": "Seattle, WA"
+  }
+ },
+ "67f3827d6b": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Buon Appetito NY Pizza",
+   "geographic location": "Chantilly, VA"
+  }
+ },
+ "eae45f6a6c": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/section[2]/ul/li/a",
+    "url": "https://m.yelp.com/",
+    "text": "Restaurants",
+    "html": "\r\n                                <span aria-hidden=\"true\" style=\"width: 24px; height: 24px; outline: none;\" class=\"icon icon--24-food icon--size-24 u-space-r1\">\r\n    <svg class=\"icon_svg\" style=\"outline: none;\">\r\n        <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"#24x24_food\" style=\"outline: none;\"></use>\r\n    </svg>\r\n</span>Restaurants\r\n                            "
+   }
+  ],
+  "instruction": {
+   "type of food": "Ice Cream",
+   "ANSWER": "The Baked Bear",
+   "geographic location": "Reno"
+  }
+ },
+ "145a331915": {
+  "instruction": {
+   "type of food": "French",
+   "geographic location": "Las Vegas, NV"
+  }
+ },
+ "d2a55409ee": {
+  "instruction": {
+   "type of food": "Cantonese Restaurant",
+   "ANSWER": " Lai Hong Lounge",
+   "geographic location": "San Francisco, CA"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/biz/sam-wo-restaurant-san-francisco-3?osq=cantonese",
+    "html": "Sam Wo Restaurant",
+    "text": "Sam Wo Restaurant",
+    "xpath": "//*[@id=\"wrap\"]/div[3]/div/section/div[3]/h1"
+   }
+  ]
+ },
+ "1a2a1e3680": {
+  "instruction": {
+   "type of food": "Tofu Scramble",
+   "ANSWER": "Glass & Vine",
+   "geographic location": "Miami, FL"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/biz/choices-cafe-miami-3?osq=tofu+scramble",
+    "html": "Choices Cafe",
+    "text": "Choices Cafe",
+    "xpath": "//*[@id=\"wrap\"]/div[3]/div/section/div[3]/h1"
+   }
+  ]
+ },
+ "74760bab46": {
+  "instruction": {
+   "type of food": "BBQ",
+   "ANSWER": "Jabo\u2019s Smoque House and Saloon",
+   "geographic location": "Pittsburgh, PA"
+  }
+ },
+ "2be8bb55b5": {
+  "instruction": {
+   "type of food": "Rocky mountain oysters",
+   "ANSWER": "The Rustic",
+   "geographic location": "Dallas, TX"
+  }
+ },
+ "6091ae54a8": {
+  "instruction": {
+   "type of food": "burger",
+   "ANSWER": "Kimball Farm",
+   "geographic location": "Westford, MA 01886"
+  }
+ },
+ "9d3745edf6": {
+  "instruction": {
+   "type of food": "Korean",
+   "ANSWER": "Wang Dae Bak",
+   "geographic location": "Lakeside, San Francisco"
+  }
+ },
+ "feff3f6c22": {
+  "instruction": {
+   "type of food": "italian ice",
+   "ANSWER": "Izzy\u2019s Ice Cream Caf\u00e9",
+   "geographic location": "Saint Paul, MN"
+  }
+ },
+ "b9f15f27fd": {
+  "instruction": {
+   "type of food": "Indian",
+   "ANSWER": "Taste of India",
+   "geographic location": "Seattle"
+  }
+ },
+ "d7d072196c": {
+  "instruction": {
+   "type of food": "Kimbap",
+   "ANSWER": "Misono Grill",
+   "geographic location": "Boston"
+  }
+ },
+ "4ce57c1b29": {
+  "instruction": {
+   "type of food": "Sushi",
+   "ANSWER": "Murasaki",
+   "geographic location": "Chantilly, VA"
+  }
+ },
+ "2710c3a399": {
+  "instruction": {
+   "type of food": "paella",
+   "ANSWER": "The Basque Market",
+   "geographic location": "Huston"
+  }
+ },
+ "07f71724eb": {
+  "instruction": {
+   "type of food": "steaks",
+   "ANSWER": "Steakhouse No. 316, The Monarch, Jimmy's An American Restaurant & Bar",
+   "geographic location": "Aspen,CO"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=steaks&find_loc=Aspen%2C%20CO&mapsize=375%2C667",
+    "html": "\r\n                            2.\r\n                        White House Tavern\r\n                    ",
+    "text": "2. White House Tavern",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[2]/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "2594956147": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Il Corvo Pasta",
+   "geographic location": "Seattle, WA"
+  }
+ },
+ "1cdd4584f4": {
+  "instruction": {
+   "type of food": "steak ",
+   "ANSWER": "Gordon Ramsay Steak",
+   "geographic location": "Las Vegas, NV"
+  }
+ },
+ "91f8887236": {
+  "instruction": {
+   "type of food": "Haluski",
+   "ANSWER": "S&D Polish Deli",
+   "geographic location": "Pittsburgh, PA"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/biz/s-and-d-polish-deli-pittsburgh?osq=haluski",
+    "html": "S&amp;D Polish Deli",
+    "text": "S&D Polish Deli",
+    "xpath": "//*[@id=\"wrap\"]/div[3]/div/section/div[3]/h1"
+   }
+  ]
+ },
+ "82dbf9329c": {
+  "instruction": {
+   "type of food": "Korean BBQ",
+   "ANSWER": "Kang Ho-dong Baekjeong",
+   "geographic location": "Los Angeles"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/biz/gen-korean-bbq-house-los-angeles-2?osq=korean+bbq",
+    "html": "Gen Korean BBQ House",
+    "text": "Gen Korean BBQ House",
+    "xpath": "//*[@id=\"wrap\"]/div[3]/div/section/div[3]/h1"
+   }
+  ]
+ },
+ "eb3ba77551": {
+  "instruction": {
+   "type of food": "Korean BBQ",
+   "ANSWER": "Umma\u2019s Lunch Box",
+   "geographic location": "Seattle, WA"
+  }
+ },
+ "587ff05535": {
+  "instruction": {
+   "type of food": "Perogies",
+   "ANSWER": "Cop Out Pierogies",
+   "geographic location": "Pittsburgh, PA"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=best%20pierogies&find_loc=Pittsburgh%2C%20PA&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        Cop Out Pierogies\r\n                    ",
+    "text": "1. Cop Out Pierogies",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "d6725e9bd9": {
+  "instruction": {
+   "type of food": "ribs",
+   "geographic location": "Eureka Springs, AR"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/__webQA__",
+    "html": "\r\n            <a class=\"error-page-link\" href=\"/\" style=\"outline: none;\">Tap here</a> to return to the Yelp Home Page.\r\n        ",
+    "text": "Tap here to return to the Yelp Home Page.",
+    "xpath": "/html/body/section/p"
+   }
+  ]
+ },
+ "335fa6c18f": {
+  "instruction": {
+   "type of food": "Chinese Restaurant",
+   "ANSWER": "San Tung",
+   "geographic location": "San Francisco, CA"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=chinese%20restaurant&find_loc=San%20Francisco%2C%20CA%2C%20US&mapsize=375%2C667",
+    "html": "\r\n                            2.\r\n                        San Tung\r\n                    ",
+    "text": "2. San Tung",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[2]/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "98d40b694c": {
+  "instruction": {
+   "type of food": "Mexican",
+   "geographic location": "Dallas"
+  }
+ },
+ "c901aec151": {
+  "instruction": {
+   "type of food": "Barbeque",
+   "ANSWER": "Antonik's BBQ",
+   "geographic location": "Castro, San Francisco"
+  }
+ },
+ "a6841822cb": {
+  "instruction": {
+   "type of food": "Greek",
+   "ANSWER": "The Greek Gourmet",
+   "geographic location": "Pittsburgh, PA"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=Greek&find_loc=Pittsburgh%2C%20PA&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        The Greek Gourmet\r\n                    ",
+    "text": "1. The Greek Gourmet",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "0115f1d61c": {
+  "instruction": {
+   "type of food": "Mediterranean, Middle Eastern",
+   "ANSWER": "La Goulette",
+   "geographic location": "Williamsburg - North Side 159 Grand St Brooklyn, NY 11249 Phone number (347) 689-4126"
+  }
+ },
+ "db7421cd50": {
+  "instruction": {
+   "type of food": "Falafel Sandwich",
+   "ANSWER": "The Green Chicpea",
+   "geographic location": "Newark, NJ"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=falafel%20sandwich&find_loc=Newark%2C%20NJ&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        The Green Chicpea\r\n                    ",
+    "text": "1. The Green Chicpea",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "e9716e6a7e": {
+  "instruction": {
+   "type of food": "ice cream",
+   "geographic location": "Stanford"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=ice%20cream&find_loc=Stanford%2C%20CA&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        Tin Pot Creamery\r\n                    ",
+    "text": "1. Tin Pot Creamery",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "d28fea0ec6": {
+  "instruction": {
+   "type of food": "Fondue",
+   "ANSWER": "That Fondue Place",
+   "geographic location": "Fort Lee"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=fondue%20restaurants&find_loc=Fort%20Lee%2C%20NJ&mapsize=375%2C667",
+    "html": "\r\n                            3.\r\n                        Solomon and Kuff\r\n                    ",
+    "text": "3. Solomon and Kuff",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[3]/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "ae61cfc964": {
+  "instruction": {
+   "type of food": "coffee",
+   "geographic location": "Menlo Park"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=coffee&find_loc=Menlo%20Park%2C%20CA&mapsize=375%2C667",
+    "html": "\r\n                            2.\r\n                        Cafe Zoe\r\n                    ",
+    "text": "2. Cafe Zoe",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[2]/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "26a3dec238": {
+  "instruction": {
+   "type of food": "(Indian food)",
+   "geographic location": "Houston, TX"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=indian%20food&find_loc=Houston%2C%20TX&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        Surya India\r\n                    ",
+    "text": "1. Surya India",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "01f415c645": {
+  "instruction": {
+   "type of food": "coffee ",
+   "geographic location": "Denver"
+  }
+ },
+ "edcfc20af2": {
+  "instruction": {
+   "type of food": "McDonald's",
+   "geographic location": "Little Rock"
+  }
+ },
+ "74aca94ff9": {
+  "instruction": {
+   "type of food": "falafel",
+   "ANSWER": "Woo Hoo",
+   "geographic location": "Elizabethtown, KY"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=falafel%20sandwich&find_loc=Elizabethtown%2C%20KY&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        Woo Hoo\r\n                    ",
+    "text": "1. Woo Hoo",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "adda3d94a8": {
+  "instruction": {
+   "type of food": "donuts",
+   "ANSWER": "The Grind Shop",
+   "geographic location": "Jersey City"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=donuts&find_loc=Jersey%20City%2C%20NJ&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        The Grind Shop\r\n                    ",
+    "text": "1. The Grind Shop",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "947557744a": {
+  "instruction": {
+   "type of food": "Steakhouses, Brazilian",
+   "ANSWER": "Espetus Brazilian Steak House",
+   "geographic location": "Hayes Valley 1686 Market St San Francisco, CA 94102 Phone number (415) 552-8792"
+  }
+ },
+ "3ed4fce5d3": {
+  "instruction": {
+   "type of food": "pizza",
+   "geographic location": "North Side, Chicago"
+  }
+ },
+ "f786696d4b": {
+  "instruction": {
+   "type of food": "(hand tossed pizza)",
+   "geographic location": "Beaumont, TX"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=hand%20tossed%20pizza&find_loc=Beaumont%2C%20TX&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        New York Pizza &amp; Pasta\r\n                    ",
+    "text": "1. New York Pizza & Pasta",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "b6500d7aed": {
+  "instruction": {
+   "type of food": "Italian Restaurant",
+   "ANSWER": "Sotto Mare",
+   "geographic location": "San Francisco, CA"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=italian%20food&find_loc=San%20Francisco%2C%20CA%2C%20US&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        Italian Homemade Company\r\n                    ",
+    "text": "1. Italian Homemade Company",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "70f405d48b": {
+  "instruction": {
+   "type of food": "Middle Eastern food",
+   "ANSWER": "La Palma, Falafill, Harmonie Garden Cafe",
+   "geographic location": "Detroit, MI"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=middle%20eastern%20food&find_loc=Detroit%2C%20MI&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        La Palma\r\n                    ",
+    "text": "1. La Palma",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "ec025dae31": {
+  "instruction": {
+   "type of food": "taco",
+   "geographic location": "San Francisco"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=taco&find_loc=San%20Francisco%2C%20CA&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        Tacorea\r\n                    ",
+    "text": "1. Tacorea",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "9ced8b4b31": {
+  "instruction": {
+   "type of food": "Dim Sum Restaurant",
+   "ANSWER": "MaMa Ji\u2019s",
+   "geographic location": "San Francisco, CA"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=dim%20sum%20restaurant&find_loc=San%20Francisco%2C%20CA%2C%20US&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        Delicious Dim Sum\r\n                    ",
+    "text": "1. Delicious Dim Sum",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "e1bcb3c7d8": {
+  "instruction": {
+   "type of food": "doner kebab",
+   "ANSWER": "Doner Burger",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "026d6e7faa": {
+  "instruction": {
+   "type of food": "Fudge",
+   "ANSWER": "Kilwin\u2019s",
+   "geographic location": "Rehoboth Beach, DE"
+  }
+ },
+ "57bbef9d2d": {
+  "instruction": {
+   "geographic location": "Manhattan",
+   "type of food": "omelette"
+  }
+ },
+ "ddcb9f2e15": {
+  "instruction": {
+   "type of food": "Tandoori Food",
+   "ANSWER": "Mela Tandoori Kitchen",
+   "geographic location": "Civic Center, San Francisco"
+  }
+ },
+ "ea7fa897b2": {
+  "instruction": {
+   "type of food": "Lobster Roll",
+   "ANSWER": "Thirsty Whale",
+   "geographic location": "Bar Harbor, ME"
+  }
+ },
+ "4a971eb259": {
+  "instruction": {
+   "type of food": "Vietnamese, Sandwiches",
+   "ANSWER": "Saigon Sandwich",
+   "geographic location": "Tenderloin 560 Larkin St San Francisco, CA 94102 Phone number (415) 474-5698"
+  }
+ },
+ "ca664b39c1": {
+  "instruction": {
+   "type of food": "American",
+   "ANSWER": "Neptune Oyster",
+   "geographic location": "Boston, MA"
+  }
+ },
+ "43d92d3094": {
+  "instruction": {
+   "type of food": "burger",
+   "ANSWER": "Blue Collar",
+   "geographic location": "Miami, FL"
+  }
+ },
+ "cd08081f75": {
+  "instruction": {
+   "geographic location": "Memphis, TN",
+   "type of food": "cheesecake",
+   "ANSWER": "City Market"
+  }
+ },
+ "784289ec7d": {
+  "instruction": {
+   "geographic location": "Knoxville, TN",
+   "type of food": "pancakes",
+   "ANSWER": "OliBea, First Watch, Nick and J\u2019s Cafe"
+  }
+ },
+ "14d9307b56": {
+  "instruction": {
+   "geographic location": "Spring, TX",
+   "type of food": "(dessert)"
+  }
+ },
+ "e21d39b4dc": {
+  "instruction": {
+   "type of food": "steak house",
+   "geographic location": "Tampa, FL 33606\t"
+  }
+ },
+ "ae754e8d62": {
+  "instruction": {
+   "geographic location": "St Louis, MO",
+   "type of food": "sushi"
+  }
+ },
+ "b7fd9af78b": {
+  "instruction": {
+   "type of food": "Subs",
+   "ANSWER": "Gaetano\u2019s Steaks & Subs",
+   "geographic location": "Philadelphia, PA"
+  }
+ },
+ "8887947594": {
+  "instruction": {
+   "type of food": "croissant",
+   "ANSWER": "Cafe Poupon",
+   "geographic location": "Baltimore"
+  }
+ },
+ "b8f6e5342e": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Cha Yen Thai Cookery",
+   "geographic location": "Boston, MA"
+  }
+ },
+ "2b13c52c2d": {
+  "instruction": {
+   "geographic location": "San Francisco, CA",
+   "type of food": "Italian Restaurant",
+   "ANSWER": "Frascati"
+  }
+ },
+ "175d55f916": {
+  "instruction": {
+   "type of food": "ice cream",
+   "ANSWER": "Seemoore\u2019s Ice Cream",
+   "geographic location": "Death Valley, CA"
+  }
+ },
+ "9bc4838b84": {
+  "instruction": {
+   "geographic location": "maple shade, nj",
+   "type of food": "sushi",
+   "ANSWER": "yokohama"
+  }
+ },
+ "0a789a96a5": {
+  "instruction": {
+   "type of food": "Mexican ",
+   "ANSWER": "Barrios Fine Mexican Dishes",
+   "geographic location": "Oklahoma City, OK"
+  }
+ },
+ "514ecb1ac4": {
+  "instruction": {
+   "type of food": "Mexican, Breakfast & Brunch",
+   "ANSWER": "El Buen Comer",
+   "geographic location": "Bernal Heights, Mission"
+  }
+ },
+ "20f810ede3": {
+  "instruction": {
+   "type of food": "Brownies",
+   "ANSWER": "The Cakeroom",
+   "geographic location": "Washington DC"
+  }
+ },
+ "067f9044df": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Pisolino",
+   "geographic location": "Chicago, IL"
+  }
+ },
+ "2f69cd9621": {
+  "instruction": {
+   "geographic location": "Arkansas",
+   "type of food": "Doe's Steak"
+  }
+ },
+ "0514048332": {
+  "instruction": {
+   "type of food": "Burger",
+   "ANSWER": "Emojo Burger",
+   "geographic location": "New York "
+  }
+ },
+ "7eace1ae89": {
+  "instruction": {
+   "type of food": "Chinese",
+   "geographic location": "SoHo, Manhattan, NY"
+  }
+ },
+ "fba66d0045": {
+  "instruction": {
+   "geographic location": "Detroit",
+   "type of food": "Burgers",
+   "ANSWER": "Basement Burger Bar"
+  }
+ },
+ "3d59607dba": {
+  "instruction": {
+   "geographic location": "San Francisco, CA",
+   "type of food": "Italian Restaurant",
+   "ANSWER": "Luisa\u2019s Pizza And Pasta"
+  }
+ },
+ "c1d0db5882": {
+  "instruction": {
+   "geographic location": "Bergenfield",
+   "type of food": "coffee",
+   "ANSWER": "Tenafly Coffee Company"
+  }
+ },
+ "8b16fc63fa": {
+  "instruction": {
+   "geographic location": "Albany, NY",
+   "type of food": "pizza",
+   "ANSWER": "Westgate Pizza Bella"
+  }
+ },
+ "cefd636d35": {
+  "instruction": {
+   "geographic location": "Dublin",
+   "type of food": "Sandwiches",
+   "ANSWER": "Green Bench Cafe"
+  }
+ },
+ "3aaa3b0a7e": {
+  "instruction": {
+   "type of food": "Pasta",
+   "ANSWER": "Patrizi\u2019s",
+   "geographic location": "Austin"
+  }
+ },
+ "d09fe4222a": {
+  "instruction": {
+   "geographic location": "Seattle, WA",
+   "type of food": "Mediterranean food",
+   "ANSWER": "Petra Mediterranean Bistro, Mamnoon, Mashawi Mediterranean Cuisine"
+  }
+ },
+ "ed01f66c3f": {
+  "instruction": {
+   "type of food": "Dosas",
+   "ANSWER": "Dosa on Fillmore",
+   "geographic location": "Japantown, San Francisco"
+  }
+ },
+ "80a52e0e04": {
+  "instruction": {
+   "type of food": "Vegan",
+   "ANSWER": "Fern",
+   "geographic location": "Charlotte, NC"
+  }
+ },
+ "04bf6964a4": {
+  "instruction": {
+   "type of food": "Ramen",
+   "ANSWER": "Hokkaido Ramen Santouka",
+   "geographic location": "Cambridge"
+  }
+ },
+ "0dda79a207": {
+  "instruction": {
+   "geographic location": "Pittsburgh, PA",
+   "type of food": "hot wings",
+   "ANSWER": "Big Shot Bob\u2019s House of Wings "
+  }
+ },
+ "c6aa1902db": {
+  "instruction": {
+   "geographic location": "Boston, MA",
+   "type of food": "Thai soup",
+   "ANSWER": "Pho Basil, My Thai Vegan Cafe, Nud Pob Thai Cuisine"
+  }
+ },
+ "bfa4a6c9bf": {
+  "instruction": {
+   "type of food": "Pakistani",
+   "ANSWER": "India Garden",
+   "geographic location": "Cleveland, OH"
+  }
+ },
+ "691f3c9748": {
+  "instruction": {
+   "geographic location": "philadelphia, pa",
+   "type of food": "bubble tea",
+   "ANSWER": "tea do"
+  }
+ },
+ "6a291e52ce": {
+  "instruction": {
+   "type of food": "Cajun",
+   "geographic location": "The French Quarter"
+  }
+ },
+ "4708777210": {
+  "instruction": {
+   "type of food": "American",
+   "ANSWER": "Calozzi\u2019s Cheesesteaks",
+   "geographic location": "Seattle, WA"
+  }
+ },
+ "ef07428af5": {
+  "instruction": {
+   "geographic location": "Dallas, TX",
+   "type of food": "Eggplant Parmesan Sandwich",
+   "ANSWER": "Dough Bro\u2019s Italian Kitchen"
+  }
+ },
+ "bd0bd304db": {
+  "instruction": {
+   "type of food": "French",
+   "ANSWER": "Cafe Beaujolais",
+   "geographic location": "Eagle Rock 1712 Colorado Blvd Los Angeles, CA 90041 Phone number (323) 255-5111"
+  }
+ },
+ "cbd4e77ff1": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[3]/div/section/div[3]/h1",
+    "url": "https://m.yelp.com/biz/nanking-south-ozone-park-6?osq=indian+food",
+    "text": "Nanking",
+    "html": "Nanking"
+   }
+  ],
+  "instruction": {
+   "type of food": "Indian food",
+   "geographic location": "JFK"
+  }
+ },
+ "1fb8bb36e1": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[2]/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=spring%20rolls&find_loc=San%20Diego%2C%20CA&mapsize=375%2C667",
+    "text": "2. Pho Duyen Mai",
+    "html": "\r\n                            2.\r\n                        Pho Duyen Mai\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "Spring Rolls",
+   "ANSWER": "PB Pho & Grill",
+   "geographic location": "San Diego, CA"
+  }
+ },
+ "19e335e8cc": {
+  "instruction": {
+   "type of food": "seafood",
+   "geographic location": "Fisherman's Wharf, San Francisco"
+  }
+ },
+ "556045d55b": {
+  "instruction": {
+   "type of food": "Ethiopian",
+   "ANSWER": "Injera",
+   "geographic location": "New York, NY"
+  }
+ },
+ "6007de1862": {
+  "instruction": {
+   "type of food": "poutine ",
+   "ANSWER": "Pommes Frites",
+   "geographic location": "New York, NY"
+  }
+ },
+ "9ef182668e": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=tuscan%20white%20bean%20soup%20with%20escarole&find_loc=Birmingham%2C%20AL&mapsize=375%2C667",
+    "text": "1. Bottega Italian Restaurant",
+    "html": "\r\n                            1.\r\n                        Bottega Italian Restaurant\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "Tuscan White Bean Soup with Escarole",
+   "ANSWER": "Bottega Italian Restaurant",
+   "geographic location": "Birmingham, AL"
+  }
+ },
+ "1e1f17e4c3": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[2]/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=soup&find_loc=Seattle%2C%20WA&mapsize=375%2C667",
+    "text": "2. Great NW Soup",
+    "html": "\r\n                            2.\r\n                        Great NW Soup\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "soup",
+   "geographic location": "Seattle"
+  }
+ },
+ "2af4a68a6a": {
+  "instruction": {
+   "type of food": "Greek",
+   "geographic location": "Baltimore"
+  }
+ },
+ "016867b251": {
+  "instruction": {
+   "type of food": "donut",
+   "ANSWER": "Dunkin Donuts",
+   "geographic location": "Michigan"
+  }
+ },
+ "d81f91adb2": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=sushi&find_loc=Tokyo%2C%20Japan&mapsize=375%2C667",
+    "text": "1. Sushi Dai",
+    "html": "\r\n                            1.\r\n                        Sushi Dai\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "sushi",
+   "geographic location": "Tokyo"
+  }
+ },
+ "40ea37d91b": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[2]/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=ribs&find_loc=Saint%20Louis%2C%20MO&mapsize=375%2C667",
+    "text": "2. Sugarfire Smoke House",
+    "html": "\r\n                            2.\r\n                        Sugarfire Smoke House\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "ribs",
+   "ANSWER": "Sugarfire Smoke House",
+   "geographic location": "Saint Louis, MO"
+  }
+ },
+ "952eedbf5d": {
+  "instruction": {
+   "type of food": "hamburger",
+   "ANSWER": "Shake Shack",
+   "geographic location": "Manhattan"
+  }
+ },
+ "b6ba3b1538": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[2]/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=seafood&find_loc=Liverpool%2C%20Merseyside%2C%20United%20Kingdom&mapsize=375%2C667",
+    "text": "2. Panoramic",
+    "html": "\r\n                            2.\r\n                        Panoramic\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "Seafood",
+   "ANSWER": "Lobster Pot",
+   "geographic location": "Liverpool"
+  }
+ },
+ "788f91cf8f": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[3]/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=breakfast&find_loc=Baltimore%2C%20MD&mapsize=375%2C667",
+    "text": "3. The Bun Shop",
+    "html": "\r\n                            3.\r\n                        The Bun Shop\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "breakfast",
+   "ANSWER": "miss shirley's cafe",
+   "geographic location": "baltimore, md"
+  }
+ },
+ "49ce96e567": {
+  "instruction": {
+   "type of food": "Cajun/Creole",
+   "geographic location": "New York, NY"
+  }
+ },
+ "db4220cd0e": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[2]/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=chicken%20wings&find_loc=Atlanta%2C%20GA&mapsize=375%2C667",
+    "text": "2. The Wing Bar",
+    "html": "\r\n                            2.\r\n                        The Wing Bar\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "Chicken Wings",
+   "ANSWER": "East Coast Wings & Grill",
+   "geographic location": "Atlanta"
+  }
+ },
+ "7a0a852c69": {
+  "instruction": {
+   "type of food": "Chinese Food",
+   "ANSWER": "Henry Hunan Restaurant",
+   "geographic location": "Noe Valley, San Francisco"
+  }
+ },
+ "6af0a5ff9f": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[2]/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=chinese%20restaurant&find_loc=San%20Francisco%2C%20CA&mapsize=375%2C667",
+    "text": "2. San Tung",
+    "html": "\r\n                            2.\r\n                        San Tung\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "Chinese Restaurant",
+   "ANSWER": "Boiling Hot Pot",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "067f994196": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=carribean%20restaurant&find_loc=Tampa%2C%20FL&mapsize=375%2C667",
+    "text": "1. Yah Mon",
+    "html": "\r\n                            1.\r\n                        Yah Mon\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "Caribbean",
+   "ANSWER": "Yah Mon",
+   "geographic location": "Tampa"
+  }
+ },
+ "8562a8d457": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[2]/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=chinese&find_loc=San%20Francisco%2C%20CA&mapsize=375%2C667",
+    "text": "2. San Tung",
+    "html": "\r\n                            2.\r\n                        San Tung\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "Chinese Restaurant",
+   "ANSWER": "M.Y. China",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "9889bd50a0": {
+  "instruction": {
+   "type of food": "chicken soup",
+   "ANSWER": "Yardie Spice",
+   "geographic location": "Florida City, FL"
+  }
+ },
+ "b61f8ee440": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=american&find_loc=New%20York%2C%20NY&mapsize=375%2C667",
+    "text": "1. The Smith",
+    "html": "\r\n                            1.\r\n                        The Smith\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "American food",
+   "ANSWER": "Jane",
+   "geographic location": "New York City"
+  }
+ },
+ "9b49a6c166": {
+  "instruction": {
+   "type of food": "Kebabs",
+   "ANSWER": "Istanbul Kebab House",
+   "geographic location": "Manhattan"
+  }
+ },
+ "d7c783b205": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Monica\u2019s Mercato",
+   "geographic location": "Boston, MA"
+  }
+ },
+ "9f785c7e9c": {
+  "instruction": {
+   "type of food": "Chinese ",
+   "ANSWER": "Wok In Wok Out",
+   "geographic location": "Colorado Springs, CO"
+  }
+ },
+ "8e7faf69a0": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a",
+    "url": "https://m.yelp.com/search?find_desc=dumplings&find_loc=New%20York%2C%20NY&mapsize=375%2C667",
+    "text": "1. Dim Sum Palace",
+    "html": "\r\n                            1.\r\n                        Dim Sum Palace\r\n                    "
+   }
+  ],
+  "instruction": {
+   "type of food": "dumpling",
+   "geographic location": "New York"
+  }
+ },
+ "b11f641971": {
+  "instruction": {
+   "type of food": "alcohol",
+   "ANSWER": "food & friends",
+   "geographic location": "philadelphia, pa"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/biz/frances-san-francisco?osq=best+dining+place+near+philly+that+serves+alchol",
+    "html": "Frances",
+    "text": "Frances",
+    "xpath": "//*[@id=\"wrap\"]/div[3]/div/section/div[3]/h1"
+   }
+  ]
+ },
+ "d414dff1be": {
+  "instruction": {
+   "type of food": "banana split",
+   "ANSWER": "Liks Ice Cream",
+   "geographic location": "Denver, CO"
+  }
+ },
+ "57db1a38a7": {
+  "instruction": {
+   "type of food": "Sandwiches",
+   "ANSWER": "Primanti Bros.",
+   "geographic location": "Pittsburgh, PA"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/biz/limoncello-san-francisco",
+    "html": "Limoncello",
+    "text": "Limoncello",
+    "xpath": "//*[@id=\"wrap\"]/div[3]/div/section/div[3]/h1"
+   }
+  ]
+ },
+ "1ed8ba6346": {
+  "instruction": {
+   "type of food": "Vegan",
+   "ANSWER": "Tofu Yu",
+   "geographic location": "Stonestown, San Francisco"
+  }
+ },
+ "b321996c5d": {
+  "instruction": {
+   "type of food": "seafood",
+   "ANSWER": "Nauti-Nancy\u2019s, Rumba Island Bar & Grill, Ristorante Acqua Alta",
+   "geographic location": "Clearwater, FL"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=seafood&find_loc=Clearwater%2C%20FL&mapsize=375%2C667",
+    "html": "\r\n                            3.\r\n                        Rumba Island Bar &amp; Grill\r\n                    ",
+    "text": "3. Rumba Island Bar & Grill",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[3]/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "53cae1db63": {
+  "instruction": {
+   "type of food": "(buffets)",
+   "geographic location": "Lake Charles, LA"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=buffet&find_loc=Lake%20Charles%2C%20LA&mapsize=375%2C667",
+    "html": "\r\n                            3.\r\n                        BBQ West\r\n                    ",
+    "text": "3. BBQ West",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[3]/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "36b4daec66": {
+  "instruction": {
+   "type of food": "Japanese",
+   "ANSWER": "Maruichi Japanese Food & Deli",
+   "geographic location": "West Hartford, CT"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=japanese&find_loc=West%20Hartford%2C%20CT&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        Maruichi Japanese Food &amp; Deli\r\n                    ",
+    "text": "1. Maruichi Japanese Food & Deli",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "f87f2d3f89": {
+  "instruction": {
+   "type of food": "burgers",
+   "ANSWER": "The Merry Monk",
+   "geographic location": "Saratoga, NY"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=burgers&find_loc=Saratoga%20Springs%2C%20NY&mapsize=375%2C667",
+    "html": "\r\n                            3.\r\n                        Comfort Kitchen\r\n                    ",
+    "text": "3. Comfort Kitchen",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[3]/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "db263d5a19": {
+  "instruction": {
+   "type of food": "Korean BBQ",
+   "ANSWER": "Grass Roots Cafe",
+   "geographic location": "Boston, MA"
+  }
+ },
+ "0a174ea203": {
+  "instruction": {
+   "type of food": "Orzo Salad with Spicy Buttermilk Dressing",
+   "ANSWER": "The Catch",
+   "geographic location": "Anaheim, CA"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=orzo%20salad%20with%20spicy%20buttermilk%20dressing&find_loc=Anaheim%2C%20CA&mapsize=375%2C667",
+    "html": "\r\n                            2.\r\n                        The Catch\r\n                    ",
+    "text": "2. The Catch",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[2]/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "b69df05b2e": {
+  "instruction": {
+   "type of food": "hamburgers",
+   "geographic location": "Little Rock, AR"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=hamburgers&find_loc=Little%20Rock%2C%20AR&mapsize=375%2C667",
+    "html": "\r\n                            4.\r\n                        The Root Cafe\r\n                    ",
+    "text": "4. The Root Cafe",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[4]/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "a9f03cb402": {
+  "instruction": {
+   "type of food": "ribs",
+   "ANSWER": "brookstreet bar-b-que",
+   "geographic location": "houston, tx"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=ribs&find_loc=Houston%2C%20TX&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        Brookstreet Bar-B-Que\r\n                    ",
+    "text": "1. Brookstreet Bar-B-Que",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "7f3f07e0e1": {
+  "instruction": {
+   "type of food": "Japanese Hibachi",
+   "geographic location": "Tulsa Zoo, Tulsa OK"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/biz/tokyo-garden-tulsa?osq=best+japanese+hibachi",
+    "html": "Tokyo Garden",
+    "text": "Tokyo Garden",
+    "xpath": "//*[@id=\"wrap\"]/div[3]/div/section/div[3]/h1"
+   }
+  ]
+ },
+ "aeb0102ce6": {
+  "instruction": {
+   "type of food": "(blackened catfish)",
+   "geographic location": "Baytown, TX"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=blackened%20catfish&find_loc=Baytown%2C%20TX&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        Pipeline Grill\r\n                    ",
+    "text": "1. Pipeline Grill",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "bd0d9e1472": {
+  "instruction": {
+   "type of food": "tacos",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "480aab0daf": {
+  "instruction": {
+   "type of food": "fried rice",
+   "ANSWER": "SO",
+   "geographic location": "San Francisco"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=fried%20rice&find_loc=San%20Francisco%2C%20CA%2C%20US&mapsize=375%2C667",
+    "html": "\r\n                            2.\r\n                        SO\r\n                    ",
+    "text": "2. SO",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[2]/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "d4fcf08acb": {
+  "instruction": {
+   "type of food": "BBQ ",
+   "ANSWER": "Central BBQ",
+   "geographic location": "Memphis, TN"
+  }
+ },
+ "8094e8de24": {
+  "instruction": {
+   "type of food": "Quinoa salad",
+   "ANSWER": "Chez Joel Bistro",
+   "geographic location": "Chicago, IL"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=quinoa%20salad&find_loc=Chicago%2C%20IL&mapsize=375%2C667",
+    "html": "\r\n                            10.\r\n                        Mana Food Bar\r\n                    ",
+    "text": "10. Mana Food Bar",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[10]/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "121be4ed88": {
+  "instruction": {
+   "type of food": "chesse cake",
+   "ANSWER": "Dangerously Delicious Pies",
+   "geographic location": "Washington D.C."
+  }
+ },
+ "b0f169cc71": {
+  "instruction": {
+   "type of food": "pizza",
+   "ANSWER": "Bacci Pizzeria, PR Italian Bistro, Pizzaiolo",
+   "geographic location": "Wrigleyville, Chicago, IL"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=pizza&find_loc=Wrigleyville%2C%20Chicago%2C%20IL&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        Pizzaiolo\r\n                    ",
+    "text": "1. Pizzaiolo",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "fcc9f3f13e": {
+  "instruction": {
+   "type of food": "Japanese",
+   "geographic location": "New Brighton, MN"
+  }
+ },
+ "d740050d95": {
+  "instruction": {
+   "type of food": "Thai Food",
+   "ANSWER": "Farmhouse Kitchen Thai Cuisine",
+   "geographic location": "Mission, San Francisco"
+  }
+ },
+ "f15b02d331": {
+  "instruction": {
+   "type of food": " American (New), Breakfast & Brunch, Seafood",
+   "ANSWER": "The Dock",
+   "geographic location": "2816 Lafayette Rd Newport Beach, CA 92663 Phone number (949) 673-3625"
+  }
+ },
+ "0ac8894d4e": {
+  "instruction": {
+   "type of food": "Italian food",
+   "geographic location": "Harrison, AR"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=italian%20food&find_loc=Harrison%2C%20AR&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        Roma Italian Restaurant\r\n                    ",
+    "text": "1. Roma Italian Restaurant",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "e11312b549": {
+  "instruction": {
+   "type of food": "nachos",
+   "ANSWER": "Campuzano Mexican Food",
+   "geographic location": "Dallas"
+  }
+ },
+ "29ee0c9d27": {
+  "instruction": {
+   "type of food": "tikka masala",
+   "ANSWER": "Tandoori Flames",
+   "geographic location": "Rockaway, NJ"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=tikka%20masala&find_loc=Rockaway%2C%20NJ&mapsize=375%2C667",
+    "html": "\r\n                            2.\r\n                        Indian Aroma\r\n                    ",
+    "text": "2. Indian Aroma",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[2]/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "424738c164": {
+  "instruction": {
+   "type of food": "American",
+   "ANSWER": "Mike & Patty\u2019s",
+   "geographic location": "Boston, MA"
+  }
+ },
+ "f9fde27de2": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": " Ad Totopo Mexican Kitchen and Bar",
+   "geographic location": "Pittsburgh, PA"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=mexican%20food&find_loc=Pittsburgh%2C%20PA&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        Bakersfield Penn Ave\r\n                    ",
+    "text": "1. Bakersfield Penn Ave",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "23256c35c8": {
+  "instruction": {
+   "type of food": "fajitas",
+   "ANSWER": "carriage house cafe",
+   "geographic location": "Ithaca, NY"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=fajitas&find_loc=Ithaca%2C%20NY&mapsize=375%2C667",
+    "html": "\r\n                            1.\r\n                        Viva Taqueria\r\n                    ",
+    "text": "1. Viva Taqueria",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "67c8203aa0": {
+  "instruction": {
+   "type of food": "tacos",
+   "ANSWER": "jimboy's tacos",
+   "geographic location": "anaheim, ca"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=Tacos&find_loc=Anaheim%2C%20CA&mapsize=375%2C667",
+    "html": "\r\n                            2.\r\n                        Spicy Taco\r\n                    ",
+    "text": "2. Spicy Taco",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[2]/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "96fea97e41": {
+  "instruction": {
+   "type of food": "(Cajun food)",
+   "geographic location": "New Orleans, LA"
+  },
+  "spans": [
+   {
+    "url": "https://m.yelp.com/search?find_desc=cajun%20food&find_loc=New%20Orleans%2C%20LA&mapsize=375%2C667",
+    "html": "\r\n                            4.\r\n                        Atchafalaya Restaurant\r\n                    ",
+    "text": "4. Atchafalaya Restaurant",
+    "xpath": "//*[@id=\"wrap\"]/div[2]/div[4]/div[2]/ol/li[4]/div/div[2]/h3/a"
+   }
+  ]
+ },
+ "93d1ad326f": {
+  "instruction": {
+   "type of food": "Sushi",
+   "ANSWER": "Kaysang Asian Foods & Sushi",
+   "geographic location": "Chicago"
+  }
+ },
+ "e0f686b81e": {
+  "instruction": {
+   "type of food": "Korean",
+   "ANSWER": "Crisp",
+   "geographic location": "Chicago, IL"
+  }
+ },
+ "4dec29cbb9": {
+  "instruction": {
+   "geographic location": "Branson, Mo",
+   "type of food": "tacos"
+  }
+ },
+ "d9ed8ab154": {
+  "instruction": {
+   "type of food": "Comfort Food",
+   "ANSWER": "Ralph\u2019s Chadwick Square Diner",
+   "geographic location": "Worcester, MA"
+  }
+ },
+ "5a59fb2522": {
+  "instruction": {
+   "type of food": "tacos",
+   "ANSWER": "El Farolito",
+   "geographic location": "San Francisco"
+  }
+ },
+ "f843d389e7": {
+  "instruction": {
+   "type of food": "Shave Ice",
+   "ANSWER": "Ululani\u2019s Hawaiian Shave Ice",
+   "geographic location": "Kahului, HI"
+  }
+ },
+ "740bd7b4d2": {
+  "instruction": {
+   "type of food": "Italian",
+   "geographic location": "Philadelphia, PA"
+  }
+ },
+ "5677254eb2": {
+  "instruction": {
+   "type of food": "Lobster",
+   "ANSWER": "Shannon\u2019s Unshelled",
+   "geographic location": "Boothbay Harbor, ME"
+  }
+ },
+ "5cb7caf375": {
+  "instruction": {
+   "type of food": "Indian",
+   "ANSWER": "Udipi Cafe",
+   "geographic location": "Pittsburgh, PA"
+  }
+ },
+ "618115514a": {
+  "instruction": {
+   "geographic location": "Pittsburgh, PA",
+   "type of food": "Italian",
+   "ANSWER": "Buca di Beppo Italian Restaurant"
+  }
+ },
+ "1c0af4914e": {
+  "instruction": {
+   "geographic location": "seattle, wa",
+   "type of food": "pasta",
+   "ANSWER": "II corvo pasta"
+  }
+ },
+ "1d18c0d8cd": {
+  "instruction": {
+   "geographic location": "Chicago, IL",
+   "type of food": "quesadilla",
+   "ANSWER": "Costa Vida"
+  }
+ },
+ "95f8422b16": {
+  "instruction": {
+   "type of food": " American (New), Wine Bars",
+   "ANSWER": "20 Spot",
+   "geographic location": "Mission 3565 20th St San Francisco, CA 94110 Phone number (415) 624-3140"
+  }
+ },
+ "df9f2097b9": {
+  "instruction": {
+   "geographic location": "Houston, TX",
+   "type of food": "(chicken and sausage gumbo)"
+  }
+ },
+ "fa352eefb7": {
+  "instruction": {
+   "type of food": "Tacos",
+   "ANSWER": "Taco Bell",
+   "geographic location": "Parkside, San Francisco"
+  }
+ },
+ "f50cdc8e83": {
+  "instruction": {
+   "type of food": "steak",
+   "ANSWER": "La Patagonia Argentina",
+   "geographic location": "Miami"
+  }
+ },
+ "68e3d365da": {
+  "instruction": {
+   "geographic location": "Henderson, NV",
+   "type of food": "Guacamole",
+   "ANSWER": "El Dorado Cantina"
+  }
+ },
+ "c361324c1d": {
+  "instruction": {
+   "geographic location": "Marshall, AR",
+   "type of food": "pizza"
+  }
+ },
+ "9560228de9": {
+  "instruction": {
+   "geographic location": "Lincoln, NE",
+   "type of food": "ramen",
+   "ANSWER": "Ginger"
+  }
+ },
+ "6bdd05337b": {
+  "instruction": {
+   "geographic location": "San Bernardino, CA",
+   "type of food": "Chinese food",
+   "ANSWER": "Guang Lin Cafe, Golden Dragon, Red Chilli"
+  }
+ },
+ "33280d6989": {
+  "instruction": {
+   "geographic location": "Paris",
+   "type of food": "tofu"
+  }
+ },
+ "0885c7d25b": {
+  "instruction": {
+   "geographic location": "Dallas, TX",
+   "type of food": "empanadas",
+   "ANSWER": "La Bodega's"
+  }
+ },
+ "ce0baaccc9": {
+  "instruction": {
+   "geographic location": "new york, ny",
+   "type of food": "coffee",
+   "ANSWER": "RISE coffee"
+  }
+ },
+ "2510534955": {
+  "instruction": {
+   "type of food": " Latin American, Sandwiches, Breakfast & Brunch",
+   "ANSWER": "Latin Deli",
+   "geographic location": "Lakewood 5844 Abrams Rd Dallas, TX 75214 Phone number (214) 363-5551"
+  }
+ },
+ "390e00b062": {
+  "instruction": {
+   "geographic location": "Port Arthur, TX",
+   "type of food": "(crawfish)"
+  }
+ },
+ "5cb5a5c69c": {
+  "instruction": {
+   "type of food": "Donuts",
+   "ANSWER": "Gibson\u2019s Donuts",
+   "geographic location": "Memphis, TN"
+  }
+ },
+ "0e13fe8f18": {
+  "instruction": {
+   "type of food": "American (New), Cocktail Bars",
+   "ANSWER": "Sonny\u2019s Hideaway",
+   "geographic location": "Highland Park 5137 York Blvd Los Angeles, CA 90042 Phone number (323) 255-2000"
+  }
+ },
+ "dd6b04e5f9": {
+  "instruction": {
+   "type of food": "Tacos",
+   "ANSWER": "El Farolito",
+   "geographic location": "San Francisco"
+  }
+ },
+ "6c84ef4435": {
+  "instruction": {
+   "geographic location": "San Francisco, CA",
+   "type of food": "Vietnamese food",
+   "ANSWER": "Laksa,  Chicken\u2019licious Noodle, Khai"
+  }
+ },
+ "7eaf379d38": {
+  "instruction": {
+   "type of food": "spaghetti",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "56f59d68da": {
+  "instruction": {
+   "type of food": "Indian Food",
+   "geographic location": "Boston"
+  }
+ },
+ "e048c89289": {
+  "instruction": {
+   "type of food": "Spanish, Seafood, Wine Bars",
+   "ANSWER": "\u00e9 by Jos\u00e9 Andr\u00e9s",
+   "geographic location": "The Strip 3708 Las Vegas Blvd S Las Vegas, NV 89109"
+  }
+ },
+ "fad2879082": {
+  "instruction": {
+   "geographic location": "Scottsdale, AZ",
+   "type of food": "Burritos",
+   "ANSWER": "Mucha Lucha Taco Shop"
+  }
+ },
+ "62f38d7287": {
+  "instruction": {
+   "geographic location": "Saint Paul, MN",
+   "type of food": "Grilled Cheese Sandwich",
+   "ANSWER": "Ward 6 Food & Drink"
+  }
+ },
+ "b8275d52c2": {
+  "instruction": {
+   "geographic location": "San Francisco, CA",
+   "type of food": "Dim Sum Restaurant",
+   "ANSWER": "R&G Lounge"
+  }
+ },
+ "73109579ec": {
+  "instruction": {
+   "geographic location": "Albany",
+   "type of food": "Spanish",
+   "ANSWER": "Casa Dominicana"
+  }
+ },
+ "1020868d89": {
+  "instruction": {
+   "type of food": "Vegetarian",
+   "ANSWER": "Farm Fresh Underground",
+   "geographic location": "Parkmerced, San Francisco"
+  }
+ },
+ "82ed00d942": {
+  "instruction": {
+   "geographic location": "Hackensack",
+   "type of food": "ice cream",
+   "ANSWER": "Ice Cream by Mike"
+  }
+ },
+ "1271fcce7e": {
+  "instruction": {
+   "geographic location": "Newark",
+   "type of food": "BBQ",
+   "ANSWER": "McWhorter Barbecue"
+  }
+ },
+ "dade342ca7": {
+  "instruction": {
+   "geographic location": "Walnut Creek, CA",
+   "type of food": "American",
+   "ANSWER": "Jack's Urban Eats"
+  }
+ },
+ "f30c613866": {
+  "instruction": {
+   "type of food": "Pina Colada",
+   "ANSWER": "Mahalo",
+   "geographic location": "Chicago, IL"
+  }
+ },
+ "35c81bad99": {
+  "instruction": {
+   "type of food": "Vietnamese",
+   "ANSWER": "Pho So 1",
+   "geographic location": "Richmond, VA"
+  }
+ },
+ "a707b2620d": {
+  "instruction": {
+   "geographic location": "philadelphia, pa",
+   "type of food": "pizza",
+   "ANSWER": "four sons pizzeria & cafe"
+  }
+ },
+ "4bf28e5db7": {
+  "instruction": {
+   "geographic location": "Bergen County",
+   "type of food": "Chinese food",
+   "ANSWER": "Chaan Teng"
+  }
+ },
+ "1cc537f7d7": {
+  "instruction": {
+   "type of food": "burgers",
+   "geographic location": "Washington, DC"
+  }
+ },
+ "6f230dd026": {
+  "instruction": {
+   "type of food": "seafood",
+   "geographic location": "Los Angeles, CA"
+  }
+ }
+}

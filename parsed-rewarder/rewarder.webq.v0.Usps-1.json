@@ -1,0 +1,62 @@
+{
+ "bacacc3c09": {
+  "instruction": {
+   "Origin": "Denver, CO",
+   "Destination": "Fairbanks, AK"
+  }
+ },
+ "0413525580": {
+  "instruction": {
+   "Origin": "Kansas City, MO",
+   "Destination": "Washington, DC"
+  }
+ },
+ "645be602fc": {
+  "instruction": {
+   "Origin": "Knoxville, TN",
+   "Destination": "06101"
+  }
+ },
+ "cd4f27aa99": {
+  "instruction": {
+   "Origin": "84322",
+   "Destination": "Chicago, IL"
+  }
+ },
+ "b5eec269a8": {
+  "instruction": {
+   "Origin": "99501",
+   "Destination": "20018"
+  }
+ },
+ "9abf42d27e": {
+  "instruction": {
+   "Origin": "Miami, FL",
+   "Destination": "Wichita, KS"
+  }
+ },
+ "531e01ab38": {
+  "instruction": {
+   "Origin": "05751",
+   "Destination": "Atlanta, GA"
+  }
+ },
+ "4ff880cbd2": {
+  "instruction": {
+   "Origin": "Detroit, MI",
+   "Destination": "49036"
+  }
+ },
+ "fb89bd0b0b": {
+  "instruction": {
+   "Origin": "35801",
+   "Destination": "22508"
+  }
+ },
+ "df4987bf06": {
+  "instruction": {
+   "Origin": "90210",
+   "Destination": "96807"
+  }
+ }
+}

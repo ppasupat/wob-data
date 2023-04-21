@@ -1,0 +1,1095 @@
+{
+ "8cd83e35df": {
+  "instruction": {
+   "loan amount": "40000",
+   "home value": "165000",
+   "ANSWER": "4.44"
+  }
+ },
+ "0d01887527": {
+  "instruction": {
+   "home value": "$100,000",
+   "loan amount": "$10,000",
+   "ANSWER": "5.59%"
+  }
+ },
+ "93d12db0ce": {
+  "instruction": {
+   "loan amount": "20000",
+   "home value": "250000",
+   "ANSWER": "5.59"
+  }
+ },
+ "8521f8327c": {
+  "instruction": {
+   "home value": "$100,000",
+   "loan amount": "$80,000",
+   "ANSWER": "4.49%"
+  }
+ },
+ "fb3ebce715": {
+  "instruction": {
+   "loan amount": "25000",
+   "home value": "250000",
+   "ANSWER": "4.44"
+  }
+ },
+ "8c6043b7ba": {
+  "instruction": {
+   "loan amount": "$60,000",
+   "home value": "$150,000"
+  }
+ },
+ "f461202586": {
+  "instruction": {
+   "home value": "800000",
+   "loan amount": "400000",
+   "ANSWER": "3.99"
+  }
+ },
+ "cd2dfea826": {
+  "instruction": {
+   "loan amount": "50000",
+   "home value": "300000",
+   "ANSWER": "4.19"
+  }
+ },
+ "b213fe7ac4": {
+  "instruction": {
+   "loan amount": "$50,000",
+   "home value": "$200,000"
+  }
+ },
+ "c4d81335b9": {
+  "instruction": {
+   "home value": "$150,000",
+   "loan amount": "$50,000"
+  }
+ },
+ "b76c3828a3": {
+  "instruction": {
+   "home value": "200000",
+   "loan amount": "55,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "d5ce27dcdf": {
+  "instruction": {
+   "home value": "100,000",
+   "loan amount": "60,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "aba958264d": {
+  "instruction": {
+   "loan amount": "60,000",
+   "home value": "150000",
+   "ANSWER": "4.19"
+  }
+ },
+ "18a86a15bd": {
+  "instruction": {
+   "loan amount": "$80,000",
+   "home value": "$150,000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "4b3485bfa5": {
+  "instruction": {
+   "home value": "100,000",
+   "loan amount": "50,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "c7f4d7b1a4": {
+  "instruction": {
+   "loan amount": "80,000",
+   "home value": "150,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "57d4880ca8": {
+  "instruction": {
+   "loan amount": "85000",
+   "home value": "200000",
+   "ANSWER": "4.19"
+  }
+ },
+ "e3bb94fe2d": {
+  "instruction": {
+   "home value": "1800000",
+   "loan amount": "1000000",
+   "ANSWER": "3.99"
+  }
+ },
+ "b371d8dbab": {
+  "instruction": {
+   "loan amount": "70,000",
+   "home value": "100,000",
+   "ANSWER": "4.29"
+  }
+ },
+ "fc296f9d89": {
+  "instruction": {
+   "loan amount": "$20,000",
+   "home value": "$350,000",
+   "ANSWER": "5.59%"
+  }
+ },
+ "fb8d3b122c": {
+  "instruction": {
+   "loan amount": "65,000",
+   "home value": "190000",
+   "ANSWER": "4.19"
+  }
+ },
+ "4106abf103": {
+  "instruction": {
+   "home value": "150,000",
+   "loan amount": "100,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "e0f5375ed6": {
+  "instruction": {
+   "loan amount": "900000",
+   "home value": "1000000",
+   "ANSWER": "4.79"
+  }
+ },
+ "b3c1f89ee4": {
+  "instruction": {
+   "loan amount": "125000",
+   "home value": "1350000",
+   "ANSWER": "3.89"
+  }
+ },
+ "a5b9143d04": {
+  "instruction": {
+   "loan amount": "90000",
+   "home value": "150000",
+   "ANSWER": "4.19"
+  }
+ },
+ "c38c2443c6": {
+  "instruction": {
+   "home value": "200000",
+   "loan amount": "50000",
+   "ANSWER": "4.19"
+  }
+ },
+ "76468b83bf": {
+  "instruction": {
+   "home value": "100,000",
+   "loan amount": "75,000",
+   "ANSWER": "4.49"
+  }
+ },
+ "db75422781": {
+  "instruction": {
+   "loan amount": "55,000",
+   "home value": "200000",
+   "ANSWER": "4.19"
+  }
+ },
+ "17ac55de4d": {
+  "instruction": {
+   "loan amount": "$70,000",
+   "home value": "$150,000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "18c269292a": {
+  "instruction": {
+   "loan amount": "$50,000",
+   "home value": "$250,000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "59134c8c50": {
+  "instruction": {
+   "loan amount": "50,000",
+   "home value": "100,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "9089ba2aec": {
+  "instruction": {
+   "loan amount": "$55,000",
+   "home value": "$100,000"
+  }
+ },
+ "2816dfdb6c": {
+  "instruction": {
+   "loan amount": "15000",
+   "home value": "100000",
+   "ANSWER": "5.59"
+  }
+ },
+ "14307cf3cd": {
+  "instruction": {
+   "home value": "150000",
+   "loan amount": "60,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "4f0397ed84": {
+  "instruction": {
+   "loan amount": "$250,000",
+   "home value": "$600,000",
+   "ANSWER": "4.09%"
+  }
+ },
+ "8a96c1123f": {
+  "instruction": {
+   "home value": "$200,000",
+   "loan amount": "$30,000",
+   "ANSWER": "4.44%"
+  }
+ },
+ "11f3381d9d": {
+  "instruction": {
+   "loan amount": "900000",
+   "home value": "1500000",
+   "ANSWER": "3.99"
+  }
+ },
+ "c9ba6af273": {
+  "instruction": {
+   "home value": "150,000",
+   "loan amount": "80,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "a95b866301": {
+  "instruction": {
+   "home value": "100000",
+   "loan amount": "40,000",
+   "ANSWER": "4.44%"
+  }
+ },
+ "09bcc3e2b2": {
+  "instruction": {
+   "home value": "200,000",
+   "loan amount": "135,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "88faff9643": {
+  "instruction": {
+   "loan amount": "$100,000",
+   "home value": "$300,000",
+   "ANSWER": "4.09%"
+  }
+ },
+ "c564e41013": {
+  "instruction": {
+   "home value": "1000000",
+   "loan amount": "700000",
+   "ANSWER": "4.09"
+  }
+ },
+ "5726f9a729": {
+  "instruction": {
+   "loan amount": "135,000",
+   "home value": "200,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "5299028dc6": {
+  "instruction": {
+   "loan amount": "55,000",
+   "home value": "100,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "03675ef3be": {
+  "instruction": {
+   "home value": "$100,000",
+   "loan amount": "$50,000"
+  }
+ },
+ "74aff58180": {
+  "instruction": {
+   "loan amount": "$800,000",
+   "home value": "$996,000",
+   "ANSWER": "4.79%"
+  }
+ },
+ "d0a2189ef5": {
+  "instruction": {
+   "home value": "$150,000",
+   "loan amount": "$55,000"
+  }
+ },
+ "1869b3609b": {
+  "instruction": {
+   "loan amount": "75,000",
+   "home value": "100,000",
+   "ANSWER": "4.49"
+  }
+ },
+ "8e3ec201cf": {
+  "instruction": {
+   "home value": "$520,000",
+   "loan amount": "$210,000",
+   "ANSWER": "4.09%"
+  }
+ },
+ "1675ff7571": {
+  "instruction": {
+   "loan amount": "50,000",
+   "home value": "170000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "eab3ef9731": {
+  "instruction": {
+   "loan amount": "$556,000",
+   "home value": "$700,000",
+   "ANSWER": "4.29%"
+  }
+ },
+ "6c17cc11b0": {
+  "instruction": {
+   "loan amount": "90000",
+   "home value": "100000",
+   "ANSWER": "4.99%"
+  }
+ },
+ "a27726a70e": {
+  "instruction": {
+   "loan amount": "155,000",
+   "home value": "200,000",
+   "ANSWER": "4.39"
+  }
+ },
+ "654b8c3eaa": {
+  "instruction": {
+   "home value": "$250,000",
+   "loan amount": "$10,000"
+  }
+ },
+ "feb08f7fbe": {
+  "instruction": {
+   "loan amount": "85000",
+   "home value": "100000",
+   "ANSWER": "4.99%"
+  }
+ },
+ "82884e73d1": {
+  "instruction": {
+   "loan amount": "$50,000",
+   "home value": "$150,000"
+  }
+ },
+ "5c8f5b137b": {
+  "instruction": {
+   "loan amount": "$650,000",
+   "home value": "$840,000",
+   "ANSWER": "4.29%"
+  }
+ },
+ "ccb4de0eb4": {
+  "instruction": {
+   "home value": "$200,000",
+   "loan amount": "$50,000"
+  }
+ },
+ "22a0fcd036": {
+  "instruction": {
+   "loan amount": "$50,000",
+   "home value": "$100,000"
+  }
+ },
+ "9c19d3d224": {
+  "instruction": {
+   "loan amount": "$30,000",
+   "home value": "$200,000",
+   "ANSWER": "4.44%"
+  }
+ },
+ "1b60586ee0": {
+  "instruction": {
+   "loan amount": "50000",
+   "home value": "175000",
+   "ANSWER": "4.14"
+  }
+ },
+ "54935a8b45": {
+  "instruction": {
+   "loan amount": "$90,000",
+   "home value": "$250,000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "e0f3115b03": {
+  "instruction": {
+   "loan amount": "180000",
+   "home value": "200000",
+   "ANSWER": "4.89"
+  }
+ },
+ "730ce98c0e": {
+  "instruction": {
+   "loan amount": "80000",
+   "home value": "125000",
+   "ANSWER": "4.29%"
+  }
+ },
+ "02dbe0abe5": {
+  "instruction": {
+   "home value": "100,000",
+   "loan amount": "55,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "fd3d888d68": {
+  "instruction": {
+   "home value": "100000",
+   "loan amount": "10000",
+   "ANSWER": "5.59"
+  }
+ },
+ "71233f5e66": {
+  "instruction": {
+   "loan amount": "70000",
+   "home value": "120000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "68370b8fe4": {
+  "instruction": {
+   "loan amount": "10000",
+   "home value": "150000",
+   "ANSWER": "5.64%"
+  }
+ },
+ "af20ee5f78": {
+  "instruction": {
+   "loan amount": "$50,000",
+   "home value": "$200,000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "4300324227": {
+  "instruction": {
+   "loan amount": "65,000",
+   "home value": "125000",
+   "ANSWER": "4.19"
+  }
+ },
+ "22a50f3615": {
+  "instruction": {
+   "loan amount": "125000",
+   "home value": "350000",
+   "ANSWER": "3.89"
+  }
+ },
+ "b56335edd4": {
+  "instruction": {
+   "loan amount": "50000",
+   "home value": "125000",
+   "ANSWER": "4.19"
+  }
+ },
+ "9f1be2c881": {
+  "instruction": {
+   "loan amount": "15000",
+   "home value": "175000",
+   "ANSWER": "4.14%"
+  }
+ },
+ "c86f7ad530": {
+  "instruction": {
+   "loan amount": "$25,000",
+   "home value": "$100,000",
+   "ANSWER": "4.29%"
+  }
+ },
+ "f3924e1183": {
+  "instruction": {
+   "loan amount": "60,000",
+   "home value": "175000",
+   "ANSWER": "4.19"
+  }
+ },
+ "43bf9d1804": {
+  "instruction": {
+   "loan amount": "15000",
+   "home value": "285000",
+   "ANSWER": "5.64%"
+  }
+ },
+ "caf0458032": {
+  "instruction": {
+   "loan amount": "$55,000",
+   "home value": "$150,000"
+  }
+ },
+ "9d726c9e9b": {
+  "instruction": {
+   "loan amount": "$60,000",
+   "home value": "$100,000"
+  }
+ },
+ "1fb0a8ee9b": {
+  "instruction": {
+   "home value": "900000",
+   "loan amount": "600000",
+   "ANSWER": "4.09"
+  }
+ },
+ "851a11ca22": {
+  "instruction": {
+   "loan amount": "45,000",
+   "home value": "200000",
+   "ANSWER": "4.44"
+  }
+ },
+ "03ef593de0": {
+  "instruction": {
+   "loan amount": "$55,000",
+   "home value": "$150,000",
+   "ANSWER": "3.79%"
+  }
+ },
+ "e63a64dfb0": {
+  "instruction": {
+   "home value": "190000",
+   "loan amount": "65,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "30e332e4c6": {
+  "instruction": {
+   "loan amount": "$10,000",
+   "home value": "$100,000",
+   "ANSWER": "5.59%"
+  }
+ },
+ "ab045d149b": {
+  "instruction": {
+   "loan amount": "$75,000",
+   "home value": "$150,000",
+   "ANSWER": "3.79%"
+  }
+ },
+ "c71ccac6ad": {
+  "instruction": {
+   "loan amount": "100000",
+   "home value": "150000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "8ce8c9fa82": {
+  "instruction": {
+   "loan amount": "$95,000",
+   "home value": "$150,000",
+   "ANSWER": "3.84%"
+  }
+ },
+ "37a5029a65": {
+  "instruction": {
+   "loan amount": "90000",
+   "home value": "175000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "96b0155890": {
+  "instruction": {
+   "loan amount": "25000",
+   "home value": "200000",
+   "ANSWER": "5.64%"
+  }
+ },
+ "db78c65901": {
+  "instruction": {
+   "loan amount": "$70,000",
+   "home value": "$250,000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "148268bd39": {
+  "instruction": {
+   "loan amount": "700000",
+   "home value": "1000000",
+   "ANSWER": "4.09"
+  }
+ },
+ "773bf97087": {
+  "instruction": {
+   "loan amount": "75000",
+   "home value": "175000",
+   "ANSWER": "4.14"
+  }
+ },
+ "64c431ad44": {
+  "instruction": {
+   "loan amount": "90000",
+   "home value": "150000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "2432576cae": {
+  "instruction": {
+   "home value": "200000",
+   "loan amount": "20000",
+   "ANSWER": "5.59"
+  }
+ },
+ "097a1f9087": {
+  "instruction": {
+   "loan amount": "15000",
+   "home value": "150000",
+   "ANSWER": "5.64%"
+  }
+ },
+ "726dbff643": {
+  "instruction": {
+   "loan amount": "25000",
+   "home value": "400000",
+   "ANSWER": "5.64%"
+  }
+ },
+ "44f0975cc8": {
+  "instruction": {
+   "home value": "$200,000",
+   "loan amount": "$55,000"
+  }
+ },
+ "58001c3148": {
+  "instruction": {
+   "loan amount": "40,000",
+   "home value": "100000",
+   "ANSWER": "4.44%"
+  }
+ },
+ "dfe535d5f7": {
+  "instruction": {
+   "home value": "$350,000",
+   "loan amount": "$20,000",
+   "ANSWER": "5.59%"
+  }
+ },
+ "8c4c0a388a": {
+  "instruction": {
+   "loan amount": "20000",
+   "home value": "200000",
+   "ANSWER": "5.59"
+  }
+ },
+ "8ae560b2ed": {
+  "instruction": {
+   "loan amount": "86000",
+   "home value": "285000",
+   "ANSWER": "4.14"
+  }
+ },
+ "c654f7915f": {
+  "instruction": {
+   "home value": "$100,000",
+   "loan amount": "$55,000"
+  }
+ },
+ "40e9c73320": {
+  "instruction": {
+   "home value": "$700,000",
+   "loan amount": "$556,000",
+   "ANSWER": "4.29%"
+  }
+ },
+ "3e04340c2a": {
+  "instruction": {
+   "loan amount": "50000",
+   "home value": "200000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "15ebd3ee22": {
+  "instruction": {
+   "loan amount": "50000",
+   "home value": "200000",
+   "ANSWER": "4.19"
+  }
+ },
+ "4798b52e0d": {
+  "instruction": {
+   "home value": "$200,000",
+   "loan amount": "$60,000"
+  }
+ },
+ "49024792a0": {
+  "instruction": {
+   "home value": "$100,000",
+   "loan amount": "$60,000"
+  }
+ },
+ "d75c0ae8ff": {
+  "instruction": {
+   "loan amount": "$35,000",
+   "home value": "$100,000",
+   "ANSWER": "4.39%"
+  }
+ },
+ "3735f29692": {
+  "instruction": {
+   "home value": "$840,000",
+   "loan amount": "$650,000",
+   "ANSWER": "4.29%"
+  }
+ },
+ "b092aec2b7": {
+  "instruction": {
+   "home value": "200,000",
+   "loan amount": "155,000",
+   "ANSWER": "4.39"
+  }
+ },
+ "f96667647f": {
+  "instruction": {
+   "loan amount": "400000",
+   "home value": "800000",
+   "ANSWER": "3.99"
+  }
+ },
+ "9fd993d261": {
+  "instruction": {
+   "loan amount": "10000",
+   "home value": "100000",
+   "ANSWER": "5.59"
+  }
+ },
+ "3097ffa078": {
+  "instruction": {
+   "home value": "150,000",
+   "loan amount": "90,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "1416c5d85e": {
+  "instruction": {
+   "loan amount": "90,000",
+   "home value": "150,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "318bd11faf": {
+  "instruction": {
+   "loan amount": "$210,000",
+   "home value": "$520,000",
+   "ANSWER": "4.09%"
+  }
+ },
+ "de703bc4fe": {
+  "instruction": {
+   "loan amount": "19000",
+   "home value": "200000",
+   "ANSWER": "5.59"
+  }
+ },
+ "206611f4f8": {
+  "instruction": {
+   "home value": "1000000",
+   "loan amount": "900000",
+   "ANSWER": "4.79"
+  }
+ },
+ "912cd3fef2": {
+  "instruction": {
+   "home value": "200000",
+   "loan amount": "45,000",
+   "ANSWER": "4.44"
+  }
+ },
+ "5c07420b66": {
+  "instruction": {
+   "loan amount": "$50,000",
+   "home value": "$156,000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "325874221a": {
+  "instruction": {
+   "home value": "$150,000",
+   "loan amount": "$60,000"
+  }
+ },
+ "447648ea04": {
+  "instruction": {
+   "home value": "$156,000",
+   "loan amount": "$50,000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "bbcadba350": {
+  "instruction": {
+   "home value": "175000",
+   "loan amount": "60,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "2a48a051e3": {
+  "instruction": {
+   "home value": "$600,000",
+   "loan amount": "$250,000",
+   "ANSWER": "4.09%"
+  }
+ },
+ "ce0b5632f9": {
+  "instruction": {
+   "loan amount": "25000",
+   "home value": "260000",
+   "ANSWER": "4.49%"
+  }
+ },
+ "7dde1668ce": {
+  "instruction": {
+   "home value": "100,000",
+   "loan amount": "70,000",
+   "ANSWER": "4.29"
+  }
+ },
+ "d68e163385": {
+  "instruction": {
+   "loan amount": "$100,000",
+   "home value": "$250,000",
+   "ANSWER": "4.09%"
+  }
+ },
+ "02d7d490a7": {
+  "instruction": {
+   "home value": "1500000",
+   "loan amount": "900000",
+   "ANSWER": "3.99"
+  }
+ },
+ "3b6d0c22cf": {
+  "instruction": {
+   "loan amount": "$45,000",
+   "home value": "$100,000",
+   "ANSWER": "4.39%"
+  }
+ },
+ "3b4a1927fa": {
+  "instruction": {
+   "loan amount": "50000",
+   "home value": "850000",
+   "ANSWER": "4.14%"
+  }
+ },
+ "e8123be538": {
+  "instruction": {
+   "home value": "$996,000",
+   "loan amount": "$800,000",
+   "ANSWER": "4.79%"
+  }
+ },
+ "312602054b": {
+  "instruction": {
+   "loan amount": "100,000",
+   "home value": "150,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "d52f56b234": {
+  "instruction": {
+   "home value": "150000",
+   "loan amount": "55,000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "99c37ab723": {
+  "instruction": {
+   "loan amount": "45000",
+   "home value": "125000",
+   "ANSWER": "4.49"
+  }
+ },
+ "827a309c94": {
+  "instruction": {
+   "loan amount": "1000000",
+   "home value": "1800000",
+   "ANSWER": "3.99"
+  }
+ },
+ "f1f328b291": {
+  "instruction": {
+   "loan amount": "50,000",
+   "home value": "210000",
+   "ANSWER": "4.19"
+  }
+ },
+ "6c8d7f9f78": {
+  "instruction": {
+   "loan amount": "$10,000",
+   "home value": "$250,000"
+  }
+ },
+ "5cf4d5baaa": {
+  "instruction": {
+   "loan amount": "100000",
+   "home value": "322000",
+   "ANSWER": "3.89"
+  }
+ },
+ "5dc36b20ed": {
+  "instruction": {
+   "loan amount": "600000",
+   "home value": "900000",
+   "ANSWER": "4.09"
+  }
+ },
+ "27a484ca52": {
+  "instruction": {
+   "home value": "125000",
+   "loan amount": "65,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "931110606c": {
+  "instruction": {
+   "loan amount": "70000",
+   "home value": "275000",
+   "ANSWER": "4.14"
+  }
+ },
+ "a2a9596397": {
+  "instruction": {
+   "loan amount": "$60,000",
+   "home value": "$200,000"
+  }
+ },
+ "4d590009a0": {
+  "instruction": {
+   "loan amount": "40000",
+   "home value": "125000",
+   "ANSWER": "4.44"
+  }
+ },
+ "28dcc2fc59": {
+  "instruction": {
+   "home value": "170000",
+   "loan amount": "50,000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "68c3e2a421": {
+  "instruction": {
+   "loan amount": "$80,000",
+   "home value": "$100,000",
+   "ANSWER": "4.49%"
+  }
+ },
+ "baa91fa9f4": {
+  "instruction": {
+   "loan amount": "30000",
+   "home value": "350000",
+   "ANSWER": "4.14%"
+  }
+ },
+ "2dffb5a41c": {
+  "instruction": {
+   "loan amount": "10000",
+   "home value": "125000",
+   "ANSWER": "5.64"
+  }
+ },
+ "e432324ce5": {
+  "instruction": {
+   "loan amount": "$90,000",
+   "home value": "$350,000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "14116234cd": {
+  "instruction": {
+   "loan amount": "$55,000",
+   "home value": "$200,000"
+  }
+ },
+ "130e337ab3": {
+  "instruction": {
+   "loan amount": "60000",
+   "home value": "175000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "0590e9aea7": {
+  "instruction": {
+   "loan amount": "$25,000",
+   "home value": "$150,000",
+   "ANSWER": "4.39%"
+  }
+ },
+ "42b9b3267f": {
+  "instruction": {
+   "loan amount": "125000",
+   "home value": "2500000",
+   "ANSWER": "3.89"
+  }
+ },
+ "4aef1df03e": {
+  "instruction": {
+   "loan amount": "60,000",
+   "home value": "100,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "102aa9925c": {
+  "instruction": {
+   "loan amount": "55,000",
+   "home value": "150000",
+   "ANSWER": "4.19%"
+  }
+ },
+ "976141ddd6": {
+  "instruction": {
+   "loan amount": "$50,000",
+   "home value": "$100,000",
+   "ANSWER": "3.79%"
+  }
+ },
+ "4cf75b9d8b": {
+  "instruction": {
+   "loan amount": "$35,000",
+   "home value": "$150,000",
+   "ANSWER": "4.29%"
+  }
+ },
+ "557a1e4806": {
+  "instruction": {
+   "home value": "300000",
+   "loan amount": "50000",
+   "ANSWER": "4.19"
+  }
+ },
+ "b5303c9a46": {
+  "instruction": {
+   "home value": "210000",
+   "loan amount": "50,000",
+   "ANSWER": "4.19"
+  }
+ },
+ "734e50f84d": {
+  "instruction": {
+   "loan amount": "$60,000",
+   "home value": "$100,000",
+   "ANSWER": "3.89%"
+  }
+ },
+ "1352b68bfe": {
+  "instruction": {
+   "loan amount": "90000",
+   "home value": "125000",
+   "ANSWER": "4.49%"
+  }
+ },
+ "c83b7fbfd0": {
+  "instruction": {
+   "loan amount": "85000",
+   "home value": "120000",
+   "ANSWER": "4.49%"
+  }
+ }
+}

@@ -1,0 +1,2052 @@
+{
+ "aacca0834d": {
+  "instruction": {
+   "start date": "03/08/2017",
+   "geographic location": "Dallas, TX",
+   "end date": "03/13/2017",
+   "number of rooms": "3",
+   "number of guests": "6",
+   "ANSWER": "Dallas Marriott City Center"
+  }
+ },
+ "f59435ab46": {
+  "instruction": {
+   "start date": "05/13/2017",
+   "geographic location": "PARIS FRANCE",
+   "end date": "05/20/2017",
+   "number of rooms": "3",
+   "number of guests": "6",
+   "ANSWER": "Marriott's Village d'lle-de-France"
+  }
+ },
+ "135955b8e3": {
+  "instruction": {
+   "start date": "3/12/2017",
+   "geographic location": "Atlanta, Ga",
+   "end date": "3/13/2017",
+   "number of rooms": "15",
+   "number of guests": "15",
+   "ANSWER": "Glenn Hotel, Autograph Collection"
+  }
+ },
+ "bd4d895fa1": {
+  "instruction": {
+   "end date": "03/24/2017",
+   "ANSWER": "Fairfield Inn & Suites Oklahoma City Airport",
+   "geographic location": "Oklahoma City, OK",
+   "start date": "03/20/2017",
+   "number of rooms": "2",
+   "number of guests": "2"
+  }
+ },
+ "73c474a442": {
+  "instruction": {
+   "end date": "02/23/2017",
+   "geographic location": "Baltimore ",
+   "start date": "02/22/2017",
+   "number of guests": "1",
+   "number of rooms": "1"
+  }
+ },
+ "a17bdf9641": {
+  "instruction": {
+   "end date": "12/20/2017",
+   "ANSWER": "SpringHill Suites Old Montreal",
+   "geographic location": "Montreal, Canada",
+   "start date": "12/12/2017",
+   "number of rooms": "1",
+   "number of guests": "3"
+  }
+ },
+ "75390cd913": {
+  "instruction": {
+   "start date": "05/13/2017",
+   "geographic location": "San Francisco",
+   "end date": "05/15/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "ANSWER": "Courtyard San Francisco Union Square"
+  }
+ },
+ "ea6606bd02": {
+  "instruction": {
+   "end date": "02/28/2017",
+   "ANSWER": "SpringHill Suites Columbus Airport Gahanna",
+   "geographic location": "Columbus, OH",
+   "start date": "02/23/2017",
+   "number of rooms": "3",
+   "number of guests": "8"
+  }
+ },
+ "83334c088e": {
+  "instruction": {
+   "end date": "05/30/2017",
+   "geographic location": "New York, NY",
+   "start date": "05/18/2017",
+   "number of guests": "9",
+   "number of rooms": "3"
+  }
+ },
+ "3a8591e9fa": {
+  "instruction": {
+   "end date": "3/03/2017",
+   "ANSWER": "Renaissance Charleston Historic District Hotel",
+   "geographic location": "Charleston, SC",
+   "start date": "3/02/2017",
+   "number of rooms": "14",
+   "number of guests": "14"
+  }
+ },
+ "b13478c113": {
+  "instruction": {
+   "start date": "08/09/2017",
+   "end date": "08/15/2017",
+   "geographic location": "Singapore",
+   "number of guests": "4",
+   "number of rooms": "2"
+  }
+ },
+ "37b27862fb": {
+  "instruction": {
+   "start date": "04/15/2017",
+   "end date": "04/27/2017",
+   "geographic location": "Columbus, OH ",
+   "number of guests": "6",
+   "number of rooms": "2"
+  }
+ },
+ "1bc71cd0c7": {
+  "instruction": {
+   "end date": "3/07/2017",
+   "ANSWER": "Courtyard Roanoke Airport",
+   "geographic location": "Roanoke, Va",
+   "start date": "3/06/2017",
+   "number of rooms": "15",
+   "number of guests": "15"
+  }
+ },
+ "22a02ecf21": {
+  "instruction": {
+   "end date": "03/07/2017",
+   "ANSWER": "SpringHill Suites Old Montreal",
+   "geographic location": "Montreal",
+   "start date": "03/05/2017",
+   "number of rooms": "2",
+   "number of guests": "2"
+  }
+ },
+ "53966858d4": {
+  "instruction": {
+   "end date": "07/28/2017",
+   "geographic location": "Birmingham, AL",
+   "start date": "07/21/2017",
+   "number of guests": "8",
+   "number of rooms": "4"
+  }
+ },
+ "6dc6c34e24": {
+  "instruction": {
+   "start date": "02/22/2017",
+   "geographic location": "Washington DC",
+   "end date": "02/26/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Residence Inn Washington, DC/Capitol"
+  }
+ },
+ "f0049bfe4e": {
+  "instruction": {
+   "end date": "03/19/2017",
+   "geographic location": "Anaheim",
+   "start date": "03/12/2017",
+   "number of guests": "6",
+   "number of rooms": "1"
+  }
+ },
+ "06e652a8c2": {
+  "instruction": {
+   "end date": "03/29/2017",
+   "ANSWER": "Residence Inn Kansas City at The Legends",
+   "geographic location": "Kansas City, KS",
+   "start date": "03/24/2017",
+   "number of rooms": "3",
+   "number of guests": "9"
+  }
+ },
+ "434ad09288": {
+  "instruction": {
+   "end date": "3/13/2017",
+   "ANSWER": "Glenn Hotel, Autograph Collection",
+   "geographic location": "Atlanta, Ga",
+   "start date": "3/12/2017",
+   "number of rooms": "15",
+   "number of guests": "15"
+  }
+ },
+ "00a22248cf": {
+  "instruction": {
+   "start date": "04/10/2017",
+   "geographic location": "San Diego, CA, USA",
+   "end date": "04/13/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Courtyard San Diego Downtown"
+  }
+ },
+ "19b2c723d9": {
+  "instruction": {
+   "start date": "03/24/2017",
+   "geographic location": "Kansas City, MO",
+   "end date": "03/29/2017",
+   "number of rooms": "3",
+   "number of guests": "9",
+   "ANSWER": "Ambassador Holtel Kansas City, Autograph Collection"
+  }
+ },
+ "f82a2758fe": {
+  "instruction": {
+   "start date": "08/26/2017",
+   "geographic location": "MYRTLE BEACH SOUTH CAROLINA",
+   "end date": "09/02/2017",
+   "number of rooms": "4",
+   "number of guests": "8",
+   "ANSWER": "Fairfield Inn Myrtle Beach Broadway at the Beach"
+  }
+ },
+ "ab4b7f10ef": {
+  "instruction": {
+   "start date": "02/26/2017",
+   "geographic location": "Miami Executive Airport",
+   "end date": "02/28/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Miami Marriott Dadeland"
+  }
+ },
+ "65ad4d9dc0": {
+  "instruction": {
+   "end date": "02/20/17",
+   "ANSWER": "Courtyard San Diego Downtown",
+   "geographic location": "San Diego",
+   "start date": "02/19/17",
+   "number of rooms": "1",
+   "number of guests": "1"
+  }
+ },
+ "601150d51d": {
+  "instruction": {
+   "start date": "02/19/17",
+   "geographic location": "New York",
+   "end date": "02/20/17",
+   "number of rooms": "3",
+   "number of guests": "3",
+   "ANSWER": "Courtyard New York Manhattan/Fifth Avenue"
+  }
+ },
+ "ef212395e4": {
+  "instruction": {
+   "start date": "02/19/17",
+   "geographic location": "Miami",
+   "end date": "02/20/17",
+   "number of rooms": "3",
+   "number of guests": "6",
+   "ANSWER": "SpringHill Suites Miami Airport East/Medical Center"
+  }
+ },
+ "3cd0958db7": {
+  "instruction": {
+   "start date": "12/12/2017",
+   "geographic location": "Montreal, Canada",
+   "end date": "12/20/2017",
+   "number of rooms": "1",
+   "number of guests": "3",
+   "ANSWER": "SpringHill Suites Old Montreal"
+  }
+ },
+ "c3285c6837": {
+  "instruction": {
+   "start date": "03/12/2017",
+   "end date": "03/19/2017",
+   "geographic location": "Anaheim",
+   "number of guests": "6",
+   "number of rooms": "1"
+  }
+ },
+ "c419d5bd40": {
+  "instruction": {
+   "geographic location": "San Francisco, CA",
+   "start date": "06/02/2017",
+   "end date": "06/03/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "c8eafd2fd3": {
+  "instruction": {
+   "end date": "03/24/2017",
+   "ANSWER": "Courtyard Tulsa Downtown",
+   "geographic location": "Tulsa, OK",
+   "start date": "03/20/2017",
+   "number of rooms": "2",
+   "number of guests": "2"
+  }
+ },
+ "c7777e36cf": {
+  "instruction": {
+   "start date": "03/01/2017",
+   "geographic location": "London, UK",
+   "end date": "03/06/2017",
+   "number of rooms": "2",
+   "number of guests": "6",
+   "ANSWER": "London Marriott Hotel Park Lane"
+  }
+ },
+ "9c008515ba": {
+  "instruction": {
+   "start date": "06/14/2017",
+   "end date": "06/19/2017",
+   "geographic location": "Miami, FL",
+   "number of guests": "45",
+   "number of rooms": "15"
+  }
+ },
+ "26b9b1a075": {
+  "instruction": {
+   "geographic location": "Anaheim",
+   "start date": "03/12/2017",
+   "number of rooms": "1",
+   "number of guests": "6",
+   "end date": "03/19/2017"
+  }
+ },
+ "2865ebe7e6": {
+  "instruction": {
+   "geographic location": "San Francisco, CA",
+   "start date": "06/13/2017",
+   "end date": "06/16/2017",
+   "number of rooms": "2",
+   "number of guests": "10"
+  }
+ },
+ "5e7c064710": {
+  "instruction": {
+   "end date": "03/14/2017",
+   "ANSWER": "Seattle Marriott Waterfront",
+   "geographic location": "Seattle, WA",
+   "start date": "03/13/2017",
+   "number of rooms": "1",
+   "number of guests": "1"
+  }
+ },
+ "772f458327": {
+  "instruction": {
+   "end date": "08/15/2017",
+   "ANSWER": "The Shelbourne Dublin, A Renaissance Hotel",
+   "geographic location": "Dublin, Ireland",
+   "start date": "08/09/2017",
+   "number of rooms": "3",
+   "number of guests": "3"
+  }
+ },
+ "58c468964d": {
+  "instruction": {
+   "start date": "3/06/2017",
+   "geographic location": "Roanoke, Va",
+   "end date": "3/07/2017",
+   "number of rooms": "15",
+   "number of guests": "15",
+   "ANSWER": "Courtyard Roanoke Airport"
+  }
+ },
+ "a5fa043806": {
+  "instruction": {
+   "start date": "06/15/2017",
+   "geographic location": "Cincinnati, OH",
+   "end date": "06/19/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Cincinnati Marriott at RiverCenter"
+  }
+ },
+ "a8cee4e08c": {
+  "instruction": {
+   "start date": "08/12/2017",
+   "geographic location": "Mexico City, Mexico",
+   "end date": "08/20/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Courtyard Mexico City Revolucion"
+  }
+ },
+ "d9ef15a773": {
+  "instruction": {
+   "start date": "03/20/2017",
+   "geographic location": "Tulsa, OK",
+   "end date": "03/24/2017",
+   "number of rooms": "2",
+   "number of guests": "2",
+   "ANSWER": "Courtyard Tulsa Downtown"
+  }
+ },
+ "e5313c5321": {
+  "instruction": {
+   "start date": "02/19/17",
+   "geographic location": "Vancouver, Canada",
+   "end date": "02/20/17",
+   "number of rooms": "2",
+   "number of guests": "6",
+   "ANSWER": "Delta Hotels Vancouver Downtown Suites"
+  }
+ },
+ "3cb81f0a53": {
+  "instruction": {
+   "start date": "2/26/2017",
+   "geographic location": "Fayetteville, NC",
+   "end date": "2/28/2017",
+   "number of rooms": "13",
+   "number of guests": "13",
+   "ANSWER": "Courtyard Fayetteville"
+  }
+ },
+ "6ff3689223": {
+  "instruction": {
+   "end date": "05/06/2017",
+   "ANSWER": "Lyon Marriott Hotel Cit\u00e9 Internationale",
+   "geographic location": "Lyon, France",
+   "start date": "05/01/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "3bef3f8803": {
+  "instruction": {
+   "end date": "08/15/2017",
+   "geographic location": "Singapore",
+   "start date": "08/09/2017",
+   "number of guests": "4",
+   "number of rooms": "2"
+  }
+ },
+ "53817025ef": {
+  "instruction": {
+   "geographic location": "New York, NY",
+   "start date": "05/18/2017",
+   "end date": "05/30/2017",
+   "number of rooms": "3",
+   "number of guests": "9"
+  }
+ },
+ "1ce4e9966d": {
+  "instruction": {
+   "start date": "02/22/2017",
+   "geographic location": "Silver Spring, MD",
+   "end date": "02/23/2017",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "ANSWER": "ourtyard Silver Spring Downtown"
+  }
+ },
+ "9ad12e2882": {
+  "instruction": {
+   "end date": "2/28/2017",
+   "ANSWER": "Courtyard Fayetteville",
+   "geographic location": "Fayetteville, NC",
+   "start date": "2/26/2017",
+   "number of rooms": "13",
+   "number of guests": "13"
+  }
+ },
+ "0cc5c0154b": {
+  "instruction": {
+   "start date": "02/21/2017",
+   "geographic location": "Washington, DC",
+   "end date": "02/22/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Residence Inn Washington, DC/Capitol"
+  }
+ },
+ "9f1f1ab2ab": {
+  "instruction": {
+   "end date": "04/29/2017",
+   "ANSWER": "Osaka Marriott Miyako Hotel",
+   "geographic location": "Osaka, Japan",
+   "start date": "03/25/2017",
+   "number of rooms": "3",
+   "number of guests": "6"
+  }
+ },
+ "a3646d3519": {
+  "instruction": {
+   "start date": "3/02/2017",
+   "geographic location": "Charleston, SC",
+   "end date": "3/03/2017",
+   "number of rooms": "14",
+   "number of guests": "14",
+   "ANSWER": "Renaissance Charleston Historic District Hotel"
+  }
+ },
+ "b40147c166": {
+  "instruction": {
+   "end date": "05/24/2017",
+   "geographic location": "Berlin, Germany ",
+   "start date": "05/17/2017",
+   "number of guests": "2",
+   "number of rooms": "1"
+  }
+ },
+ "3c8019f8a9": {
+  "instruction": {
+   "start date": "03/08/2017",
+   "geographic location": "New Zion, KY",
+   "end date": "03/13/2017",
+   "number of rooms": "2",
+   "number of guests": "2",
+   "ANSWER": "Fairfield Inn & Suites Lexington Berea"
+  }
+ },
+ "2fe93852db": {
+  "instruction": {
+   "end date": "02/24/2017",
+   "ANSWER": "Residence Inn Colorado Springs South",
+   "geographic location": "Colorado Springs, CO",
+   "start date": "02/22/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "d97239d1ea": {
+  "instruction": {
+   "geographic location": "Miami, FL",
+   "start date": "04/05/2017",
+   "end date": "04/07/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "69dc8ce52e": {
+  "instruction": {
+   "start date": "08/13/2017",
+   "geographic location": "Mexico City, Mexico",
+   "end date": "09/01/2017",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "ANSWER": "Mexico City Marriott Reforma Hotel"
+  }
+ },
+ "b5a378b237": {
+  "instruction": {
+   "end date": "03/13/2017",
+   "ANSWER": "Dallas Marriott City Center",
+   "geographic location": "Dallas, TX",
+   "start date": "03/08/2017",
+   "number of rooms": "3",
+   "number of guests": "6"
+  }
+ },
+ "6abc7a0703": {
+  "instruction": {
+   "end date": "02/20/17",
+   "ANSWER": "Courtyard San Francisco Union Square",
+   "geographic location": "San Francisco",
+   "start date": "02/19/17",
+   "number of rooms": "1",
+   "number of guests": "3"
+  }
+ },
+ "731d7a03d9": {
+  "instruction": {
+   "end date": "3/16/2017",
+   "ANSWER": "Knoxville Marriott",
+   "geographic location": "Knoxville, Tn",
+   "start date": "3/15/2017",
+   "number of rooms": "20",
+   "number of guests": "20"
+  }
+ },
+ "7cbad71872": {
+  "instruction": {
+   "start date": "02/15/2017",
+   "end date": "02/24/2017",
+   "geographic location": "Las Vegas Strip ",
+   "number of guests": "4",
+   "number of rooms": "2"
+  }
+ },
+ "33f649a0c8": {
+  "instruction": {
+   "start date": "03/13/2017",
+   "geographic location": "Seattle, WA",
+   "end date": "03/14/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "ANSWER": "Seattle Marriott Waterfront"
+  }
+ },
+ "1f00db602e": {
+  "instruction": {
+   "geographic location": "Tallahassee, FL",
+   "start date": "05/18/2017",
+   "end date": "05/30/2017",
+   "number of rooms": "1",
+   "number of guests": "6"
+  }
+ },
+ "e0858bd126": {
+  "instruction": {
+   "end date": "07/08/2017",
+   "ANSWER": "Courtyard Kingston, Jamaica",
+   "geographic location": "Grand Cairo Jamaica",
+   "start date": "07/01/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "288bec27ab": {
+  "instruction": {
+   "end date": "02/20/17",
+   "ANSWER": "London Marriott Hotel Grosvenor Square",
+   "geographic location": "London, United Kingdom",
+   "start date": "02/19/17",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "1adbcf4ffb": {
+  "instruction": {
+   "end date": "06/17/2017",
+   "geographic location": "Bogota, Columbia",
+   "start date": "06/12/2017",
+   "number of guests": "2",
+   "number of rooms": "1"
+  }
+ },
+ "2e9cb2c18d": {
+  "instruction": {
+   "start date": "03/07/2017",
+   "geographic location": "Paris, France",
+   "end date": "03/10/2017",
+   "number of rooms": "3",
+   "number of guests": "4",
+   "ANSWER": "Renaissance Paris Republique Hotel"
+  }
+ },
+ "e3a3e0ddb9": {
+  "instruction": {
+   "end date": "05/20/2017",
+   "ANSWER": "Marriott's Village d'lle-de-France",
+   "geographic location": "PARIS FRANCE",
+   "start date": "05/13/2017",
+   "number of rooms": "3",
+   "number of guests": "6"
+  }
+ },
+ "cf654ecbd9": {
+  "instruction": {
+   "end date": "02/28/2017",
+   "ANSWER": "JW Marriott Austin",
+   "geographic location": "Austin, TX, USA",
+   "start date": "02/22/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "a0c4bab444": {
+  "instruction": {
+   "geographic location": "Columbus, OH ",
+   "start date": "04/15/2017",
+   "number of rooms": "2",
+   "number of guests": "6",
+   "end date": "04/27/2017"
+  }
+ },
+ "0a63e47c4a": {
+  "instruction": {
+   "end date": "02/20/17",
+   "ANSWER": "Courtyard New York Manhattan/Fifth Avenue",
+   "geographic location": "New York",
+   "start date": "02/19/17",
+   "number of rooms": "3",
+   "number of guests": "3"
+  }
+ },
+ "298ea871ac": {
+  "instruction": {
+   "geographic location": "Birmingham, AL",
+   "start date": "07/21/2017",
+   "number of rooms": "4",
+   "number of guests": "8",
+   "end date": "07/28/2017"
+  }
+ },
+ "60736eb91b": {
+  "instruction": {
+   "end date": "02/23/2017",
+   "ANSWER": "ourtyard Silver Spring Downtown",
+   "geographic location": "Silver Spring, MD",
+   "start date": "02/22/2017",
+   "number of rooms": "2",
+   "number of guests": "3"
+  }
+ },
+ "163d2037ce": {
+  "instruction": {
+   "end date": "03/14/2017",
+   "ANSWER": "Courtyard Tokyo Ginza Hotel",
+   "geographic location": "Tokyo, Japan",
+   "start date": "03/01/2017",
+   "number of rooms": "3",
+   "number of guests": "4"
+  }
+ },
+ "42d008010f": {
+  "instruction": {
+   "geographic location": "Tallahassee, FL",
+   "start date": "04/05/2017",
+   "end date": "04/07/2017",
+   "number of rooms": "1",
+   "number of guests": "4"
+  }
+ },
+ "07f21d8ba9": {
+  "instruction": {
+   "end date": "02/26/2017",
+   "ANSWER": "Residence Inn Tempe Downtown/University",
+   "geographic location": "Phoenix, AZ",
+   "start date": "02/23/2017",
+   "number of rooms": "3",
+   "number of guests": "6"
+  }
+ },
+ "0e2175c13a": {
+  "instruction": {
+   "geographic location": "Singapore",
+   "start date": "08/09/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "end date": "08/15/2017"
+  }
+ },
+ "6e9ba625d1": {
+  "instruction": {
+   "start date": "2/21/2017",
+   "geographic location": " Burbank, California",
+   "end date": "2/24/2017",
+   "number of rooms": "15",
+   "number of guests": "15",
+   "ANSWER": "Los Angeles Marriott Burbank Airport"
+  }
+ },
+ "490263262a": {
+  "instruction": {
+   "end date": "07/25/2017",
+   "geographic location": "San Francisco, CA",
+   "start date": "07/14/2017",
+   "number of guests": "6",
+   "number of rooms": "3"
+  }
+ },
+ "45e166897e": {
+  "instruction": {
+   "start date": "03/16/2017",
+   "geographic location": "Jakarta, Indonesia",
+   "end date": "03/18/2017",
+   "number of rooms": "1",
+   "number of guests": "4",
+   "ANSWER": "The Mayflower, Jakarta - Marriott Executive Apartments"
+  }
+ },
+ "d08ba91d85": {
+  "instruction": {
+   "end date": "06/16/2017",
+   "geographic location": "San Francisco, CA",
+   "start date": "06/13/2017",
+   "number of guests": "10",
+   "number of rooms": "2"
+  }
+ },
+ "6a43a0b99a": {
+  "instruction": {
+   "end date": "06/04/2017",
+   "ANSWER": "Fairfield Inn & Suites Washington, DC/Downtown",
+   "geographic location": "Washington, DC, USA",
+   "start date": "05/28/2017",
+   "number of rooms": "2",
+   "number of guests": "3"
+  }
+ },
+ "47224626ad": {
+  "instruction": {
+   "end date": "02/20/17",
+   "ANSWER": "JW Marriott Los Angeles L.A. LIVE",
+   "geographic location": "Los Angeles",
+   "start date": "02/19/17",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "c6d179b2a3": {
+  "instruction": {
+   "end date": "03/14/2017",
+   "geographic location": "Miami, FL",
+   "start date": "03/02/2017",
+   "number of guests": "3",
+   "number of rooms": "1"
+  }
+ },
+ "0b17a878e2": {
+  "instruction": {
+   "start date": "08/09/2017",
+   "geographic location": "Dublin, Ireland",
+   "end date": "08/15/2017",
+   "number of rooms": "3",
+   "number of guests": "3",
+   "ANSWER": "The Shelbourne Dublin, A Renaissance Hotel"
+  }
+ },
+ "1b2f90b241": {
+  "instruction": {
+   "start date": "02/23/2017",
+   "geographic location": "Columbus, OH",
+   "end date": "02/28/2017",
+   "number of rooms": "3",
+   "number of guests": "8",
+   "ANSWER": "SpringHill Suites Columbus Airport Gahanna"
+  }
+ },
+ "556ae910af": {
+  "instruction": {
+   "geographic location": "New York, NY",
+   "start date": "04/06/2017",
+   "end date": "04/29/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "2e027d9aa9": {
+  "instruction": {
+   "start date": "02/19/17",
+   "geographic location": "Ottawa, Canada",
+   "end date": "02/20/17",
+   "number of rooms": "2",
+   "number of guests": "8",
+   "ANSWER": "Courtyard Ottawa Downtown"
+  }
+ },
+ "684d0fbcb0": {
+  "instruction": {
+   "end date": "02/20/17",
+   "ANSWER": "The Imperial Mansion, Beijing Marriott Executive Apartments",
+   "geographic location": "Beijing, China",
+   "start date": "02/19/17",
+   "number of rooms": "1",
+   "number of guests": "4"
+  }
+ },
+ "b193992d91": {
+  "instruction": {
+   "end date": "05/15/2017",
+   "ANSWER": "Courtyard San Francisco Union Square",
+   "geographic location": "San Francisco",
+   "start date": "05/13/2017",
+   "number of rooms": "1",
+   "number of guests": "1"
+  }
+ },
+ "4d3d61dbaa": {
+  "instruction": {
+   "start date": "02/26/2017",
+   "geographic location": "Somerville, AL",
+   "end date": "02/28/2017",
+   "number of rooms": "2",
+   "number of guests": "5",
+   "ANSWER": "Courtyard Decatur"
+  }
+ },
+ "19bf18c759": {
+  "instruction": {
+   "start date": "02/24/2017",
+   "geographic location": "Las Vegas, NV",
+   "end date": "02/28/2017",
+   "number of rooms": "1",
+   "number of guests": "4",
+   "ANSWER": "SpringHill Suites Las Vegas Convention Center"
+  }
+ },
+ "b9fb1e3315": {
+  "instruction": {
+   "geographic location": "Bogota, Columbia",
+   "start date": "06/12/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "end date": "06/17/2017"
+  }
+ },
+ "0e4cfa5f21": {
+  "instruction": {
+   "start date": "3/01/2017",
+   "geographic location": "Raleigh, NC",
+   "end date": "3/03/2017",
+   "number of rooms": "10",
+   "number of guests": "10",
+   "ANSWER": "Courtyard Raleigh Midtown"
+  }
+ },
+ "2f71155dff": {
+  "instruction": {
+   "start date": "05/28/2017",
+   "geographic location": "Washington, DC, USA",
+   "end date": "06/04/2017",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "ANSWER": "Fairfield Inn & Suites Washington, DC/Downtown"
+  }
+ },
+ "3ded1c9d74": {
+  "instruction": {
+   "start date": "02/22/2017",
+   "geographic location": "Colorado Springs, CO",
+   "end date": "02/24/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Residence Inn Colorado Springs South"
+  }
+ },
+ "340619653a": {
+  "instruction": {
+   "end date": "07/01/2017",
+   "ANSWER": "Mexico City Marriott Reforma Hotel",
+   "geographic location": "Mexico City, Mexico",
+   "start date": "06/25/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "17b4546596": {
+  "instruction": {
+   "geographic location": "Atlanta, GA",
+   "start date": "07/14/2017",
+   "end date": "07/25/2017",
+   "number of rooms": "1",
+   "number of guests": "5"
+  }
+ },
+ "c05b14b379": {
+  "instruction": {
+   "start date": "03/17/2017",
+   "geographic location": "San Antonio, TX",
+   "end date": "03/20/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "TownePlace Suites San Antonio Downtown"
+  }
+ },
+ "a81ade6012": {
+  "instruction": {
+   "end date": "08/20/2017",
+   "ANSWER": "Courtyard Ocean City Oceanfront",
+   "geographic location": "OCEAN CITY MARYLAND",
+   "start date": "08/12/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "12dab52e69": {
+  "instruction": {
+   "start date": "02/19/17",
+   "geographic location": "San Diego",
+   "end date": "02/20/17",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "ANSWER": "Courtyard San Diego Downtown"
+  }
+ },
+ "3a58d33492": {
+  "instruction": {
+   "end date": "02/20/17",
+   "ANSWER": "Delta Hotels Vancouver Downtown Suites",
+   "geographic location": "Vancouver, Canada",
+   "start date": "02/19/17",
+   "number of rooms": "2",
+   "number of guests": "6"
+  }
+ },
+ "8c6d70533b": {
+  "instruction": {
+   "start date": "03/24/2017",
+   "geographic location": "Kansas City, KS",
+   "end date": "03/29/2017",
+   "number of rooms": "3",
+   "number of guests": "9",
+   "ANSWER": "Residence Inn Kansas City at The Legends"
+  }
+ },
+ "a63e2dfe59": {
+  "instruction": {
+   "start date": "02/19/17",
+   "geographic location": "Los Angeles",
+   "end date": "02/20/17",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "JW Marriott Los Angeles L.A. LIVE"
+  }
+ },
+ "a4d3aa230d": {
+  "instruction": {
+   "start date": "02/25/2017",
+   "geographic location": "Sao Paulo, Brazil",
+   "end date": "02/28/2017",
+   "number of rooms": "4",
+   "number of guests": "7",
+   "ANSWER": "Renaissance Sao Paulo Hotel"
+  }
+ },
+ "620a217bef": {
+  "instruction": {
+   "start date": "2/21/2017",
+   "geographic location": "South San Francisco, Ca",
+   "end date": "2/24/2017",
+   "number of rooms": "21",
+   "number of guests": "21",
+   "ANSWER": "Courtyard San Francisco Airport/Oyster Point Waterfront"
+  }
+ },
+ "b6124681fa": {
+  "instruction": {
+   "start date": "02/19/2017",
+   "geographic location": "Paris, France",
+   "end date": "02/28/2017",
+   "number of rooms": "1",
+   "number of guests": "4",
+   "ANSWER": "Paris Marriott Rive Gauche Hotel & Conference Center"
+  }
+ },
+ "9b54b81a81": {
+  "instruction": {
+   "start date": "02/21/2017",
+   "geographic location": "Virginia Beach, VA",
+   "end date": "02/25/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "ANSWER": "Fairfield Inn & Suites Virginia Beach Oceanfront"
+  }
+ },
+ "0e7430dded": {
+  "instruction": {
+   "start date": "05/10/2017",
+   "geographic location": "Guangzhou, China",
+   "end date": "05/31/2017",
+   "number of rooms": "3",
+   "number of guests": "6",
+   "ANSWER": "China Hotel, A Marriott Hotel, Guangzhou"
+  }
+ },
+ "b1956013a5": {
+  "instruction": {
+   "end date": "08/20/2017",
+   "ANSWER": "Courtyard Mexico City Revolucion",
+   "geographic location": "Mexico City, Mexico",
+   "start date": "08/12/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "5e6de8eb0a": {
+  "instruction": {
+   "end date": "03/13/2017",
+   "ANSWER": "Fairfield Inn & Suites Lexington Berea",
+   "geographic location": "New Zion, KY",
+   "start date": "03/08/2017",
+   "number of rooms": "2",
+   "number of guests": "2"
+  }
+ },
+ "2f063c0da3": {
+  "instruction": {
+   "end date": "3/03/2017",
+   "ANSWER": "Courtyard Raleigh Midtown",
+   "geographic location": "Raleigh, NC",
+   "start date": "3/01/2017",
+   "number of rooms": "10",
+   "number of guests": "10"
+  }
+ },
+ "ae77fb969f": {
+  "instruction": {
+   "start date": "03/10/2017",
+   "end date": "03/13/2017",
+   "geographic location": "Cairo, Egypt ",
+   "number of guests": "6",
+   "number of rooms": "3"
+  }
+ },
+ "b82595919d": {
+  "instruction": {
+   "end date": "04/07/2017",
+   "geographic location": "Miami, FL",
+   "start date": "04/05/2017",
+   "number of guests": "4",
+   "number of rooms": "2"
+  }
+ },
+ "d13c8f45a4": {
+  "instruction": {
+   "start date": "05/25/2017",
+   "geographic location": "Los Angeles, CA",
+   "end date": "05/29/2017",
+   "number of rooms": "3",
+   "number of guests": "6",
+   "ANSWER": "JW Marriott Los Angeles L.A. LIVE"
+  }
+ },
+ "35a079b0a7": {
+  "instruction": {
+   "end date": "3/03/2017",
+   "ANSWER": "Residence Inn Houston Downtown/Convention Center",
+   "geographic location": "Houston, Tx",
+   "start date": "3/01/2017",
+   "number of rooms": "1",
+   "number of guests": "1"
+  }
+ },
+ "c98a41bda2": {
+  "instruction": {
+   "start date": "04/12/2017",
+   "geographic location": "Guadalajara, Mexico",
+   "end date": "04/24/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "AC Hotel Guadalajara, Mexico"
+  }
+ },
+ "c4e1eefeb9": {
+  "instruction": {
+   "start date": "06/24/2017",
+   "geographic location": "TAMPA, FLORIDA",
+   "end date": "06/30/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Courtyard Tampa Westshore/Airport"
+  }
+ },
+ "91353ffc6f": {
+  "instruction": {
+   "end date": "02/25/2017",
+   "ANSWER": "Fairfield Inn & Suites Virginia Beach Oceanfront",
+   "geographic location": "Virginia Beach, VA",
+   "start date": "02/23/2017",
+   "number of rooms": "3",
+   "number of guests": "5"
+  }
+ },
+ "633419bf06": {
+  "instruction": {
+   "end date": "04/29/2017",
+   "geographic location": "New York, NY",
+   "start date": "04/06/2017",
+   "number of guests": "4",
+   "number of rooms": "2"
+  }
+ },
+ "9891df6074": {
+  "instruction": {
+   "end date": "06/19/2017",
+   "geographic location": "Miami, FL",
+   "start date": "06/14/2017",
+   "number of guests": "45",
+   "number of rooms": "15"
+  }
+ },
+ "599a6b2d4c": {
+  "instruction": {
+   "end date": "02/28/2017",
+   "ANSWER": "Miami Marriott Dadeland",
+   "geographic location": "Miami Executive Airport",
+   "start date": "02/26/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "48d3d58774": {
+  "instruction": {
+   "start date": "05/17/2017",
+   "end date": "05/24/2017",
+   "geographic location": "Berlin, Germany ",
+   "number of guests": "2",
+   "number of rooms": "1"
+  }
+ },
+ "07482d5963": {
+  "instruction": {
+   "start date": "3/05/2017",
+   "geographic location": "Nashville,Tn",
+   "end date": "3/06/2017",
+   "number of rooms": "10",
+   "number of guests": "10",
+   "ANSWER": "Courtyard Nashville Downtown"
+  }
+ },
+ "5f75e3a6a8": {
+  "instruction": {
+   "start date": "3/01/2017",
+   "geographic location": "Houston, Tx",
+   "end date": "3/03/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "ANSWER": "Residence Inn Houston Downtown/Convention Center"
+  }
+ },
+ "77d8156fc9": {
+  "instruction": {
+   "start date": "03/20/2017",
+   "geographic location": "Oklahoma City, OK",
+   "end date": "03/24/2017",
+   "number of rooms": "2",
+   "number of guests": "2",
+   "ANSWER": "Fairfield Inn & Suites Oklahoma City Airport"
+  }
+ },
+ "7289836596": {
+  "instruction": {
+   "end date": "02/28/2017",
+   "ANSWER": "Courtyard Decatur",
+   "geographic location": "Somerville, AL",
+   "start date": "02/26/2017",
+   "number of rooms": "2",
+   "number of guests": "5"
+  }
+ },
+ "07cccc1925": {
+  "instruction": {
+   "start date": "03/17/2017",
+   "geographic location": "Houston, TX",
+   "end date": "03/20/2017",
+   "number of rooms": "3",
+   "number of guests": "12",
+   "ANSWER": "Residence Inn Houston Downtown/Convention Center"
+  }
+ },
+ "137b187130": {
+  "instruction": {
+   "start date": "02/19/17",
+   "geographic location": "London, United Kingdom",
+   "end date": "02/20/17",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "London Marriott Hotel Grosvenor Square"
+  }
+ },
+ "72ad940c49": {
+  "instruction": {
+   "end date": "03/18/2017",
+   "ANSWER": "The Mayflower, Jakarta - Marriott Executive Apartments",
+   "geographic location": "Jakarta, Indonesia",
+   "start date": "03/16/2017",
+   "number of rooms": "1",
+   "number of guests": "4"
+  }
+ },
+ "d2eb83a80d": {
+  "instruction": {
+   "end date": "05/10/2017",
+   "ANSWER": "Courtyard Los Angeles Pasadena/Old Town",
+   "geographic location": "Los Angeles, CA, USA",
+   "start date": "05/06/2017",
+   "number of rooms": "1",
+   "number of guests": "1"
+  }
+ },
+ "1cecb21b98": {
+  "instruction": {
+   "start date": "08/12/2017",
+   "geographic location": "OCEAN CITY MARYLAND",
+   "end date": "08/20/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Courtyard Ocean City Oceanfront"
+  }
+ },
+ "94af38d024": {
+  "instruction": {
+   "end date": "06/25/2017",
+   "ANSWER": "SpringHill Suites Erie",
+   "geographic location": "ERIE PA",
+   "start date": "06/18/2017",
+   "number of rooms": "3",
+   "number of guests": "6"
+  }
+ },
+ "69dfbf065d": {
+  "instruction": {
+   "end date": "06/26/2017",
+   "ANSWER": "JW Marriott Hotel Lima",
+   "geographic location": "Lima, Peru",
+   "start date": "06/21/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "45dcbdc68c": {
+  "instruction": {
+   "end date": "09/01/2017",
+   "ANSWER": "Mexico City Marriott Reforma Hotel",
+   "geographic location": "Mexico City, Mexico",
+   "start date": "08/13/2017",
+   "number of rooms": "2",
+   "number of guests": "3"
+  }
+ },
+ "908b7b4812": {
+  "instruction": {
+   "start date": "02/22/2017",
+   "end date": "02/23/2017",
+   "geographic location": "Baltimore ",
+   "number of guests": "1",
+   "number of rooms": "1"
+  }
+ },
+ "88511fbca9": {
+  "instruction": {
+   "start date": "03/05/2017",
+   "geographic location": "Paris, France",
+   "end date": "03/15/2017",
+   "number of rooms": "3",
+   "number of guests": "6",
+   "ANSWER": "Renaissance Paris Republique Hotel"
+  }
+ },
+ "41e75f0ba0": {
+  "instruction": {
+   "end date": "04/18/2017",
+   "ANSWER": "Delta Hotels Vancouver Downtown Suites",
+   "geographic location": "Vancouver",
+   "start date": "04/13/2017",
+   "number of rooms": "3",
+   "number of guests": "5"
+  }
+ },
+ "758e13e9f8": {
+  "instruction": {
+   "start date": "04/13/2017",
+   "geographic location": "Vancouver",
+   "end date": "04/18/2017",
+   "number of rooms": "3",
+   "number of guests": "5",
+   "ANSWER": "Delta Hotels Vancouver Downtown Suites"
+  }
+ },
+ "fcf1835460": {
+  "instruction": {
+   "end date": "04/13/2017",
+   "ANSWER": "Courtyard San Diego Downtown",
+   "geographic location": "San Diego, CA, USA",
+   "start date": "04/10/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "13254593d0": {
+  "instruction": {
+   "end date": "02/28/2017",
+   "ANSWER": "Renaissance Sao Paulo Hotel",
+   "geographic location": "Sao Paulo, Brazil",
+   "start date": "02/25/2017",
+   "number of rooms": "4",
+   "number of guests": "7"
+  }
+ },
+ "b28ba8eec4": {
+  "instruction": {
+   "geographic location": "Las Vegas Strip ",
+   "start date": "02/15/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "end date": "02/24/2017"
+  }
+ },
+ "5716562611": {
+  "instruction": {
+   "end date": "02/22/2017",
+   "ANSWER": "Residence Inn Washington, DC/Capitol",
+   "geographic location": "Washington, DC",
+   "start date": "02/21/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "34560f9f35": {
+  "instruction": {
+   "start date": "02/23/2017",
+   "geographic location": "Manhattan",
+   "end date": "02/27/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Courtyard New York Manhattan/Fifth Avenue"
+  }
+ },
+ "cf11237a2a": {
+  "instruction": {
+   "end date": "09/02/2017",
+   "ANSWER": "Fairfield Inn Myrtle Beach Broadway at the Beach",
+   "geographic location": "MYRTLE BEACH SOUTH CAROLINA",
+   "start date": "08/26/2017",
+   "number of rooms": "4",
+   "number of guests": "8"
+  }
+ },
+ "a40be647cf": {
+  "instruction": {
+   "start date": "05/01/2017",
+   "geographic location": "Lyon, France",
+   "end date": "05/06/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Lyon Marriott Hotel Cit\u00e9 Internationale"
+  }
+ },
+ "1217ef2819": {
+  "instruction": {
+   "end date": "03/15/2017",
+   "ANSWER": "Renaissance Paris Republique Hotel",
+   "geographic location": "Paris, France",
+   "start date": "03/05/2017",
+   "number of rooms": "3",
+   "number of guests": "6"
+  }
+ },
+ "b987747dae": {
+  "instruction": {
+   "end date": "2/24/2017",
+   "ANSWER": "Los Angeles Marriott Burbank Airport",
+   "geographic location": " Burbank, California",
+   "start date": "2/21/2017",
+   "number of rooms": "15",
+   "number of guests": "15"
+  }
+ },
+ "2afbb1ae24": {
+  "instruction": {
+   "end date": "06/11/2017",
+   "ANSWER": "Pittsburgh Marriott City Center",
+   "geographic location": "PITTSBURGH PA",
+   "start date": "06/05/2017",
+   "number of rooms": "1",
+   "number of guests": "1"
+  }
+ },
+ "003dab678d": {
+  "instruction": {
+   "end date": "02/20/17",
+   "ANSWER": "SpringHill Suites Miami Airport East/Medical Center",
+   "geographic location": "Miami",
+   "start date": "02/19/17",
+   "number of rooms": "3",
+   "number of guests": "6"
+  }
+ },
+ "1c1855c46c": {
+  "instruction": {
+   "end date": "05/30/2017",
+   "geographic location": "Tallahassee, FL",
+   "start date": "05/18/2017",
+   "number of guests": "6",
+   "number of rooms": "1"
+  }
+ },
+ "225ecb2772": {
+  "instruction": {
+   "start date": "03/01/2017",
+   "geographic location": "Tokyo, Japan",
+   "end date": "03/14/2017",
+   "number of rooms": "3",
+   "number of guests": "4",
+   "ANSWER": "Courtyard Tokyo Ginza Hotel"
+  }
+ },
+ "360212bfaf": {
+  "instruction": {
+   "start date": "06/18/2017",
+   "geographic location": "ERIE PA",
+   "end date": "06/25/2017",
+   "number of rooms": "3",
+   "number of guests": "6",
+   "ANSWER": "SpringHill Suites Erie"
+  }
+ },
+ "078b1258a4": {
+  "instruction": {
+   "start date": "08/16/2017",
+   "geographic location": "Lincoln, NE, USA",
+   "end date": "08/18/2017",
+   "number of rooms": "3",
+   "number of guests": "9",
+   "ANSWER": "The Lincoln Marriott Cornhusker Hotel"
+  }
+ },
+ "019cefa867": {
+  "instruction": {
+   "end date": "02/25/2017",
+   "ANSWER": "Fairfield Inn & Suites Virginia Beach Oceanfront",
+   "geographic location": "Virginia Beach, VA",
+   "start date": "02/21/2017",
+   "number of rooms": "1",
+   "number of guests": "1"
+  }
+ },
+ "a308496aba": {
+  "instruction": {
+   "start date": "06/05/2017",
+   "geographic location": "PITTSBURGH PA",
+   "end date": "06/11/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "ANSWER": "Pittsburgh Marriott City Center"
+  }
+ },
+ "47d8cfad22": {
+  "instruction": {
+   "end date": "04/24/2017",
+   "ANSWER": "AC Hotel Guadalajara, Mexico",
+   "geographic location": "Guadalajara, Mexico",
+   "start date": "04/12/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "5086fd95ad": {
+  "instruction": {
+   "end date": "03/13/2017",
+   "geographic location": "Cairo, Egypt ",
+   "start date": "03/10/2017",
+   "number of guests": "6",
+   "number of rooms": "3"
+  }
+ },
+ "e5c6d69a5c": {
+  "instruction": {
+   "start date": "05/18/2017",
+   "geographic location": "Houston, TX",
+   "end date": "05/20/2017",
+   "number of rooms": "1",
+   "number of guests": "3",
+   "ANSWER": "JW Marriott Houston Downtown"
+  }
+ },
+ "7da09a8865": {
+  "instruction": {
+   "start date": "02/23/2017",
+   "geographic location": "Phoenix, AZ",
+   "end date": "02/26/2017",
+   "number of rooms": "3",
+   "number of guests": "6",
+   "ANSWER": "Residence Inn Tempe Downtown/University"
+  }
+ },
+ "8c87a744d0": {
+  "instruction": {
+   "end date": "09/14/2017",
+   "ANSWER": "New York Marriott Marquis",
+   "geographic location": "New York, NY, USA",
+   "start date": "09/09/2017",
+   "number of rooms": "2",
+   "number of guests": "12"
+  }
+ },
+ "c3aaa5159f": {
+  "instruction": {
+   "end date": "3/06/2017",
+   "ANSWER": "Courtyard Nashville Downtown",
+   "geographic location": "Nashville,Tn",
+   "start date": "3/05/2017",
+   "number of rooms": "10",
+   "number of guests": "10"
+  }
+ },
+ "2f7a986493": {
+  "instruction": {
+   "start date": "06/03/2017",
+   "geographic location": "AUSTIN TEXAS",
+   "end date": "06/09/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Fairfield Inn & Suites Austin South"
+  }
+ },
+ "d7d442b246": {
+  "instruction": {
+   "end date": "02/26/2017",
+   "ANSWER": "Residence Inn Washington, DC/Capitol",
+   "geographic location": "Washington DC",
+   "start date": "02/22/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "b2509586f9": {
+  "instruction": {
+   "end date": "03/20/2017",
+   "ANSWER": "TownePlace Suites San Antonio Downtown",
+   "geographic location": "San Antonio, TX",
+   "start date": "03/17/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "2d4f878251": {
+  "instruction": {
+   "end date": "05/29/2017",
+   "ANSWER": "JW Marriott Los Angeles L.A. LIVE",
+   "geographic location": "Los Angeles, CA",
+   "start date": "05/25/2017",
+   "number of rooms": "3",
+   "number of guests": "6"
+  }
+ },
+ "b47c4da876": {
+  "instruction": {
+   "end date": "07/25/2017",
+   "geographic location": "Atlanta, GA",
+   "start date": "07/14/2017",
+   "number of guests": "5",
+   "number of rooms": "1"
+  }
+ },
+ "ef7fabb2e6": {
+  "instruction": {
+   "end date": "02/24/2017",
+   "geographic location": "Las Vegas Strip ",
+   "start date": "02/15/2017",
+   "number of guests": "4",
+   "number of rooms": "2"
+  }
+ },
+ "f48f4336ad": {
+  "instruction": {
+   "end date": "05/31/2017",
+   "ANSWER": "China Hotel, A Marriott Hotel, Guangzhou",
+   "geographic location": "Guangzhou, China",
+   "start date": "05/10/2017",
+   "number of rooms": "3",
+   "number of guests": "6"
+  }
+ },
+ "7ccefb0842": {
+  "instruction": {
+   "end date": "03/10/2017",
+   "ANSWER": "Renaissance Paris Republique Hotel",
+   "geographic location": "Paris, France",
+   "start date": "03/07/2017",
+   "number of rooms": "3",
+   "number of guests": "4"
+  }
+ },
+ "a2cbc9f889": {
+  "instruction": {
+   "end date": "2/24/2017",
+   "ANSWER": "Courtyard San Francisco Airport/Oyster Point Waterfront",
+   "geographic location": "South San Francisco, Ca",
+   "start date": "2/21/2017",
+   "number of rooms": "21",
+   "number of guests": "21"
+  }
+ },
+ "de837ccb20": {
+  "instruction": {
+   "start date": "03/25/2017",
+   "geographic location": "Osaka, Japan",
+   "end date": "04/29/2017",
+   "number of rooms": "3",
+   "number of guests": "6",
+   "ANSWER": "Osaka Marriott Miyako Hotel"
+  }
+ },
+ "98067392af": {
+  "instruction": {
+   "start date": "02/19/17",
+   "geographic location": "San Francisco",
+   "end date": "02/20/17",
+   "number of rooms": "1",
+   "number of guests": "3",
+   "ANSWER": "Courtyard San Francisco Union Square"
+  }
+ },
+ "ef55ef4e4d": {
+  "instruction": {
+   "end date": "03/29/2017",
+   "ANSWER": "Ambassador Holtel Kansas City, Autograph Collection",
+   "geographic location": "Kansas City, MO",
+   "start date": "03/24/2017",
+   "number of rooms": "3",
+   "number of guests": "9"
+  }
+ },
+ "81e537aa79": {
+  "instruction": {
+   "geographic location": "Cairo, Egypt ",
+   "start date": "03/10/2017",
+   "number of rooms": "3",
+   "number of guests": "6",
+   "end date": "03/13/2017"
+  }
+ },
+ "b74a4d5f8d": {
+  "instruction": {
+   "start date": "03/05/2017",
+   "geographic location": "Montreal",
+   "end date": "03/07/2017",
+   "number of rooms": "2",
+   "number of guests": "2",
+   "ANSWER": "SpringHill Suites Old Montreal"
+  }
+ },
+ "5fdde446a8": {
+  "instruction": {
+   "start date": "07/01/2017",
+   "geographic location": "Grand Cairo Jamaica",
+   "end date": "07/08/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Courtyard Kingston, Jamaica"
+  }
+ },
+ "b9716640cb": {
+  "instruction": {
+   "start date": "3/15/2017",
+   "geographic location": "Knoxville, Tn",
+   "end date": "3/16/2017",
+   "number of rooms": "20",
+   "number of guests": "20",
+   "ANSWER": "Knoxville Marriott"
+  }
+ },
+ "b545903b0e": {
+  "instruction": {
+   "end date": "06/30/2017",
+   "ANSWER": "Courtyard Tampa Westshore/Airport",
+   "geographic location": "TAMPA, FLORIDA",
+   "start date": "06/24/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "d7d769626b": {
+  "instruction": {
+   "end date": "12/28/2017",
+   "ANSWER": "Boscolo Venezia, Autograph Collection",
+   "geographic location": "Venice, Italy",
+   "start date": "12/22/2017",
+   "number of rooms": "2",
+   "number of guests": "2"
+  }
+ },
+ "49b5059c1e": {
+  "instruction": {
+   "start date": "06/12/2017",
+   "end date": "06/17/2017",
+   "geographic location": "Bogota, Columbia",
+   "number of guests": "2",
+   "number of rooms": "1"
+  }
+ },
+ "10c8d1ba0e": {
+  "instruction": {
+   "end date": "03/20/2017",
+   "ANSWER": "Residence Inn Houston Downtown/Convention Center",
+   "geographic location": "Houston, TX",
+   "start date": "03/17/2017",
+   "number of rooms": "3",
+   "number of guests": "12"
+  }
+ },
+ "cb6f503221": {
+  "instruction": {
+   "start date": "09/09/2017",
+   "geographic location": "New York, NY, USA",
+   "end date": "09/14/2017",
+   "number of rooms": "2",
+   "number of guests": "12",
+   "ANSWER": "New York Marriott Marquis"
+  }
+ },
+ "b9022743e5": {
+  "instruction": {
+   "end date": "02/28/2017",
+   "ANSWER": "Paris Marriott Rive Gauche Hotel & Conference Center",
+   "geographic location": "Paris, France",
+   "start date": "02/19/2017",
+   "number of rooms": "1",
+   "number of guests": "4"
+  }
+ },
+ "49dba2344d": {
+  "instruction": {
+   "start date": "02/23/2017",
+   "geographic location": "Virginia Beach, VA",
+   "end date": "02/25/2017",
+   "number of rooms": "3",
+   "number of guests": "5",
+   "ANSWER": "Fairfield Inn & Suites Virginia Beach Oceanfront"
+  }
+ },
+ "a9f6a1658b": {
+  "instruction": {
+   "end date": "03/18/2017",
+   "ANSWER": "Renaissance Amsterdam Hotel",
+   "geographic location": "Amsterdam, Netherlands",
+   "start date": "03/10/2017",
+   "number of rooms": "2",
+   "number of guests": "3"
+  }
+ },
+ "301bccaff7": {
+  "instruction": {
+   "end date": "02/28/2017",
+   "ANSWER": "SpringHill Suites Las Vegas Convention Center",
+   "geographic location": "Las Vegas, NV",
+   "start date": "02/24/2017",
+   "number of rooms": "1",
+   "number of guests": "4"
+  }
+ },
+ "b8fc430800": {
+  "instruction": {
+   "end date": "06/09/2017",
+   "ANSWER": "Fairfield Inn & Suites Austin South",
+   "geographic location": "AUSTIN TEXAS",
+   "start date": "06/03/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "c2efbec6c8": {
+  "instruction": {
+   "end date": "03/06/2017",
+   "ANSWER": "London Marriott Hotel Park Lane",
+   "geographic location": "London, UK",
+   "start date": "03/01/2017",
+   "number of rooms": "2",
+   "number of guests": "6"
+  }
+ },
+ "f6cfe799c6": {
+  "instruction": {
+   "start date": "12/22/2017",
+   "geographic location": "Venice, Italy",
+   "end date": "12/28/2017",
+   "number of rooms": "2",
+   "number of guests": "2",
+   "ANSWER": "Boscolo Venezia, Autograph Collection"
+  }
+ },
+ "fe985bfccb": {
+  "instruction": {
+   "end date": "04/07/2017",
+   "geographic location": "Tallahassee, FL",
+   "start date": "04/05/2017",
+   "number of guests": "4",
+   "number of rooms": "1"
+  }
+ },
+ "65527d8d09": {
+  "instruction": {
+   "end date": "02/27/2017",
+   "ANSWER": "Courtyard New York Manhattan/Fifth Avenue",
+   "geographic location": "Manhattan",
+   "start date": "02/23/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "e1a5693d71": {
+  "instruction": {
+   "end date": "05/20/2017",
+   "ANSWER": "JW Marriott Houston Downtown",
+   "geographic location": "Houston, TX",
+   "start date": "05/18/2017",
+   "number of rooms": "1",
+   "number of guests": "3"
+  }
+ },
+ "9ea5f5d7b4": {
+  "instruction": {
+   "geographic location": "Berlin, Germany ",
+   "start date": "05/17/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "end date": "05/24/2017"
+  }
+ },
+ "3e40de4623": {
+  "instruction": {
+   "end date": "06/19/2017",
+   "ANSWER": "Cincinnati Marriott at RiverCenter",
+   "geographic location": "Cincinnati, OH",
+   "start date": "06/15/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "b6ff99a937": {
+  "instruction": {
+   "geographic location": "Miami, FL",
+   "start date": "06/14/2017",
+   "number of rooms": "15",
+   "number of guests": "45",
+   "end date": "06/19/2017"
+  }
+ },
+ "6c225f1d30": {
+  "instruction": {
+   "geographic location": "Miami, FL",
+   "start date": "03/02/2017",
+   "end date": "03/14/2017",
+   "number of rooms": "1",
+   "number of guests": "3"
+  }
+ },
+ "9b05bb558e": {
+  "instruction": {
+   "start date": "02/22/2017",
+   "geographic location": "Austin, TX, USA",
+   "end date": "02/28/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "JW Marriott Austin"
+  }
+ },
+ "edc1934219": {
+  "instruction": {
+   "start date": "02/19/17",
+   "geographic location": "Houston",
+   "end date": "02/20/17",
+   "number of rooms": "3",
+   "number of guests": "9",
+   "ANSWER": "Residence Inn Houston Downtown/Convention Center"
+  }
+ },
+ "ee904ad584": {
+  "instruction": {
+   "start date": "06/21/2017",
+   "geographic location": "Lima, Peru",
+   "end date": "06/26/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "JW Marriott Hotel Lima"
+  }
+ },
+ "7d7e56aeca": {
+  "instruction": {
+   "geographic location": "San Francisco, CA",
+   "start date": "07/14/2017",
+   "end date": "07/25/2017",
+   "number of rooms": "3",
+   "number of guests": "6"
+  }
+ },
+ "b8d5d2844c": {
+  "instruction": {
+   "geographic location": "Baltimore ",
+   "start date": "02/22/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "end date": "02/23/2017"
+  }
+ },
+ "100f072088": {
+  "instruction": {
+   "start date": "02/19/17",
+   "geographic location": "Beijing, China",
+   "end date": "02/20/17",
+   "number of rooms": "1",
+   "number of guests": "4",
+   "ANSWER": "The Imperial Mansion, Beijing Marriott Executive Apartments"
+  }
+ },
+ "fa1df3e0ae": {
+  "instruction": {
+   "start date": "06/25/2017",
+   "geographic location": "Mexico City, Mexico",
+   "end date": "07/01/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Mexico City Marriott Reforma Hotel"
+  }
+ },
+ "7964b08fba": {
+  "instruction": {
+   "end date": "02/20/17",
+   "ANSWER": "Residence Inn Houston Downtown/Convention Center",
+   "geographic location": "Houston",
+   "start date": "02/19/17",
+   "number of rooms": "3",
+   "number of guests": "9"
+  }
+ },
+ "9dd4ad0bd9": {
+  "instruction": {
+   "end date": "08/18/2017",
+   "ANSWER": "The Lincoln Marriott Cornhusker Hotel",
+   "geographic location": "Lincoln, NE, USA",
+   "start date": "08/16/2017",
+   "number of rooms": "3",
+   "number of guests": "9"
+  }
+ },
+ "bab4f811b8": {
+  "instruction": {
+   "end date": "04/27/2017",
+   "geographic location": "Columbus, OH ",
+   "start date": "04/15/2017",
+   "number of guests": "6",
+   "number of rooms": "2"
+  }
+ },
+ "d1aa152c27": {
+  "instruction": {
+   "end date": "06/03/2017",
+   "geographic location": "San Francisco, CA",
+   "start date": "06/02/2017",
+   "number of guests": "2",
+   "number of rooms": "1"
+  }
+ },
+ "4060bfd81d": {
+  "instruction": {
+   "start date": "07/21/2017",
+   "end date": "07/28/2017",
+   "geographic location": "Birmingham, AL",
+   "number of guests": "8",
+   "number of rooms": "4"
+  }
+ },
+ "3e93bc71a2": {
+  "instruction": {
+   "start date": "03/10/2017",
+   "geographic location": "Amsterdam, Netherlands",
+   "end date": "03/18/2017",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "ANSWER": "Renaissance Amsterdam Hotel"
+  }
+ },
+ "5f34a246a5": {
+  "instruction": {
+   "end date": "02/20/17",
+   "ANSWER": "Courtyard Ottawa Downtown",
+   "geographic location": "Ottawa, Canada",
+   "start date": "02/19/17",
+   "number of rooms": "2",
+   "number of guests": "8"
+  }
+ },
+ "23ae9c131a": {
+  "instruction": {
+   "start date": "05/06/2017",
+   "geographic location": "Los Angeles, CA, USA",
+   "end date": "05/10/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "ANSWER": "Courtyard Los Angeles Pasadena/Old Town"
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "4b33e53a60": {
+  "instruction": {
+   "time duration": "long-term",
+   "percentage": "15"
+  }
+ },
+ "1228aee984": {
+  "instruction": {
+   "time duration": "short-term",
+   "percentage": "35"
+  }
+ },
+ "0f73aba7e2": {
+  "instruction": {
+   "time duration": "long-term",
+   "percentage": "10"
+  }
+ },
+ "d218d1ac80": {
+  "instruction": {
+   "time duration": "short-term",
+   "percentage": "15"
+  }
+ },
+ "8ac5ccefce": {
+  "instruction": {
+   "time duration": "short-term",
+   "percentage": "10"
+  }
+ },
+ "c78b8547e7": {
+  "instruction": {
+   "time duration": "short-term",
+   "percentage": "28"
+  }
+ },
+ "63e13a7dc8": {
+  "instruction": {
+   "time duration": "short-term",
+   "percentage": "25"
+  }
+ },
+ "0f5a94be47": {
+  "instruction": {
+   "time duration": "long-term",
+   "percentage": "35"
+  }
+ },
+ "4374a25acc": {
+  "instruction": {
+   "time duration": "long-term",
+   "percentage": "25"
+  }
+ },
+ "563fd6881e": {
+  "instruction": {
+   "time duration": "short-term",
+   "percentage": "39.6"
+  }
+ }
+}

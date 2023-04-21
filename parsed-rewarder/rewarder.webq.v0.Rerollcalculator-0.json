@@ -1,0 +1,990 @@
+{
+ "9fab172b4c": {
+  "instruction": {
+   "ideal paragon level": "2",
+   "ANSWER": "15.84 million",
+   "current paragon level": "0"
+  }
+ },
+ "65187bc572": {
+  "instruction": {
+   "ideal paragon level": "100",
+   "ANSWER": "~8.52 billion",
+   "current paragon level": "6"
+  }
+ },
+ "616ea2c3dc": {
+  "instruction": {
+   "ideal paragon level": "100",
+   "ANSWER": "~3.85 billion",
+   "current paragon level": "75"
+  }
+ },
+ "2b8327432f": {
+  "instruction": {
+   "ideal paragon level": "3",
+   "ANSWER": "10.08 million",
+   "current paragon level": "2"
+  }
+ },
+ "e40524a396": {
+  "instruction": {
+   "current paragon level": "0",
+   "ideal paragon level": "10"
+  }
+ },
+ "9cedba40b8": {
+  "instruction": {
+   "ideal paragon level": "65",
+   "ANSWER": "~1.735 billion",
+   "current paragon level": "45"
+  }
+ },
+ "1d5c153bce": {
+  "instruction": {
+   "ideal paragon level": "30",
+   "ANSWER": "524.16 million",
+   "current paragon level": "17"
+  }
+ },
+ "5e7cb76bf4": {
+  "instruction": {
+   "ideal paragon level": "80",
+   "current paragon level": "55"
+  }
+ },
+ "7db096243d": {
+  "instruction": {
+   "ideal paragon level": "10",
+   "ANSWER": "129.6 million",
+   "current paragon level": "1"
+  }
+ },
+ "31ddf3ddca": {
+  "instruction": {
+   "ideal paragon level": "110",
+   "ANSWER": "~1.885 billion",
+   "current paragon level": "99"
+  }
+ },
+ "4897e28045": {
+  "instruction": {
+   "ideal paragon level": "12",
+   "ANSWER": "100.8 million",
+   "current paragon level": "7"
+  }
+ },
+ "45fe1f24a4": {
+  "instruction": {
+   "ideal paragon level": "7",
+   "ANSWER": "712.8 million",
+   "current paragon level": "29"
+  }
+ },
+ "1d158a576f": {
+  "instruction": {
+   "current paragon level": "5",
+   "ideal paragon level": "11"
+  }
+ },
+ "b7aa6e19e9": {
+  "instruction": {
+   "ideal paragon level": "25",
+   "ANSWER": "496.8 million",
+   "current paragon level": "35"
+  }
+ },
+ "8bd2671090": {
+  "instruction": {
+   "ideal paragon level": "16",
+   "ANSWER": "151.2 million",
+   "current paragon level": "10"
+  }
+ },
+ "84580702e8": {
+  "instruction": {
+   "ideal paragon level": "85",
+   "ANSWER": "~5.939 billion",
+   "current paragon level": "15"
+  }
+ },
+ "5c6993ee02": {
+  "instruction": {
+   "ideal paragon level": "3",
+   "ANSWER": "18.72 million",
+   "current paragon level": "1"
+  }
+ },
+ "12f5a9fdb8": {
+  "instruction": {
+   "ideal paragon level": "15",
+   "current paragon level": "1",
+   "ANSWER": "252 million"
+  }
+ },
+ "2a2ff63906": {
+  "instruction": {
+   "ideal paragon level": "10",
+   "ANSWER": "136.8 million",
+   "current paragon level": "0"
+  }
+ },
+ "7f11582956": {
+  "instruction": {
+   "ideal paragon level": "50",
+   "ANSWER": "712.8 million",
+   "current paragon level": "40"
+  }
+ },
+ "f381d6c03d": {
+  "instruction": {
+   "ideal paragon level": "88",
+   "ANSWER": "~1.923 billion",
+   "current paragon level": "75"
+  }
+ },
+ "465ad90110": {
+  "instruction": {
+   "ideal paragon level": "40",
+   "current paragon level": "30",
+   "ANSWER": "568.8 million"
+  }
+ },
+ "923bacc9a0": {
+  "instruction": {
+   "ideal paragon level": "30",
+   "ANSWER": "705.6 million",
+   "current paragon level": "10"
+  }
+ },
+ "7b93327f01": {
+  "instruction": {
+   "ideal paragon level": "5",
+   "current paragon level": "0",
+   "ANSWER": "50.4 million"
+  }
+ },
+ "5ba2625fd7": {
+  "instruction": {
+   "ideal paragon level": "110",
+   "current paragon level": "15"
+  }
+ },
+ "a9ca08875c": {
+  "instruction": {
+   "ideal paragon level": "5",
+   "ANSWER": "34.56 million",
+   "current paragon level": "2"
+  }
+ },
+ "d619cad703": {
+  "instruction": {
+   "ideal paragon level": "14",
+   "ANSWER": "205.92 million",
+   "current paragon level": "3"
+  }
+ },
+ "bcf5750d93": {
+  "instruction": {
+   "ideal paragon level": "11",
+   "current paragon level": "10",
+   "ANSWER": "21.6 million"
+  }
+ },
+ "5464e6364c": {
+  "instruction": {
+   "ideal paragon level": "15",
+   "ANSWER": "221.76 million",
+   "current paragon level": "4"
+  }
+ },
+ "1367216e4e": {
+  "instruction": {
+   "ideal paragon level": "1",
+   "ANSWER": "8.578 billion",
+   "current paragon level": "100"
+  }
+ },
+ "2753ca4386": {
+  "instruction": {
+   "ideal paragon level": "99",
+   "ANSWER": "~8.411 billion",
+   "current paragon level": "1"
+  }
+ },
+ "e0de2a5c17": {
+  "instruction": {
+   "ideal paragon level": "9",
+   "ANSWER": "18.72 million",
+   "current paragon level": "8"
+  }
+ },
+ "0c3de4882e": {
+  "instruction": {
+   "ideal paragon level": "21",
+   "ANSWER": "372.96 million",
+   "current paragon level": "7"
+  }
+ },
+ "477d158f18": {
+  "instruction": {
+   "ideal paragon level": "14",
+   "current paragon level": "3",
+   "ANSWER": "205.92 million"
+  }
+ },
+ "a3dae67cde": {
+  "instruction": {
+   "ideal paragon level": "130",
+   "ANSWER": "~4.443 billion",
+   "current paragon level": "106"
+  }
+ },
+ "197cab7a72": {
+  "instruction": {
+   "ideal paragon level": "16",
+   "current paragon level": "10",
+   "ANSWER": "151.2 million"
+  }
+ },
+ "dbc1018913": {
+  "instruction": {
+   "ideal paragon level": "15",
+   "current paragon level": "0"
+  }
+ },
+ "2d4d3db1f4": {
+  "instruction": {
+   "ideal paragon level": "80",
+   "ANSWER": "~4.611 billion",
+   "current paragon level": "30"
+  }
+ },
+ "5ef3c92423": {
+  "instruction": {
+   "ideal paragon level": "40",
+   "ANSWER": "568.8 million",
+   "current paragon level": "30"
+  }
+ },
+ "0b1be825b9": {
+  "instruction": {
+   "ideal paragon level": "33",
+   "ANSWER": "478.08 million",
+   "current paragon level": "41"
+  }
+ },
+ "d06cde21ef": {
+  "instruction": {
+   "ideal paragon level": "15",
+   "ANSWER": "259.2 million",
+   "current paragon level": "0"
+  }
+ },
+ "75707c710e": {
+  "instruction": {
+   "ideal paragon level": "55",
+   "ANSWER": "2.485 billion",
+   "current paragon level": "77"
+  }
+ },
+ "34799e9b55": {
+  "instruction": {
+   "ideal paragon level": "11",
+   "ANSWER": "93.6 million",
+   "current paragon level": "6"
+  }
+ },
+ "c07e869973": {
+  "instruction": {
+   "ideal paragon level": "88",
+   "current paragon level": "75",
+   "ANSWER": "~1.923 billion"
+  }
+ },
+ "43a2c80ec6": {
+  "instruction": {
+   "ideal paragon level": "17",
+   "ANSWER": "302.4 million",
+   "current paragon level": "2"
+  }
+ },
+ "b1c2dcf6e5": {
+  "instruction": {
+   "ideal paragon level": "15",
+   "current paragon level": "4",
+   "ANSWER": "221.76 million"
+  }
+ },
+ "300a9907fc": {
+  "instruction": {
+   "ideal paragon level": "110",
+   "current paragon level": "99",
+   "ANSWER": "~1.885 billion"
+  }
+ },
+ "52e39c9718": {
+  "instruction": {
+   "ideal paragon level": "11",
+   "current paragon level": "6",
+   "ANSWER": "93.6 million"
+  }
+ },
+ "8f8ff54aa5": {
+  "instruction": {
+   "ideal paragon level": "6",
+   "ANSWER": "15.84 million",
+   "current paragon level": "7"
+  }
+ },
+ "a5cf01a0cb": {
+  "instruction": {
+   "ideal paragon level": "115",
+   "ANSWER": "~2.616 billion",
+   "current paragon level": "100"
+  }
+ },
+ "03be67c2b0": {
+  "instruction": {
+   "ideal paragon level": "11",
+   "current paragon level": "7",
+   "ANSWER": "77.76 million"
+  }
+ },
+ "b270c55938": {
+  "instruction": {
+   "ideal paragon level": "10",
+   "current paragon level": "1",
+   "ANSWER": "129.6 million"
+  }
+ },
+ "b447d0a65b": {
+  "instruction": {
+   "ideal paragon level": "30",
+   "current paragon level": "10",
+   "ANSWER": "705.6 million"
+  }
+ },
+ "196b712e11": {
+  "instruction": {
+   "ideal paragon level": "10",
+   "current paragon level": "0",
+   "ANSWER": "136.8 million"
+  }
+ },
+ "37aa0f11e4": {
+  "instruction": {
+   "ideal paragon level": "25",
+   "ANSWER": "475.2 million",
+   "current paragon level": "10"
+  }
+ },
+ "b3d2890cda": {
+  "instruction": {
+   "ideal paragon level": "20",
+   "current paragon level": "10",
+   "ANSWER": "280.8 million"
+  }
+ },
+ "849f5593b6": {
+  "instruction": {
+   "ideal paragon level": "1",
+   "ANSWER": "8.64 million",
+   "current paragon level": "2"
+  }
+ },
+ "5e6ee2371a": {
+  "instruction": {
+   "ideal paragon level": "9",
+   "current paragon level": "8",
+   "ANSWER": "18.72 million"
+  }
+ },
+ "9fabeb682c": {
+  "instruction": {
+   "ideal paragon level": "50",
+   "current paragon level": "40",
+   "ANSWER": "712.8 million"
+  }
+ },
+ "e07fe9e824": {
+  "instruction": {
+   "ideal paragon level": "24",
+   "ANSWER": "505.44 million",
+   "current paragon level": "6"
+  }
+ },
+ "7409f1f87a": {
+  "instruction": {
+   "ideal paragon level": "10",
+   "current paragon level": "0"
+  }
+ },
+ "f0e6a72d50": {
+  "instruction": {
+   "ideal paragon level": "10",
+   "ANSWER": "86.4 million",
+   "current paragon level": "5"
+  }
+ },
+ "8d71e59e61": {
+  "instruction": {
+   "ideal paragon level": "22",
+   "current paragon level": "19",
+   "ANSWER": "108 million"
+  }
+ },
+ "5db37f2247": {
+  "instruction": {
+   "ideal paragon level": "11",
+   "ANSWER": "77.76 million",
+   "current paragon level": "7"
+  }
+ },
+ "7814089ad8": {
+  "instruction": {
+   "ideal paragon level": "20",
+   "ANSWER": "280.8 million",
+   "current paragon level": "10"
+  }
+ },
+ "7e40d5f594": {
+  "instruction": {
+   "ideal paragon level": "11",
+   "ANSWER": "21.6 million",
+   "current paragon level": "10"
+  }
+ },
+ "25458ed6dc": {
+  "instruction": {
+   "ideal paragon level": "12",
+   "current paragon level": "8"
+  }
+ },
+ "12d564d1e9": {
+  "instruction": {
+   "ideal paragon level": "99",
+   "current paragon level": "1",
+   "ANSWER": "~8.411 billion"
+  }
+ },
+ "f8d132856c": {
+  "instruction": {
+   "ideal paragon level": "17",
+   "ANSWER": "86.4 million",
+   "current paragon level": "14"
+  }
+ },
+ "cc20127bd1": {
+  "instruction": {
+   "ideal paragon level": "2",
+   "current paragon level": "1",
+   "ANSWER": "8.64 million"
+  }
+ },
+ "9dca1eb3d4": {
+  "instruction": {
+   "ideal paragon level": "20",
+   "ANSWER": "236.16 million",
+   "current paragon level": "12"
+  }
+ },
+ "be71611903": {
+  "instruction": {
+   "ideal paragon level": "16",
+   "ANSWER": "106.56 million",
+   "current paragon level": "12"
+  }
+ },
+ "649d1d0027": {
+  "instruction": {
+   "ideal paragon level": "15",
+   "current paragon level": "0",
+   "ANSWER": "259.2 million"
+  }
+ },
+ "5d8f218942": {
+  "instruction": {
+   "ideal paragon level": "25",
+   "current paragon level": "2"
+  }
+ },
+ "f3115834dc": {
+  "instruction": {
+   "ideal paragon level": "25",
+   "ANSWER": "612 million",
+   "current paragon level": "0"
+  }
+ },
+ "6d23aba9d2": {
+  "instruction": {
+   "ideal paragon level": "30",
+   "ANSWER": "835.2 million",
+   "current paragon level": "1"
+  }
+ },
+ "80a08916c2": {
+  "instruction": {
+   "ideal paragon level": "20",
+   "current paragon level": "0",
+   "ANSWER": "417.6 million"
+  }
+ },
+ "e54dbd262f": {
+  "instruction": {
+   "ideal paragon level": "30",
+   "current paragon level": "20",
+   "ANSWER": "424.8 million"
+  }
+ },
+ "2fc3453faf": {
+  "instruction": {
+   "ideal paragon level": "9",
+   "ANSWER": "8.302 billion",
+   "current paragon level": "99"
+  }
+ },
+ "6679806923": {
+  "instruction": {
+   "ideal paragon level": "110",
+   "current paragon level": "15",
+   "ANSWER": "~10.044 billion"
+  }
+ },
+ "70632fb3b0": {
+  "instruction": {
+   "ideal paragon level": "11",
+   "current paragon level": "5"
+  }
+ },
+ "c352f5cb64": {
+  "instruction": {
+   "ideal paragon level": "12",
+   "ANSWER": "181.44 million",
+   "current paragon level": "0"
+  }
+ },
+ "7f771c329b": {
+  "instruction": {
+   "ideal paragon level": "60",
+   "ANSWER": "856.8 million ",
+   "current paragon level": "50"
+  }
+ },
+ "7401862cf7": {
+  "instruction": {
+   "current paragon level": "0",
+   "ideal paragon level": "15"
+  }
+ },
+ "064d3e7909": {
+  "instruction": {
+   "ideal paragon level": "26",
+   "ANSWER": "496.8 million",
+   "current paragon level": "11"
+  }
+ },
+ "c3a7a3ccbf": {
+  "instruction": {
+   "ideal paragon level": "22",
+   "ANSWER": "108 million",
+   "current paragon level": "19"
+  }
+ },
+ "69f8aa1bba": {
+  "instruction": {
+   "ideal paragon level": "50",
+   "current paragon level": "25",
+   "ANSWER": "1.512 billion"
+  }
+ },
+ "9e25564c6a": {
+  "instruction": {
+   "ideal paragon level": "5",
+   "ANSWER": "50.4 million",
+   "current paragon level": "0"
+  }
+ },
+ "e3763907ff": {
+  "instruction": {
+   "current paragon level": "2",
+   "ideal paragon level": "25"
+  }
+ },
+ "81fc1e0531": {
+  "instruction": {
+   "ideal paragon level": "50",
+   "ANSWER": "1.512 billion",
+   "current paragon level": "25"
+  }
+ },
+ "d5e603b8ce": {
+  "instruction": {
+   "ideal paragon level": "47",
+   "ANSWER": "897.12 million",
+   "current paragon level": "33"
+  }
+ },
+ "ce318718ae": {
+  "instruction": {
+   "ideal paragon level": "5",
+   "ANSWER": "12.96 million",
+   "current paragon level": "4"
+  }
+ },
+ "d2a4bf01c8": {
+  "instruction": {
+   "ideal paragon level": "3",
+   "current paragon level": "2",
+   "ANSWER": "10.08 million"
+  }
+ },
+ "f61e641a56": {
+  "instruction": {
+   "current paragon level": "2",
+   "ideal paragon level": "3"
+  }
+ },
+ "29507c3061": {
+  "instruction": {
+   "ideal paragon level": "3",
+   "current paragon level": "2"
+  }
+ },
+ "20c68dadce": {
+  "instruction": {
+   "ideal paragon level": "5",
+   "current paragon level": "4",
+   "ANSWER": "12.96 million"
+  }
+ },
+ "d5d3c100fd": {
+  "instruction": {
+   "ideal paragon level": "10",
+   "current paragon level": "2",
+   "ANSWER": "120.96 million"
+  }
+ },
+ "74b7e6272f": {
+  "instruction": {
+   "ideal paragon level": "21",
+   "current paragon level": "7",
+   "ANSWER": "372.96 million"
+  }
+ },
+ "3a47ee6559": {
+  "instruction": {
+   "ideal paragon level": "5",
+   "ANSWER": "86.4 million",
+   "current paragon level": "10"
+  }
+ },
+ "6906a11008": {
+  "instruction": {
+   "ideal paragon level": "23",
+   "ANSWER": "38.88 million",
+   "current paragon level": "22"
+  }
+ },
+ "3282a834a7": {
+  "instruction": {
+   "current paragon level": "12",
+   "ideal paragon level": "14"
+  }
+ },
+ "65756caad9": {
+  "instruction": {
+   "ideal paragon level": "44",
+   "ANSWER": "~1.225 billion",
+   "current paragon level": "21"
+  }
+ },
+ "ed8b51c1bb": {
+  "instruction": {
+   "ideal paragon level": "100",
+   "current paragon level": "75",
+   "ANSWER": "~3.85 billion"
+  }
+ },
+ "c040309b2b": {
+  "instruction": {
+   "ideal paragon level": "85",
+   "current paragon level": "15",
+   "ANSWER": "~5.939 billion"
+  }
+ },
+ "18baa213ca": {
+  "instruction": {
+   "current paragon level": "1",
+   "ideal paragon level": "15"
+  }
+ },
+ "a16080dd57": {
+  "instruction": {
+   "ideal paragon level": "16",
+   "ANSWER": "288 million",
+   "current paragon level": "0"
+  }
+ },
+ "9b5d2bf046": {
+  "instruction": {
+   "ideal paragon level": "12",
+   "current paragon level": "7",
+   "ANSWER": "100.8 million"
+  }
+ },
+ "b7741f995e": {
+  "instruction": {
+   "ideal paragon level": "40",
+   "ANSWER": "~1.331 billion",
+   "current paragon level": "7"
+  }
+ },
+ "9e23fe4ca9": {
+  "instruction": {
+   "ideal paragon level": "25",
+   "ANSWER": "561.6 million",
+   "current paragon level": "5"
+  }
+ },
+ "d7f0531c59": {
+  "instruction": {
+   "ideal paragon level": "55",
+   "ANSWER": "~2.527 billion",
+   "current paragon level": "1"
+  }
+ },
+ "d22d7cb032": {
+  "instruction": {
+   "ideal paragon level": "12",
+   "ANSWER": "165.6 million",
+   "current paragon level": "2"
+  }
+ },
+ "9e54b10a67": {
+  "instruction": {
+   "ideal paragon level": "30",
+   "ANSWER": "907.2 million",
+   "current paragon level": "45"
+  }
+ },
+ "a2049efe75": {
+  "instruction": {
+   "ideal paragon level": "5",
+   "current paragon level": "2",
+   "ANSWER": "34.56 million"
+  }
+ },
+ "62433d4ff4": {
+  "instruction": {
+   "ideal paragon level": "25",
+   "ANSWER": "194.4 million",
+   "current paragon level": "20"
+  }
+ },
+ "82c99ee3ec": {
+  "instruction": {
+   "ideal paragon level": "17",
+   "current paragon level": "14",
+   "ANSWER": "86.4 million"
+  }
+ },
+ "93f42a1b0a": {
+  "instruction": {
+   "ideal paragon level": "110",
+   "ANSWER": "~10.044 billion",
+   "current paragon level": "15"
+  }
+ },
+ "8428620a6d": {
+  "instruction": {
+   "ideal paragon level": "115",
+   "current paragon level": "100",
+   "ANSWER": "~2.616 billion"
+  }
+ },
+ "38af0daab8": {
+  "instruction": {
+   "ideal paragon level": "15",
+   "current paragon level": "1"
+  }
+ },
+ "371cce00fa": {
+  "instruction": {
+   "ideal paragon level": "15",
+   "ANSWER": "252 million",
+   "current paragon level": "1"
+  }
+ },
+ "6238349597": {
+  "instruction": {
+   "ideal paragon level": "110",
+   "current paragon level": "1",
+   "ANSWER": "~10.296 billion"
+  }
+ },
+ "2cc8da883f": {
+  "instruction": {
+   "ideal paragon level": "10",
+   "ANSWER": "120.96 million",
+   "current paragon level": "2"
+  }
+ },
+ "5a97b7a2a6": {
+  "instruction": {
+   "ideal paragon level": "30",
+   "ANSWER": "424.8 million",
+   "current paragon level": "20"
+  }
+ },
+ "f4b7b132b8": {
+  "instruction": {
+   "ideal paragon level": "70 ",
+   "ANSWER": "257.04 million",
+   "current paragon level": "72"
+  }
+ },
+ "5703a211d2": {
+  "instruction": {
+   "ideal paragon level": "1",
+   "ANSWER": "90.72 million",
+   "current paragon level": "8"
+  }
+ },
+ "388c607eae": {
+  "instruction": {
+   "ideal paragon level": "30",
+   "current paragon level": "1",
+   "ANSWER": "835.2 million"
+  }
+ },
+ "a1ef3dae65": {
+  "instruction": {
+   "current paragon level": "55",
+   "ideal paragon level": "80"
+  }
+ },
+ "3087b11c42": {
+  "instruction": {
+   "ideal paragon level": "20",
+   "ANSWER": "417.6 million",
+   "current paragon level": "0"
+  }
+ },
+ "1272d449d9": {
+  "instruction": {
+   "current paragon level": "8",
+   "ideal paragon level": "12"
+  }
+ },
+ "94abe522c5": {
+  "instruction": {
+   "ideal paragon level": "2",
+   "ANSWER": "8.64 million",
+   "current paragon level": "1"
+  }
+ },
+ "d541c2b730": {
+  "instruction": {
+   "ideal paragon level": "110",
+   "ANSWER": "~10.296 billion",
+   "current paragon level": "1"
+  }
+ },
+ "51a1e13c9a": {
+  "instruction": {
+   "ideal paragon level": "14",
+   "current paragon level": "12"
+  }
+ },
+ "954104454a": {
+  "instruction": {
+   "ideal paragon level": "48",
+   "ANSWER": "~1.479 billion",
+   "current paragon level": "22"
+  }
+ },
+ "a7fdd4a4d5": {
+  "instruction": {
+   "ideal paragon level": "35",
+   "ANSWER": "927.36 million",
+   "current paragon level": "12"
+  }
+ },
+ "ff47cbcf0c": {
+  "instruction": {
+   "ideal paragon level": "50",
+   "ANSWER": "4.074 billion ",
+   "current paragon level": "85"
+  }
+ },
+ "19afa18c2f": {
+  "instruction": {
+   "ideal paragon level": "2",
+   "current paragon level": "0",
+   "ANSWER": "15.84 million"
+  }
+ },
+ "90588faf71": {
+  "instruction": {
+   "current paragon level": "15",
+   "ideal paragon level": "110"
+  }
+ },
+ "c1de4e8de4": {
+  "instruction": {
+   "ideal paragon level": "24",
+   "current paragon level": "6",
+   "ANSWER": "505.44 million"
+  }
+ },
+ "881fd653a3": {
+  "instruction": {
+   "ideal paragon level": "250",
+   "ANSWER": "~50.322 billion",
+   "current paragon level": "1"
+  }
+ },
+ "31fec67c96": {
+  "instruction": {
+   "ideal paragon level": "900",
+   "ANSWER": "~5.832 trillion",
+   "current paragon level": "500"
+  }
+ },
+ "6f6316624e": {
+  "instruction": {
+   "ideal paragon level": "60 ",
+   "ANSWER": "504 million",
+   "current paragon level": "65"
+  }
+ },
+ "b604f4db07": {
+  "instruction": {
+   "ideal paragon level": "6",
+   "ANSWER": "27.36 million",
+   "current paragon level": "4"
+  }
+ },
+ "77f0797525": {
+  "instruction": {
+   "ideal paragon level": "40",
+   "ANSWER": "993.6 million",
+   "current paragon level": "20"
+  }
+ },
+ "eb47c0b211": {
+  "instruction": {
+   "ideal paragon level": "11",
+   "ANSWER": "41.76 million",
+   "current paragon level": "9"
+  }
+ },
+ "87eda411e2": {
+  "instruction": {
+   "ideal paragon level": "1",
+   "ANSWER": "7.2 million",
+   "current paragon level": "0"
+  }
+ }
+}

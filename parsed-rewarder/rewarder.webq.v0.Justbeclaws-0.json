@@ -1,0 +1,62 @@
+{
+ "d12808c14f": {
+  "instruction": {
+   "Historic District ": "Historic District",
+   "seafood": "lobster"
+  }
+ },
+ "d390214e7a": {
+  "instruction": {
+   "Historic District ": "Historic District",
+   "seafood": "fish"
+  }
+ },
+ "606c557de4": {
+  "instruction": {
+   "Historic District ": "Historic District",
+   "seafood": "crab "
+  }
+ },
+ "1a1d8bf793": {
+  "instruction": {
+   "Historic District ": "downtown",
+   "seafood": "seafod"
+  }
+ },
+ "8661c6ac9a": {
+  "instruction": {
+   "Historic District ": "ocean",
+   "seafood": "raw bar"
+  }
+ },
+ "c53dd88f8b": {
+  "instruction": {
+   "Historic District ": "Historic District",
+   "seafood": "shellfish"
+  }
+ },
+ "418764b602": {
+  "instruction": {
+   "Historic District ": "Historic District",
+   "seafood": "clam"
+  }
+ },
+ "ceec0c8f9a": {
+  "instruction": {
+   "Historic District ": "Historic District",
+   "seafood": "Cajun style "
+  }
+ },
+ "53007d5841": {
+  "instruction": {
+   "Historic District ": "Historic District",
+   "seafood": "fried food"
+  }
+ },
+ "4d211ee9e8": {
+  "instruction": {
+   "Historic District ": "Historic District",
+   "seafood": "scallop"
+  }
+ }
+}

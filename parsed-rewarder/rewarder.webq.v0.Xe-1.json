@@ -1,0 +1,62 @@
+{
+ "4482b17e45": {
+  "instruction": {
+   "currency 2": "MYR",
+   "currency 1": "CNY"
+  }
+ },
+ "f33eb84e63": {
+  "instruction": {
+   "currency 2": "BRL",
+   "currency 1": "TRY"
+  }
+ },
+ "d6bd6165bf": {
+  "instruction": {
+   "currency 2": "EGP",
+   "currency 1": "KRW"
+  }
+ },
+ "0fc96ba791": {
+  "instruction": {
+   "currency 2": "INR",
+   "currency 1": "GBP"
+  }
+ },
+ "754d9074ac": {
+  "instruction": {
+   "currency 2": "USD",
+   "currency 1": "EUR"
+  }
+ },
+ "40f03ba0f0": {
+  "instruction": {
+   "currency 2": "THB",
+   "currency 1": "JPY"
+  }
+ },
+ "bfe31ba84e": {
+  "instruction": {
+   "currency 2": "DKK",
+   "currency 1": "IQD"
+  }
+ },
+ "5dfdb3a125": {
+  "instruction": {
+   "currency 2": "CNY",
+   "currency 1": "NZD"
+  }
+ },
+ "987a6ba001": {
+  "instruction": {
+   "currency 2": "EUR",
+   "currency 1": "USD"
+  }
+ },
+ "9aaca62056": {
+  "instruction": {
+   "currency 2": "KWD",
+   "currency 1": "NOK"
+  }
+ }
+}

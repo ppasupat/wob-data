@@ -1,0 +1,72 @@
+{
+ "ef8b9ec590": {
+  "instruction": {
+   "Artist": "The Velvet Underground",
+   "Ranking": "59",
+   "Song": "Sunday Morning"
+  }
+ },
+ "d6cb512887": {
+  "instruction": {
+   "Artist": "Simon & Garfunkel",
+   "Ranking": "105",
+   "Song": "America"
+  }
+ },
+ "ddfb052328": {
+  "instruction": {
+   "Artist": "The Who",
+   "Ranking": "91",
+   "Song": "Substitue"
+  }
+ },
+ "7aaa1f0ccf": {
+  "instruction": {
+   "Artist": "The Creation",
+   "Ranking": "46",
+   "Song": "Making Time"
+  }
+ },
+ "ecce04e92f": {
+  "instruction": {
+   "Artist": "The Rolling Stones",
+   "Ranking": "62",
+   "Song": "Street Fighting Man"
+  }
+ },
+ "22e0f4b599": {
+  "instruction": {
+   "Artist": "Van Morrison",
+   "Ranking": "72",
+   "Song": "Sweet Thing"
+  }
+ },
+ "011fb48e0b": {
+  "instruction": {
+   "Artist": "P. P. Arnold",
+   "Ranking": "158",
+   "Song": "The First Cut Is The Deepest"
+  }
+ },
+ "6b1f006215": {
+  "instruction": {
+   "Artist": "The Beach Boys",
+   "Ranking": "1",
+   "Song": "God Only Knows"
+  }
+ },
+ "3ed21eb2af": {
+  "instruction": {
+   "Artist": "Sam & Dave",
+   "Ranking": "81",
+   "Song": "Hold On, I'm Comin"
+  }
+ },
+ "8cfbca1032": {
+  "instruction": {
+   "Artist": "James Brown & The Famous Flames",
+   "Ranking": "33",
+   "Song": "It's a Man's Man's Man's World"
+  }
+ }
+}

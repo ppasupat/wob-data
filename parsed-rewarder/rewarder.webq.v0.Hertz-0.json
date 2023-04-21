@@ -1,0 +1,62 @@
+{
+ "fd15115578": {
+  "instruction": {
+   "time": "in the evening",
+   "date": "the second week of may"
+  }
+ },
+ "5ccb83abdc": {
+  "instruction": {
+   "time": "in a little while",
+   "date": "now"
+  }
+ },
+ "f06059cf99": {
+  "instruction": {
+   "time": "1:00",
+   "date": "1/1/17"
+  }
+ },
+ "aeac637942": {
+  "instruction": {
+   "time": "noonish",
+   "date": "Next Tuesday "
+  }
+ },
+ "02512b3eda": {
+  "instruction": {
+   "time": "around 4",
+   "date": "today"
+  }
+ },
+ "b05385614c": {
+  "instruction": {
+   "time": "9am",
+   "date": "a week from today"
+  }
+ },
+ "38f4574b5c": {
+  "instruction": {
+   "time": "11am",
+   "date": "tomorrow"
+  }
+ },
+ "af0c006093": {
+  "instruction": {
+   "time": "later in the day",
+   "date": "the first of next month"
+  }
+ },
+ "cc4dcee07d": {
+  "instruction": {
+   "time": "mid day",
+   "date": "march 14th"
+  }
+ },
+ "0df536bf46": {
+  "instruction": {
+   "time": "earliest possible",
+   "date": "2/24"
+  }
+ }
+}

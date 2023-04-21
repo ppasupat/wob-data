@@ -1,0 +1,1726 @@
+{
+ "8bbb524049": {
+  "instruction": {
+   "dollar price": "60",
+   "company": "ADATA",
+   "ANSWER": "ADATA ASU800SS-128GT-C",
+   "computer part": "Storage"
+  }
+ },
+ "d433f3b592": {
+  "instruction": {
+   "company": "from SilverStone Technology Co.,",
+   "computer part": "What is the highest rated optical drive",
+   "dollar price": "under $145",
+   "ANSWER": "Silverstone SST-SOB02"
+  }
+ },
+ "7ce2ebdac5": {
+  "instruction": {
+   "company": "lg",
+   "computer part": "optical drive",
+   "dollar price": "50",
+   "ANSWER": "LG WH14NS40"
+  }
+ },
+ "5cad376cd6": {
+  "instruction": {
+   "company": "Intel",
+   "computer part": "motherboard",
+   "dollar price": "130",
+   "ANSWER": "Intel DB75EN"
+  }
+ },
+ "3bf2f95eb4": {
+  "instruction": {
+   "company": "amd",
+   "computer part": "cpu",
+   "dollar price": "150"
+  }
+ },
+ "04c31cf297": {
+  "instruction": {
+   "company": "buslink",
+   "computer part": "external storage",
+   "dollar price": "900",
+   "ANSWER": "Buslink CipherShield 6TB External Hard Drive"
+  }
+ },
+ "5d8a9f724e": {
+  "instruction": {
+   "dollar price": "150",
+   "company": "Silverstone",
+   "ANSWER": "Silverstone SST-SOB02",
+   "computer part": "Optical Drive"
+  }
+ },
+ "e7689da9ca": {
+  "instruction": {
+   "company": "seagate",
+   "computer part": "hard drive",
+   "dollar price": "200"
+  }
+ },
+ "471c905ad2": {
+  "instruction": {
+   "dollar price": "260",
+   "company": "MSI",
+   "ANSWER": "MSI GEFORCE GTX 1060 GAMING X 6G",
+   "computer part": "Video Card"
+  }
+ },
+ "def22c9274": {
+  "instruction": {
+   "company": "CORSAIR",
+   "computer part": "Keyboard",
+   "dollar price": "131",
+   "ANSWER": "CORSAIR VENGEANCE K70"
+  }
+ },
+ "937f797cde": {
+  "instruction": {
+   "dollar price": "dell",
+   "company": "dell ",
+   "ANSWER": "dell gaming mouse x33",
+   "computer part": "mouse"
+  }
+ },
+ "690138129e": {
+  "instruction": {
+   "dollar price": "100",
+   "company": "EVGA",
+   "ANSWER": "EVGA 220-G3-0550",
+   "computer part": "Power Supply"
+  }
+ },
+ "615898b699": {
+  "instruction": {
+   "dollar price": "under $145",
+   "company": "from SilverStone Technology Co.,",
+   "ANSWER": "Silverstone SST-SOB02",
+   "computer part": "What is the highest rated optical drive"
+  }
+ },
+ "527a1bb698": {
+  "instruction": {
+   "company": "Asus",
+   "computer part": "Monitor",
+   "dollar price": "360",
+   "ANSWER": "Asus PB278Q"
+  }
+ },
+ "996e0b9784": {
+  "instruction": {
+   "dollar price": "50",
+   "company": "razer",
+   "ANSWER": "Razer DeathAdder Chroma",
+   "computer part": "mouse"
+  }
+ },
+ "d862bf6bc9": {
+  "instruction": {
+   "dollar price": "$338.89",
+   "company": "INTEL",
+   "ANSWER": "Intel Core i7-7700K",
+   "computer part": "CPU"
+  }
+ },
+ "17c04193fc": {
+  "instruction": {
+   "dollar price": "150",
+   "company": "Asus",
+   "ANSWER": "Asus Z170-A",
+   "computer part": "Motherboard"
+  }
+ },
+ "a52e7c4537": {
+  "instruction": {
+   "company": "MSI",
+   "computer part": "motherboard",
+   "dollar price": "190",
+   "ANSWER": "MSI Z170A GAMING M7"
+  }
+ },
+ "e0964becc4": {
+  "instruction": {
+   "dollar price": "350",
+   "company": "intel",
+   "ANSWER": "Intel Core i7-7700K",
+   "computer part": "cpu "
+  }
+ },
+ "ac9d1971be": {
+  "instruction": {
+   "dollar price": "under $1500",
+   "company": "from Corsair?",
+   "ANSWER": "Corsair Dominator Platinum\t",
+   "computer part": "What is the highest rated RAM"
+  }
+ },
+ "0a8a9947d2": {
+  "instruction": {
+   "company": "logitech",
+   "computer part": "keyboard",
+   "dollar price": "10",
+   "ANSWER": "Logitech K120"
+  }
+ },
+ "ecbe75f91b": {
+  "instruction": {
+   "dollar price": "400",
+   "company": "MSI",
+   "ANSWER": "MSI GTX 1070 GAMING X 8G",
+   "computer part": "video card"
+  }
+ },
+ "12694fddc6": {
+  "instruction": {
+   "company": "noctua",
+   "computer part": "CPU cooler",
+   "dollar price": "90",
+   "ANSWER": "Noctua NH-D15"
+  }
+ },
+ "d0793ff2a9": {
+  "instruction": {
+   "company": "asus",
+   "computer part": "monitor",
+   "dollar price": "500"
+  }
+ },
+ "6ebe8c99fb": {
+  "instruction": {
+   "dollar price": "500",
+   "company": "MSI",
+   "ANSWER": "MSI Z270 GAMING PRO CARBON",
+   "computer part": "Motherboard"
+  }
+ },
+ "5279a8b2af": {
+  "instruction": {
+   "company": "MSI",
+   "computer part": "video card",
+   "dollar price": "400",
+   "ANSWER": "MSI GTX 1070 GAMING X 8G"
+  }
+ },
+ "308832ad09": {
+  "instruction": {
+   "dollar price": "90",
+   "company": "noctua",
+   "ANSWER": "Noctua NH-D15",
+   "computer part": "CPU cooler"
+  }
+ },
+ "15576ae9fb": {
+  "instruction": {
+   "dollar price": "37",
+   "company": "Deepcool",
+   "ANSWER": "Deepcool TESSERACT SW",
+   "computer part": "case"
+  }
+ },
+ "5bfdb5e43d": {
+  "instruction": {
+   "company": "western digital",
+   "computer part": "storage",
+   "dollar price": "50",
+   "ANSWER": "Western Digital WD10EZEX"
+  }
+ },
+ "3b39252173": {
+  "instruction": {
+   "dollar price": "190",
+   "company": "MSI",
+   "ANSWER": "MSI Z170A GAMING M7",
+   "computer part": "motherboard"
+  }
+ },
+ "d958883f22": {
+  "instruction": {
+   "dollar price": "165",
+   "company": "Sennheiser",
+   "ANSWER": "Sennhheiser hd 598",
+   "computer part": "Headphones"
+  }
+ },
+ "34f53e2b82": {
+  "instruction": {
+   "dollar price": "$66.88",
+   "company": "Kingston ",
+   "ANSWER": "Kingston HyperX Fury Black",
+   "computer part": "Memory"
+  }
+ },
+ "d1fa5a4298": {
+  "instruction": {
+   "company": "Cooler Master",
+   "computer part": "Case",
+   "dollar price": "$31.98\t",
+   "ANSWER": "Cooler Master N200 MicroATX Mini Tower Case"
+  }
+ },
+ "54ed8885d2": {
+  "instruction": {
+   "dollar price": "150",
+   "company": "lamptron",
+   "ANSWER": "Lamptron FC-CM615-BK",
+   "computer part": "fan controller"
+  }
+ },
+ "5b04582b16": {
+  "instruction": {
+   "dollar price": "100",
+   "company": "bose",
+   "ANSWER": "Bose Companion 2 Series III",
+   "computer part": "speakers"
+  }
+ },
+ "9583f07952": {
+  "instruction": {
+   "dollar price": "under $410",
+   "company": "from Corsair?",
+   "ANSWER": "Corsair AX1500i",
+   "computer part": "What is the highest rated power supply"
+  }
+ },
+ "402dae6e75": {
+  "instruction": {
+   "dollar price": "$17.88",
+   "company": "Asus",
+   "ANSWER": "Asus DRW-24B1ST/BLK/B/AS",
+   "computer part": "Optical Drive"
+  }
+ },
+ "eea260af93": {
+  "instruction": {
+   "company": "Gigabyte",
+   "computer part": "motherboard",
+   "dollar price": "100",
+   "ANSWER": "Gigabyte GA-H97M-D3H"
+  }
+ },
+ "6a4b2dab67": {
+  "instruction": {
+   "dollar price": "131",
+   "company": "CORSAIR",
+   "ANSWER": "CORSAIR VENGEANCE K70",
+   "computer part": "Keyboard"
+  }
+ },
+ "f2e1a9936c": {
+  "instruction": {
+   "dollar price": "$49.33",
+   "company": "Western Digital ",
+   "ANSWER": "Western Digital WD10EZEX",
+   "computer part": "Storage"
+  }
+ },
+ "502458974a": {
+  "instruction": {
+   "company": "Western Digital ",
+   "computer part": "Storage",
+   "dollar price": "$49.33",
+   "ANSWER": "Western Digital WD10EZEX"
+  }
+ },
+ "133928437d": {
+  "instruction": {
+   "company": "from Intel?",
+   "computer part": "What is the highest rated CPU",
+   "dollar price": "under $3500",
+   "ANSWER": "Intel Xeon E5-2698 V4"
+  }
+ },
+ "1ff06ce9b7": {
+  "instruction": {
+   "dollar price": "under $200",
+   "company": "from Microsoft?",
+   "ANSWER": "Microsoft Windows 10 Pro (32/64-bit)",
+   "computer part": "What is the highest rated operating system"
+  }
+ },
+ "5a06ebb520": {
+  "instruction": {
+   "company": "ASRock",
+   "computer part": "Motherboard",
+   "dollar price": "40",
+   "ANSWER": "ASRock H110M-HDS"
+  }
+ },
+ "42cb6ae02f": {
+  "instruction": {
+   "company": "from Intel?",
+   "computer part": "What is the highest rated Storage",
+   "dollar price": "under $9000",
+   "ANSWER": "Intel SSDPECME040T401"
+  }
+ },
+ "6880417475": {
+  "instruction": {
+   "dollar price": "600",
+   "company": "amd",
+   "computer part": "gpu"
+  }
+ },
+ "aa8ad81199": {
+  "instruction": {
+   "dollar price": "50",
+   "company": "Samsung",
+   "ANSWER": "Samsung HD161GJ",
+   "computer part": "Storage"
+  }
+ },
+ "e7dbe7ed49": {
+  "instruction": {
+   "company": "Asus",
+   "computer part": "Video Card",
+   "dollar price": "680",
+   "ANSWER": "Asus STRIX-GTX1080-O8G-GAMING"
+  }
+ },
+ "db3350f0a5": {
+  "instruction": {
+   "dollar price": "Under $675",
+   "company": "from Intel?",
+   "ANSWER": "ASRock X99 WS-E/10G",
+   "computer part": "What is the highest rated Motherboard"
+  }
+ },
+ "2cc4d4dd3b": {
+  "instruction": {
+   "company": "INTEL",
+   "computer part": "CPU",
+   "dollar price": "$338.89",
+   "ANSWER": "Intel Core i7-7700K"
+  }
+ },
+ "261d78eee9": {
+  "instruction": {
+   "company": "intel",
+   "computer part": "motherboard",
+   "dollar price": "300"
+  }
+ },
+ "40a3057520": {
+  "instruction": {
+   "company": "anybody",
+   "computer part": "fan",
+   "dollar price": "100"
+  }
+ },
+ "b3e01e60b2": {
+  "instruction": {
+   "company": "from NVIDIA?",
+   "computer part": "What is the highest rated video card",
+   "dollar price": "under $4750",
+   "ANSWER": "PNY VCQP6000-PB"
+  }
+ },
+ "05b12a08bf": {
+  "instruction": {
+   "company": "AMD",
+   "computer part": "cpu ",
+   "dollar price": "150",
+   "ANSWER": "AMD FX-8350"
+  }
+ },
+ "64442cc7ea": {
+  "instruction": {
+   "dollar price": "$77.88",
+   "company": "SuperNOVA ",
+   "ANSWER": "EVGA SuperNOVA 650",
+   "computer part": "Power Supply"
+  }
+ },
+ "1789101737": {
+  "instruction": {
+   "dollar price": "under $5250",
+   "company": "from Eizo?",
+   "ANSWER": "Eizo CG318-BK",
+   "computer part": "What is the highest rated Monitor"
+  }
+ },
+ "dd6d85175a": {
+  "instruction": {
+   "dollar price": "300",
+   "company": "intel",
+   "computer part": "motherboard"
+  }
+ },
+ "a043cc4846": {
+  "instruction": {
+   "dollar price": "100",
+   "company": "anybody",
+   "computer part": "fan"
+  }
+ },
+ "99b3c54d11": {
+  "instruction": {
+   "dollar price": "357",
+   "company": "Asus",
+   "ANSWER": "ASUS MAXIMUS VI IMPACT",
+   "computer part": "Motherboard"
+  }
+ },
+ "ff614ff9c6": {
+  "instruction": {
+   "dollar price": "20",
+   "company": "Kingston",
+   "ANSWER": "Kingston\tDDR3-1333\t240-pin DIMM",
+   "computer part": "Memory"
+  }
+ },
+ "fd551602a3": {
+  "instruction": {
+   "dollar price": "130",
+   "company": "Intel",
+   "ANSWER": "Intel DB75EN",
+   "computer part": "motherboard"
+  }
+ },
+ "d7aa361590": {
+  "instruction": {
+   "dollar price": "20",
+   "company": "Asus",
+   "ANSWER": "Asus DRW-24B1ST/BLK/B/AS",
+   "computer part": "optical drive"
+  }
+ },
+ "3a311a7946": {
+  "instruction": {
+   "dollar price": "under $300 ",
+   "company": "from Phanteks?",
+   "ANSWER": "Phanteks PH-TC12DX_BL",
+   "computer part": "What is the highest rated CPU cooler "
+  }
+ },
+ "f87a86d55b": {
+  "instruction": {
+   "dollar price": "200",
+   "company": "intel",
+   "computer part": "cpu"
+  }
+ },
+ "3b79e0fe7e": {
+  "instruction": {
+   "dollar price": "470",
+   "company": "Intel",
+   "ANSWER": "Intel Core i7-3770K",
+   "computer part": "CPU"
+  }
+ },
+ "c7e5bcbcd9": {
+  "instruction": {
+   "dollar price": "200",
+   "company": "seagate",
+   "computer part": "hard drive"
+  }
+ },
+ "db51265570": {
+  "instruction": {
+   "company": "ADATA",
+   "computer part": "Storage",
+   "dollar price": "60",
+   "ANSWER": "ADATA ASU800SS-128GT-C"
+  }
+ },
+ "8b7f70a590": {
+  "instruction": {
+   "company": "from Microsoft?",
+   "computer part": "What is the highest rated operating system",
+   "dollar price": "under $200",
+   "ANSWER": "Microsoft Windows 10 Pro (32/64-bit)"
+  }
+ },
+ "742467e87d": {
+  "instruction": {
+   "dollar price": "150",
+   "company": "amd",
+   "computer part": "cpu"
+  }
+ },
+ "a81caf1b85": {
+  "instruction": {
+   "dollar price": "under $9000",
+   "company": "from Intel?",
+   "ANSWER": "Intel SSDPECME040T401",
+   "computer part": "What is the highest rated Storage"
+  }
+ },
+ "49f0e6f4ac": {
+  "instruction": {
+   "company": "AMD",
+   "computer part": "CPU",
+   "dollar price": "40",
+   "ANSWER": "AMD A4-7300"
+  }
+ },
+ "7d6d0120cc": {
+  "instruction": {
+   "company": "Sennheiser",
+   "computer part": "Headphones",
+   "dollar price": "165",
+   "ANSWER": "Sennhheiser hd 598"
+  }
+ },
+ "f2a78e2857": {
+  "instruction": {
+   "dollar price": "255",
+   "company": "Asus",
+   "ANSWER": "Asus ROG MAXIMUS VIII HERO ALPHA",
+   "computer part": "motherboard"
+  }
+ },
+ "5201c5c73d": {
+  "instruction": {
+   "company": "from Corsair?",
+   "computer part": "What is the highest rated power supply",
+   "dollar price": "under $410",
+   "ANSWER": "Corsair AX1500i"
+  }
+ },
+ "7aeff3e30b": {
+  "instruction": {
+   "company": "Gigabyte",
+   "computer part": "Motherboard",
+   "dollar price": "75",
+   "ANSWER": "Gigabyte GA-B250M-DS3H"
+  }
+ },
+ "8ba812452b": {
+  "instruction": {
+   "company": "Dell",
+   "computer part": "moniter",
+   "dollar price": "650",
+   "ANSWER": "Dell S2716DG"
+  }
+ },
+ "a7557c47b3": {
+  "instruction": {
+   "company": "SuperNOVA ",
+   "computer part": "Power Supply",
+   "dollar price": "$77.88",
+   "ANSWER": "EVGA SuperNOVA 650"
+  }
+ },
+ "bdf6cdf0ba": {
+  "instruction": {
+   "company": "ADATA",
+   "computer part": "Memory",
+   "dollar price": "50",
+   "ANSWER": "ADATA XPG V1.0"
+  }
+ },
+ "f3ead898c9": {
+  "instruction": {
+   "dollar price": "70",
+   "company": "LG",
+   "ANSWER": "LG UH12NS29",
+   "computer part": "optical drive"
+  }
+ },
+ "98a1a16815": {
+  "instruction": {
+   "company": "Asus",
+   "computer part": "motherboard",
+   "dollar price": "255",
+   "ANSWER": "Asus ROG MAXIMUS VIII HERO ALPHA"
+  }
+ },
+ "3bf1011965": {
+  "instruction": {
+   "dollar price": "650",
+   "company": "Dell",
+   "ANSWER": "Dell S2716DG",
+   "computer part": "moniter"
+  }
+ },
+ "18f9e0d76f": {
+  "instruction": {
+   "dollar price": "28",
+   "company": "Cooler Master",
+   "ANSWER": "Cooler Master Hyper 212 EVO",
+   "computer part": "cpu cooler"
+  }
+ },
+ "765232002d": {
+  "instruction": {
+   "dollar price": "330",
+   "company": "INTEL",
+   "ANSWER": "INTEL CORE I7-6700K",
+   "computer part": "CPU"
+  }
+ },
+ "c0c9a4b380": {
+  "instruction": {
+   "company": "Microsoft",
+   "computer part": "operating system",
+   "dollar price": "140",
+   "ANSWER": "Microsoft Windows 7 Professional (32/64-bit)"
+  }
+ },
+ "530943a24b": {
+  "instruction": {
+   "company": "Asus",
+   "computer part": "Optical drive",
+   "dollar price": "19",
+   "ANSWER": "Asus DRW-24B1ST/BLK/B/AS"
+  }
+ },
+ "6776778d7c": {
+  "instruction": {
+   "company": "MSI",
+   "computer part": "Video Card",
+   "dollar price": "260",
+   "ANSWER": "MSI GEFORCE GTX 1060 GAMING X 6G"
+  }
+ },
+ "cab443dc15": {
+  "instruction": {
+   "company": "MSI",
+   "computer part": "Motherboard",
+   "dollar price": "500",
+   "ANSWER": "MSI Z270 GAMING PRO CARBON"
+  }
+ },
+ "5eba04f7c6": {
+  "instruction": {
+   "dollar price": "10",
+   "company": "logitech",
+   "ANSWER": "Logitech K120",
+   "computer part": "keyboard"
+  }
+ },
+ "e8a5d68ab1": {
+  "instruction": {
+   "dollar price": "300",
+   "company": "asus",
+   "ANSWER": "Asus VG248QE",
+   "computer part": "monitor"
+  }
+ },
+ "e59a4a1dd3": {
+  "instruction": {
+   "company": "SeaSonic",
+   "computer part": "Power Supply",
+   "dollar price": "300",
+   "ANSWER": "SeaSonic SS-860XP2"
+  }
+ },
+ "2e4e850c99": {
+  "instruction": {
+   "company": "Silverstone",
+   "computer part": "Optical Drive",
+   "dollar price": "150",
+   "ANSWER": "Silverstone SST-SOB02"
+  }
+ },
+ "9264987f2a": {
+  "instruction": {
+   "company": "corsair",
+   "computer part": "case",
+   "dollar price": "200",
+   "ANSWER": "Corsair 760T Black"
+  }
+ },
+ "ad2071ca84": {
+  "instruction": {
+   "company": "from Corsair?",
+   "computer part": "What is the highest rated RAM",
+   "dollar price": "under $1500",
+   "ANSWER": "Corsair Dominator Platinum\t"
+  }
+ },
+ "db0d02fecd": {
+  "instruction": {
+   "dollar price": "68",
+   "company": "LOGITECH",
+   "ANSWER": "LOGITECH G502",
+   "computer part": "Mouse"
+  }
+ },
+ "40b385da2b": {
+  "instruction": {
+   "dollar price": "$27.88",
+   "company": "Cooler Master",
+   "ANSWER": "Cooler Master Hyper 212 EVO",
+   "computer part": "CPU cooler"
+  }
+ },
+ "9a35e44c3b": {
+  "instruction": {
+   "dollar price": "500",
+   "company": "Samsung",
+   "ANSWER": "Samsung MZ-7KE1T0BW",
+   "computer part": "Hard Drive"
+  }
+ },
+ "91d5681297": {
+  "instruction": {
+   "company": "Noctua",
+   "computer part": "Case Fan",
+   "dollar price": "90",
+   "ANSWER": "Noctua NF-F12 industrialPPC-2000 PWM"
+  }
+ },
+ "600bf1f29b": {
+  "instruction": {
+   "company": "Samsung",
+   "computer part": "Hard Drive",
+   "dollar price": "500",
+   "ANSWER": "Samsung MZ-7KE1T0BW"
+  }
+ },
+ "be88dbf61e": {
+  "instruction": {
+   "dollar price": "330",
+   "company": "Intel",
+   "ANSWER": "Intel Core i7-6700K",
+   "computer part": "CPU"
+  }
+ },
+ "5e036c279d": {
+  "instruction": {
+   "dollar price": "under $3500",
+   "company": "from Intel?",
+   "ANSWER": "Intel Xeon E5-2698 V4",
+   "computer part": "What is the highest rated CPU"
+  }
+ },
+ "2d798c0857": {
+  "instruction": {
+   "company": "Microsoft ",
+   "computer part": "Software",
+   "dollar price": "$115.00\t",
+   "ANSWER": "Microsoft Office Home and Student 2016"
+  }
+ },
+ "067212bce2": {
+  "instruction": {
+   "company": "LG",
+   "computer part": "Monitor",
+   "dollar price": "150",
+   "ANSWER": "LG 23MP47HQ"
+  }
+ },
+ "5589a6e446": {
+  "instruction": {
+   "dollar price": "200",
+   "company": "CORSAIR",
+   "ANSWER": "CORSAIR 760T BLACK",
+   "computer part": "Cats"
+  }
+ },
+ "7e58a73316": {
+  "instruction": {
+   "dollar price": "150",
+   "company": "LG",
+   "ANSWER": "LG 23MP47HQ",
+   "computer part": "Monitor"
+  }
+ },
+ "26f9ad72be": {
+  "instruction": {
+   "company": "ASRock",
+   "computer part": "motherboard",
+   "dollar price": "160",
+   "ANSWER": "ASRock Z97 EXTREME6"
+  }
+ },
+ "13869b95e4": {
+  "instruction": {
+   "company": "from Eizo?",
+   "computer part": "What is the highest rated Monitor",
+   "dollar price": "under $5250",
+   "ANSWER": "Eizo CG318-BK"
+  }
+ },
+ "41ff1345e5": {
+  "instruction": {
+   "company": "EVGA",
+   "computer part": "Video Card",
+   "dollar price": "50",
+   "ANSWER": "EVGA 02G-P3-2712-KR"
+  }
+ },
+ "159689e823": {
+  "instruction": {
+   "company": "Asus ",
+   "computer part": "moniter",
+   "dollar price": "260",
+   "ANSWER": "Asus VG248QE 24.0\" 1920x1080 144Hz Monitor"
+  }
+ },
+ "8141e25288": {
+  "instruction": {
+   "dollar price": "250",
+   "company": "Samsung",
+   "ANSWER": "Samsung MZ-7PD256BW",
+   "computer part": "Storage"
+  }
+ },
+ "3553db071a": {
+  "instruction": {
+   "company": "EVGA",
+   "computer part": "video card",
+   "dollar price": "400",
+   "ANSWER": "EVGA 08G-P4-6173-KR"
+  }
+ },
+ "a0ed0d4246": {
+  "instruction": {
+   "company": "Corsair Vengeance",
+   "computer part": "ram",
+   "dollar price": "50",
+   "ANSWER": "Corsair Vengeance LPX 8GB (1 x 8GB) DDR4-2400 Memory"
+  }
+ },
+ "cb8bbb1cf7": {
+  "instruction": {
+   "dollar price": "50",
+   "company": "lg",
+   "ANSWER": "LG WH14NS40",
+   "computer part": "optical drive"
+  }
+ },
+ "51a1a80b58": {
+  "instruction": {
+   "dollar price": "50",
+   "company": "western digital",
+   "ANSWER": "Western Digital WD10EZEX",
+   "computer part": "storage"
+  }
+ },
+ "ed616966c2": {
+  "instruction": {
+   "dollar price": "100",
+   "company": "Gigabyte",
+   "ANSWER": "Gigabyte GA-H97M-D3H",
+   "computer part": "motherboard"
+  }
+ },
+ "53cde7334f": {
+  "instruction": {
+   "company": "intel",
+   "computer part": "cpu",
+   "dollar price": "200"
+  }
+ },
+ "007bf686e8": {
+  "instruction": {
+   "dollar price": "400",
+   "company": "evga",
+   "ANSWER": "EVGA 08G-P4-5173-KR",
+   "computer part": "video card"
+  }
+ },
+ "16200a4874": {
+  "instruction": {
+   "dollar price": "350",
+   "company": "NZXT",
+   "ANSWER": "NZXT H440 Razer Edition STEEL",
+   "computer part": "Case"
+  }
+ },
+ "2f01198114": {
+  "instruction": {
+   "dollar price": "500",
+   "company": "asus",
+   "computer part": "monitor"
+  }
+ },
+ "0eb70bb5f5": {
+  "instruction": {
+   "dollar price": "$31.98\t",
+   "company": "Cooler Master",
+   "ANSWER": "Cooler Master N200 MicroATX Mini Tower Case",
+   "computer part": "Case"
+  }
+ },
+ "3f71e49991": {
+  "instruction": {
+   "dollar price": "160",
+   "company": "ASRock",
+   "ANSWER": "ASRock Z97 EXTREME6",
+   "computer part": "motherboard"
+  }
+ },
+ "44ce9236b2": {
+  "instruction": {
+   "dollar price": "150",
+   "company": "AMD",
+   "ANSWER": "AMD FX-8350",
+   "computer part": "cpu "
+  }
+ },
+ "e34c66c184": {
+  "instruction": {
+   "company": "Cooler Master",
+   "computer part": "CPU cooler",
+   "dollar price": "$27.88",
+   "ANSWER": "Cooler Master Hyper 212 EVO"
+  }
+ },
+ "ac498d2848": {
+  "instruction": {
+   "dollar price": "300",
+   "company": "intel",
+   "ANSWER": "intel x456",
+   "computer part": "motherboard"
+  }
+ },
+ "6546b86ffa": {
+  "instruction": {
+   "company": "nvidia",
+   "computer part": "gpu",
+   "dollar price": "400"
+  }
+ },
+ "2104af42cb": {
+  "instruction": {
+   "dollar price": "360",
+   "company": "Asus",
+   "ANSWER": "Asus PB278Q",
+   "computer part": "Monitor"
+  }
+ },
+ "bfda3d6dc0": {
+  "instruction": {
+   "company": "intel",
+   "computer part": "motherboard",
+   "dollar price": "300",
+   "ANSWER": "intel x456"
+  }
+ },
+ "7be4ac884d": {
+  "instruction": {
+   "company": "kingston",
+   "computer part": "memory",
+   "dollar price": "70",
+   "ANSWER": "Kingston HyperX Fury Black"
+  }
+ },
+ "78cdce1b60": {
+  "instruction": {
+   "dollar price": "140",
+   "company": "Microsoft",
+   "ANSWER": "Microsoft Windows 7 Professional (32/64-bit)",
+   "computer part": "operating system"
+  }
+ },
+ "cfecf5e72e": {
+  "instruction": {
+   "dollar price": "100",
+   "company": "Corsair",
+   "ANSWER": "Corsair Vengeance LPX",
+   "computer part": "DD4 Ram"
+  }
+ },
+ "4f69e2bf56": {
+  "instruction": {
+   "company": "Fractal Design",
+   "computer part": "Case",
+   "dollar price": "300",
+   "ANSWER": "Fractal Design Define Mini C with Window"
+  }
+ },
+ "4e850d3562": {
+  "instruction": {
+   "company": "Asus",
+   "computer part": "Motherboard",
+   "dollar price": "$147.98",
+   "ANSWER": "Asus  Z170-A"
+  }
+ },
+ "f2251347ec": {
+  "instruction": {
+   "company": "GEFORCE",
+   "computer part": "Video Card",
+   "dollar price": "$259.89\t",
+   "ANSWER": "MSI GEFORCE GTX 1060 GAMING X 6G"
+  }
+ },
+ "a3d0bf9655": {
+  "instruction": {
+   "company": "ASUS",
+   "computer part": "Video Card",
+   "dollar price": "100",
+   "ANSWER": "Asus DUAL-RX460-O2G"
+  }
+ },
+ "57820b0ead": {
+  "instruction": {
+   "company": "amd",
+   "computer part": "gpu",
+   "dollar price": "600"
+  }
+ },
+ "8f23fc6798": {
+  "instruction": {
+   "company": "Cooler Master",
+   "computer part": "cpu cooler",
+   "dollar price": "28",
+   "ANSWER": "Cooler Master Hyper 212 EVO"
+  }
+ },
+ "6bbbffbf46": {
+  "instruction": {
+   "company": "intel",
+   "computer part": "cpu ",
+   "dollar price": "350",
+   "ANSWER": "Intel Core i7-7700K"
+  }
+ },
+ "7cb0c4910d": {
+  "instruction": {
+   "dollar price": "50",
+   "company": "LG",
+   "ANSWER": "LG GH24NSB0B",
+   "computer part": "Optical Drive"
+  }
+ },
+ "61639c5d89": {
+  "instruction": {
+   "dollar price": "140",
+   "company": "AMD",
+   "ANSWER": "AMD FX-8350",
+   "computer part": "CPU"
+  }
+ },
+ "0772a707a7": {
+  "instruction": {
+   "dollar price": "50",
+   "company": "Corsair Vengeance",
+   "ANSWER": "Corsair Vengeance LPX 8GB (1 x 8GB) DDR4-2400 Memory",
+   "computer part": "ram"
+  }
+ },
+ "993617ceea": {
+  "instruction": {
+   "dollar price": "300",
+   "company": "SeaSonic",
+   "ANSWER": "SeaSonic SS-860XP2",
+   "computer part": "Power Supply"
+  }
+ },
+ "910e2d883d": {
+  "instruction": {
+   "dollar price": "19",
+   "company": "Asus",
+   "ANSWER": "Asus DRW-24B1ST/BLK/B/AS",
+   "computer part": "Optical drive"
+  }
+ },
+ "5859564653": {
+  "instruction": {
+   "company": "MSI",
+   "computer part": "video card",
+   "dollar price": "260",
+   "ANSWER": "MSI GEFORCE GTX 1060 GAMING X 6G"
+  }
+ },
+ "fd5eb69fc9": {
+  "instruction": {
+   "dollar price": "360",
+   "company": "Asus",
+   "ANSWER": "Asus Maximus VI Impact",
+   "computer part": "motherboard"
+  }
+ },
+ "d98e9a6353": {
+  "instruction": {
+   "company": "INTEL",
+   "computer part": "CPU",
+   "dollar price": "330",
+   "ANSWER": "INTEL CORE I7-6700K"
+  }
+ },
+ "65e3e39ea2": {
+  "instruction": {
+   "company": "corsair",
+   "computer part": "cpu cooler",
+   "dollar price": "100",
+   "ANSWER": "Corsair H100i v2"
+  }
+ },
+ "390357e71a": {
+  "instruction": {
+   "company": "lamptron",
+   "computer part": "fan controller",
+   "dollar price": "150",
+   "ANSWER": "Lamptron FC-CM615-BK"
+  }
+ },
+ "51ad133a8e": {
+  "instruction": {
+   "company": "bose",
+   "computer part": "speakers",
+   "dollar price": "100",
+   "ANSWER": "Bose Companion 2 Series III"
+  }
+ },
+ "d7ab291e5e": {
+  "instruction": {
+   "dollar price": "$115.00\t",
+   "company": "Microsoft ",
+   "ANSWER": "Microsoft Office Home and Student 2016",
+   "computer part": "Software"
+  }
+ },
+ "fa22086998": {
+  "instruction": {
+   "company": "Asus",
+   "computer part": "optical drive",
+   "dollar price": "20",
+   "ANSWER": "Asus DRW-24B1ST/BLK/B/AS"
+  }
+ },
+ "e7d23d3eac": {
+  "instruction": {
+   "dollar price": "240",
+   "company": "Intel",
+   "ANSWER": "Intel Xeon E3-1231 V3",
+   "computer part": "CPU"
+  }
+ },
+ "6043a7f2ea": {
+  "instruction": {
+   "company": "MSI",
+   "computer part": "Motherboard",
+   "dollar price": "140",
+   "ANSWER": "MSI Z170A KRAIT GAMING 3X"
+  }
+ },
+ "1519ec662d": {
+  "instruction": {
+   "company": "razer",
+   "computer part": "mouse",
+   "dollar price": "50",
+   "ANSWER": "Razer DeathAdder Chroma"
+  }
+ },
+ "3c6312a0ba": {
+  "instruction": {
+   "company": "from Intel?",
+   "computer part": "What is the highest rated Motherboard",
+   "dollar price": "Under $675",
+   "ANSWER": "ASRock X99 WS-E/10G"
+  }
+ },
+ "75d8dd185d": {
+  "instruction": {
+   "dollar price": "900",
+   "company": "buslink",
+   "ANSWER": "Buslink CipherShield 6TB External Hard Drive",
+   "computer part": "external storage"
+  }
+ },
+ "f9f560b333": {
+  "instruction": {
+   "dollar price": "89",
+   "company": "Microsoft",
+   "ANSWER": "Microsoft Windows 10 Home (64-bit)",
+   "computer part": "operating system"
+  }
+ },
+ "308317b6b5": {
+  "instruction": {
+   "company": "Intel",
+   "computer part": "processor",
+   "dollar price": "3000",
+   "ANSWER": "Intel Core i7-4960X Extreme Edition"
+  }
+ },
+ "96c90c3972": {
+  "instruction": {
+   "company": "Asus",
+   "computer part": "Motherboard",
+   "dollar price": "150",
+   "ANSWER": "Asus Z170-A"
+  }
+ },
+ "6433ff7da2": {
+  "instruction": {
+   "company": "Kingston ",
+   "computer part": "Memory",
+   "dollar price": "$66.88",
+   "ANSWER": "Kingston HyperX Fury Black"
+  }
+ },
+ "eba25c5dea": {
+  "instruction": {
+   "company": "Crucial",
+   "computer part": "Memory",
+   "dollar price": "25",
+   "ANSWER": "Crucial\tDDR3-1333\t240-pin DIMM"
+  }
+ },
+ "0a78d99b43": {
+  "instruction": {
+   "company": "anybody",
+   "computer part": "power supply",
+   "dollar price": "300"
+  }
+ },
+ "056e8b9504": {
+  "instruction": {
+   "company": "Intel",
+   "computer part": "CPU",
+   "dollar price": "240",
+   "ANSWER": "Intel Xeon E3-1231 V3"
+  }
+ },
+ "b39f3f1aa0": {
+  "instruction": {
+   "company": "EVGA",
+   "computer part": "Power Supply",
+   "dollar price": "100",
+   "ANSWER": "EVGA 220-G3-0550"
+  }
+ },
+ "e979860c88": {
+  "instruction": {
+   "dollar price": "90",
+   "company": "Noctua",
+   "ANSWER": "Noctua NF-F12 industrialPPC-2000 PWM",
+   "computer part": "Case Fan"
+  }
+ },
+ "4cb9d18253": {
+  "instruction": {
+   "company": "Corsair",
+   "computer part": "DD4 Ram",
+   "dollar price": "100",
+   "ANSWER": "Corsair Vengeance LPX"
+  }
+ },
+ "8073f99f27": {
+  "instruction": {
+   "company": "Samsung",
+   "computer part": "Storage",
+   "dollar price": "50",
+   "ANSWER": "Samsung HD161GJ"
+  }
+ },
+ "84d144fd55": {
+  "instruction": {
+   "dollar price": "680",
+   "company": "Asus",
+   "ANSWER": "Asus STRIX-GTX1080-O8G-GAMING",
+   "computer part": "Video Card"
+  }
+ },
+ "71abe02fec": {
+  "instruction": {
+   "dollar price": "70",
+   "company": "kingston",
+   "ANSWER": "Kingston HyperX Fury Black",
+   "computer part": "memory"
+  }
+ },
+ "70e5510ae2": {
+  "instruction": {
+   "dollar price": "400",
+   "company": "razer",
+   "computer part": "mouse"
+  }
+ },
+ "538c0a96e4": {
+  "instruction": {
+   "dollar price": "75",
+   "company": "Gigabyte",
+   "ANSWER": "Gigabyte GA-B250M-DS3H",
+   "computer part": "Motherboard"
+  }
+ },
+ "873aa3868b": {
+  "instruction": {
+   "dollar price": "400",
+   "company": "nvidia",
+   "computer part": "gpu"
+  }
+ },
+ "2403866df8": {
+  "instruction": {
+   "company": "Gigabyte",
+   "computer part": "Motherboard",
+   "dollar price": "200",
+   "ANSWER": "Gigabyte GA-H270N-WIFI"
+  }
+ },
+ "9430764e91": {
+  "instruction": {
+   "dollar price": "40",
+   "company": "AMD",
+   "ANSWER": "AMD A4-7300",
+   "computer part": "CPU"
+  }
+ },
+ "2dadb93a95": {
+  "instruction": {
+   "company": "Microsoft",
+   "computer part": "operating system",
+   "dollar price": "89",
+   "ANSWER": "Microsoft Windows 10 Home (64-bit)"
+  }
+ },
+ "ee5122a1da": {
+  "instruction": {
+   "dollar price": "300",
+   "company": "Fractal Design",
+   "ANSWER": "Fractal Design Define Mini C with Window",
+   "computer part": "Case"
+  }
+ },
+ "57c958c87f": {
+  "instruction": {
+   "company": "Asus",
+   "computer part": "Motherboard",
+   "dollar price": "357",
+   "ANSWER": "ASUS MAXIMUS VI IMPACT"
+  }
+ },
+ "f79f193463": {
+  "instruction": {
+   "company": "AMD",
+   "computer part": "processor",
+   "dollar price": "200",
+   "ANSWER": "AMD FX-9370 (OEM/Tray)"
+  }
+ },
+ "d64ce32eb8": {
+  "instruction": {
+   "dollar price": "400",
+   "company": "EVGA",
+   "ANSWER": "EVGA 08G-P4-6173-KR",
+   "computer part": "video card"
+  }
+ },
+ "e2f44ff602": {
+  "instruction": {
+   "dollar price": "200",
+   "company": "AMD",
+   "ANSWER": "AMD FX-9370 (OEM/Tray)",
+   "computer part": "processor"
+  }
+ },
+ "65321dc1fd": {
+  "instruction": {
+   "company": "LOGITECH",
+   "computer part": "Mouse",
+   "dollar price": "68",
+   "ANSWER": "LOGITECH G502"
+  }
+ },
+ "ce28f29b2e": {
+  "instruction": {
+   "dollar price": "520",
+   "company": "Gigabyte",
+   "ANSWER": "Gigabyte GV-N980G1 GAMING-4GD",
+   "computer part": "video card"
+  }
+ },
+ "fbec73ff59": {
+  "instruction": {
+   "company": "NZXT",
+   "computer part": "Case",
+   "dollar price": "350",
+   "ANSWER": "NZXT H440 Razer Edition STEEL"
+  }
+ },
+ "cebd7581b9": {
+  "instruction": {
+   "company": "Intel",
+   "computer part": "CPU",
+   "dollar price": "470",
+   "ANSWER": "Intel Core i7-3770K"
+  }
+ },
+ "f729ff6f72": {
+  "instruction": {
+   "company": "CORSAIR",
+   "computer part": "Cats",
+   "dollar price": "200",
+   "ANSWER": "CORSAIR 760T BLACK"
+  }
+ },
+ "e3467349a2": {
+  "instruction": {
+   "company": "Asus",
+   "computer part": "motherboard",
+   "dollar price": "360",
+   "ANSWER": "Asus Maximus VI Impact"
+  }
+ },
+ "5042767b7f": {
+  "instruction": {
+   "company": "LG",
+   "computer part": "optical drive",
+   "dollar price": "70",
+   "ANSWER": "LG UH12NS29"
+  }
+ },
+ "b40ccf5154": {
+  "instruction": {
+   "dollar price": "$147.98",
+   "company": "Asus",
+   "ANSWER": "Asus  Z170-A",
+   "computer part": "Motherboard"
+  }
+ },
+ "e5c598a116": {
+  "instruction": {
+   "company": "Intel",
+   "computer part": "CPU",
+   "dollar price": "330",
+   "ANSWER": "Intel Core i7-6700K"
+  }
+ },
+ "895f81a3be": {
+  "instruction": {
+   "dollar price": "300",
+   "company": "anybody",
+   "computer part": "power supply"
+  }
+ },
+ "8b79bd0596": {
+  "instruction": {
+   "dollar price": "100",
+   "company": "ASUS",
+   "ANSWER": "Asus DUAL-RX460-O2G",
+   "computer part": "Video Card"
+  }
+ },
+ "089293980b": {
+  "instruction": {
+   "dollar price": "50",
+   "company": "EVGA",
+   "ANSWER": "EVGA 02G-P3-2712-KR",
+   "computer part": "Video Card"
+  }
+ },
+ "92c765269e": {
+  "instruction": {
+   "company": "Asus",
+   "computer part": "Optical Drive",
+   "dollar price": "$17.88",
+   "ANSWER": "Asus DRW-24B1ST/BLK/B/AS"
+  }
+ },
+ "30a01e0b78": {
+  "instruction": {
+   "company": "Kingston",
+   "computer part": "Memory",
+   "dollar price": "20",
+   "ANSWER": "Kingston\tDDR3-1333\t240-pin DIMM"
+  }
+ },
+ "2c7398127e": {
+  "instruction": {
+   "company": "from Phanteks?",
+   "computer part": "What is the highest rated CPU cooler ",
+   "dollar price": "under $300 ",
+   "ANSWER": "Phanteks PH-TC12DX_BL"
+  }
+ },
+ "7e7ea592ff": {
+  "instruction": {
+   "dollar price": "under $4750",
+   "company": "from NVIDIA?",
+   "ANSWER": "PNY VCQP6000-PB",
+   "computer part": "What is the highest rated video card"
+  }
+ },
+ "50d4b226db": {
+  "instruction": {
+   "dollar price": "40",
+   "company": "ASRock",
+   "ANSWER": "ASRock H110M-HDS",
+   "computer part": "Motherboard"
+  }
+ },
+ "977b82c6ac": {
+  "instruction": {
+   "company": "evga",
+   "computer part": "video card",
+   "dollar price": "400",
+   "ANSWER": "EVGA 08G-P4-5173-KR"
+  }
+ },
+ "ba25d8d91e": {
+  "instruction": {
+   "dollar price": "200",
+   "company": "Gigabyte",
+   "ANSWER": "Gigabyte GA-H270N-WIFI",
+   "computer part": "Motherboard"
+  }
+ },
+ "646ecb2063": {
+  "instruction": {
+   "dollar price": "100",
+   "company": "corsair",
+   "ANSWER": "Corsair H100i v2",
+   "computer part": "cpu cooler"
+  }
+ },
+ "ec95cc7418": {
+  "instruction": {
+   "company": "asus",
+   "computer part": "monitor",
+   "dollar price": "300",
+   "ANSWER": "Asus VG248QE"
+  }
+ },
+ "d0b6bc9131": {
+  "instruction": {
+   "company": "Samsung",
+   "computer part": "Storage",
+   "dollar price": "250",
+   "ANSWER": "Samsung MZ-7PD256BW"
+  }
+ },
+ "4bac10efdb": {
+  "instruction": {
+   "company": "Corsair",
+   "computer part": " power supply",
+   "dollar price": "300 ",
+   "ANSWER": "Corsair SF450"
+  }
+ },
+ "80099cf822": {
+  "instruction": {
+   "dollar price": "86",
+   "company": "NOCTUA",
+   "ANSWER": "NOCTUA NH-D15",
+   "computer part": "CPU Cooper"
+  }
+ },
+ "61e6f604f6": {
+  "instruction": {
+   "company": "NOCTUA",
+   "computer part": "CPU Cooper",
+   "dollar price": "86",
+   "ANSWER": "NOCTUA NH-D15"
+  }
+ },
+ "049c237737": {
+  "instruction": {
+   "dollar price": "140",
+   "company": "MSI",
+   "ANSWER": "MSI Z170A KRAIT GAMING 3X",
+   "computer part": "Motherboard"
+  }
+ },
+ "d09395cd79": {
+  "instruction": {
+   "dollar price": "260",
+   "company": "MSI",
+   "ANSWER": "MSI GEFORCE GTX 1060 GAMING X 6G",
+   "computer part": "video card"
+  }
+ },
+ "62b35c3408": {
+  "instruction": {
+   "company": "Deepcool",
+   "computer part": "case",
+   "dollar price": "37",
+   "ANSWER": "Deepcool TESSERACT SW"
+  }
+ },
+ "09e5039429": {
+  "instruction": {
+   "dollar price": "$259.89\t",
+   "company": "GEFORCE",
+   "ANSWER": "MSI GEFORCE GTX 1060 GAMING X 6G",
+   "computer part": "Video Card"
+  }
+ },
+ "995b943a8d": {
+  "instruction": {
+   "company": "AMD",
+   "computer part": "CPU",
+   "dollar price": "140",
+   "ANSWER": "AMD FX-8350"
+  }
+ },
+ "3206355c5e": {
+  "instruction": {
+   "dollar price": "200",
+   "company": "corsair",
+   "ANSWER": "Corsair 760T Black",
+   "computer part": "case"
+  }
+ },
+ "cd1150566b": {
+  "instruction": {
+   "company": "LG",
+   "computer part": "Optical Drive",
+   "dollar price": "50",
+   "ANSWER": "LG GH24NSB0B"
+  }
+ },
+ "05cd363249": {
+  "instruction": {
+   "company": "Gigabyte",
+   "computer part": "video card",
+   "dollar price": "520",
+   "ANSWER": "Gigabyte GV-N980G1 GAMING-4GD"
+  }
+ },
+ "5f51363c55": {
+  "instruction": {
+   "dollar price": "300 ",
+   "company": "Corsair",
+   "ANSWER": "Corsair SF450",
+   "computer part": " power supply"
+  }
+ },
+ "f3e1047825": {
+  "instruction": {
+   "dollar price": "3000",
+   "company": "Intel",
+   "ANSWER": "Intel Core i7-4960X Extreme Edition",
+   "computer part": "processor"
+  }
+ },
+ "87b877832c": {
+  "instruction": {
+   "company": "razer",
+   "computer part": "mouse",
+   "dollar price": "400"
+  }
+ },
+ "ea0177429f": {
+  "instruction": {
+   "company": "dell ",
+   "computer part": "mouse",
+   "dollar price": "dell",
+   "ANSWER": "dell gaming mouse x33"
+  }
+ },
+ "dcc69294d2": {
+  "instruction": {
+   "dollar price": "25",
+   "company": "Crucial",
+   "ANSWER": "Crucial\tDDR3-1333\t240-pin DIMM",
+   "computer part": "Memory"
+  }
+ },
+ "b113f5b1dc": {
+  "instruction": {
+   "dollar price": "260",
+   "company": "Asus ",
+   "ANSWER": "Asus VG248QE 24.0\" 1920x1080 144Hz Monitor",
+   "computer part": "moniter"
+  }
+ },
+ "67172f272e": {
+  "instruction": {
+   "dollar price": "50",
+   "company": "ADATA",
+   "ANSWER": "ADATA XPG V1.0",
+   "computer part": "Memory"
+  }
+ }
+}

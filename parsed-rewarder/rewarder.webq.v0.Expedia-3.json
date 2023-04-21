@@ -1,0 +1,82 @@
+{
+ "e9f8f5c654": {
+  "instruction": {
+   "number of adults": "1",
+   "destination location": "Honolulu, HI, United States (HNL)",
+   "departure date": "03/05/2017",
+   "departure location": "Austin, TX, United States (AUS)"
+  }
+ },
+ "f5877be98e": {
+  "instruction": {
+   "number of adults": "2",
+   "destination location": "Indianapolis, IN, United States",
+   "departure date": "02/15/2017",
+   "departure location": "New York, NY, United States"
+  }
+ },
+ "7be656224d": {
+  "instruction": {
+   "number of adults": "1",
+   "destination location": "Raleigh, NC, United States (RDU)",
+   "departure date": "02/24/2017",
+   "departure location": "New York, NY, United States (JFK)"
+  }
+ },
+ "cae52bea86": {
+  "instruction": {
+   "number of adults": "6",
+   "destination location": "Cincinnati (CVG)",
+   "departure date": "02/24/2017",
+   "departure location": "Orlando (ORL)"
+  }
+ },
+ "6a7859e80b": {
+  "instruction": {
+   "number of adults": "3",
+   "destination location": "Fukuoka, Japan (FUK)",
+   "departure date": "02/24/2017",
+   "departure location": "Cincinnati (CVG)"
+  }
+ },
+ "32d6b5effa": {
+  "instruction": {
+   "number of adults": "1",
+   "destination location": "Kansas City, MO, United States (MCI)",
+   "departure date": "02/15/2017",
+   "departure location": "New York, NY, United States"
+  }
+ },
+ "e149e00cd7": {
+  "instruction": {
+   "number of adults": "5",
+   "destination location": "Jacksonville, FL, United States (JAX)",
+   "departure date": "02/24/2017",
+   "departure location": "New York, NY, United States (JFK)"
+  }
+ },
+ "59ee8699b3": {
+  "instruction": {
+   "number of adults": "8",
+   "destination location": "Jackson Hole, WY, United States (JAC)",
+   "departure date": "02/15/2017",
+   "departure location": "Quebec, QC, Canada (YQB)"
+  }
+ },
+ "70656c4418": {
+  "instruction": {
+   "number of adults": "2",
+   "destination location": "Yuma, AZ, United States (YUM)",
+   "departure date": "03/05/2017",
+   "departure location": "Kansas City, MO, United States (MCI)"
+  }
+ },
+ "649dcbcc77": {
+  "instruction": {
+   "number of adults": "9",
+   "destination location": "Indianapolis, IN, United States (IND)",
+   "departure date": "03/05/2017",
+   "departure location": "Rome, Italy (ROM)"
+  }
+ }
+}

@@ -1,0 +1,656 @@
+{
+ "8938294dca": {
+  "instruction": {
+   "board member": "Steve Bogatz ",
+   "ANSWER": "Bogatz Water Conditioning, LLC",
+   "position": "2nd Vice President, State Board Director"
+  }
+ },
+ "928b9d2277": {
+  "instruction": {
+   "board member": "Marlin LaCroix",
+   "ANSWER": "Lacroix Construction",
+   "position": "Local Board Director Alternate"
+  }
+ },
+ "95fdcb81e0": {
+  "instruction": {
+   "position": "Secretary",
+   "board member": "Norene Gibson",
+   "ANSWER": "Only Homes"
+  }
+ },
+ "1f75e5573d": {
+  "instruction": {
+   "position": "2nd Vice President, State Board Director",
+   "board member": "Steve Bogatz ",
+   "ANSWER": "Bogatz Water Conditioning, LLC"
+  }
+ },
+ "21a2e0954b": {
+  "instruction": {
+   "board member": "Tim Salvatori ",
+   "position": "Local Board Director"
+  }
+ },
+ "f85f4c4aa9": {
+  "instruction": {
+   "board member": "Marlin LaCroix ",
+   "ANSWER": "Lacroix Construction",
+   "position": "Marlin LaCroix Local Board Director; State Board, Alternate"
+  }
+ },
+ "1c2575f901": {
+  "instruction": {
+   "position": "Associate Member",
+   "board member": " Jared Adamson",
+   "ANSWER": "Culligan Water Conditioning"
+  }
+ },
+ "f317977f30": {
+  "instruction": {
+   "position": "2nd Vice President",
+   "board member": "Steve Bogatz",
+   "ANSWER": "Bogatz Water Conditioning LLC."
+  }
+ },
+ "5fec20b195": {
+  "instruction": {
+   "board member": "Jamie Hejna ",
+   "ANSWER": "Jamie currently serves on our Local Board of Directors. ",
+   "position": "Local Board Director"
+  }
+ },
+ "aefced8230": {
+  "instruction": {
+   "position": "Local Board",
+   "board member": "Tom Larrington",
+   "ANSWER": "Weather Guard Urethane"
+  }
+ },
+ "5fb0bcd31d": {
+  "instruction": {
+   "board member": "Tom Larrington ",
+   "ANSWER": "Weather Guard Urethane",
+   "position": "Local Board, Alternate"
+  }
+ },
+ "1fcac7b780": {
+  "instruction": {
+   "board member": "Marlin LaCroix",
+   "ANSWER": "LaCroix Construction",
+   "position": "Local Board Director; State Board, Alternate"
+  }
+ },
+ "5d4f68ce8c": {
+  "instruction": {
+   "position": "Local Board Director",
+   "board member": "Jamie Hejna ",
+   "ANSWER": "Jamie currently serves on our Local Board of Directors. "
+  }
+ },
+ "6d602560de": {
+  "instruction": {
+   "board member": "Curt Wieman",
+   "position": "Local Board Director"
+  }
+ },
+ "337fb39494": {
+  "instruction": {
+   "position": "Local Board",
+   "board member": "Joe Morrow",
+   "ANSWER": "City of Yankton"
+  }
+ },
+ "cadb4b6cb0": {
+  "instruction": {
+   "position": "Secretary",
+   "board member": "Noreen Gibson",
+   "ANSWER": "Only Homes"
+  }
+ },
+ "c096dfdb4c": {
+  "instruction": {
+   "board member": "Local Board Director",
+   "ANSWER": "Mead Lumber Company",
+   "position": "Tim Salvatori"
+  }
+ },
+ "6cb6cb6091": {
+  "instruction": {
+   "board member": "Noreen Gibson",
+   "ANSWER": "Only Homes",
+   "position": "Secretary"
+  }
+ },
+ "16343fb125": {
+  "instruction": {
+   "board member": "Lee Rettig",
+   "ANSWER": "Yankton Storm Restoration & 4 Life Homes",
+   "position": "State Board, Alternate"
+  }
+ },
+ "88b135a2ce": {
+  "instruction": {
+   "board member": "Tim Salvatori",
+   "position": "Local Board Director"
+  }
+ },
+ "766461478d": {
+  "instruction": {
+   "board member": "Tom Larrington",
+   "position": "Local Board Alternate"
+  }
+ },
+ "ad69b17f22": {
+  "instruction": {
+   "board member": "Nick Kisch",
+   "position": "Past President"
+  }
+ },
+ "ed062823d5": {
+  "instruction": {
+   "board member": "Jason Finck",
+   "ANSWER": "K-Construction",
+   "position": " Vice President, State Board President Representative"
+  }
+ },
+ "f7ef1bf049": {
+  "instruction": {
+   "board member": "Norene Gibson",
+   "position": "Secretary"
+  }
+ },
+ "38f85c340b": {
+  "instruction": {
+   "board member": "Jamie Hejna",
+   "ANSWER": "Local Board of Directors",
+   "position": "Local Board Director"
+  }
+ },
+ "e4032bf4be": {
+  "instruction": {
+   "board member": "Kimberly Highland",
+   "ANSWER": "First National Bank",
+   "position": "Associate Member"
+  }
+ },
+ "039fdad77d": {
+  "instruction": {
+   "board member": "Joe Morrow",
+   "ANSWER": "City of Yankton",
+   "position": "Local Board, Alternate"
+  }
+ },
+ "42c8a99196": {
+  "instruction": {
+   "board member": "Norene Gibson",
+   "ANSWER": "Only Homes",
+   "position": "Secretary"
+  }
+ },
+ "df72e31f35": {
+  "instruction": {
+   "position": "Marlin LaCroix Local Board Director; State Board, Alternate",
+   "board member": "Marlin LaCroix ",
+   "ANSWER": "Lacroix Construction"
+  }
+ },
+ "ba50493766": {
+  "instruction": {
+   "position": "Local Board, Alternate",
+   "board member": "Joe Morrow",
+   "ANSWER": "City of Yankton"
+  }
+ },
+ "ab55aa449f": {
+  "instruction": {
+   "position": "Local Board Director Alternate",
+   "board member": "Marlin LaCroix",
+   "ANSWER": "Lacroix Construction"
+  }
+ },
+ "731f0d2f25": {
+  "instruction": {
+   "position": "Tom Larrington",
+   "board member": "Local Board, Alternate",
+   "ANSWER": "Weather Guard Urethane"
+  }
+ },
+ "b9f88ee0fb": {
+  "instruction": {
+   "board member": "Jamie Hejna ",
+   "position": "Local Board Director"
+  }
+ },
+ "f1e3f4decd": {
+  "instruction": {
+   "position": "President",
+   "board member": "Gloria Bohn",
+   "ANSWER": "First Dakota National Bank"
+  }
+ },
+ "1930c072b8": {
+  "instruction": {
+   "position": "Local Board Director",
+   "board member": "Tim Salvatori ",
+   "ANSWER": "Mead Lumber Company"
+  }
+ },
+ "0bf058bdaf": {
+  "instruction": {
+   "position": "Treasurer",
+   "board member": "Trisha Ryken ",
+   "ANSWER": "Heartland Internet Solutions"
+  }
+ },
+ "cadba6a56e": {
+  "instruction": {
+   "board member": "Steve Bogatz",
+   "ANSWER": "Bogatz Water Conditioning LLC.",
+   "position": "2nd Vice President"
+  }
+ },
+ "b5f596359c": {
+  "instruction": {
+   "position": "Trisha Ryken",
+   "board member": "Treasurer",
+   "ANSWER": "Heartland Internet Solutions"
+  }
+ },
+ "79d69c7bae": {
+  "instruction": {
+   "position": "Local Board",
+   "board member": "Curt Wieman",
+   "ANSWER": "Only Homes"
+  }
+ },
+ "22373a9c1c": {
+  "instruction": {
+   "position": "Tim Salvatori",
+   "board member": "Local Board Director",
+   "ANSWER": "Mead Lumber Company"
+  }
+ },
+ "4e2600af5a": {
+  "instruction": {
+   "board member": "Jason Finck",
+   "ANSWER": "K-Construction",
+   "position": "Vice President, State Board President Representative"
+  }
+ },
+ "7e1dacdf33": {
+  "instruction": {
+   "position": "Local Board, State Board Director",
+   "board member": "Curt Wieman",
+   "ANSWER": "Only Homes"
+  }
+ },
+ "d941c3c6de": {
+  "instruction": {
+   "position": "Marlin Lacroix",
+   "board member": "Local Board Director; State Board, Alternate",
+   "ANSWER": "LaCroix Construction"
+  }
+ },
+ "188d6dc277": {
+  "instruction": {
+   "board member": "Jason Finck",
+   "position": "Vice President"
+  }
+ },
+ "a516212fe4": {
+  "instruction": {
+   "board member": "Gloria Bohn",
+   "ANSWER": "First Dakota National Bank",
+   "position": "President"
+  }
+ },
+ "fa5142a7ab": {
+  "instruction": {
+   "board member": "Local Board, Alternate",
+   "ANSWER": "Weather Guard Urethane",
+   "position": "Tom Larrington"
+  }
+ },
+ "9d2f67538d": {
+  "instruction": {
+   "board member": "Tom Larrington",
+   "ANSWER": "Weather Guard Urethane",
+   "position": "Local Board"
+  }
+ },
+ "ac37da438d": {
+  "instruction": {
+   "board member": "Curt Wieman",
+   "ANSWER": "Only Homes",
+   "position": "Local Board"
+  }
+ },
+ "ed7ea3f718": {
+  "instruction": {
+   "board member": "Dennis Kisch",
+   "position": "Past President"
+  }
+ },
+ "79f4a61897": {
+  "instruction": {
+   "board member": "Local Board Director; State Board, Alternate",
+   "ANSWER": "LaCroix Construction",
+   "position": "Marlin Lacroix"
+  }
+ },
+ "ed8b06b913": {
+  "instruction": {
+   "board member": "Tim Salvatori ",
+   "ANSWER": "Mead Lumber Company",
+   "position": "Local Board Director"
+  }
+ },
+ "e782e1ed58": {
+  "instruction": {
+   "position": "2nd Vice President, State Board Director",
+   "board member": "Steve Bogatz",
+   "ANSWER": "Bogatz Water Conditioning,"
+  }
+ },
+ "c41e6ead38": {
+  "instruction": {
+   "position": "State Board, Alternate",
+   "board member": "Lee Rettig",
+   "ANSWER": "Yankton Storm Restoration & 4 Life Homes"
+  }
+ },
+ "d273273e45": {
+  "instruction": {
+   "board member": "Trisha Ryken ",
+   "position": "Treasurer"
+  }
+ },
+ "8a5ba62b44": {
+  "instruction": {
+   "board member": "Joleen Woods",
+   "ANSWER": "CorTrust Bank",
+   "position": "Associate Member"
+  }
+ },
+ "263c1ba23d": {
+  "instruction": {
+   "board member": "Marlin LaCroix",
+   "ANSWER": "Lacroix Construction",
+   "position": "Local Board Director; State Board, Alternate"
+  }
+ },
+ "0ee1cbbff4": {
+  "instruction": {
+   "position": "Local Board, Alternate",
+   "board member": "Tom Larrington ",
+   "ANSWER": "Weather Guard Urethane"
+  }
+ },
+ "a85e421c13": {
+  "instruction": {
+   "board member": "Jared Huber",
+   "ANSWER": "Concrete Revival",
+   "position": "Associate Member"
+  }
+ },
+ "f24b5cc24b": {
+  "instruction": {
+   "position": "Associate Member",
+   "board member": "Joleen Woods",
+   "ANSWER": "CorTrust Bank"
+  }
+ },
+ "8b365d66d1": {
+  "instruction": {
+   "board member": "Lee Rettig ",
+   "position": "State Board Alternate"
+  }
+ },
+ "43b2542279": {
+  "instruction": {
+   "position": " Vice President, State Board President Representative",
+   "board member": "Jason Finck",
+   "ANSWER": "K-Construction"
+  }
+ },
+ "5d9c44ad76": {
+  "instruction": {
+   "board member": "Gloria Bohn",
+   "position": "President"
+  }
+ },
+ "93e49d988c": {
+  "instruction": {
+   "board member": "Tim Frohreich",
+   "position": "Past President"
+  }
+ },
+ "3f0f0c48c8": {
+  "instruction": {
+   "position": "Curt Wieman",
+   "board member": "Local Board, State Board Director",
+   "ANSWER": "Only Homes"
+  }
+ },
+ "ec1e26ff50": {
+  "instruction": {
+   "position": "Local Board Director",
+   "board member": "Marlin LaCroix",
+   "ANSWER": "LaCroix Construction"
+  }
+ },
+ "6b7043d03d": {
+  "instruction": {
+   "board member": "Treasurer",
+   "ANSWER": "Heartland Internet Solutions",
+   "position": "Trisha Ryken"
+  }
+ },
+ "3d98367467": {
+  "instruction": {
+   "position": "Local Board, Alternate",
+   "board member": "Tom Larrington",
+   "ANSWER": "Weather Guard Urethane"
+  }
+ },
+ "2b910a6b62": {
+  "instruction": {
+   "position": "Vice President",
+   "board member": "Jason Finck",
+   "ANSWER": "K-Construction"
+  }
+ },
+ "47b6487fad": {
+  "instruction": {
+   "position": "Associate Member",
+   "board member": "Jared Huber",
+   "ANSWER": "Concrete Revival"
+  }
+ },
+ "53762bfc5a": {
+  "instruction": {
+   "position": "Treasurer",
+   "board member": "Trisha Ryken",
+   "ANSWER": "Heartland Internet Solutions"
+  }
+ },
+ "031a19f8a5": {
+  "instruction": {
+   "board member": "Trisha Ryken",
+   "ANSWER": "Heartland Internet Solutions",
+   "position": "Treasurer"
+  }
+ },
+ "b1b84b2978": {
+  "instruction": {
+   "board member": "Local Board, Alternate",
+   "ANSWER": "City of Yankton",
+   "position": "Joe Morrow"
+  }
+ },
+ "eea6647a07": {
+  "instruction": {
+   "board member": "Joe Morrow",
+   "position": "Local Board Alternate"
+  }
+ },
+ "8857d739ae": {
+  "instruction": {
+   "board member": "Curt Wieman ",
+   "position": "State Board Director"
+  }
+ },
+ "c2a9b26f81": {
+  "instruction": {
+   "board member": "Marlin LaCroix",
+   "ANSWER": "LaCroix Construction",
+   "position": "Local Board Director"
+  }
+ },
+ "905b24a3f4": {
+  "instruction": {
+   "position": "Vice President, State Board President Representative",
+   "board member": "Jason Finck",
+   "ANSWER": "K-Construction"
+  }
+ },
+ "03a941bc3f": {
+  "instruction": {
+   "board member": "Marlin LaCroix",
+   "position": "Local Board Director"
+  }
+ },
+ "a683efb0a0": {
+  "instruction": {
+   "board member": "Curt Wieman",
+   "ANSWER": "Only Homes",
+   "position": "Local Board, State Board Director"
+  }
+ },
+ "3a045ef093": {
+  "instruction": {
+   "board member": "Tim Salvatori",
+   "ANSWER": "Mead Lumber Company",
+   "position": "Local Board Director"
+  }
+ },
+ "c1484c11f7": {
+  "instruction": {
+   "board member": "Tom Larrington",
+   "ANSWER": "Weather Guard Urethane",
+   "position": "Local Board, Alternate"
+  }
+ },
+ "63102441ba": {
+  "instruction": {
+   "board member": "Steve Bogatz",
+   "ANSWER": "Bogatz Water Conditioning, LLC",
+   "position": "2nd Vice President, State Board Director"
+  }
+ },
+ "ab2fb8fd98": {
+  "instruction": {
+   "board member": "Steve Bogatz",
+   "ANSWER": "Bogatz Water Conditioning,",
+   "position": "2nd Vice President, State Board Director"
+  }
+ },
+ "1e723c6ce3": {
+  "instruction": {
+   "board member": "Norene Gibson ",
+   "ANSWER": "Only Homes",
+   "position": "Secretary"
+  }
+ },
+ "c5c934c0d9": {
+  "instruction": {
+   "position": "2nd Vice President, State Board Director",
+   "board member": "Steve Bogatz",
+   "ANSWER": "Bogatz Water Conditioning, LLC"
+  }
+ },
+ "7cbb32ff25": {
+  "instruction": {
+   "board member": "Trisha Ryken ",
+   "ANSWER": "Heartland Internet Solutions",
+   "position": "Treasurer"
+  }
+ },
+ "ac5f8de63d": {
+  "instruction": {
+   "board member": "Local Board, State Board Director",
+   "ANSWER": "Only Homes",
+   "position": "Curt Wieman"
+  }
+ },
+ "c1ba097222": {
+  "instruction": {
+   "board member": "Jason Finck",
+   "ANSWER": "K-Construction",
+   "position": "Vice President"
+  }
+ },
+ "8111d10f86": {
+  "instruction": {
+   "position": "Local Board Director",
+   "board member": "Tim Salvatori",
+   "ANSWER": "Mead Lumber Company"
+  }
+ },
+ "9f62e6d8b2": {
+  "instruction": {
+   "board member": "Trisha Ryken",
+   "position": "Treasurer"
+  }
+ },
+ "0fb4036283": {
+  "instruction": {
+   "board member": "Steve Bogatz",
+   "position": "2nd Vice President"
+  }
+ },
+ "ace6d1ec73": {
+  "instruction": {
+   "position": "Local Board Director; State Board, Alternate",
+   "board member": "Marlin LaCroix",
+   "ANSWER": "LaCroix Construction"
+  }
+ },
+ "d26d1b928d": {
+  "instruction": {
+   "position": "Associate Member",
+   "board member": "Kimberly Highland",
+   "ANSWER": "First National Bank"
+  }
+ },
+ "5973eed9fd": {
+  "instruction": {
+   "position": "Secretary",
+   "board member": "Norene Gibson ",
+   "ANSWER": "Only Homes"
+  }
+ },
+ "7ac301cc2f": {
+  "instruction": {
+   "board member": " Jared Adamson",
+   "ANSWER": "Culligan Water Conditioning",
+   "position": "Associate Member"
+  }
+ },
+ "a0fceea7a0": {
+  "instruction": {
+   "position": "Joe Morrow",
+   "board member": "Local Board, Alternate",
+   "ANSWER": "City of Yankton"
+  }
+ },
+ "c69b860f01": {
+  "instruction": {
+   "board member": "Joe Morrow",
+   "ANSWER": "City of Yankton",
+   "position": "Local Board"
+  }
+ }
+}

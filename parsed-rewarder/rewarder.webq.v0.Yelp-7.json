@@ -1,0 +1,1425 @@
+{
+ "1c047cdde3": {
+  "instruction": {
+   "repairmen": "cleaners",
+   "location": "Greenville, SC"
+  }
+ },
+ "05607a1b5c": {
+  "instruction": {
+   "repairmen": "plumber",
+   "location": "New Haven, CT",
+   "ANSWER": "Joseph G Michel & Sons"
+  }
+ },
+ "aabdbf60a5": {
+  "instruction": {
+   "geographic location": "Miami",
+   "type of food": "Mexican",
+   "ANSWER": "Gorditas Mexican Kitchen"
+  }
+ },
+ "8401f4427b": {
+  "instruction": {
+   "repairmen": "air conditioners specialists",
+   "location": "Miami, FL",
+   "ANSWER": "SKO Services"
+  }
+ },
+ "f17aa67aab": {
+  "instruction": {
+   "repairmen": "floor installation ",
+   "location": "Laguna Beach, CA",
+   "ANSWER": "Arthur\u2019s Flooring"
+  }
+ },
+ "3b57de06ae": {
+  "instruction": {
+   "geographic location": "Napa",
+   "type of food": "tapas"
+  }
+ },
+ "6977c3f6f2": {
+  "instruction": {
+   "repairmen": "gutter installers",
+   "location": "Greenville, SC"
+  }
+ },
+ "b1b50799bf": {
+  "instruction": {
+   "geographic location": "SFO",
+   "type of food": "Chinese food"
+  }
+ },
+ "5201311580": {
+  "instruction": {
+   "geographic location": "Houston",
+   "type of food": "burrito",
+   "ANSWER": "Uberrito"
+  }
+ },
+ "41db06589e": {
+  "instruction": {
+   "geographic location": "New York City",
+   "type of food": "sushi",
+   "ANSWER": "Cafe 11"
+  }
+ },
+ "e81354f8c4": {
+  "instruction": {
+   "repairmen": "electricians",
+   "location": "Miami, FL",
+   "ANSWER": "Miami Electric Masters"
+  }
+ },
+ "cc892f98c9": {
+  "instruction": {
+   "geographic location": "Detroit",
+   "type of food": "Fried Chicken",
+   "ANSWER": "Green Dot Stables"
+  }
+ },
+ "ac7efc0042": {
+  "instruction": {
+   "repairmen": "Locksmiths",
+   "location": "Folsom, CA",
+   "ANSWER": "Out Lock Locksmith"
+  }
+ },
+ "87eb6361c8": {
+  "instruction": {
+   "repairmen": "Electricians",
+   "location": "San Francisco, CA",
+   "ANSWER": "General SF"
+  }
+ },
+ "5e7b6b881c": {
+  "instruction": {
+   "repairmen": "Painters",
+   "location": "Charlotte, NC",
+   "ANSWER": "Century Painting"
+  }
+ },
+ "f85d40e02c": {
+  "instruction": {
+   "repairmen": "Door Company",
+   "location": "Easley, SC, USA",
+   "ANSWER": "mybutlerdoor.com"
+  }
+ },
+ "45e315c64b": {
+  "instruction": {
+   "geographic location": "Fort Worth",
+   "type of food": "Milkshake",
+   "ANSWER": "Rodeo Goat"
+  }
+ },
+ "f339dd9947": {
+  "instruction": {
+   "geographic location": "New York City ",
+   "type of food": "Italian food",
+   "ANSWER": "Otto Enoteca & Pizzeria 5th Avenue 8th Street, New York, NY 10003"
+  }
+ },
+ "f2156262b7": {
+  "instruction": {
+   "repairmen": "carpet cleaner",
+   "location": "New Haven, CT",
+   "ANSWER": "Magic Mop Cleaning Services"
+  }
+ },
+ "a9482c2d5c": {
+  "instruction": {
+   "repairmen": "Electronic Repair",
+   "location": "Chicago, IL",
+   "ANSWER": "Direct Repair"
+  }
+ },
+ "78113d46e3": {
+  "instruction": {
+   "repairmen": "Gutter Installers",
+   "location": "San Francisco, CA",
+   "ANSWER": "Peninsula Roofing"
+  }
+ },
+ "3944d8462a": {
+  "instruction": {
+   "repairmen": "contractors",
+   "location": "Boulder, CO",
+   "ANSWER": "Puroclean Disaster Response"
+  }
+ },
+ "5956ac4d8b": {
+  "instruction": {
+   "repairmen": " Home Repair & Renovations, Inc.",
+   "location": "84 SALTERS RD, GREENVILLE, SC 29607, UNITED STATE",
+   "ANSWER": "https://www.diasrenovations.com/"
+  }
+ },
+ "76f15b357b": {
+  "instruction": {
+   "geographic location": "Ithaca, NY",
+   "type of food": "Vegetarian Meals ",
+   "ANSWER": " Moosewood Restaurant"
+  }
+ },
+ "70cb5b90dd": {
+  "instruction": {
+   "geographic location": "Burlington, VT",
+   "type of food": "homemade soups",
+   "ANSWER": " Top of the Block"
+  }
+ },
+ "974307d2fb": {
+  "instruction": {
+   "repairmen": "plumbing services",
+   "location": "Miami, FL",
+   "ANSWER": "Main Plumbing Services"
+  }
+ },
+ "6ddd8ff76c": {
+  "instruction": {
+   "repairmen": "locksmiths",
+   "location": "Greenville, SC"
+  }
+ },
+ "89f72da210": {
+  "instruction": {
+   "repairmen": "Glass Companies",
+   "location": "San Francisco, CA",
+   "ANSWER": "Super Auto Glass"
+  }
+ },
+ "1648a3955c": {
+  "instruction": {
+   "repairmen": "lawn mower repair",
+   "location": "New Haven, CT",
+   "ANSWER": "Spring Glen True Value"
+  }
+ },
+ "14665c98a0": {
+  "instruction": {
+   "geographic location": "Chicago",
+   "type of food": " Barbeque",
+   "ANSWER": "Smoque BBQ"
+  }
+ },
+ "9fe66667ea": {
+  "instruction": {
+   "repairmen": "electrical wiring experts",
+   "location": "Miami, FL",
+   "ANSWER": "Universal Electrical Services"
+  }
+ },
+ "b0a2b7dfa4": {
+  "instruction": {
+   "repairmen": "Plumbers",
+   "location": "Charlotte, NC",
+   "ANSWER": "Julian's Plumbing"
+  }
+ },
+ "84edae08d6": {
+  "instruction": {
+   "repairmen": "Water Heater Installation/Repair",
+   "location": "San Francisco, CA",
+   "ANSWER": "Excalibur Water Heaters"
+  }
+ },
+ "8e9b1c6529": {
+  "instruction": {
+   "geographic location": "Raleigh, NC",
+   "type of food": "BBQ"
+  }
+ },
+ "3bd56a2ac0": {
+  "instruction": {
+   "geographic location": "Portland",
+   "type of food": "Chicken sandwich",
+   "ANSWER": "Basilisk"
+  }
+ },
+ "421d64557c": {
+  "instruction": {
+   "geographic location": "Brooklyn, NY",
+   "type of food": "ice cream"
+  }
+ },
+ "b23e582a33": {
+  "instruction": {
+   "repairmen": "handymen",
+   "location": "Miami, FL",
+   "ANSWER": "Exclusive Handyman Services"
+  }
+ },
+ "2235fa3246": {
+  "instruction": {
+   "geographic location": "Ann Arbor",
+   "type of food": "Italian",
+   "ANSWER": "Mani Osteria & Bar"
+  }
+ },
+ "c7b89d52ce": {
+  "instruction": {
+   "repairmen": "Plumbers",
+   "location": "San Francisco, CA",
+   "ANSWER": "Fast Response"
+  }
+ },
+ "8f5421270a": {
+  "instruction": {
+   "repairmen": "remodelers",
+   "location": "San Fransisco, CA",
+   "ANSWER": "Aaron Gordon Construction, Inc."
+  }
+ },
+ "f8a03f4dfe": {
+  "instruction": {
+   "geographic location": "Manhattan",
+   "type of food": "sushi"
+  }
+ },
+ "bef4ad9d9d": {
+  "instruction": {
+   "geographic location": "Austin, TX",
+   "type of food": "party subs",
+   "ANSWER": "The Soup Peddler Real Food & Juice Bar"
+  }
+ },
+ "c703a15548": {
+  "instruction": {
+   "repairmen": "heating experts",
+   "location": "Miami, FL",
+   "ANSWER": "Flow-Tech Air Conditioning"
+  }
+ },
+ "a59641da86": {
+  "instruction": {
+   "repairmen": "Plumbing Heating Cooling ",
+   "location": "3385 Brushy Creek Rd Greer, SC 29650",
+   "ANSWER": "http://fivestartoday.com/"
+  }
+ },
+ "a8130ee246": {
+  "instruction": {
+   "repairmen": "painters",
+   "location": "Miami, FL",
+   "ANSWER": "D&L Wall Design"
+  }
+ },
+ "6f76d5b72f": {
+  "instruction": {
+   "geographic location": "Milwaukee",
+   "type of food": "Butter cookie",
+   "ANSWER": "Honeypie Cafe"
+  }
+ },
+ "082154784f": {
+  "instruction": {
+   "geographic location": "Madrid, Spain",
+   "type of food": "pastries"
+  }
+ },
+ "3b512f4367": {
+  "instruction": {
+   "repairmen": "roofer",
+   "location": "New Haven, CT",
+   "ANSWER": "Kellner Roofing"
+  }
+ },
+ "85c4437c61": {
+  "instruction": {
+   "repairmen": "Insulation Contractor",
+   "location": "21 Selwyn Dr Greenville, SC 29615",
+   "ANSWER": "http://www.bentongreenenergy.com/"
+  }
+ },
+ "e9716e6a7e": {
+  "instruction": {
+   "geographic location": "Stanford",
+   "type of food": "ice cream"
+  }
+ },
+ "ae61cfc964": {
+  "instruction": {
+   "geographic location": "Menlo Park",
+   "type of food": "coffee"
+  }
+ },
+ "e386cbfad4": {
+  "instruction": {
+   "geographic location": "NYC",
+   "type of food": "best bacon sandwiches",
+   "ANSWER": "Bar Bacon"
+  }
+ },
+ "a7995419e0": {
+  "instruction": {
+   "geographic location": "Los Angeles, CA",
+   "type of food": "breakfast burritos",
+   "ANSWER": "Tacos Tu Madre"
+  }
+ },
+ "6cacd7ec2c": {
+  "instruction": {
+   "repairmen": "auto detailers",
+   "location": "San Fransisco, CA",
+   "ANSWER": "California Detailing"
+  }
+ },
+ "60d3e1134d": {
+  "instruction": {
+   "geographic location": "New York City ",
+   "type of food": "Thai food",
+   "ANSWER": "Wondee Siam, 792 9th Avenue, New York, NY 10019"
+  }
+ },
+ "3ab8682c00": {
+  "instruction": {
+   "geographic location": "Georgetown, Tx",
+   "type of food": "Mexican",
+   "ANSWER": " El Monumento"
+  }
+ },
+ "2b51a6f896": {
+  "instruction": {
+   "repairmen": "Cleaning & Maid Services",
+   "location": "109 Woodruff Industrial Ln Greenville, SC 29607",
+   "ANSWER": "http://http://castle-keepers.com/greenville"
+  }
+ },
+ "9b956f1bb3": {
+  "instruction": {
+   "geographic location": "Washington, D.C.",
+   "type of food": " Fish & Chips",
+   "ANSWER": "The District Fishwife"
+  }
+ },
+ "e706228016": {
+  "instruction": {
+   "geographic location": "Paris",
+   "type of food": "Burgers",
+   "ANSWER": "Blend"
+  }
+ },
+ "8a29f75903": {
+  "instruction": {
+   "repairmen": "Appliance Repair",
+   "location": "Chicago, IL - Pilsen",
+   "ANSWER": "Skyline Appliance Repair"
+  }
+ },
+ "14010b4aaa": {
+  "instruction": {
+   "repairmen": "locksmiths",
+   "location": "New Haven, CT",
+   "ANSWER": "Acme Lock & Safe"
+  }
+ },
+ "ec025dae31": {
+  "instruction": {
+   "geographic location": "San Francisco",
+   "type of food": "taco"
+  }
+ },
+ "c99e534350": {
+  "instruction": {
+   "geographic location": "Portland",
+   "type of food": "Italian",
+   "ANSWER": "a Cena Ristorante"
+  }
+ },
+ "aa6cd935ea": {
+  "instruction": {
+   "geographic location": "Asheville, NC",
+   "type of food": "Snacks and beer"
+  }
+ },
+ "505c78a178": {
+  "instruction": {
+   "geographic location": "Nashville",
+   "type of food": "chicken",
+   "ANSWER": "Hattie B\u2019s Chicken"
+  }
+ },
+ "2c91b70792": {
+  "instruction": {
+   "repairmen": "Bike Repair",
+   "location": "Chicago, IL - Woodlawn",
+   "ANSWER": "Blackstone Bicycle Works"
+  }
+ },
+ "ee3cfff395": {
+  "instruction": {
+   "geographic location": "Rio de Janeiro",
+   "type of food": "chow mein",
+   "ANSWER": "https://www.yelp.com/biz/chon-kou-rio-de-janeiro"
+  }
+ },
+ "e876b00227": {
+  "instruction": {
+   "geographic location": "NC State University",
+   "type of food": "Cookout"
+  }
+ },
+ "2c4a75bc63": {
+  "instruction": {
+   "geographic location": "Seattle",
+   "type of food": "Pork and beans",
+   "ANSWER": "Porkchop & Co."
+  }
+ },
+ "e87f67d178": {
+  "instruction": {
+   "geographic location": "Memphis",
+   "type of food": "Ice cream cake",
+   "ANSWER": "Jerry's Sno Cones"
+  }
+ },
+ "6f428de156": {
+  "instruction": {
+   "geographic location": "Ft. Lauderdale",
+   "type of food": "Mexican",
+   "ANSWER": "La Bamba Mexican Spanish Restaurant"
+  }
+ },
+ "57bbef9d2d": {
+  "instruction": {
+   "geographic location": "Manhattan",
+   "type of food": "omelette"
+  }
+ },
+ "062e0205cc": {
+  "instruction": {
+   "geographic location": "Orlando",
+   "type of food": "Salad",
+   "ANSWER": "Market On South"
+  }
+ },
+ "15816d3864": {
+  "instruction": {
+   "repairmen": "plumbers",
+   "location": "Greenville, SC"
+  }
+ },
+ "812ce30daf": {
+  "instruction": {
+   "repairmen": "Locksmith",
+   "location": "Charlotte, NC",
+   "ANSWER": "Mr. Rekey Locksmith"
+  }
+ },
+ "e5ad00769c": {
+  "instruction": {
+   "geographic location": "New York City",
+   "type of food": "Thai food",
+   "ANSWER": "Pure Thai Cookhouse 766 9th Avenue Unit 2, New York, NY 10019"
+  }
+ },
+ "e6239d2127": {
+  "instruction": {
+   "repairmen": "painters",
+   "location": "San Fransisco, CA",
+   "ANSWER": "Marcio"
+  }
+ },
+ "d93d3e8ccc": {
+  "instruction": {
+   "geographic location": "Weslaco",
+   "type of food": " Sushi",
+   "ANSWER": "Kumori Sushi & Teppanyaki"
+  }
+ },
+ "c797267fa2": {
+  "instruction": {
+   "repairmen": "HVAC specialists",
+   "location": "Greenville, SC"
+  }
+ },
+ "515d812ed7": {
+  "instruction": {
+   "repairmen": "landscaper",
+   "location": "New Haven, CT",
+   "ANSWER": "Precision Cutting Services"
+  }
+ },
+ "a84f19ab30": {
+  "instruction": {
+   "repairmen": "Furniture Repair Services",
+   "location": "84 S Church St Greenville, SC 29601",
+   "ANSWER": "http://www.nookandcrannyco.com/"
+  }
+ },
+ "ea31641ae2": {
+  "instruction": {
+   "geographic location": "Ft. Lauderdale",
+   "type of food": "BBQ",
+   "ANSWER": "Smoke BBQ"
+  }
+ },
+ "2ce9ba5a76": {
+  "instruction": {
+   "geographic location": "Dallas",
+   "type of food": "Pancakes",
+   "ANSWER": "Meddlesome Moth "
+  }
+ },
+ "ad7d399073": {
+  "instruction": {
+   "geographic location": "Los Angeles",
+   "type of food": "donuts"
+  }
+ },
+ "d4088fab79": {
+  "instruction": {
+   "geographic location": "New Orleans, LA",
+   "type of food": "foot long subs",
+   "ANSWER": "Reuben\u2019s Soup & Sandwich Company"
+  }
+ },
+ "e4224be3fb": {
+  "instruction": {
+   "geographic location": "Anaheim",
+   "type of food": "churros"
+  }
+ },
+ "1b6df0d96c": {
+  "instruction": {
+   "geographic location": "Kyle, TX",
+   "type of food": "pies",
+   "ANSWER": "Texas Pie Company"
+  }
+ },
+ "9db6ea5f6b": {
+  "instruction": {
+   "geographic location": "Seattle",
+   "type of food": "sausage",
+   "ANSWER": "Uli\u2019s Famous Sausage"
+  }
+ },
+ "e3c44faa19": {
+  "instruction": {
+   "geographic location": "Nashville",
+   "type of food": "Burger",
+   "ANSWER": "Farm Burger Nashville"
+  }
+ },
+ "9384a1b398": {
+  "instruction": {
+   "geographic location": "Atlanta, GA",
+   "type of food": "Tacos"
+  }
+ },
+ "c1ae133ff4": {
+  "instruction": {
+   "geographic location": "Helsinki",
+   "type of food": "coffee",
+   "ANSWER": "https://www.yelp.com/biz/s\u00e4vy-helsinki-2"
+  }
+ },
+ "13159b7fb9": {
+  "instruction": {
+   "geographic location": "New York City ",
+   "type of food": "Italian food",
+   "ANSWER": "Carmine's, 200 W 44th Street, New York, NY 10036"
+  }
+ },
+ "e1b03df137": {
+  "instruction": {
+   "geographic location": "Copenhagen",
+   "type of food": "sushi",
+   "ANSWER": "https://www.yelp.com/biz/sushi-lovers-k\u00f8benhavn"
+  }
+ },
+ "52ba16d197": {
+  "instruction": {
+   "repairmen": "Shades & Blinds, Contractors",
+   "location": "Folsom, CA",
+   "ANSWER": "The Screen Guys"
+  }
+ },
+ "21e58ef88d": {
+  "instruction": {
+   "repairmen": "Electricians",
+   "location": "Charlotte, NC",
+   "ANSWER": "Five Star Electrical and Plumbing"
+  }
+ },
+ "7f2bb87814": {
+  "instruction": {
+   "repairmen": "Crawl Space Encapsulation Specialists",
+   "location": "Charlotte, NC",
+   "ANSWER": "Dry Pro Crawlspace and Foundation Specialists"
+  }
+ },
+ "d0f8719e47": {
+  "instruction": {
+   "geographic location": "Paris",
+   "type of food": "escargot",
+   "ANSWER": "La Cave Gourmande"
+  }
+ },
+ "37b22f1cc1": {
+  "instruction": {
+   "repairmen": "landscapers",
+   "location": "San Fransisco, CA ",
+   "ANSWER": "Shambhala Landscapes"
+  }
+ },
+ "154779b86e": {
+  "instruction": {
+   "geographic location": "Karlskrona",
+   "type of food": "omelette",
+   "ANSWER": "https://www.yelp.com/biz/elsas-caf\u00e9-karlskrona"
+  }
+ },
+ "736a82a2ff": {
+  "instruction": {
+   "repairmen": "gas specialists",
+   "location": "Miami, FL",
+   "ANSWER": "Super HVAC Service"
+  }
+ },
+ "ab3ecf5b91": {
+  "instruction": {
+   "geographic location": "Curitiba",
+   "type of food": "taco",
+   "ANSWER": "https://www.yelp.com/biz/la-santa-curitiba"
+  }
+ },
+ "cbd4e77ff1": {
+  "instruction": {
+   "geographic location": "JFK",
+   "type of food": "Indian food"
+  }
+ },
+ "1c7d39e30d": {
+  "instruction": {
+   "repairmen": "Plumbers",
+   "location": "Folsom, CA",
+   "ANSWER": "Payless Drains and Plumbing"
+  }
+ },
+ "5f3d4a90a7": {
+  "instruction": {
+   "repairmen": "mechanic",
+   "location": "New Haven, CT",
+   "ANSWER": " S K F Automotive"
+  }
+ },
+ "0a262c879e": {
+  "instruction": {
+   "repairmen": "plumbers",
+   "location": "Albany, NY",
+   "ANSWER": "Karner Mechanical"
+  }
+ },
+ "0c6c4529bd": {
+  "instruction": {
+   "geographic location": "San Francisco",
+   "type of food": "Sandwiches",
+   "ANSWER": "Limoncello"
+  }
+ },
+ "6be499163d": {
+  "instruction": {
+   "repairmen": "damage restoration specialists",
+   "location": "Miami, FL",
+   "ANSWER": "Cutler Bay Plumbing"
+  }
+ },
+ "11b2423cb7": {
+  "instruction": {
+   "geographic location": "Chicago, IL",
+   "type of food": "Greek food",
+   "ANSWER": "Kurah Mediterranean"
+  }
+ },
+ "a0bc847e37": {
+  "instruction": {
+   "repairmen": "electrician",
+   "location": "New Haven, CT",
+   "ANSWER": "K Depalma Electric"
+  }
+ },
+ "52689be182": {
+  "instruction": {
+   "repairmen": "contractors ",
+   "location": "North Myrtle Beach, SC",
+   "ANSWER": "J Gann Landscapes"
+  }
+ },
+ "1e1f17e4c3": {
+  "instruction": {
+   "geographic location": "Seattle",
+   "type of food": "soup"
+  }
+ },
+ "1543ee7c16": {
+  "instruction": {
+   "repairmen": "Plumber",
+   "location": "Chicago, IL - South Shore",
+   "ANSWER": "Burris and Sons"
+  }
+ },
+ "34e84a7de9": {
+  "instruction": {
+   "geographic location": "Chicago",
+   "type of food": "BBQ",
+   "ANSWER": "Smoque BBQ"
+  }
+ },
+ "1d2257f039": {
+  "instruction": {
+   "geographic location": "New York City",
+   "type of food": "bagel",
+   "ANSWER": "Best Bagel and Coffee"
+  }
+ },
+ "3451834d5c": {
+  "instruction": {
+   "repairmen": "Solar Installers",
+   "location": "Folsom, CA",
+   "ANSWER": "Solar PV Pros"
+  }
+ },
+ "0b872a6245": {
+  "instruction": {
+   "repairmen": "Appliance Repairmen",
+   "location": "San Francisco, CA",
+   "ANSWER": "Metro Appliance Repair"
+  }
+ },
+ "d81f91adb2": {
+  "instruction": {
+   "geographic location": "Tokyo",
+   "type of food": "sushi"
+  }
+ },
+ "1811b3e284": {
+  "instruction": {
+   "repairmen": "Appliance Repairmen",
+   "location": "Charlotte, NC",
+   "ANSWER": "Always Running"
+  }
+ },
+ "c7eef62479": {
+  "instruction": {
+   "repairmen": "florists",
+   "location": "San Fransisco, CA",
+   "ANSWER": "Elizabeth's Flowers"
+  }
+ },
+ "6242901e1f": {
+  "instruction": {
+   "repairmen": "Home Cleaning, Carpet Cleaning",
+   "location": "Folsom, CA",
+   "ANSWER": "Gooses Carpet Cleaning & Stone Cleaning"
+  }
+ },
+ "754b2cac52": {
+  "instruction": {
+   "repairmen": "cobbler",
+   "location": "New Haven, CT",
+   "ANSWER": "Kelly\u2019s Cobbler"
+  }
+ },
+ "75b0451342": {
+  "instruction": {
+   "geographic location": "S\u00e3o Jos\u00e9 dos Pinhais",
+   "type of food": "pizza",
+   "ANSWER": "https://www.yelp.com/biz/pizza-curitiba-2"
+  }
+ },
+ "8e7faf69a0": {
+  "instruction": {
+   "geographic location": "New York",
+   "type of food": "dumpling"
+  }
+ },
+ "f3a10df752": {
+  "instruction": {
+   "repairmen": "glass companies",
+   "location": "Louisiana, MO",
+   "ANSWER": " St. Louis Glass Works"
+  }
+ },
+ "d78ce5694c": {
+  "instruction": {
+   "geographic location": "Orlando",
+   "type of food": "Thai"
+  }
+ },
+ "34cecf883d": {
+  "instruction": {
+   "geographic location": "Chicago",
+   "type of food": "hot dog",
+   "ANSWER": "Portillo's"
+  }
+ },
+ "4e08e62287": {
+  "instruction": {
+   "repairmen": "electricians",
+   "location": "San Francisco, CA",
+   "ANSWER": "Electro-Integrity"
+  }
+ },
+ "55d7f66f08": {
+  "instruction": {
+   "geographic location": "Brooklyn",
+   "type of food": "Pizza",
+   "ANSWER": "L\u2019industrie Pizzeria"
+  }
+ },
+ "1e1b48691a": {
+  "instruction": {
+   "geographic location": "New Orleans",
+   "type of food": "Italian",
+   "ANSWER": "Marcello\u2019s Restaurant & Wine Bar"
+  }
+ },
+ "6d5a28c0e3": {
+  "instruction": {
+   "geographic location": "Brooklyn",
+   "type of food": "pizza"
+  }
+ },
+ "18690f2bd4": {
+  "instruction": {
+   "geographic location": "Austin",
+   "type of food": "burritos"
+  }
+ },
+ "e7dcfa8b9c": {
+  "instruction": {
+   "repairmen": "gutter installers",
+   "location": "Kirkland, WA",
+   "ANSWER": "Pro Roofing"
+  }
+ },
+ "f974924b29": {
+  "instruction": {
+   "geographic location": "San Fransico",
+   "type of food": "chinese"
+  }
+ },
+ "0a9ca8cdd4": {
+  "instruction": {
+   "geographic location": "New York City",
+   "type of food": "Thai food",
+   "ANSWER": "OBAO 222 E 53rd Street, New York, NY 10022"
+  }
+ },
+ "b750a29532": {
+  "instruction": {
+   "repairmen": "DJ's",
+   "location": "San Fransisco, CA",
+   "ANSWER": "DJ Sir Edgar"
+  }
+ },
+ "a0fd6c6daa": {
+  "instruction": {
+   "repairmen": "Auto Repair",
+   "location": "Chicago, IL - Bridgeport",
+   "ANSWER": "A-K Auto Mechanic & Body Shop"
+  }
+ },
+ "bd4923a518": {
+  "instruction": {
+   "geographic location": "Charlotte, NC",
+   "type of food": "Wine"
+  }
+ },
+ "8976960daf": {
+  "instruction": {
+   "repairmen": "glass companies",
+   "location": "Greenville, SC"
+  }
+ },
+ "e6a789d166": {
+  "instruction": {
+   "repairmen": "Computer Repairmen",
+   "location": "San Francisco, CA",
+   "ANSWER": " Bay Area Computer Repairs"
+  }
+ },
+ "7949e10c76": {
+  "instruction": {
+   "geographic location": "New York City",
+   "type of food": "Thai food",
+   "ANSWER": "Thai Select 472 9th Avenue, New York, NY 10018"
+  }
+ },
+ "4f077df858": {
+  "instruction": {
+   "geographic location": "Troms\u00f8",
+   "type of food": "kebab",
+   "ANSWER": "https://www.yelp.com/biz/kebab-king-troms\u00f8"
+  }
+ },
+ "c833d414b2": {
+  "instruction": {
+   "repairmen": "carpet installers",
+   "location": "San Fransisco, CA",
+   "ANSWER": "Pioneer Home Supply"
+  }
+ },
+ "02610d7077": {
+  "instruction": {
+   "geographic location": "Seattle",
+   "type of food": "Nacho",
+   "ANSWER": "Fog\u00f3n Cocina Mexicana"
+  }
+ },
+ "6da60450e7": {
+  "instruction": {
+   "repairmen": "electricians",
+   "location": "Greenville, SC"
+  }
+ },
+ "a09b344e1a": {
+  "instruction": {
+   "geographic location": "New York City ",
+   "type of food": "Thai food",
+   "ANSWER": "ThaiNY, 394 3rd Avenue, New York, NY 10016"
+  }
+ },
+ "ab877e2f0c": {
+  "instruction": {
+   "geographic location": "Silver Lake",
+   "type of food": "tofu"
+  }
+ },
+ "81b040164e": {
+  "instruction": {
+   "repairmen": "Roofers",
+   "location": "Charlotte, NC",
+   "ANSWER": "Charlotte Pro Roofing"
+  }
+ },
+ "37c702c9fa": {
+  "instruction": {
+   "repairmen": "Locksmiths",
+   "location": "San Francisco, CA",
+   "ANSWER": "YES Locksmith"
+  }
+ },
+ "e735dbc4e7": {
+  "instruction": {
+   "repairmen": "Fitness Equipment",
+   "location": "Warrenville, IL",
+   "ANSWER": "Huff-n-Puff Fitness Repair"
+  }
+ },
+ "ce694a71d5": {
+  "instruction": {
+   "repairmen": "Drywall Installers",
+   "location": "Charlotte, NC",
+   "ANSWER": "Glenny's Painting"
+  }
+ },
+ "6284713c06": {
+  "instruction": {
+   "repairmen": "tile companies",
+   "location": "Greenville, SC"
+  }
+ },
+ "00915aa7fd": {
+  "instruction": {
+   "repairmen": "flooring specialists",
+   "location": "Miami, FL",
+   "ANSWER": "Hard Surface Masters"
+  }
+ },
+ "67bcb24a16": {
+  "instruction": {
+   "repairmen": "window washers",
+   "location": "San Fransisco, CA",
+   "ANSWER": "A Sparkling Finish Window Washers"
+  }
+ },
+ "f526842b5d": {
+  "instruction": {
+   "repairmen": "smoke alarm installers",
+   "location": "Miami, FL",
+   "ANSWER": "ADT Dealer Home Security Concepts"
+  }
+ },
+ "5d9d1490fd": {
+  "instruction": {
+   "repairmen": "interior design",
+   "location": "Columbus, OH",
+   "ANSWER": "Kellie Toole Interior Design, Ltd"
+  }
+ },
+ "0494f702c1": {
+  "instruction": {
+   "geographic location": "Boston",
+   "type of food": "lobster roll",
+   "ANSWER": "Luke\u2019s Lobster Downtown Crossing"
+  }
+ },
+ "1f2164e23a": {
+  "instruction": {
+   "geographic location": "New Orleans",
+   "type of food": "Seafood",
+   "ANSWER": "Acme Oyster House"
+  }
+ },
+ "041cd2ff99": {
+  "instruction": {
+   "geographic location": "Buenos Aires",
+   "type of food": "steak",
+   "ANSWER": "https://www.yelp.com/biz/la-carnicer\u00eda-buenos-aires"
+  }
+ },
+ "3d8da2c18d": {
+  "instruction": {
+   "geographic location": "Milwaukee",
+   "type of food": "pho",
+   "ANSWER": "Pho Cali"
+  }
+ },
+ "ce20239622": {
+  "instruction": {
+   "repairmen": "Drywall & Painting ",
+   "location": "Liberty, SC, USA",
+   "ANSWER": "http://www.dugansdrywallpainting.com/"
+  }
+ },
+ "e3e17793a6": {
+  "instruction": {
+   "geographic location": "Houston",
+   "type of food": "sushi",
+   "ANSWER": "Zen Japanese Izakaya"
+  }
+ },
+ "5964c4c960": {
+  "instruction": {
+   "geographic location": "Mexico City",
+   "type of food": "spring roll",
+   "ANSWER": "https://www.yelp.com/biz/mog-m\u00e9xico"
+  }
+ },
+ "35e5336c3f": {
+  "instruction": {
+   "geographic location": "Boston",
+   "type of food": "sushi",
+   "ANSWER": "Fuji at Ink Block"
+  }
+ },
+ "64ddc22cbe": {
+  "instruction": {
+   "geographic location": "Dallas",
+   "type of food": "thai"
+  }
+ },
+ "6e92a9848d": {
+  "instruction": {
+   "repairmen": "Heating and Cooling Repairmen",
+   "location": "San Francisco, CA",
+   "ANSWER": " Clear Thumb: Healthy Heating & Air Conditioning"
+  }
+ },
+ "c7d5e28df1": {
+  "instruction": {
+   "repairmen": "Tile Installers",
+   "location": "San Francisco, CA",
+   "ANSWER": "Alex's Custom Tile"
+  }
+ },
+ "70bc624b6c": {
+  "instruction": {
+   "repairmen": "Glass & Mirror Companies ",
+   "location": "8 Crigler St, Greenville, SC 29607, USA",
+   "ANSWER": "http://glassdoctor.com/greenville"
+  }
+ },
+ "681f300824": {
+  "instruction": {
+   "geographic location": "Los Angeles",
+   "type of food": "Waffles",
+   "ANSWER": "Wafflejack"
+  }
+ },
+ "d0e23c8397": {
+  "instruction": {
+   "geographic location": "San Francisco",
+   "type of food": "sushi",
+   "ANSWER": "Akira Japanese Restaurant"
+  }
+ },
+ "47a7f8d7a7": {
+  "instruction": {
+   "repairmen": "Plumbers",
+   "location": "San Francisco, CA",
+   "ANSWER": " Alansi\u2019s Plumbing Co."
+  }
+ },
+ "51525868cb": {
+  "instruction": {
+   "repairmen": "Window Installers",
+   "location": "Charlotte, NC",
+   "ANSWER": "Zen Windows Charlotte"
+  }
+ },
+ "e50b154fdb": {
+  "instruction": {
+   "repairmen": "Appliances",
+   "location": "408 Cedar Ln Rd Greenville, SC 29611",
+   "ANSWER": "http://www.theoldehomesteadsc.com/"
+  }
+ },
+ "f3d04211f6": {
+  "instruction": {
+   "repairmen": "carpet cleaners",
+   "location": "Boulder, CO",
+   "ANSWER": "Boulder Carpet Cleaning Masters"
+  }
+ },
+ "c33cfd067f": {
+  "instruction": {
+   "geographic location": "Lexington",
+   "type of food": "waffles"
+  }
+ },
+ "cc3658b918": {
+  "instruction": {
+   "repairmen": "gutter cleaners",
+   "location": "Oakland, CA",
+   "ANSWER": "Sunshine Gutters"
+  }
+ },
+ "6355397ee3": {
+  "instruction": {
+   "geographic location": "Olando",
+   "type of food": "Pepperoni",
+   "ANSWER": " Vivo Italian Kitchen"
+  }
+ },
+ "f7b7027599": {
+  "instruction": {
+   "geographic location": "Miami",
+   "type of food": "All American"
+  }
+ },
+ "caab117745": {
+  "instruction": {
+   "geographic location": "Los Angeles",
+   "type of food": "Seafood",
+   "ANSWER": "Providence"
+  }
+ },
+ "5d4a35fb68": {
+  "instruction": {
+   "geographic location": "New York City",
+   "type of food": "Thai food",
+   "ANSWER": "Pam Real Thai Food 49  404 W 49th Street, New York, NY 10019"
+  }
+ },
+ "7c4edbc41d": {
+  "instruction": {
+   "repairmen": "Contractors",
+   "location": "San Francisco, CA",
+   "ANSWER": "Paul Fanta"
+  }
+ },
+ "6b8b0219f8": {
+  "instruction": {
+   "repairmen": "HVAC worker",
+   "location": "New Haven, CT",
+   "ANSWER": "Tyler Heating, Air Conditioning, and Refrigeration"
+  }
+ },
+ "8f743c209e": {
+  "instruction": {
+   "geographic location": "San Antonio",
+   "type of food": "Sandwiches",
+   "ANSWER": "Bliss"
+  }
+ },
+ "c493ce8f87": {
+  "instruction": {
+   "geographic location": "New York City ",
+   "type of food": "Italian food",
+   "ANSWER": "Babbo, 110 Waverly Place, New York, NY 10011"
+  }
+ },
+ "d472659ab4": {
+  "instruction": {
+   "repairmen": "Roofing Repair",
+   "location": "Chicago, IL - Logan Square",
+   "ANSWER": "Red Sun Roofing"
+  }
+ },
+ "9c2c528d24": {
+  "instruction": {
+   "repairmen": "Pressure Washers",
+   "location": "Charlotte, NC",
+   "ANSWER": "Big Clean"
+  }
+ },
+ "33280d6989": {
+  "instruction": {
+   "geographic location": "Paris",
+   "type of food": "tofu"
+  }
+ },
+ "2245f68d71": {
+  "instruction": {
+   "geographic location": "Kansas City, MO",
+   "type of food": "homemade icecream",
+   "ANSWER": "Glac\u00e9 Artisan Ice Cream"
+  }
+ },
+ "eb6bd1e655": {
+  "instruction": {
+   "repairmen": "Shoe Repair",
+   "location": "Chicago, IL - Loop",
+   "ANSWER": " Beehive Shoe Works"
+  }
+ },
+ "59ebf54e7a": {
+  "instruction": {
+   "geographic location": "V\u00e4xsj\u00f6",
+   "type of food": "pasta",
+   "ANSWER": "https://www.yelp.com/biz/pizzeria-pronto-hudiksvall-2"
+  }
+ },
+ "df8582cfbb": {
+  "instruction": {
+   "geographic location": "New York City ",
+   "type of food": "Italian food",
+   "ANSWER": "Lombardi's Pizza, 32 Spring Street, New York, NY 10012"
+  }
+ },
+ "7fb8ce869b": {
+  "instruction": {
+   "geographic location": "Atlanta",
+   "type of food": "Steak",
+   "ANSWER": "Bones"
+  }
+ },
+ "0ad61bffeb": {
+  "instruction": {
+   "repairmen": "Roofers",
+   "location": "San Francisco, CA",
+   "ANSWER": "Eco Smart Roofer"
+  }
+ },
+ "0e50f4aa4d": {
+  "instruction": {
+   "geographic location": "Las Vegas",
+   "type of food": " Chicken Wings",
+   "ANSWER": "Wing King"
+  }
+ },
+ "634407659f": {
+  "instruction": {
+   "geographic location": "Houston",
+   "type of food": "Milkshake",
+   "ANSWER": "The Burger Joint"
+  }
+ },
+ "4e3b736150": {
+  "instruction": {
+   "repairmen": " Pest Control",
+   "location": "5600 Augusta Rd Ste A Greenville, SC 29605",
+   "ANSWER": "http://www.bulwarkpestcontrol.com/"
+  }
+ },
+ "b9d6b80aa5": {
+  "instruction": {
+   "geographic location": "London",
+   "type of food": "fish",
+   "ANSWER": "North Sea Fish Restaurant"
+  }
+ },
+ "6491397631": {
+  "instruction": {
+   "repairmen": "brick layers",
+   "location": "San Fransisco, CA",
+   "ANSWER": "Fonseca Marble & Tile"
+  }
+ },
+ "3f1a815255": {
+  "instruction": {
+   "geographic location": "Greenville, SC",
+   "type of food": "Sushi",
+   "ANSWER": "Otto Izakaya"
+  }
+ },
+ "7c1e48aca6": {
+  "instruction": {
+   "repairmen": "Motorcycle Repair",
+   "location": "Kenosha, WI",
+   "ANSWER": "FireHouse Performance"
+  }
+ },
+ "be5c81f879": {
+  "instruction": {
+   "geographic location": "Dallas",
+   "type of food": "sushi",
+   "ANSWER": "Kabuki Japanese Restaurant"
+  }
+ },
+ "8ec4531d79": {
+  "instruction": {
+   "geographic location": "Seattle",
+   "type of food": "Italian",
+   "ANSWER": "Il Corvo Pasta"
+  }
+ },
+ "85299bc330": {
+  "instruction": {
+   "geographic location": "San Francisco",
+   "type of food": "Sandwich",
+   "ANSWER": "Lou\u2019s Cafe"
+  }
+ },
+ "c0d26b594e": {
+  "instruction": {
+   "repairmen": "contractors",
+   "location": "Greenville, SC"
+  }
+ },
+ "0c5613f926": {
+  "instruction": {
+   "geographic location": "Greenville, NC",
+   "type of food": "Asian-Fusion"
+  }
+ },
+ "9b50825c8f": {
+  "instruction": {
+   "geographic location": "San Antonio",
+   "type of food": "Chicken Wings",
+   "ANSWER": "Wayne\u2019s Wings"
+  }
+ },
+ "cfbd308554": {
+  "instruction": {
+   "repairmen": "roofers",
+   "location": "Greenville, SC"
+  }
+ },
+ "8555bfa10d": {
+  "instruction": {
+   "repairmen": "hair stylists",
+   "location": "San Fransisco, CA",
+   "ANSWER": "David James"
+  }
+ },
+ "146e315695": {
+  "instruction": {
+   "repairmen": "Tire Repair",
+   "location": "Chicago, IL - Wicker Park",
+   "ANSWER": "All-Day Tire Shop"
+  }
+ },
+ "ed4a751ad9": {
+  "instruction": {
+   "geographic location": "Amsterdam, The Netherlands",
+   "type of food": " Dim Sum",
+   "ANSWER": "Oriental City"
+  }
+ }
+}

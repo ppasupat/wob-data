@@ -1,0 +1,62 @@
+{
+ "42828028eb": {
+  "instruction": {
+   "geographic location": "Seattle, WA",
+   "time in minutes": "45"
+  }
+ },
+ "fe3b4be446": {
+  "instruction": {
+   "geographic location": "Cleveland, OH",
+   "time in minutes": "60"
+  }
+ },
+ "7fa4f0bdaa": {
+  "instruction": {
+   "geographic location": "Toronto, ON",
+   "time in minutes": "50"
+  }
+ },
+ "cba761a35b": {
+  "instruction": {
+   "geographic location": "Cincinnati, OH",
+   "time in minutes": "25"
+  }
+ },
+ "83370f844f": {
+  "instruction": {
+   "geographic location": "Los Angeles, CA",
+   "time in minutes": "45"
+  }
+ },
+ "24f2f8449c": {
+  "instruction": {
+   "geographic location": "Atlanta, GA",
+   "time in minutes": "30"
+  }
+ },
+ "11df543be6": {
+  "instruction": {
+   "geographic location": "Portland, OR",
+   "time in minutes": "50"
+  }
+ },
+ "52ab7b0985": {
+  "instruction": {
+   "geographic location": "Los Angeles, CA",
+   "time in minutes": "60"
+  }
+ },
+ "db01791881": {
+  "instruction": {
+   "geographic location": "New York, NY",
+   "time in minutes": "40"
+  }
+ },
+ "9ec3f6cc3c": {
+  "instruction": {
+   "geographic location": "Los Angeles, CA",
+   "time in minutes": "20"
+  }
+ }
+}

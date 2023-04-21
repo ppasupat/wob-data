@@ -1,0 +1,72 @@
+{
+ "e858f2515e": {
+  "instruction": {
+   "number leq 3": "3",
+   "strength": "150",
+   "red, blue, or green": "blue"
+  }
+ },
+ "7696e7f28d": {
+  "instruction": {
+   "number leq 3": "3",
+   "strength": "200",
+   "red, blue, or green": "blue"
+  }
+ },
+ "f07a90f9d2": {
+  "instruction": {
+   "number leq 3": "1",
+   "strength": "60",
+   "red, blue, or green": "red"
+  }
+ },
+ "71c03509e7": {
+  "instruction": {
+   "number leq 3": "3",
+   "strength": "550",
+   "red, blue, or green": "green"
+  }
+ },
+ "266afae165": {
+  "instruction": {
+   "number leq 3": "3",
+   "strength": "100",
+   "red, blue, or green": "red"
+  }
+ },
+ "127e30f9ed": {
+  "instruction": {
+   "number leq 3": "2",
+   "strength": "400",
+   "red, blue, or green": "red"
+  }
+ },
+ "7b181da3af": {
+  "instruction": {
+   "number leq 3": "1",
+   "strength": "100",
+   "red, blue, or green": "blue"
+  }
+ },
+ "cc9dc137a3": {
+  "instruction": {
+   "number leq 3": "2",
+   "strength": "100",
+   "red, blue, or green": "red"
+  }
+ },
+ "a4775f0641": {
+  "instruction": {
+   "number leq 3": "3",
+   "strength": "10",
+   "red, blue, or green": "green"
+  }
+ },
+ "3c5eb8ed08": {
+  "instruction": {
+   "number leq 3": "2",
+   "strength": "60",
+   "red, blue, or green": "blue"
+  }
+ }
+}

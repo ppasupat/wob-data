@@ -1,0 +1,62 @@
+{
+ "327b4c5cb6": {
+  "instruction": {
+   "preferred city": "Bloomington, Indiana",
+   "food type": "Thai food"
+  }
+ },
+ "1d658a3e34": {
+  "instruction": {
+   "preferred city": "Bloomington, Indiana",
+   "food type": "Coffee"
+  }
+ },
+ "05f6cfbf14": {
+  "instruction": {
+   "preferred city": "Bloomington, Indiana",
+   "food type": "French"
+  }
+ },
+ "83218cbe83": {
+  "instruction": {
+   "preferred city": "Bloomington, Indiana",
+   "food type": "Middle Eastern"
+  }
+ },
+ "68b551a8de": {
+  "instruction": {
+   "preferred city": "Bloomington, Indiana",
+   "food type": "Chinese food"
+  }
+ },
+ "b3bafe8305": {
+  "instruction": {
+   "preferred city": "Bloomington, Indiana",
+   "food type": "Tibetan food"
+  }
+ },
+ "9dd5d0c17e": {
+  "instruction": {
+   "preferred city": "Bloomington, Indiana",
+   "food type": "Martinis"
+  }
+ },
+ "77d2a347db": {
+  "instruction": {
+   "preferred city": "Bloomington, Indiana",
+   "food type": "Ice Cream"
+  }
+ },
+ "0395c205dc": {
+  "instruction": {
+   "preferred city": "Bloomington, Indiana",
+   "food type": "Cajun"
+  }
+ },
+ "f4b61843a6": {
+  "instruction": {
+   "preferred city": "Bloomington, Indiana",
+   "food type": "PIzza"
+  }
+ }
+}

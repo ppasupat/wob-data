@@ -1,0 +1,62 @@
+{
+ "d765119f76": {
+  "instruction": {
+   "zipcode": "97201",
+   "type of fishing pole": "PENN Spinfisher V"
+  }
+ },
+ "5f1cfbd19b": {
+  "instruction": {
+   "zipcode": "74101",
+   "type of fishing pole": "Zebco 808 Heavy"
+  }
+ },
+ "e0dcc2bbf9": {
+  "instruction": {
+   "zipcode": "27565",
+   "type of fishing pole": "Pflueger President"
+  }
+ },
+ "4dc17dfc1c": {
+  "instruction": {
+   "zipcode": "29020",
+   "type of fishing pole": "Abu Garcia Pro Max 3"
+  }
+ },
+ "521f4a6634": {
+  "instruction": {
+   "zipcode": "03217",
+   "type of fishing pole": "Daiwa Minispin"
+  }
+ },
+ "e3df014084": {
+  "instruction": {
+   "zipcode": "15201",
+   "type of fishing pole": "Eagle Claw Pack-It"
+  }
+ },
+ "b7d138e10e": {
+  "instruction": {
+   "zipcode": "02840",
+   "type of fishing pole": "Bass Pro Shops MegaCast"
+  }
+ },
+ "3ac11729ad": {
+  "instruction": {
+   "zipcode": "44101",
+   "type of fishing pole": "Abu Garcia Revo SX"
+  }
+ },
+ "1d6de1589f": {
+  "instruction": {
+   "zipcode": "10001",
+   "type of fishing pole": "Plusinno Spinning"
+  }
+ },
+ "0dfae2f2d4": {
+  "instruction": {
+   "zipcode": "58282",
+   "type of fishing pole": "\u200bShakespeare Ugly Stik GX2"
+  }
+ }
+}

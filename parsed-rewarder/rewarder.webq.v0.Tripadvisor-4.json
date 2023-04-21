@@ -1,0 +1,1535 @@
+{
+ "80ba968589": {
+  "instruction": {
+   "location": "Pune ",
+   "cuisine": "Barbeque",
+   "ANSWER": "Barbeque Nation."
+  }
+ },
+ "7132e5f3bb": {
+  "instruction": {
+   "location": "Cincinnati, OH",
+   "cuisine": "Mediterrean",
+   "ANSWER": "Abigail Street"
+  }
+ },
+ "bf044a7451": {
+  "instruction": {
+   "$ rates per day": "150",
+   "location": "kiawah island",
+   "number of bedroom": "3",
+   "ANSWER": "Listing #HA8534765 "
+  }
+ },
+ "5d66495f7c": {
+  "instruction": {
+   "location": "Sacramento, CA",
+   "cuisine": "Middle Eastern",
+   "ANSWER": "Casablanca Moroccan Restaurant,  Vela Cafe - Restaurant and Salad Bar, Famous Kabob, Shalimar Restaurant,Marrakech Moroccan Restaurant     "
+  }
+ },
+ "685ba2b82d": {
+  "instruction": {
+   "location": "Harlingen, TX",
+   "cuisine": "mexican",
+   "ANSWER": "La Playa Mexican"
+  }
+ },
+ "c7df372b64": {
+  "instruction": {
+   "$ rates per day": "$500.00",
+   "location": "Geneva On The Lake, OH",
+   "number of bedroom": "3",
+   "ANSWER": "Sunsetcove 3 Lake Erie Beach $237.00 per night"
+  }
+ },
+ "1ba86518de": {
+  "instruction": {
+   "$ rates per day": "150",
+   "location": "Paris",
+   "number of bedroom": "4",
+   "ANSWER": "https://www.tripadvisor.com/VacationRentalReview-g187147-d10705742-Duplex_100_m2_1080_sq_ft_4_chambres_Paris_18e-Paris_Ile_de_France.html"
+  }
+ },
+ "f77a080e61": {
+  "instruction": {
+   "$ rates per day": "$350.00",
+   "location": "Big Horn, Wy",
+   "number of bedroom": "2",
+   "ANSWER": "Little Cottage Nestled at the Base of Big Horn $85.00 per night "
+  }
+ },
+ "ea1b734259": {
+  "instruction": {
+   "location": "Mumbai",
+   "cuisine": "Mediterrranean",
+   "ANSWER": "Souk,Citrus, Rivea"
+  }
+ },
+ "d85d1e8aad": {
+  "instruction": {
+   "location": " 150 East 50th Street, Between Lexington & 3rd Avenue, New York City, NY 10022 ",
+   "cuisine": "indian restaurants",
+   "ANSWER": "Spice Symphony "
+  }
+ },
+ "52773a5d0b": {
+  "instruction": {
+   "$ rates per day": "286",
+   "location": "Delray Beach, FL",
+   "number of bedroom": "1",
+   "ANSWER": "Dover House"
+  }
+ },
+ "0932901b19": {
+  "instruction": {
+   "$ rates per day": "150",
+   "location": "Barcelona",
+   "number of bedroom": "2",
+   "ANSWER": "MONTABER"
+  }
+ },
+ "3f376d17b4": {
+  "instruction": {
+   "location": "Orlando, FL",
+   "cuisine": "Seafood",
+   "ANSWER": "Eddie V's Prime Seafood, Tibby's New Orleans Kitchen, Deep Blu Seafood Grille, Kings Orlando Restaurant, MoonFish"
+  }
+ },
+ "8c6d2431b1": {
+  "instruction": {
+   "$ rates per day": "400",
+   "location": "New York",
+   "number of bedroom": "2",
+   "ANSWER": "Waldorf Astoria New York"
+  }
+ },
+ "a9b5dbc32e": {
+  "instruction": {
+   "location": "Edinburg, TX",
+   "cuisine": "asian",
+   "ANSWER": "Snowbite"
+  }
+ },
+ "ee9d4184f2": {
+  "instruction": {
+   "location": "San Diego, CA",
+   "cuisine": "American",
+   "ANSWER": "Broken Yolk Cafe"
+  }
+ },
+ "013d98ad4e": {
+  "instruction": {
+   "$ rates per day": "325",
+   "location": "atlanta",
+   "number of bedroom": "4",
+   "ANSWER": "Listing #FKN6942591 "
+  }
+ },
+ "d6830f8068": {
+  "instruction": {
+   "$ rates per day": "$300",
+   "location": "Gatlinburg",
+   "number of bedroom": "2 bedroom"
+  }
+ },
+ "11859e40bf": {
+  "instruction": {
+   "$ rates per day": "$500.00",
+   "location": "Myrtle Beach, SC",
+   "number of bedroom": "3",
+   "ANSWER": "Ocean Front Complex,  $403.00 per night"
+  }
+ },
+ "9f65e499f5": {
+  "instruction": {
+   "$ rates per day": "$400",
+   "location": "Puerto Rico",
+   "number of bedroom": "3 bedroom"
+  }
+ },
+ "25c784e3f7": {
+  "instruction": {
+   "location": "Nuevo Progreso, TX",
+   "cuisine": "south american ",
+   "ANSWER": "Chuy's Red Snapper"
+  }
+ },
+ "3343444bc9": {
+  "instruction": {
+   "location": "Philadelphia, PA",
+   "cuisine": "British"
+  }
+ },
+ "5d6b927126": {
+  "instruction": {
+   "location": "19 Old Fulton St, Brooklyn, NY 11201-1322",
+   "cuisine": "Pizza Places",
+   "ANSWER": "Juliana's Pizza"
+  }
+ },
+ "5965e1a013": {
+  "instruction": {
+   "$ rates per day": "$190",
+   "location": "Las Vegas",
+   "number of bedroom": "1 bedroom",
+   "ANSWER": "Venetian Resort Hotel"
+  }
+ },
+ "e902367208": {
+  "instruction": {
+   "location": "Mission, TX",
+   "cuisine": "vietnamese",
+   "ANSWER": "Pho Le Lai"
+  }
+ },
+ "b588a4623d": {
+  "instruction": {
+   "location": "Pittsburgh, PA",
+   "cuisine": "seafood"
+  }
+ },
+ "5e501e44d9": {
+  "instruction": {
+   "location": "Portland, OR",
+   "cuisine": "European",
+   "ANSWER": "Little Bird Bistro, Verdigris, Olympic Provisions, Swiss Hibiscus, Stammtisch"
+  }
+ },
+ "8eb2240601": {
+  "instruction": {
+   "$ rates per day": "150",
+   "location": "Paris",
+   "number of bedroom": "2",
+   "ANSWER": "https://www.tripadvisor.com/VacationRentalReview-g187147-d6460392-Charming_central_penthouse-Paris_Ile_de_France.html"
+  }
+ },
+ "77c096b08c": {
+  "instruction": {
+   "location": "Los Angeles, CA",
+   "cuisine": "Sushi",
+   "ANSWER": "Sushi Gen, Houston's, Katsuya, Sugarfish, Nobu"
+  }
+ },
+ "5f3f546cd2": {
+  "instruction": {
+   "$ rates per day": "300",
+   "location": "celebration",
+   "number of bedroom": "5",
+   "ANSWER": "Listing #FKN7483691 "
+  }
+ },
+ "18f3972cc5": {
+  "instruction": {
+   "location": "Skopje, Republic of Macedonia",
+   "cuisine": "Lounge",
+   "ANSWER": "Lounge Restaurant Trend & Bistro London"
+  }
+ },
+ "5d6cf82797": {
+  "instruction": {
+   "$ rates per day": "150",
+   "location": "Los Angeles",
+   "number of bedroom": "2",
+   "ANSWER": "LOVELY 2+2 APT WITH POOL+BBQ+2PKGS+-WALK-OF-FAME"
+  }
+ },
+ "376e06861b": {
+  "instruction": {
+   "location": "Mumbai",
+   "cuisine": "Sushi",
+   "ANSWER": "Wasabi, San-Qi, Seven Kitchens"
+  }
+ },
+ "daa742bc38": {
+  "instruction": {
+   "$ rates per day": "100",
+   "location": "Austin",
+   "number of bedroom": "5",
+   "ANSWER": "Guest Home Getaways"
+  }
+ },
+ "d6a766448c": {
+  "instruction": {
+   "geographic location": "Palm Springs",
+   "type of attraction": "Sightseeing"
+  }
+ },
+ "6deca3b4f0": {
+  "instruction": {
+   "location": "New Orleans, LA",
+   "cuisine": "French",
+   "ANSWER": "Upperline Restaurant, Restaurant August,  Orleans Grapevine Wine Bar and Bistro, Restaurant R'evolution, Commander's Palace "
+  }
+ },
+ "80a26db2fb": {
+  "instruction": {
+   "location": "Kyustendil, Bulgaria",
+   "cuisine": "pizza",
+   "ANSWER": "Napoli"
+  }
+ },
+ "7a6a172a9b": {
+  "instruction": {
+   "$ rates per day": "$600",
+   "location": "San Francisco",
+   "number of bedroom": "3 bedroom"
+  }
+ },
+ "691d622966": {
+  "instruction": {
+   "$ rates per day": "200",
+   "location": "red lodge",
+   "number of bedroom": "1",
+   "ANSWER": "Listing #FKN8579199 "
+  }
+ },
+ "0186753337": {
+  "instruction": {
+   "$ rates per day": "100",
+   "location": "Tampa Fl",
+   "number of bedroom": "2 bedroom",
+   "ANSWER": "The Barrymore Hotel Tampa Riverwalk"
+  }
+ },
+ "b0e433f67e": {
+  "instruction": {
+   "$ rates per day": "1000",
+   "location": "Naples ",
+   "number of bedroom": "6",
+   "ANSWER": "Canal Grand waterfront "
+  }
+ },
+ "9e8ab736b8": {
+  "instruction": {
+   "$ rates per day": "100",
+   "location": "Paris",
+   "number of bedroom": "1",
+   "ANSWER": "Central Paris genuine apartment rental Paris"
+  }
+ },
+ "126b70b4f6": {
+  "instruction": {
+   "location": "Denver, CO",
+   "cuisine": "pizza"
+  }
+ },
+ "2e0254654b": {
+  "instruction": {
+   "location": "Anaheim, CA",
+   "cuisine": "sushi"
+  }
+ },
+ "18babbff95": {
+  "instruction": {
+   "location": "413 8th Ave, New York City, NY 10001-1804",
+   "cuisine": "Pizza Places",
+   "ANSWER": "Pizza Suprema"
+  }
+ },
+ "27e61d7c27": {
+  "instruction": {
+   "location": "Mumbai",
+   "cuisine": "Indian",
+   "ANSWER": "The Peshwa Pavilion"
+  }
+ },
+ "1c5e44e458": {
+  "instruction": {
+   "$ rates per day": "200",
+   "location": "San Antonio",
+   "number of bedroom": "3",
+   "ANSWER": "Hotel Valencia Riverwalk"
+  }
+ },
+ "5746b56651": {
+  "instruction": {
+   "$ rates per day": "100",
+   "location": "Paris",
+   "number of bedroom": "2",
+   "ANSWER": "https://www.tripadvisor.com/VacationRentalReview-g187147-d7802910-74_2BR_FLAT_CAFE_DE_FLORE_SAINT_GERMAIN-Paris_Ile_de_France.html"
+  }
+ },
+ "3786f06ab5": {
+  "instruction": {
+   "location": "Buffalo, NY",
+   "cuisine": "cajun"
+  }
+ },
+ "bf0ab302a5": {
+  "instruction": {
+   "location": "New York City, New York",
+   "cuisine": "French",
+   "ANSWER": "Daniel"
+  }
+ },
+ "4bc56b2b3c": {
+  "instruction": {
+   "$ rates per day": "250",
+   "location": "Paris",
+   "number of bedroom": "5",
+   "ANSWER": "https://www.tripadvisor.com/VacationRentalReview-g187147-d10703445-DUPLEX_TERRACE_PARKING-Paris_Ile_de_France.html"
+  }
+ },
+ "d5834d9250": {
+  "instruction": {
+   "location": "Fort Lauderdale, FL",
+   "cuisine": "Greek",
+   "ANSWER": "Greek Islands Taverna"
+  }
+ },
+ "7c56ed8631": {
+  "instruction": {
+   "location": "Seattle, WA",
+   "cuisine": "Greek",
+   "ANSWER": "Lola"
+  }
+ },
+ "cb3df3e8e7": {
+  "instruction": {
+   "$ rates per day": "$500",
+   "location": "Maui",
+   "number of bedroom": "3 bedroom"
+  }
+ },
+ "ec5168dd7b": {
+  "instruction": {
+   "$ rates per day": "$250",
+   "location": "Miami Beach",
+   "number of bedroom": "1 bedroom"
+  }
+ },
+ "a358fd5c64": {
+  "instruction": {
+   "location": "Mumbai",
+   "cuisine": "Seafood",
+   "ANSWER": "Trishna, Mahesh Lunch Home"
+  }
+ },
+ "78695f05ba": {
+  "instruction": {
+   "$ rates per day": "320",
+   "location": "Las Vegas",
+   "number of bedroom": "3",
+   "ANSWER": "Casa Mia"
+  }
+ },
+ "ea22b964a4": {
+  "instruction": {
+   "geographic location": "San Diego",
+   "type of attraction": "Sightseeing"
+  }
+ },
+ "a22d82e2fc": {
+  "instruction": {
+   "$ rates per day": "382",
+   "location": "Vail, CO",
+   "number of bedroom": "3",
+   "ANSWER": "Vail condo, pool/hot tub, steam room, near village"
+  }
+ },
+ "0e66c53b2c": {
+  "instruction": {
+   "location": "McAllen, TX",
+   "cuisine": "thai ",
+   "ANSWER": "Thai Red Chili's"
+  }
+ },
+ "332a90b331": {
+  "instruction": {
+   "location": "New Providence, New Jersey",
+   "cuisine": "Japanese",
+   "ANSWER": "Takuma"
+  }
+ },
+ "b0be8ea6f1": {
+  "instruction": {
+   "$ rates per day": "645",
+   "location": "Seaside, OR",
+   "number of bedroom": "3",
+   "ANSWER": "EdgewoodCove, Unparalleled Seaside Retreat w/ View"
+  }
+ },
+ "73793bbadd": {
+  "instruction": {
+   "location": "123 Chestnut St, Philadelphia, Pennsylvania",
+   "cuisine": "british restaurants",
+   "ANSWER": "Han Dynasty"
+  }
+ },
+ "997bb9e770": {
+  "instruction": {
+   "$ rates per day": "570",
+   "location": "Sunriver ",
+   "number of bedroom": "4",
+   "ANSWER": "17166 Crane Driver "
+  }
+ },
+ "e152a160e3": {
+  "instruction": {
+   "$ rates per day": "100",
+   "location": "Austin",
+   "number of bedroom": "4",
+   "ANSWER": "Allandale Rentals"
+  }
+ },
+ "f7a0d7106d": {
+  "instruction": {
+   "location": "Columbus, OH",
+   "cuisine": "Greek",
+   "ANSWER": "Yanni's Greek Restaurant"
+  }
+ },
+ "56be924bfb": {
+  "instruction": {
+   "location": "Skopje, Republic of Macedonia",
+   "cuisine": "Italian",
+   "ANSWER": "Ristorante da Gino"
+  }
+ },
+ "ae25be0a25": {
+  "instruction": {
+   "location": "Newport Beach, CA",
+   "cuisine": "Italian ",
+   "ANSWER": "Mama D's Italian"
+  }
+ },
+ "21d1300baf": {
+  "instruction": {
+   "$ rates per day": "$500.00",
+   "location": "Allen Park, MI",
+   "number of bedroom": "3",
+   "ANSWER": "3 Beautiful Bedrooms in a Bungalow - $205.00 per night"
+  }
+ },
+ "98dbc538bd": {
+  "instruction": {
+   "$ rates per day": "280",
+   "location": "Asheville, NC",
+   "number of bedroom": "4",
+   "ANSWER": "Tranquil Glen of Asheville-20 min drive to AVL"
+  }
+ },
+ "4f0feaea7e": {
+  "instruction": {
+   "location": "Skopje, Republic of Macedonia",
+   "cuisine": "Mediterranean",
+   "ANSWER": "Four Restaurant"
+  }
+ },
+ "536ffda255": {
+  "instruction": {
+   "location": "Mumbai",
+   "cuisine": "Chinese",
+   "ANSWER": "Hornby's Pavilion,Global Fusion Restaurant,Yauatcha"
+  }
+ },
+ "34abc3f888": {
+  "instruction": {
+   "$ rates per day": "$250",
+   "location": "Siesta Key",
+   "number of bedroom": "1 bedroom"
+  }
+ },
+ "2ff03ed88a": {
+  "instruction": {
+   "$ rates per day": "575",
+   "location": "hilton head",
+   "number of bedroom": "4",
+   "ANSWER": "Listing #FKN5767106 "
+  }
+ },
+ "4bb48716a6": {
+  "instruction": {
+   "$ rates per day": "150",
+   "location": "Marquette ",
+   "number of bedroom": "9",
+   "ANSWER": "Lake Superior Beachfront Resort-Seacoast Resort "
+  }
+ },
+ "6cea0053fc": {
+  "instruction": {
+   "$ rates per day": "150",
+   "location": "Williamsburg VA",
+   "number of bedroom": "1 bedroom",
+   "ANSWER": "BEST WESTERN PLUS Historic Area Inn"
+  }
+ },
+ "04329334f4": {
+  "instruction": {
+   "location": "Los Angeles, CA",
+   "cuisine": "Seafood",
+   "ANSWER": "Providence"
+  }
+ },
+ "adcaf7f3f5": {
+  "instruction": {
+   "$ rates per day": "150",
+   "location": "Paris",
+   "number of bedroom": "3",
+   "ANSWER": "https://www.tripadvisor.com/VacationRentalReview-g187147-d6460392-Charming_central_penthouse-Paris_Ile_de_France.html"
+  }
+ },
+ "9950d69d47": {
+  "instruction": {
+   "$ rates per day": "186",
+   "location": "Orlando ",
+   "number of bedroom": "3 bedroom ",
+   "ANSWER": "Universal's Cabana Bay Beach Resort"
+  }
+ },
+ "af8dc9d2c0": {
+  "instruction": {
+   "location": "Portland, OR",
+   "cuisine": "Chinese",
+   "ANSWER": "Frank's Noodle House"
+  }
+ },
+ "444b4ec4a6": {
+  "instruction": {
+   "$ rates per day": "300",
+   "location": "San Diego",
+   "number of bedroom": "2",
+   "ANSWER": "Courtyard San Diego downtown"
+  }
+ },
+ "3b104756ed": {
+  "instruction": {
+   "$ rates per day": "$413",
+   "location": "Los Angeles",
+   "number of bedroom": "1 bedroom",
+   "ANSWER": "Shore Hotel"
+  }
+ },
+ "5a411719c3": {
+  "instruction": {
+   "$ rates per day": "150",
+   "location": "Tokyo Japan ",
+   "number of bedroom": "1 bedroom ",
+   "ANSWER": "Family Inn Saiko"
+  }
+ },
+ "da7f94d974": {
+  "instruction": {
+   "location": "Skopje, Republic of Macedonia",
+   "cuisine": "Mexican",
+   "ANSWER": "Amigos"
+  }
+ },
+ "ba88eb0ac5": {
+  "instruction": {
+   "location": "Boston, MA",
+   "cuisine": "Pizza",
+   "ANSWER": "Italian Express Pizzeria"
+  }
+ },
+ "0c46dfbcab": {
+  "instruction": {
+   "$ rates per day": "216",
+   "location": "Greenville, ME",
+   "number of bedroom": "3",
+   "ANSWER": "AMAZING VIEWS OF MOOSEHEAD LAKE AND SUNSETS"
+  }
+ },
+ "9da2922cf7": {
+  "instruction": {
+   "location": "Kyustendil, Bulgaria",
+   "cuisine": "traditional cuisine ",
+   "ANSWER": "Tihiat kat"
+  }
+ },
+ "64180576fd": {
+  "instruction": {
+   "$ rates per day": "$162",
+   "location": "Narragansett, Rhode Island",
+   "number of bedroom": "2 bedroom",
+   "ANSWER": "The Break"
+  }
+ },
+ "660d260d04": {
+  "instruction": {
+   "$ rates per day": "$149",
+   "location": "Calistoga, California",
+   "number of bedroom": "1 bedroom",
+   "ANSWER": "EuroSpa & Inn"
+  }
+ },
+ "05d16d8a25": {
+  "instruction": {
+   "geographic location": "Hollywood",
+   "type of attraction": "Pass"
+  }
+ },
+ "63208ef9f7": {
+  "instruction": {
+   "location": "Phoenix, Arizona",
+   "cuisine": "Italian",
+   "ANSWER": "Pomo Pizzeria Napoletana - Phoenix"
+  }
+ },
+ "9798ab2232": {
+  "instruction": {
+   "$ rates per day": "100",
+   "location": "Tokyo",
+   "number of bedroom": "2",
+   "ANSWER": "Awesome 2 Japanese Gardens by walk, Yamanote-line"
+  }
+ },
+ "ed6220460a": {
+  "instruction": {
+   "$ rates per day": "76",
+   "location": "Portland ",
+   "number of bedroom": "1",
+   "ANSWER": " Riverfront Oasis Studio"
+  }
+ },
+ "c06af8bbd9": {
+  "instruction": {
+   "$ rates per day": "$239",
+   "location": "Los Angeles",
+   "number of bedroom": "2 bedroom",
+   "ANSWER": "The Redbury Hollywood"
+  }
+ },
+ "ea99773b7e": {
+  "instruction": {
+   "$ rates per day": "200",
+   "location": "Cabo",
+   "number of bedroom": "3",
+   "ANSWER": "Solmar Resort"
+  }
+ },
+ "9ce64162cc": {
+  "instruction": {
+   "location": "Tamaulipas 95, Mexico City, Central Mexico and Gulf Coast, Mexico",
+   "cuisine": "chinese restaurants",
+   "ANSWER": "Asian Bay"
+  }
+ },
+ "47f49c95e0": {
+  "instruction": {
+   "$ rates per day": "165 ",
+   "location": "Camp Sherman",
+   "number of bedroom": "3",
+   "ANSWER": "Black Butte Ranch "
+  }
+ },
+ "f623566898": {
+  "instruction": {
+   "$ rates per day": "125",
+   "location": "Bend ",
+   "number of bedroom": "1",
+   "ANSWER": "Riverhouse "
+  }
+ },
+ "9d6fe4d439": {
+  "instruction": {
+   "location": "Las Vegas, NV",
+   "cuisine": "Thai",
+   "ANSWER": "Arawan Thai Bistro and Dessert"
+  }
+ },
+ "f7efec4102": {
+  "instruction": {
+   "location": "Trenton, NJ",
+   "cuisine": "steak"
+  }
+ },
+ "189387aef2": {
+  "instruction": {
+   "$ rates per day": "200",
+   "location": "Paris",
+   "number of bedroom": "3",
+   "ANSWER": "https://www.tripadvisor.com/VacationRentalReview-g187147-d10703485-Appartement_en_duplex_5e_6e_etages-Paris_Ile_de_France.html"
+  }
+ },
+ "df469df20a": {
+  "instruction": {
+   "$ rates per day": "200",
+   "location": "El Paso",
+   "number of bedroom": "2",
+   "ANSWER": "Radisson Hotel El Paso Airport"
+  }
+ },
+ "d10f06a320": {
+  "instruction": {
+   "geographic location": "Los Angeles",
+   "type of attraction": "Pass"
+  }
+ },
+ "d0af8c2b9d": {
+  "instruction": {
+   "$ rates per day": "300",
+   "location": "Anaheim",
+   "number of bedroom": "3",
+   "ANSWER": "Howard Johnson Anaheim Hotel and Water Playground"
+  }
+ },
+ "c97d27c9f7": {
+  "instruction": {
+   "location": "Mumbai",
+   "cuisine": "French",
+   "ANSWER": "Le Cirque Signature,Le Pain Quotidien"
+  }
+ },
+ "f3d29b1f41": {
+  "instruction": {
+   "$ rates per day": "300",
+   "location": "Charlotte",
+   "number of bedroom": "1",
+   "ANSWER": "HYATT house Charlotte Center City"
+  }
+ },
+ "9d6981fc25": {
+  "instruction": {
+   "location": "San Diego, CA",
+   "cuisine": "BBQ"
+  }
+ },
+ "1a3e27a709": {
+  "instruction": {
+   "geographic location": "Alcatraz",
+   "type of attraction": "Sightseeing"
+  }
+ },
+ "46fcca8b67": {
+  "instruction": {
+   "$ rates per day": "50",
+   "location": "Paris",
+   "number of bedroom": "1",
+   "ANSWER": "https://www.tripadvisor.com/VacationRentalReview-g187147-d10707066-Paris_Prestige-Paris_Ile_de_France.html"
+  }
+ },
+ "1634348886": {
+  "instruction": {
+   "location": "Skopje, Republic of Macedonia",
+   "cuisine": "international cuisine ",
+   "ANSWER": "Skopski Merak"
+  }
+ },
+ "45d5f241c0": {
+  "instruction": {
+   "$ rates per day": "$300",
+   "location": "Daytona Beach",
+   "number of bedroom": "2 bedroom"
+  }
+ },
+ "ad25b771c6": {
+  "instruction": {
+   "$ rates per day": "$500.00",
+   "location": "Bowling Green, KY",
+   "number of bedroom": "3",
+   "ANSWER": "Beautiful Log House  - $322.00 per night "
+  }
+ },
+ "625bbf4d06": {
+  "instruction": {
+   "location": "Sacramento, California",
+   "cuisine": "French",
+   "ANSWER": "Estelle's Patisserie"
+  }
+ },
+ "d22d9a33e0": {
+  "instruction": {
+   "$ rates per day": "204",
+   "location": "Scottsdale, AZ",
+   "number of bedroom": "1",
+   "ANSWER": "Scottsdale: Luxurious Troon North Golf Casita"
+  }
+ },
+ "daea2cbf3e": {
+  "instruction": {
+   "location": "Louisville, KY",
+   "cuisine": "Greek"
+  }
+ },
+ "566e11c8cd": {
+  "instruction": {
+   "$ rates per day": "$1,000",
+   "location": "Red River, NM",
+   "number of bedroom": "3",
+   "ANSWER": "Four Seasons Mountain Retreat - $350.00 per night"
+  }
+ },
+ "6824264751": {
+  "instruction": {
+   "$ rates per day": "215",
+   "location": "savannah",
+   "number of bedroom": "2",
+   "ANSWER": "Listing #FKN7497266 "
+  }
+ },
+ "44b6c4ddb8": {
+  "instruction": {
+   "location": "Dallas, TX",
+   "cuisine": "Italian",
+   "ANSWER": "Jimmy's Food Store"
+  }
+ },
+ "cfbe44a347": {
+  "instruction": {
+   "$ rates per day": "525",
+   "location": "Lake Charlevoix",
+   "number of bedroom": "4",
+   "ANSWER": "Less than a mile from downtown Charlevoix and a short walk to Lake Michigan "
+  }
+ },
+ "0a25f2e1fb": {
+  "instruction": {
+   "location": "Toledo, OH",
+   "cuisine": "Dessert",
+   "ANSWER": "Wixey Bakery"
+  }
+ },
+ "885c16c5b0": {
+  "instruction": {
+   "location": "McAllen, TX",
+   "cuisine": "mediterranean",
+   "ANSWER": "Zoe's Kitchen"
+  }
+ },
+ "6ee206fc9c": {
+  "instruction": {
+   "location": "New York City, NY",
+   "cuisine": "French",
+   "ANSWER": "Daniel"
+  }
+ },
+ "605a284390": {
+  "instruction": {
+   "location": "Kriva Palanka,Republic of Macedonia",
+   "cuisine": "fish ",
+   "ANSWER": "Park Ginovci"
+  }
+ },
+ "19d2b6e6e6": {
+  "instruction": {
+   "$ rates per day": "$91",
+   "location": "Newark Liberty Intl Airport, Newark",
+   "number of bedroom": "2 bedroom",
+   "ANSWER": "Holiday Inn Newark Airport"
+  }
+ },
+ "1808b652a8": {
+  "instruction": {
+   "location": "San Antonio, TX",
+   "cuisine": "Mexican",
+   "ANSWER": "Pollos Asados Los Nortenos"
+  }
+ },
+ "6ebae16a58": {
+  "instruction": {
+   "location": "San Francisco, CA",
+   "cuisine": "Japanese",
+   "ANSWER": "Don of The Bimini Twist"
+  }
+ },
+ "0a425817f1": {
+  "instruction": {
+   "$ rates per day": "350",
+   "location": "Las Vegas ",
+   "number of bedroom": "1 bedroom ",
+   "ANSWER": "Mandarin Oriental, Las Vegas"
+  }
+ },
+ "38ad37cf42": {
+  "instruction": {
+   "location": "Bloomington, IN",
+   "cuisine": "Pizza",
+   "ANSWER": "Mother Bears Pizza"
+  }
+ },
+ "980e124aaa": {
+  "instruction": {
+   "$ rates per day": "$259",
+   "location": "Boston, Massachusetts",
+   "number of bedroom": "2 bedroom",
+   "ANSWER": "Seaport Boston Hotel"
+  }
+ },
+ "b66391ed09": {
+  "instruction": {
+   "$ rates per day": "150",
+   "location": "Las Vegas",
+   "number of bedroom": "1",
+   "ANSWER": "Vdara Suite"
+  }
+ },
+ "d6c6c7ab41": {
+  "instruction": {
+   "$ rates per day": "$250",
+   "location": "Gatlinburg",
+   "number of bedroom": "1 bedroom"
+  }
+ },
+ "23e79e9ace": {
+  "instruction": {
+   "$ rates per day": "100",
+   "location": "chicago",
+   "number of bedroom": "1",
+   "ANSWER": "Listing #FKN6944110 "
+  }
+ },
+ "5f4eec60d5": {
+  "instruction": {
+   "location": "Kolkata",
+   "cuisine": "Seafood",
+   "ANSWER": "Santa's Fantasea, Blue & Beyond"
+  }
+ },
+ "9a5d3ea50f": {
+  "instruction": {
+   "location": "Mumbai",
+   "cuisine": "Grill",
+   "ANSWER": "Mostly Grills, Beluga"
+  }
+ },
+ "4fbf705dbf": {
+  "instruction": {
+   "$ rates per day": "100",
+   "location": "Paris",
+   "number of bedroom": "1",
+   "ANSWER": "https://www.tripadvisor.com/VacationRentalReview-g187147-d8867361-Rue_Saint_Jacques_apartment_in_05eme_Quartier_Latin_with_WiFi-Paris_Ile_de_France.html"
+  }
+ },
+ "eed743f299": {
+  "instruction": {
+   "location": "Cincinnati, OH",
+   "cuisine": "Mexican",
+   "ANSWER": "Nada"
+  }
+ },
+ "d1abe578f2": {
+  "instruction": {
+   "$ rates per day": "425",
+   "location": "nashville",
+   "number of bedroom": "4",
+   "ANSWER": "Listing #FKN7421610 "
+  }
+ },
+ "f84a266a27": {
+  "instruction": {
+   "location": "San Diego, CA",
+   "cuisine": "Italian",
+   "ANSWER": "Bobboi Natural Gelato"
+  }
+ },
+ "0c02f01b2e": {
+  "instruction": {
+   "geographic location": "Hollywood",
+   "type of attraction": "Sightseeing"
+  }
+ },
+ "3dfaa1d381": {
+  "instruction": {
+   "$ rates per day": "$52",
+   "location": "New Jersey, United States",
+   "number of bedroom": "2 bedroom",
+   "ANSWER": "Knights Inn Wrightstown"
+  }
+ },
+ "b3c444e9df": {
+  "instruction": {
+   "location": "Indianapolis, IN",
+   "cuisine": "Middle Eastern",
+   "ANSWER": "Bosphorus Istanbul Cafe"
+  }
+ },
+ "6f45908c87": {
+  "instruction": {
+   "location": "Los Angeles, CA",
+   "cuisine": "Korean",
+   "ANSWER": "Kang Hodong Baekjeong"
+  }
+ },
+ "24f432f617": {
+  "instruction": {
+   "$ rates per day": "200",
+   "location": "San Diego",
+   "number of bedroom": "1 bedroom",
+   "ANSWER": "Kings Inn San Diego "
+  }
+ },
+ "6a52443de7": {
+  "instruction": {
+   "$ rates per day": "238",
+   "location": "Charleston, SC",
+   "number of bedroom": "2",
+   "ANSWER": "1 Mi Beach/6 Dntwn-Village Safety/ Location+Deals!"
+  }
+ },
+ "a19c3dc350": {
+  "instruction": {
+   "location": "Blvd. Kukulcan Km. 12. 5, Cancun, Yucatan Peninsula, Mexico",
+   "cuisine": "indian restaurants",
+   "ANSWER": "Elefanta Indian Cuisine"
+  }
+ },
+ "85822de604": {
+  "instruction": {
+   "$ rates per day": "215",
+   "location": "Orlando, FL",
+   "number of bedroom": "2",
+   "ANSWER": "Villa Sunnyside"
+  }
+ },
+ "591abefec7": {
+  "instruction": {
+   "geographic location": "San Francisco",
+   "type of attraction": "Pass"
+  }
+ },
+ "9ba354e7cb": {
+  "instruction": {
+   "$ rates per day": "100",
+   "location": "Paris",
+   "number of bedroom": "3",
+   "ANSWER": "https://www.tripadvisor.com/VacationRentalReview-g187147-d10706438-Appart_familial_entre_Montmartre_et_Champs_Elysees-Paris_Ile_de_France.html"
+  }
+ },
+ "5891bcbce7": {
+  "instruction": {
+   "$ rates per day": "$1,000",
+   "location": "East Glacier, MT",
+   "number of bedroom": "4",
+   "ANSWER": "The Candy Kitchen Resort  $450.00 per night"
+  }
+ },
+ "e16a2f9b46": {
+  "instruction": {
+   "$ rates per day": "$500",
+   "location": "Big Bear Region",
+   "number of bedroom": "3 bedroom"
+  }
+ },
+ "194f875da7": {
+  "instruction": {
+   "location": "Houston, TX",
+   "cuisine": "Steakhouse",
+   "ANSWER": "Chama Gaucha Brazilian Steakhouse"
+  }
+ },
+ "2ba625f1e1": {
+  "instruction": {
+   "location": "Moose's Tooth Pub and Pizzeria",
+   "cuisine": "Pizza Places",
+   "ANSWER": "Moose's Tooth Pub and Pizzeria"
+  }
+ },
+ "e540231e23": {
+  "instruction": {
+   "$ rates per day": "250",
+   "location": "paris france ",
+   "number of bedroom": "4 bedroom ",
+   "ANSWER": "Hotel 34B - Astotel"
+  }
+ },
+ "6973ccf65d": {
+  "instruction": {
+   "$ rates per day": "200",
+   "location": "Portland",
+   "number of bedroom": "1",
+   "ANSWER": "Hotel deLuxe"
+  }
+ },
+ "6e2a3e13e7": {
+  "instruction": {
+   "$ rates per day": "$70",
+   "location": "Catskill, New York",
+   "number of bedroom": "2 bedroom",
+   "ANSWER": "B&B Lounge of Catskill"
+  }
+ },
+ "d031c9b4b2": {
+  "instruction": {
+   "$ rates per day": "195",
+   "location": "Charlevoix",
+   "number of bedroom": "3",
+   "ANSWER": "Charlevoix Michigan Mushroom House"
+  }
+ },
+ "1d79e4bebf": {
+  "instruction": {
+   "location": "Atlanta, GA",
+   "cuisine": "Korean",
+   "ANSWER": "Heirloom Market, Hankook Taqueria, Takorea, Kwan's Deli and Korean Kitchen, Stone Bowl House Woo Nam Jeong"
+  }
+ },
+ "b401a4ed26": {
+  "instruction": {
+   "location": "Oklahoma City, Oklahoma",
+   "cuisine": "Chinese",
+   "ANSWER": "P.F. Chang's"
+  }
+ },
+ "b223453f6c": {
+  "instruction": {
+   "location": "Cincinnati, OH",
+   "cuisine": "Italian",
+   "ANSWER": "Sotto"
+  }
+ },
+ "9463a4a51d": {
+  "instruction": {
+   "$ rates per day": "$350",
+   "location": "Siesta Key",
+   "number of bedroom": "2 bedroom"
+  }
+ },
+ "7a27693c3a": {
+  "instruction": {
+   "$ rates per day": "200",
+   "location": "Rome",
+   "number of bedroom": "3",
+   "ANSWER": "Rosy's dream al Vaticano"
+  }
+ },
+ "caee36a300": {
+  "instruction": {
+   "location": "New Delhi",
+   "cuisine": "Indian",
+   "ANSWER": "Tamra, Dakshin, Dum Pukht"
+  }
+ },
+ "56aa5b7ec7": {
+  "instruction": {
+   "$ rates per day": "250",
+   "location": "San Francisco ",
+   "number of bedroom": "3 bedroom",
+   "ANSWER": "Hotel Nikko San Francisco"
+  }
+ },
+ "bca9071918": {
+  "instruction": {
+   "location": "McAllen, TX",
+   "cuisine": "german",
+   "ANSWER": "Schneider's German"
+  }
+ },
+ "03656aadc9": {
+  "instruction": {
+   "$ rates per day": "$500.00",
+   "location": "Space Coast, FL",
+   "number of bedroom": "4",
+   "ANSWER": "Luxurious Executive Oceanfront Private Homes $342.00 per night"
+  }
+ },
+ "4dfe37071c": {
+  "instruction": {
+   "$ rates per day": "448",
+   "location": "Lexington",
+   "number of bedroom": "3",
+   "ANSWER": "Keart-Featherson House "
+  }
+ },
+ "b512589b2a": {
+  "instruction": {
+   "location": "Dallas, TX",
+   "cuisine": "Chinese",
+   "ANSWER": "Chino Chinatown"
+  }
+ },
+ "01be7f7722": {
+  "instruction": {
+   "location": "Chicago, IL",
+   "cuisine": "Indian",
+   "ANSWER": "The Indian Garden"
+  }
+ },
+ "db88ff651f": {
+  "instruction": {
+   "$ rates per day": "75",
+   "location": "myrtle beach",
+   "number of bedroom": "2",
+   "ANSWER": "Listing #FKN7226083 "
+  }
+ },
+ "74918298cd": {
+  "instruction": {
+   "location": "Phoenix, AZ",
+   "cuisine": "American",
+   "ANSWER": "Little Miss Bbq"
+  }
+ },
+ "c7e0bac76f": {
+  "instruction": {
+   "location": " Kyustendil, Bulgaria",
+   "cuisine": " grill ",
+   "ANSWER": "Friends Bar & Grill"
+  }
+ },
+ "3c56dc7b91": {
+  "instruction": {
+   "$ rates per day": "265",
+   "location": "Ellijay, GA",
+   "number of bedroom": "4",
+   "ANSWER": "North Georgia Pet Friendly Vacation Cabin in Gated Community"
+  }
+ },
+ "f2005447eb": {
+  "instruction": {
+   "location": "Chicago, IL",
+   "cuisine": "International",
+   "ANSWER": "Alinea "
+  }
+ },
+ "75ba01478b": {
+  "instruction": {
+   "location": "Dallas, Texas",
+   "cuisine": "Italian",
+   "ANSWER": "Jimmy's Food Store"
+  }
+ },
+ "f203323f55": {
+  "instruction": {
+   "$ rates per day": "50",
+   "location": "st louis",
+   "number of bedroom": "1",
+   "ANSWER": "Listing #HA7606670 "
+  }
+ },
+ "54eb6c1ecf": {
+  "instruction": {
+   "$ rates per day": "200",
+   "location": "Rome ",
+   "number of bedroom": "1 bedroom",
+   "ANSWER": "Hotel Simon"
+  }
+ },
+ "1bdcb9c7e1": {
+  "instruction": {
+   "location": "Skopje, Republic of Macedonia",
+   "cuisine": "Cuban",
+   "ANSWER": "Casa Cubana"
+  }
+ },
+ "fe228b4f68": {
+  "instruction": {
+   "location": "Los Angeles, CA",
+   "cuisine": "seafood",
+   "ANSWER": "Providence"
+  }
+ },
+ "f03aa10acd": {
+  "instruction": {
+   "$ rates per day": "250",
+   "location": "Honolulu, HI ",
+   "number of bedroom": "1 bedroom",
+   "ANSWER": "Vive Hotel Waikiki"
+  }
+ },
+ "93016ff7f6": {
+  "instruction": {
+   "location": "Weslaco, TX",
+   "cuisine": "italian",
+   "ANSWER": "Cortino's"
+  }
+ },
+ "540d440884": {
+  "instruction": {
+   "location": "Seattle, WA",
+   "cuisine": "Asian",
+   "ANSWER": "Umi Sake House, Din Tai Fung, Japonessa Sushi, Wild Ginger, Chan"
+  }
+ },
+ "43c5610e13": {
+  "instruction": {
+   "location": "San Francisco, CA",
+   "cuisine": "Japanese ",
+   "ANSWER": "Don of The Bimini Twist"
+  }
+ },
+ "d3fdbf5f06": {
+  "instruction": {
+   "$ rates per day": "460",
+   "location": "Naples ",
+   "number of bedroom": "2",
+   "ANSWER": "Belevita "
+  }
+ },
+ "2fe69af2f8": {
+  "instruction": {
+   "location": "Edinburg, TX",
+   "cuisine": "japanese",
+   "ANSWER": "Lucky Sushi Bar"
+  }
+ },
+ "0075495f7f": {
+  "instruction": {
+   "location": "Richmond, VA",
+   "cuisine": "chinese"
+  }
+ },
+ "930225656b": {
+  "instruction": {
+   "$ rates per day": "150",
+   "location": "Jamaica",
+   "number of bedroom": "3",
+   "ANSWER": "Island Treasure Villas"
+  }
+ },
+ "559ef4b4d6": {
+  "instruction": {
+   "geographic location": "San Francisco",
+   "type of attraction": "Sightseeing"
+  }
+ },
+ "9c91f21bfd": {
+  "instruction": {
+   "$ rates per day": "100",
+   "location": "New York",
+   "number of bedroom": "2",
+   "ANSWER": "Nice 2 Bedrooms fits 6 people"
+  }
+ },
+ "b404604e48": {
+  "instruction": {
+   "location": "Chicago, IL",
+   "cuisine": "Delicatessen ",
+   "ANSWER": "Lou Mitchell's Restaurant, Eleven City Diner, Al's #1 Italian Beef, Potbelly Sandwich Works, Panera Bread"
+  }
+ },
+ "5ae01b5364": {
+  "instruction": {
+   "$ rates per day": "$1,000.00",
+   "location": "Richmond, VA",
+   "number of bedroom": "4",
+   "ANSWER": "Historic Mansion - $646.00 per night"
+  }
+ },
+ "14cdd6f2f5": {
+  "instruction": {
+   "location": "Ralph Melgar and Calle 3, Cozumel, Yucatan Peninsula, Mexico",
+   "cuisine": "chinese restaurants",
+   "ANSWER": "Chi"
+  }
+ },
+ "9bed2d40f0": {
+  "instruction": {
+   "location": "Austin, TX",
+   "cuisine": "Seafood",
+   "ANSWER": "Truluck's Seafood - Austin Downtown"
+  }
+ },
+ "f82830e1e0": {
+  "instruction": {
+   "location": "Salt Lake City, UT",
+   "cuisine": "Steakhouse",
+   "ANSWER": "Ruth's Chris Steak House, BRIO Tuscan Grille, Spencer's for Steaks and Chops, Texas de Brazil, Fleming's Prime Steakhouse & Wine Bar"
+  }
+ },
+ "c7993d596e": {
+  "instruction": {
+   "location": "McAllen, TX",
+   "cuisine": "cajon",
+   "ANSWER": "Dirty Al's Bayou"
+  }
+ },
+ "a4971f0663": {
+  "instruction": {
+   "$ rates per day": "250",
+   "location": "Jacksonville",
+   "number of bedroom": "1",
+   "ANSWER": "Hyatt Regency Jacksonville Riverfront"
+  }
+ },
+ "6417419222": {
+  "instruction": {
+   "location": "Raleigh, NC",
+   "cuisine": "Indian",
+   "ANSWER": "Garland, Azitra Restaurant, Kadhai, The Indian Wok, Kabab and Curry, Taj Mahal Fine Indian Cuisine"
+  }
+ },
+ "f39b8d8d9b": {
+  "instruction": {
+   "geographic location": "Catalina Island",
+   "type of attraction": "Sightseeing"
+  }
+ },
+ "bec8823186": {
+  "instruction": {
+   "$ rates per day": "1,000.00",
+   "location": "Chicago, IL",
+   "number of bedroom": "2",
+   "ANSWER": "We couldn't find properties that match you filter."
+  }
+ },
+ "2d05fd3525": {
+  "instruction": {
+   "location": "1915 S Broad St, Philadelphia, Pennsylvania",
+   "cuisine": "british restaurants",
+   "ANSWER": "Ristorante Pesto"
+  }
+ },
+ "f40d2d4bcc": {
+  "instruction": {
+   "$ rates per day": "200",
+   "location": "Paris",
+   "number of bedroom": "4",
+   "ANSWER": "https://www.tripadvisor.com/VacationRentalReview-g187147-d8519095-Amazing_4_bedrooms_in_Paris_17-Paris_Ile_de_France.html"
+  }
+ },
+ "0b10f5e70d": {
+  "instruction": {
+   "$ rates per day": "250",
+   "location": "Las Vegas",
+   "number of bedroom": "2",
+   "ANSWER": "Mandalay Bay Resort & Casino"
+  }
+ },
+ "0976853295": {
+  "instruction": {
+   "location": " 179 Essex St, New York City, NY 10002-1547 (East Houston Street) ",
+   "cuisine": "indian restaurants",
+   "ANSWER": "The MasalaWala"
+  }
+ },
+ "86502cadf5": {
+  "instruction": {
+   "location": "New Haven, CT",
+   "cuisine": "pizza",
+   "ANSWER": "Modern Apizza"
+  }
+ },
+ "13dc4a47e4": {
+  "instruction": {
+   "location": "San Diego, CA",
+   "cuisine": "Asian",
+   "ANSWER": "Sushi Ota"
+  }
+ },
+ "74140aff34": {
+  "instruction": {
+   "location": "San Diego, CA",
+   "cuisine": "American",
+   "ANSWER": "A.R. Valentien at The Lodge at Torrey Pines"
+  }
+ },
+ "1a682895f5": {
+  "instruction": {
+   "location": "Washington, DC",
+   "cuisine": "Italian"
+  }
+ },
+ "e53aa41240": {
+  "instruction": {
+   "location": "Salt Lake City, UT",
+   "cuisine": "Sushi",
+   "ANSWER": "Takashi"
+  }
+ },
+ "50fa43c145": {
+  "instruction": {
+   "$ rates per day": "$122",
+   "location": "Las Vegas",
+   "number of bedroom": "3 bedroom",
+   "ANSWER": "SLS Las Vegas Hotel & Casino"
+  }
+ },
+ "24ad006714": {
+  "instruction": {
+   "geographic location": "Santa Cruz",
+   "type of attraction": "Sightseeing"
+  }
+ }
+}

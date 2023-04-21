@@ -1,0 +1,1522 @@
+{
+ "a377ce79f5": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "kenya",
+   "type of activity": "safari"
+  }
+ },
+ "f1eb54733e": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Japan",
+   "type of activity": "skiing"
+  }
+ },
+ "3b36cff7a0": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Orlando, FL",
+   "ANSWER": "Madame Tussauds Orlando",
+   "type of activity": "museum"
+  }
+ },
+ "1a177c9b66": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "San Francisco",
+   "ANSWER": "Hakkasan",
+   "type of activity": "Chinese food"
+  }
+ },
+ "a46c1babb2": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Las vegas",
+   "ANSWER": "Mac King Comedy Magic Show",
+   "type of activity": "magic show"
+  }
+ },
+ "7052ed4af3": {
+  "instruction": {
+   "location": "Garland, TX",
+   "price": "mid-range",
+   "type of food": "Tex-Mex",
+   "ANSWER": "Primo's Tex-Mex Bar and Grille"
+  }
+ },
+ "89fb609b01": {
+  "instruction": {
+   "age groups": "Adults",
+   "geographic location": "Cleveland, OH",
+   "ANSWER": "Cleveland Museum of Natural History",
+   "type of activity": "Museum "
+  }
+ },
+ "0055c31039": {
+  "instruction": {
+   "cuisine": "sushi",
+   "location": "Anaheim, CA"
+  }
+ },
+ "6a7a3b2649": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Australia",
+   "ANSWER": "Soul Surf School, Byron Bay",
+   "type of activity": "surfing"
+  }
+ },
+ "a2a54e5472": {
+  "instruction": {
+   "location": "Corpus Christi, TX",
+   "price": "Mid Range",
+   "type of food": "Lebanese",
+   "ANSWER": "Kuzina Lebanese Grill"
+  }
+ },
+ "cfd41eb1bc": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Gold Coast Australia",
+   "type of activity": "water park"
+  }
+ },
+ "f857bbc6ba": {
+  "instruction": {
+   "location": "New York, NY ",
+   "price": "fine dining",
+   "type of food": "American",
+   "ANSWER": "Lincoln Square Steak"
+  }
+ },
+ "1b1e35f9ab": {
+  "instruction": {
+   "price": "fine dining",
+   "type of food": "Greek",
+   "location": "Atlanta, GA"
+  }
+ },
+ "217d3fe047": {
+  "instruction": {
+   "location": "Brockton, MA",
+   "price": "mid-range",
+   "type of food": "American",
+   "ANSWER": "The Brook"
+  }
+ },
+ "1aa98f3de4": {
+  "instruction": {
+   "price": "mid-range",
+   "type of food": "Thai",
+   "location": "Henrico,VA"
+  }
+ },
+ "42019a7f6f": {
+  "instruction": {
+   "location": "Norcross, GA",
+   "price": "mid-range",
+   "type of food": "Pizza",
+   "ANSWER": "Ginos New York Pizza"
+  }
+ },
+ "790d3a13fd": {
+  "instruction": {
+   "cuisine": "Greek",
+   "location": "Louisville, KY"
+  }
+ },
+ "72d4da5e62": {
+  "instruction": {
+   "location": "Corpus Christi, TX",
+   "price": "Fine Dining",
+   "type of food": "Italian",
+   "ANSWER": "Bellino's Ristorante Italiano"
+  }
+ },
+ "a0b0cf73bb": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Oklahoma City",
+   "ANSWER": "Frontier City",
+   "type of activity": "amusement park"
+  }
+ },
+ "25976281a5": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Connecticut",
+   "ANSWER": "Jonathan Edwards Winery",
+   "type of activity": "winery tastings"
+  }
+ },
+ "72941443f9": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Williamsburg, PA",
+   "ANSWER": "Busch Gardens",
+   "type of activity": "amusement park"
+  }
+ },
+ "794571d89b": {
+  "instruction": {
+   "location": "Avon, MA",
+   "price": "cheap",
+   "type of food": "Brazilian",
+   "ANSWER": "Mainha"
+  }
+ },
+ "6cbb8125a3": {
+  "instruction": {
+   "cuisine": "steak",
+   "location": "Trenton, NJ"
+  }
+ },
+ "313285ef1b": {
+  "instruction": {
+   "location": "NYC",
+   "price": "mid-range",
+   "type of food": "Turkish",
+   "ANSWER": "Rumi Turkish Grill"
+  }
+ },
+ "487109df2f": {
+  "instruction": {
+   "age groups": "Adults",
+   "geographic location": "Rehoboth Beach, Delaware",
+   "ANSWER": "Delmarva Board Sport Adventures",
+   "type of activity": "Kayak Rental"
+  }
+ },
+ "7fc693ec8c": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Frederick, MD",
+   "ANSWER": "Carrol Creek Linear Park",
+   "type of activity": "park"
+  }
+ },
+ "0713c1dc4c": {
+  "instruction": {
+   "location": "Corpus Christi, TX",
+   "price": "Cheap",
+   "type of food": "Korean",
+   "ANSWER": "Big Bowl Korean BBQ"
+  }
+ },
+ "1674600c6f": {
+  "instruction": {
+   "price": "mid-range",
+   "type of food": "Cajun",
+   "location": "Houston, TX"
+  }
+ },
+ "341a72be95": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Phuket",
+   "type of activity": "childrens activities"
+  }
+ },
+ "70de2a7175": {
+  "instruction": {
+   "cuisine": "pizza",
+   "location": "Denver, CO"
+  }
+ },
+ "21b1ccf32b": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Michigan City",
+   "ANSWER": "Lighthouse Place Premium Outlets",
+   "type of activity": "shopping"
+  }
+ },
+ "374a2fd2e0": {
+  "instruction": {
+   "location": "Braintree, MA",
+   "price": "mid-range",
+   "type of food": "Pizza",
+   "ANSWER": "Easy Pie"
+  }
+ },
+ "279a2a7f77": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Austria",
+   "ANSWER": "Ischgl-Samnaun ski area",
+   "type of activity": "skiing"
+  }
+ },
+ "4ee224de99": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Chiang Mai",
+   "ANSWER": "Fah Lanna Spa",
+   "type of activity": "Thai massage"
+  }
+ },
+ "bdd8a6d022": {
+  "instruction": {
+   "location": "Brockton, MA",
+   "price": "cheap",
+   "type of food": "Fried Chicken",
+   "ANSWER": "Popeye's"
+  }
+ },
+ "024048afed": {
+  "instruction": {
+   "age groups": "kids",
+   "geographic location": "Long Island",
+   "ANSWER": "Splish Splash",
+   "type of activity": "water park"
+  }
+ },
+ "fc8120567b": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "london",
+   "type of activity": "musueums"
+  }
+ },
+ "b26279c743": {
+  "instruction": {
+   "location": "Las Vegas, NV",
+   "price": "Mid-Range",
+   "type of food": "Fusion",
+   "ANSWER": "Zenshin"
+  }
+ },
+ "3a222d7042": {
+  "instruction": {
+   "age groups": "couples",
+   "geographic location": "Darwin Australia",
+   "type of activity": "hotel"
+  }
+ },
+ "f8123e5f3e": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "ann arbor, mi",
+   "type of activity": "coffee shops"
+  }
+ },
+ "c951dbba80": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Los Angeles",
+   "ANSWER": "Staples Center",
+   "type of activity": "place to see a sports event"
+  }
+ },
+ "2930a0edb1": {
+  "instruction": {
+   "location": "Roswell, GA",
+   "price": "mid-range",
+   "type of food": "Malaysian",
+   "ANSWER": "Rasa Sayang Restaurant"
+  }
+ },
+ "5c88ae3e76": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Cancun",
+   "ANSWER": "Chichen Itza Day Trip",
+   "type of activity": "day trip"
+  }
+ },
+ "a95d6b1b35": {
+  "instruction": {
+   "cuisine": "cajun",
+   "location": "Buffalo, NY"
+  }
+ },
+ "713c1933b5": {
+  "instruction": {
+   "location": "Chicago, IL",
+   "price": "Fine Dining",
+   "type of food": "International",
+   "ANSWER": "Alinea"
+  }
+ },
+ "1594995752": {
+  "instruction": {
+   "price": "cheap",
+   "type of food": "Pub",
+   "location": "Norfolk,VA"
+  }
+ },
+ "f6c9ee48b4": {
+  "instruction": {
+   "location": "Corpus Christi, TX",
+   "price": "Fine Dining",
+   "type of food": "French",
+   "ANSWER": "Bon A Petit"
+  }
+ },
+ "5e7937201d": {
+  "instruction": {
+   "location": "NYC",
+   "price": "cheap",
+   "type of food": "Peruvian",
+   "ANSWER": "Flor de Mayo"
+  }
+ },
+ "d88924683d": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "aspen",
+   "type of activity": "skiing"
+  }
+ },
+ "e6d61282a4": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "oklahoma city, oklahoma",
+   "type of activity": "fine dining"
+  }
+ },
+ "724d8a4306": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Las Vegas",
+   "ANSWER": "Hwy-158",
+   "type of activity": "Scenic Drive"
+  }
+ },
+ "280a74a62c": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Las Vegas",
+   "ANSWER": "Forum Shops at Caesars Palace",
+   "type of activity": "Shopping"
+  }
+ },
+ "eb4f94f19e": {
+  "instruction": {
+   "location": "Chicago",
+   "price": "cheap",
+   "type of food": "Italian",
+   "ANSWER": "Bongiorno's Italian Deli and Pizzeria"
+  }
+ },
+ "60ee9cc17b": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Panama City Beach, FL",
+   "ANSWER": "Pier Park",
+   "type of activity": "shopping"
+  }
+ },
+ "09c9bdc5c9": {
+  "instruction": {
+   "age groups": "Kids",
+   "geographic location": "Bar Harbor, ME",
+   "ANSWER": "Mount Desert Island",
+   "type of activity": "Hiking"
+  }
+ },
+ "c6da4e5fcb": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Bangkok",
+   "type of activity": "temple"
+  }
+ },
+ "2865db3343": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Outer Banks",
+   "ANSWER": "Professor Hacker's Lost Treasure Golf",
+   "type of activity": "mini golf course"
+  }
+ },
+ "02ee97d461": {
+  "instruction": {
+   "location": "Boston, MA",
+   "price": "mid-range",
+   "type of food": "Pizza",
+   "ANSWER": "Penguin Pizza"
+  }
+ },
+ "7ed6636474": {
+  "instruction": {
+   "location": "Randolph, MA",
+   "price": "cheap",
+   "type of food": "banh mi",
+   "ANSWER": "N&H Subs"
+  }
+ },
+ "ccbca84a1b": {
+  "instruction": {
+   "price": "cheap",
+   "type of food": "Mexican",
+   "location": "Pitman, NJ"
+  }
+ },
+ "ec4549aa10": {
+  "instruction": {
+   "location": "Minneapolis, MN",
+   "price": "Cheap Eats",
+   "type of food": "Sushi",
+   "ANSWER": "Sushi Takatsu"
+  }
+ },
+ "6f69773f67": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Los Angeles, CA",
+   "ANSWER": "The Grove",
+   "type of activity": "shopping"
+  }
+ },
+ "fe754909a5": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Austin, TX",
+   "ANSWER": "The Moody Theater",
+   "type of activity": "place to see a concert"
+  }
+ },
+ "eef53c9eb3": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "colorado",
+   "type of activity": "hiking"
+  }
+ },
+ "1eb4326528": {
+  "instruction": {
+   "location": "San Francisco",
+   "price": "cheap",
+   "type of food": "Japanese",
+   "ANSWER": "Dojima-Ann"
+  }
+ },
+ "7534533b88": {
+  "instruction": {
+   "location": "Suwanee, GA",
+   "price": "mid-range",
+   "type of food": "Korean",
+   "ANSWER": "Kang Seo Restaurant"
+  }
+ },
+ "29a4ac3b18": {
+  "instruction": {
+   "cuisine": "chinese",
+   "location": "Richmond, VA"
+  }
+ },
+ "7cb2d14d05": {
+  "instruction": {
+   "age groups": "Teens",
+   "geographic location": "Nantucket, MA",
+   "ANSWER": "Nantucket Shipwreck & Lifesaving Museum",
+   "type of activity": "Museum"
+  }
+ },
+ "5b252f2c05": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "sacramento, ca",
+   "type of activity": "karaoke"
+  }
+ },
+ "16dbdf8bbc": {
+  "instruction": {
+   "location": "Los Angeles, CA",
+   "price": "mid-range",
+   "type of food": "French",
+   "ANSWER": "Perch"
+  }
+ },
+ "0bad06626f": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Honolulu",
+   "ANSWER": "Hanauma Bay Nature Preserve",
+   "type of activity": "beach"
+  }
+ },
+ "24a1605e0b": {
+  "instruction": {
+   "price": "mid-range",
+   "type of food": "Tex-Mex",
+   "location": "Virginia Beach , VA"
+  }
+ },
+ "0c54260a19": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "memphis, tn",
+   "type of activity": "theatre and live shows"
+  }
+ },
+ "f577e867aa": {
+  "instruction": {
+   "age groups": "couples",
+   "geographic location": "Mexico City",
+   "type of activity": "Thai restaurant"
+  }
+ },
+ "8877c348e0": {
+  "instruction": {
+   "price": "mid-range",
+   "type of food": "Ethiopian",
+   "location": "Colorado Springs, CO"
+  }
+ },
+ "a901308b76": {
+  "instruction": {
+   "price": "cheap",
+   "type of food": "Mexican",
+   "location": "Indianapolis, IN"
+  }
+ },
+ "a996d91ff3": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "atlanta, georgia",
+   "type of activity": "water parks"
+  }
+ },
+ "5b0f55c657": {
+  "instruction": {
+   "age groups": "Families",
+   "geographic location": "Bar Harbor, ME",
+   "ANSWER": "Pirates Cove Mini Golf",
+   "type of activity": "Mini Golf"
+  }
+ },
+ "95ae516050": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Orlando, FL",
+   "ANSWER": "The Wizarding World of Harry Potter",
+   "type of activity": "theme park"
+  }
+ },
+ "793d37b3c9": {
+  "instruction": {
+   "price": "mid-range",
+   "type of food": "Seafood",
+   "location": "Richmond,VA"
+  }
+ },
+ "88c923030d": {
+  "instruction": {
+   "price": "mid-range",
+   "type of food": "French",
+   "location": "Tyler, TX"
+  }
+ },
+ "6d449a4e3f": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Los Angeles",
+   "ANSWER": "Santa Monica Bay",
+   "type of activity": "beach"
+  }
+ },
+ "f2384eb1ae": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Goa",
+   "ANSWER": "Shanti Ayurvedic Massage Center",
+   "type of activity": "head massage"
+  }
+ },
+ "aa7aaeb896": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "seattle, wa",
+   "type of activity": "hookah lounges"
+  }
+ },
+ "49146110a4": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Las Vegas",
+   "ANSWER": "MGM Grand Arena",
+   "type of activity": "Arena"
+  }
+ },
+ "ada32a7c6f": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Singapore",
+   "type of activity": "casino"
+  }
+ },
+ "7526d3883b": {
+  "instruction": {
+   "location": "Phoenix, AZ",
+   "price": "mid-range",
+   "type of food": "Mexican",
+   "ANSWER": "Fuego Bistro"
+  }
+ },
+ "8dda91d4fd": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "orlando",
+   "type of activity": "disney world"
+  }
+ },
+ "0756064ae3": {
+  "instruction": {
+   "location": "NYC",
+   "price": "mid-range",
+   "type of food": "Indian",
+   "ANSWER": "The Drunken Munkey"
+  }
+ },
+ "17fd66db4a": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Chicago",
+   "ANSWER": "Garfield Park Conservatory",
+   "type of activity": "historic site"
+  }
+ },
+ "5ff771569d": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Baltimore",
+   "ANSWER": "Baltimore Spa and Salon",
+   "type of activity": "spa"
+  }
+ },
+ "ee011a92cf": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Michigan City",
+   "ANSWER": "Michigan City Beach",
+   "type of activity": "beach"
+  }
+ },
+ "73de3c3fe0": {
+  "instruction": {
+   "location": "Boston, MA",
+   "price": "cheap",
+   "type of food": "poutine",
+   "ANSWER": "Grub"
+  }
+ },
+ "7e591c08c2": {
+  "instruction": {
+   "location": "San Diego, CA",
+   "price": "Fine Dining",
+   "type of food": "Steakhouse",
+   "ANSWER": "Greystone Prime SteakHouse & Seafood"
+  }
+ },
+ "bb74f9189f": {
+  "instruction": {
+   "location": "Dallas, TX",
+   "price": "mid-range",
+   "type of food": "Wine Bar",
+   "ANSWER": "MAX's Wine Dive"
+  }
+ },
+ "e50c75d70d": {
+  "instruction": {
+   "price": "cheap",
+   "type of food": "Fast Food",
+   "location": "Los Angeles, CA"
+  }
+ },
+ "0b662d4470": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "South Lake Tahoe",
+   "ANSWER": "Gondola at Heavenly",
+   "type of activity": "ski resort"
+  }
+ },
+ "585e7f1582": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "miami, fl",
+   "type of activity": "bars"
+  }
+ },
+ "da027c9ced": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Birmingham, AL",
+   "ANSWER": "Redmont Hotel Birmingham, Curio Collection by Hilton",
+   "type of activity": "hotel"
+  }
+ },
+ "3a26a637cf": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Davis, WV",
+   "ANSWER": "Canaan Valley Resort",
+   "type of activity": "snowboarding"
+  }
+ },
+ "70cec9d9c0": {
+  "instruction": {
+   "location": "Chicago",
+   "price": "cheap",
+   "type of food": "Seafood",
+   "ANSWER": "Bohemian House"
+  }
+ },
+ "30f8fcc9fe": {
+  "instruction": {
+   "price": "cheap",
+   "type of food": "Pizza",
+   "location": "Allen, TX"
+  }
+ },
+ "41618ee67a": {
+  "instruction": {
+   "location": "Chicago, IL",
+   "price": "Cheap Eats",
+   "type of food": "Mexican ",
+   "ANSWER": "Velvet Taco Chicago"
+  }
+ },
+ "21b3e675e6": {
+  "instruction": {
+   "age groups": "Kids",
+   "geographic location": "Pittsburgh, PA",
+   "ANSWER": "Children's Museum of Pittsburgh",
+   "type of activity": "Museum"
+  }
+ },
+ "9170738267": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Falling Waters, WV",
+   "ANSWER": "Harpers Ferry National Historical Park",
+   "type of activity": "hiking"
+  }
+ },
+ "0ab51cb5d6": {
+  "instruction": {
+   "price": "cheap",
+   "type of food": "Seafood",
+   "location": "Albany, NY"
+  }
+ },
+ "6ca2c57d92": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Las Vegas",
+   "ANSWER": "Little Church of the West",
+   "type of activity": "Historic Site"
+  }
+ },
+ "d0811fe960": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "appalachia, virginia",
+   "type of activity": "hiking"
+  }
+ },
+ "53ec31ba05": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Las Vegas",
+   "ANSWER": "Historic Railroad Trail",
+   "type of activity": "Hiking Trail"
+  }
+ },
+ "b57f4d9826": {
+  "instruction": {
+   "cuisine": "seafood",
+   "location": "Pittsburgh, PA"
+  }
+ },
+ "e503a31a80": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Albuquerque",
+   "ANSWER": "Rainbow Ryders",
+   "type of activity": "hot air ballooning"
+  }
+ },
+ "ef5e0a92d6": {
+  "instruction": {
+   "price": "expensive",
+   "type of food": "American",
+   "location": "Plano, TX"
+  }
+ },
+ "1e1dd827fb": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "hawaii",
+   "type of activity": "scuba diving"
+  }
+ },
+ "56e7c606b3": {
+  "instruction": {
+   "age groups": "Adults",
+   "geographic location": "Wilmington, NC",
+   "ANSWER": "Jungle Rapids Family Fun Park",
+   "type of activity": "Mini Golf"
+  }
+ },
+ "406e14508e": {
+  "instruction": {
+   "price": "expensive",
+   "type of food": "Barbeque",
+   "location": "Sherman, TX"
+  }
+ },
+ "cc1ee715c0": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Boston",
+   "type of activity": "museum"
+  }
+ },
+ "6bd28e26c9": {
+  "instruction": {
+   "price": "cheap",
+   "type of food": "Jamacian",
+   "location": "Richmond,VA"
+  }
+ },
+ "6e3a52c67c": {
+  "instruction": {
+   "location": "Easton, MA",
+   "price": "mid-range",
+   "type of food": "brunch",
+   "ANSWER": "The Farmer's Daughter"
+  }
+ },
+ "9af51ac386": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "new york city",
+   "type of activity": "sightseeing"
+  }
+ },
+ "9f90700af5": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Miami, FL",
+   "ANSWER": "South Beach",
+   "type of activity": "beach"
+  }
+ },
+ "3fb07ad2e1": {
+  "instruction": {
+   "location": "Houston, TX",
+   "price": "cheap",
+   "type of food": "Cafe",
+   "ANSWER": "Les Ba'get Vietnamese Cafe"
+  }
+ },
+ "86f2355a01": {
+  "instruction": {
+   "price": "Fine Dining",
+   "type of food": "Italian",
+   "location": "Norfolk, VA"
+  }
+ },
+ "9b4a237594": {
+  "instruction": {
+   "location": "San Francisco",
+   "price": "cheap",
+   "type of food": "Vietnamese",
+   "ANSWER": "Miss Saigon"
+  }
+ },
+ "adbf45e774": {
+  "instruction": {
+   "price": "mid-range",
+   "type of food": "Japanese",
+   "location": "Oklahoma City, OK"
+  }
+ },
+ "273ad27fcf": {
+  "instruction": {
+   "location": "Solon, OH",
+   "price": "cheap",
+   "type of food": "Tex-Mex",
+   "ANSWER": "56 Kitchen"
+  }
+ },
+ "3acce4682f": {
+  "instruction": {
+   "cuisine": "Italian",
+   "location": "Washington, DC"
+  }
+ },
+ "ba1d347e73": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "New York",
+   "ANSWER": "Circle Line Cruises",
+   "type of activity": "city tour"
+  }
+ },
+ "83bb3df304": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Las Vegas",
+   "ANSWER": "The Gallery at Aria",
+   "type of activity": "Art Gallery"
+  }
+ },
+ "6c5bb78919": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Las Vegas",
+   "ANSWER": "Gold and Silver Pawn Shop",
+   "type of activity": "Antique Store"
+  }
+ },
+ "0c7b90b0ae": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Las Vegas",
+   "ANSWER": "Wynn Las Vegas Casino",
+   "type of activity": "Casino"
+  }
+ },
+ "a9c54d6b32": {
+  "instruction": {
+   "location": "Corpus Christi, TX",
+   "price": "Fine Dining",
+   "type of food": "Sushi",
+   "ANSWER": "Takeniwa Asian Fusion Bistro"
+  }
+ },
+ "b4f54e4f40": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Taipei",
+   "ANSWER": "Zoca Pizzeria Caffetteria",
+   "type of activity": "pizza places"
+  }
+ },
+ "e54b3aeb5e": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Mexico",
+   "ANSWER": "Aventuras Mayas",
+   "type of activity": "snorkelling"
+  }
+ },
+ "cfc4e6125c": {
+  "instruction": {
+   "location": "New York, NY",
+   "price": "mid-range",
+   "type of food": "Pizza",
+   "ANSWER": "Juliana's Pizza "
+  }
+ },
+ "f476a72475": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Thailand",
+   "ANSWER": "Temple of the Reclining Buddha (Wat Pho)",
+   "type of activity": "sightseeing"
+  }
+ },
+ "750b3d38d3": {
+  "instruction": {
+   "location": "Boston, MA",
+   "price": "expensive",
+   "type of food": "Italian",
+   "ANSWER": "Bricca"
+  }
+ },
+ "a520e6f360": {
+  "instruction": {
+   "price": "mid-range",
+   "type of food": "Indian",
+   "location": "Gainesville, TX"
+  }
+ },
+ "b97aa2f75d": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Martha's Vineyard",
+   "ANSWER": "Ryan Family Amusements",
+   "type of activity": "bowling alley"
+  }
+ },
+ "795598cee9": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Panama City Beach, FL",
+   "ANSWER": "Ripley's Believe It or Not",
+   "type of activity": "museums"
+  }
+ },
+ "a43e613ba5": {
+  "instruction": {
+   "location": "Corpus Christi, TX",
+   "price": "Cheap",
+   "type of food": "Southern",
+   "ANSWER": "Nolan's Restaurant "
+  }
+ },
+ "6b6d8b1906": {
+  "instruction": {
+   "price": "mid-range",
+   "type of food": "Chinese",
+   "location": "Cleveland, OH"
+  }
+ },
+ "77aed8fcce": {
+  "instruction": {
+   "price": "cheap",
+   "type of food": "Sushi",
+   "location": "Jacksonville, FL"
+  }
+ },
+ "283f730d09": {
+  "instruction": {
+   "age groups": "kids",
+   "geographic location": "Aruba",
+   "ANSWER": "Red Sail Sports Aruba",
+   "type of activity": "water sport"
+  }
+ },
+ "9954a477e2": {
+  "instruction": {
+   "price": "cheap",
+   "type of food": "Pho",
+   "location": "Virginia Beach,VA"
+  }
+ },
+ "9c081b8bea": {
+  "instruction": {
+   "location": "Manila, Philippines",
+   "price": "fine dining",
+   "type of food": "Italian",
+   "ANSWER": "Spiral"
+  }
+ },
+ "4bb8488751": {
+  "instruction": {
+   "location": "San Diego, CA",
+   "price": "Mid-Range",
+   "type of food": "Pub",
+   "ANSWER": "Ballast Point Tasting Room and Kitchen"
+  }
+ },
+ "6d8bfede0b": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Destin, FL",
+   "ANSWER": "Henderson Beach State Park",
+   "type of activity": "beach"
+  }
+ },
+ "8c3b14e84a": {
+  "instruction": {
+   "location": "Chagrin Falls, OH",
+   "price": "mid-range",
+   "type of food": "Steak",
+   "ANSWER": "Hunan By the Falls"
+  }
+ },
+ "12e554a8d1": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Los Angeles, CA",
+   "ANSWER": "Universal Studios Hollywood",
+   "type of activity": "amusement park"
+  }
+ },
+ "4400175333": {
+  "instruction": {
+   "location": "Atlanta, GA",
+   "price": "mid-range",
+   "type of food": "Seafood",
+   "ANSWER": "This Is It BBQ & Seafood"
+  }
+ },
+ "acdcb7c3c9": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Maryland",
+   "ANSWER": "Family Meal",
+   "type of activity": "restaurant"
+  }
+ },
+ "f417a59f62": {
+  "instruction": {
+   "location": "Paris, France",
+   "price": "mid-range",
+   "type of food": "French",
+   "ANSWER": "Les Apotres de Pigalle"
+  }
+ },
+ "98ba3e3ee6": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Las Vegas",
+   "ANSWER": "Oasis Las vegas RV Resort",
+   "type of activity": "RV park"
+  }
+ },
+ "ce79ebb05c": {
+  "instruction": {
+   "location": "Austin",
+   "price": "mid-range",
+   "type of food": "Mexican",
+   "ANSWER": "Joe's Bakery & Mexican Food"
+  }
+ },
+ "865712c9c4": {
+  "instruction": {
+   "price": "mid-range",
+   "type of food": "Italian",
+   "location": "McKinney, TX"
+  }
+ },
+ "e007390fb5": {
+  "instruction": {
+   "age groups": "Kids",
+   "geographic location": "Salem, MA",
+   "ANSWER": "Bewitched After Dark Walking Tours of Salem",
+   "type of activity": "Historical Tour"
+  }
+ },
+ "e02442d091": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Sarasota, FL",
+   "ANSWER": "CB's Saltwater Outfitters",
+   "type of activity": "boat rental"
+  }
+ },
+ "daed8f1169": {
+  "instruction": {
+   "price": "Mid-range",
+   "type of food": "Barbeque",
+   "location": "Arlington, VA"
+  }
+ },
+ "a853392d61": {
+  "instruction": {
+   "cuisine": "BBQ",
+   "location": "San Diego, CA"
+  }
+ },
+ "aedeb4efdc": {
+  "instruction": {
+   "location": "Boston",
+   "price": "mid-range",
+   "type of food": "Mexican",
+   "ANSWER": "Bella Luna"
+  }
+ },
+ "64c3df3be8": {
+  "instruction": {
+   "age groups": "Adults",
+   "geographic location": "Pittsburgh, PA",
+   "ANSWER": "PPG Place",
+   "type of activity": "Skating Rink"
+  }
+ },
+ "62e0f58431": {
+  "instruction": {
+   "cuisine": "British",
+   "location": "Philadelphia, PA"
+  }
+ },
+ "6ecd0bb613": {
+  "instruction": {
+   "price": "cheap",
+   "type of food": "Chinese",
+   "location": "Stillwater, OK"
+  }
+ },
+ "3949277e25": {
+  "instruction": {
+   "location": "Roswell, GA",
+   "price": "high-end",
+   "type of food": "Steak",
+   "ANSWER": "The Roswell Teahouse"
+  }
+ },
+ "762517814c": {
+  "instruction": {
+   "location": "Corpus Christi, TX",
+   "price": "Mid Range",
+   "type of food": "Viatnamese",
+   "ANSWER": "Hu-Dat House of Noodles"
+  }
+ },
+ "7e90ba9e3a": {
+  "instruction": {
+   "price": "mid-range",
+   "type of food": "Indian",
+   "location": "Las Vegas, NV"
+  }
+ },
+ "52ee0f4d83": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Denver, CO",
+   "ANSWER": "Great Divide Brewery",
+   "type of activity": "brewery tour"
+  }
+ },
+ "eca0883326": {
+  "instruction": {
+   "location": "Honolulu, HI",
+   "price": "Mid-Range",
+   "type of food": "Greek",
+   "ANSWER": "Greek Marina"
+  }
+ },
+ "78b800584d": {
+  "instruction": {
+   "location": "Corpus Christi, TX",
+   "price": "Mid Range",
+   "type of food": "Tex-Mex",
+   "ANSWER": "Kiko's Mexican Food"
+  }
+ },
+ "00e4fc384d": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Houston",
+   "ANSWER": "The Houston Museum of Natural Science",
+   "type of activity": "museum"
+  }
+ },
+ "875f8ae899": {
+  "instruction": {
+   "price": "cheap",
+   "type of food": "mexican",
+   "location": "Richmond,VA"
+  }
+ },
+ "fa20f881ce": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Tampa, FL",
+   "ANSWER": "Bayshore Boulevard",
+   "type of activity": "hiking trail"
+  }
+ },
+ "db49481694": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Johannesburg",
+   "ANSWER": "Felleng Day Tours",
+   "type of activity": "safari"
+  }
+ },
+ "b5ca066cbb": {
+  "instruction": {
+   "location": "Las Vegas, NV",
+   "price": "cheap",
+   "type of food": "Greek",
+   "ANSWER": "Cous Cous Mediterranean Cafe"
+  }
+ },
+ "13ed0ad72c": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Kuta Indonesia",
+   "type of activity": "shopping mall"
+  }
+ },
+ "359b88bc2b": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "clearwater",
+   "type of activity": "beach"
+  }
+ },
+ "b1a885edcf": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Istanbul",
+   "ANSWER": "Ayasofya Hurrem Sultan Hamami",
+   "type of activity": "Turkish bath"
+  }
+ },
+ "41cef58eea": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Napa Valley",
+   "ANSWER": "Napa Valley Balloons, Inc.",
+   "type of activity": "hot air balloon rides"
+  }
+ },
+ "e951f48450": {
+  "instruction": {
+   "location": "Alpharetta, GA",
+   "price": "cheap",
+   "type of food": "Chinese",
+   "ANSWER": "The Pearl Chinese and Thai"
+  }
+ },
+ "adbe0a71d7": {
+  "instruction": {
+   "price": "cheap",
+   "type of food": "Pizza",
+   "location": "Henrico,VA"
+  }
+ },
+ "85aade396e": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "vero beach",
+   "type of activity": "spring training baseball"
+  }
+ },
+ "20efdaf0d8": {
+  "instruction": {
+   "location": "San Francisco",
+   "price": "expensive",
+   "type of food": "Japanese",
+   "ANSWER": "Saison"
+  }
+ },
+ "02b4bec02b": {
+  "instruction": {
+   "price": "fine dining",
+   "type of food": "Italian",
+   "location": "Madison, WI"
+  }
+ },
+ "dc0c3278a5": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Las Vegas",
+   "ANSWER": "Wynn Las Vegas Casino",
+   "type of activity": "casino"
+  }
+ },
+ "23d508db42": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "philadelphia, pennsylvania",
+   "type of activity": "wine tasting"
+  }
+ },
+ "b261f4dc44": {
+  "instruction": {
+   "location": "Corpus Christi, TX",
+   "price": "Cheap",
+   "type of food": "Chinese",
+   "ANSWER": "Z Counter"
+  }
+ },
+ "923c9b8824": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "paris",
+   "type of activity": "shopping"
+  }
+ },
+ "ae8676adc8": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Destin, FL",
+   "ANSWER": "Just Chute Me Parasail",
+   "type of activity": "parasailing"
+  }
+ },
+ "c99839cec2": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "biloxi, mississippi",
+   "type of activity": "hotels"
+  }
+ },
+ "37b97d284d": {
+  "instruction": {
+   "location": "Las Vegas, NV",
+   "price": "mid-range",
+   "type of food": "Asian",
+   "ANSWER": "Arawan Thai Bistro and Dessert"
+  }
+ },
+ "a9f14dc259": {
+  "instruction": {
+   "location": "Corpus Christi, TX",
+   "price": "Mid Range",
+   "type of food": "Thai",
+   "ANSWER": "Thai Spice"
+  }
+ },
+ "92a3f6f360": {
+  "instruction": {
+   "age groups": "Grandparents",
+   "geographic location": "Nantucket, MA",
+   "ANSWER": "Nantucket Lightship Basket Museum",
+   "type of activity": "Museum"
+  }
+ },
+ "84d95ca4af": {
+  "instruction": {
+   "location": "Mesquite, TX",
+   "price": "cheap",
+   "type of food": "burgers",
+   "ANSWER": "Heff's Burgers"
+  }
+ },
+ "54c7fc8ccd": {
+  "instruction": {
+   "location": "Las Vegas, NV",
+   "price": "Cheap Eats",
+   "type of food": "Thai",
+   "ANSWER": "Thai Pepper"
+  }
+ },
+ "27ed6af62f": {
+  "instruction": {
+   "price": "cheap",
+   "type of food": "Thai",
+   "location": "Oklahoma City, OK"
+  }
+ },
+ "f25b7475cb": {
+  "instruction": {
+   "location": "New York City, NY",
+   "price": "Mid-Range",
+   "type of food": "Pizza",
+   "ANSWER": "Numero 28 Pizzeria"
+  }
+ },
+ "11c8ae9c34": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Koh Samui Thailand",
+   "type of activity": "beach"
+  }
+ },
+ "6d55ec2187": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "South Africa",
+   "ANSWER": "De Hoop Nature Reserve",
+   "type of activity": "hiking"
+  }
+ },
+ "c288c2024f": {
+  "instruction": {
+   "location": "Honolulu, HI",
+   "price": "Cheap Eats",
+   "type of food": "Barbecue",
+   "ANSWER": "Me B-B-Q"
+  }
+ },
+ "08dc0a20af": {
+  "instruction": {
+   "location": "Boston, MA",
+   "price": "cheap",
+   "type of food": "Korean",
+   "ANSWER": "Kaju Tofu House"
+  }
+ }
+}

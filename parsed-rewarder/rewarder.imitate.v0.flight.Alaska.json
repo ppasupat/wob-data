@@ -1,0 +1,3574 @@
+{
+ "514f008d1c": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Boston",
+   "Destination City": "New York",
+   "Returning Month": 3,
+   "Departure Day": 26,
+   "Returning Day": 27,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Boston, MA (BOS-Logan Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "New York, NY (JFK-Kennedy)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/26/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/27/2017"
+    }
+   ]
+  }
+ },
+ "9094e548b7": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Denver",
+   "Destination City": "Washinton DC",
+   "Returning Month": 3,
+   "Departure Day": 14,
+   "Returning Day": 21,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Denver, CO (DEN-Denver Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Washington, DC (All Airports)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/14/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/21/2017"
+    }
+   ]
+  }
+ },
+ "ace33e8077": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Austin",
+   "Destination City": "Boston",
+   "Returning Month": 3,
+   "Departure Day": 3,
+   "Returning Day": 30,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Boston, MA (BOS-Logan Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/3/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/30/2017"
+    }
+   ]
+  }
+ },
+ "cf1a080120": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "New York",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 28,
+   "Returning Day": 28,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "New York, NY (JFK-Kennedy)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, OR (PDX-Portland Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/28/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/28/2017"
+    }
+   ]
+  }
+ },
+ "1df35285b6": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Austin",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 10,
+   "Returning Day": 17,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, OR (PDX-Portland Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/10/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/17/2017"
+    }
+   ]
+  }
+ },
+ "7f79ac1752": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Boston",
+   "Destination City": "Austin",
+   "Returning Month": 3,
+   "Departure Day": 12,
+   "Returning Day": 27,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Boston, MA (BOS-Logan Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/12/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/27/2017"
+    }
+   ]
+  }
+ },
+ "fadbced5b2": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Dallas",
+   "Destination City": "Washinton DC",
+   "Returning Month": 3,
+   "Departure Day": 29,
+   "Returning Day": 30,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Dallas, TX (DAL-Love Field)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Washington, DC (All Airports)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/29/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/30/2017"
+    }
+   ]
+  }
+ },
+ "3dd9b333de": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Washinton DC",
+   "Destination City": "Boston",
+   "Returning Month": 3,
+   "Departure Day": 14,
+   "Returning Day": 22,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Washington, DC (All Airports)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Boston, MA (BOS-Logan Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/14/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/22/2017"
+    }
+   ]
+  }
+ },
+ "692d7cae3d": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Austin",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 16,
+   "Returning Day": 24,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, ME (PWM-Intl. Jet Port)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/16/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/24/2017"
+    }
+   ]
+  }
+ },
+ "734476bd6f": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Austin",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 10,
+   "Returning Day": 28,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, OR (PDX-Portland Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/10/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/28/2017"
+    }
+   ]
+  }
+ },
+ "227afa1985": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Dallas",
+   "Destination City": "San Francisco",
+   "Returning Month": 3,
+   "Departure Day": 4,
+   "Returning Day": 31,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Dallas, TX (DAL-Love Field)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Francisco, CA (SFO-San Francisco Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/4/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/31/2017"
+    }
+   ]
+  }
+ },
+ "5252b22081": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Las Vegas",
+   "Destination City": "Los Angeles",
+   "Returning Month": 3,
+   "Departure Day": 18,
+   "Returning Day": 22,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/18/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/22/2017"
+    }
+   ]
+  }
+ },
+ "37e71fa1cf": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "New York",
+   "Destination City": "San Diego",
+   "Returning Month": 3,
+   "Departure Day": 2,
+   "Returning Day": 22,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "New York, NY (JFK-Kennedy)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/2/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/22/2017"
+    }
+   ]
+  }
+ },
+ "6c63f0c1b5": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Denver",
+   "Destination City": "Dallas",
+   "Returning Month": 3,
+   "Departure Day": 29,
+   "Returning Day": 31,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Denver, CO (DEN-Denver Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Dallas, TX (DAL-Love Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/29/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/31/2017"
+    }
+   ]
+  }
+ },
+ "2aacc9aeec": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "San Francisco",
+   "Destination City": "San Diego",
+   "Returning Month": 3,
+   "Departure Day": 17,
+   "Returning Day": 19,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "San Francisco, CA (SFO-San Francisco Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/17/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/19/2017"
+    }
+   ]
+  }
+ },
+ "be8bb69c37": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Denver",
+   "Destination City": "Los Angeles",
+   "Returning Month": 3,
+   "Departure Day": 15,
+   "Returning Day": 26,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Denver, CO (DEN-Denver Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/15/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/26/2017"
+    }
+   ]
+  }
+ },
+ "44cdc53652": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "New York",
+   "Destination City": "San Francisco",
+   "Returning Month": 3,
+   "Departure Day": 31,
+   "Returning Day": 31,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "New York, NY (All Airports)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Francisco, CA (SFO-San Francisco Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/31/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/31/2017"
+    }
+   ]
+  }
+ },
+ "35241c70d5": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Denver",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 15,
+   "Returning Day": 23,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Denver, CO (DEN-Denver Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, OR (PDX-Portland Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/15/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/23/2017"
+    }
+   ]
+  }
+ },
+ "a8a12bbe0a": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Denver",
+   "Destination City": "Dallas",
+   "Returning Month": 3,
+   "Departure Day": 10,
+   "Returning Day": 29,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Denver, CO (DEN-Denver Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Dallas, TX (DAL-Love Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/10/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/29/2017"
+    }
+   ]
+  }
+ },
+ "7a908acd3d": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Las Vegas",
+   "Destination City": "Los Angeles",
+   "Returning Month": 3,
+   "Departure Day": 10,
+   "Returning Day": 21,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/10/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/21/2017"
+    }
+   ]
+  }
+ },
+ "4d294cd9b6": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Denver",
+   "Destination City": "Austin",
+   "Returning Month": 3,
+   "Departure Day": 30,
+   "Returning Day": 31,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Denver, CO (DEN-Denver Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/30/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/31/2017"
+    }
+   ]
+  }
+ },
+ "0ee1509081": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Los Angeles",
+   "Destination City": "New York",
+   "Returning Month": 3,
+   "Departure Day": 25,
+   "Returning Day": 29,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "New York, NY (All Airports)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/25/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/29/2017"
+    }
+   ]
+  }
+ },
+ "8c96e6e713": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "New York",
+   "Destination City": "Dallas",
+   "Returning Month": 3,
+   "Departure Day": 18,
+   "Returning Day": 25,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "New York, NY (JFK-Kennedy)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Dallas, TX (DAL-Love Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/18/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/25/2017"
+    }
+   ]
+  }
+ },
+ "55a3ca1b20": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Dallas",
+   "Destination City": "Austin",
+   "Returning Month": 3,
+   "Departure Day": 7,
+   "Returning Day": 19,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Dallas, TX (DAL-Love Field)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/7/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/19/2017"
+    }
+   ]
+  }
+ },
+ "4990e37823": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "New York",
+   "Destination City": "Las Vegas",
+   "Returning Month": 3,
+   "Departure Day": 2,
+   "Returning Day": 24,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "New York, NY (All Airports)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/2/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/24/2017"
+    }
+   ]
+  }
+ },
+ "258ae7ece7": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "San Francisco",
+   "Destination City": "Austin",
+   "Returning Month": 3,
+   "Departure Day": 1,
+   "Returning Day": 16,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "San Francisco, CA (SFO-San Francisco Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/1/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/16/2017"
+    }
+   ]
+  }
+ },
+ "8bba077a67": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Washinton DC",
+   "Destination City": "San Francisco",
+   "Returning Month": 3,
+   "Departure Day": 3,
+   "Returning Day": 4,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Washington, DC (All Airports)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Francisco, CA (SFO-San Francisco Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/3/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/4/2017"
+    }
+   ]
+  }
+ },
+ "fc28b4760e": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Denver",
+   "Destination City": "Boston",
+   "Returning Month": 3,
+   "Departure Day": 15,
+   "Returning Day": 19,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Denver, CO (DEN-Denver Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Boston, MA (BOS-Logan Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/15/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/19/2017"
+    }
+   ]
+  }
+ },
+ "aeff7ef777": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Austin",
+   "Destination City": "Boston",
+   "Returning Month": 3,
+   "Departure Day": 1,
+   "Returning Day": 16,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Boston, MA (BOS-Logan Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/1/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/16/2017"
+    }
+   ]
+  }
+ },
+ "6388c9b5f6": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Austin",
+   "Destination City": "San Diego",
+   "Returning Month": 3,
+   "Departure Day": 13,
+   "Returning Day": 30,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/13/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/30/2017"
+    }
+   ]
+  }
+ },
+ "fbb7e46a90": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "San Diego",
+   "Destination City": "Dallas",
+   "Returning Month": 3,
+   "Departure Day": 28,
+   "Returning Day": 28,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Dallas, TX (DAL-Love Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/28/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/28/2017"
+    }
+   ]
+  }
+ },
+ "98088d941a": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "San Francisco",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 19,
+   "Returning Day": 29,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "San Francisco, CA (SFO-San Francisco Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, OR (PDX-Portland Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/19/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/29/2017"
+    }
+   ]
+  }
+ },
+ "5076e07e4f": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Portland",
+   "Destination City": "New York",
+   "Returning Month": 3,
+   "Departure Day": 25,
+   "Returning Day": 27,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Portland, OR (PDX-Portland Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "New York, NY (JFK-Kennedy)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/25/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/27/2017"
+    }
+   ]
+  }
+ },
+ "048c92e18e": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "New York",
+   "Destination City": "Denver",
+   "Returning Month": 3,
+   "Departure Day": 14,
+   "Returning Day": 20,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "New York, NY (All Airports)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Denver, CO (DEN-Denver Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/14/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/20/2017"
+    }
+   ]
+  }
+ },
+ "69608b00a8": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "New York",
+   "Destination City": "Las Vegas",
+   "Returning Month": 3,
+   "Departure Day": 25,
+   "Returning Day": 27,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "New York, NY (All Airports)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/25/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/27/2017"
+    }
+   ]
+  }
+ },
+ "0f6aab002c": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "San Diego",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 27,
+   "Returning Day": 30,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, OR (PDX-Portland Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/27/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/30/2017"
+    }
+   ]
+  }
+ },
+ "f640654d49": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Austin",
+   "Destination City": "Denver",
+   "Returning Month": 3,
+   "Departure Day": 19,
+   "Returning Day": 23,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Denver, CO (DEN-Denver Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/19/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/23/2017"
+    }
+   ]
+  }
+ },
+ "bf1cfedfc7": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Denver",
+   "Destination City": "Austin",
+   "Returning Month": 3,
+   "Departure Day": 30,
+   "Returning Day": 30,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Denver, CO (DEN-Denver Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/30/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/30/2017"
+    }
+   ]
+  }
+ },
+ "83246db3c6": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "New York",
+   "Destination City": "Dallas",
+   "Returning Month": 3,
+   "Departure Day": 22,
+   "Returning Day": 24,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "New York, NY (JFK-Kennedy)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Dallas, TX (DAL-Love Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/22/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/24/2017"
+    }
+   ]
+  }
+ },
+ "6b1dc7fd32": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Washinton DC",
+   "Destination City": "Boston",
+   "Returning Month": 3,
+   "Departure Day": 19,
+   "Returning Day": 22,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Washington, DC (DCA-Reagan National)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Boston, MA (BOS-Logan Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "2/19/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "2/22/2017"
+    }
+   ]
+  }
+ },
+ "35de85736d": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "San Diego",
+   "Destination City": "Dallas",
+   "Returning Month": 3,
+   "Departure Day": 17,
+   "Returning Day": 21,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Dallas, TX (DAL-Love Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/17/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/21/2017"
+    }
+   ]
+  }
+ },
+ "969ccd7826": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Las Vegas",
+   "Destination City": "New York",
+   "Returning Month": 3,
+   "Departure Day": 28,
+   "Returning Day": 31,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "New York, NY (All Airports)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/28/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/31/2017"
+    }
+   ]
+  }
+ },
+ "4842e53a1f": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Washinton DC",
+   "Destination City": "Boston",
+   "Returning Month": 3,
+   "Departure Day": 17,
+   "Returning Day": 26,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Washington, DC (DCA-Reagan National)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Boston, MA (BOS-Logan Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/17/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/26/2017"
+    }
+   ]
+  }
+ },
+ "0b6ee61a01": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Austin",
+   "Destination City": "Denver",
+   "Returning Month": 3,
+   "Departure Day": 3,
+   "Returning Day": 27,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Denver, CO (DEN-Denver Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/3/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/27/2017"
+    }
+   ]
+  }
+ },
+ "e792c46d6f": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "New York",
+   "Destination City": "San Francisco",
+   "Returning Month": 3,
+   "Departure Day": 6,
+   "Returning Day": 9,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "New York, NY (JFK-Kennedy)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Francisco, CA (SFO-San Francisco Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/6/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/9/2017"
+    }
+   ]
+  }
+ },
+ "d57722c700": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Dallas",
+   "Destination City": "San Diego",
+   "Returning Month": 3,
+   "Departure Day": 2,
+   "Returning Day": 4,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Dallas, TX (DAL-Love Field)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/2/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/4/2017"
+    }
+   ]
+  }
+ },
+ "8149f30128": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "New York",
+   "Destination City": "Los Angeles",
+   "Returning Month": 3,
+   "Departure Day": 7,
+   "Returning Day": 11,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "New York, NY (All Airports)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/7/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/11/2017"
+    }
+   ]
+  }
+ },
+ "4ed5544d4e": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Washinton DC",
+   "Destination City": "Denver",
+   "Returning Month": 3,
+   "Departure Day": 19,
+   "Returning Day": 26,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Washington, DC (DCA-Reagan National)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Denver, CO (DEN-Denver Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/19/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/26/2017"
+    }
+   ]
+  }
+ },
+ "02f759f34d": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Portland",
+   "Destination City": "Washinton DC",
+   "Returning Month": 3,
+   "Departure Day": 11,
+   "Returning Day": 31,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Portland, OR (PDX-Portland Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Washington, DC (All Airports)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/11/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/31/2017"
+    }
+   ]
+  }
+ },
+ "4172697521": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Las Vegas",
+   "Destination City": "Los Angeles",
+   "Returning Month": 3,
+   "Departure Day": 1,
+   "Returning Day": 14,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/1/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/14/2017"
+    }
+   ]
+  }
+ },
+ "b544862f9b": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "New York",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 15,
+   "Returning Day": 19,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "New York, NY (All Airports)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, OR (PDX-Portland Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/15/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/19/2017"
+    }
+   ]
+  }
+ },
+ "01dca96c5e": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "San Diego",
+   "Destination City": "New York",
+   "Returning Month": 3,
+   "Departure Day": 10,
+   "Returning Day": 10,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "New York, NY (All Airports)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/10/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/10/2017"
+    }
+   ]
+  }
+ },
+ "0b01a1ef04": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Washinton DC",
+   "Destination City": "Los Angeles",
+   "Returning Month": 3,
+   "Departure Day": 28,
+   "Returning Day": 28,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Washington, DC (All Airports)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/28/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/28/2017"
+    }
+   ]
+  }
+ },
+ "76c2b530f3": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Las Vegas",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 11,
+   "Returning Day": 16,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, OR (PDX-Portland Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/11/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/16/2017"
+    }
+   ]
+  }
+ },
+ "a1792acb8c": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Boston",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 11,
+   "Returning Day": 27,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Boston, MA (BOS-Logan Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, OR (PDX-Portland Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/11/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/27/2017"
+    }
+   ]
+  }
+ },
+ "9fda5d9af3": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "New York",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 3,
+   "Returning Day": 28,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "New York, NY (All Airports)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, OR (PDX-Portland Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/3/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/28/2017"
+    }
+   ]
+  }
+ },
+ "be55438f5a": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Los Angeles",
+   "Destination City": "San Diego",
+   "Returning Month": 3,
+   "Departure Day": 11,
+   "Returning Day": 26,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/11/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/26/2017"
+    }
+   ]
+  }
+ },
+ "2c7ccbca1c": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "San Diego",
+   "Destination City": "Dallas",
+   "Returning Month": 3,
+   "Departure Day": 20,
+   "Returning Day": 25,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Dallas, TX (DAL-Love Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/20/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/25/2017"
+    }
+   ]
+  }
+ },
+ "7ff14ebf90": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "San Francisco",
+   "Destination City": "Denver",
+   "Returning Month": 3,
+   "Departure Day": 5,
+   "Returning Day": 13,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "San Francisco, CA (SFO-San Francisco Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Denver, CO (DEN-Denver Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/5/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/13/2017"
+    }
+   ]
+  }
+ },
+ "e355aa0f81": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Los Angeles",
+   "Destination City": "Las Vegas",
+   "Returning Month": 3,
+   "Departure Day": 19,
+   "Returning Day": 28,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/19/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/28/2017"
+    }
+   ]
+  }
+ },
+ "1d30b735d0": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Denver",
+   "Destination City": "San Francisco",
+   "Returning Month": 3,
+   "Departure Day": 15,
+   "Returning Day": 25,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Denver, CO (DEN-Denver Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Francisco, CA (SFO-San Francisco Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/15/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/25/2017"
+    }
+   ]
+  }
+ },
+ "c6c34f16fe": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Austin",
+   "Destination City": "San Francisco",
+   "Returning Month": 3,
+   "Departure Day": 30,
+   "Returning Day": 31,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Francisco, CA (SFO-San Francisco Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/30/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/31/2017"
+    }
+   ]
+  }
+ },
+ "e1650e0816": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Washinton DC",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 27,
+   "Returning Day": 31,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Washington, DC (All Airports)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, OR (PDX-Portland Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/27/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/31/2017"
+    }
+   ]
+  }
+ },
+ "2634db80c8": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Los Angeles",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 6,
+   "Returning Day": 31,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, OR (PDX-Portland Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/6/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/31/2017"
+    }
+   ]
+  }
+ },
+ "b4c502262b": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Boston",
+   "Destination City": "Denver",
+   "Returning Month": 3,
+   "Departure Day": 11,
+   "Returning Day": 25,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Boston, MA (BOS-Logan Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Denver, CO (DEN-Denver Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/11/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/25/2017"
+    }
+   ]
+  }
+ },
+ "586371b1f6": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Denver",
+   "Destination City": "Los Angeles",
+   "Returning Month": 3,
+   "Departure Day": 18,
+   "Returning Day": 31,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Denver, CO (DEN-Denver Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/18/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/31/2017"
+    }
+   ]
+  }
+ },
+ "55c47bd18b": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "New York",
+   "Destination City": "Las Vegas",
+   "Returning Month": 3,
+   "Departure Day": 21,
+   "Returning Day": 22,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "New York, NY (All Airports)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/21/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/22/2017"
+    }
+   ]
+  }
+ },
+ "d82331da50": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Los Angeles",
+   "Destination City": "Denver",
+   "Returning Month": 3,
+   "Departure Day": 22,
+   "Returning Day": 28,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Denver, CO (DEN-Denver Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/22/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/28/2017"
+    }
+   ]
+  }
+ },
+ "3b22e7a175": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "San Francisco",
+   "Destination City": "Los Angeles",
+   "Returning Month": 3,
+   "Departure Day": 8,
+   "Returning Day": 17,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "San Francisco, CA (SFO-San Francisco Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/8/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/17/2017"
+    }
+   ]
+  }
+ },
+ "32c2da8146": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Denver",
+   "Destination City": "Washinton DC",
+   "Returning Month": 3,
+   "Departure Day": 15,
+   "Returning Day": 27,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Denver, CO (DEN-Denver Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Washington, DC (All Airports)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/15/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/27/2017"
+    }
+   ]
+  }
+ },
+ "a212c8b685": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Los Angeles",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 21,
+   "Returning Day": 26,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, OR (PDX-Portland Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/21/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/26/2017"
+    }
+   ]
+  }
+ },
+ "a8b89a5058": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Las Vegas",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 3,
+   "Returning Day": 17,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, OR (PDX-Portland Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/3/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/17/2017"
+    }
+   ]
+  }
+ },
+ "5277ebcaac": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Las Vegas",
+   "Destination City": "San Francisco",
+   "Returning Month": 3,
+   "Departure Day": 14,
+   "Returning Day": 20,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Francisco, CA (SFO-San Francisco Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/14/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/20/2017"
+    }
+   ]
+  }
+ },
+ "4386284e1b": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "San Diego",
+   "Destination City": "Austin",
+   "Returning Month": 3,
+   "Departure Day": 25,
+   "Returning Day": 31,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/25/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/31/2017"
+    }
+   ]
+  }
+ },
+ "87a78426d9": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Washinton DC",
+   "Destination City": "Las Vegas",
+   "Returning Month": 3,
+   "Departure Day": 19,
+   "Returning Day": 22,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Washington, DC (All Airports)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/19/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/22/2017"
+    }
+   ]
+  }
+ },
+ "b809bf758e": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Austin",
+   "Destination City": "Las Vegas",
+   "Returning Month": 3,
+   "Departure Day": 15,
+   "Returning Day": 22,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Denver, CO (DEN-Denver Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/19/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/23/2017"
+    }
+   ]
+  }
+ },
+ "6d1af68539": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Boston",
+   "Destination City": "San Francisco",
+   "Returning Month": 3,
+   "Departure Day": 28,
+   "Returning Day": 31,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Boston, MA (BOS-Logan Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Francisco, CA (SFO-San Francisco Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/28/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/31/2017"
+    }
+   ]
+  }
+ },
+ "c7368d4748": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Washinton DC",
+   "Destination City": "San Francisco",
+   "Returning Month": 3,
+   "Departure Day": 3,
+   "Returning Day": 19,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Washington, DC (DCA-Reagan National)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Francisco, CA (SFO-San Francisco Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/3/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/19/2017"
+    }
+   ]
+  }
+ },
+ "819466b85e": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Las Vegas",
+   "Destination City": "New York",
+   "Returning Month": 3,
+   "Departure Day": 27,
+   "Returning Day": 28,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "New York, NY (All Airports)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/27/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/28/2017"
+    }
+   ]
+  }
+ },
+ "ca0210b50a": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Portland",
+   "Destination City": "Boston",
+   "Returning Month": 3,
+   "Departure Day": 24,
+   "Returning Day": 31,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Portland, OR (PDX-Portland Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Boston, MA (BOS-Logan Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/24/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/31/2017"
+    }
+   ]
+  }
+ },
+ "796b660468": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Portland",
+   "Destination City": "San Diego",
+   "Returning Month": 3,
+   "Departure Day": 7,
+   "Returning Day": 12,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Portland, OR (PDX-Portland Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/7/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/12/2017"
+    }
+   ]
+  }
+ },
+ "362536c811": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Los Angeles",
+   "Destination City": "San Diego",
+   "Returning Month": 3,
+   "Departure Day": 26,
+   "Returning Day": 28,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/26/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/28/2017"
+    }
+   ]
+  }
+ },
+ "580d7c81ff": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Boston",
+   "Destination City": "Las Vegas",
+   "Returning Month": 3,
+   "Departure Day": 26,
+   "Returning Day": 30,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Boston, MA (BOS-Logan Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/26/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/30/2017"
+    }
+   ]
+  }
+ },
+ "891a0a13f2": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Dallas",
+   "Destination City": "San Diego",
+   "Returning Month": 3,
+   "Departure Day": 31,
+   "Returning Day": 31,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Dallas, TX (DAL-Love Field)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/31/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/31/2017"
+    }
+   ]
+  }
+ },
+ "32d97294cc": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "San Diego",
+   "Destination City": "Las Vegas",
+   "Returning Month": 3,
+   "Departure Day": 14,
+   "Returning Day": 29,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/14/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/29/2017"
+    }
+   ]
+  }
+ },
+ "e7c187071c": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "San Diego",
+   "Destination City": "Las Vegas",
+   "Returning Month": 3,
+   "Departure Day": 4,
+   "Returning Day": 15,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/4/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/15/2017"
+    }
+   ]
+  }
+ },
+ "a861838f21": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Austin",
+   "Destination City": "Los Angeles",
+   "Returning Month": 3,
+   "Departure Day": 9,
+   "Returning Day": 15,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Austin, TX (AUS-Austin/Bergstrom Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Los Angeles, CA (LAX-Los Angeles Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/9/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/15/2017"
+    }
+   ]
+  }
+ },
+ "d669f15abb": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Dallas",
+   "Destination City": "San Diego",
+   "Returning Month": 3,
+   "Departure Day": 2,
+   "Returning Day": 21,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Dallas, TX (DAL-Love Field)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "San Diego, CA (SAN-Lindbergh Field)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/2/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/21/2017"
+    }
+   ]
+  }
+ },
+ "9fd47ad466": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Boston",
+   "Destination City": "New York",
+   "Returning Month": 3,
+   "Departure Day": 23,
+   "Returning Day": 23,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Boston, MA (BOS-Logan Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "New York, NY (All Airports)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/23/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/23/2017"
+    }
+   ]
+  }
+ },
+ "bd8a4bd56f": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Las Vegas",
+   "Destination City": "Boston",
+   "Returning Month": 3,
+   "Departure Day": 25,
+   "Returning Day": 28,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Boston, MA (BOS-Logan Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/25/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/28/2017"
+    }
+   ]
+  }
+ },
+ "626ed44d96": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "San Francisco",
+   "Destination City": "New York",
+   "Returning Month": 3,
+   "Departure Day": 13,
+   "Returning Day": 16,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "San Francisco, CA (SFO-San Francisco Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "New York, NY (All Airports)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/13/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/16/2017"
+    }
+   ]
+  }
+ },
+ "fa0238c8d5": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Las Vegas",
+   "Destination City": "New York",
+   "Returning Month": 3,
+   "Departure Day": 24,
+   "Returning Day": 30,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Las Vegas, NV (LAS-McCarran Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "New York, NY (All Airports)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/24/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/30/2017"
+    }
+   ]
+  }
+ },
+ "865689e731": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Washinton DC",
+   "Destination City": "New York",
+   "Returning Month": 3,
+   "Departure Day": 9,
+   "Returning Day": 17,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Washington, DC (All Airports)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "New York, NY (All Airports)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/9/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/17/2017"
+    }
+   ]
+  }
+ },
+ "58e4822584": {
+  "instruction": {
+   "Departure Month": 3,
+   "Departure City": "Denver",
+   "Destination City": "Portland",
+   "Returning Month": 3,
+   "Departure Day": 24,
+   "Returning Day": 31,
+   "One Way or Round Trip": "return flight"
+  },
+  "requests": {
+   "m.alaskaair.com/shopping/flights": [
+    {
+     "SaveFields.SelDepOptId": "-1",
+     "SearchFields.DepartureCity": "Denver, CO (DEN-Denver Intl.)",
+     "CacheId": "",
+     "deals-link": "",
+     "SaveFields.SelRetOptId": "-1",
+     "SearchFields.CabinType": "Coach",
+     "SearchFields.ArrivalCity": "Portland, OR (PDX-Portland Intl.)",
+     "SearchFields.IsAwardBooking": "false",
+     "SearchFields.SearchType": "RoundTrip",
+     "SearchFields.UpgradeOption": "none",
+     "SaveFields.RetShldrSel": "False",
+     "SearchFields.DepartureDate": "3/24/2017",
+     "SearchFields.IsCalendar": "false",
+     "DiscountCode": "",
+     "SaveFields.SelRetFareCode": "",
+     "SearchFields.NumberOfTravelers": "1",
+     "SearchFields.DiscountCode": "",
+     "SourcePage": "Search",
+     "SaveFields.SelDepFareCode": "",
+     "SaveFields.DepShldrSel": "False",
+     "SearchFields.ReturnDate": "3/31/2017"
+    }
+   ]
+  }
+ }
+}

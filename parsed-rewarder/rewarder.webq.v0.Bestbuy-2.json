@@ -1,0 +1,1288 @@
+{
+ "a8506c624a": {
+  "instruction": {
+   "price": "200",
+   "ANSWER": "Bose\u00ae - SoundLink\u00ae Mini Bluetooth Speaker II - Carbon",
+   "kind of product": "portable speakers",
+   "number of star": "3"
+  }
+ },
+ "1bd6c5e235": {
+  "instruction": {
+   "kind of product": "MP3 Players",
+   "number of star": "4 star",
+   "price": "200 dollars"
+  }
+ },
+ "5051e1a591": {
+  "instruction": {
+   "price": "300 dollars",
+   "kind of product": "Video game consoles",
+   "number of star": "4 star"
+  }
+ },
+ "f2a6702715": {
+  "instruction": {
+   "kind of product": "smart TVs",
+   "ANSWER": "Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+   "number of star": "4",
+   "price": "800"
+  }
+ },
+ "8741a4e0dc": {
+  "instruction": {
+   "price": "3 dollars",
+   "ANSWER": "Has to Playmation Marvel Avengers action figures",
+   "kind of product": "Action figure",
+   "number of star": "5 stars"
+  }
+ },
+ "de39078d00": {
+  "instruction": {
+   "price": "390",
+   "ANSWER": "Apple - Pre-Owned iPhone 6 Plus 64GB Cell Phone (Unlocked) - Gold",
+   "kind of product": "Cell phones",
+   "number of star": "3.9"
+  }
+ },
+ "bc2e43b0a8": {
+  "instruction": {
+   "kind of product": "drone",
+   "ANSWER": "Protocol - Dronium Two AP Drone with Remote Controller",
+   "number of star": "3",
+   "price": "100 dollars"
+  }
+ },
+ "95f86e2f27": {
+  "instruction": {
+   "kind of product": "Wireless Mice",
+   "ANSWER": "http://www.bestbuy.com/site/logitech-mx-anywhere-2-wireless-laser-mouse-black/7198154.p?skuId=7198154",
+   "number of star": "5",
+   "price": "60"
+  }
+ },
+ "4b9bc87cfc": {
+  "instruction": {
+   "price": "1000",
+   "ANSWER": "http://www.bestbuy.com/site/nikon-d5600-dslr-camera-with-af-s-dx-nikkor-18-140mm-f-3-5-5-6g-ed-vr-lens/5715102.p?skuId=5715102",
+   "kind of product": "DSLR Cameras",
+   "number of star": "5"
+  }
+ },
+ "38ae3642bf": {
+  "instruction": {
+   "kind of product": "smart thermostats",
+   "ANSWER": "Nest - Learning Thermostat - 3rd Generation - Stainless Steel",
+   "number of star": "4",
+   "price": "300"
+  }
+ },
+ "0427280b17": {
+  "instruction": {
+   "price": "850 dollars",
+   "ANSWER": "Amana 25.4 side by side",
+   "kind of product": "Refrigerators ",
+   "number of star": "4 stars"
+  }
+ },
+ "16bf2e5405": {
+  "instruction": {
+   "kind of product": "xbox",
+   "ANSWER": "Xbox 360 4GB Peggle 2 Bundle",
+   "number of star": "3",
+   "price": "300"
+  }
+ },
+ "b28ccb00e7": {
+  "instruction": {
+   "price": "180",
+   "ANSWER": "Motorola - Refurbished MOTO G (4th Generation) 4G LTE with 16GB Memory Cell Phone (Unlocked) - Black",
+   "kind of product": "Cell phones",
+   "number of star": "4"
+  }
+ },
+ "aff00a3105": {
+  "instruction": {
+   "kind of product": "Headphones",
+   "ANSWER": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4783004.p?skuId=4783004",
+   "number of star": "4",
+   "price": "10"
+  }
+ },
+ "87ca5f75bd": {
+  "instruction": {
+   "kind of product": "beats",
+   "ANSWER": "Beats by Dr. Dre Powerbeats 2 In-Ear Sport Headphones with Mic (MH762AM/A) - Black - Open Box",
+   "number of star": "3",
+   "price": "100"
+  }
+ },
+ "b3027bd1d0": {
+  "instruction": {
+   "hp product": "HP Laptop Case"
+  }
+ },
+ "a9bc0c8c8c": {
+  "instruction": {
+   "price": "800 dollars",
+   "ANSWER": "Ninebot\u2122 by Segway - miniPRO Self-Balancing Scooter",
+   "kind of product": "self balancing scooter",
+   "number of star": "5"
+  }
+ },
+ "39516eea74": {
+  "instruction": {
+   "kind of product": "Home appliances",
+   "number of star": "3 star",
+   "price": "400 dollars"
+  }
+ },
+ "2f78958e18": {
+  "instruction": {
+   "kind of product": "What are some refrigerators",
+   "ANSWER": "287",
+   "number of star": "4",
+   "price": "1000"
+  }
+ },
+ "a173641fb3": {
+  "instruction": {
+   "price": "800",
+   "ANSWER": "Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+   "kind of product": "smart TVs",
+   "number of star": "4"
+  }
+ },
+ "78a901f026": {
+  "instruction": {
+   "kind of product": "electric scooter",
+   "ANSWER": "Jetson - Breeze Electric Scooter ",
+   "number of star": "4",
+   "price": "700 dollars"
+  }
+ },
+ "02adb64481": {
+  "instruction": {
+   "kind of product": "vacuum cleaner",
+   "ANSWER": "BISSELL - PowerGlide Bagless Pet Upright Vacuum",
+   "number of star": "4",
+   "price": "100 dollars"
+  }
+ },
+ "0fc8f4a281": {
+  "instruction": {
+   "kind of product": "portable hard drives",
+   "ANSWER": "Seagate - Backup Plus 2TB External USB 3.0/2.0 Portable Hard Drive - Black",
+   "number of star": "3",
+   "price": "80"
+  }
+ },
+ "1f7c89ed70": {
+  "instruction": {
+   "hp product": "HP Wireless Keyboard for Pavilion"
+  }
+ },
+ "b08685de10": {
+  "instruction": {
+   "kind of product": "Video Games",
+   "ANSWER": "http://www.bestbuy.com/site/recore-with-bonus-controller-skin-xbox-one/9093265.p?skuId=9093265",
+   "number of star": "4",
+   "price": "20"
+  }
+ },
+ "5f20b89ad8": {
+  "instruction": {
+   "price": "700 dollars",
+   "kind of product": "Televisions",
+   "number of star": "4 stars"
+  }
+ },
+ "8a9b675829": {
+  "instruction": {
+   "price": "500",
+   "ANSWER": "Apple - iPhone SE 64GB - Gold (Sprint)",
+   "kind of product": "iPhones",
+   "number of star": "4"
+  }
+ },
+ "713a7f4d40": {
+  "instruction": {
+   "kind of product": "speakers",
+   "ANSWER": "Dell AC511 USB Sound Bar Speaker",
+   "number of star": "5",
+   "price": "100"
+  }
+ },
+ "9aea41a82c": {
+  "instruction": {
+   "price": "400 dollars",
+   "kind of product": "Home appliances",
+   "number of star": "3 star"
+  }
+ },
+ "51b47ed91e": {
+  "instruction": {
+   "price": "100",
+   "ANSWER": "Sony - CD - Built-In Bluetooth - Satellite Radio-Ready In-Dash Receiver with Detachable Faceplate - Black",
+   "kind of product": "satellite radios",
+   "number of star": "4"
+  }
+ },
+ "ab93daf804": {
+  "instruction": {
+   "kind of product": "Cell phones",
+   "ANSWER": "Apple - Certified Pre-Owned iPhone 5s 16GB - Space Gray (Unlocked)",
+   "number of star": "4.2",
+   "price": "250"
+  }
+ },
+ "3fb478fc73": {
+  "instruction": {
+   "price": "18 dollars",
+   "ANSWER": "MEE M9b wireless earbuds",
+   "kind of product": "Wireless headphones",
+   "number of star": "4 dollars"
+  }
+ },
+ "9ec0291fba": {
+  "instruction": {
+   "kind of product": "Cell phones",
+   "ANSWER": "Apple - Geek Squad Refurbished iPhone SE with 16GB Memory Cell Phone - Gold (AT&T)",
+   "number of star": "4.7",
+   "price": "500"
+  }
+ },
+ "d4ccf2541e": {
+  "instruction": {
+   "kind of product": "Video game consoles ",
+   "ANSWER": "Sony - PlayStation\u00ae 4 500GB Call of Duty\u00ae: Infinite Warfare Console Bundle",
+   "number of star": "4",
+   "price": "$249.99"
+  }
+ },
+ "8adfd15da8": {
+  "instruction": {
+   "kind of product": "laptops",
+   "ANSWER": "HP - 15.6\" Laptop - AMD A6-Series - 4GB Memory - 500GB Hard Drive",
+   "number of star": "4",
+   "price": "250 dollars"
+  }
+ },
+ "d2626084bd": {
+  "instruction": {
+   "price": "100 dollars",
+   "ANSWER": "SanDisk - Ultra 256GB USB 3.0 Type A Flash Drive",
+   "kind of product": "storage device",
+   "number of star": "4"
+  }
+ },
+ "0f5ccd798d": {
+  "instruction": {
+   "price": "14 dollars",
+   "ANSWER": "Elite cuisine hand blender",
+   "kind of product": "Hand blender",
+   "number of star": "4 stars"
+  }
+ },
+ "8a47a75d13": {
+  "instruction": {
+   "kind of product": "Video Game Consoles",
+   "ANSWER": "http://www.bestbuy.com/site/sony-playstation-4-500gb-call-of-duty-infinite-warfare-console-bundle/5711145.p?skuId=5711145",
+   "number of star": "5",
+   "price": "250"
+  }
+ },
+ "0c79d6f350": {
+  "instruction": {
+   "kind of product": "Wireless headphones",
+   "ANSWER": "MEE M9b wireless earbuds",
+   "number of star": "4 dollars",
+   "price": "18 dollars"
+  }
+ },
+ "fe411cdea6": {
+  "instruction": {
+   "kind of product": "Desktop ",
+   "ANSWER": "Dell - Inspiron Desktop - AMD A8-Series - 8GB Memory - 1TB Hard Drive - Black",
+   "number of star": "5",
+   "price": "$379.99"
+  }
+ },
+ "9c713d0b5c": {
+  "instruction": {
+   "kind of product": "cell phones",
+   "ANSWER": "ZTE - Axon 7 mini 4G LTE with 32GB Memory Cell Phone (Unlocked) - Ion Gold",
+   "number of star": "4",
+   "price": "$249.99"
+  }
+ },
+ "5a930a6b5f": {
+  "instruction": {
+   "price": "150",
+   "ANSWER": "Lenovo - Ideapad 110s 11.6\" Laptop - Intel Celeron - 2GB Memory - 32GB eMMC Flash Memory - White",
+   "kind of product": "laptops",
+   "number of star": "4"
+  }
+ },
+ "0f2070561a": {
+  "instruction": {
+   "price": "450",
+   "ANSWER": "Samsung - Refurbished Galaxy S7 edge 32GB - Silver Titanium (Verizon)",
+   "kind of product": "Cell phones",
+   "number of star": "4.4"
+  }
+ },
+ "48db580e11": {
+  "instruction": {
+   "kind of product": "video games",
+   "ANSWER": "FIFA 17 - PlayStation 4",
+   "number of star": "5",
+   "price": "$59.99"
+  }
+ },
+ "91142c81ed": {
+  "instruction": {
+   "kind of product": "Action figure",
+   "ANSWER": "Has to Playmation Marvel Avengers action figures",
+   "number of star": "5 stars",
+   "price": "3 dollars"
+  }
+ },
+ "87a300dbe4": {
+  "instruction": {
+   "kind of product": "storage device",
+   "ANSWER": "SanDisk - Ultra 256GB USB 3.0 Type A Flash Drive",
+   "number of star": "4",
+   "price": "100 dollars"
+  }
+ },
+ "24b9eaa4eb": {
+  "instruction": {
+   "kind of product": "video games",
+   "ANSWER": "For Honor - PlayStation 4",
+   "number of star": "5",
+   "price": "$59.99"
+  }
+ },
+ "47046126c8": {
+  "instruction": {
+   "kind of product": "beverage cooler",
+   "ANSWER": "Insignia\u2122 - 5.6 Cu. Ft. 1-Tap Beverage Cooler Kegerator",
+   "number of star": "4",
+   "price": "400 dollars"
+  }
+ },
+ "214995bc99": {
+  "instruction": {
+   "kind of product": "satellite radios",
+   "ANSWER": "Sony - CD - Built-In Bluetooth - Satellite Radio-Ready In-Dash Receiver with Detachable Faceplate - Black",
+   "number of star": "4",
+   "price": "100"
+  }
+ },
+ "b4f4b6b21a": {
+  "instruction": {
+   "kind of product": "video games",
+   "number of star": "5 stars",
+   "price": "60 dollars"
+  }
+ },
+ "e6caf97be4": {
+  "instruction": {
+   "kind of product": "Televisions",
+   "number of star": "4 stars",
+   "price": "700 dollars"
+  }
+ },
+ "a0520ad43c": {
+  "instruction": {
+   "kind of product": "activity trackers",
+   "ANSWER": "Fitbit - Alta Activity Tracker (Small) - Black",
+   "number of star": "4",
+   "price": "100"
+  }
+ },
+ "df39d91961": {
+  "instruction": {
+   "kind of product": "GPS Units",
+   "ANSWER": "http://www.bestbuy.com/site/garmin-nuvi-57lm-5-gps-with-lifetime-map-updates-black/3913152.p?skuId=3913152",
+   "number of star": "4",
+   "price": "100"
+  }
+ },
+ "4abacf83e9": {
+  "instruction": {
+   "kind of product": "portable speakers",
+   "ANSWER": "Bose\u00ae - SoundLink\u00ae Mini Bluetooth Speaker II - Carbon",
+   "number of star": "3",
+   "price": "200"
+  }
+ },
+ "0e7ad450f3": {
+  "instruction": {
+   "price": "250 dollars",
+   "ANSWER": "HP - 15.6\" Laptop - AMD A6-Series - 4GB Memory - 500GB Hard Drive",
+   "kind of product": "laptops",
+   "number of star": "4"
+  }
+ },
+ "c563f0e64b": {
+  "instruction": {
+   "price": "1000 dollars",
+   "ANSWER": "Samsung 55\" class",
+   "kind of product": "Curved tv",
+   "number of star": "5 stars"
+  }
+ },
+ "5bc8621135": {
+  "instruction": {
+   "price": "400 dollars",
+   "kind of product": "Desktop computers",
+   "number of star": "5 star"
+  }
+ },
+ "92fa480683": {
+  "instruction": {
+   "price": "50 dollars",
+   "ANSWER": "Epson - Expression Home XP-430",
+   "kind of product": "wireless printer",
+   "number of star": "4"
+  }
+ },
+ "2237b4dea2": {
+  "instruction": {
+   "kind of product": "laptop",
+   "ANSWER": "Lenovo IdeaPad 100s 14\" Laptop - Black (Intel Celeron N3050/64GB eMMC Flash Memory/2GB RAM/MS Win 10)",
+   "number of star": "4",
+   "price": "300"
+  }
+ },
+ "fbd5cd8e40": {
+  "instruction": {
+   "kind of product": "Cell phones",
+   "ANSWER": "Sony Mobile - Refurbished Xperia C4 Smartphone 4G - Black (Unlocked)",
+   "number of star": "4.5",
+   "price": "200"
+  }
+ },
+ "4264e711c0": {
+  "instruction": {
+   "kind of product": "video games",
+   "ANSWER": "NBA 2K17 Standard Edition - PlayStation 4",
+   "number of star": "5",
+   "price": "$59.99"
+  }
+ },
+ "43875650e1": {
+  "instruction": {
+   "price": "160 dollars",
+   "ANSWER": "Whirlpool 1.7 cu foot, Amana 1.6 cu foot",
+   "kind of product": "Microwaves",
+   "number of star": "4 stars"
+  }
+ },
+ "44ebc13d3f": {
+  "instruction": {
+   "kind of product": "What are some washing machines",
+   "ANSWER": "65",
+   "number of star": "5",
+   "price": " 800"
+  }
+ },
+ "344a7837c2": {
+  "instruction": {
+   "kind of product": "Drones",
+   "ANSWER": "http://www.bestbuy.com/site/protocol-dronium-two-ap-drone-with-remote-controller-silver-black/5388103.p?skuId=5388103",
+   "number of star": "3",
+   "price": "100"
+  }
+ },
+ "46e04027b6": {
+  "instruction": {
+   "kind of product": "Cell phones",
+   "ANSWER": "Apple - Pre-Owned iPhone 6 Plus 64GB Cell Phone (Unlocked) - Gold",
+   "number of star": "3.9",
+   "price": "390"
+  }
+ },
+ "79ca3546cf": {
+  "instruction": {
+   "price": "300",
+   "ANSWER": "Nest - Learning Thermostat - 3rd Generation - Stainless Steel",
+   "kind of product": "smart thermostats",
+   "number of star": "4"
+  }
+ },
+ "0c0a441e76": {
+  "instruction": {
+   "price": "150",
+   "ANSWER": "Sony - Wireless FM Over-the-Ear Headphones - Black",
+   "kind of product": "over-ear headphones",
+   "number of star": "4"
+  }
+ },
+ "ab27fba2ca": {
+  "instruction": {
+   "kind of product": "Desktop ",
+   "ANSWER": " Lenovo - Refurbished Desktop - Intel Core i5 - 8GB Memory - 1TB Hard Drive - Black",
+   "number of star": "5",
+   "price": "$320.99"
+  }
+ },
+ "6e877353f5": {
+  "instruction": {
+   "price": "60",
+   "ANSWER": "http://www.bestbuy.com/site/logitech-mx-anywhere-2-wireless-laser-mouse-black/7198154.p?skuId=7198154",
+   "kind of product": "Wireless Mice",
+   "number of star": "5"
+  }
+ },
+ "0a90344ba9": {
+  "instruction": {
+   "kind of product": "What are some tablets",
+   "ANSWER": "13",
+   "number of star": "5",
+   "price": "250"
+  }
+ },
+ "4be3d1183d": {
+  "instruction": {
+   "kind of product": "laptop",
+   "ANSWER": "HP 15.6\" Laptop - Black (AMD Quad-Core E2-7110/500GB HDD/4GB RAM/Windows 10)",
+   "number of star": "1",
+   "price": "500"
+  }
+ },
+ "a1dfdaf6ba": {
+  "instruction": {
+   "price": "500 dollars",
+   "ANSWER": "Canon - PowerShot G9 X",
+   "kind of product": "cameras",
+   "number of star": "4"
+  }
+ },
+ "ca34b88345": {
+  "instruction": {
+   "kind of product": "cell phones",
+   "number of star": "4 stars",
+   "price": "300 dollars"
+  }
+ },
+ "211ba4e563": {
+  "instruction": {
+   "kind of product": "video games",
+   "ANSWER": " Nioh - PlayStation 4",
+   "number of star": "5",
+   "price": "$59.99"
+  }
+ },
+ "4fc6231d31": {
+  "instruction": {
+   "kind of product": "What are some desktops",
+   "ANSWER": "97",
+   "number of star": "4",
+   "price": "600"
+  }
+ },
+ "23ae1f20be": {
+  "instruction": {
+   "kind of product": "Televisions ",
+   "ANSWER": "Toshiba - 55\" Class (54.6\" Diag.) - LED - 1080p - with Chromecast Built-in - HDTV - Black",
+   "number of star": "4",
+   "price": "$299.99"
+  }
+ },
+ "1f6cbbf939": {
+  "instruction": {
+   "kind of product": "Microwaves",
+   "ANSWER": "Whirlpool 1.7 cu foot, Amana 1.6 cu foot",
+   "number of star": "4 stars",
+   "price": "160 dollars"
+  }
+ },
+ "f6b5c29643": {
+  "instruction": {
+   "kind of product": "wireless printer",
+   "ANSWER": "Epson - Expression Home XP-430",
+   "number of star": "4",
+   "price": "50 dollars"
+  }
+ },
+ "dd753f4420": {
+  "instruction": {
+   "kind of product": "laptops",
+   "ANSWER": "Lenovo - Ideapad 110s 11.6\" Laptop - Intel Celeron - 2GB Memory - 32GB eMMC Flash Memory - White",
+   "number of star": "4",
+   "price": "150"
+  }
+ },
+ "19295cefcf": {
+  "instruction": {
+   "kind of product": "What are some routers",
+   "ANSWER": "7",
+   "number of star": "5",
+   "price": "200"
+  }
+ },
+ "ca181b79e4": {
+  "instruction": {
+   "hp product": "HP Ink"
+  }
+ },
+ "6b1b01da2b": {
+  "instruction": {
+   "kind of product": "video games",
+   "ANSWER": "Nioh - PlayStation 4",
+   "number of star": "5",
+   "price": "$59.99"
+  }
+ },
+ "a6e09a29b5": {
+  "instruction": {
+   "kind of product": "What are some Web cameras",
+   "ANSWER": "5",
+   "number of star": "4",
+   "price": "60"
+  }
+ },
+ "10c2417abe": {
+  "instruction": {
+   "kind of product": "What are some digital SLR cameras",
+   "ANSWER": "5",
+   "number of star": "5",
+   "price": "500"
+  }
+ },
+ "3981f275a8": {
+  "instruction": {
+   "kind of product": "video games",
+   "ANSWER": " Resident Evil 7: Biohazard - PlayStation 4",
+   "number of star": "5",
+   "price": "$59.99"
+  }
+ },
+ "b7beab29cf": {
+  "instruction": {
+   "kind of product": "drones",
+   "ANSWER": "DJI - Phantom 3 Standard Quadcopter - White",
+   "number of star": "4",
+   "price": "700"
+  }
+ },
+ "fa13bc9481": {
+  "instruction": {
+   "kind of product": "Video game consoles",
+   "ANSWER": "Sony - PlayStation 4 Console Uncharted 4: A Thief's End Bundle",
+   "number of star": "4",
+   "price": "$249.99"
+  }
+ },
+ "eebd23f639": {
+  "instruction": {
+   "kind of product": "What are some headphones",
+   "ANSWER": "41",
+   "number of star": "5",
+   "price": "100"
+  }
+ },
+ "627c49083f": {
+  "instruction": {
+   "price": "100",
+   "ANSWER": "http://www.bestbuy.com/site/hisense-32-class-31-5-diag--led-720p-hdtv-black/5613203.p?skuId=5613203",
+   "kind of product": "TVs",
+   "number of star": "4"
+  }
+ },
+ "46627c31eb": {
+  "instruction": {
+   "kind of product": "Hand blender",
+   "ANSWER": "Elite cuisine hand blender",
+   "number of star": "4 stars",
+   "price": "14 dollars"
+  }
+ },
+ "3d764d9b38": {
+  "instruction": {
+   "price": "14 dollars",
+   "ANSWER": "Brentwood citrus juice extractor",
+   "kind of product": "Citrus juicer",
+   "number of star": "4 stars"
+  }
+ },
+ "90058824dd": {
+  "instruction": {
+   "price": "100",
+   "ANSWER": "http://www.bestbuy.com/site/garmin-nuvi-57lm-5-gps-with-lifetime-map-updates-black/3913152.p?skuId=3913152",
+   "kind of product": "GPS Units",
+   "number of star": "4"
+  }
+ },
+ "b1d11c1dd6": {
+  "instruction": {
+   "kind of product": "Cell phones",
+   "ANSWER": "Apple - Geek Squad Refurbished iPhone 7 128GB - Jet Black (Verizon Wireless)",
+   "number of star": "4.8",
+   "price": "800"
+  }
+ },
+ "a7ce894666": {
+  "instruction": {
+   "price": "560",
+   "ANSWER": "Apple - Refurbished iPhone 6 Plus 16GB - Silver (AT&T)",
+   "kind of product": "Cell phones",
+   "number of star": "4.3"
+  }
+ },
+ "0b3be562cc": {
+  "instruction": {
+   "price": "800 dollars",
+   "kind of product": "Kitchen appliances",
+   "number of star": "5 star"
+  }
+ },
+ "fb3bb108a9": {
+  "instruction": {
+   "kind of product": "Video game consoles",
+   "number of star": "4 star",
+   "price": "300 dollars"
+  }
+ },
+ "ecf6a8d75b": {
+  "instruction": {
+   "price": "100",
+   "ANSWER": "Fitbit - Alta Activity Tracker (Small) - Black",
+   "kind of product": "activity trackers",
+   "number of star": "4"
+  }
+ },
+ "8db4806512": {
+  "instruction": {
+   "price": "250 dollars",
+   "kind of product": "wearable tech products",
+   "number of star": "4 stars"
+  }
+ },
+ "a8c9ee273e": {
+  "instruction": {
+   "kind of product": "over-ear headphones",
+   "ANSWER": "Sony - Wireless FM Over-the-Ear Headphones - Black",
+   "number of star": "4",
+   "price": "150"
+  }
+ },
+ "270ba0f8ee": {
+  "instruction": {
+   "kind of product": " cell phones",
+   "ANSWER": "Huawei - Honor 6x 4G LTE with 32GB Memory Cell Phone (Unlocked) - Gray",
+   "number of star": "4",
+   "price": "$249.99"
+  }
+ },
+ "0fde37e397": {
+  "instruction": {
+   "kind of product": "What are some solid state hard drives",
+   "ANSWER": "4",
+   "number of star": "5",
+   "price": "250"
+  }
+ },
+ "cb53ceccf3": {
+  "instruction": {
+   "price": "400 dollars",
+   "ANSWER": "Insignia\u2122 - 5.6 Cu. Ft. 1-Tap Beverage Cooler Kegerator",
+   "kind of product": "beverage cooler",
+   "number of star": "4"
+  }
+ },
+ "fd11814f67": {
+  "instruction": {
+   "kind of product": "TVs",
+   "ANSWER": "http://www.bestbuy.com/site/hisense-32-class-31-5-diag--led-720p-hdtv-black/5613203.p?skuId=5613203",
+   "number of star": "4",
+   "price": "100"
+  }
+ },
+ "96fcbe3a2b": {
+  "instruction": {
+   "price": "700 dollars",
+   "ANSWER": "Jetson - Breeze Electric Scooter ",
+   "kind of product": "electric scooter",
+   "number of star": "4"
+  }
+ },
+ "4a4829c697": {
+  "instruction": {
+   "price": "7 dollars",
+   "ANSWER": "Dynex DDMI cable",
+   "kind of product": "HDMI cable",
+   "number of star": "5 stars"
+  }
+ },
+ "e7c4bf59f5": {
+  "instruction": {
+   "price": "800",
+   "ANSWER": "Apple - Geek Squad Refurbished iPhone 7 128GB - Jet Black (Verizon Wireless)",
+   "kind of product": "Cell phones",
+   "number of star": "4.8"
+  }
+ },
+ "d6de5e70fc": {
+  "instruction": {
+   "kind of product": "Kitchen appliances",
+   "number of star": "5 star",
+   "price": "800 dollars"
+  }
+ },
+ "f779c45df1": {
+  "instruction": {
+   "price": "200",
+   "ANSWER": "Sony Mobile - Refurbished Xperia C4 Smartphone 4G - Black (Unlocked)",
+   "kind of product": "Cell phones",
+   "number of star": "4.5"
+  }
+ },
+ "a5c2608d73": {
+  "instruction": {
+   "kind of product": "Blu ray player",
+   "ANSWER": "Samsung streaming blue ray player",
+   "number of star": "4 stars",
+   "price": "50 dollars"
+  }
+ },
+ "8906867ef8": {
+  "instruction": {
+   "kind of product": "iPhones",
+   "ANSWER": "Apple - iPhone SE 64GB - Gold (Sprint)",
+   "number of star": "4",
+   "price": "500"
+  }
+ },
+ "0a96023247": {
+  "instruction": {
+   "price": "500",
+   "ANSWER": "Apple - Geek Squad Refurbished iPhone SE with 16GB Memory Cell Phone - Gold (AT&T)",
+   "kind of product": "Cell phones",
+   "number of star": "4.7"
+  }
+ },
+ "a2a5462d46": {
+  "instruction": {
+   "kind of product": "Refrigerators ",
+   "ANSWER": "Amana 25.4 side by side",
+   "number of star": "4 stars",
+   "price": "850 dollars"
+  }
+ },
+ "612861ba37": {
+  "instruction": {
+   "kind of product": "Anti Virus",
+   "ANSWER": "Trend Micro Antivirus+Security (1-Device)",
+   "number of star": "4",
+   "price": "50 dollars"
+  }
+ },
+ "08fd5b05a8": {
+  "instruction": {
+   "price": "1000 dollars",
+   "kind of product": "Laptops",
+   "number of star": "5 star"
+  }
+ },
+ "253e1a9519": {
+  "instruction": {
+   "kind of product": "HDMI cable",
+   "ANSWER": "Dynex DDMI cable",
+   "number of star": "5 stars",
+   "price": "7 dollars"
+  }
+ },
+ "ea8ba5e85b": {
+  "instruction": {
+   "kind of product": "video games",
+   "ANSWER": "Resident Evil 7: Biohazard - PlayStation 4",
+   "number of star": "5",
+   "price": "$59.99"
+  }
+ },
+ "46af828861": {
+  "instruction": {
+   "kind of product": "Smart Watches/Wearables",
+   "ANSWER": "http://www.bestbuy.com/site/fitbit-charge-2-activity-tracker-heart-rate-large-black-silver/5579211.p?skuId=5579211",
+   "number of star": "5",
+   "price": "150"
+  }
+ },
+ "3acfb93876": {
+  "instruction": {
+   "kind of product": "headphones",
+   "ANSWER": "Beats by Dr. Dre EP On- Ear Sound Isolating Headphones with Mic - Black",
+   "number of star": "3",
+   "price": "100"
+  }
+ },
+ "70deb9ecbf": {
+  "instruction": {
+   "hp product": "HP LED HD Monitor"
+  }
+ },
+ "e320e3eff4": {
+  "instruction": {
+   "price": "100",
+   "ANSWER": "http://www.bestbuy.com/site/protocol-dronium-two-ap-drone-with-remote-controller-silver-black/5388103.p?skuId=5388103",
+   "kind of product": "Drones",
+   "number of star": "3"
+  }
+ },
+ "6e6fe59383": {
+  "instruction": {
+   "price": "150",
+   "ANSWER": "http://www.bestbuy.com/site/lenovo-ideapad-110s-11-6-laptop-intel-celeron-2gb-memory-32gb-emmc-flash-memory-white/5580020.p?skuId=5580020",
+   "kind of product": "Laptops",
+   "number of star": "4"
+  }
+ },
+ "c44608418c": {
+  "instruction": {
+   "price": "100 dollars",
+   "ANSWER": "Protocol - Dronium Two AP Drone with Remote Controller",
+   "kind of product": "drone",
+   "number of star": "3"
+  }
+ },
+ "88f36ddf04": {
+  "instruction": {
+   "kind of product": "Curved tv",
+   "ANSWER": "Samsung 55\" class",
+   "number of star": "5 stars",
+   "price": "1000 dollars"
+  }
+ },
+ "9402876eeb": {
+  "instruction": {
+   "kind of product": "video games",
+   "ANSWER": "Star Wars Battlefront Season Pass - Windows ",
+   "number of star": "5",
+   "price": "$49.99"
+  }
+ },
+ "465b4a1d0e": {
+  "instruction": {
+   "price": "300 dollars",
+   "ANSWER": "GE 24 inch built in",
+   "kind of product": "Dish washers",
+   "number of star": "4 stars"
+  }
+ },
+ "6c8f66cdf4": {
+  "instruction": {
+   "hp product": "HP OfficeJet Printer"
+  }
+ },
+ "a3a6bcc8ba": {
+  "instruction": {
+   "kind of product": "Cell phones",
+   "ANSWER": "Motorola - Refurbished MOTO G (4th Generation) 4G LTE with 16GB Memory Cell Phone (Unlocked) - Black",
+   "number of star": "4",
+   "price": "180"
+  }
+ },
+ "53d9ec15de": {
+  "instruction": {
+   "kind of product": "Cell phones",
+   "ANSWER": "Apple - Refurbished iPhone 6 Plus 16GB - Silver (AT&T)",
+   "number of star": "4.3",
+   "price": "560"
+  }
+ },
+ "9cea6c3866": {
+  "instruction": {
+   "kind of product": "Cell phones",
+   "ANSWER": "Apple - Geek Squad Certified Refurbished iPhone SE 4G LTE with 16GB Memory Cell Phone - Gold (Verizon)",
+   "number of star": "4.1",
+   "price": "410"
+  }
+ },
+ "fab74104f5": {
+  "instruction": {
+   "kind of product": "apple computers",
+   "ANSWER": "Apple Mac mini Intel Core i5 Dual Core 2.6GHz Computer - English",
+   "number of star": "3",
+   "price": "1000"
+  }
+ },
+ "f2bf7c57e1": {
+  "instruction": {
+   "price": "50 dollars",
+   "ANSWER": "Trend Micro Antivirus+Security (1-Device)",
+   "kind of product": "Anti Virus",
+   "number of star": "4"
+  }
+ },
+ "2f4f4284fb": {
+  "instruction": {
+   "kind of product": "Dish washers",
+   "ANSWER": "GE 24 inch built in",
+   "number of star": "4 stars",
+   "price": "300 dollars"
+  }
+ },
+ "e4ccbdd8f8": {
+  "instruction": {
+   "price": "50 dollars",
+   "ANSWER": "Samsung streaming blue ray player",
+   "kind of product": "Blu ray player",
+   "number of star": "4 stars"
+  }
+ },
+ "7c50719c67": {
+  "instruction": {
+   "price": "250",
+   "ANSWER": "http://www.bestbuy.com/site/sony-playstation-4-500gb-call-of-duty-infinite-warfare-console-bundle/5711145.p?skuId=5711145",
+   "kind of product": "Video Game Consoles",
+   "number of star": "5"
+  }
+ },
+ "8192d81535": {
+  "instruction": {
+   "hp product": "HP Copy Paper"
+  }
+ },
+ "6848442a96": {
+  "instruction": {
+   "price": "300 dollars",
+   "kind of product": "cell phones",
+   "number of star": "4 stars"
+  }
+ },
+ "22919a667d": {
+  "instruction": {
+   "price": "200 dollars",
+   "kind of product": "MP3 Players",
+   "number of star": "4 star"
+  }
+ },
+ "1da06ee106": {
+  "instruction": {
+   "hp product": "HP Envy"
+  }
+ },
+ "e91133b618": {
+  "instruction": {
+   "kind of product": "What are some fans",
+   "ANSWER": "26",
+   "number of star": "5",
+   "price": "100"
+  }
+ },
+ "7d8cc554e2": {
+  "instruction": {
+   "kind of product": "wearable tech products",
+   "number of star": "4 stars",
+   "price": "250 dollars"
+  }
+ },
+ "a6080be3d1": {
+  "instruction": {
+   "kind of product": "cameras",
+   "ANSWER": "Canon - PowerShot G9 X",
+   "number of star": "4",
+   "price": "500 dollars"
+  }
+ },
+ "2e2f0a4ac5": {
+  "instruction": {
+   "price": "250",
+   "ANSWER": "Apple - Certified Pre-Owned iPhone 5s 16GB - Space Gray (Unlocked)",
+   "kind of product": "Cell phones",
+   "number of star": "4.2"
+  }
+ },
+ "b51cb01a0c": {
+  "instruction": {
+   "kind of product": "Kitchen appliances ",
+   "ANSWER": "GE - 4.3 DOE Cu. Ft. 10-Cycle Front-Loading Washer - White",
+   "number of star": "5",
+   "price": "$719.99"
+  }
+ },
+ "ed704b17ff": {
+  "instruction": {
+   "kind of product": "ipad",
+   "ANSWER": "Apple iPad Air 2 32GB with Wi-Fi - Gold          (4)   Compare $499.99 Apple iPad Air 2 32GB with Wi-Fi - Space Grey          (5)   Compare $329.99 Apple iPad mini 2 - 32GB - Wi-Fi - Silver          (35)   Compare $629.99 Apple iPad Air 2 128GB With Wi-Fi - Space Grey(23)",
+   "number of star": "5",
+   "price": "500"
+  }
+ },
+ "247b209aa3": {
+  "instruction": {
+   "price": "410",
+   "ANSWER": "Apple - Geek Squad Certified Refurbished iPhone SE 4G LTE with 16GB Memory Cell Phone - Gold (Verizon)",
+   "kind of product": "Cell phones",
+   "number of star": "4.1"
+  }
+ },
+ "211b3be8f7": {
+  "instruction": {
+   "price": "60 dollars",
+   "kind of product": "video games",
+   "number of star": "5 stars"
+  }
+ },
+ "5f1797938b": {
+  "instruction": {
+   "hp product": "HP - Smart Power Adapter"
+  }
+ },
+ "44f5c4b435": {
+  "instruction": {
+   "kind of product": "Laptops ",
+   "ANSWER": "HP - Pavilion x360 2-in-1 15.6\" Touch-Screen Laptop",
+   "number of star": "5",
+   "price": "$729.99"
+  }
+ },
+ "988efde372": {
+  "instruction": {
+   "kind of product": "self balancing scooter",
+   "ANSWER": "Ninebot\u2122 by Segway - miniPRO Self-Balancing Scooter",
+   "number of star": "5",
+   "price": "800 dollars"
+  }
+ },
+ "108eee663e": {
+  "instruction": {
+   "kind of product": "Laptops",
+   "number of star": "5 star",
+   "price": "1000 dollars"
+  }
+ },
+ "241c891154": {
+  "instruction": {
+   "hp product": "HP Touch-Screen i3 Laptop"
+  }
+ },
+ "df8ce4a757": {
+  "instruction": {
+   "price": "150",
+   "ANSWER": "http://www.bestbuy.com/site/fitbit-charge-2-activity-tracker-heart-rate-large-black-silver/5579211.p?skuId=5579211",
+   "kind of product": "Smart Watches/Wearables",
+   "number of star": "5"
+  }
+ },
+ "8a1421db71": {
+  "instruction": {
+   "price": "100 dollars",
+   "ANSWER": "BISSELL - PowerGlide Bagless Pet Upright Vacuum",
+   "kind of product": "vacuum cleaner",
+   "number of star": "4"
+  }
+ },
+ "8c2a240ac5": {
+  "instruction": {
+   "kind of product": "computer",
+   "ANSWER": "HP Elite 8000 SFF",
+   "number of star": "3",
+   "price": "500"
+  }
+ },
+ "ef17a15418": {
+  "instruction": {
+   "price": "80",
+   "ANSWER": "Seagate - Backup Plus 2TB External USB 3.0/2.0 Portable Hard Drive - Black",
+   "kind of product": "portable hard drives",
+   "number of star": "3"
+  }
+ },
+ "21290a61db": {
+  "instruction": {
+   "kind of product": "Desktop computers",
+   "number of star": "5 star",
+   "price": "400 dollars"
+  }
+ },
+ "0dad560ea0": {
+  "instruction": {
+   "hp product": "HP Wireless Optical Mouse"
+  }
+ },
+ "38c735dc4f": {
+  "instruction": {
+   "kind of product": "Cell phones",
+   "ANSWER": "Samsung - Refurbished Galaxy S7 edge 32GB - Silver Titanium (Verizon)",
+   "number of star": "4.4",
+   "price": "450"
+  }
+ },
+ "51377781f8": {
+  "instruction": {
+   "price": "700",
+   "ANSWER": "DJI - Phantom 3 Standard Quadcopter - White",
+   "kind of product": "drones",
+   "number of star": "4"
+  }
+ },
+ "1158957fc9": {
+  "instruction": {
+   "kind of product": "Cell phones",
+   "ANSWER": "Apple - Geek Squad Certified Refurbished iPhone 7 Plus 32GB - Rose Gold (Verizon)",
+   "number of star": "5",
+   "price": "800"
+  }
+ },
+ "d177c4dc27": {
+  "instruction": {
+   "kind of product": "DSLR Cameras",
+   "ANSWER": "http://www.bestbuy.com/site/nikon-d5600-dslr-camera-with-af-s-dx-nikkor-18-140mm-f-3-5-5-6g-ed-vr-lens/5715102.p?skuId=5715102",
+   "number of star": "5",
+   "price": "1000"
+  }
+ },
+ "ec17521ef8": {
+  "instruction": {
+   "kind of product": "bluetooth speakers",
+   "ANSWER": "Bose SoundLink Color II Splashproof Portable Bluetooth Speaker - Red",
+   "number of star": "5",
+   "price": "150"
+  }
+ },
+ "809915f98f": {
+  "instruction": {
+   "price": "800",
+   "ANSWER": "Apple - Geek Squad Certified Refurbished iPhone 7 Plus 32GB - Rose Gold (Verizon)",
+   "kind of product": "Cell phones",
+   "number of star": "5"
+  }
+ },
+ "bf3b5aeaa5": {
+  "instruction": {
+   "kind of product": "Laptops",
+   "ANSWER": "http://www.bestbuy.com/site/lenovo-ideapad-110s-11-6-laptop-intel-celeron-2gb-memory-32gb-emmc-flash-memory-white/5580020.p?skuId=5580020",
+   "number of star": "4",
+   "price": "150"
+  }
+ },
+ "87f5bed8a9": {
+  "instruction": {
+   "price": "20",
+   "ANSWER": "http://www.bestbuy.com/site/recore-with-bonus-controller-skin-xbox-one/9093265.p?skuId=9093265",
+   "kind of product": "Video Games",
+   "number of star": "4"
+  }
+ },
+ "85ad1928a5": {
+  "instruction": {
+   "price": "10",
+   "ANSWER": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4783004.p?skuId=4783004",
+   "kind of product": "Headphones",
+   "number of star": "4"
+  }
+ },
+ "c3f4c713b5": {
+  "instruction": {
+   "kind of product": "Citrus juicer",
+   "ANSWER": "Brentwood citrus juice extractor",
+   "number of star": "4 stars",
+   "price": "14 dollars"
+  }
+ }
+}

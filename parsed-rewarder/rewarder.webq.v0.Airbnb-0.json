@@ -1,0 +1,1502 @@
+{
+ "7b5d42eed6": {
+  "instruction": {
+   "Start date": "02/17/2017",
+   "End date": "02/28/2017",
+   " geographic location": "Toronto, ON, Canada",
+   "Number of Guests": "1"
+  }
+ },
+ "f89274f390": {
+  "instruction": {
+   "Number of Guests": "5",
+   "Start date": "07/01/2017",
+   " geographic location": "Crater lake, Or",
+   "End date": "07/11/2017",
+   "ANSWER": "https://www.airbnb.com/s/Crater-Lake--Klamath-County--OR--United-States?guests=5&adults=5&children=0&infants=0&place_id=ChIJQasjwIQ-xlQReoeLyBm_4bo&checkin=07%2F01%2F2017&checkout=07%2F11%2F2017&ss_id=ppbtzee4&source=bb&page=1&s_tag=c_zB9lhy&allow_override%5B%5D="
+  }
+ },
+ "9ffb011a4d": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "3/6/2017",
+   " geographic location": "Bakersfield, CA, United States",
+   "End date": "3/10/2017",
+   "ANSWER": "18 options"
+  }
+ },
+ "4dceb31a66": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "June 22",
+   " geographic location": "Alice Springs, Australia",
+   "End date": "July 29",
+   "ANSWER": "5"
+  }
+ },
+ "ab78a71bc8": {
+  "instruction": {
+   "Number of Guests": "2 guests",
+   "Start date": "03/01/17",
+   " geographic location": "Stokholm, Sweden",
+   "End date": "03/08/17",
+   "ANSWER": "300 + rentals"
+  }
+ },
+ "c4ea350044": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/03/2017",
+   " geographic location": "Atlanta, GA",
+   "End date": "03/05/2017",
+   "ANSWER": "300+ options https://www.airbnb.com/s/Atlanta--GA--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJjQmTaV0E9YgRC2MLmS_e_mY&checkin=03%2F03%2F2017&checkout=03%2F05%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=VAG7u3yi"
+  }
+ },
+ "89b6906e16": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "New York ny",
+   "End date": "5/3/17",
+   "Start date": "5/1/17",
+   "ANSWER": "https://www.airbnb.com/s/New-York--NY--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJOwg_06VPwokRYv534QaPC8g&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&ne_lat=40.82770342476264&ne_lng=-73.95258357195746&sw_lat=40.6888888071394&sw_lng=-74.01609828143012&zoom=13&search_by_map=true&ss_id=mnlfrqc9&s_tag=Z7hOKL-J"
+  }
+ },
+ "ce59111922": {
+  "instruction": {
+   "Number of Guests": "1 guest",
+   "Start date": "02/24/17",
+   " geographic location": "Manhattan, NY, United States",
+   "End date": "02/28/17",
+   "ANSWER": "21 rentals"
+  }
+ },
+ "e7472305db": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/13/2017",
+   " geographic location": "Hermosa Beach, Ca",
+   "End date": "03/21/2017",
+   "ANSWER": "https://www.airbnb.com/s/Hermosa-Beach--CA?guests=2&adults=2&children=0&infants=0&checkin=03%2F13%2F2017&checkout=03%2F21%2F2017&ss_id=7z0gr34t&source=bb&page=1&s_tag=HZcw05xF&allow_override%5B%5D="
+  }
+ },
+ "3af53c71bc": {
+  "instruction": {
+   "Number of Guests": "6",
+   "Start date": "02/24/2017",
+   " geographic location": "Rochester, NY, United States",
+   "End date": "02/26/2017",
+   "ANSWER": "28 available"
+  }
+ },
+ "8e6c7326c6": {
+  "instruction": {
+   "Start date": "02/21/2017",
+   "End date": "02/28/2017",
+   " geographic location": "Bali, Indonesia",
+   "Number of Guests": "2"
+  }
+ },
+ "13453d3691": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Nashville, TN, United States",
+   "End date": "03/11/2017",
+   "Start date": "03/05/2017",
+   "ANSWER": "300+"
+  }
+ },
+ "5805f77e75": {
+  "instruction": {
+   "Start date": "02/15/2017",
+   "End date": "02/17/2017",
+   " geographic location": "San Francisco, CA, United States",
+   "Number of Guests": "1"
+  }
+ },
+ "cfa2c8e69d": {
+  "instruction": {
+   "Number of Guests": "4",
+   " geographic location": "Cleveland, OH, United States",
+   "End date": "02/27/2017",
+   "Start date": "02/24/2017",
+   "ANSWER": "293"
+  }
+ },
+ "7a8bbfeb2b": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "November 10 ",
+   " geographic location": "negril, jamaica",
+   "End date": "January 31, 2018",
+   "ANSWER": "54"
+  }
+ },
+ "fe142d6d77": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/25/2017",
+   " geographic location": "Columbus, OH, United States",
+   "End date": "03/31/2017",
+   "ANSWER": "300+ available"
+  }
+ },
+ "ddf6050179": {
+  "instruction": {
+   "Number of Guests": "7",
+   "Start date": "July 5",
+   " geographic location": "Venice, Italy",
+   "End date": "July 19",
+   "ANSWER": "240"
+  }
+ },
+ "93f5c46278": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "5/1/17",
+   " geographic location": "Washington DC ",
+   "End date": "5/13/17",
+   "ANSWER": "https://www.airbnb.com/s/Washington--DC--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJW-T2Wt7Gt4kRKl2I1CJFUsI&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=FY08EwNv"
+  }
+ },
+ "f2ae84f47e": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "02/19/2017",
+   " geographic location": "Key West, FL, United States",
+   "End date": "02/25/2017",
+   "ANSWER": "1"
+  }
+ },
+ "b1939116c1": {
+  "instruction": {
+   "Number of Guests": "1",
+   "Start date": "02/15/2017",
+   " geographic location": "San Francisco, CA, United States",
+   "End date": "02/17/2017"
+  }
+ },
+ "bcc7be2b04": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Athens, ga",
+   "End date": "5/3/17",
+   "Start date": "5/1/17",
+   "ANSWER": " https://www.airbnb.com/s/Athens--GA--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJuTO0tBlt9ogRfGGd1gJydE0&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&ss_id=cvtoebyq&source=bb&page=1&s_tag=I5w8kIh8&allow_override%5B%5D="
+  }
+ },
+ "5a135d156a": {
+  "instruction": {
+   "Number of Guests": "1 guest",
+   "Start date": "02/21/17",
+   " geographic location": "San Fransisco, CA, United States",
+   "End date": "02/25/17",
+   "ANSWER": "15 rentals"
+  }
+ },
+ "aeedb75177": {
+  "instruction": {
+   "Number of Guests": "1",
+   "Start date": "02/19/2017",
+   " geographic location": "New York, NY, United States",
+   "End date": "02/22/2017"
+  }
+ },
+ "6952befe8e": {
+  "instruction": {
+   "Number of Guests": "10",
+   "Start date": "March 6",
+   " geographic location": "Alamagordo, New Mexico",
+   "End date": "March 30",
+   "ANSWER": "6"
+  }
+ },
+ "205c61c751": {
+  "instruction": {
+   "Number of Guests": "1",
+   " geographic location": "Lahore, Punjab, Pakistan",
+   "End date": "02/24/2017",
+   "Start date": "02/22/2017",
+   "ANSWER": " 8 Rentals"
+  }
+ },
+ "c16b269758": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Valdosta, GA, United States",
+   "End date": "3/19/2017",
+   "Start date": "3/18/2017",
+   "ANSWER": "30 options"
+  }
+ },
+ "7bee48b5cc": {
+  "instruction": {
+   "Start date": "02/20/2017",
+   "End date": "02/27/2017",
+   " geographic location": "Chicago, IL, United States",
+   "Number of Guests": "2"
+  }
+ },
+ "dcb4cfe4f7": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "December 7",
+   " geographic location": "Sweetwater, Tx",
+   "End date": "January 7, 2018",
+   "ANSWER": "0"
+  }
+ },
+ "436a9a44bf": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "02/20/2017",
+   " geographic location": "Charlotte, NC",
+   "End date": "02/23/2017",
+   "ANSWER": "https://www.airbnb.com/rooms/15728993?checkin=02%2F20%2F2017&checkout=02%2F23%2F2017&guests=4&adults=4&children=0&infants=0&s=dqKRQkJF"
+  }
+ },
+ "47630446ef": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "3/6/2017",
+   " geographic location": "Youngstown, OH, United States",
+   "End date": "3/10/2017",
+   "ANSWER": "35 options"
+  }
+ },
+ "3fbd20eb68": {
+  "instruction": {
+   "Number of Guests": "1",
+   " geographic location": "Toronto, ON, Canada",
+   "Start date": "02/17/2017",
+   "End date": "02/28/2017"
+  }
+ },
+ "21250fee56": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "5/1/17",
+   " geographic location": "Morrisville vt",
+   "End date": "5/3/17",
+   "ANSWER": "https://www.airbnb.com/s/Morrisville--Morristown--VT--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJLTXUUEqVtUwRsfwAP8obgq4&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&ss_id=ld792hus&s_tag=Bxi1_WFa"
+  }
+ },
+ "4429b7a431": {
+  "instruction": {
+   "Number of Guests": "3",
+   "Start date": "02/20/2017",
+   " geographic location": "Berlin, Germany",
+   "End date": "02/25/2017"
+  }
+ },
+ "5fc7d26ebb": {
+  "instruction": {
+   "Start date": "02/23/2017",
+   "End date": "03/30/2017",
+   " geographic location": "Miami, FL, United States",
+   "Number of Guests": "2"
+  }
+ },
+ "a46a5e1efb": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Chicago, IL, United States",
+   "Start date": "02/20/2017",
+   "End date": "02/27/2017"
+  }
+ },
+ "851d49dd16": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Key West, FL, United States",
+   "End date": "02/25/2017",
+   "Start date": "02/19/2017",
+   "ANSWER": "1"
+  }
+ },
+ "33dd416629": {
+  "instruction": {
+   "Number of Guests": "1",
+   "Start date": "02/22/2017",
+   " geographic location": "Lahore, Punjab, Pakistan",
+   "End date": "02/24/2017",
+   "ANSWER": " 8 Rentals"
+  }
+ },
+ "f967cdfcb4": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Denver, CO, United States",
+   "End date": "03/11/2017",
+   "Start date": "03/05/2017",
+   "ANSWER": "300+"
+  }
+ },
+ "55aa2ce47b": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Dubai - United Arab Emirates",
+   "Start date": "02/12/2017",
+   "End date": "02/23/2017"
+  }
+ },
+ "9ece0cf7d3": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Ottawa, ON, Canada",
+   "End date": "2/27/17",
+   "Start date": "2/26/2017",
+   "ANSWER": "306 options"
+  }
+ },
+ "dac796d940": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "5/1/17",
+   " geographic location": "Santa Fe nm",
+   "End date": "5/3/17",
+   "ANSWER": "https://www.airbnb.com/s/Santa-Fe--NM--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJqVKY50NQGIcRQN-I_XMjkIw&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=t7X5qgfr"
+  }
+ },
+ "d6821c6f41": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "5/1/17",
+   " geographic location": "Montreal, canada qc ",
+   "End date": "5/3/17",
+   "ANSWER": "https://www.airbnb.com/s/Montreal--QC--Canada?guests=2&adults=2&children=0&infants=0&place_id=ChIJDbdkHFQayUwR7-8fITgxTmU&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=5f070ajZ"
+  }
+ },
+ "e79cb72189": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "San Francisco, CA, United States",
+   "End date": "02/17/2017 ",
+   "Start date": "02/15/2017",
+   "ANSWER": "300+ Rentals \u00b7 San Francisco"
+  }
+ },
+ "00934cb87a": {
+  "instruction": {
+   "Number of Guests": "5",
+   "Start date": "02/20/2017",
+   " geographic location": "Berlin, Germany",
+   "End date": "02/25/2017",
+   "ANSWER": "Only 15% of homes are available for your travel dates."
+  }
+ },
+ "6921bf321c": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "5/1/17",
+   " geographic location": "Santa Monica ca",
+   "End date": "5/3/17",
+   "ANSWER": "https://www.airbnb.com/s/Santa-Monica--CA--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJGQCRws6kwoARq_Uj_7UKF7Q&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=GpDJ_XZa"
+  }
+ },
+ "378b44e4f7": {
+  "instruction": {
+   "Number of Guests": "1",
+   " geographic location": "New York, NY, United States",
+   "End date": "02/22/2017",
+   "Start date": "02/19/2017",
+   "ANSWER": "300+ Rentals \u00b7 New York"
+  }
+ },
+ "6753f063b1": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "02/21/2017",
+   " geographic location": "Vantaa, Finland",
+   "End date": "03/02/2017"
+  }
+ },
+ "bdb729c266": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Bradford, uk",
+   "End date": "5/3/17",
+   "Start date": "5/1/17",
+   "ANSWER": "https://www.airbnb.com/s/Bradford--United-Kingdom?guests=2&adults=2&children=0&infants=0&place_id=ChIJGRnC6XpfeUgRTxknMtjt4I8&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&price_min=254&ss_id=ohjzopj4&s_tag=Eo-U7nWH"
+  }
+ },
+ "d7b97ca75f": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "\u00c7anakkale, Turkey",
+   "End date": "03/30/2017",
+   "Start date": "03/21/2017",
+   "ANSWER": "300+ Rentals \u00b7 \u00c7anakkale"
+  }
+ },
+ "158dd85c9c": {
+  "instruction": {
+   "Number of Guests": "5",
+   "Start date": "03/28/2017",
+   " geographic location": "Swindon, United Kingdom",
+   "End date": "03/31/2017",
+   "ANSWER": "123 Rentals \u00b7 Swindon"
+  }
+ },
+ "881944e713": {
+  "instruction": {
+   "Number of Guests": "3",
+   "Start date": "02/28/2017",
+   " geographic location": "Albuquerque, NM, United States",
+   "End date": "03/11/2017",
+   "ANSWER": "168 available"
+  }
+ },
+ "1f6e3b9dd4": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "2/26/2017",
+   " geographic location": "Mc Kees Rocks, PA, Untited States",
+   "End date": "2/27/17",
+   "ANSWER": "113 options"
+  }
+ },
+ "58330629f9": {
+  "instruction": {
+   "Number of Guests": "4",
+   " geographic location": "Rochester, NY, United States",
+   "End date": "3/10/2017",
+   "Start date": "3/6/2017",
+   "ANSWER": "76 options"
+  }
+ },
+ "3f7cb0cec4": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Montreal, canada qc ",
+   "End date": "5/3/17",
+   "Start date": "5/1/17",
+   "ANSWER": "https://www.airbnb.com/s/Montreal--QC--Canada?guests=2&adults=2&children=0&infants=0&place_id=ChIJDbdkHFQayUwR7-8fITgxTmU&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=5f070ajZ"
+  }
+ },
+ "4a42e1cbcc": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "2/26/2017",
+   " geographic location": "Butler PA, United States",
+   "End date": "2/27/17",
+   "ANSWER": "35 options"
+  }
+ },
+ "38d2fb99c3": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/21/2017",
+   " geographic location": "\u00c7anakkale, Turkey",
+   "End date": "03/30/2017",
+   "ANSWER": "300+ Rentals \u00b7 \u00c7anakkale"
+  }
+ },
+ "89f948933c": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/03/2017",
+   " geographic location": "Greensboro, NC",
+   "End date": "03/05/2017",
+   "ANSWER": "187 options https://www.airbnb.com/s/Greensboro--NC--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJeXvHOD8ZU4gRyBK-eJTEuZM&checkin=03%2F03%2F2017&checkout=03%2F05%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=KrkXEo2U"
+  }
+ },
+ "4fd1e17a41": {
+  "instruction": {
+   "Number of Guests": "4",
+   " geographic location": "Portland ME, United States",
+   "End date": "03/11/2017",
+   "Start date": "03/05/2017",
+   "ANSWER": "227"
+  }
+ },
+ "2c8de112aa": {
+  "instruction": {
+   "Number of Guests": "3",
+   "Start date": "03/01/2017",
+   " geographic location": "Oslo, Norway",
+   "End date": "03/05/2017",
+   "ANSWER": "300+ available"
+  }
+ },
+ "6623c2ad59": {
+  "instruction": {
+   "Number of Guests": "1",
+   "Start date": "2/25/2017",
+   " geographic location": "Lisbon, Portugal",
+   "End date": "2/26/2017",
+   "ANSWER": "13% available"
+  }
+ },
+ "e6633bcaa2": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Melbourne, FL, United States",
+   "End date": "03/11/2017",
+   "Start date": "03/05/2017",
+   "ANSWER": "83"
+  }
+ },
+ "87c503f8c3": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "02/12/2017",
+   " geographic location": "Dubai - United Arab Emirates",
+   "End date": "02/23/2017"
+  }
+ },
+ "67f7df4216": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "5/1/17",
+   " geographic location": "New York ny",
+   "End date": "5/3/17",
+   "ANSWER": "https://www.airbnb.com/s/New-York--NY--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJOwg_06VPwokRYv534QaPC8g&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&ne_lat=40.82770342476264&ne_lng=-73.95258357195746&sw_lat=40.6888888071394&sw_lng=-74.01609828143012&zoom=13&search_by_map=true&ss_id=mnlfrqc9&s_tag=Z7hOKL-J"
+  }
+ },
+ "db1282c706": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/03/2017",
+   " geographic location": "Wilmington, NC",
+   "End date": "03/05/2017",
+   "ANSWER": "259 options https://www.airbnb.com/s/Wilmington--NC--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJ1a7rDaL1qYkRMjAJhDhJZl4&checkin=03%2F03%2F2017&checkout=03%2F05%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=6-WObx38"
+  }
+ },
+ "f655bd7d62": {
+  "instruction": {
+   "Number of Guests": "4",
+   " geographic location": "Youngstown, OH, United States",
+   "End date": "3/10/2017",
+   "Start date": "3/6/2017",
+   "ANSWER": "35 options"
+  }
+ },
+ "b6e415d819": {
+  "instruction": {
+   "Start date": "02/19/2017",
+   "End date": "02/22/2017",
+   " geographic location": "New York, NY, United States",
+   "Number of Guests": "1"
+  }
+ },
+ "65192e4493": {
+  "instruction": {
+   "Number of Guests": "3",
+   " geographic location": "Berlin, Germany",
+   "Start date": "02/20/2017",
+   "End date": "02/25/2017"
+  }
+ },
+ "b4934a44ff": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "04/15/2017",
+   " geographic location": "Helena, MT, United States",
+   "End date": "04/22/2017",
+   "ANSWER": "20 available"
+  }
+ },
+ "0c2de59a9e": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "3/18/2017",
+   " geographic location": "Valdosta, GA, United States",
+   "End date": "3/19/2017",
+   "ANSWER": "30 options"
+  }
+ },
+ "bbf028e056": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "03/10/2017",
+   " geographic location": "Austin, TX, United States",
+   "End date": "03/13/2017",
+   "ANSWER": "300+"
+  }
+ },
+ "e746dca9d9": {
+  "instruction": {
+   "Number of Guests": "2 guests",
+   "Start date": "02/23/17",
+   " geographic location": "London, England",
+   "End date": "03/01/17",
+   "ANSWER": "18 rentals"
+  }
+ },
+ "e0c3bddeac": {
+  "instruction": {
+   "Number of Guests": "1",
+   "Start date": "02/19/2017",
+   " geographic location": "New York, NY, United States",
+   "End date": "02/22/2017",
+   "ANSWER": "300+ Rentals \u00b7 New York"
+  }
+ },
+ "89b6f8b0b6": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "02/28/2017",
+   " geographic location": "Big Sky, MT, United States",
+   "End date": "03/05/2017",
+   "ANSWER": "13% available"
+  }
+ },
+ "651e64fab0": {
+  "instruction": {
+   "Number of Guests": "5",
+   "Start date": "03/20/2017",
+   " geographic location": "Chicago, IL, United States",
+   "End date": "03/27/2017",
+   "ANSWER": "300+ Rentals \u00b7 Chicago"
+  }
+ },
+ "5fb238c485": {
+  "instruction": {
+   "Number of Guests": "4",
+   " geographic location": "Norfolk, VA, United States",
+   "End date": "03/11/2017",
+   "Start date": "03/05/2017",
+   "ANSWER": "176"
+  }
+ },
+ "8b86a80222": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "2/26/2017",
+   " geographic location": "Ottawa, ON, Canada",
+   "End date": "2/27/17",
+   "ANSWER": "306 options"
+  }
+ },
+ "aa159a25f6": {
+  "instruction": {
+   "Number of Guests": "3",
+   "Start date": "October 15",
+   " geographic location": "Ulan Bator, Mongolia",
+   "End date": "October 30",
+   "ANSWER": "156"
+  }
+ },
+ "a66e2dda63": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "02/20/2017",
+   " geographic location": "Indianapolis, IN",
+   "End date": "02/23/2017",
+   "ANSWER": "https://www.airbnb.com/rooms/16174108?checkin=02%2F20%2F2017&checkout=02%2F23%2F2017&guests=4&adults=4&children=0&infants=0&s=4Qt8XmRH"
+  }
+ },
+ "22c61dd1a1": {
+  "instruction": {
+   "Number of Guests": "1",
+   "Start date": "03/20/2017",
+   " geographic location": "Auckland, New Zealand",
+   "End date": "03/31/2017",
+   "ANSWER": "300+ available"
+  }
+ },
+ "5ec1a50724": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Barcelona, Spain",
+   "End date": "03/15/2017",
+   "Start date": "03/03/2017",
+   "ANSWER": "300+ Rentals \u00b7 Barcelona"
+  }
+ },
+ "d5fb4c6ff9": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "02/20/2017",
+   " geographic location": "Atlanta, GA",
+   "End date": "02/23/2017",
+   "ANSWER": "https://www.airbnb.com/rooms/16122181?checkin=02%2F20%2F2017&checkout=02%2F23%2F2017&guests=4&adults=4&children=0&infants=0&s=SHxf1hig"
+  }
+ },
+ "9f622508f5": {
+  "instruction": {
+   "Number of Guests": "3",
+   "Start date": "02/24/2017",
+   " geographic location": "New Orleans, LA",
+   "End date": "02/26/2017",
+   "ANSWER": "https://www.airbnb.com/s/New-Orleans--LA-?guests=3&adults=3&checkin=02%2F24%2F2017&checkout=02%2F26%2F2017&source=bb&page=1&allow_override%5B%5D=&place_id=&s_tag=qLGp7I6l"
+  }
+ },
+ "16cfcc7669": {
+  "instruction": {
+   "Number of Guests": "1",
+   "Start date": "August 3",
+   " geographic location": "calgary, canada",
+   "End date": "August 8",
+   "ANSWER": "300+"
+  }
+ },
+ "ea6fae0325": {
+  "instruction": {
+   "Start date": "02/12/2017",
+   "End date": "02/23/2017",
+   " geographic location": "Dubai - United Arab Emirates",
+   "Number of Guests": "2"
+  }
+ },
+ "a007961736": {
+  "instruction": {
+   "Number of Guests": "3",
+   "Start date": "May 3rd",
+   " geographic location": "Lom, Norway",
+   "End date": "May12th",
+   "ANSWER": "176"
+  }
+ },
+ "99ff8fbc65": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Savannah, GA, United States",
+   "End date": "03/13/2017",
+   "Start date": "03/10/2017",
+   "ANSWER": "252"
+  }
+ },
+ "fdd700381f": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "02/20/2017",
+   " geographic location": "Boston, MA",
+   "End date": "02/23/2017",
+   "ANSWER": "https://www.airbnb.com/rooms/16213210?checkin=02%2F20%2F2017&checkout=02%2F23%2F2017&guests=4&adults=4&children=0&infants=0"
+  }
+ },
+ "16ad310344": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Vantaa, Finland",
+   "Start date": "02/21/2017",
+   "End date": "03/02/2017"
+  }
+ },
+ "0e5985245e": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "02/20/2017",
+   " geographic location": "Hartford, CT",
+   "End date": "02/23/2017",
+   "ANSWER": "https://www.airbnb.com/rooms/17013800?checkin=02%2F20%2F2017&checkout=02%2F23%2F2017&guests=4&adults=4&children=0&infants=0&s=FcCbqmHT"
+  }
+ },
+ "cb722b9d21": {
+  "instruction": {
+   "Number of Guests": "1",
+   " geographic location": "New York, NY, United States",
+   "Start date": "02/19/2017",
+   "End date": "02/22/2017"
+  }
+ },
+ "ed6186a552": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Pittsburgh, PA, United States",
+   "End date": "2/25/17",
+   "Start date": "2/20/2017",
+   "ANSWER": "261 options"
+  }
+ },
+ "4f4f9727cc": {
+  "instruction": {
+   "Number of Guests": "5",
+   "Start date": "07/01/2017",
+   " geographic location": "Yellowstone National Park",
+   "End date": "07/05/2017",
+   "ANSWER": "https://www.airbnb.com/s/Yellowstone-National-Park--Teton-County--WY--United-States?guests=5&adults=5&children=0&infants=0&place_id=ChIJVVVVVVXlUVMRu-GPNDD5qKw&checkin=07%2F01%2F2017&checkout=07%2F05%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=P5sYN97M"
+  }
+ },
+ "f40b5cb529": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Dana Point, CA, United States",
+   "End date": "3/19/2017",
+   "Start date": "3/18/2017",
+   "ANSWER": "152 options"
+  }
+ },
+ "0f183daf6a": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "02/21/2017",
+   " geographic location": "Bali, Indonesia",
+   "End date": "02/28/2017"
+  }
+ },
+ "fd47321dd2": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/31/2017",
+   " geographic location": "Munich, Germany",
+   "End date": "04/02/2017",
+   "ANSWER": "300+ available"
+  }
+ },
+ "c32e78adcd": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "02/15/2017",
+   " geographic location": "San Francisco, CA, United States",
+   "End date": "02/17/2017 ",
+   "ANSWER": "300+ Rentals \u00b7 San Francisco"
+  }
+ },
+ "f03e5b4150": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Taos nm",
+   "End date": "5/3/17",
+   "Start date": "5/1/17",
+   "ANSWER": "https://www.airbnb.com/s/Taos--NM--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJsfwRf9pkF4cRgrepYYOR6pA&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=jCNhEfTa"
+  }
+ },
+ "9111a8ebc5": {
+  "instruction": {
+   "Number of Guests": "3 ",
+   "Start date": "03/14/2017",
+   " geographic location": "Washington, DC",
+   "End date": "03/23/2017",
+   "ANSWER": "https://www.airbnb.com/s/Washington--DC--United-States?guests=3&adults=3&checkin=03%2F14%2F2017&source=bb&page=1&allow_override%5B%5D=&place_id=ChIJW-T2Wt7Gt4kRKl2I1CJFUsI&checkout=03%2F23%2F2017&s_tag=ds5ct4_r"
+  }
+ },
+ "b8ef8fdafa": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/05/2017",
+   " geographic location": "Melbourne, FL, United States",
+   "End date": "03/11/2017",
+   "ANSWER": "83"
+  }
+ },
+ "6982336abe": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "02/20/2017",
+   " geographic location": "Chicago, IL, United States",
+   "End date": "02/27/2017"
+  }
+ },
+ "ac39aa3234": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Miami, FL, United States",
+   "Start date": "02/23/2017",
+   "End date": "03/30/2017"
+  }
+ },
+ "9d6d01607e": {
+  "instruction": {
+   "Number of Guests": "1 guest",
+   "Start date": "03/01/17",
+   " geographic location": "Miami, FL, United States",
+   "End date": "03/15/17",
+   "ANSWER": "300 + rentals"
+  }
+ },
+ "598437dad6": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Santa Monica ca",
+   "End date": "5/3/17",
+   "Start date": "5/1/17",
+   "ANSWER": "https://www.airbnb.com/s/Santa-Monica--CA--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJGQCRws6kwoARq_Uj_7UKF7Q&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=GpDJ_XZa"
+  }
+ },
+ "2df93a2af3": {
+  "instruction": {
+   "Number of Guests": "5",
+   " geographic location": "Swindon, United Kingdom",
+   "End date": "03/31/2017",
+   "Start date": "03/28/2017",
+   "ANSWER": "123 Rentals \u00b7 Swindon"
+  }
+ },
+ "6c687fc3e5": {
+  "instruction": {
+   "Number of Guests": "3",
+   " geographic location": "Melbourne, Victoria, Australia",
+   "Start date": "02/25/2017",
+   "End date": "03/05/2017"
+  }
+ },
+ "a234a91634": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/05/2017",
+   " geographic location": "Nashville, TN, United States",
+   "End date": "03/11/2017",
+   "ANSWER": "300+"
+  }
+ },
+ "18e242dddb": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/03/2017",
+   " geographic location": "Barcelona, Spain",
+   "End date": "03/15/2017",
+   "ANSWER": "300+ Rentals \u00b7 Barcelona"
+  }
+ },
+ "aa47f0cb53": {
+  "instruction": {
+   "Number of Guests": "3",
+   "Start date": "02/25/2017",
+   " geographic location": "Melbourne, Victoria, Australia",
+   "End date": "03/05/2017"
+  }
+ },
+ "f6b2af101f": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "5/1/17",
+   " geographic location": "Bradford, uk",
+   "End date": "5/3/17",
+   "ANSWER": "https://www.airbnb.com/s/Bradford--United-Kingdom?guests=2&adults=2&children=0&infants=0&place_id=ChIJGRnC6XpfeUgRTxknMtjt4I8&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&price_min=254&ss_id=ohjzopj4&s_tag=Eo-U7nWH"
+  }
+ },
+ "2e0be8d183": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/05/2017",
+   " geographic location": "Denver, CO, United States",
+   "End date": "03/11/2017",
+   "ANSWER": "300+"
+  }
+ },
+ "d85c5f4c01": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/10/2017",
+   " geographic location": "Savannah, GA, United States",
+   "End date": "03/13/2017",
+   "ANSWER": "252"
+  }
+ },
+ "b960ef85e2": {
+  "instruction": {
+   "Number of Guests": "3",
+   "Start date": "03/14/2017",
+   " geographic location": "Seattle, Wa",
+   "End date": "03/23/2017",
+   "ANSWER": "https://www.airbnb.com/s/Seattle--WA--United-States?guests=3&adults=3&checkin=03%2F14%2F2017&source=bb&page=1&allow_override%5B%5D=&place_id=ChIJVTPokywQkFQRmtVEaUZlJRA&checkout=03%2F23%2F2017&s_tag=em1R1ug8"
+  }
+ },
+ "90c8a79915": {
+  "instruction": {
+   "Number of Guests": "3",
+   "Start date": "03/13/2017",
+   " geographic location": "Rapid City, SD",
+   "End date": "03/21/2017",
+   "ANSWER": "https://www.airbnb.com/s/Rapid-City--SD--United-States?guests=3&adults=3&checkin=03%2F13%2F2017&checkout=03%2F21%2F2017&source=bb&page=1&allow_override%5B%5D=&place_id=ChIJ-6W7nqVCfYcRx7eTPlphccQ&ss_id=t41k8184&s_tag=H_VdgR1z"
+  }
+ },
+ "15305d3c2e": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Boston, MA, United States",
+   "End date": "03/13/2017",
+   "Start date": "03/10/2017",
+   "ANSWER": "300+"
+  }
+ },
+ "82390a3a9b": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Bali, Indonesia",
+   "Start date": "02/21/2017",
+   "End date": "02/28/2017"
+  }
+ },
+ "2b6e0708b8": {
+  "instruction": {
+   "Number of Guests": "5",
+   "Start date": "07/01/2017",
+   " geographic location": "Jackson Hole, WY ",
+   "End date": "07/05/2017",
+   "ANSWER": "https://www.airbnb.com/s/Jackson-Hole--WY--United-States?guests=5&adults=5&children=0&infants=0&place_id=ChIJS3_P_FgaU1MRXIM6scsBHD0&checkin=07%2F01%2F2017&checkout=07%2F05%2F2017&ss_id=04e32szq&source=bb&page=1&s_tag=oQD_TzsT&allow_override%5B%5D="
+  }
+ },
+ "072ecf760f": {
+  "instruction": {
+   "Number of Guests": "1 guest",
+   "Start date": "03/01/17",
+   " geographic location": "Madrid, Spain",
+   "End date": "03/10/17",
+   "ANSWER": "300 + rentals"
+  }
+ },
+ "7fe714d209": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/03/2017",
+   " geographic location": "Myrtle Beach, SC",
+   "End date": "03/05/2017",
+   "ANSWER": "246 options https://www.airbnb.com/s/Myrtle-Beach--SC--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJASFVO5VoAIkRGJbQtRWxD7w&checkin=03%2F03%2F2017&checkout=03%2F05%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=n8GV4TZj"
+  }
+ },
+ "55bca0635a": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Hastings on Hudson ny",
+   "End date": "5/3/17",
+   "Start date": "5/1/17",
+   "ANSWER": "https://www.airbnb.com/s/Hastings~on~Hudson--NY--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJc_9lkenswokRwwt_lUQ-aCk&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=MFfS5zYq"
+  }
+ },
+ "099b7bc7f5": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "03/05/2017",
+   " geographic location": "Norfolk, VA, United States",
+   "End date": "03/11/2017",
+   "ANSWER": "176"
+  }
+ },
+ "9379d8a525": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/03/2017",
+   " geographic location": "Raleigh, NC",
+   "End date": "03/05/2017",
+   "ANSWER": "300+ options https://www.airbnb.com/s/Raleigh--NC--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJ9-BRny9arIkRrfARilK2kGc&checkin=03%2F03%2F2017&checkout=03%2F05%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=xoAgx1cA"
+  }
+ },
+ "90bcf24854": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "5/1/17",
+   " geographic location": "Hastings on Hudson ny",
+   "End date": "5/3/17",
+   "ANSWER": "https://www.airbnb.com/s/Hastings~on~Hudson--NY--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJc_9lkenswokRwwt_lUQ-aCk&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=MFfS5zYq"
+  }
+ },
+ "088289b4ce": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Paris, France",
+   "End date": "04/12/2017",
+   "Start date": "03/24/2017",
+   "ANSWER": "300+ Rentals \u00b7 Paris"
+  }
+ },
+ "fa0a9ff4b6": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/03/2017",
+   " geographic location": "Charleston, SC",
+   "End date": "03/05/2017",
+   "ANSWER": "300+ options https://www.airbnb.com/s/Charleston--SC--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJdySo3EJ6_ogRa-zhruD3-jU&checkin=03%2F03%2F2017&checkout=03%2F05%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=xth1fwah"
+  }
+ },
+ "5a1e81de91": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Buffalo, NY, United States",
+   "End date": "2/27/17",
+   "Start date": "2/26/2017",
+   "ANSWER": "306 options"
+  }
+ },
+ "3849165c33": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/03/2017",
+   " geographic location": "Charlotte, NC",
+   "End date": "03/05/2017",
+   "ANSWER": "300+ options https://www.airbnb.com/s/Charlotte--NC--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJgRo4_MQfVIgRZNFDv-ZQRog&checkin=03%2F03%2F2017&checkout=03%2F05%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=iRsALUve"
+  }
+ },
+ "fa3cb6205a": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Dubai - United Arab Emirates",
+   "End date": " 02/23/2017",
+   "Start date": "02/12/2017",
+   "ANSWER": "300+ Rentals \u00b7 Dubai"
+  }
+ },
+ "4baceaf44c": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "02/24/2017",
+   " geographic location": "Cleveland, OH, United States",
+   "End date": "02/27/2017",
+   "ANSWER": "293"
+  }
+ },
+ "c201e2b3e7": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "03/05/2017",
+   " geographic location": "Portland ME, United States",
+   "End date": "03/11/2017",
+   "ANSWER": "227"
+  }
+ },
+ "0dac8ff2fa": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "5/1/17",
+   " geographic location": "Athens, ga",
+   "End date": "5/3/17",
+   "ANSWER": " https://www.airbnb.com/s/Athens--GA--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJuTO0tBlt9ogRfGGd1gJydE0&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&ss_id=cvtoebyq&source=bb&page=1&s_tag=I5w8kIh8&allow_override%5B%5D="
+  }
+ },
+ "597af92da6": {
+  "instruction": {
+   "Number of Guests": "2 guests",
+   "Start date": "02/28/17",
+   " geographic location": "Mahe, Seychelles",
+   "End date": "03/07/17",
+   "ANSWER": "300+ rentals"
+  }
+ },
+ "75775964ac": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "02/23/2017",
+   " geographic location": "Miami, FL, United States",
+   "End date": "03/30/2017"
+  }
+ },
+ "a58d1ada3c": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "02/20/2017",
+   " geographic location": "Portland, OR",
+   "End date": "02/23/2017",
+   "ANSWER": "https://www.airbnb.com/rooms/3176777?checkin=02%2F20%2F2017&checkout=02%2F23%2F2017&guests=4&adults=4&children=0&infants=0&s=raGvMuxG"
+  }
+ },
+ "e4cec0098e": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Mc Kees Rocks, PA, Untited States",
+   "End date": "2/27/17",
+   "Start date": "2/26/2017",
+   "ANSWER": "113 options"
+  }
+ },
+ "931fc22f9c": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Morrisville vt",
+   "End date": "5/3/17",
+   "Start date": "5/1/17",
+   "ANSWER": "https://www.airbnb.com/s/Morrisville--Morristown--VT--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJLTXUUEqVtUwRsfwAP8obgq4&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&ss_id=ld792hus&s_tag=Bxi1_WFa"
+  }
+ },
+ "c1a5eec0a7": {
+  "instruction": {
+   "Number of Guests": "8",
+   "Start date": "February 28",
+   " geographic location": "cork, ireland",
+   "End date": "March 22",
+   "ANSWER": "18"
+  }
+ },
+ "2c8d64dc83": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "02/20/2017",
+   " geographic location": "Raleigh, NC",
+   "End date": "02/23/2017",
+   "ANSWER": "https://www.airbnb.com/rooms/17192410?checkin=02%2F20%2F2017&checkout=02%2F23%2F2017&guests=4&adults=4&children=0&infants=0&s=xeotkJIG"
+  }
+ },
+ "4f884e2d41": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Butler PA, United States",
+   "End date": "2/27/17",
+   "Start date": "2/26/2017",
+   "ANSWER": "35 options"
+  }
+ },
+ "a08d5c1f12": {
+  "instruction": {
+   "Number of Guests": "5",
+   "Start date": "April 12",
+   " geographic location": "A Coruna, Spain",
+   "End date": "April 27",
+   "ANSWER": "42"
+  }
+ },
+ "e74a7c43ee": {
+  "instruction": {
+   "Number of Guests": "1 guest",
+   "Start date": "02/20/17",
+   " geographic location": "Dallas, TX, United States",
+   "End date": "02/23/17",
+   "ANSWER": "17 rentals"
+  }
+ },
+ "e24fa1ed91": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/03/2017",
+   " geographic location": "Columbia, SC",
+   "End date": "03/05/2017",
+   "ANSWER": "136 options https://www.airbnb.com/s/Columbia--SC--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJ49ExeWml-IgRlvp5s_QIKPM&checkin=03%2F03%2F2017&checkout=03%2F05%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=2pyoyuxi"
+  }
+ },
+ "4ea1e8590b": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "02/20/2017",
+   " geographic location": "Myrtle Beach, SC",
+   "End date": "02/23/2017",
+   "ANSWER": "https://www.airbnb.com/rooms/13586684?checkin=02%2F20%2F2017&checkout=02%2F23%2F2017&guests=4&adults=4&children=0&infants=0&s=sHkkRTAY"
+  }
+ },
+ "6b70c76f83": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "3/18/2017",
+   " geographic location": "Dana Point, CA, United States",
+   "End date": "3/19/2017",
+   "ANSWER": "152 options"
+  }
+ },
+ "c8502e458a": {
+  "instruction": {
+   "Number of Guests": "3",
+   "Start date": "02/24/2017",
+   " geographic location": "Fort Collins, CO",
+   "End date": "02/26/2017",
+   "ANSWER": "https://www.airbnb.com/s/Fort-Collins--CO--United-States?guests=3&adults=3&checkin=02%2F24%2F2017&checkout=02%2F26%2F2017&source=bb&page=1&allow_override%5B%5D=&place_id=ChIJrTDwkEVKaYcRgkCrtChCsak&s_tag=ntg5NDgp"
+  }
+ },
+ "03eb5bee7f": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "02/12/2017",
+   " geographic location": "Dubai - United Arab Emirates",
+   "End date": " 02/23/2017",
+   "ANSWER": "300+ Rentals \u00b7 Dubai"
+  }
+ },
+ "2152e20cf9": {
+  "instruction": {
+   "Number of Guests": "4",
+   " geographic location": "Bakersfield, CA, United States",
+   "End date": "3/10/2017",
+   "Start date": "3/6/2017",
+   "ANSWER": "18 options"
+  }
+ },
+ "b1aa8bfc3b": {
+  "instruction": {
+   "Number of Guests": "2 guests",
+   "Start date": "02/20/17",
+   " geographic location": "Sydney, Austrailia",
+   "End date": "02/28/17",
+   "ANSWER": "52 rentals"
+  }
+ },
+ "c927e71539": {
+  "instruction": {
+   "Number of Guests": "5",
+   " geographic location": "Berlin, Germany",
+   "End date": "02/25/2017",
+   "Start date": "02/20/2017",
+   "ANSWER": "Only 15% of homes are available for your travel dates."
+  }
+ },
+ "f9c6a352ae": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/24/2017",
+   " geographic location": "Paris, France",
+   "End date": "04/12/2017",
+   "ANSWER": "300+ Rentals \u00b7 Paris"
+  }
+ },
+ "383f890229": {
+  "instruction": {
+   "Number of Guests": "4",
+   " geographic location": "Austin, TX, United States",
+   "End date": "03/13/2017",
+   "Start date": "03/10/2017",
+   "ANSWER": "300+"
+  }
+ },
+ "72c1e8b1e1": {
+  "instruction": {
+   "Start date": "02/25/2017",
+   "End date": "03/05/2017",
+   " geographic location": "Melbourne, Victoria, Australia",
+   "Number of Guests": "3"
+  }
+ },
+ "addbc9a375": {
+  "instruction": {
+   "Number of Guests": "1",
+   " geographic location": "San Francisco, CA, United States",
+   "Start date": "02/15/2017",
+   "End date": "02/17/2017"
+  }
+ },
+ "dfc2dfcb0d": {
+  "instruction": {
+   "Start date": "02/20/2017",
+   "End date": "02/25/2017",
+   " geographic location": "Berlin, Germany",
+   "Number of Guests": "3"
+  }
+ },
+ "824eec5eb6": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "02/20/2017",
+   " geographic location": "St. Louis, MO",
+   "End date": "02/23/2017",
+   "ANSWER": "https://www.airbnb.com/rooms/15066774?checkin=02%2F20%2F2017&checkout=02%2F23%2F2017&guests=4&adults=4&children=0&infants=0"
+  }
+ },
+ "305d2a616d": {
+  "instruction": {
+   "Number of Guests": "3",
+   "Start date": "02/24/2017",
+   " geographic location": "Deadwood, SD",
+   "End date": "02/26/2017",
+   "ANSWER": "https://www.airbnb.com/s/Deadwood--SD--United-States?guests=3&adults=3&checkin=02%2F24%2F2017&checkout=02%2F26%2F2017&source=bb&page=1&allow_override%5B%5D=&place_id=ChIJVR7niB6kMlMRD1uAcN4DnT4&s_tag=GMBFj4"
+  }
+ },
+ "aaed91423e": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/10/2017",
+   " geographic location": "Boston, MA, United States",
+   "End date": "03/13/2017",
+   "ANSWER": "300+"
+  }
+ },
+ "347694d55b": {
+  "instruction": {
+   "Number of Guests": "5",
+   " geographic location": "Chicago, IL, United States",
+   "End date": "03/27/2017",
+   "Start date": "03/20/2017",
+   "ANSWER": "300+ Rentals \u00b7 Chicago"
+  }
+ },
+ "721bf1c368": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/03/2017",
+   " geographic location": "Knoxville, TN",
+   "End date": "03/05/2017",
+   "ANSWER": "300+ options https://www.airbnb.com/s/Knoxville--TN--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJqULORiIWXIgRxTT1xNqS6ns&checkin=03%2F03%2F2017&checkout=03%2F05%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=T3AAGQAk"
+  }
+ },
+ "b9cd8f262c": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "3/6/2017",
+   " geographic location": "Rochester, NY, United States",
+   "End date": "3/10/2017",
+   "ANSWER": "76 options"
+  }
+ },
+ "299f955451": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Washington DC ",
+   "End date": "5/13/17",
+   "Start date": "5/1/17",
+   "ANSWER": "https://www.airbnb.com/s/Washington--DC--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJW-T2Wt7Gt4kRKl2I1CJFUsI&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=FY08EwNv"
+  }
+ },
+ "8cf0727bf5": {
+  "instruction": {
+   "Number of Guests": "1 guest",
+   "Start date": "02/20/17",
+   " geographic location": "Maui, HI, Unites States",
+   "End date": "02/23/17",
+   "ANSWER": "49 rentals"
+  }
+ },
+ "190cbfdd1b": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "02/25/2017",
+   " geographic location": "Savannah, GA, United States",
+   "End date": "02/26/2017",
+   "ANSWER": "9 available"
+  }
+ },
+ "8115434169": {
+  "instruction": {
+   "Number of Guests": "1",
+   "Start date": "02/17/2017",
+   " geographic location": "Toronto, ON, Canada",
+   "End date": "02/28/2017"
+  }
+ },
+ "31e615a56f": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "2/26/2017",
+   " geographic location": "Buffalo, NY, United States",
+   "End date": "2/27/17",
+   "ANSWER": "306 options"
+  }
+ },
+ "3cd7194a6b": {
+  "instruction": {
+   "Number of Guests": "4",
+   "Start date": "02/20/2017",
+   " geographic location": "Jackson, MS",
+   "End date": "02/23/2017",
+   "ANSWER": "https://www.airbnb.com/rooms/15025434?checkin=02%2F20%2F2017&checkout=02%2F23%2F2017&guests=4&adults=4&children=0&infants=0&s=rXcNO_3t"
+  }
+ },
+ "c1e9ec2277": {
+  "instruction": {
+   "Number of Guests": "2",
+   " geographic location": "Santa Fe nm",
+   "End date": "5/3/17",
+   "Start date": "5/1/17",
+   "ANSWER": "https://www.airbnb.com/s/Santa-Fe--NM--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJqVKY50NQGIcRQN-I_XMjkIw&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=t7X5qgfr"
+  }
+ },
+ "4985bc331e": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "2/20/2017",
+   " geographic location": "Pittsburgh, PA, United States",
+   "End date": "2/25/17",
+   "ANSWER": "261 options"
+  }
+ },
+ "e4b6be5746": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "5/1/17",
+   " geographic location": "Taos nm",
+   "End date": "5/3/17",
+   "ANSWER": "https://www.airbnb.com/s/Taos--NM--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJsfwRf9pkF4cRgrepYYOR6pA&checkin=05%2F01%2F2017&checkout=05%2F03%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=jCNhEfTa"
+  }
+ },
+ "196c0415db": {
+  "instruction": {
+   "Start date": "02/21/2017",
+   "End date": "03/02/2017",
+   " geographic location": "Vantaa, Finland",
+   "Number of Guests": "2"
+  }
+ },
+ "88326e5b7f": {
+  "instruction": {
+   "Number of Guests": "2",
+   "Start date": "03/03/2017",
+   " geographic location": "Summerville, SC",
+   "End date": "03/05/2017",
+   "ANSWER": "146 options https://www.airbnb.com/s/Summerville--SC--United-States?guests=2&adults=2&children=0&infants=0&place_id=ChIJS-PnE8T0_ogRT00GKCN5IgE&checkin=03%2F03%2F2017&checkout=03%2F05%2F2017&source=bb&page=1&allow_override%5B%5D=&s_tag=O04zQUfk"
+  }
+ }
+}

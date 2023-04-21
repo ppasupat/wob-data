@@ -1,0 +1,62 @@
+{
+ "44c73c8bc1": {
+  "instruction": {
+   "college or university": "Vassar College",
+   "academic subject": "French"
+  }
+ },
+ "63ca4b6a60": {
+  "instruction": {
+   "college or university": "Stanford University",
+   "academic subject": "English"
+  }
+ },
+ "01db41cf64": {
+  "instruction": {
+   "college or university": "Harvard University",
+   "academic subject": "history"
+  }
+ },
+ "0ad716970b": {
+  "instruction": {
+   "college or university": "UCLA",
+   "academic subject": "chemistry"
+  }
+ },
+ "7a9c0cbb36": {
+  "instruction": {
+   "college or university": "Arizona State University",
+   "academic subject": "mechanical engineering"
+  }
+ },
+ "49c8ccf97d": {
+  "instruction": {
+   "college or university": "Indiana University",
+   "academic subject": "biology"
+  }
+ },
+ "f2a4b98411": {
+  "instruction": {
+   "college or university": "Princeton University",
+   "academic subject": "computer science"
+  }
+ },
+ "cb883e63c1": {
+  "instruction": {
+   "college or university": "Yale University",
+   "academic subject": "political science"
+  }
+ },
+ "19e13a54ce": {
+  "instruction": {
+   "college or university": "New York University",
+   "academic subject": "comparative literature"
+  }
+ },
+ "47245c2f73": {
+  "instruction": {
+   "college or university": "MIT",
+   "academic subject": "anthropology"
+  }
+ }
+}

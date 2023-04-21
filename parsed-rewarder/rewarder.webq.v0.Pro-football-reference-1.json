@@ -1,0 +1,1000 @@
+{
+ "22bf84ca12": {
+  "instruction": {
+   "Cmp%": "71",
+   "Yds": "3000",
+   "ANSWER": "Sam Bradford"
+  }
+ },
+ "112d68c54e": {
+  "instruction": {
+   "Cmp%": "59",
+   "ANSWER": "Colin Kaepernick",
+   "Yds": "2240"
+  }
+ },
+ "b5b9f95c60": {
+  "instruction": {
+   "Cmp%": "67",
+   "ANSWER": "Alex Smith",
+   "Yds": "3500"
+  }
+ },
+ "efcfc80180": {
+  "instruction": {
+   "Cmp%": "72",
+   "ANSWER": "Trevone Boykin",
+   "Yds": "140"
+  }
+ },
+ "70058866ae": {
+  "instruction": {
+   "Cmp%": "67%",
+   "Yds": "3000",
+   "ANSWER": "Tom Brady"
+  }
+ },
+ "958c092e18": {
+  "instruction": {
+   "Cmp%": "67",
+   "Yds": "3500",
+   "ANSWER": "Alex Smith"
+  }
+ },
+ "ec1364e609": {
+  "instruction": {
+   "Cmp%": "90",
+   "Yds": "70",
+   "ANSWER": "Mike Glennon"
+  }
+ },
+ "1c3bf5c615": {
+  "instruction": {
+   "Cmp%": "65.7",
+   "Yds": "4428",
+   "ANSWER": "http://www.pro-football-reference.com/players/R/RodgAa00.htm"
+  }
+ },
+ "21d9e51f36": {
+  "instruction": {
+   "Cmp%": "67",
+   "Yds": "4000"
+  }
+ },
+ "075226859d": {
+  "instruction": {
+   "Cmp%": "62%",
+   "ANSWER": "Andrew Luck",
+   "Yds": "4000"
+  }
+ },
+ "96fb4e1708": {
+  "instruction": {
+   "Cmp%": "65",
+   "ANSWER": "Kirk Cousins",
+   "Yds": "4500"
+  }
+ },
+ "25d9763788": {
+  "instruction": {
+   "Cmp%": "64",
+   "Yds": "3000"
+  }
+ },
+ "bc324a04f3": {
+  "instruction": {
+   "Cmp%": "65",
+   "ANSWER": "Matthew Stafford",
+   "Yds": "4300"
+  }
+ },
+ "ff7366f418": {
+  "instruction": {
+   "Cmp%": "63",
+   "ANSWER": "Derek Carr",
+   "Yds": "3000"
+  }
+ },
+ "f8b0d84e86": {
+  "instruction": {
+   "Cmp%": "67",
+   "ANSWER": "Dak Prescott",
+   "Yds": "3000"
+  }
+ },
+ "80b8c0169d": {
+  "instruction": {
+   "Cmp%": "62",
+   "ANSWER": "Joe Flacco",
+   "Yds": "4300"
+  }
+ },
+ "313c553f2b": {
+  "instruction": {
+   "Cmp%": "64%",
+   "Yds": "3000",
+   "ANSWER": "Ben Roethlisberger"
+  }
+ },
+ "243a31b4bf": {
+  "instruction": {
+   "Cmp%": "60",
+   "ANSWER": "Derek Carr",
+   "Yds": "3500"
+  }
+ },
+ "137f326b93": {
+  "instruction": {
+   "Cmp%": "69",
+   "Yds": "4900",
+   "ANSWER": "Matt Ryan"
+  }
+ },
+ "163441a13e": {
+  "instruction": {
+   "Cmp%": "65.7",
+   "ANSWER": "http://www.pro-football-reference.com/players/R/RodgAa00.htm",
+   "Yds": "4428"
+  }
+ },
+ "fe6877b329": {
+  "instruction": {
+   "Cmp%": "64",
+   "Yds": "4200",
+   "ANSWER": "Andy Dalton"
+  }
+ },
+ "40730ee6a9": {
+  "instruction": {
+   "Cmp%": "70",
+   "ANSWER": "Drew Brees",
+   "Yds": "5000"
+  }
+ },
+ "76c6742df0": {
+  "instruction": {
+   "Cmp%": "50",
+   "Yds": "3500",
+   "ANSWER": "Cam Newton"
+  }
+ },
+ "9382548f1f": {
+  "instruction": {
+   "Cmp%": "63",
+   "Yds": "3000"
+  }
+ },
+ "49b19a22ea": {
+  "instruction": {
+   "Cmp%": "67",
+   "Yds": "3000",
+   "ANSWER": "Dak Prescott"
+  }
+ },
+ "3404a6294b": {
+  "instruction": {
+   "Cmp%": "60",
+   "ANSWER": "Phillip Rivers",
+   "Yds": "4380"
+  }
+ },
+ "da36fcb0a2": {
+  "instruction": {
+   "Cmp%": "62",
+   "Yds": "4300",
+   "ANSWER": "Joe Flacco"
+  }
+ },
+ "fcd74303ac": {
+  "instruction": {
+   "Cmp%": "70%",
+   "Yds": "5000",
+   "ANSWER": "Drew Brees"
+  }
+ },
+ "2ba0a3dd48": {
+  "instruction": {
+   "Cmp%": "65",
+   "Yds": "4000"
+  }
+ },
+ "356590ce5a": {
+  "instruction": {
+   "Cmp%": "66",
+   "ANSWER": "Connor Cook",
+   "Yds": "100"
+  }
+ },
+ "2d9ab813d9": {
+  "instruction": {
+   "Cmp%": "42",
+   "ANSWER": "EJ Manuel",
+   "Yds": "100"
+  }
+ },
+ "ae6b16662a": {
+  "instruction": {
+   "Cmp%": "60",
+   "ANSWER": "Carson Palmer",
+   "Yds": "3800"
+  }
+ },
+ "e8be9f4f55": {
+  "instruction": {
+   "Cmp%": "63",
+   "Yds": "3000",
+   "ANSWER": "Derek Carr"
+  }
+ },
+ "c81e2e9d94": {
+  "instruction": {
+   "Cmp%": "64",
+   "Yds": "4300",
+   "ANSWER": "Joe Flacco"
+  }
+ },
+ "e655616784": {
+  "instruction": {
+   "Cmp%": "57",
+   "ANSWER": "Geno Smith",
+   "Yds": "120"
+  }
+ },
+ "bcc7351cbb": {
+  "instruction": {
+   "Cmp%": "60",
+   "Yds": "3800",
+   "ANSWER": "Carson Palmer"
+  }
+ },
+ "7e64547c90": {
+  "instruction": {
+   "Cmp%": "64",
+   "ANSWER": "Joe Flacco",
+   "Yds": "4000"
+  }
+ },
+ "c2aa698635": {
+  "instruction": {
+   "Cmp%": "62",
+   "Yds": "3000"
+  }
+ },
+ "901a6de883": {
+  "instruction": {
+   "Cmp%": "71",
+   "ANSWER": "Sam Bradford",
+   "Yds": "3875"
+  }
+ },
+ "08d5b94cf8": {
+  "instruction": {
+   "Cmp%": "67",
+   "Yds": "2000",
+   "ANSWER": "Ryan Tannehill"
+  }
+ },
+ "fd807d0cd5": {
+  "instruction": {
+   "Cmp%": "61.0",
+   "ANSWER": "http://www.pro-football-reference.com/players/P/PalmCa00.htm",
+   "Yds": "4233"
+  }
+ },
+ "af13e0cd8f": {
+  "instruction": {
+   "Cmp%": "64",
+   "ANSWER": "Joe Flacco",
+   "Yds": "4300"
+  }
+ },
+ "0f1ac905ad": {
+  "instruction": {
+   "Cmp%": "65",
+   "Yds": "5000"
+  }
+ },
+ "ae43824aae": {
+  "instruction": {
+   "Cmp%": "64",
+   "Yds": "4000",
+   "ANSWER": "Joe Flacco"
+  }
+ },
+ "6dd2a48454": {
+  "instruction": {
+   "Cmp%": "67%",
+   "Yds": "3000",
+   "ANSWER": "Dak Prescott"
+  }
+ },
+ "86299d9917": {
+  "instruction": {
+   "Cmp%": "63.0",
+   "ANSWER": "http://www.pro-football-reference.com/players/M/MannEl00.htm",
+   "Yds": "4027"
+  }
+ },
+ "0f385f9a63": {
+  "instruction": {
+   "Cmp%": "69",
+   "ANSWER": "Matt Ryan",
+   "Yds": "4000"
+  }
+ },
+ "99ca79f12c": {
+  "instruction": {
+   "Cmp%": "67%",
+   "Yds": "3000",
+   "ANSWER": "Alex Smith"
+  }
+ },
+ "3f4d7077fa": {
+  "instruction": {
+   "Cmp%": "69%",
+   "ANSWER": "Matt Ryan",
+   "Yds": "4000"
+  }
+ },
+ "017d3ed270": {
+  "instruction": {
+   "Cmp%": "65.3",
+   "Yds": "4327",
+   "ANSWER": "http://www.pro-football-reference.com/players/S/StafMa00.htm"
+  }
+ },
+ "f5d1bb632e": {
+  "instruction": {
+   "Cmp%": "90",
+   "ANSWER": "Mike Glennon",
+   "Yds": "70"
+  }
+ },
+ "7cc22dc4a6": {
+  "instruction": {
+   "Cmp%": "64",
+   "ANSWER": "Aaron Rodgers",
+   "Yds": "4200"
+  }
+ },
+ "6e374d66e7": {
+  "instruction": {
+   "Cmp%": "65",
+   "Yds": "4300",
+   "ANSWER": "Matthew Stafford"
+  }
+ },
+ "059def1315": {
+  "instruction": {
+   "Cmp%": "61.0",
+   "Yds": "4233",
+   "ANSWER": "http://www.pro-football-reference.com/players/P/PalmCa00.htm"
+  }
+ },
+ "8f319e7413": {
+  "instruction": {
+   "Cmp%": "65",
+   "Yds": "4400",
+   "ANSWER": "Aaron Rodgers"
+  }
+ },
+ "7879f5e32b": {
+  "instruction": {
+   "Cmp%": "59",
+   "Yds": "2240",
+   "ANSWER": "Colin Kaepernick"
+  }
+ },
+ "55a026cad0": {
+  "instruction": {
+   "Cmp%": "50",
+   "ANSWER": "Cam Newton",
+   "Yds": "3500"
+  }
+ },
+ "42aded2c10": {
+  "instruction": {
+   "Cmp%": "65",
+   "Yds": "400",
+   "ANSWER": "Nick Foles"
+  }
+ },
+ "3d364a3651": {
+  "instruction": {
+   "Cmp%": "62",
+   "Yds": "4000"
+  }
+ },
+ "d50af061b6": {
+  "instruction": {
+   "Cmp%": "55",
+   "ANSWER": "Terrelle Pryor",
+   "Yds": "40"
+  }
+ },
+ "aeacf2138c": {
+  "instruction": {
+   "Cmp%": "60",
+   "Yds": "4380",
+   "ANSWER": "Phillip Rivers"
+  }
+ },
+ "f4bcbc7ea4": {
+  "instruction": {
+   "Cmp%": "70",
+   "Yds": "5000",
+   "ANSWER": "Drew Brees"
+  }
+ },
+ "c1b17fb24f": {
+  "instruction": {
+   "Cmp%": "65",
+   "ANSWER": "Drew Brees",
+   "Yds": "5000"
+  }
+ },
+ "7517b25911": {
+  "instruction": {
+   "Cmp%": "63%",
+   "ANSWER": "Eli Manning",
+   "Yds": "3000"
+  }
+ },
+ "612478f317": {
+  "instruction": {
+   "Cmp%": "62%",
+   "Yds": "3000",
+   "ANSWER": "Carson Wentz"
+  }
+ },
+ "669a7b644f": {
+  "instruction": {
+   "Cmp%": "64.9",
+   "Yds": "4317",
+   "ANSWER": "http://www.pro-football-reference.com/players/F/FlacJo00.htm"
+  }
+ },
+ "913edc7e49": {
+  "instruction": {
+   "Cmp%": "61",
+   "Yds": "4000",
+   "ANSWER": "Eli Manning"
+  }
+ },
+ "2be6f72053": {
+  "instruction": {
+   "Cmp%": "72",
+   "Yds": "140",
+   "ANSWER": "Trevone Boykin"
+  }
+ },
+ "2c11bb6511": {
+  "instruction": {
+   "Cmp%": "69",
+   "Yds": "4000",
+   "ANSWER": "Matt Ryan"
+  }
+ },
+ "0fad5f48e9": {
+  "instruction": {
+   "Cmp%": "63%",
+   "Yds": "3000",
+   "ANSWER": "Eli Manning"
+  }
+ },
+ "a33b0a138f": {
+  "instruction": {
+   "Cmp%": "60",
+   "ANSWER": "Philip Rivers",
+   "Yds": "4000"
+  }
+ },
+ "4e0010e850": {
+  "instruction": {
+   "Cmp%": "67%",
+   "ANSWER": "Alex Smith",
+   "Yds": "3000"
+  }
+ },
+ "1600152215": {
+  "instruction": {
+   "Cmp%": "62.4",
+   "ANSWER": "http://www.pro-football-reference.com/players/W/WentCa00.htm",
+   "Yds": "3782"
+  }
+ },
+ "07d9ac480b": {
+  "instruction": {
+   "Cmp%": "63.0",
+   "Yds": "4027",
+   "ANSWER": "http://www.pro-football-reference.com/players/M/MannEl00.htm"
+  }
+ },
+ "bfdf6491b1": {
+  "instruction": {
+   "Cmp%": "67",
+   "ANSWER": "Ryan Tannehill",
+   "Yds": "2000"
+  }
+ },
+ "b5f823b3d5": {
+  "instruction": {
+   "Cmp%": "67%",
+   "ANSWER": "Tom Brady",
+   "Yds": "3000"
+  }
+ },
+ "f4b205b69a": {
+  "instruction": {
+   "Cmp%": "60",
+   "ANSWER": "Joe Flacco",
+   "Yds": "4000"
+  }
+ },
+ "58ad836c09": {
+  "instruction": {
+   "Cmp%": "57",
+   "Yds": "120",
+   "ANSWER": "Geno Smith"
+  }
+ },
+ "58f93ae472": {
+  "instruction": {
+   "Cmp%": "65",
+   "ANSWER": "Aaron Rodgers",
+   "Yds": "4000"
+  }
+ },
+ "cf2fe7e666": {
+  "instruction": {
+   "Cmp%": "67%",
+   "Yds": "4000",
+   "ANSWER": "Kirk Cousins"
+  }
+ },
+ "52d603c8fc": {
+  "instruction": {
+   "Cmp%": "64",
+   "ANSWER": "Andy Dalton",
+   "Yds": "4200"
+  }
+ },
+ "230c31d0a9": {
+  "instruction": {
+   "Cmp%": "67%",
+   "ANSWER": "Kirk Cousins",
+   "Yds": "4900"
+  }
+ },
+ "b0c9acbc1d": {
+  "instruction": {
+   "Cmp%": "64%",
+   "Yds": "4000",
+   "ANSWER": "Andy Dalton"
+  }
+ },
+ "2f6b53ac21": {
+  "instruction": {
+   "Cmp%": "65",
+   "ANSWER": "Aaron Rodgers",
+   "Yds": "4400"
+  }
+ },
+ "15d7950349": {
+  "instruction": {
+   "Cmp%": "70.0",
+   "ANSWER": "http://www.pro-football-reference.com/players/B/BreeDr00.htm",
+   "Yds": "5208"
+  }
+ },
+ "45849011fd": {
+  "instruction": {
+   "Cmp%": "71",
+   "ANSWER": "Sam Bradford",
+   "Yds": "3000"
+  }
+ },
+ "e2a5ecadec": {
+  "instruction": {
+   "Cmp%": "64.9",
+   "ANSWER": "http://www.pro-football-reference.com/players/F/FlacJo00.htm",
+   "Yds": "4317"
+  }
+ },
+ "e2cd74a050": {
+  "instruction": {
+   "Cmp%": "65",
+   "Yds": "4000",
+   "ANSWER": "Aaron Rodgers"
+  }
+ },
+ "afa7c78eaf": {
+  "instruction": {
+   "Cmp%": "55",
+   "Yds": "40",
+   "ANSWER": "Terrelle Pryor"
+  }
+ },
+ "1d8c601561": {
+  "instruction": {
+   "Cmp%": "66",
+   "ANSWER": "Kirk Cousins",
+   "Yds": "4000"
+  }
+ },
+ "c0fd2b34e2": {
+  "instruction": {
+   "Cmp%": "62%",
+   "Yds": "4000",
+   "ANSWER": "Andrew Luck"
+  }
+ },
+ "93a7a3a78e": {
+  "instruction": {
+   "Cmp%": "65",
+   "Yds": "5000",
+   "ANSWER": "Drew Brees"
+  }
+ },
+ "9149fdce31": {
+  "instruction": {
+   "Cmp%": "65",
+   "Yds": "4500",
+   "ANSWER": "Kirk Cousins"
+  }
+ },
+ "b4ab18cf1b": {
+  "instruction": {
+   "Cmp%": "69%",
+   "Yds": "4000",
+   "ANSWER": "Matt Ryan"
+  }
+ },
+ "b4f92b95d0": {
+  "instruction": {
+   "Cmp%": "59",
+   "ANSWER": "Trevor Siemian",
+   "Yds": "3400"
+  }
+ },
+ "39030f97fa": {
+  "instruction": {
+   "Cmp%": "63",
+   "ANSWER": "Eli Manning",
+   "Yds": "4000"
+  }
+ },
+ "16d3a686e9": {
+  "instruction": {
+   "Cmp%": "64%",
+   "ANSWER": "Andy Dalton",
+   "Yds": "4000"
+  }
+ },
+ "2594f083d3": {
+  "instruction": {
+   "Cmp%": "60",
+   "ANSWER": "Jameis Winston",
+   "Yds": "4000"
+  }
+ },
+ "22f6f3766d": {
+  "instruction": {
+   "Cmp%": "67%",
+   "ANSWER": "Dak Prescott",
+   "Yds": "3000"
+  }
+ },
+ "30907fbcbc": {
+  "instruction": {
+   "Cmp%": "66",
+   "Yds": "4000",
+   "ANSWER": "Kirk Cousins"
+  }
+ },
+ "fcca48bddc": {
+  "instruction": {
+   "Cmp%": "65",
+   "ANSWER": "Matthew Stafford",
+   "Yds": "4000"
+  }
+ },
+ "829004cb7e": {
+  "instruction": {
+   "Cmp%": "70",
+   "ANSWER": "Derw Brees",
+   "Yds": "5000"
+  }
+ },
+ "2d0492e6ba": {
+  "instruction": {
+   "Cmp%": "62",
+   "Yds": "3000",
+   "ANSWER": "Carson Wentz"
+  }
+ },
+ "e78bb7ef45": {
+  "instruction": {
+   "Cmp%": "63",
+   "ANSWER": "Derek Carr",
+   "Yds": "3935"
+  }
+ },
+ "a69ae9b7d1": {
+  "instruction": {
+   "Cmp%": "67",
+   "ANSWER": "Tom Brady",
+   "Yds": "3000"
+  }
+ },
+ "310f4ea23b": {
+  "instruction": {
+   "Cmp%": "67.0",
+   "Yds": "4917",
+   "ANSWER": "http://www.pro-football-reference.com/players/C/CousKi00.htm"
+  }
+ },
+ "bc054f069b": {
+  "instruction": {
+   "Cmp%": "64",
+   "Yds": "4200",
+   "ANSWER": "Aaron Rodgers"
+  }
+ },
+ "fd2d03bd1c": {
+  "instruction": {
+   "Cmp%": "62",
+   "ANSWER": "Carson Wentz",
+   "Yds": "3000"
+  }
+ },
+ "554d5f6c3f": {
+  "instruction": {
+   "Cmp%": "66",
+   "Yds": "3000"
+  }
+ },
+ "e1598f6df1": {
+  "instruction": {
+   "Cmp%": "67.0",
+   "ANSWER": "http://www.pro-football-reference.com/players/C/CousKi00.htm",
+   "Yds": "4917"
+  }
+ },
+ "2d906e4cab": {
+  "instruction": {
+   "Cmp%": "69",
+   "ANSWER": "Drew Brees",
+   "Yds": "5000"
+  }
+ },
+ "e6f87047ec": {
+  "instruction": {
+   "Cmp%": "63",
+   "Yds": "3935",
+   "ANSWER": "Derek Carr"
+  }
+ },
+ "12a624852d": {
+  "instruction": {
+   "Cmp%": "70.0",
+   "Yds": "5208",
+   "ANSWER": "http://www.pro-football-reference.com/players/B/BreeDr00.htm"
+  }
+ },
+ "2a447fc2ae": {
+  "instruction": {
+   "Cmp%": "63",
+   "ANSWER": "Andrew Luck",
+   "Yds": "4000"
+  }
+ },
+ "5d4cda9c2e": {
+  "instruction": {
+   "Cmp%": "60",
+   "ANSWER": "Tyrod Taylor",
+   "Yds": "3000"
+  }
+ },
+ "73ff898a31": {
+  "instruction": {
+   "Cmp%": "67%",
+   "Yds": "4900",
+   "ANSWER": "Kirk Cousins"
+  }
+ },
+ "47276f9b25": {
+  "instruction": {
+   "Cmp%": "60.4",
+   "ANSWER": "http://www.pro-football-reference.com/players/R/RivePh00.htm",
+   "Yds": "4386"
+  }
+ },
+ "d1b6c98d2e": {
+  "instruction": {
+   "Cmp%": "42",
+   "Yds": "100",
+   "ANSWER": "EJ Manuel"
+  }
+ },
+ "f0be4cf04e": {
+  "instruction": {
+   "Cmp%": "65.3",
+   "ANSWER": "http://www.pro-football-reference.com/players/S/StafMa00.htm",
+   "Yds": "4327"
+  }
+ },
+ "508156a76f": {
+  "instruction": {
+   "Cmp%": "60.4",
+   "Yds": "4386",
+   "ANSWER": "http://www.pro-football-reference.com/players/R/RivePh00.htm"
+  }
+ },
+ "c99930d165": {
+  "instruction": {
+   "Cmp%": "67%",
+   "ANSWER": "Kirk Cousins",
+   "Yds": "4000"
+  }
+ },
+ "2ec6d24777": {
+  "instruction": {
+   "Cmp%": "58.9",
+   "Yds": "3905",
+   "ANSWER": "http://www.pro-football-reference.com/players/B/BortBl00.htm"
+  }
+ },
+ "6cf70f1b55": {
+  "instruction": {
+   "Cmp%": "70%",
+   "ANSWER": "Drew Brees",
+   "Yds": "5000"
+  }
+ },
+ "e06f6b1de7": {
+  "instruction": {
+   "Cmp%": "69",
+   "ANSWER": "Matt Ryan",
+   "Yds": "4900"
+  }
+ },
+ "3d903d3660": {
+  "instruction": {
+   "Cmp%": "65",
+   "ANSWER": "Nick Foles",
+   "Yds": "400"
+  }
+ },
+ "f9399d1179": {
+  "instruction": {
+   "Cmp%": "63",
+   "Yds": "4000",
+   "ANSWER": "Andrew Luck"
+  }
+ },
+ "d7a6eb7259": {
+  "instruction": {
+   "Cmp%": "64%",
+   "ANSWER": "Ben Roethlisberger",
+   "Yds": "3000"
+  }
+ },
+ "24dfcd5496": {
+  "instruction": {
+   "Cmp%": "62.4",
+   "Yds": "3782",
+   "ANSWER": "http://www.pro-football-reference.com/players/W/WentCa00.htm"
+  }
+ },
+ "1740f2ce06": {
+  "instruction": {
+   "Cmp%": "58.9",
+   "ANSWER": "http://www.pro-football-reference.com/players/B/BortBl00.htm",
+   "Yds": "3905"
+  }
+ },
+ "0809db0469": {
+  "instruction": {
+   "Cmp%": "71",
+   "Yds": "3875",
+   "ANSWER": "Sam Bradford"
+  }
+ },
+ "4cc27138a1": {
+  "instruction": {
+   "Cmp%": "61",
+   "ANSWER": "Eli Manning",
+   "Yds": "4000"
+  }
+ },
+ "cc0e2b1d72": {
+  "instruction": {
+   "Cmp%": "66",
+   "Yds": "100",
+   "ANSWER": "Connor Cook"
+  }
+ },
+ "17a01a3314": {
+  "instruction": {
+   "Cmp%": "60",
+   "Yds": "3500",
+   "ANSWER": "Derek Carr"
+  }
+ },
+ "0a9fcdfb33": {
+  "instruction": {
+   "Cmp%": "62%",
+   "ANSWER": "Carson Wentz",
+   "Yds": "3000"
+  }
+ },
+ "d451969eeb": {
+  "instruction": {
+   "Cmp%": "66",
+   "Yds": "4000"
+  }
+ },
+ "522bc5beac": {
+  "instruction": {
+   "Cmp%": "60",
+   "Yds": "4000",
+   "ANSWER": "Philip Rivers"
+  }
+ },
+ "e15982f57b": {
+  "instruction": {
+   "Cmp%": "65",
+   "Yds": "3000"
+  }
+ },
+ "cedaed43bb": {
+  "instruction": {
+   "Cmp%": "65",
+   "Yds": "4000",
+   "ANSWER": "Matthew Stafford"
+  }
+ },
+ "fa21811fe1": {
+  "instruction": {
+   "Cmp%": "56",
+   "ANSWER": "Ryan Fitzpatrick ",
+   "Yds": "2000"
+  }
+ },
+ "27a40cd488": {
+  "instruction": {
+   "Cmp%": "60",
+   "ANSWER": "Case Keenum",
+   "Yds": "2000"
+  }
+ },
+ "15b37b845b": {
+  "instruction": {
+   "Cmp%": "65",
+   "ANSWER": "Ryan Tannehill",
+   "Yds": "2500"
+  }
+ },
+ "f741221928": {
+  "instruction": {
+   "Cmp%": "70",
+   "ANSWER": "Sam Bradford",
+   "Yds": "3500"
+  }
+ },
+ "ff5bbc4de0": {
+  "instruction": {
+   "Cmp%": "56",
+   "ANSWER": "Ryan Fitzpatrick",
+   "Yds": "2700"
+  }
+ },
+ "9686a72b66": {
+  "instruction": {
+   "Cmp%": "60",
+   "ANSWER": "Ben Roethlisberger",
+   "Yds": "3500"
+  }
+ }
+}

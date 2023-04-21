@@ -1,0 +1,92 @@
+{
+ "bb57983d30": {
+  "instruction": {
+   "check out date": "June 30, 2017",
+   "geographical location": "Pueblo, CO",
+   "check in date": "June 14, 2017",
+   "types of amenities": "kitchen, wireless internet, self check-in",
+   "number of guests": "2"
+  }
+ },
+ "338df59a3a": {
+  "instruction": {
+   "check out date": "December 30, 2017",
+   "geographical location": "New Zealand",
+   "check in date": "December 15, 2017",
+   "types of amenities": "air conditioning, wireless internet, breakfast, heating",
+   "number of guests": "5"
+  }
+ },
+ "1bf2d32af7": {
+  "instruction": {
+   "check out date": "September 28, 2017",
+   "geographical location": "Ontario, Canada",
+   "check in date": "September 19, 2017",
+   "types of amenities": "cable tv, family/kid friendly, kitchen",
+   "number of guests": "3"
+  }
+ },
+ "ab7d205403": {
+  "instruction": {
+   "check out date": "March 6, 2017",
+   "geographical location": "Talahassee, FL",
+   "check in date": "February 28, 2017",
+   "types of amenities": "cable tv, wireless internet",
+   "number of guests": "2"
+  }
+ },
+ "fb2a5d5386": {
+  "instruction": {
+   "check out date": "June 15, 2017",
+   "geographical location": "Hawaii, USA",
+   "check in date": "June 8, 2017",
+   "types of amenities": "wireless internet, family/kid friendly, self check-in",
+   "number of guests": "6"
+  }
+ },
+ "1fbce162f6": {
+  "instruction": {
+   "check out date": "May 24, 2017",
+   "geographical location": "Los Angeles, CA",
+   "check in date": "May 20, 2017",
+   "types of amenities": "breakfast, hair dryer, kitchen",
+   "number of guests": "1"
+  }
+ },
+ "67a718895a": {
+  "instruction": {
+   "check out date": "March 20, 2017",
+   "geographical location": "Japan",
+   "check in date": "March 3, 2017",
+   "types of amenities": "internet, cable tv, washer, dryer, kitchen",
+   "number of guests": "12"
+  }
+ },
+ "f43e831f74": {
+  "instruction": {
+   "check out date": "April 14, 2017",
+   "geographical location": "Paris, France",
+   "check in date": "April 2, 2017",
+   "types of amenities": "kitchen, air conditioning, washer, dryer",
+   "number of guests": "4"
+  }
+ },
+ "b549c0e7ff": {
+  "instruction": {
+   "check out date": "May 6, 2017",
+   "geographical location": "San Francisco, CA",
+   "check in date": "May 4, 2017",
+   "types of amenities": "kitchen, washer, dryer, laptop friendly workspace",
+   "number of guests": "9"
+  }
+ },
+ "f7c9f6a494": {
+  "instruction": {
+   "check out date": "November 8, 2017",
+   "geographical location": "New York, NY",
+   "check in date": "November 2, 2017",
+   "types of amenities": "cable tv, iron, indoor fireplace, heating",
+   "number of guests": "4"
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "dc6ec9b26a": {
+  "instruction": {
+   "car make & model": "Ford Fusion",
+   "zipcode": "90912"
+  }
+ },
+ "8497532c8f": {
+  "instruction": {
+   "car make & model": "Honda Civic",
+   "zipcode": "22401"
+  }
+ },
+ "8a7a52cd24": {
+  "instruction": {
+   "car make & model": "Ford F-150",
+   "zipcode": "42633"
+  }
+ },
+ "9bf9c4cb0f": {
+  "instruction": {
+   "car make & model": "Toyota Corolla",
+   "zipcode": "22508"
+  }
+ },
+ "eea8f0a99e": {
+  "instruction": {
+   "car make & model": "Hyundai Sonata",
+   "zipcode": "22503"
+  }
+ },
+ "29e58a62c8": {
+  "instruction": {
+   "car make & model": "Honda Accord",
+   "zipcode": "40601"
+  }
+ },
+ "41f1a0b778": {
+  "instruction": {
+   "car make & model": "Toyota Camry",
+   "zipcode": "42631"
+  }
+ },
+ "6769a0d5e3": {
+  "instruction": {
+   "car make & model": "Hyundai Elantra",
+   "zipcode": "61807"
+  }
+ },
+ "9f310d75bc": {
+  "instruction": {
+   "car make & model": "Chevrolet Tahoe",
+   "zipcode": "22507"
+  }
+ },
+ "56e9e108e9": {
+  "instruction": {
+   "car make & model": "Chevrolet Malibu",
+   "zipcode": "22409"
+  }
+ }
+}

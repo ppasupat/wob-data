@@ -1,0 +1,882 @@
+{
+ "f569e45793": {
+  "instruction": {
+   "Location": "Los Angeles, CA",
+   "ANSWER": "G-Station",
+   "food type": "Chicken"
+  }
+ },
+ "90f227b507": {
+  "instruction": {
+   "Location": "Boulder, CO",
+   "ANSWER": "3050 28th St, Boulder, CO, 80301",
+   "food type": "Kabab"
+  }
+ },
+ "1d7e7524f0": {
+  "instruction": {
+   "Location": "(the animal shelter)",
+   "ANSWER": "dogs",
+   "food type": "(pets)"
+  }
+ },
+ "f92a3425ce": {
+  "instruction": {
+   "Location": "Los Angeles",
+   "ANSWER": "Orange Door Sushi",
+   "food type": "Sushi"
+  }
+ },
+ "5b791ebf7f": {
+  "instruction": {
+   "Location": "Boston, MA",
+   "ANSWER": "India Quality",
+   "food type": "clam chowder"
+  }
+ },
+ "82e8d5e279": {
+  "instruction": {
+   "dollar amount": "10",
+   "geographic location": "Sacramento, CA"
+  }
+ },
+ "28f2673241": {
+  "instruction": {
+   "Location": "Atlanta, GA",
+   "ANSWER": "Smoothie King, Bento Hut, Baraka Shawarma, Marie's Ummat Cafe, Senor Patron, Kimi's Bistro",
+   "food type": "Smoothies"
+  }
+ },
+ "7b2c1d0642": {
+  "instruction": {
+   "Location": "Miami, FL",
+   "ANSWER": "NY Bagels and Deli",
+   "food type": "Deli Sandwiches"
+  }
+ },
+ "b4f5d3fe6f": {
+  "instruction": {
+   "Location": "New York, NY",
+   "ANSWER": "Scarpetta",
+   "food type": "Italian"
+  }
+ },
+ "7e3d0d36d3": {
+  "instruction": {
+   "Location": "San Antonio, TX",
+   "ANSWER": "Chama Ga\u00facha Brazilian Steakhouse",
+   "food type": "Steak"
+  }
+ },
+ "f90e42e3c7": {
+  "instruction": {
+   "Location": "Philadelphia, PA",
+   "ANSWER": "Del Rossi's Cheesesteak Company",
+   "food type": "Cheese Steak"
+  }
+ },
+ "84e5c90348": {
+  "instruction": {
+   "Location": "(los angeles)",
+   "ANSWER": "accounting",
+   "food type": "(work)"
+  }
+ },
+ "66b4db11b6": {
+  "instruction": {
+   "Location": "Las Vegas, NV",
+   "ANSWER": "Chronic Tacos",
+   "food type": "Tacos"
+  }
+ },
+ "732a9eb546": {
+  "instruction": {
+   "Location": "Asheville, NC",
+   "ANSWER": "Del-Vecchios",
+   "food type": "Gluten-Free"
+  }
+ },
+ "a68a5394f2": {
+  "instruction": {
+   "Location": "Portland, OR",
+   "ANSWER": "Kornblatt's New York Style Deli",
+   "food type": "Hot Corned Beef Sandwich"
+  }
+ },
+ "a7270ddfa4": {
+  "instruction": {
+   "Location": "New York, New York",
+   "ANSWER": "Cucina Liberta",
+   "food type": "Sushi"
+  }
+ },
+ "3b94ee0726": {
+  "instruction": {
+   "Location": "Maryville, TN",
+   "ANSWER": "Bella Roma Pizza",
+   "food type": "Pizza"
+  }
+ },
+ "2c3c8ab1ca": {
+  "instruction": {
+   "Location": "New Orleans, LA",
+   "ANSWER": "Belle's Diner",
+   "food type": "Cajun food"
+  }
+ },
+ "ae85b2b132": {
+  "instruction": {
+   "Location": "Hartford, CT",
+   "ANSWER": "Harvest Country Store, New York Market & Deli, Pitta Gourmet, Goldberg's Gourmet Bagels, The greenway Market, City Steam Brewery Cafe, Villa Milano's, Blue Plate Kitchen, South Whitney Pizza, The Place 2 Be, Sisson Ave Pizza, NY Pizza CT, A-1 Pizza, Charlie's Pizzeria, Pietro's Pizza & Restaurant, Choice One Pizza, Vaughan's Public House, J's Crab Shack, Kent Pizza, Wings Over Hartford-West, Windsor Pizza, Rizzuto's Restaruant & Bar, Umberto's Pizza & Grill, Aladdin Halal Pizza, Prospect Pizza, Dish Bar & Grill, City Pizza, Koma Steakhouse, NIXS Hartford, Top Taste Caribbean Bakery & Grill, West End Pizza, NY-NY Pizza",
+   "food type": "Sandwiches"
+  }
+ },
+ "cd01ea5067": {
+  "instruction": {
+   "Location": "Miami, FL",
+   "ANSWER": "Rice House of Kabob, The Baklava Factory, Eat Greek, Al Basha Grill, Cafe Tony, Elia Gourmet, Meraki Greek Bistro, Gyro House, NY bagels and Deli, Freshko Gourmet, Morgans Restaurant, City Juice Brikkel, Eat Greek Taverna, Clove Mediterranean Kitchen, Batch Gastropub",
+   "food type": "Hummus"
+  }
+ },
+ "bd663db39d": {
+  "instruction": {
+   "Location": "New York, NY",
+   "food type": "Tacos"
+  }
+ },
+ "f1a9a86bd9": {
+  "instruction": {
+   "dollar amount": "2",
+   "geographic location": "Garland, TX",
+   "ANSWER": "Pete's"
+  }
+ },
+ "355989491d": {
+  "instruction": {
+   "Location": "Chicago, IL",
+   "food type": "Spaghetti"
+  }
+ },
+ "509eb3b7fe": {
+  "instruction": {
+   "Location": "Memphis, TN",
+   "food type": "Sushi"
+  }
+ },
+ "e60a51bffb": {
+  "instruction": {
+   "dollar amount": "3",
+   "geographic location": "Torrance, CA"
+  }
+ },
+ "30f9db2103": {
+  "instruction": {
+   "Location": "Phoenix, AZ",
+   "ANSWER": "Italian Spoon",
+   "food type": "Italian food"
+  }
+ },
+ "05d0481aec": {
+  "instruction": {
+   "Location": "Miami, Fl",
+   "ANSWER": "Freshko Gourmet",
+   "food type": "coffee"
+  }
+ },
+ "c25de3aac3": {
+  "instruction": {
+   "Location": "Los Angeles, CA",
+   "ANSWER": "Taste of Universal",
+   "food type": "sushi"
+  }
+ },
+ "7b4cab481d": {
+  "instruction": {
+   "Location": "Portland, OR",
+   "ANSWER": "Portland Kettle",
+   "food type": "Beef Curry"
+  }
+ },
+ "50b4723448": {
+  "instruction": {
+   "dollar amount": "5",
+   "geographic location": "Hartfordn, CT",
+   "ANSWER": "Nolita Ristorante"
+  }
+ },
+ "b1bc23f3f8": {
+  "instruction": {
+   "Location": "Chicago, IL",
+   "ANSWER": "Superdawg Drive-In",
+   "food type": "Hot Dogs"
+  }
+ },
+ "e60c6e36b9": {
+  "instruction": {
+   "dollar amount": "3",
+   "geographic location": "Irving, TX",
+   "ANSWER": "City Pizza + Wings"
+  }
+ },
+ "134c800351": {
+  "instruction": {
+   "food type": "Chinese Food",
+   "Location": "Portland, Maine"
+  }
+ },
+ "54484c9c61": {
+  "instruction": {
+   "Location": "(the animal shelter)",
+   "ANSWER": "in the back",
+   "food type": "(cats)"
+  }
+ },
+ "bf7df53208": {
+  "instruction": {
+   "food type": "Hamburgers",
+   "Location": "Portland, Oregon"
+  }
+ },
+ "80e37c1285": {
+  "instruction": {
+   "Location": "Chicago, IL",
+   "ANSWER": "4254 W 31st St, Chicago, IL, 60623",
+   "food type": "Pizza"
+  }
+ },
+ "5b639e516f": {
+  "instruction": {
+   "dollar amount": "1",
+   "geographic location": "Inglewood, CA"
+  }
+ },
+ "81f5a3001f": {
+  "instruction": {
+   "Location": "(bakersfield)",
+   "ANSWER": "sizzlers",
+   "food type": "(dinner)"
+  }
+ },
+ "6bed2761e6": {
+  "instruction": {
+   "Location": "Orlando, FL",
+   "ANSWER": "Metro Espresso Pizza Cafe, I Love NY Pie, New Texas Fried Chicken II, Antonio's House of Pizza, Fratello's Restaurant, Anthonys Pizza, Anthony's Pizzeria, Gitto's Pizza, Tartini Pizzeria & Spaghetteria",
+   "food type": "Calzones"
+  }
+ },
+ "a2a3415cc7": {
+  "instruction": {
+   "Location": "(Lexington, KY)",
+   "ANSWER": "Lee's Garden",
+   "food type": "(Cantonese)"
+  }
+ },
+ "c8e870e5ea": {
+  "instruction": {
+   "Location": "(Lexington, KY)",
+   "ANSWER": "Chino's Dada",
+   "food type": "(wings)"
+  }
+ },
+ "21e179fb5c": {
+  "instruction": {
+   "Location": "(Lexington, KY)",
+   "ANSWER": "Great Wall",
+   "food type": "(asian)"
+  }
+ },
+ "0e825020b8": {
+  "instruction": {
+   "Location": "Las Vegas, NV",
+   "ANSWER": "Andiron Steak & Sea",
+   "food type": "Seafood"
+  }
+ },
+ "71d7e94c21": {
+  "instruction": {
+   "dollar amount": "5",
+   "geographic location": "Oakland, CA",
+   "ANSWER": "San Francisco Pizza"
+  }
+ },
+ "819b0bee06": {
+  "instruction": {
+   "Location": "(ikebukuro)",
+   "ANSWER": "manga stores",
+   "food type": "(manga)"
+  }
+ },
+ "14c8ed05a2": {
+  "instruction": {
+   "Location": "New Orleans, LA",
+   "ANSWER": "Nola Gumbo",
+   "food type": "Creole Gumbo"
+  }
+ },
+ "8dde01bf42": {
+  "instruction": {
+   "Location": "New York, NY",
+   "ANSWER": "NY Grill & Deli Menu",
+   "food type": "pizza"
+  }
+ },
+ "1f329576c5": {
+  "instruction": {
+   "Location": "Las Vegas, NV",
+   "ANSWER": "Thai Pepper",
+   "food type": "Pad Thai"
+  }
+ },
+ "f0fcd70521": {
+  "instruction": {
+   "Location": "Chattanooga, TN",
+   "ANSWER": "Shangri-la, NaGOYA Japanese Restaurant",
+   "food type": "Noodles"
+  }
+ },
+ "2a2bb36621": {
+  "instruction": {
+   "Location": "Atlanta, GA",
+   "ANSWER": "299 North Highland Avenue Northeast, Atlanta, GA, 30307",
+   "food type": "Sushi"
+  }
+ },
+ "c5150fe0e0": {
+  "instruction": {
+   "dollar amount": "6",
+   "geographic location": "Glendale, AZ",
+   "ANSWER": "Denny's"
+  }
+ },
+ "8dc1d3e12b": {
+  "instruction": {
+   "Location": "Boston, MA",
+   "ANSWER": "Cha Shu Coffee & Bubble Tea",
+   "food type": "Japanese"
+  }
+ },
+ "8ef53e72f4": {
+  "instruction": {
+   "Location": "Nashville, TN",
+   "food type": "Spaghetti"
+  }
+ },
+ "9e67a36b5e": {
+  "instruction": {
+   "Location": "(Lexington, KY)",
+   "ANSWER": "Eiffel Pizza",
+   "food type": "(pizza)"
+  }
+ },
+ "74a0e80458": {
+  "instruction": {
+   "Location": "(Lexington, KY)",
+   "ANSWER": "Columbia Steak Express",
+   "food type": "(steak)"
+  }
+ },
+ "15265346e3": {
+  "instruction": {
+   "dollar amount": "4",
+   "geographic location": "Miami, FL",
+   "ANSWER": "El Pollo Supremo"
+  }
+ },
+ "3b820017ea": {
+  "instruction": {
+   "Location": "New York City, NY",
+   "ANSWER": "650 5th Ave, New York, NY, 10019",
+   "food type": "Salmon"
+  }
+ },
+ "d7788becd4": {
+  "instruction": {
+   "Location": "Chicago, IL",
+   "food type": "Calzones"
+  }
+ },
+ "b75e98aac9": {
+  "instruction": {
+   "Location": "(Lexington, KY)",
+   "ANSWER": "Verona Pizza",
+   "food type": "(salads) "
+  }
+ },
+ "779543ea70": {
+  "instruction": {
+   "dollar amount": "3",
+   "geographic location": "Seattle, WA"
+  }
+ },
+ "db74170c16": {
+  "instruction": {
+   "Location": "Portland, Oregon",
+   "food type": "Hamburgers"
+  }
+ },
+ "0d8f6281f6": {
+  "instruction": {
+   "dollar amount": "1",
+   "geographic location": "Los Angeles, CA"
+  }
+ },
+ "973b73de48": {
+  "instruction": {
+   "Location": "Seattle, WA",
+   "ANSWER": "Blue Moon Burgers",
+   "food type": "Burgers"
+  }
+ },
+ "13936cf902": {
+  "instruction": {
+   "Location": "Chicago, IL",
+   "ANSWER": "Beef & Brandy",
+   "food type": "Corned Beef Hash"
+  }
+ },
+ "52a0c382d1": {
+  "instruction": {
+   "Location": "(Lexington, KY)",
+   "ANSWER": "Columbia Steak Express",
+   "food type": "(sandwiches)"
+  }
+ },
+ "069f1808bb": {
+  "instruction": {
+   "Location": "Boston, MA",
+   "ANSWER": "4254 W 31st St, Chicago, IL, 60623",
+   "food type": "Chicken Masala"
+  }
+ },
+ "29cda638a8": {
+  "instruction": {
+   "Location": "Portland, Maine",
+   "food type": "Chinese Food"
+  }
+ },
+ "26472be3fe": {
+  "instruction": {
+   "Location": "Las Vegas, NV",
+   "ANSWER": "MTO Cafe",
+   "food type": "Hamburgers"
+  }
+ },
+ "a5e6589b28": {
+  "instruction": {
+   "Location": "Savanah, Ga",
+   "ANSWER": "The Fresh Deli",
+   "food type": "baked bread"
+  }
+ },
+ "e43209aa7f": {
+  "instruction": {
+   "Location": "Salt Lake City, UT",
+   "ANSWER": "2120 S 1300 E, Salt Lake City, UT, 84106",
+   "food type": "Burrito"
+  }
+ },
+ "99592a6b95": {
+  "instruction": {
+   "Location": "(new york)",
+   "ANSWER": "resturant",
+   "food type": "(chinese food)"
+  }
+ },
+ "8facb0ddbb": {
+  "instruction": {
+   "dollar amount": "2",
+   "geographic location": "Cincinnati, OH"
+  }
+ },
+ "ace8cd02ba": {
+  "instruction": {
+   "Location": "Dallas, TX",
+   "ANSWER": "E Bar Tex Mex",
+   "food type": "steak"
+  }
+ },
+ "190396b362": {
+  "instruction": {
+   "Location": "Denver, CO",
+   "ANSWER": "2819 E Colfax Ave, Denver, CO, 80206",
+   "food type": "Gyro"
+  }
+ },
+ "ce2582acb8": {
+  "instruction": {
+   "Location": "(town)",
+   "ANSWER": "work",
+   "food type": "(money)"
+  }
+ },
+ "e7317e8f3c": {
+  "instruction": {
+   "Location": "Baltimore, MD",
+   "ANSWER": "Jimmy's Seafood",
+   "food type": "crab"
+  }
+ },
+ "ebd02083d4": {
+  "instruction": {
+   "food type": "Spaghetti",
+   "Location": "Chicago, IL"
+  }
+ },
+ "1ba80fb23c": {
+  "instruction": {
+   "food type": "Tacos",
+   "Location": "New York, NY"
+  }
+ },
+ "d3ed0d1c68": {
+  "instruction": {
+   "Location": "Chicago, IL",
+   "food type": "Hawaiian Pizza"
+  }
+ },
+ "46820bffcf": {
+  "instruction": {
+   "Location": "Greensboro, NC",
+   "ANSWER": "Hibachi Cafe",
+   "food type": "Chinese Food"
+  }
+ },
+ "67159bee5b": {
+  "instruction": {
+   "Location": "Los Angeles, CA",
+   "ANSWER": "Urasawa",
+   "food type": "sushi"
+  }
+ },
+ "dd231b6e65": {
+  "instruction": {
+   "Location": "(Lexington, KY)",
+   "ANSWER": "Sutton's",
+   "food type": "(pasta)"
+  }
+ },
+ "0de7afd187": {
+  "instruction": {
+   "Location": "(Lexington, KY)",
+   "ANSWER": "Lee's Garden",
+   "food type": "(Mandarin )"
+  }
+ },
+ "19a9f0a7c9": {
+  "instruction": {
+   "Location": "Los Angeles",
+   "ANSWER": "5112 Hollywood Blvd, Los Angeles, CA, 90027",
+   "food type": "Shrimp"
+  }
+ },
+ "dc8e440416": {
+  "instruction": {
+   "Location": "Los Angeles, CA",
+   "ANSWER": "Rincon Chileno Delicatessen, Brasil Kiss Coffebar, El Pollo Grande, Sabor Colombiano, Neris Restaurant, Sabor de Mi Tierra",
+   "food type": "Empanadas"
+  }
+ },
+ "40f1b382d5": {
+  "instruction": {
+   "Location": "Tucson, AZ",
+   "ANSWER": "Taqueria El Pueblito, On the Border, Claim Jumper, El Saguarito Mexican Food, GoPuff, Red's Smokehouse & Tap Room",
+   "food type": "Burrito"
+  }
+ },
+ "08ebfbb320": {
+  "instruction": {
+   "dollar amount": "2",
+   "geographic location": "Gardena, CA"
+  }
+ },
+ "98f30ca1f8": {
+  "instruction": {
+   "Location": "New York, NY",
+   "ANSWER": "The Great Burrito",
+   "food type": "Tacos"
+  }
+ },
+ "17e553f9fe": {
+  "instruction": {
+   "dollar amount": "7",
+   "geographic location": "Omaha, NE",
+   "ANSWER": "Buffalo Wild Wings"
+  }
+ },
+ "c1ff424154": {
+  "instruction": {
+   "dollar amount": "5",
+   "geographic location": "Los Angeles, CA"
+  }
+ },
+ "6c86c0babc": {
+  "instruction": {
+   "Location": "(wasco)",
+   "ANSWER": "wasco animal shelter",
+   "food type": "(animal shelters)"
+  }
+ },
+ "040bbf7327": {
+  "instruction": {
+   "Location": "Orlando, FL",
+   "ANSWER": "6784 Lake Ellenor Dr, Orlando, FL, 32809",
+   "food type": "Gelato"
+  }
+ },
+ "ec7c0c2b30": {
+  "instruction": {
+   "Location": "Knoxville, TN",
+   "ANSWER": "Yassin's Falafel House",
+   "food type": "Falafel"
+  }
+ },
+ "b021f0a399": {
+  "instruction": {
+   "Location": "Brooklyn, NY",
+   "ANSWER": "The New Pizza Professor of Brooklyn",
+   "food type": "Pizza"
+  }
+ },
+ "16f6f81ce0": {
+  "instruction": {
+   "Location": "Philadelphia, PA",
+   "ANSWER": "The Sandwich Cafe",
+   "food type": "Sub sandwiches"
+  }
+ },
+ "c3a61dfcbf": {
+  "instruction": {
+   "Location": "New York, NY",
+   "food type": "Coffee"
+  }
+ },
+ "4e66dce7a3": {
+  "instruction": {
+   "Location": "Washington, DC",
+   "ANSWER": "Wok & Roll (Adams Morgan) ",
+   "food type": "Chinese food"
+  }
+ },
+ "104b0bf8e8": {
+  "instruction": {
+   "Location": "Chicago, IL",
+   "ANSWER": "Sarpino's Pizzeria on Lake St",
+   "food type": "deep dish pizza"
+  }
+ },
+ "f5b4bc865b": {
+  "instruction": {
+   "dollar amount": "3",
+   "geographic location": "Hialeah, FL",
+   "ANSWER": "El Pollo Supremo"
+  }
+ },
+ "ba02256c98": {
+  "instruction": {
+   "food type": "Sushi",
+   "Location": "Memphis, TN"
+  }
+ },
+ "68ef1a5f6f": {
+  "instruction": {
+   "Location": "(the animal shelter)",
+   "ANSWER": "in the front",
+   "food type": "(dogs)"
+  }
+ },
+ "44d6e8d5b3": {
+  "instruction": {
+   "Location": "Chicago, IL",
+   "ANSWER": "El Ranchito Gourmet Pizza",
+   "food type": "Chicken Alfredo"
+  }
+ },
+ "946c16752b": {
+  "instruction": {
+   "food type": "Spaghetti",
+   "Location": "Nashville, TN"
+  }
+ },
+ "2416db2417": {
+  "instruction": {
+   "dollar amount": "4",
+   "geographic location": "Atlanta, GA",
+   "ANSWER": "Wing Shack"
+  }
+ },
+ "a5e1c5e587": {
+  "instruction": {
+   "Location": "Philadelphia, PA",
+   "ANSWER": "Miga Korean BBQ",
+   "food type": "Miso Tofu Soup"
+  }
+ },
+ "6e04f5a6ee": {
+  "instruction": {
+   "Location": "Seattle, WA",
+   "ANSWER": "Mad Pizza",
+   "food type": "Pizza"
+  }
+ },
+ "cf5901c442": {
+  "instruction": {
+   "Location": "Chicago, IL",
+   "ANSWER": "Clarke's Biograph Diner",
+   "food type": "Gyros Sandwich"
+  }
+ },
+ "7226336f5c": {
+  "instruction": {
+   "food type": "Hawaiian Pizza",
+   "Location": "Chicago, IL"
+  }
+ },
+ "b0b105ff87": {
+  "instruction": {
+   "food type": "Coffee",
+   "Location": "New York, NY"
+  }
+ },
+ "e9b3bd9ea9": {
+  "instruction": {
+   "Location": "Fort Collins, CO",
+   "ANSWER": "1212 Oakridge Dr, Fort Collins, CO, 80525",
+   "food type": "Pasta"
+  }
+ },
+ "bc2003472f": {
+  "instruction": {
+   "dollar amount": "2",
+   "geographic location": "Portland, OR"
+  }
+ },
+ "4ef5f35c8c": {
+  "instruction": {
+   "Location": "New Orleans, LA",
+   "ANSWER": "Fresh Bar, Seed, Meals From The Heart Cafe, Pita Pit, Broadview Seaffod",
+   "food type": "Healthy Food"
+  }
+ },
+ "d583141cc7": {
+  "instruction": {
+   "dollar amount": "5",
+   "geographic location": "New York, NY"
+  }
+ },
+ "56196db6bb": {
+  "instruction": {
+   "Location": "(Lexington, KY)",
+   "ANSWER": "Subway",
+   "food type": "(subs)"
+  }
+ },
+ "a5f02e1d37": {
+  "instruction": {
+   "Location": "Chicago, IL",
+   "ANSWER": "Taqueria El Ranchito",
+   "food type": "Tacos"
+  }
+ },
+ "ba0b683765": {
+  "instruction": {
+   "Location": "Atlanta, GA",
+   "ANSWER": "Lucky China Wing's & Sub",
+   "food type": "fried chicken"
+  }
+ },
+ "47680f9e3e": {
+  "instruction": {
+   "Location": "Houston, TX",
+   "ANSWER": "Cafe Layal Midtown, Market Place Cafe, Al's Quick Stop",
+   "food type": "Shawarma"
+  }
+ },
+ "57c9dba705": {
+  "instruction": {
+   "food type": "Calzones",
+   "Location": "Chicago, IL"
+  }
+ },
+ "353d3e907a": {
+  "instruction": {
+   "Location": "(japan)",
+   "ANSWER": "anime conventions",
+   "food type": "(friends)"
+  }
+ },
+ "154630f776": {
+  "instruction": {
+   "Location": "Seattle, WA",
+   "ANSWER": "Genghis Khan Restaurant",
+   "food type": "Chicken Chow Mein"
+  }
+ },
+ "a0de8d9f7c": {
+  "instruction": {
+   "food type": "Pasta",
+   "Location": "Milwaukee, WI"
+  }
+ },
+ "b109f9717f": {
+  "instruction": {
+   "Location": "Nashville, TN",
+   "ANSWER": "Lucky Bamboo China Bistro",
+   "food type": "Chinese Food"
+  }
+ },
+ "e0bc3763ff": {
+  "instruction": {
+   "Location": "Austin, TX",
+   "ANSWER": "Titaya's Thai Cuisine ",
+   "food type": "Thai"
+  }
+ },
+ "b6a0e10491": {
+  "instruction": {
+   "Location": "Seattle, WA",
+   "ANSWER": "Orient Express",
+   "food type": "General Tao's Chicken"
+  }
+ },
+ "c10f8b4a7d": {
+  "instruction": {
+   "Location": "Milwaukee, WI",
+   "food type": "Pasta"
+  }
+ },
+ "d8bb26b17d": {
+  "instruction": {
+   "Location": "Phoenix, AZ",
+   "ANSWER": "Coco's Chicken & Waffles",
+   "food type": "Lemon Pepper Chicken"
+  }
+ },
+ "dfa6eb0e19": {
+  "instruction": {
+   "Location": "Albuquerque, NM",
+   "ANSWER": "Sadie's of New Mexico ",
+   "food type": "Mexican"
+  }
+ },
+ "953bd81834": {
+  "instruction": {
+   "dollar amount": "2",
+   "geographic location": "Sacramento, CA",
+   "ANSWER": "Delish Pizza"
+  }
+ },
+ "943993854c": {
+  "instruction": {
+   "Location": "Denver, CO",
+   "ANSWER": "Biju's Little Curry Shop",
+   "food type": "Curry"
+  }
+ },
+ "c8ab835e4a": {
+  "instruction": {
+   "Location": "Portland, Oregon",
+   "ANSWER": "Swagat Indian Cuisine",
+   "food type": "Indian"
+  }
+ }
+}

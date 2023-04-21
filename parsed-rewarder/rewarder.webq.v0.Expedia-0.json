@@ -1,0 +1,62 @@
+{
+ "9ef1fea20c": {
+  "instruction": {
+   "geographic location": "Alabama",
+   "date": "March 2 2017"
+  }
+ },
+ "9c135a1b57": {
+  "instruction": {
+   "geographic location": "London",
+   "date": "March 24 2017"
+  }
+ },
+ "329198fd66": {
+  "instruction": {
+   "geographic location": "Los Angeles",
+   "date": "March 1 2017"
+  }
+ },
+ "9909ff1aae": {
+  "instruction": {
+   "geographic location": "Tampa",
+   "date": "April 15 2017"
+  }
+ },
+ "507b959c5f": {
+  "instruction": {
+   "geographic location": "Miami",
+   "date": "April 25 2017"
+  }
+ },
+ "a464f127aa": {
+  "instruction": {
+   "geographic location": "Atlanta",
+   "date": "June 2 2017"
+  }
+ },
+ "ceedf7115f": {
+  "instruction": {
+   "geographic location": "Cancun",
+   "date": "April 16 2017"
+  }
+ },
+ "1d1b3f476e": {
+  "instruction": {
+   "geographic location": "Barbados",
+   "date": "July 3 2017"
+  }
+ },
+ "3078c8a2d2": {
+  "instruction": {
+   "geographic location": "Berlin",
+   "date": "February 28 2017"
+  }
+ },
+ "bef30e72da": {
+  "instruction": {
+   "geographic location": "Fort Lauderdale",
+   "date": "March 23 2017"
+  }
+ }
+}

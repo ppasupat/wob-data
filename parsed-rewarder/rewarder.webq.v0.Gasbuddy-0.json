@@ -1,0 +1,62 @@
+{
+ "f798873143": {
+  "instruction": {
+   "geographic location": "New Orleans, LA",
+   "type of fuel": "Premium"
+  }
+ },
+ "fc31f6cebb": {
+  "instruction": {
+   "geographic location": "Pensacola, FL",
+   "type of fuel": "Premium"
+  }
+ },
+ "ed1c4e7cfd": {
+  "instruction": {
+   "geographic location": "Daphne, AL",
+   "type of fuel": "Midgrade"
+  }
+ },
+ "ed2866c242": {
+  "instruction": {
+   "geographic location": "Orange Beach, AL",
+   "type of fuel": "Regular"
+  }
+ },
+ "9eec163b56": {
+  "instruction": {
+   "geographic location": "Tallahassee, FL",
+   "type of fuel": "Diesel"
+  }
+ },
+ "bd118dcd8a": {
+  "instruction": {
+   "geographic location": "Milton, FL",
+   "type of fuel": "Regular"
+  }
+ },
+ "5ba62520c4": {
+  "instruction": {
+   "geographic location": "Destin, FL",
+   "type of fuel": "Regular"
+  }
+ },
+ "b58323ab9c": {
+  "instruction": {
+   "geographic location": "Mobile, AL",
+   "type of fuel": "Midgrade"
+  }
+ },
+ "293db3e62f": {
+  "instruction": {
+   "geographic location": "Biloxi, MS",
+   "type of fuel": "Diesel"
+  }
+ },
+ "39583dd8ff": {
+  "instruction": {
+   "geographic location": "Orlando, FL",
+   "type of fuel": "Midgrade"
+  }
+ }
+}

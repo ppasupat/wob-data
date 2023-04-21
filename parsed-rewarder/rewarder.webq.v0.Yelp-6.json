@@ -1,0 +1,1334 @@
+{
+ "a27ad1316f": {
+  "instruction": {
+   "type of food": "pancakes",
+   "ANSWER": "OliBea, First Watch, Nick and J\u2019s Cafe",
+   "geographic location": "Knoxville, TN"
+  }
+ },
+ "78f8a8f1c5": {
+  "instruction": {
+   "type of food": "Chinese Restaurant",
+   "ANSWER": "Boiling Hot Pot",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "d9367eeae4": {
+  "instruction": {
+   "type of food": "coffee",
+   "ANSWER": "RISE coffee",
+   "geographic location": "new york, ny"
+  }
+ },
+ "60f43ce5bd": {
+  "instruction": {
+   "chula vista": "Tijuana",
+   "korean": "Hang a Ri Tijuana"
+  }
+ },
+ "b65ed44387": {
+  "instruction": {
+   "ANSWER": "2050 Broadway St Redwood City, CA 94063",
+   "rating": "3.5/5",
+   "name": "Yokohama"
+  }
+ },
+ "dbcf80bf16": {
+  "instruction": {
+   "type of food": "pizza",
+   "geographic location": "Marshall, AR"
+  }
+ },
+ "81a6bb236c": {
+  "instruction": {
+   "ANSWER": "Menlo Park",
+   "rating": "3.5/5",
+   "name": " Koma Sushi Restaurant"
+  }
+ },
+ "5825d31584": {
+  "instruction": {
+   "ANSWER": "Menlo Park",
+   "rating": "3.5",
+   "name": "Koma Sushi Restaurant"
+  }
+ },
+ "7d73a2698e": {
+  "instruction": {
+   "type of food": "(Pad Tai)",
+   "geographic location": "Houston, TX"
+  }
+ },
+ "ecc5732490": {
+  "instruction": {
+   "type of food": "cheesecake",
+   "ANSWER": "City Market",
+   "geographic location": "Memphis, TN"
+  }
+ },
+ "54adac4fd2": {
+  "instruction": {
+   "ANSWER": "4119 El Camino Real Palo Alto, CA 94306",
+   "rating": "3.5/5",
+   "name": "Fuki Sushi"
+  }
+ },
+ "b30219d5d9": {
+  "instruction": {
+   "type of food": "Japanese",
+   "ANSWER": "Maruichi Japanese Food & Deli",
+   "geographic location": "West Hartford, CT"
+  }
+ },
+ "d33e63f50d": {
+  "instruction": {
+   "type of food": "alcoholic beverages",
+   "geographic location": "Bourbon Street, New Orleans"
+  }
+ },
+ "f56afb26db": {
+  "instruction": {
+   "type of food": "falafel",
+   "ANSWER": "Woo Hoo",
+   "geographic location": "Elizabethtown, KY"
+  }
+ },
+ "2ea742388f": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "3/5",
+   "name": "Cardinal Sushi"
+  }
+ },
+ "ab86f24443": {
+  "instruction": {
+   "chula vista": "chula vista",
+   "korean": " iWok Chinese Restaurant"
+  }
+ },
+ "00c45efd8a": {
+  "instruction": {
+   "type of food": "Korean BBQ",
+   "ANSWER": "Kang Ho-dong Baekjeong",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "8b9a478c97": {
+  "instruction": {
+   "ANSWER": "635 W Dana St Mountain View, CA 94040",
+   "rating": "4/5",
+   "name": "Sushi Tomi"
+  }
+ },
+ "039dd56e77": {
+  "instruction": {
+   "ANSWER": "Menlo Park",
+   "rating": "3.5/5",
+   "name": "Akasaka Sushi"
+  }
+ },
+ "0e16485dd8": {
+  "instruction": {
+   "ANSWER": "2051 El Camino Real",
+   "rating": "3/5",
+   "name": "Cardinal Sushi"
+  }
+ },
+ "e338bde60c": {
+  "instruction": {
+   "ANSWER": "855 El Camino Real Palo Alto, CA 94301",
+   "rating": "3.5/5",
+   "name": "pok\u00e9LOVE"
+  }
+ },
+ "af3886b2a7": {
+  "instruction": {
+   "type of food": "Sandwiches",
+   "ANSWER": "Green Bench Cafe",
+   "geographic location": "Dublin"
+  }
+ },
+ "65d9378603": {
+  "instruction": {
+   "ANSWER": "2111 El Camino Real ",
+   "rating": "4/5",
+   "name": "Odori Sushi and Teppanyaki"
+  }
+ },
+ "73ec9aa601": {
+  "instruction": {
+   "type of food": "hot wings",
+   "ANSWER": "Big Shot Bob\u2019s House of Wings ",
+   "geographic location": "Pittsburgh, PA"
+  }
+ },
+ "817b04f3a8": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "3.5/5",
+   "name": "Bee Cafe"
+  }
+ },
+ "6663944e53": {
+  "instruction": {
+   "type of food": "Falafel Sandwich",
+   "ANSWER": "The Green Chicpea",
+   "geographic location": "Newark, NJ"
+  }
+ },
+ "674e57db8a": {
+  "instruction": {
+   "type of food": "Mediterranean food",
+   "ANSWER": "Petra Mediterranean Bistro, Mamnoon, Mashawi Mediterranean Cuisine",
+   "geographic location": "Seattle, WA"
+  }
+ },
+ "10529e5ea2": {
+  "instruction": {
+   "type of food": "Quinoa salad",
+   "ANSWER": "Chez Joel Bistro",
+   "geographic location": "Chicago, IL"
+  }
+ },
+ "b8be697bd8": {
+  "instruction": {
+   "type of food": "(dessert)",
+   "geographic location": "Spring, TX"
+  }
+ },
+ "2aa55ef20f": {
+  "instruction": {
+   "ANSWER": "158 Town & Country Village Palo Alto, CA 94301",
+   "rating": "3.5/5",
+   "name": "Sushi House"
+  }
+ },
+ "4c519ca223": {
+  "instruction": {
+   "type of food": "(Indian food)",
+   "geographic location": "Houston, TX"
+  }
+ },
+ "edf8f1ed05": {
+  "instruction": {
+   "type of food": "Vietnamese food",
+   "ANSWER": "Laksa,  Chicken\u2019licious Noodle, Khai",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "75e14f49b7": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "3",
+   "name": "Cardinal Sushi"
+  }
+ },
+ "45ab252c8a": {
+  "instruction": {
+   "ANSWER": "4131 El Camino Way",
+   "rating": "3.0/5",
+   "name": "Sushi Tomo"
+  }
+ },
+ "b43ea8e19b": {
+  "instruction": {
+   "type of food": "Guacamole",
+   "ANSWER": "El Dorado Cantina",
+   "geographic location": "Henderson, NV"
+  }
+ },
+ "a7ad805983": {
+  "instruction": {
+   "ANSWER": "Menlo Park",
+   "rating": "4",
+   "name": "Dashi Japanese Restaurant"
+  }
+ },
+ "e2b156a303": {
+  "instruction": {
+   "ANSWER": "211 El Camino Real Menlo Park, CA 94025",
+   "rating": "3.5/5",
+   "name": "Koma Sushi Restaurant"
+  }
+ },
+ "26cb8fab95": {
+  "instruction": {
+   "type of food": "hamburgers",
+   "geographic location": "Little Rock, AR"
+  }
+ },
+ "3fe6a023a0": {
+  "instruction": {
+   "type of food": "Japanese Hibachi",
+   "geographic location": "Tulsa Zoo, Tulsa OK"
+  }
+ },
+ "1660e55a21": {
+  "instruction": {
+   "type of food": "(buffets)",
+   "geographic location": "Lake Charles, LA"
+  }
+ },
+ "36e2542d4d": {
+  "instruction": {
+   "type of food": "ice cream",
+   "ANSWER": "Ice Cream by Mike",
+   "geographic location": "Hackensack"
+  }
+ },
+ "c3f3c96180": {
+  "instruction": {
+   "type of food": "Chicken Wings",
+   "ANSWER": "East Coast Wings & Grill",
+   "geographic location": "Atlanta"
+  }
+ },
+ "7bbfc197b7": {
+  "instruction": {
+   "type of food": "Chinese Restaurant",
+   "ANSWER": "San Tung",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "145b41021d": {
+  "instruction": {
+   "type of food": "Haluski",
+   "ANSWER": "S&D Polish Deli",
+   "geographic location": "Pittsburgh, PA"
+  }
+ },
+ "fd2d20b147": {
+  "instruction": {
+   "ANSWER": "Mountain View",
+   "rating": "4/5",
+   "name": "Sushi Tomi"
+  }
+ },
+ "3691b85722": {
+  "instruction": {
+   "type of food": "gyro",
+   "ANSWER": "Istanbul Mediterranean, Off The Strip at the LINQ, Nook Cafe",
+   "geographic location": "Las Vegas Strip, NV"
+  }
+ },
+ "61dc8cb36e": {
+  "instruction": {
+   "type of food": "Grilled Cheese Sandwich",
+   "ANSWER": "Ward 6 Food & Drink",
+   "geographic location": "Saint Paul, MN"
+  }
+ },
+ "e70aec3234": {
+  "instruction": {
+   "ANSWER": "445 Emerson St Palo Alto, CA 94301",
+   "rating": "3.5",
+   "name": "Rangoon Ruby"
+  }
+ },
+ "20c262ce1d": {
+  "instruction": {
+   "type of food": "Italian Restaurant",
+   "ANSWER": "Frascati",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "fd168f7ac9": {
+  "instruction": {
+   "ANSWER": "4131 El Camino Way Palo Alto, CA 94306",
+   "rating": "3/5",
+   "name": "Sushi Tomo"
+  }
+ },
+ "cbec55a37d": {
+  "instruction": {
+   "type of food": "tacos",
+   "ANSWER": "jimboy's tacos",
+   "geographic location": "anaheim, ca"
+  }
+ },
+ "bb921e4da0": {
+  "instruction": {
+   "type of food": "Orzo Salad with Spicy Buttermilk Dressing",
+   "ANSWER": "The Catch",
+   "geographic location": "Anaheim, CA"
+  }
+ },
+ "54795792f0": {
+  "instruction": {
+   "type of food": "Doe's Steak",
+   "geographic location": "Arkansas"
+  }
+ },
+ "a38a4a992c": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "3",
+   "name": "Sushi Tomo"
+  }
+ },
+ "e23722a398": {
+  "instruction": {
+   "ANSWER": "330 Lytton Ave",
+   "rating": "3.0/5",
+   "name": "Kanpai"
+  }
+ },
+ "c2979ffe54": {
+  "instruction": {
+   "rating": "3.5/5",
+   "name": "Jin Sho"
+  }
+ },
+ "04a239c975": {
+  "instruction": {
+   "ANSWER": "201 University Ave Palo Alto, CA 94301",
+   "rating": "3.5/5",
+   "name": "Shoji Sushi"
+  }
+ },
+ "23a3ff5de1": {
+  "instruction": {
+   "rating": "3.5/5",
+   "name": "Shoji Sushi"
+  }
+ },
+ "03529d581e": {
+  "instruction": {
+   "ANSWER": "Redwood City",
+   "rating": "4/5",
+   "name": "Sushi Plus"
+  }
+ },
+ "500c65004a": {
+  "instruction": {
+   "ANSWER": "2111 El Camino Real",
+   "rating": "4.0/5",
+   "name": "Odori Sushi and Teppanyaki"
+  }
+ },
+ "14e385e645": {
+  "instruction": {
+   "ANSWER": "925 El Camino Real Menlo Park, CA 94025",
+   "rating": "3.5/5",
+   "name": "Akasaka Sushi"
+  }
+ },
+ "fa4ccd0ec9": {
+  "instruction": {
+   "type of food": "(hand tossed pizza)",
+   "geographic location": "Beaumont, TX"
+  }
+ },
+ "ed2d013923": {
+  "instruction": {
+   "rating": "3/5",
+   "name": "Kanpai"
+  }
+ },
+ "6566f00de0": {
+  "instruction": {
+   "chula vista": "chula vista",
+   "korean": "Homestyle Hawaiian"
+  }
+ },
+ "5af978bd55": {
+  "instruction": {
+   "ANSWER": "211 El Camino Real Menlo Park, CA 94025 ",
+   "rating": "4.5/5",
+   "name": "Koma Sushi Restaurant"
+  }
+ },
+ "3cbbae1a4e": {
+  "instruction": {
+   "ANSWER": "454 S California Ave Palo Alto, CA 94306",
+   "rating": "3.5/5",
+   "name": "Jin Sho"
+  }
+ },
+ "8aabc498d1": {
+  "instruction": {
+   "ANSWER": "4119 El Camino Real",
+   "rating": "3.5/5",
+   "name": "Fuki Sushi"
+  }
+ },
+ "5a41af121e": {
+  "instruction": {
+   "type of food": "(chicken and sausage gumbo)",
+   "geographic location": "Houston, TX"
+  }
+ },
+ "b41ce1a3c2": {
+  "instruction": {
+   "ANSWER": "448 University Ave ",
+   "rating": "4/5",
+   "name": "Sushirrito"
+  }
+ },
+ "a1d2ddf994": {
+  "instruction": {
+   "type of food": "Greek",
+   "ANSWER": "The Greek Gourmet",
+   "geographic location": "Pittsburgh, PA"
+  }
+ },
+ "cbd14f0895": {
+  "instruction": {
+   "type of food": "empanadas",
+   "ANSWER": "La Bodega's",
+   "geographic location": "Dallas, TX"
+  }
+ },
+ "cdefca293f": {
+  "instruction": {
+   "chula vista": "chula vista",
+   "korean": "Manna Restaurant"
+  }
+ },
+ "cb31d0fdd9": {
+  "instruction": {
+   "type of food": "(breakfast)",
+   "geographic location": "Houston, TX"
+  }
+ },
+ "d8edb08fd6": {
+  "instruction": {
+   "ANSWER": "2111 El Camino Real Palo Alto, CA 94306",
+   "rating": "4/5",
+   "name": "Odori Sushi and Teppanyaki"
+  }
+ },
+ "fc2f96750b": {
+  "instruction": {
+   "type of food": "Cantonese Restaurant",
+   "ANSWER": " Lai Hong Lounge",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "9fca73f296": {
+  "instruction": {
+   "type of food": "Italian Restaurant",
+   "ANSWER": "Luisa\u2019s Pizza And Pasta",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "305de2abfa": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "4",
+   "name": "Odori Sushi and Teppanyaki"
+  }
+ },
+ "698da07b46": {
+  "instruction": {
+   "ANSWER": "2479 E Bayshore Rd",
+   "rating": "3.5/5",
+   "name": "Bee Cafe"
+  }
+ },
+ "45899a8e09": {
+  "instruction": {
+   "rating": "4/5",
+   "name": "Go Fish Poke Bar"
+  }
+ },
+ "453ffab6b1": {
+  "instruction": {
+   "type of food": "Sangria",
+   "ANSWER": "Seviche",
+   "geographic location": "Pittsburgh,PA"
+  }
+ },
+ "993932cab0": {
+  "instruction": {
+   "ANSWER": "873 Hamilton Ave Menlo Park, CA 94025",
+   "rating": "4/5",
+   "name": "Dashi Japanese Restaurant"
+  }
+ },
+ "5babe13348": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "3",
+   "name": "Kanpai"
+  }
+ },
+ "ef926a5294": {
+  "instruction": {
+   "ANSWER": "2479 E Bayshore Rd Palo Alto, CA 94303",
+   "rating": "3.5/5",
+   "name": "Bee Cafe"
+  }
+ },
+ "f924f77df1": {
+  "instruction": {
+   "ANSWER": "4131 El Camino Way",
+   "rating": "3/5",
+   "name": "Sushi Tomo"
+  }
+ },
+ "da7c93d1c9": {
+  "instruction": {
+   "type of food": "steaks",
+   "ANSWER": "Steakhouse No. 316, The Monarch, Jimmy's An American Restaurant & Bar",
+   "geographic location": "Aspen,CO"
+  }
+ },
+ "14d1acc63a": {
+  "instruction": {
+   "type of food": "Tofu Scramble",
+   "ANSWER": "Glass & Vine",
+   "geographic location": "Miami, FL"
+  }
+ },
+ "35b5fbcb98": {
+  "instruction": {
+   "type of food": "ribs",
+   "ANSWER": "brookstreet bar-b-que",
+   "geographic location": "houston, tx"
+  }
+ },
+ "82b9ca5718": {
+  "instruction": {
+   "rating": "4/5",
+   "name": "Rangoon"
+  }
+ },
+ "bbb8327744": {
+  "instruction": {
+   "type of food": "pizza",
+   "ANSWER": "four sons pizzeria & cafe",
+   "geographic location": "philadelphia, pa"
+  }
+ },
+ "8575403daa": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "3.5/5",
+   "name": "pok\u00e9LOVE"
+  }
+ },
+ "0436ed81b8": {
+  "instruction": {
+   "type of food": "Sandwiches",
+   "ANSWER": "Primanti Bros.",
+   "geographic location": "Pittsburgh, PA"
+  }
+ },
+ "fe433aadc2": {
+  "instruction": {
+   "ANSWER": "454 S California Ave Palo Alto, CA 94306 ",
+   "rating": "3.5/5",
+   "name": " Jin Sho"
+  }
+ },
+ "9edc15e21c": {
+  "instruction": {
+   "ANSWER": "Stanford Shopping Center",
+   "rating": "4/5",
+   "name": "Go Fish Poke Bar"
+  }
+ },
+ "7142798aaa": {
+  "instruction": {
+   "ANSWER": "330 Lytton Ave",
+   "rating": "3/5",
+   "name": "Kanpai"
+  }
+ },
+ "f040954e1c": {
+  "instruction": {
+   "ANSWER": "873 Hamilton Ave Menlo Park, CA 94025 ",
+   "rating": "4/5",
+   "name": "Dashi Japanese Restaurant"
+  }
+ },
+ "e7a82d6b53": {
+  "instruction": {
+   "type of food": "sushi",
+   "ANSWER": "yokohama",
+   "geographic location": "maple shade, nj"
+  }
+ },
+ "2149c6fb08": {
+  "instruction": {
+   "chula vista": "Tijuana",
+   "korean": "Korean BBQ"
+  }
+ },
+ "919b1a1618": {
+  "instruction": {
+   "type of food": "Dim Sum Restaurant",
+   "ANSWER": "R&G Lounge",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "d6b72396ec": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "3.5/5",
+   "name": "Fuki Sushi"
+  }
+ },
+ "29c5c7686b": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "3.5",
+   "name": "Shoji Sushi"
+  }
+ },
+ "fb1d219bca": {
+  "instruction": {
+   "type of food": "(blackened catfish)",
+   "geographic location": "Baytown, TX"
+  }
+ },
+ "2df2ad61f4": {
+  "instruction": {
+   "type of food": "breakfast",
+   "ANSWER": "miss shirley's cafe",
+   "geographic location": "baltimore, md"
+  }
+ },
+ "b869242c0e": {
+  "instruction": {
+   "type of food": "ribs",
+   "ANSWER": "Sugarfire Smoke House",
+   "geographic location": "Saint Louis, MO"
+  }
+ },
+ "544c92f9bd": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "3.5/5",
+   "name": "Sushi House"
+  }
+ },
+ "4e07bf64d5": {
+  "instruction": {
+   "type of food": "pasta",
+   "ANSWER": "II corvo pasta",
+   "geographic location": "seattle, wa"
+  }
+ },
+ "755725d115": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "4/5",
+   "name": "Sushirrito"
+  }
+ },
+ "55a780ae75": {
+  "instruction": {
+   "rating": "4/5",
+   "name": "Sushirrito"
+  }
+ },
+ "cb2395836d": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "3.5/5",
+   "name": "YAYOI"
+  }
+ },
+ "809d374929": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "3.5/5",
+   "name": "Shoji Sushi"
+  }
+ },
+ "6f67dc0b87": {
+  "instruction": {
+   "ANSWER": "Mountain View",
+   "rating": "3.5/5",
+   "name": "Hanabi Sushi"
+  }
+ },
+ "2077579207": {
+  "instruction": {
+   "type of food": "Spring Rolls",
+   "ANSWER": "PB Pho & Grill",
+   "geographic location": "San Diego, CA"
+  }
+ },
+ "eee5b942ff": {
+  "instruction": {
+   "type of food": "Fondue",
+   "ANSWER": "That Fondue Place",
+   "geographic location": "Fort Lee"
+  }
+ },
+ "eb984e8b35": {
+  "instruction": {
+   "chula vista": "chula vista",
+   "korean": "Smitty\u2019s Taste of the Bayou"
+  }
+ },
+ "9349b8cfd3": {
+  "instruction": {
+   "type of food": "diner",
+   "geographic location": "Salt Lake City, UT"
+  }
+ },
+ "5fab89692a": {
+  "instruction": {
+   "ANSWER": "158 Town & Country Village",
+   "rating": "3.5/5",
+   "name": "Sushi House"
+  }
+ },
+ "a52397c2e4": {
+  "instruction": {
+   "ANSWER": "635 W Dana St",
+   "rating": "4/5",
+   "name": "Sushi Tomi"
+  }
+ },
+ "2fe84e9bfa": {
+  "instruction": {
+   "type of food": "Spanish",
+   "ANSWER": "Casa Dominicana",
+   "geographic location": "Albany"
+  }
+ },
+ "63774bc0de": {
+  "instruction": {
+   "type of food": "bubble tea",
+   "ANSWER": "tea do",
+   "geographic location": "philadelphia, pa"
+  }
+ },
+ "978a82216f": {
+  "instruction": {
+   "ANSWER": "Menlo Park",
+   "rating": "3/5",
+   "name": "Naomi Sushi"
+  }
+ },
+ "6fc8825676": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "4/5",
+   "name": "Poki Bowl"
+  }
+ },
+ "623017a3f6": {
+  "instruction": {
+   "ANSWER": "4131 El Camino Way Palo Alto, CA 94306 ",
+   "rating": "3/5",
+   "name": "Sushi Tomo"
+  }
+ },
+ "b094b4b2ee": {
+  "instruction": {
+   "ANSWER": "2139 Roosevelt Ave Redwood City, CA 94061",
+   "rating": "4/5",
+   "name": "Oh Baby Sushi"
+  }
+ },
+ "0763e4e8bc": {
+  "instruction": {
+   "type of food": "Caribbean",
+   "ANSWER": "Yah Mon",
+   "geographic location": "Tampa"
+  }
+ },
+ "e305707cff": {
+  "instruction": {
+   "type of food": "Tuscan White Bean Soup with Escarole",
+   "ANSWER": "Bottega Italian Restaurant",
+   "geographic location": "Birmingham, AL"
+  }
+ },
+ "6947604ea4": {
+  "instruction": {
+   "ANSWER": "201 University Ave",
+   "rating": "3.5/5",
+   "name": "Shoji Sushi"
+  }
+ },
+ "f1020a6d4e": {
+  "instruction": {
+   "ANSWER": "2111 El Camino Real",
+   "rating": "4/5",
+   "name": "Odori Sushi and Teppanyaki"
+  }
+ },
+ "3ca4c552ae": {
+  "instruction": {
+   "type of food": "donuts",
+   "ANSWER": "The Grind Shop",
+   "geographic location": "Jersey City"
+  }
+ },
+ "1b4d0d9752": {
+  "instruction": {
+   "type of food": "Chinese food",
+   "ANSWER": "Guang Lin Cafe, Golden Dragon, Red Chilli",
+   "geographic location": "San Bernardino, CA"
+  }
+ },
+ "c7e3e09fb2": {
+  "instruction": {
+   "type of food": "Eggplant Parmesan Sandwich",
+   "ANSWER": "Dough Bro\u2019s Italian Kitchen",
+   "geographic location": "Dallas, TX"
+  }
+ },
+ "ffb7355aa1": {
+  "instruction": {
+   "chula vista": "chula vista",
+   "korean": "Manna BBQ Chula Vista"
+  }
+ },
+ "513833ae75": {
+  "instruction": {
+   "type of food": "fajitas",
+   "ANSWER": "carriage house cafe",
+   "geographic location": "Ithaca, NY"
+  }
+ },
+ "e755cd89a6": {
+  "instruction": {
+   "type of food": "pizza",
+   "ANSWER": "Westgate Pizza Bella",
+   "geographic location": "Albany, NY"
+  }
+ },
+ "e314ba5ee6": {
+  "instruction": {
+   "ANSWER": "403 University Ave",
+   "rating": "3.5/5",
+   "name": "YAYOI"
+  }
+ },
+ "cbc435d8d7": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": " Ad Totopo Mexican Kitchen and Bar",
+   "geographic location": "Pittsburgh, PA"
+  }
+ },
+ "f2cb2fdb9f": {
+  "instruction": {
+   "ANSWER": "Menlo Park",
+   "rating": "4/5",
+   "name": "Dashi Japanese Restaurant"
+  }
+ },
+ "b3c1c82b7c": {
+  "instruction": {
+   "ANSWER": "448 University Ave",
+   "rating": "4.0/5",
+   "name": "Sushirrito"
+  }
+ },
+ "28c56203ff": {
+  "instruction": {
+   "type of food": "Burgers",
+   "ANSWER": "Basement Burger Bar",
+   "geographic location": "Detroit"
+  }
+ },
+ "e98aceef7c": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "3/5",
+   "name": "Sushi Tomo"
+  }
+ },
+ "ccbb87cdfe": {
+  "instruction": {
+   "type of food": "Hot Dogs",
+   "ANSWER": "Original Hot Dog Shop",
+   "geographic location": "Pittsburgh, PA"
+  }
+ },
+ "79121f44aa": {
+  "instruction": {
+   "ANSWER": "873 Hamilton Ave",
+   "rating": "4/5",
+   "name": "Dashi Japanese Restaurant"
+  }
+ },
+ "4d34c8c763": {
+  "instruction": {
+   "ANSWER": "448 University Ave",
+   "rating": "4/5",
+   "name": "Sushirrito"
+  }
+ },
+ "d9bc4ca8f6": {
+  "instruction": {
+   "type of food": "ribs",
+   "geographic location": "Eureka Springs, AR"
+  }
+ },
+ "8d8a2a6234": {
+  "instruction": {
+   "type of food": "seafood",
+   "ANSWER": "Nauti-Nancy\u2019s, Rumba Island Bar & Grill, Ristorante Acqua Alta",
+   "geographic location": "Clearwater, FL"
+  }
+ },
+ "c58e805e1b": {
+  "instruction": {
+   "ANSWER": "Los Altos",
+   "rating": "3.5/5",
+   "name": "Sushiko"
+  }
+ },
+ "6c7b106cb9": {
+  "instruction": {
+   "type of food": "Middle Eastern food",
+   "ANSWER": "La Palma, Falafill, Harmonie Garden Cafe",
+   "geographic location": "Detroit, MI"
+  }
+ },
+ "1d49298cdf": {
+  "instruction": {
+   "ANSWER": "635 W Dana St Mountain View, CA 94040 ",
+   "rating": "4/5",
+   "name": "Sushi Tomi"
+  }
+ },
+ "79ffb7a3b5": {
+  "instruction": {
+   "ANSWER": "330 Lytton Ave Palo Alto, CA 94301",
+   "rating": "3/5",
+   "name": "Kanpai"
+  }
+ },
+ "7d6bb9d422": {
+  "instruction": {
+   "type of food": "coffee",
+   "ANSWER": "Tenafly Coffee Company",
+   "geographic location": "Bergenfield"
+  }
+ },
+ "1da3b5e184": {
+  "instruction": {
+   "type of food": "Perogies",
+   "ANSWER": "Cop Out Pierogies",
+   "geographic location": "Pittsburgh, PA"
+  }
+ },
+ "8f8882850d": {
+  "instruction": {
+   "type of food": "taquitos",
+   "ANSWER": "100% Taquito",
+   "geographic location": "Houston"
+  }
+ },
+ "ff869af172": {
+  "instruction": {
+   "ANSWER": "454 S California Ave",
+   "rating": "3.5/5",
+   "name": "Jin Sho"
+  }
+ },
+ "745b51b71c": {
+  "instruction": {
+   "ANSWER": "Palo Alto",
+   "rating": "3.5",
+   "name": "Sushi House"
+  }
+ },
+ "f0c0ecf1b6": {
+  "instruction": {
+   "ANSWER": "2051 El Camino Real Palo Alto, CA 94306",
+   "rating": "3/5",
+   "name": "Cardinal Sushi"
+  }
+ },
+ "967cbe39b3": {
+  "instruction": {
+   "type of food": "Chinese food",
+   "ANSWER": "Chaan Teng",
+   "geographic location": "Bergen County"
+  }
+ },
+ "4d6468325c": {
+  "instruction": {
+   "type of food": "burgers",
+   "ANSWER": "The Merry Monk",
+   "geographic location": "Saratoga, NY"
+  }
+ },
+ "7277ec9404": {
+  "instruction": {
+   "ANSWER": "2051 El Camino Real Palo Alto, CA 94306 ",
+   "rating": "3/5",
+   "name": "Cardinal Sushi"
+  }
+ },
+ "897957b0f4": {
+  "instruction": {
+   "type of food": "Seafood",
+   "ANSWER": "Lobster Pot",
+   "geographic location": "Liverpool"
+  }
+ },
+ "0102e13657": {
+  "instruction": {
+   "type of food": "Cantonese Restaurant",
+   "ANSWER": "San Tung",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "fcd15e81ff": {
+  "instruction": {
+   "type of food": "Italian food",
+   "geographic location": "Harrison, AR"
+  }
+ },
+ "d05619c4a5": {
+  "instruction": {
+   "type of food": "Ice Cream",
+   "ANSWER": "The Baked Bear",
+   "geographic location": "Reno"
+  }
+ },
+ "7ec44ef619": {
+  "instruction": {
+   "ANSWER": "30 Woodside Plz Redwood City, CA 94061",
+   "rating": "4/5",
+   "name": "Sushi Plus"
+  }
+ },
+ "d0d4589363": {
+  "instruction": {
+   "type of food": "BBQ",
+   "ANSWER": "McWhorter Barbecue",
+   "geographic location": "Newark"
+  }
+ },
+ "28b68ba2d3": {
+  "instruction": {
+   "type of food": "alcohol",
+   "ANSWER": "food & friends",
+   "geographic location": "philadelphia, pa"
+  }
+ },
+ "317d7e4504": {
+  "instruction": {
+   "type of food": "ramen",
+   "ANSWER": "Ginger",
+   "geographic location": "Lincoln, NE"
+  }
+ },
+ "4980d02d64": {
+  "instruction": {
+   "rating": "4/5",
+   "name": "Odori Sushi and Teppanyaki"
+  }
+ },
+ "0ea3432c70": {
+  "instruction": {
+   "rating": "4/5",
+   "name": "Poki Bowl"
+  }
+ },
+ "cb345a91a6": {
+  "instruction": {
+   "type of food": "tikka masala",
+   "ANSWER": "Tandoori Flames",
+   "geographic location": "Rockaway, NJ"
+  }
+ },
+ "d9786d02e0": {
+  "instruction": {
+   "type of food": "(crawfish)",
+   "geographic location": "Port Arthur, TX"
+  }
+ },
+ "210c0dc778": {
+  "instruction": {
+   "type of food": "Korean",
+   "ANSWER": "Happy Bibim Bap House",
+   "geographic location": "Salem"
+  }
+ },
+ "2d9211fcde": {
+  "instruction": {
+   "ANSWER": "2051 El Camino Real",
+   "rating": "3.0/5",
+   "name": "Cardinal Sushi"
+  }
+ },
+ "3b279ca09a": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Sawasdee Thai Kitchen",
+   "geographic location": "Pittsburgh, PA"
+  }
+ },
+ "59a1bbb2ce": {
+  "instruction": {
+   "type of food": "sushi",
+   "geographic location": "St Louis, MO"
+  }
+ },
+ "2b9511093d": {
+  "instruction": {
+   "type of food": "(Cajun food)",
+   "geographic location": "New Orleans, LA"
+  }
+ },
+ "1013cfe4c4": {
+  "instruction": {
+   "type of food": "Chinese Restaurant",
+   "ANSWER": "M.Y. China",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "50bc9f8dc6": {
+  "instruction": {
+   "type of food": "Italian Restaurant",
+   "ANSWER": "Sotto Mare",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "73de8101bc": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Buca di Beppo Italian Restaurant",
+   "geographic location": "Pittsburgh, PA"
+  }
+ },
+ "27672ee5f0": {
+  "instruction": {
+   "type of food": "American",
+   "ANSWER": "Jack's Urban Eats",
+   "geographic location": "Walnut Creek, CA"
+  }
+ },
+ "232806d984": {
+  "instruction": {
+   "type of food": "fried rice",
+   "ANSWER": "SO",
+   "geographic location": "San Francisco"
+  }
+ },
+ "579389ef7b": {
+  "instruction": {
+   "ANSWER": "Mountain View",
+   "rating": "3.5/5",
+   "name": "Sushi 88 & Ramen"
+  }
+ },
+ "14be156f05": {
+  "instruction": {
+   "type of food": "Thai soup",
+   "ANSWER": "Pho Basil, My Thai Vegan Cafe, Nud Pob Thai Cuisine",
+   "geographic location": "Boston, MA"
+  }
+ },
+ "2cb618b443": {
+  "instruction": {
+   "type of food": "pizza",
+   "ANSWER": "Bacci Pizzeria, PR Italian Bistro, Pizzaiolo",
+   "geographic location": "Wrigleyville, Chicago, IL"
+  }
+ },
+ "a10d7e861c": {
+  "instruction": {
+   "chula vista": "chula vista",
+   "korean": "Sushiya"
+  }
+ },
+ "6a553b52e9": {
+  "instruction": {
+   "type of food": "tacos",
+   "geographic location": "Branson, Mo"
+  }
+ },
+ "c733bd0923": {
+  "instruction": {
+   "ANSWER": "4119 El Camino Real Palo Alto, CA 94306 ",
+   "rating": "3.5/5",
+   "name": " Fuki Sushi"
+  }
+ },
+ "3637834c81": {
+  "instruction": {
+   "rating": "3.5/5",
+   "name": "Fuki Sushi"
+  }
+ },
+ "4fe7d48028": {
+  "instruction": {
+   "type of food": "American food",
+   "ANSWER": "Jane",
+   "geographic location": "New York City"
+  }
+ },
+ "ce40975e49": {
+  "instruction": {
+   "ANSWER": "448 University Ave Palo Alto, CA 94301 ",
+   "rating": "4/5",
+   "name": "Sushirrito"
+  }
+ },
+ "53b4def17f": {
+  "instruction": {
+   "ANSWER": "201 University Ave Palo Alto, CA 94301 ",
+   "rating": "3.5/5",
+   "name": "Shoji Sushi"
+  }
+ },
+ "e72e458a5f": {
+  "instruction": {
+   "chula vista": "san diego",
+   "korean": "356 BBQ & Bar"
+  }
+ },
+ "6df83bbd1b": {
+  "instruction": {
+   "type of food": "Dim Sum Restaurant",
+   "ANSWER": "MaMa Ji\u2019s",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "d4c08c925b": {
+  "instruction": {
+   "type of food": "Burritos",
+   "ANSWER": "Mucha Lucha Taco Shop",
+   "geographic location": "Scottsdale, AZ"
+  }
+ },
+ "9b161871ca": {
+  "instruction": {
+   "type of food": "quesadilla",
+   "ANSWER": "Costa Vida",
+   "geographic location": "Chicago, IL"
+  }
+ },
+ "a3da18de61": {
+  "instruction": {
+   "chula vista": "chula vista",
+   "korean": "Korean Kitchen Tofu & Galbi"
+  }
+ },
+ "6523ce2243": {
+  "instruction": {
+   "type of food": "wings",
+   "ANSWER": "flyer's wings and grill",
+   "geographic location": "orlando, fl"
+  }
+ },
+ "646e5d2cb4": {
+  "instruction": {
+   "rating": "3.5/5",
+   "name": "Sushi House"
+  }
+ },
+ "557c8fddde": {
+  "instruction": {
+   "ANSWER": "855 El Camino Real",
+   "rating": "3.5/5",
+   "name": "pok\u00e9LOVE"
+  }
+ }
+}

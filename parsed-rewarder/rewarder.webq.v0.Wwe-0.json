@@ -1,0 +1,72 @@
+{
+ "74cb270c43": {
+  "instruction": {
+   "location": "Orlando, FL",
+   "show": "WWE Hall of Fame",
+   "date": "FRIDAY, MAR 31"
+  }
+ },
+ "24629f2348": {
+  "instruction": {
+   "location": "Phoenix, AZ",
+   "show": "WWE Elimination Chamber",
+   "date": "SUNDAY, FEB 12"
+  }
+ },
+ "bf44967ba9": {
+  "instruction": {
+   "location": "Columbus, OH",
+   "show": "WWE NXT",
+   "date": "SATURDAY, FEB 25"
+  }
+ },
+ "7463b0d529": {
+  "instruction": {
+   "location": "Ontario, CA",
+   "show": "WWE SmackDown!",
+   "date": "TUESDAY, FEB 21"
+  }
+ },
+ "327a9f1cee": {
+  "instruction": {
+   "location": "Milwaukee, WI",
+   "show": "WWE Fastlane",
+   "date": "SUNDAY, MAR 5"
+  }
+ },
+ "c90aeead67": {
+  "instruction": {
+   "location": "Bakersfield, CA",
+   "show": "WWE Live",
+   "date": "SATURDAY, FEB 18"
+  }
+ },
+ "dbe1321950": {
+  "instruction": {
+   "location": "Uniondale, NY",
+   "show": "WWE Raw",
+   "date": "MONDAY, APR 10"
+  }
+ },
+ "d4cbec5d51": {
+  "instruction": {
+   "location": "Orlando, FL",
+   "show": "WWE Wrestlemania",
+   "date": "SUNDAY, APR 2"
+  }
+ },
+ "ed119ca76a": {
+  "instruction": {
+   "location": "Buffalo, NY",
+   "show": "WWE Live",
+   "date": "FRIDAY, MAR 10"
+  }
+ },
+ "2b2bfc694f": {
+  "instruction": {
+   "location": "Orlando, FL",
+   "show": "WWE NXT Takeover",
+   "date": "SATURDAY, APR 1"
+  }
+ }
+}

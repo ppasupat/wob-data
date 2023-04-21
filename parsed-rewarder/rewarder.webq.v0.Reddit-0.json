@@ -1,0 +1,62 @@
+{
+ "413cefddd8": {
+  "instruction": {
+   "type of service": "places to eat",
+   "location": "Sacramento"
+  }
+ },
+ "0a62f468fb": {
+  "instruction": {
+   "type of service": "table top",
+   "location": "Sacramento"
+  }
+ },
+ "a7461b2e71": {
+  "instruction": {
+   "type of service": "table top",
+   "location": "Los Angles"
+  }
+ },
+ "f6c7f4c142": {
+  "instruction": {
+   "type of service": "places to eat",
+   "location": "Los Angles"
+  }
+ },
+ "927ad6f8bc": {
+  "instruction": {
+   "type of service": "internet service providers",
+   "location": "Sacramento"
+  }
+ },
+ "4d2a771096": {
+  "instruction": {
+   "type of service": "places to rent",
+   "location": "Sacramento"
+  }
+ },
+ "f34747b432": {
+  "instruction": {
+   "type of service": "local meet up",
+   "location": "Sacramento"
+  }
+ },
+ "5474283be3": {
+  "instruction": {
+   "type of service": "news",
+   "location": "Sacramento"
+  }
+ },
+ "0fb088a257": {
+  "instruction": {
+   "type of service": "local meet up",
+   "location": "Los Angles"
+  }
+ },
+ "fa0386c6b1": {
+  "instruction": {
+   "type of service": "internet service providers",
+   "location": "Los Angles"
+  }
+ }
+}

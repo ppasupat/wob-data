@@ -1,0 +1,1425 @@
+{
+ "05607a1b5c": {
+  "instruction": {
+   "repairmen": "plumber",
+   "location": "New Haven, CT",
+   "ANSWER": "Joseph G Michel & Sons"
+  }
+ },
+ "31fd99fb8c": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80120",
+   "ANSWER": "La Guatemalteca, 1500 W Littleton Blvd Littleton, CO 80120 Phone number (720) 550-7108",
+   "Mexican food": "Guacamole"
+  }
+ },
+ "0548bfaff5": {
+  "instruction": {
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "J2C Asian Bistro",
+   "Mexican food": "(Chinese) "
+  }
+ },
+ "8401f4427b": {
+  "instruction": {
+   "repairmen": "air conditioners specialists",
+   "location": "Miami, FL",
+   "ANSWER": "SKO Services"
+  }
+ },
+ "f0458cadc0": {
+  "instruction": {
+   "Littleton, CO": "Lynchburg, VA",
+   "ANSWER": "Texas Inn",
+   "Mexican food": "breakfast"
+  }
+ },
+ "f17aa67aab": {
+  "instruction": {
+   "repairmen": "floor installation ",
+   "location": "Laguna Beach, CA",
+   "ANSWER": "Arthur\u2019s Flooring"
+  }
+ },
+ "a6bafd93b4": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80127",
+   "ANSWER": "Los Dos Portrillos, 10065 W San Juan Way Littleton, CO 80127 Phone number (303) 948-1552",
+   "Mexican food": "Huevos divorciados"
+  }
+ },
+ "9ae94b36a1": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80129",
+   "ANSWER": "NoNo\u2019s Cafe, 3005 W County Line Rd Littleton, CO 80129 Phone number (303) 738-8330",
+   "Mexican food": "Mexican Lasagna"
+  }
+ },
+ "1042df6973": {
+  "instruction": {
+   "location": "Greenville, SC",
+   "repairmen": "HVAC specialists"
+  }
+ },
+ "133139c18c": {
+  "instruction": {
+   "location": "Greenville, SC",
+   "repairmen": "tile companies"
+  }
+ },
+ "e81354f8c4": {
+  "instruction": {
+   "repairmen": "electricians",
+   "location": "Miami, FL",
+   "ANSWER": "Miami Electric Masters"
+  }
+ },
+ "61b17943a2": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80120",
+   "Mexican food": "The Alley"
+  }
+ },
+ "e6ef66eb06": {
+  "instruction": {
+   "location": "Greenville, SC",
+   "repairmen": "locksmiths"
+  }
+ },
+ "ac7efc0042": {
+  "instruction": {
+   "repairmen": "Locksmiths",
+   "location": "Folsom, CA",
+   "ANSWER": "Out Lock Locksmith"
+  }
+ },
+ "e639cf7bcd": {
+  "instruction": {
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Bad Wolf Burgers",
+   "Mexican food": "(Burgers)"
+  }
+ },
+ "aa00371235": {
+  "instruction": {
+   "geographic location": "Fisherman's Wharf, San Francisco",
+   "type of food": "seafood"
+  }
+ },
+ "5e7b6b881c": {
+  "instruction": {
+   "repairmen": "Painters",
+   "location": "Charlotte, NC",
+   "ANSWER": "Century Painting"
+  }
+ },
+ "87eb6361c8": {
+  "instruction": {
+   "repairmen": "Electricians",
+   "location": "San Francisco, CA",
+   "ANSWER": "General SF"
+  }
+ },
+ "da45f56284": {
+  "instruction": {
+   "Littleton, CO": "Albuquerque, NM 87106",
+   "ANSWER": "Yasmine\u2019s Cafe",
+   "Mexican food": "Meditteranean"
+  }
+ },
+ "f85d40e02c": {
+  "instruction": {
+   "repairmen": "Door Company",
+   "location": "Easley, SC, USA",
+   "ANSWER": "mybutlerdoor.com"
+  }
+ },
+ "ad83706f20": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO",
+   "Mexican food": "Carlos Miguel\u2019s Mexican Bar & Grill"
+  }
+ },
+ "f2156262b7": {
+  "instruction": {
+   "repairmen": "carpet cleaner",
+   "location": "New Haven, CT",
+   "ANSWER": "Magic Mop Cleaning Services"
+  }
+ },
+ "66d2742363": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80123",
+   "Mexican food": "Lucha Cantina"
+  }
+ },
+ "dbeac67d56": {
+  "instruction": {
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Crust",
+   "Mexican food": "(Pizza)"
+  }
+ },
+ "e1d77b89d7": {
+  "instruction": {
+   "Littleton, CO": "Houston, TX 77005",
+   "ANSWER": "El Meson Restaurant",
+   "Mexican food": "spanish / cuban / mexican"
+  }
+ },
+ "3944d8462a": {
+  "instruction": {
+   "repairmen": "contractors",
+   "location": "Boulder, CO",
+   "ANSWER": "Puroclean Disaster Response"
+  }
+ },
+ "78113d46e3": {
+  "instruction": {
+   "repairmen": "Gutter Installers",
+   "location": "San Francisco, CA",
+   "ANSWER": "Peninsula Roofing"
+  }
+ },
+ "a9482c2d5c": {
+  "instruction": {
+   "repairmen": "Electronic Repair",
+   "location": "Chicago, IL",
+   "ANSWER": "Direct Repair"
+  }
+ },
+ "8864f0509e": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80128",
+   "ANSWER": "Angie\u2019s Restaurant, 6797 W Ottawa Ave, Littleton, CO 80128. (303) 979-0645",
+   "Mexican food": "Baked Chicken Chimichangas"
+  }
+ },
+ "45b1ed6123": {
+  "instruction": {
+   "Littleton, CO": "New York, NY 10002",
+   "ANSWER": "Russ & Daughters",
+   "Mexican food": "Jewish Deli"
+  }
+ },
+ "5956ac4d8b": {
+  "instruction": {
+   "repairmen": " Home Repair & Renovations, Inc.",
+   "location": "84 SALTERS RD, GREENVILLE, SC 29607, UNITED STATE",
+   "ANSWER": "https://www.diasrenovations.com/"
+  }
+ },
+ "974307d2fb": {
+  "instruction": {
+   "repairmen": "plumbing services",
+   "location": "Miami, FL",
+   "ANSWER": "Main Plumbing Services"
+  }
+ },
+ "4e735989ff": {
+  "instruction": {
+   "location": "Greenville, SC",
+   "repairmen": "contractors"
+  }
+ },
+ "89f72da210": {
+  "instruction": {
+   "repairmen": "Glass Companies",
+   "location": "San Francisco, CA",
+   "ANSWER": "Super Auto Glass"
+  }
+ },
+ "9fe66667ea": {
+  "instruction": {
+   "repairmen": "electrical wiring experts",
+   "location": "Miami, FL",
+   "ANSWER": "Universal Electrical Services"
+  }
+ },
+ "1648a3955c": {
+  "instruction": {
+   "repairmen": "lawn mower repair",
+   "location": "New Haven, CT",
+   "ANSWER": "Spring Glen True Value"
+  }
+ },
+ "822d9c8f06": {
+  "instruction": {
+   "Littleton, CO": "Lynchburg, VA",
+   "ANSWER": "La Carretta",
+   "Mexican food": "Mexican food"
+  }
+ },
+ "262aea5cbd": {
+  "instruction": {
+   "Littleton, CO": "Denver, CO",
+   "ANSWER": "SOL Cocina - Cherry Creek",
+   "Mexican food": "Tex-Mex"
+  }
+ },
+ "b0a2b7dfa4": {
+  "instruction": {
+   "repairmen": "Plumbers",
+   "location": "Charlotte, NC",
+   "ANSWER": "Julian's Plumbing"
+  }
+ },
+ "84edae08d6": {
+  "instruction": {
+   "repairmen": "Water Heater Installation/Repair",
+   "location": "San Francisco, CA",
+   "ANSWER": "Excalibur Water Heaters"
+  }
+ },
+ "e5a05fea80": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80123",
+   "ANSWER": "JP Nori Sushi & Asian Cuisine",
+   "Mexican food": "Asian Restaurant"
+  }
+ },
+ "d98988891c": {
+  "instruction": {
+   "location": "Greenville, SC",
+   "repairmen": "glass companies"
+  }
+ },
+ "3ece5677b5": {
+  "instruction": {
+   "geographic location": "Denver",
+   "type of food": "coffee "
+  }
+ },
+ "73e9719595": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80127",
+   "ANSWER": "Los Dos Portrillos",
+   "Mexican food": "Los Dos Portrillos"
+  }
+ },
+ "6a8ae145a5": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO",
+   "Mexican food": "R Taco"
+  }
+ },
+ "85d59ec8b7": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80122",
+   "ANSWER": "El Parral, 6875 S Broadway, Littleton, CO 80122. (303) 798-4586",
+   "Mexican food": "Garlic Beef Enchiladas"
+  }
+ },
+ "53124877f5": {
+  "instruction": {
+   "Littleton, CO": "Bangor, ME 04401",
+   "ANSWER": "Geaghan's Pub",
+   "Mexican food": "Burgers"
+  }
+ },
+ "b23e582a33": {
+  "instruction": {
+   "repairmen": "handymen",
+   "location": "Miami, FL",
+   "ANSWER": "Exclusive Handyman Services"
+  }
+ },
+ "a8d1e978d2": {
+  "instruction": {
+   "Littleton, CO": "Vallejo, CA",
+   "ANSWER": "Maya Thai House",
+   "Mexican food": "Thai Food"
+  }
+ },
+ "c7b89d52ce": {
+  "instruction": {
+   "repairmen": "Plumbers",
+   "location": "San Francisco, CA",
+   "ANSWER": "Fast Response"
+  }
+ },
+ "8f5421270a": {
+  "instruction": {
+   "repairmen": "remodelers",
+   "location": "San Fransisco, CA",
+   "ANSWER": "Aaron Gordon Construction, Inc."
+  }
+ },
+ "f00b49b9af": {
+  "instruction": {
+   "geographic location": "Baltimore",
+   "type of food": "Greek"
+  }
+ },
+ "c703a15548": {
+  "instruction": {
+   "repairmen": "heating experts",
+   "location": "Miami, FL",
+   "ANSWER": "Flow-Tech Air Conditioning"
+  }
+ },
+ "a59641da86": {
+  "instruction": {
+   "repairmen": "Plumbing Heating Cooling ",
+   "location": "3385 Brushy Creek Rd Greer, SC 29650",
+   "ANSWER": "http://fivestartoday.com/"
+  }
+ },
+ "a8130ee246": {
+  "instruction": {
+   "repairmen": "painters",
+   "location": "Miami, FL",
+   "ANSWER": "D&L Wall Design"
+  }
+ },
+ "58e1c9b5f6": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80120",
+   "ANSWER": " GraceFull Community Cafe",
+   "Mexican food": "Great Food"
+  }
+ },
+ "85c4437c61": {
+  "instruction": {
+   "repairmen": "Insulation Contractor",
+   "location": "21 Selwyn Dr Greenville, SC 29615",
+   "ANSWER": "http://www.bentongreenenergy.com/"
+  }
+ },
+ "3b512f4367": {
+  "instruction": {
+   "repairmen": "roofer",
+   "location": "New Haven, CT",
+   "ANSWER": "Kellner Roofing"
+  }
+ },
+ "1ff6aeed4f": {
+  "instruction": {
+   "Littleton, CO": "Denver, CO 80206",
+   "ANSWER": "Blue Island Oyster Bar and Seafood",
+   "Mexican food": "Seafood"
+  }
+ },
+ "a517edd26b": {
+  "instruction": {
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Grillfish",
+   "Mexican food": "(Seafood)"
+  }
+ },
+ "fb31d8064d": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80121",
+   "Mexican food": "Mama Sol Cocina"
+  }
+ },
+ "c79ebfcf44": {
+  "instruction": {
+   "Littleton, CO": "Littletown, CO",
+   "ANSWER": "Hacienda Real",
+   "Mexican food": "Mexican food"
+  }
+ },
+ "d049e81bb9": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80120",
+   "ANSWER": "Mi Cocina Mexican Restaurant",
+   "Mexican food": "Mi Cocina Mexican Restaurant"
+  }
+ },
+ "6cacd7ec2c": {
+  "instruction": {
+   "repairmen": "auto detailers",
+   "location": "San Fransisco, CA",
+   "ANSWER": "California Detailing"
+  }
+ },
+ "2b51a6f896": {
+  "instruction": {
+   "repairmen": "Cleaning & Maid Services",
+   "location": "109 Woodruff Industrial Ln Greenville, SC 29607",
+   "ANSWER": "http://http://castle-keepers.com/greenville"
+  }
+ },
+ "14010b4aaa": {
+  "instruction": {
+   "repairmen": "locksmiths",
+   "location": "New Haven, CT",
+   "ANSWER": "Acme Lock & Safe"
+  }
+ },
+ "8a29f75903": {
+  "instruction": {
+   "repairmen": "Appliance Repair",
+   "location": "Chicago, IL - Pilsen",
+   "ANSWER": "Skyline Appliance Repair"
+  }
+ },
+ "91c7d6fc1d": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO",
+   "Mexican food": "Platte River Bar & Grill"
+  }
+ },
+ "3f46b22186": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80127",
+   "ANSWER": "Agaveros Mexican Restaurant",
+   "Mexican food": "Agaveros Mexican Restaurant"
+  }
+ },
+ "2c91b70792": {
+  "instruction": {
+   "repairmen": "Bike Repair",
+   "location": "Chicago, IL - Woodlawn",
+   "ANSWER": "Blackstone Bicycle Works"
+  }
+ },
+ "c18e6f5ee1": {
+  "instruction": {
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Noodles & Company",
+   "Mexican food": "(Noodles)"
+  }
+ },
+ "e6239d2127": {
+  "instruction": {
+   "repairmen": "painters",
+   "location": "San Fransisco, CA",
+   "ANSWER": "Marcio"
+  }
+ },
+ "812ce30daf": {
+  "instruction": {
+   "repairmen": "Locksmith",
+   "location": "Charlotte, NC",
+   "ANSWER": "Mr. Rekey Locksmith"
+  }
+ },
+ "515d812ed7": {
+  "instruction": {
+   "repairmen": "landscaper",
+   "location": "New Haven, CT",
+   "ANSWER": "Precision Cutting Services"
+  }
+ },
+ "03df7a51a2": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO",
+   "Mexican food": "Hacienda Colorado"
+  }
+ },
+ "55e2abd039": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80120",
+   "ANSWER": " Zaika Indian Cuisine",
+   "Mexican food": "Indian Cuisine"
+  }
+ },
+ "a84f19ab30": {
+  "instruction": {
+   "repairmen": "Furniture Repair Services",
+   "location": "84 S Church St Greenville, SC 29601",
+   "ANSWER": "http://www.nookandcrannyco.com/"
+  }
+ },
+ "1c97c4d195": {
+  "instruction": {
+   "location": "Greenville, SC",
+   "repairmen": "cleaners"
+  }
+ },
+ "b246eead53": {
+  "instruction": {
+   "Littleton, CO": "Jersey City, NJ",
+   "ANSWER": "Ozu Foods",
+   "Mexican food": "Japanese"
+  }
+ },
+ "fefba38a1c": {
+  "instruction": {
+   "Littleton, CO": "Forest, VA",
+   "ANSWER": "Benjamin's ",
+   "Mexican food": "steak "
+  }
+ },
+ "af8bc54e74": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80123",
+   "Mexican food": "Hacienda Real"
+  }
+ },
+ "a3a30c89c0": {
+  "instruction": {
+   "geographic location": "The French Quarter",
+   "type of food": "Cajun"
+  }
+ },
+ "5dd06312b8": {
+  "instruction": {
+   "Littleton, CO": "Highlands Ranch, CO 80129",
+   "ANSWER": "Indulge Bistro & Wine Bar",
+   "Mexican food": "Bar w/ chicken wings"
+  }
+ },
+ "52ba16d197": {
+  "instruction": {
+   "repairmen": "Shades & Blinds, Contractors",
+   "location": "Folsom, CA",
+   "ANSWER": "The Screen Guys"
+  }
+ },
+ "21e58ef88d": {
+  "instruction": {
+   "repairmen": "Electricians",
+   "location": "Charlotte, NC",
+   "ANSWER": "Five Star Electrical and Plumbing"
+  }
+ },
+ "3c4216767b": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80122",
+   "ANSWER": "Las Delicias",
+   "Mexican food": "Las Delicias"
+  }
+ },
+ "7f2bb87814": {
+  "instruction": {
+   "repairmen": "Crawl Space Encapsulation Specialists",
+   "location": "Charlotte, NC",
+   "ANSWER": "Dry Pro Crawlspace and Foundation Specialists"
+  }
+ },
+ "f0f95701d3": {
+  "instruction": {
+   "Littleton, CO": "Elizabeth, NJ 07206",
+   "ANSWER": "Backiel\u2019s Lithuanian Bake T.J.",
+   "Mexican food": "Lithuanian"
+  }
+ },
+ "37b22f1cc1": {
+  "instruction": {
+   "repairmen": "landscapers",
+   "location": "San Fransisco, CA ",
+   "ANSWER": "Shambhala Landscapes"
+  }
+ },
+ "ef09a7bf23": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80120",
+   "ANSWER": "Platte River Bar & Grill",
+   "Mexican food": "Platte River Bar & Grill"
+  }
+ },
+ "1c93a045c8": {
+  "instruction": {
+   "Littleton, CO": "Boone, NC",
+   "ANSWER": "Joy Bistro",
+   "Mexican food": "French"
+  }
+ },
+ "736a82a2ff": {
+  "instruction": {
+   "repairmen": "gas specialists",
+   "location": "Miami, FL",
+   "ANSWER": "Super HVAC Service"
+  }
+ },
+ "1c7d39e30d": {
+  "instruction": {
+   "repairmen": "Plumbers",
+   "location": "Folsom, CA",
+   "ANSWER": "Payless Drains and Plumbing"
+  }
+ },
+ "2685c61b53": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80121",
+   "Mexican food": "Old Sante Fe Express Mexican Grill"
+  }
+ },
+ "9202e15f65": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80127",
+   "ANSWER": "Carlos Miguel\u2019s Mexican Bar & Grill",
+   "Mexican food": "Carlos Miguel\u2019s Mexican Bar & Grill"
+  }
+ },
+ "0a262c879e": {
+  "instruction": {
+   "repairmen": "plumbers",
+   "location": "Albany, NY",
+   "ANSWER": "Karner Mechanical"
+  }
+ },
+ "5f3d4a90a7": {
+  "instruction": {
+   "repairmen": "mechanic",
+   "location": "New Haven, CT",
+   "ANSWER": " S K F Automotive"
+  }
+ },
+ "6be499163d": {
+  "instruction": {
+   "repairmen": "damage restoration specialists",
+   "location": "Miami, FL",
+   "ANSWER": "Cutler Bay Plumbing"
+  }
+ },
+ "bf59c888f2": {
+  "instruction": {
+   "Littleton, CO": "Boston, MA 02128",
+   "ANSWER": "Mehak",
+   "Mexican food": "Pakistani"
+  }
+ },
+ "7a8f648731": {
+  "instruction": {
+   "Littleton, CO": "Lynchburg, VA",
+   "ANSWER": "Waterstone Pizza",
+   "Mexican food": "pizza"
+  }
+ },
+ "ce2d74f07e": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80121",
+   "ANSWER": "Mama Sol Cocina, 6439 S Broadway Littleton, CO 80121 Phone number (303) 730-2519",
+   "Mexican food": "Barbacoa"
+  }
+ },
+ "a0bc847e37": {
+  "instruction": {
+   "repairmen": "electrician",
+   "location": "New Haven, CT",
+   "ANSWER": "K Depalma Electric"
+  }
+ },
+ "ccd8ef378a": {
+  "instruction": {
+   "Littleton, CO": "Denver, CO",
+   "ANSWER": "El Chalate",
+   "Mexican food": " Mexican, Salvadoran"
+  }
+ },
+ "52689be182": {
+  "instruction": {
+   "repairmen": "contractors ",
+   "location": "North Myrtle Beach, SC",
+   "ANSWER": "J Gann Landscapes"
+  }
+ },
+ "1e797ff897": {
+  "instruction": {
+   "geographic location": "North Side, Chicago",
+   "type of food": "pizza"
+  }
+ },
+ "d9a0ab5084": {
+  "instruction": {
+   "Littleton, CO": "Lynchburg, VA",
+   "ANSWER": "Blue Ridge Bagels",
+   "Mexican food": "bagles"
+  }
+ },
+ "f0e882a335": {
+  "instruction": {
+   "Littleton, CO": "Denver, CO",
+   "ANSWER": "Moose Hill Cantina",
+   "Mexican food": "Tacos"
+  }
+ },
+ "1543ee7c16": {
+  "instruction": {
+   "repairmen": "Plumber",
+   "location": "Chicago, IL - South Shore",
+   "ANSWER": "Burris and Sons"
+  }
+ },
+ "35cbeecbc2": {
+  "instruction": {
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "City Barbeque",
+   "Mexican food": "(Barbeque)"
+  }
+ },
+ "5b167c126f": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80123",
+   "ANSWER": "Hacienda Real, 8966 W Bowles Ave Littleton, CO 80123 Phone number (303) 948-8172",
+   "Mexican food": "Carne asada"
+  }
+ },
+ "a183c19fe5": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80127",
+   "ANSWER": "Agaveros Mexican Restaurant, 10143 W Chatfield Ave Littleton, CO 80127 Phone number (303) 948-8776",
+   "Mexican food": "Arroz con pollo"
+  }
+ },
+ "853f11d214": {
+  "instruction": {
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Nat\u2019s",
+   "Mexican food": "(Chicken Wings)"
+  }
+ },
+ "2d53743965": {
+  "instruction": {
+   "geographic location": "Tampa, FL 33606\t",
+   "type of food": "steak house"
+  }
+ },
+ "3451834d5c": {
+  "instruction": {
+   "repairmen": "Solar Installers",
+   "location": "Folsom, CA",
+   "ANSWER": "Solar PV Pros"
+  }
+ },
+ "0b872a6245": {
+  "instruction": {
+   "repairmen": "Appliance Repairmen",
+   "location": "San Francisco, CA",
+   "ANSWER": "Metro Appliance Repair"
+  }
+ },
+ "54358c3070": {
+  "instruction": {
+   "geographic location": "Los Angeles",
+   "type of food": "spaghetti"
+  }
+ },
+ "1811b3e284": {
+  "instruction": {
+   "repairmen": "Appliance Repairmen",
+   "location": "Charlotte, NC",
+   "ANSWER": "Always Running"
+  }
+ },
+ "294eb59526": {
+  "instruction": {
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Vinaigrette Salad Kitchen",
+   "Mexican food": "(salad)"
+  }
+ },
+ "c7eef62479": {
+  "instruction": {
+   "repairmen": "florists",
+   "location": "San Fransisco, CA",
+   "ANSWER": "Elizabeth's Flowers"
+  }
+ },
+ "2afe726a55": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO",
+   "Mexican food": "Mi Cocina Mexican Restaurant"
+  }
+ },
+ "c4e139afe4": {
+  "instruction": {
+   "Littleton, CO": "Hickory, NC",
+   "ANSWER": "BurgerFi",
+   "Mexican food": "Burgers"
+  }
+ },
+ "6242901e1f": {
+  "instruction": {
+   "repairmen": "Home Cleaning, Carpet Cleaning",
+   "location": "Folsom, CA",
+   "ANSWER": "Gooses Carpet Cleaning & Stone Cleaning"
+  }
+ },
+ "754b2cac52": {
+  "instruction": {
+   "repairmen": "cobbler",
+   "location": "New Haven, CT",
+   "ANSWER": "Kelly\u2019s Cobbler"
+  }
+ },
+ "f3a10df752": {
+  "instruction": {
+   "repairmen": "glass companies",
+   "location": "Louisiana, MO",
+   "ANSWER": " St. Louis Glass Works"
+  }
+ },
+ "a7cabafa9d": {
+  "instruction": {
+   "Littleton, CO": "Lakewood, CO 80215",
+   "Mexican food": "Moose Hill Cantina"
+  }
+ },
+ "4e08e62287": {
+  "instruction": {
+   "repairmen": "electricians",
+   "location": "San Francisco, CA",
+   "ANSWER": "Electro-Integrity"
+  }
+ },
+ "c63b5eef8b": {
+  "instruction": {
+   "Littleton, CO": "Binghamton,NY",
+   "ANSWER": "Sake Tumi",
+   "Mexican food": "Sushi"
+  }
+ },
+ "532c4cd447": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO",
+   "Mexican food": "Old Sante Fe Express Mexican Grill"
+  }
+ },
+ "db910d212b": {
+  "instruction": {
+   "location": "Greenville, SC",
+   "repairmen": "plumbers"
+  }
+ },
+ "e7dcfa8b9c": {
+  "instruction": {
+   "repairmen": "gutter installers",
+   "location": "Kirkland, WA",
+   "ANSWER": "Pro Roofing"
+  }
+ },
+ "b750a29532": {
+  "instruction": {
+   "repairmen": "DJ's",
+   "location": "San Fransisco, CA",
+   "ANSWER": "DJ Sir Edgar"
+  }
+ },
+ "a0fd6c6daa": {
+  "instruction": {
+   "repairmen": "Auto Repair",
+   "location": "Chicago, IL - Bridgeport",
+   "ANSWER": "A-K Auto Mechanic & Body Shop"
+  }
+ },
+ "e6a789d166": {
+  "instruction": {
+   "repairmen": "Computer Repairmen",
+   "location": "San Francisco, CA",
+   "ANSWER": " Bay Area Computer Repairs"
+  }
+ },
+ "3cba70b8fb": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80123",
+   "ANSWER": "Lucha Cantina",
+   "Mexican food": "Lucha Cantina"
+  }
+ },
+ "c833d414b2": {
+  "instruction": {
+   "repairmen": "carpet installers",
+   "location": "San Fransisco, CA",
+   "ANSWER": "Pioneer Home Supply"
+  }
+ },
+ "c2e6698707": {
+  "instruction": {
+   "location": "Greenville, SC",
+   "repairmen": "roofers"
+  }
+ },
+ "98d88a0eec": {
+  "instruction": {
+   "Littleton, CO": "Denver, CO",
+   "ANSWER": "Scratch Burrito & Happy Tap",
+   "Mexican food": "Mexican food"
+  }
+ },
+ "a1e9cfe90c": {
+  "instruction": {
+   "Littleton, CO": "Seattle, WA",
+   "ANSWER": "Pasta Fresca",
+   "Mexican food": "Jamaican"
+  }
+ },
+ "81b040164e": {
+  "instruction": {
+   "repairmen": "Roofers",
+   "location": "Charlotte, NC",
+   "ANSWER": "Charlotte Pro Roofing"
+  }
+ },
+ "37c702c9fa": {
+  "instruction": {
+   "repairmen": "Locksmiths",
+   "location": "San Francisco, CA",
+   "ANSWER": "YES Locksmith"
+  }
+ },
+ "27e6378dad": {
+  "instruction": {
+   "Littleton, CO": "Boston, MA",
+   "ANSWER": "Pomodoro",
+   "Mexican food": "italian"
+  }
+ },
+ "e735dbc4e7": {
+  "instruction": {
+   "repairmen": "Fitness Equipment",
+   "location": "Warrenville, IL",
+   "ANSWER": "Huff-n-Puff Fitness Repair"
+  }
+ },
+ "ce694a71d5": {
+  "instruction": {
+   "repairmen": "Drywall Installers",
+   "location": "Charlotte, NC",
+   "ANSWER": "Glenny's Painting"
+  }
+ },
+ "00915aa7fd": {
+  "instruction": {
+   "repairmen": "flooring specialists",
+   "location": "Miami, FL",
+   "ANSWER": "Hard Surface Masters"
+  }
+ },
+ "67bcb24a16": {
+  "instruction": {
+   "repairmen": "window washers",
+   "location": "San Fransisco, CA",
+   "ANSWER": "A Sparkling Finish Window Washers"
+  }
+ },
+ "f526842b5d": {
+  "instruction": {
+   "repairmen": "smoke alarm installers",
+   "location": "Miami, FL",
+   "ANSWER": "ADT Dealer Home Security Concepts"
+  }
+ },
+ "adc4017bd1": {
+  "instruction": {
+   "Littleton, CO": "Mesa, AZ 85205",
+   "ANSWER": "Alessia\u2019s Ristorante Italiano",
+   "Mexican food": "Itallian"
+  }
+ },
+ "78c5b8fdab": {
+  "instruction": {
+   "Littleton, CO": "Denver, CO",
+   "ANSWER": "Tacos Jalisco Mexican Food",
+   "Mexican food": "Tex-Mex"
+  }
+ },
+ "5d9d1490fd": {
+  "instruction": {
+   "repairmen": "interior design",
+   "location": "Columbus, OH",
+   "ANSWER": "Kellie Toole Interior Design, Ltd"
+  }
+ },
+ "cf2fb5d8a0": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80123",
+   "ANSWER": "3 Potrillos Mexican Restaurant",
+   "Mexican food": "3 Potrillos Mexican Restaurant"
+  }
+ },
+ "ce20239622": {
+  "instruction": {
+   "repairmen": "Drywall & Painting ",
+   "location": "Liberty, SC, USA",
+   "ANSWER": "http://www.dugansdrywallpainting.com/"
+  }
+ },
+ "e179fa60bc": {
+  "instruction": {
+   "Littleton, CO": "New York, NY 10013",
+   "ANSWER": "The Greek",
+   "Mexican food": "Greek"
+  }
+ },
+ "68cdc23c82": {
+  "instruction": {
+   "geographic location": "Little Rock",
+   "type of food": "McDonald's"
+  }
+ },
+ "6e92a9848d": {
+  "instruction": {
+   "repairmen": "Heating and Cooling Repairmen",
+   "location": "San Francisco, CA",
+   "ANSWER": " Clear Thumb: Healthy Heating & Air Conditioning"
+  }
+ },
+ "495c6cbf35": {
+  "instruction": {
+   "Littleton, CO": "Dundalk, MD 21222",
+   "ANSWER": "The Hard Yacht Cafe",
+   "Mexican food": "Seafood"
+  }
+ },
+ "42be074511": {
+  "instruction": {
+   "Littleton, CO": "Greenwood Village, CO 80121",
+   "ANSWER": " The Wooden Table",
+   "Mexican food": "Italian Restaurant"
+  }
+ },
+ "c7d5e28df1": {
+  "instruction": {
+   "repairmen": "Tile Installers",
+   "location": "San Francisco, CA",
+   "ANSWER": "Alex's Custom Tile"
+  }
+ },
+ "70bc624b6c": {
+  "instruction": {
+   "repairmen": "Glass & Mirror Companies ",
+   "location": "8 Crigler St, Greenville, SC 29607, USA",
+   "ANSWER": "http://glassdoctor.com/greenville"
+  }
+ },
+ "539febba84": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80127",
+   "Mexican food": "Los Dos Portrillos"
+  }
+ },
+ "678ae75405": {
+  "instruction": {
+   "Littleton, CO": "Levittown, PA 19055",
+   "ANSWER": " Golden Dawn",
+   "Mexican food": "Family Restaurant"
+  }
+ },
+ "a414203865": {
+  "instruction": {
+   "geographic location": "Kansas City",
+   "type of food": "barbeque"
+  }
+ },
+ "e50b154fdb": {
+  "instruction": {
+   "repairmen": "Appliances",
+   "location": "408 Cedar Ln Rd Greenville, SC 29611",
+   "ANSWER": "http://www.theoldehomesteadsc.com/"
+  }
+ },
+ "f3d04211f6": {
+  "instruction": {
+   "repairmen": "carpet cleaners",
+   "location": "Boulder, CO",
+   "ANSWER": "Boulder Carpet Cleaning Masters"
+  }
+ },
+ "51525868cb": {
+  "instruction": {
+   "repairmen": "Window Installers",
+   "location": "Charlotte, NC",
+   "ANSWER": "Zen Windows Charlotte"
+  }
+ },
+ "47a7f8d7a7": {
+  "instruction": {
+   "repairmen": "Plumbers",
+   "location": "San Francisco, CA",
+   "ANSWER": " Alansi\u2019s Plumbing Co."
+  }
+ },
+ "cb0d5c74f8": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80121",
+   "ANSWER": " Abo\u2019s Pizza",
+   "Mexican food": ".Pizza Delivery"
+  }
+ },
+ "2f4527738e": {
+  "instruction": {
+   "Littleton, CO": "Lynchburg, VA",
+   "ANSWER": "Uncle Joe's",
+   "Mexican food": "donuts"
+  }
+ },
+ "e46828dee7": {
+  "instruction": {
+   "Littleton, CO": "Highlands Ranch, CO 80129",
+   "ANSWER": " Crave Real Burgers",
+   "Mexican food": "Gourmet burger"
+  }
+ },
+ "6f1d839c6a": {
+  "instruction": {
+   "Littleton, CO": "Littletown, CO",
+   "ANSWER": "Farmhouse at Breckenridge Brewery",
+   "Mexican food": " American (Traditional), Breweries"
+  }
+ },
+ "09bdd82f9f": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO",
+   "Mexican food": "Hacienda Real"
+  }
+ },
+ "cc3658b918": {
+  "instruction": {
+   "repairmen": "gutter cleaners",
+   "location": "Oakland, CA",
+   "ANSWER": "Sunshine Gutters"
+  }
+ },
+ "bf88d8977f": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80123",
+   "ANSWER": "R Taco",
+   "Mexican food": "R Taco"
+  }
+ },
+ "5da1f5df9c": {
+  "instruction": {
+   "Littleton, CO": "West Palm Beach, FL",
+   "ANSWER": "Cafe L'Europe",
+   "Mexican food": "Breakfast"
+  }
+ },
+ "64b3d99987": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80120",
+   "ANSWER": "La Guatemalteca, 1500 W Littleton Blvd Littleton, CO 80120 Phone number (720) 550-7108",
+   "Mexican food": "Chile relleno"
+  }
+ },
+ "044911c3c2": {
+  "instruction": {
+   "Littleton, CO": "Denver, CO",
+   "ANSWER": "Chili Verde",
+   "Mexican food": "Tex-Mex"
+  }
+ },
+ "6ccb8ce839": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80129",
+   "ANSWER": "El Meson",
+   "Mexican food": "El Meson"
+  }
+ },
+ "1e113a5af0": {
+  "instruction": {
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Detroit Coney Island",
+   "Mexican food": "(Hot Dogs)"
+  }
+ },
+ "8d42a6af11": {
+  "instruction": {
+   "Littleton, CO": "Lynchburg, VA",
+   "ANSWER": "Moore's Country Store",
+   "Mexican food": "fried chicken"
+  }
+ },
+ "7c4edbc41d": {
+  "instruction": {
+   "repairmen": "Contractors",
+   "location": "San Francisco, CA",
+   "ANSWER": "Paul Fanta"
+  }
+ },
+ "06b575d2a3": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80127",
+   "Mexican food": "Agaveros Mexican Restaurant"
+  }
+ },
+ "fa19aab560": {
+  "instruction": {
+   "Littleton, CO": "Ft. Lauderdale, FL 33301",
+   "ANSWER": "Voo La Voo",
+   "Mexican food": "French Quisine"
+  }
+ },
+ "6b8b0219f8": {
+  "instruction": {
+   "repairmen": "HVAC worker",
+   "location": "New Haven, CT",
+   "ANSWER": "Tyler Heating, Air Conditioning, and Refrigeration"
+  }
+ },
+ "6c885827d3": {
+  "instruction": {
+   "Littleton, CO": "Littletown, CO",
+   "ANSWER": " La Guatemalteca",
+   "Mexican food": "Mexican, Latin American"
+  }
+ },
+ "d60e71ce87": {
+  "instruction": {
+   "Littleton, CO": "Lakewood, CO",
+   "ANSWER": "Moose Hill Cantina",
+   "Mexican food": "Mexican food"
+  }
+ },
+ "63ab991ef9": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO",
+   "Mexican food": "Los Dos Portrillos"
+  }
+ },
+ "d472659ab4": {
+  "instruction": {
+   "repairmen": "Roofing Repair",
+   "location": "Chicago, IL - Logan Square",
+   "ANSWER": "Red Sun Roofing"
+  }
+ },
+ "46d1dad29e": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO",
+   "Mexican food": "3 Potrillos Mexican Restaurant"
+  }
+ },
+ "c81560cb1e": {
+  "instruction": {
+   "Littleton, CO": "Laihaina, HI",
+   "ANSWER": "Ono Kau Kau",
+   "Mexican food": "Chinese"
+  }
+ },
+ "ef5709d673": {
+  "instruction": {
+   "geographic location": "Dallas",
+   "type of food": "Mexican"
+  }
+ },
+ "9c2c528d24": {
+  "instruction": {
+   "repairmen": "Pressure Washers",
+   "location": "Charlotte, NC",
+   "ANSWER": "Big Clean"
+  }
+ },
+ "7d9d39e671": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80124",
+   "ANSWER": "California Pizza Kitchen, 8343 S Park Meadow Center Dr Littleton, CO 80124 Phone number (720) 873-0400",
+   "Mexican food": "Turkey Burritos with Fresh Fruit Salsa"
+  }
+ },
+ "3eff054c8c": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80120",
+   "Mexican food": "La Guatemalteca"
+  }
+ },
+ "eb6bd1e655": {
+  "instruction": {
+   "repairmen": "Shoe Repair",
+   "location": "Chicago, IL - Loop",
+   "ANSWER": " Beehive Shoe Works"
+  }
+ },
+ "ceb6b122bc": {
+  "instruction": {
+   "Littleton, CO": "Bedford, VA",
+   "ANSWER": "China Tastes",
+   "Mexican food": "Chinese food"
+  }
+ },
+ "0ad61bffeb": {
+  "instruction": {
+   "repairmen": "Roofers",
+   "location": "San Francisco, CA",
+   "ANSWER": "Eco Smart Roofer"
+  }
+ },
+ "23f9ed5aeb": {
+  "instruction": {
+   "Littleton, CO": "Lynchburg, VA",
+   "ANSWER": "Vinny's",
+   "Mexican food": "Italian food"
+  }
+ },
+ "c0f962fd4e": {
+  "instruction": {
+   "location": "Greenville, SC",
+   "repairmen": "gutter installers"
+  }
+ },
+ "4e3b736150": {
+  "instruction": {
+   "repairmen": " Pest Control",
+   "location": "5600 Augusta Rd Ste A Greenville, SC 29605",
+   "ANSWER": "http://www.bulwarkpestcontrol.com/"
+  }
+ },
+ "6491397631": {
+  "instruction": {
+   "repairmen": "brick layers",
+   "location": "San Fransisco, CA",
+   "ANSWER": "Fonseca Marble & Tile"
+  }
+ },
+ "2577f73737": {
+  "instruction": {
+   "location": "Greenville, SC",
+   "repairmen": "electricians"
+  }
+ },
+ "7c1e48aca6": {
+  "instruction": {
+   "repairmen": "Motorcycle Repair",
+   "location": "Kenosha, WI",
+   "ANSWER": "FireHouse Performance"
+  }
+ },
+ "f473e0aa58": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO",
+   "Mexican food": "The Alley"
+  }
+ },
+ "aa6382f388": {
+  "instruction": {
+   "Littleton, CO": "Englewood, CO 80113",
+   "ANSWER": " Acres",
+   "Mexican food": "American Restaurant"
+  }
+ },
+ "3bdb0c0cc0": {
+  "instruction": {
+   "Littleton, CO": "Englewood. CO",
+   "ANSWER": "Pupuseria San Salvador",
+   "Mexican food": "Salvadoran"
+  }
+ },
+ "235d5e8c76": {
+  "instruction": {
+   "Littleton, CO": "Littleton, CO 80127",
+   "Mexican food": "Carlos Miguel\u2019s Mexican Bar & Grill"
+  }
+ },
+ "8e1e338e5d": {
+  "instruction": {
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Osaka Sushi Restaurant",
+   "Mexican food": "(Japanese)"
+  }
+ },
+ "2756648012": {
+  "instruction": {
+   "Littleton, CO": "Lynchburg, VA",
+   "ANSWER": "Shanghai Express",
+   "Mexican food": "Chinese food"
+  }
+ },
+ "8555bfa10d": {
+  "instruction": {
+   "repairmen": "hair stylists",
+   "location": "San Fransisco, CA",
+   "ANSWER": "David James"
+  }
+ },
+ "146e315695": {
+  "instruction": {
+   "repairmen": "Tire Repair",
+   "location": "Chicago, IL - Wicker Park",
+   "ANSWER": "All-Day Tire Shop"
+  }
+ }
+}

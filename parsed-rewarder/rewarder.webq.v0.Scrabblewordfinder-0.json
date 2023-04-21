@@ -1,0 +1,2278 @@
+{
+ "f2ffec400c": {
+  "instruction": {
+   "letters": "lptnaoe",
+   "length of word": "7",
+   "ANSWER": "polenta"
+  },
+  "spans": [
+   {
+    "text": "polenta",
+    "html": "polenta",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "f0077307fb": {
+  "instruction": {
+   "letters": "pqiesou",
+   "length of word": "3"
+  },
+  "spans": [
+   {
+    "text": "pus",
+    "html": "pus",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[5]/div/ul/li[11]/a"
+   }
+  ]
+ },
+ "9dc23619c5": {
+  "instruction": {
+   "letters": "itdhmuyi",
+   "length of word": "8",
+   "ANSWER": "humidity"
+  },
+  "spans": [
+   {
+    "text": "humidity",
+    "html": "humidity",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "18c4aa8e6a": {
+  "instruction": {
+   "letters": "ssitue",
+   "length of word": "5",
+   "ANSWER": "tissue"
+  },
+  "spans": [
+   {
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "url": "http://scrabblewordfinder.org/solver",
+    "html": "suites",
+    "text": "suites"
+   }
+  ]
+ },
+ "eb4dc31ac8": {
+  "instruction": {
+   "letters": "yadolih",
+   "length of word": "7"
+  },
+  "spans": [
+   {
+    "text": "holiday",
+    "html": "holiday",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "c7bcacc97d": {
+  "instruction": {
+   "letters": "acalcoed",
+   "length of word": "8",
+   "ANSWER": "accolade"
+  },
+  "spans": [
+   {
+    "text": "accolade",
+    "html": "accolade",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "75b13ee5e0": {
+  "instruction": {
+   "letters": "ygorl",
+   "length of word": "5",
+   "ANSWER": "glory"
+  },
+  "spans": [
+   {
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "url": "http://scrabblewordfinder.org/solver",
+    "html": "glory",
+    "text": "glory"
+   }
+  ]
+ },
+ "e6cca42565": {
+  "instruction": {
+   "letters": "uancem",
+   "length of word": "6",
+   "ANSWER": "acumen"
+  },
+  "spans": [
+   {
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "url": "http://scrabblewordfinder.org/solver",
+    "html": "acumen",
+    "text": "acumen"
+   }
+  ]
+ },
+ "eafac1b043": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "askoi",
+    "url": "http://scrabblewordfinder.org/solver",
+    "html": "askoi"
+   }
+  ],
+  "instruction": {
+   "length of word": "5",
+   "letters": "qwikalos",
+   "ANSWER": "skoal"
+  }
+ },
+ "bc36bd3b08": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "blank",
+    "url": "http://scrabblewordfinder.org/solver",
+    "html": "blank"
+   }
+  ],
+  "instruction": {
+   "length of word": "5",
+   "letters": "tabnklw",
+   "ANSWER": "blank"
+  }
+ },
+ "1653cd67e9": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "html": "huffy",
+    "text": "huffy",
+    "url": "http://scrabblewordfinder.org/solver"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "huffy",
+   "letters": "jhffyfu",
+   "length of word": "5"
+  }
+ },
+ "3831e24686": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "illicit",
+    "url": "http://scrabblewordfinder.org/solver",
+    "html": "illicit"
+   }
+  ],
+  "instruction": {
+   "length of word": "7",
+   "letters": "cililti",
+   "ANSWER": "illicit"
+  }
+ },
+ "18f4c0ac2d": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "sadness",
+    "html": "sadness"
+   }
+  ],
+  "instruction": {
+   "length of word": "7",
+   "letters": "esnadss",
+   "ANSWER": "sadness"
+  }
+ },
+ "17d604bc98": {
+  "instruction": {
+   "letters": "afutyk",
+   "length of word": "4",
+   "ANSWER": "Kyat"
+  },
+  "spans": [
+   {
+    "text": "tufa",
+    "html": "tufa",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li[2]/a"
+   }
+  ]
+ },
+ "4cb38b092b": {
+  "instruction": {
+   "letters": "arpoadx",
+   "length of word": "7",
+   "ANSWER": "paradox"
+  },
+  "spans": [
+   {
+    "text": "paradox",
+    "html": "paradox",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "7d002c5bc9": {
+  "instruction": {
+   "letters": "uancem",
+   "length of word": "6",
+   "ANSWER": "acumen"
+  },
+  "spans": [
+   {
+    "text": "acumen",
+    "html": "acumen",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "fb1a879e3f": {
+  "instruction": {
+   "letters": "wiliasdn",
+   "length of word": "6",
+   "ANSWER": "island"
+  },
+  "spans": [
+   {
+    "text": "island",
+    "html": "island",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li[4]/a"
+   }
+  ]
+ },
+ "9e9145f850": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "crojiks",
+    "html": "crojiks"
+   }
+  ],
+  "instruction": {
+   "length of word": "7",
+   "letters": "crseiuijkioj",
+   "ANSWER": "crojiks juicers juicier suckier"
+  }
+ },
+ "67352951ef": {
+  "instruction": {
+   "letters": "smuesi",
+   "length of word": "6",
+   "ANSWER": "misuse"
+  },
+  "spans": [
+   {
+    "text": "misuse",
+    "html": "misuse",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "17e396c0eb": {
+  "instruction": {
+   "letters": "oleiandtw",
+   "length of word": "8",
+   "ANSWER": "delation"
+  },
+  "spans": [
+   {
+    "text": "delation",
+    "html": "delation",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "4b12154c8f": {
+  "instruction": {
+   "letters": "tabnklw",
+   "length of word": "5",
+   "ANSWER": "blank"
+  },
+  "spans": [
+   {
+    "text": "blank",
+    "html": "blank",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "339290ee47": {
+  "instruction": {
+   "letters": "gagrbatr",
+   "length of word": "8",
+   "ANSWER": "braggart"
+  },
+  "spans": [
+   {
+    "text": "braggart",
+    "html": "braggart",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "beec8386fa": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "kythe",
+    "html": "kythe"
+   }
+  ],
+  "instruction": {
+   "length of word": "5",
+   "letters": "muytehk",
+   "ANSWER": "kythe, thyme"
+  }
+ },
+ "24cf5d0171": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "column",
+    "html": "column"
+   }
+  ],
+  "instruction": {
+   "length of word": "6",
+   "letters": "numclo",
+   "ANSWER": "column"
+  }
+ },
+ "58551cdee0": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "emus",
+    "html": "emus"
+   }
+  ],
+  "instruction": {
+   "length of word": "4",
+   "letters": "uiwejms",
+   "ANSWER": "emus"
+  }
+ },
+ "d6c7e07df1": {
+  "instruction": {
+   "letters": "ropde",
+   "length of word": "5"
+  },
+  "spans": [
+   {
+    "text": "roped",
+    "html": "roped",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li[4]/a"
+   }
+  ]
+ },
+ "4b061ec043": {
+  "instruction": {
+   "letters": "dresaer",
+   "length of word": "7",
+   "ANSWER": "readers"
+  },
+  "spans": [
+   {
+    "text": "readers",
+    "html": "readers",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "9383707702": {
+  "instruction": {
+   "letters": "otls",
+   "length of word": "4",
+   "ANSWER": "lost"
+  },
+  "spans": [
+   {
+    "text": "lost",
+    "html": "lost",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "e364c16045": {
+  "instruction": {
+   "letters": "uiwejms",
+   "length of word": "4",
+   "ANSWER": "emus"
+  },
+  "spans": [
+   {
+    "text": "emus",
+    "html": "emus",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "778d762cac": {
+  "instruction": {
+   "letters": "foemred",
+   "length of word": "7",
+   "ANSWER": "freedom"
+  },
+  "spans": [
+   {
+    "text": "freedom",
+    "html": "freedom",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "be061b4c98": {
+  "instruction": {
+   "letters": "vttreonir",
+   "length of word": "8",
+   "ANSWER": "invertor"
+  },
+  "spans": [
+   {
+    "text": "invertor",
+    "html": "invertor",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[3]/div/ul/li/a"
+   }
+  ]
+ },
+ "787cc24913": {
+  "instruction": {
+   "letters": "ctseybivtddf",
+   "length of word": "7",
+   "ANSWER": "testify"
+  },
+  "spans": [
+   {
+    "text": "testify",
+    "html": "testify",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "3b98af1c6e": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li[2]/a",
+    "text": "operant",
+    "html": "operant"
+   }
+  ],
+  "instruction": {
+   "length of word": "7",
+   "letters": "poenagrt",
+   "ANSWER": "operant"
+  }
+ },
+ "a86e73909a": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "antas",
+    "html": "antas"
+   }
+  ],
+  "instruction": {
+   "length of word": "5",
+   "letters": "ansat",
+   "ANSWER": "santa"
+  }
+ },
+ "50d8a6a48f": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "pint",
+    "html": "pint"
+   }
+  ],
+  "instruction": {
+   "length of word": "5",
+   "letters": "ctnpi",
+   "ANSWER": "catnip"
+  }
+ },
+ "a008f01636": {
+  "instruction": {
+   "letters": "ixsrrvhionjb",
+   "length of word": "7",
+   "ANSWER": "brinish noirish vibrion vibrios virions"
+  },
+  "spans": [
+   {
+    "text": "brinish",
+    "html": "brinish",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[3]/div/ul/li/a"
+   }
+  ]
+ },
+ "bd1386a1f5": {
+  "instruction": {
+   "letters": "blidaue",
+   "length of word": "7",
+   "ANSWER": "audible"
+  },
+  "spans": [
+   {
+    "text": "audible",
+    "html": "audible",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "3e90a78895": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li[3]/a",
+    "text": "instead",
+    "html": "instead"
+   }
+  ],
+  "instruction": {
+   "length of word": "7",
+   "letters": "deniats",
+   "ANSWER": "destain, detains, instead, nidates, sainted, stained"
+  }
+ },
+ "31244563bb": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "beds",
+    "html": "beds"
+   }
+  ],
+  "instruction": {
+   "length of word": "4",
+   "letters": "jvjhdeskhbkh",
+   "ANSWER": "beds debs desk devs edhs hehs shed"
+  }
+ },
+ "646436e745": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "lost",
+    "html": "lost"
+   }
+  ],
+  "instruction": {
+   "length of word": "4",
+   "letters": "otls",
+   "ANSWER": "lost"
+  }
+ },
+ "65a4d9427c": {
+  "instruction": {
+   "letters": "quielisk",
+   "length of word": "7",
+   "ANSWER": "silique"
+  },
+  "spans": [
+   {
+    "text": "silique",
+    "html": "silique",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "ab535ea48e": {
+  "instruction": {
+   "letters": "ssttrema",
+   "length of word": "8",
+   "ANSWER": "mattress"
+  },
+  "spans": [
+   {
+    "text": "mattress",
+    "html": "mattress",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "d7ab9c3b4c": {
+  "instruction": {
+   "letters": "wetuia",
+   "length of word": "5",
+   "ANSWER": "Tawie"
+  },
+  "spans": [
+   {
+    "text": "tawie",
+    "html": "tawie",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "c0334b47f7": {
+  "instruction": {
+   "letters": "hatrnsi",
+   "length of word": "7",
+   "ANSWER": "tarnish"
+  },
+  "spans": [
+   {
+    "text": "tarnish",
+    "html": "tarnish",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "dc4a7edbfc": {
+  "instruction": {
+   "letters": "Nather",
+   "length of word": "5",
+   "ANSWER": "antre, earth, hater, heart, neath, rathe, thane"
+  },
+  "spans": [
+   {
+    "text": "earth",
+    "html": "earth",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[3]/div/ul/li[2]/a"
+   }
+  ]
+ },
+ "40032298a0": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "sanctify",
+    "html": "sanctify"
+   }
+  ],
+  "instruction": {
+   "length of word": "8",
+   "letters": "tyfsnaci",
+   "ANSWER": "sanctify"
+  }
+ },
+ "23fe9c087f": {
+  "instruction": {
+   "letters": "tpcio",
+   "length of word": "5",
+   "ANSWER": "topic"
+  },
+  "spans": [
+   {
+    "text": "optic",
+    "html": "optic",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "45e2ddbd58": {
+  "instruction": {
+   "letters": "ctnpi",
+   "length of word": "5",
+   "ANSWER": "catnip"
+  },
+  "spans": [
+   {
+    "text": "pint",
+    "html": "pint",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "44287cdfc0": {
+  "instruction": {
+   "letters": "jvjhdeskhbkh",
+   "length of word": "4",
+   "ANSWER": "beds debs desk devs edhs hehs shed"
+  },
+  "spans": [
+   {
+    "text": "beds",
+    "html": "beds",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "513069ee5e": {
+  "instruction": {
+   "letters": "eislopz",
+   "length of word": "4"
+  },
+  "spans": [
+   {
+    "text": "lose",
+    "html": "lose",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[4]/div/ul/li[12]/a"
+   }
+  ]
+ },
+ "b3ce7ce1be": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[3]/div/ul/li/a",
+    "text": "assert",
+    "html": "assert"
+   }
+  ],
+  "instruction": {
+   "length of word": "6",
+   "letters": "cretssa",
+   "ANSWER": "assert"
+  }
+ },
+ "29e25f89af": {
+  "instruction": {
+   "letters": "gerlm",
+   "length of word": "4",
+   "ANSWER": "Germ"
+  },
+  "spans": [
+   {
+    "text": "germ",
+    "html": "germ",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "2b14686d3e": {
+  "instruction": {
+   "length of word": "5",
+   "letters": "fekalwe",
+   "ANSWER": "flake"
+  },
+  "spans": [
+   {
+    "text": "flake",
+    "html": "flake",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "49bc1499e0": {
+  "instruction": {
+   "length of word": "5",
+   "letters": "asaken",
+   "ANSWER": "Snake"
+  },
+  "spans": [
+   {
+    "text": "snake",
+    "html": "snake",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li[5]/a"
+   }
+  ]
+ },
+ "6a9c8951ac": {
+  "instruction": {
+   "letters": "Amake",
+   "length of word": "3",
+   "ANSWER": "ama, kae, kea, mae"
+  },
+  "spans": [
+   {
+    "text": "ama",
+    "html": "ama",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[3]/div/ul/li/a"
+   }
+  ]
+ },
+ "7020fbc42f": {
+  "instruction": {
+   "letters": "palwncalw",
+   "length of word": "5",
+   "ANSWER": "canal"
+  },
+  "spans": [
+   {
+    "text": "canal",
+    "html": "canal",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[3]/div/ul/li[2]/a"
+   }
+  ]
+ },
+ "f56b4a22f2": {
+  "instruction": {
+   "length of word": "7",
+   "letters": "yadolih"
+  },
+  "spans": [
+   {
+    "text": "holiday",
+    "html": "holiday",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "60d6dcd028": {
+  "instruction": {
+   "length of word": "5",
+   "letters": "pjvstjigxs",
+   "ANSWER": "gists spits spivs"
+  },
+  "spans": [
+   {
+    "text": "spits",
+    "html": "spits",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li[2]/a"
+   }
+  ]
+ },
+ "e848c5d66b": {
+  "instruction": {
+   "letters": "dhotcoymi",
+   "length of word": "9",
+   "ANSWER": "dichotomy"
+  },
+  "spans": [
+   {
+    "text": "dichotomy",
+    "html": "dichotomy",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "c3279d4567": {
+  "instruction": {
+   "length of word": "7",
+   "letters": "dresaer",
+   "ANSWER": "readers"
+  },
+  "spans": [
+   {
+    "text": "readers",
+    "html": "readers",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "91d9bd41a1": {
+  "instruction": {
+   "letters": "isltere",
+   "length of word": "7",
+   "ANSWER": "sterile"
+  },
+  "spans": [
+   {
+    "text": "sterile",
+    "html": "sterile",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li[3]/a"
+   }
+  ]
+ },
+ "6d7e2315fd": {
+  "instruction": {
+   "letters": "ksedol",
+   "length of word": "4"
+  },
+  "spans": [
+   {
+    "text": "desk",
+    "html": "desk",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[3]/div/ul/li[2]/a"
+   }
+  ]
+ },
+ "9b250c1716": {
+  "instruction": {
+   "letters": "jarret",
+   "length of word": "5",
+   "ANSWER": "rater"
+  },
+  "spans": [
+   {
+    "text": "terra",
+    "html": "terra",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li[3]/a"
+   }
+  ]
+ },
+ "fadff5333f": {
+  "instruction": {
+   "length of word": "7",
+   "letters": "isltere",
+   "ANSWER": "sterile"
+  },
+  "spans": [
+   {
+    "text": "sterile",
+    "html": "sterile",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li[3]/a"
+   }
+  ]
+ },
+ "7ae1e67477": {
+  "instruction": {
+   "length of word": "4",
+   "letters": "efjiuiad",
+   "ANSWER": "deaf"
+  },
+  "spans": [
+   {
+    "text": "deaf",
+    "html": "deaf",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[3]/div/ul/li[2]/a"
+   }
+  ]
+ },
+ "8e5ecc01a8": {
+  "instruction": {
+   "letters": "esnadss",
+   "length of word": "7",
+   "ANSWER": "sadness"
+  },
+  "spans": [
+   {
+    "text": "sadness",
+    "html": "sadness",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "eafca7da4e": {
+  "instruction": {
+   "length of word": "9",
+   "letters": "rtrcleoae",
+   "ANSWER": "correlate"
+  },
+  "spans": [
+   {
+    "text": "correlate",
+    "html": "correlate",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "68ec14a978": {
+  "instruction": {
+   "letters": "jhffyfu",
+   "length of word": "5",
+   "ANSWER": "huffy"
+  },
+  "spans": [
+   {
+    "text": "huffy",
+    "html": "huffy",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "580193cd24": {
+  "instruction": {
+   "length of word": "7",
+   "letters": "satcein",
+   "ANSWER": "acetins, cineast"
+  },
+  "spans": [
+   {
+    "text": "acetins",
+    "html": "acetins",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "a0f6a9e341": {
+  "instruction": {
+   "length of word": "6",
+   "letters": "dianets"
+  },
+  "spans": [
+   {
+    "text": "detain",
+    "html": "detain",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[3]/div/ul/li/a"
+   }
+  ]
+ },
+ "39cb2b9e66": {
+  "instruction": {
+   "letters": "eoondl",
+   "length of word": "6",
+   "ANSWER": "noodle"
+  },
+  "spans": [
+   {
+    "text": "noodle",
+    "html": "noodle",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "6adb80a3fa": {
+  "instruction": {
+   "letters": "esduct",
+   "length of word": "6",
+   "ANSWER": "Educts"
+  },
+  "spans": [
+   {
+    "text": "educts",
+    "html": "educts",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "7a0aa313c9": {
+  "instruction": {
+   "length of word": "4",
+   "letters": "eislopz"
+  },
+  "spans": [
+   {
+    "text": "lose",
+    "html": "lose",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[4]/div/ul/li[10]/a"
+   }
+  ]
+ },
+ "e1e63a72ef": {
+  "instruction": {
+   "letters": "anaban",
+   "length of word": "6"
+  },
+  "spans": [
+   {
+    "text": "banana",
+    "html": "banana",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "9956965dae": {
+  "instruction": {
+   "letters": "fekalwe",
+   "length of word": "5",
+   "ANSWER": "flake"
+  },
+  "spans": [
+   {
+    "text": "flake",
+    "html": "flake",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "2c50014b3b": {
+  "instruction": {
+   "length of word": "5",
+   "letters": "jarret",
+   "ANSWER": "rater"
+  },
+  "spans": [
+   {
+    "text": "rater",
+    "html": "rater",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "6beebf1398": {
+  "instruction": {
+   "length of word": "6",
+   "letters": "wiliasdn",
+   "ANSWER": "island"
+  },
+  "spans": [
+   {
+    "text": "island",
+    "html": "island",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li[4]/a"
+   }
+  ]
+ },
+ "6708f18435": {
+  "instruction": {
+   "letters": "pxihoen",
+   "length of word": "7",
+   "ANSWER": "phoenix"
+  },
+  "spans": [
+   {
+    "text": "phoenix",
+    "html": "phoenix",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "68d831b238": {
+  "instruction": {
+   "letters": "hgrainbre",
+   "length of word": "9",
+   "ANSWER": "harbinger"
+  },
+  "spans": [
+   {
+    "text": "harbinger",
+    "html": "harbinger",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "006ad7bfdb": {
+  "instruction": {
+   "letters": "byseytfuyvug",
+   "length of word": "6",
+   "ANSWER": "fugues"
+  },
+  "spans": [
+   {
+    "text": "fugues",
+    "html": "fugues",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ]
+ },
+ "2af9ad6273": {
+  "instruction": {
+   "length of word": "8",
+   "letters": "ssttrema",
+   "ANSWER": "mattress"
+  }
+ },
+ "f50a036018": {
+  "instruction": {
+   "length of word": "9",
+   "letters": "scypotnha",
+   "ANSWER": "sycophant"
+  }
+ },
+ "d605920898": {
+  "instruction": {
+   "letters": "ansat",
+   "ANSWER": "santa",
+   "length of word": "5"
+  }
+ },
+ "58fe531425": {
+  "instruction": {
+   "letters": "erredcro",
+   "ANSWER": "recorder",
+   "length of word": "8"
+  }
+ },
+ "f129d75e21": {
+  "instruction": {
+   "length of word": "8",
+   "letters": "erredcro",
+   "ANSWER": "recorder"
+  }
+ },
+ "e7ca949c1c": {
+  "instruction": {
+   "letters": "qwikalos",
+   "ANSWER": "skoal",
+   "length of word": "5"
+  }
+ },
+ "12d84e6d58": {
+  "instruction": {
+   "length of word": "8",
+   "letters": "isrceksn",
+   "ANSWER": "snickers"
+  }
+ },
+ "565e4c61c4": {
+  "instruction": {
+   "length of word": "5",
+   "letters": "wetuia",
+   "ANSWER": "Tawie"
+  }
+ },
+ "d8645cafe0": {
+  "instruction": {
+   "letters": "bstury",
+   "ANSWER": "Burst",
+   "length of word": "5"
+  }
+ },
+ "6f661c9bcb": {
+  "instruction": {
+   "letters": "numclo",
+   "ANSWER": "column",
+   "length of word": "6"
+  }
+ },
+ "9c673c53e6": {
+  "instruction": {
+   "length of word": "4",
+   "letters": "afutyk",
+   "ANSWER": "Kyat"
+  }
+ },
+ "41875fe07d": {
+  "instruction": {
+   "length of word": "7",
+   "letters": "sdredsa",
+   "ANSWER": "address"
+  }
+ },
+ "f0f0793c21": {
+  "instruction": {
+   "length of word": "7",
+   "letters": "senhutr",
+   "ANSWER": "hunters, shunter"
+  }
+ },
+ "7b6729c011": {
+  "instruction": {
+   "length of word": "6",
+   "letters": "urocsh",
+   "ANSWER": "chorus"
+  }
+ },
+ "6edd9b8c2a": {
+  "instruction": {
+   "letters": "ygorl",
+   "ANSWER": "glory",
+   "length of word": "5"
+  }
+ },
+ "9a3baad5b0": {
+  "instruction": {
+   "length of word": "8",
+   "letters": "acalcoed",
+   "ANSWER": "accolade"
+  }
+ },
+ "f95bfbbbe5": {
+  "instruction": {
+   "length of word": "5",
+   "letters": "eisdjk",
+   "ANSWER": "dikes"
+  }
+ },
+ "2cffe1f553": {
+  "spans": [
+   {
+    "text": "fracture",
+    "html": "fracture",
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "fracture",
+   "length of word": "8",
+   "letters": "tarfcreu"
+  }
+ },
+ "c3ca65d7a1": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "html": "delation",
+    "text": "delation"
+   }
+  ],
+  "instruction": {
+   "length of word": "8",
+   "letters": "oleiandtw",
+   "ANSWER": "delation"
+  }
+ },
+ "30355c6519": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "html": "phoenix",
+    "text": "phoenix"
+   }
+  ],
+  "instruction": {
+   "length of word": "7",
+   "letters": "pxihoen",
+   "ANSWER": "phoenix"
+  }
+ },
+ "f399b125d5": {
+  "instruction": {
+   "letters": "efjiuiad",
+   "ANSWER": "deaf",
+   "length of word": "4"
+  }
+ },
+ "ff2f7fb288": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "html": "noodle",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "noodle"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "noodle",
+   "letters": "eoondl",
+   "length of word": "6"
+  }
+ },
+ "99d0563bdd": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "html": "science",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "science"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "science",
+   "letters": "csience",
+   "length of word": "7"
+  }
+ },
+ "c99c136982": {
+  "instruction": {
+   "letters": "usnvrieo",
+   "length of word": "8",
+   "ANSWER": "souvenir"
+  },
+  "spans": [
+   {
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "url": "http://scrabblewordfinder.org/solver",
+    "html": "souvenir",
+    "text": "souvenir"
+   }
+  ]
+ },
+ "793c996a6f": {
+  "instruction": {
+   "letters": "anaban",
+   "length of word": "6"
+  },
+  "spans": [
+   {
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "url": "http://scrabblewordfinder.org/solver",
+    "html": "banana",
+    "text": "banana"
+   }
+  ]
+ },
+ "89fd6bf7b1": {
+  "instruction": {
+   "letters": "gglistungr",
+   "length of word": "8",
+   "ANSWER": "gurgling"
+  },
+  "spans": [
+   {
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "url": "http://scrabblewordfinder.org/solver",
+    "html": "struggling",
+    "text": "struggling"
+   }
+  ]
+ },
+ "202bab13ff": {
+  "instruction": {
+   "letters": "rtrcleoae",
+   "ANSWER": "correlate",
+   "length of word": "9"
+  }
+ },
+ "252e06279d": {
+  "instruction": {
+   "letters": "nitmensceul",
+   "length of word": "11",
+   "ANSWER": "luminescent"
+  },
+  "spans": [
+   {
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "url": "http://scrabblewordfinder.org/solver",
+    "html": "luminescent",
+    "text": "luminescent"
+   }
+  ]
+ },
+ "7b0dc29d54": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "html": "fugues",
+    "text": "fugues",
+    "url": "http://scrabblewordfinder.org/solver"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "fugues",
+   "letters": "byseytfuyvug",
+   "length of word": "6"
+  }
+ },
+ "22da1e1c75": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "holing",
+    "url": "http://scrabblewordfinder.org/solver",
+    "html": "holing"
+   }
+  ],
+  "instruction": {
+   "length of word": "6",
+   "letters": "holvign",
+   "ANSWER": "holing, loving, voling"
+  }
+ },
+ "7ce98bd456": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "dikes",
+    "url": "http://scrabblewordfinder.org/solver",
+    "html": "dikes"
+   }
+  ],
+  "instruction": {
+   "length of word": "4",
+   "letters": "ksedol"
+  }
+ },
+ "c24a2fe6b9": {
+  "instruction": {
+   "letters": "ophen",
+   "ANSWER": "phone",
+   "length of word": "5"
+  }
+ },
+ "dca881baf8": {
+  "instruction": {
+   "letters": "eisdjk",
+   "ANSWER": "dikes",
+   "length of word": "5"
+  }
+ },
+ "a2969fd37b": {
+  "instruction": {
+   "letters": "gdo",
+   "ANSWER": "dog",
+   "length of word": "3"
+  }
+ },
+ "c076f570d4": {
+  "instruction": {
+   "letters": "nerdgare",
+   "ANSWER": "gardener",
+   "length of word": "8"
+  }
+ },
+ "f581dd7d89": {
+  "instruction": {
+   "letters": "tyfsnaci",
+   "ANSWER": "sanctify",
+   "length of word": "8"
+  }
+ },
+ "06099866e1": {
+  "instruction": {
+   "letters": "crseiuijkioj",
+   "ANSWER": "crojiks juicers juicier suckier",
+   "length of word": "7"
+  }
+ },
+ "946e5370f2": {
+  "instruction": {
+   "letters": "ctdyonubucyf",
+   "ANSWER": "bonduc bouncy bounty buyout cobnut county obtund outbuy",
+   "length of word": "6"
+  }
+ },
+ "9165786885": {
+  "instruction": {
+   "letters": "holvign",
+   "ANSWER": "holing, loving, voling",
+   "length of word": "6"
+  }
+ },
+ "720649ddb5": {
+  "instruction": {
+   "letters": "sdredsa",
+   "ANSWER": "address",
+   "length of word": "7"
+  }
+ },
+ "0336e93537": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "freedom",
+    "html": "freedom"
+   }
+  ],
+  "instruction": {
+   "length of word": "7",
+   "letters": "foemred",
+   "ANSWER": "freedom"
+  }
+ },
+ "819c5cece3": {
+  "instruction": {
+   "letters": "oiygyutfcgdg",
+   "ANSWER": "codify fucoid",
+   "length of word": "6"
+  }
+ },
+ "7d34b98286": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "deranger",
+    "html": "deranger"
+   }
+  ],
+  "instruction": {
+   "length of word": "8",
+   "letters": "nerdgare",
+   "ANSWER": "gardener"
+  }
+ },
+ "e70bba8d44": {
+  "instruction": {
+   "letters": "tarfcreu",
+   "ANSWER": "fracture",
+   "length of word": "8"
+  }
+ },
+ "70f6794f14": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "germ",
+    "html": "germ"
+   }
+  ],
+  "instruction": {
+   "length of word": "4",
+   "letters": "gerlm",
+   "ANSWER": "Germ"
+  }
+ },
+ "c21119cc9c": {
+  "instruction": {
+   "letters": "usnvrieo",
+   "ANSWER": "souvenir",
+   "length of word": "8"
+  }
+ },
+ "156b1d79f6": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "adios",
+    "html": "adios"
+   }
+  ],
+  "instruction": {
+   "length of word": "5",
+   "letters": "iwopasd"
+  }
+ },
+ "5ced5aeea0": {
+  "instruction": {
+   "letters": "mestsy",
+   "ANSWER": "system",
+   "length of word": "6"
+  }
+ },
+ "b42a76c164": {
+  "instruction": {
+   "letters": "scypotnha",
+   "ANSWER": "sycophant",
+   "length of word": "9"
+  }
+ },
+ "a22bee4217": {
+  "instruction": {
+   "letters": "dnast",
+   "ANSWER": "stand",
+   "length of word": "5"
+  }
+ },
+ "55f262f855": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "optic",
+    "html": "optic"
+   }
+  ],
+  "instruction": {
+   "length of word": "5",
+   "letters": "tpcio",
+   "ANSWER": "topic"
+  }
+ },
+ "50e98413c0": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "haul",
+    "html": "haul"
+   }
+  ],
+  "instruction": {
+   "length of word": "4",
+   "letters": "halwuy",
+   "ANSWER": "hula"
+  }
+ },
+ "561b4d9447": {
+  "instruction": {
+   "letters": "rienew",
+   "length of word": "6"
+  }
+ },
+ "73e9db025c": {
+  "instruction": {
+   "letters": "vttreonir",
+   "ANSWER": "introvert",
+   "length of word": "9"
+  }
+ },
+ "41fb9b9955": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "guid",
+    "html": "guid"
+   }
+  ],
+  "instruction": {
+   "length of word": "4",
+   "letters": "iugjkd",
+   "ANSWER": "guid"
+  }
+ },
+ "5595c043f7": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[3]/div/ul/li[2]/a",
+    "text": "noirish",
+    "html": "noirish"
+   }
+  ],
+  "instruction": {
+   "length of word": "7",
+   "letters": "ixsrrvhionjb",
+   "ANSWER": "brinish noirish vibrion vibrios virions"
+  }
+ },
+ "cff4b5218d": {
+  "instruction": {
+   "letters": "halwuy",
+   "ANSWER": "hula",
+   "length of word": "4"
+  }
+ },
+ "e68bedb084": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/",
+    "xpath": "//*[@id=\"prefixLtr\"]",
+    "text": "",
+    "html": ""
+   }
+  ],
+  "instruction": {
+   "length of word": "6",
+   "letters": "dagnutr",
+   "ANSWER": "Tundra"
+  }
+ },
+ "b5af088361": {
+  "instruction": {
+   "letters": "goyliob",
+   "ANSWER": "biology",
+   "length of word": "7"
+  }
+ },
+ "e4492db14b": {
+  "instruction": {
+   "letters": "urocsh",
+   "ANSWER": "chorus",
+   "length of word": "6"
+  }
+ },
+ "570459f9c6": {
+  "instruction": {
+   "letters": "gglistungr",
+   "ANSWER": "gurgling",
+   "length of word": "8"
+  }
+ },
+ "d58012a6da": {
+  "instruction": {
+   "letters": "iugjkd",
+   "ANSWER": "guid",
+   "length of word": "4"
+  }
+ },
+ "451a4f33e9": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[5]/div/ul/li[18]/a",
+    "text": "sup",
+    "html": "sup"
+   }
+  ],
+  "instruction": {
+   "length of word": "3",
+   "letters": "pqiesou"
+  }
+ },
+ "535711fe71": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[3]/div/ul/li[2]/a",
+    "text": "canal",
+    "html": "canal"
+   }
+  ],
+  "instruction": {
+   "length of word": "5",
+   "letters": "palwncalw",
+   "ANSWER": "canal"
+  }
+ },
+ "1ba7a3504c": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[3]/div/ul/li/a",
+    "text": "invertor",
+    "html": "invertor"
+   }
+  ],
+  "instruction": {
+   "length of word": "8",
+   "letters": "vttreonir",
+   "ANSWER": "invertor"
+  }
+ },
+ "707c995cf3": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "biology",
+    "html": "biology"
+   }
+  ],
+  "instruction": {
+   "length of word": "7",
+   "letters": "goyliob",
+   "ANSWER": "biology"
+  }
+ },
+ "ee185b4aa5": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "dichotomy",
+    "html": "dichotomy"
+   }
+  ],
+  "instruction": {
+   "length of word": "9",
+   "letters": "dhotcoymi",
+   "ANSWER": "dichotomy"
+  }
+ },
+ "564e0788dc": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div[3]/div/ul/li[2]/a",
+    "text": "bouncy",
+    "html": "bouncy"
+   }
+  ],
+  "instruction": {
+   "length of word": "6",
+   "letters": "ctdyonubucyf",
+   "ANSWER": "bonduc bouncy bounty buyout cobnut county obtund outbuy"
+  }
+ },
+ "b15ecab2ba": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "harbinger",
+    "html": "harbinger"
+   }
+  ],
+  "instruction": {
+   "length of word": "9",
+   "letters": "hgrainbre",
+   "ANSWER": "harbinger"
+  }
+ },
+ "0b5fe5824b": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "humidity",
+    "html": "humidity"
+   }
+  ],
+  "instruction": {
+   "length of word": "8",
+   "letters": "itdhmuyi",
+   "ANSWER": "humidity"
+  }
+ },
+ "6cc750b282": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "audible",
+    "html": "audible"
+   }
+  ],
+  "instruction": {
+   "length of word": "7",
+   "letters": "blidaue",
+   "ANSWER": "audible"
+  }
+ },
+ "bb7ec14e23": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "phone",
+    "html": "phone"
+   }
+  ],
+  "instruction": {
+   "length of word": "5",
+   "letters": "ophen",
+   "ANSWER": "phone"
+  }
+ },
+ "3594b3f0b6": {
+  "instruction": {
+   "letters": "deniats",
+   "ANSWER": "destain, detains, instead, nidates, sainted, stained",
+   "length of word": "7"
+  }
+ },
+ "556a884aaa": {
+  "spans": [
+   {
+    "url": "http://scrabblewordfinder.org/solver",
+    "xpath": "//*[@id=\"results-wrapper\"]/div/div/ul/li/a",
+    "text": "introvert",
+    "html": "introvert"
+   }
+  ],
+  "instruction": {
+   "length of word": "9",
+   "letters": "vttreonir",
+   "ANSWER": "introvert"
+  }
+ },
+ "0ee0c6da02": {
+  "instruction": {
+   "letters": "cretssa",
+   "ANSWER": "assert",
+   "length of word": "6"
+  }
+ },
+ "856c756d86": {
+  "instruction": {
+   "length of word": "3",
+   "letters": "gdo",
+   "ANSWER": "dog"
+  }
+ },
+ "5545bef24f": {
+  "instruction": {
+   "letters": "mifayhbcfiml",
+   "ANSWER": "amylic chaffy chammy chimla clammy cliffy cymbal family filmic iambic imbalm limbic",
+   "length of word": "6"
+  }
+ },
+ "a97e1b6978": {
+  "instruction": {
+   "length of word": "7",
+   "letters": "frsieai",
+   "ANSWER": "fairies"
+  }
+ },
+ "5f20a5fad7": {
+  "instruction": {
+   "letters": "fdiara",
+   "ANSWER": "afraid",
+   "length of word": "5"
+  }
+ },
+ "801754e248": {
+  "instruction": {
+   "length of word": "7",
+   "letters": "lptnaoe",
+   "ANSWER": "polenta"
+  }
+ },
+ "8ba65e45be": {
+  "instruction": {
+   "length of word": "7",
+   "letters": "quielisk",
+   "ANSWER": "silique"
+  }
+ },
+ "88bfbf6223": {
+  "instruction": {
+   "letters": "dssoerc",
+   "length of word": "7"
+  }
+ },
+ "b89a82eece": {
+  "instruction": {
+   "letters": "frsieai",
+   "ANSWER": "fairies",
+   "length of word": "7"
+  }
+ },
+ "cd3a63e9f9": {
+  "instruction": {
+   "letters": "cililti",
+   "ANSWER": "illicit",
+   "length of word": "7"
+  }
+ },
+ "dc826df0a9": {
+  "instruction": {
+   "letters": "dagnutr",
+   "ANSWER": "Tundra",
+   "length of word": "6"
+  }
+ },
+ "9c80864945": {
+  "instruction": {
+   "letters": "ssitue",
+   "ANSWER": "tissue",
+   "length of word": "5"
+  }
+ },
+ "3ec93fe708": {
+  "instruction": {
+   "length of word": "8",
+   "letters": "vestwiadsrr",
+   "ANSWER": "advisers"
+  }
+ },
+ "aba49d115c": {
+  "instruction": {
+   "length of word": "7",
+   "letters": "arpoadx",
+   "ANSWER": "paradox"
+  }
+ },
+ "647a29b7b5": {
+  "instruction": {
+   "length of word": "3",
+   "letters": "Amake",
+   "ANSWER": "ama, kae, kea, mae"
+  }
+ },
+ "e3de8c7934": {
+  "instruction": {
+   "length of word": "5",
+   "letters": "bstury",
+   "ANSWER": "Burst"
+  }
+ },
+ "731b2409b4": {
+  "instruction": {
+   "length of word": "6",
+   "letters": "oiygyutfcgdg",
+   "ANSWER": "codify fucoid"
+  }
+ },
+ "66178a98e0": {
+  "instruction": {
+   "letters": "iwopasd",
+   "length of word": "5"
+  }
+ },
+ "3ca6e80021": {
+  "instruction": {
+   "letters": "asaken",
+   "ANSWER": "Snake",
+   "length of word": "5"
+  }
+ },
+ "36655c1fa8": {
+  "instruction": {
+   "length of word": "6",
+   "letters": "mifayhbcfiml",
+   "ANSWER": "amylic chaffy chammy chimla clammy cliffy cymbal family filmic iambic imbalm limbic"
+  }
+ },
+ "2a86123110": {
+  "instruction": {
+   "letters": "poenagrt",
+   "ANSWER": "operant",
+   "length of word": "7"
+  }
+ },
+ "23b07f993c": {
+  "instruction": {
+   "letters": "ezaolus",
+   "ANSWER": "zealous",
+   "length of word": "7"
+  }
+ },
+ "a4a23e03bf": {
+  "instruction": {
+   "length of word": "7",
+   "letters": "hatrnsi",
+   "ANSWER": "tarnish"
+  }
+ },
+ "4527d73ac8": {
+  "instruction": {
+   "length of word": "5",
+   "letters": "ropde"
+  }
+ },
+ "40f67ca832": {
+  "instruction": {
+   "letters": "muytehk",
+   "ANSWER": "kythe, thyme",
+   "length of word": "5"
+  }
+ },
+ "f2e846d7c6": {
+  "instruction": {
+   "length of word": "8",
+   "letters": "gagrbatr",
+   "ANSWER": "braggart"
+  }
+ },
+ "15daa9685d": {
+  "instruction": {
+   "letters": "senhutr",
+   "ANSWER": "hunters, shunter",
+   "length of word": "7"
+  }
+ },
+ "bd9447609b": {
+  "instruction": {
+   "letters": "isrceksn",
+   "ANSWER": "snickers",
+   "length of word": "8"
+  }
+ },
+ "314b0e0aae": {
+  "instruction": {
+   "letters": "csience",
+   "ANSWER": "science",
+   "length of word": "7"
+  }
+ },
+ "2e9f6ef110": {
+  "instruction": {
+   "letters": "slacytat",
+   "ANSWER": "catalyst",
+   "length of word": "8"
+  }
+ },
+ "e34a43579c": {
+  "instruction": {
+   "length of word": "5",
+   "letters": "fdiara",
+   "ANSWER": "afraid"
+  }
+ },
+ "16f6d25224": {
+  "instruction": {
+   "letters": "vestwiadsrr",
+   "ANSWER": "advisers",
+   "length of word": "8"
+  }
+ },
+ "e433f74208": {
+  "instruction": {
+   "length of word": "5",
+   "letters": "dnast",
+   "ANSWER": "stand"
+  }
+ },
+ "9041055295": {
+  "instruction": {
+   "length of word": "5",
+   "letters": "Nather",
+   "ANSWER": "antre, earth, hater, heart, neath, rathe, thane"
+  }
+ },
+ "597dc10713": {
+  "instruction": {
+   "length of word": "6",
+   "letters": "rienew"
+  }
+ },
+ "06e4050287": {
+  "instruction": {
+   "length of word": "6",
+   "letters": "esduct",
+   "ANSWER": "Educts"
+  }
+ },
+ "a2742b2997": {
+  "instruction": {
+   "length of word": "6",
+   "letters": "smuesi",
+   "ANSWER": "misuse"
+  }
+ },
+ "6e05cf803d": {
+  "instruction": {
+   "letters": "nitmensceul",
+   "ANSWER": "luminescent",
+   "length of word": "11"
+  }
+ },
+ "20b1accaaf": {
+  "instruction": {
+   "length of word": "8",
+   "letters": "slacytat",
+   "ANSWER": "catalyst"
+  }
+ },
+ "24550153d1": {
+  "instruction": {
+   "letters": "pjvstjigxs",
+   "ANSWER": "gists spits spivs",
+   "length of word": "5"
+  }
+ },
+ "99b860b673": {
+  "instruction": {
+   "length of word": "7",
+   "letters": "ezaolus",
+   "ANSWER": "zealous"
+  }
+ },
+ "a54b11aec4": {
+  "instruction": {
+   "letters": "satcein",
+   "ANSWER": "acetins, cineast",
+   "length of word": "7"
+  }
+ },
+ "24ab6d403e": {
+  "instruction": {
+   "length of word": "7",
+   "letters": "ctseybivtddf",
+   "ANSWER": "testify"
+  }
+ },
+ "2cad49c1e3": {
+  "instruction": {
+   "length of word": "6",
+   "letters": "mestsy",
+   "ANSWER": "system"
+  }
+ },
+ "2f7f83e8a4": {
+  "instruction": {
+   "letters": "dianets",
+   "length of word": "6"
+  }
+ },
+ "ed3bb5d51d": {
+  "instruction": {
+   "length of word": "7",
+   "letters": "dssoerc"
+  }
+ }
+}

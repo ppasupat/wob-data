@@ -1,0 +1,62 @@
+{
+ "38df4fdc34": {
+  "instruction": {
+   "processor": "Intel Core i7-6850k",
+   "price": "$555"
+  }
+ },
+ "43bd5f38bf": {
+  "instruction": {
+   "processor": "AMD FX-9370",
+   "price": "$190"
+  }
+ },
+ "d5a59d0c4f": {
+  "instruction": {
+   "processor": "Intel Core i7-5960X",
+   "price": "$2265"
+  }
+ },
+ "daacc669c5": {
+  "instruction": {
+   "processor": "Intel Core i7-4770k",
+   "price": "$420"
+  }
+ },
+ "3b818c9039": {
+  "instruction": {
+   "processor": "Intel Core i7-6900k",
+   "price": "$1044"
+  }
+ },
+ "7b6fe9b4c2": {
+  "instruction": {
+   "processor": "Intel Core-i7-6800k",
+   "price": "$416"
+  }
+ },
+ "cd2d3d0284": {
+  "instruction": {
+   "processor": "AMD FX-9590",
+   "price": "$200"
+  }
+ },
+ "d5b83b532b": {
+  "instruction": {
+   "processor": "AMD FX-8320E",
+   "price": "$130"
+  }
+ },
+ "75d4885ce1": {
+  "instruction": {
+   "processor": "AMD Phenom II X6 1090T",
+   "price": "$290"
+  }
+ },
+ "c479984abd": {
+  "instruction": {
+   "processor": "Intel Core i7-6950k",
+   "price": "$1635"
+  }
+ }
+}

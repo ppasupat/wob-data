@@ -1,0 +1,62 @@
+{
+ "cea5c50fb7": {
+  "instruction": {
+   "type of food": "Burrito",
+   "state": "Arizona"
+  }
+ },
+ "9b868be2d6": {
+  "instruction": {
+   "type of food": "Fish",
+   "state": "California"
+  }
+ },
+ "45b8497e89": {
+  "instruction": {
+   "type of food": "Salmon",
+   "state": "Alaska"
+  }
+ },
+ "9319a0dcba": {
+  "instruction": {
+   "type of food": "Hot Browns",
+   "state": "Kentucky"
+  }
+ },
+ "ec3dc63513": {
+  "instruction": {
+   "type of food": "Catfish",
+   "state": "Arkansas"
+  }
+ },
+ "2d739ce503": {
+  "instruction": {
+   "type of food": "Peach Pie",
+   "state": "Georgia"
+  }
+ },
+ "744f231eab": {
+  "instruction": {
+   "type of food": "Key Lime Pie",
+   "state": "Florida"
+  }
+ },
+ "09e334249b": {
+  "instruction": {
+   "type of food": "Fried Green Tomatoes",
+   "state": "Alabama"
+  }
+ },
+ "fe28d1f802": {
+  "instruction": {
+   "type of food": "Hotdish",
+   "state": "Minnesota"
+  }
+ },
+ "a8182e117f": {
+  "instruction": {
+   "type of food": "Lobster",
+   "state": "Maine"
+  }
+ }
+}

@@ -1,0 +1,1972 @@
+{
+ "c15cab9ebc": {
+  "instruction": {
+   "geographic location": "Boston Mass.",
+   "check out date": "5/3/2017",
+   "number of people": "5",
+   "number of rooms": "2",
+   "check in date": "4/29/2017"
+  }
+ },
+ "c2bdcc5997": {
+  "instruction": {
+   "geographic location": "Billings, MT",
+   "check in date": "November 21, 2017",
+   "check out date": "November 26, 2017",
+   "number of people": "6",
+   "ANSWER": "42 Properties Found",
+   "number of rooms": "3"
+  }
+ },
+ "ceb2c57ae5": {
+  "instruction": {
+   "check in date": "4/29/2017",
+   "number of people": "2",
+   "geographic location": "Burlington, VT",
+   "number of rooms": "2",
+   "check out date": "4/30/2017",
+   "ANSWER": "Hampton Inn-Colchester, $238"
+  }
+ },
+ "2caae9a29d": {
+  "instruction": {
+   "geographic location": "New York, NY",
+   "check in date": "4/10/18",
+   "check out date": "4/15/18",
+   "number of people": "2",
+   "ANSWER": "Midtown East Next to Times Square",
+   "number of rooms": "2"
+  }
+ },
+ "f956487a49": {
+  "instruction": {
+   "geographic location": "Miami, Florida",
+   "check in date": "5/4/2017",
+   "check out date": "05/7/2017",
+   "number of people": "9",
+   "ANSWER": "Kimpton EPIC Hotel",
+   "number of rooms": "3"
+  }
+ },
+ "5db5fd9b85": {
+  "instruction": {
+   "geographic location": "San Francisco, California, USA",
+   "check in date": "02/21/2017",
+   "check out date": "02/24/2017",
+   "number of people": "1",
+   "ANSWER": "Villa Florence Hotel, 225 Powell Street, Union Square, San Francisco, CA 94102, United States of America",
+   "number of rooms": "1"
+  }
+ },
+ "78d4241e0d": {
+  "instruction": {
+   "geographic location": "Akron, OH",
+   "check in date": "May 10, 2017",
+   "check out date": "June 3, 2017",
+   "number of people": "10",
+   "ANSWER": "6 Properties Found",
+   "number of rooms": "2"
+  }
+ },
+ "eb05b980d6": {
+  "instruction": {
+   "check in date": "07/17/2017",
+   "number of people": "3",
+   "geographic location": "Seattle, Washington State, USA",
+   "number of rooms": "3",
+   "check out date": "07/19/2017",
+   "ANSWER": "Motif Seattle, 1415 Fifth Avenue, Seattle Central Business District, Seattle, WA 98101, United States of America"
+  }
+ },
+ "701425f39e": {
+  "instruction": {
+   "check in date": "3/3/2017",
+   "number of people": "15",
+   "geographic location": "Nassau, Bahamas",
+   "number of rooms": "5",
+   "check out date": "3/6/2017",
+   "ANSWER": "Comfort Suites Paradise Island"
+  }
+ },
+ "9161107468": {
+  "instruction": {
+   "geographic location": "Zorritos, Tumbes, Peru",
+   "check in date": "04/16/2017",
+   "check out date": "04/23/2017",
+   "number of people": "2",
+   "ANSWER": "19 properties found",
+   "number of rooms": "1"
+  }
+ },
+ "86d431805e": {
+  "instruction": {
+   "check in date": "4/10/2017",
+   "number of people": "2",
+   "geographic location": "Miami, FL",
+   "number of rooms": "1",
+   "check out date": "4/15/2017",
+   "ANSWER": "Kimpton EPIC Hotel "
+  }
+ },
+ "fd883c9fe5": {
+  "instruction": {
+   "check in date": "3/5/2017",
+   "number of people": "1",
+   "geographic location": "Denver, CO",
+   "number of rooms": "1",
+   "check out date": "3/7/2017",
+   "ANSWER": "Homewood Suites- Denver Downtown Convention Center "
+  }
+ },
+ "62cf1b9f31": {
+  "instruction": {
+   "geographic location": "Portland, OR",
+   "check in date": "4/05/2017",
+   "check out date": "4/10/2017",
+   "number of people": "5",
+   "ANSWER": "La Quinta Inn & Suites Portland Airport ",
+   "number of rooms": "2"
+  }
+ },
+ "15c0df113b": {
+  "instruction": {
+   "check in date": "5/13/2017",
+   "number of people": "4",
+   "geographic location": "Columbus, OH",
+   "number of rooms": "4",
+   "check out date": "5/18/2017",
+   "ANSWER": "Best Western Port Columbus"
+  }
+ },
+ "337469122a": {
+  "instruction": {
+   "check in date": "02/21/2017",
+   "number of people": "1",
+   "geographic location": "San Francisco, California, USA",
+   "number of rooms": "1",
+   "check out date": "02/24/2017",
+   "ANSWER": "Villa Florence Hotel, 225 Powell Street, Union Square, San Francisco, CA 94102, United States of America"
+  }
+ },
+ "370b34be10": {
+  "instruction": {
+   "check in date": "8/7/2017",
+   "number of people": "5",
+   "geographic location": "Charlottesville, VA",
+   "number of rooms": "5",
+   "check out date": "8/10/2017",
+   "ANSWER": "Graduate Charlottesville "
+  }
+ },
+ "dfec249e9d": {
+  "instruction": {
+   "check in date": "3/25/2017",
+   "number of people": "2",
+   "geographic location": "San Francisco, CA",
+   "number of rooms": "1",
+   "check out date": "3/26/2017",
+   "ANSWER": " Hilton San Francisco Union Square $329"
+  }
+ },
+ "06a4a2aab5": {
+  "instruction": {
+   "check in date": "4/5/2017",
+   "number of people": "4",
+   "geographic location": "Fort Lauderdale, FL",
+   "number of rooms": "2",
+   "check out date": "4/9/2017",
+   "ANSWER": "Sonesta Fort Lauderdale Beach"
+  }
+ },
+ "02fde38ea1": {
+  "instruction": {
+   "geographic location": "New Haven",
+   "check in date": "2/27/2017",
+   "check out date": "2/29/2017",
+   "number of people": "2",
+   "ANSWER": "New Haven Village Suites ",
+   "number of rooms": "1"
+  }
+ },
+ "0c0f2c3987": {
+  "instruction": {
+   "geographic location": "Las Vegas, Nevada",
+   "check in date": "6/1/2017",
+   "check out date": "6/5/2017",
+   "number of people": "8",
+   "ANSWER": "Bellagio",
+   "number of rooms": "4"
+  }
+ },
+ "35b6203b32": {
+  "instruction": {
+   "geographic location": "Houston",
+   "check in date": "2/13/2017",
+   "check out date": "2/17/2017",
+   "number of people": "2",
+   "ANSWER": "Omni Houston Hotel Westside ",
+   "number of rooms": "1"
+  }
+ },
+ "e7155c4306": {
+  "instruction": {
+   "geographic location": "Pittsburgh, PA",
+   "check in date": "5/23/2017",
+   "check out date": "5/26/2017",
+   "number of people": "2",
+   "ANSWER": "Courtyard by Marriott Pittsburgh Downtown",
+   "number of rooms": "2"
+  }
+ },
+ "f0d4407522": {
+  "instruction": {
+   "geographic location": "Las Vegas, NV",
+   "check in date": "3/20/2017",
+   "check out date": "3/25/2017",
+   "number of people": "4",
+   "ANSWER": "ARIA Resort & Casino at CityCenter Las Vegas ",
+   "number of rooms": "2"
+  }
+ },
+ "0b1f07d653": {
+  "instruction": {
+   "check in date": "06/02/2017",
+   "number of people": "12",
+   "geographic location": "Washington DC Metropolitan area, USA",
+   "number of rooms": "4",
+   "check out date": "06/07/2017",
+   "ANSWER": "Kimpton Glover Park Hotel, 2505 Wisconsin Avenue, Northwest, Washington, DC, DC 20007, United States of America"
+  }
+ },
+ "16536835b4": {
+  "instruction": {
+   "geographic location": "Martha's Vineyard",
+   "number of people": "4",
+   "check in date": "6/4/2017",
+   "check out date": "6/9/2017",
+   "number of rooms": "2"
+  }
+ },
+ "eb3b1ec8ee": {
+  "instruction": {
+   "geographic location": "Charleston, SC",
+   "check in date": "December 22, 2017",
+   "check out date": "December 27, 2017",
+   "number of people": "18",
+   "ANSWER": "55 Properties Found",
+   "number of rooms": "6"
+  }
+ },
+ "3b4903a983": {
+  "instruction": {
+   "geographic location": "Venice, Italy",
+   "check in date": "9/1/2017",
+   "check out date": "9/14/2017",
+   "number of people": "3",
+   "ANSWER": "Baglioni Hotel Luna",
+   "number of rooms": "3"
+  }
+ },
+ "599469df85": {
+  "instruction": {
+   "check in date": "2/16/2017",
+   "number of people": "3",
+   "geographic location": "Tempe",
+   "number of rooms": "2",
+   "check out date": "2/20/2017",
+   "ANSWER": " Residence Inn by Marriott Tempe Downtown/University"
+  }
+ },
+ "d2fd1e56d1": {
+  "instruction": {
+   "geographic location": "Key West, FL",
+   "number of people": "2",
+   "check in date": "3/21/2017",
+   "check out date": "3/25/2017",
+   "number of rooms": "2"
+  }
+ },
+ "53ef08ae6a": {
+  "instruction": {
+   "geographic location": "New York City, NY",
+   "check in date": "7/2/2017",
+   "check out date": "7/5/2017",
+   "number of people": "3",
+   "ANSWER": "Loft with Central Park View",
+   "number of rooms": "1"
+  }
+ },
+ "d90592e36c": {
+  "instruction": {
+   "check in date": "03/03/2017",
+   "number of people": "4",
+   "geographic location": "London",
+   "number of rooms": "4",
+   "check out date": "03/06/2017",
+   "ANSWER": "1,358 properties found"
+  }
+ },
+ "04e28c35e0": {
+  "instruction": {
+   "check in date": "2/18/2017",
+   "number of people": "4",
+   "geographic location": "Orlando",
+   "number of rooms": "2",
+   "check out date": "2/23/2017",
+   "ANSWER": "Comfort Inn Orlando - Lake Buena Vista "
+  }
+ },
+ "5614c03c9e": {
+  "instruction": {
+   "geographic location": "Mount Pleasant Charleston, SC",
+   "check in date": "5/1/2017",
+   "check out date": "5/10/2017",
+   "number of people": "2",
+   "ANSWER": "Holiday Inn Express Suites Charleston NE Mt Pleasant US17",
+   "number of rooms": "1"
+  }
+ },
+ "b61007279e": {
+  "instruction": {
+   "check in date": "4/10/17",
+   "number of people": "5",
+   "geographic location": "New Orlean's, Louisanna",
+   "number of rooms": "2",
+   "check out date": "4/12/17",
+   "ANSWER": "Blue60 Guest House"
+  }
+ },
+ "a3b24a3e1d": {
+  "instruction": {
+   "geographic location": "downtown LA",
+   "check out date": "2/25/2017",
+   "number of people": "3",
+   "number of rooms": "1",
+   "check in date": "2/23/2017"
+  }
+ },
+ "d42cd095d1": {
+  "instruction": {
+   "check in date": "2/27/2017",
+   "number of people": "2",
+   "geographic location": "New Haven",
+   "number of rooms": "1",
+   "check out date": "2/29/2017",
+   "ANSWER": "New Haven Village Suites "
+  }
+ },
+ "45e0c37183": {
+  "instruction": {
+   "check in date": "03/06/2017",
+   "number of people": "5",
+   "geographic location": "Canterbury, Kent, United Kingdom",
+   "number of rooms": "1",
+   "check out date": "03/16/2017",
+   "ANSWER": "The Thatch, The Thatch The Street, Wickhambreaux, Canterbury, CT3 1RJ, United Kingdom"
+  }
+ },
+ "53698b8768": {
+  "instruction": {
+   "check out date": "4/30/2017",
+   "number of people": "3",
+   "number of rooms": "2",
+   "geographic location": "Seattle",
+   "check in date": "4/21/2017"
+  }
+ },
+ "25cbcf2b1b": {
+  "instruction": {
+   "check in date": "02/19/2017",
+   "number of people": "4",
+   "geographic location": "Hamburg",
+   "number of rooms": "1",
+   "check out date": "02/22/2017",
+   "ANSWER": "255 properties found"
+  }
+ },
+ "8ededda7c2": {
+  "instruction": {
+   "check in date": "11/09/2017",
+   "number of people": "7",
+   "geographic location": "Ida Mountains, Kucukkuyu, Aegean Region, Turkey",
+   "number of rooms": "4",
+   "check out date": "11/13/2017",
+   "ANSWER": "16 properties found"
+  }
+ },
+ "fa4959583d": {
+  "instruction": {
+   "geographic location": "Malibu, CA",
+   "check in date": "6/5/2017",
+   "check out date": "6/8/2017",
+   "number of people": "3",
+   "ANSWER": "Malibu Country Inn ",
+   "number of rooms": "2"
+  }
+ },
+ "3d77ab1a2a": {
+  "instruction": {
+   "check in date": "07/08/2017",
+   "number of people": "1",
+   "geographic location": "osaka",
+   "number of rooms": "1",
+   "check out date": "07/09/2017",
+   "ANSWER": "322 properties found"
+  }
+ },
+ "751d9aedc0": {
+  "instruction": {
+   "geographic location": "las Vegas, Nevada",
+   "check in date": "3/20/17",
+   "check out date": "3/25/2017",
+   "number of people": "6",
+   "ANSWER": "Cannery Casino and Hotel",
+   "number of rooms": "6"
+  }
+ },
+ "3fa2bd0966": {
+  "instruction": {
+   "geographic location": "Burlington, VT",
+   "check in date": "4/29/2017",
+   "check out date": "4/30/2017",
+   "number of people": "2",
+   "ANSWER": "Hampton Inn-Colchester, $238",
+   "number of rooms": "2"
+  }
+ },
+ "69b5459ec8": {
+  "instruction": {
+   "geographic location": "Memphis, Tennessee",
+   "check in date": "10/20/2017",
+   "check out date": "10/25/2017",
+   "number of people": "8",
+   "ANSWER": "Hilton Memphis",
+   "number of rooms": "5"
+  }
+ },
+ "be77964231": {
+  "instruction": {
+   "geographic location": "New Jersey",
+   "check in date": "3/27/2017",
+   "check out date": "3/31/2017",
+   "number of people": "1",
+   "ANSWER": "Hampton Inn and Suites Robinsville",
+   "number of rooms": "1"
+  }
+ },
+ "e1ad693b86": {
+  "instruction": {
+   "geographic location": "Belgium",
+   "check in date": "February 3, 2018",
+   "check out date": "February 17, 2018",
+   "number of people": "8",
+   "ANSWER": "779 Properties Found",
+   "number of rooms": "4"
+  }
+ },
+ "b52f1fbeb1": {
+  "instruction": {
+   "geographic location": "Houston, Texas",
+   "check in date": "June 26, 2017",
+   "check out date": "June 30, 2017",
+   "number of people": "3",
+   "ANSWER": "16 Properties Found",
+   "number of rooms": "3"
+  }
+ },
+ "006027e168": {
+  "instruction": {
+   "check in date": "10/25/2017",
+   "number of people": "5",
+   "geographic location": "Mexico City, Mexico",
+   "number of rooms": "3",
+   "check out date": "11/5/2017",
+   "ANSWER": "City Express La Raza"
+  }
+ },
+ "7f42ff76c7": {
+  "instruction": {
+   "check in date": "5/4/2017",
+   "number of people": "9",
+   "geographic location": "Miami, Florida",
+   "number of rooms": "3",
+   "check out date": "05/7/2017",
+   "ANSWER": "Kimpton EPIC Hotel"
+  }
+ },
+ "9b7b8ec223": {
+  "instruction": {
+   "geographic location": "LA",
+   "check in date": "2/23/2017",
+   "check out date": "2/25/2017",
+   "number of people": "3",
+   "ANSWER": "Four Seasons Las Angeles at Beverly Hills",
+   "number of rooms": "1"
+  }
+ },
+ "867884e5c4": {
+  "instruction": {
+   "geographic location": "Philadelphia, PA",
+   "check in date": "6/7/2017",
+   "check out date": "6/8/2017",
+   "number of people": "2",
+   "ANSWER": "Wyndham Philadelphia-Historic District",
+   "number of rooms": "1"
+  }
+ },
+ "369b173f5d": {
+  "instruction": {
+   "check in date": "3/18/2017",
+   "number of people": "2",
+   "geographic location": "Palm Springs, CA",
+   "number of rooms": "1",
+   "check out date": "3/19/2017",
+   "ANSWER": "Caliente Tropics, $230"
+  }
+ },
+ "cbe2841114": {
+  "instruction": {
+   "geographic location": "Reno, NV",
+   "check in date": "4/1/2017",
+   "check out date": "4/3/2017",
+   "number of people": "2",
+   "ANSWER": "Circus Circus, $144",
+   "number of rooms": "1"
+  }
+ },
+ "96b67d70e9": {
+  "instruction": {
+   "geographic location": "Reno, NV",
+   "check in date": "7/3/2017",
+   "check out date": "7/8/2017",
+   "number of people": "8",
+   "ANSWER": "Whitney Peak Hotel ",
+   "number of rooms": "5"
+  }
+ },
+ "8e3f71f89d": {
+  "instruction": {
+   "check in date": "2/26/2017",
+   "number of people": "2",
+   "geographic location": "SD",
+   "number of rooms": "1",
+   "check out date": "2/29/2017",
+   "ANSWER": "Staypineapple at Hotel Z "
+  }
+ },
+ "2ed40930ec": {
+  "instruction": {
+   "geographic location": "Orlando, FL",
+   "check in date": "August 12, 2017",
+   "check out date": "August 20, 2017",
+   "number of people": "12",
+   "ANSWER": "431 Properties Found",
+   "number of rooms": "10"
+  }
+ },
+ "af9cfd81bb": {
+  "instruction": {
+   "geographic location": "Tampa, Florida",
+   "check in date": "4/10/2017",
+   "check out date": "4/18/2017",
+   "number of people": "6",
+   "ANSWER": "Renaissance Tampa International Plaza Hotel",
+   "number of rooms": "2"
+  }
+ },
+ "fcfa104c12": {
+  "instruction": {
+   "check in date": "6/1/2017",
+   "number of people": "8",
+   "geographic location": "Las Vegas, Nevada",
+   "number of rooms": "4",
+   "check out date": "6/5/2017",
+   "ANSWER": "Bellagio"
+  }
+ },
+ "3219158152": {
+  "instruction": {
+   "geographic location": "Martha's Vineyard",
+   "check out date": "6/9/2017",
+   "number of people": "4",
+   "number of rooms": "2",
+   "check in date": "6/4/2017"
+  }
+ },
+ "e7ac404915": {
+  "instruction": {
+   "check in date": "3/27/2017",
+   "number of people": "1",
+   "geographic location": "New Jersey",
+   "number of rooms": "1",
+   "check out date": "3/31/2017",
+   "ANSWER": "Hampton Inn and Suites Robinsville"
+  }
+ },
+ "03643f629a": {
+  "instruction": {
+   "geographic location": "St Thomas, Virgin Island",
+   "check in date": "June 2, 2017",
+   "check out date": "June 6, 2017",
+   "number of people": "1",
+   "ANSWER": "42 Properties Found",
+   "number of rooms": "1"
+  }
+ },
+ "1e1b2bdaf0": {
+  "instruction": {
+   "geographic location": "London",
+   "check in date": "03/03/2017",
+   "check out date": "03/06/2017",
+   "number of people": "4",
+   "ANSWER": "1,358 properties found",
+   "number of rooms": "4"
+  }
+ },
+ "11c45286f2": {
+  "instruction": {
+   "geographic location": "downtown LA",
+   "number of people": "3",
+   "check in date": "2/23/2017",
+   "check out date": "2/25/2017",
+   "number of rooms": "1"
+  }
+ },
+ "268b67d7f8": {
+  "instruction": {
+   "check in date": "7/1/17",
+   "number of people": "20",
+   "geographic location": "Atlanta, Georgia",
+   "number of rooms": "10",
+   "check out date": "7/8/17",
+   "ANSWER": "The Hilton Garden Inn Atlanta Downtown "
+  }
+ },
+ "72f47e3ea7": {
+  "instruction": {
+   "geographic location": "Frankfurt",
+   "number of people": "6",
+   "check in date": "5/4/2017",
+   "check out date": "5/16/2017",
+   "number of rooms": "2"
+  }
+ },
+ "3003db5c7c": {
+  "instruction": {
+   "check in date": "3/24/2017",
+   "number of people": "4",
+   "geographic location": "Malibu, CA",
+   "number of rooms": "2",
+   "check out date": "3/26/2017",
+   "ANSWER": "Malibu Country Inn, $1196"
+  }
+ },
+ "08ed82d576": {
+  "instruction": {
+   "geographic location": "Niagra Falls",
+   "check out date": "7/15/2017",
+   "number of people": "8",
+   "number of rooms": "3",
+   "check in date": "7/1/2017"
+  }
+ },
+ "e1890a1c1a": {
+  "instruction": {
+   "geographic location": "NYC",
+   "check out date": "2/25/2017",
+   "number of people": "2",
+   "number of rooms": "1",
+   "check in date": "2/21/2017"
+  }
+ },
+ "4ffcd1d7b9": {
+  "instruction": {
+   "check in date": "5/8/2017",
+   "number of people": "4",
+   "geographic location": "Wyoming",
+   "number of rooms": "3",
+   "check out date": "5/11/2017",
+   "ANSWER": "AmericInn Lodge and Suites Laramie"
+  }
+ },
+ "ee11b07f9b": {
+  "instruction": {
+   "check in date": "7/18/2017",
+   "number of people": "7",
+   "geographic location": "Boulder, CO",
+   "number of rooms": "4",
+   "check out date": "7/21/2017",
+   "ANSWER": "Boulder Adventure Lodge "
+  }
+ },
+ "7efee0c06f": {
+  "instruction": {
+   "check in date": "04/08/2017",
+   "number of people": "4",
+   "geographic location": "Santor\u00edni, Greece",
+   "number of rooms": "2",
+   "check out date": "04/12/2017",
+   "ANSWER": "Hotel Thireas, Main Street, Fira, 84700, Greece"
+  }
+ },
+ "4032a0d7f8": {
+  "instruction": {
+   "geographic location": "Washington D.C.",
+   "check in date": "4/20/2017",
+   "check out date": "4/25/2017",
+   "number of people": "3",
+   "ANSWER": "JW Marriott Washington, DC ",
+   "number of rooms": "1"
+  }
+ },
+ "8a65b130df": {
+  "instruction": {
+   "check in date": "09/03/2017",
+   "number of people": "2",
+   "geographic location": "Caldas Novas, Goi\u00e1s, Brazil",
+   "number of rooms": "1",
+   "check out date": "09/09/2017",
+   "ANSWER": "106 properties found"
+  }
+ },
+ "aa2974c488": {
+  "instruction": {
+   "geographic location": "Malibu, CA",
+   "check in date": "3/24/2017",
+   "check out date": "3/26/2017",
+   "number of people": "4",
+   "ANSWER": "Malibu Country Inn, $1196",
+   "number of rooms": "2"
+  }
+ },
+ "d9ad867bf8": {
+  "instruction": {
+   "check in date": "3/20/2017",
+   "number of people": "4",
+   "geographic location": "Las Vegas, NV",
+   "number of rooms": "2",
+   "check out date": "3/25/2017",
+   "ANSWER": "ARIA Resort & Casino at CityCenter Las Vegas "
+  }
+ },
+ "26c71882fe": {
+  "instruction": {
+   "geographic location": "Boston Mass.",
+   "number of people": "5",
+   "check in date": "4/29/2017",
+   "check out date": "5/3/2017",
+   "number of rooms": "2"
+  }
+ },
+ "81b7ab30a5": {
+  "instruction": {
+   "geographic location": "Phoenix, AZ",
+   "check in date": "2/25/2017",
+   "check out date": "2/28/2017",
+   "number of people": "2",
+   "ANSWER": "Drury Inn & Suites Phoenix Happy Valley",
+   "number of rooms": "1"
+  }
+ },
+ "d91a613f16": {
+  "instruction": {
+   "check in date": "10/20/2017",
+   "number of people": "8",
+   "geographic location": "Memphis, Tennessee",
+   "number of rooms": "5",
+   "check out date": "10/25/2017",
+   "ANSWER": "Hilton Memphis"
+  }
+ },
+ "4af52dbbb0": {
+  "instruction": {
+   "geographic location": "Charlottesville, VA",
+   "check in date": "8/7/2017",
+   "check out date": "8/10/2017",
+   "number of people": "5",
+   "ANSWER": "Graduate Charlottesville ",
+   "number of rooms": "5"
+  }
+ },
+ "79fd3c76d9": {
+  "instruction": {
+   "geographic location": "Yalta, Big Yalta, Crimea",
+   "check in date": "10/01/2017",
+   "check out date": "10/05/2017",
+   "number of people": "8",
+   "ANSWER": " 219 properties found",
+   "number of rooms": "2"
+  }
+ },
+ "c86506c3e2": {
+  "instruction": {
+   "check in date": "2/24/2017",
+   "number of people": "2",
+   "geographic location": "SF",
+   "number of rooms": "1",
+   "check out date": "2/28/2017",
+   "ANSWER": " San Francisco Airport Marriott Waterfront "
+  }
+ },
+ "984a1c18d2": {
+  "instruction": {
+   "geographic location": "Cheyenne, WY",
+   "check in date": "8/22/2017",
+   "check out date": "8/25/2017",
+   "number of people": "3",
+   "ANSWER": "SpringHill Suites by Marriott Cheyenne",
+   "number of rooms": "2"
+  }
+ },
+ "6518098008": {
+  "instruction": {
+   "geographic location": "Niagra Falls",
+   "number of people": "8",
+   "check in date": "7/1/2017",
+   "check out date": "7/15/2017",
+   "number of rooms": "3"
+  }
+ },
+ "3789b31060": {
+  "instruction": {
+   "geographic location": "Universal Studios Orlando Area, Orlando, Florida, USA",
+   "check in date": "04/02/2017",
+   "check out date": "04/09/2017",
+   "number of people": "10",
+   "ANSWER": "43 properties found",
+   "number of rooms": "6"
+  }
+ },
+ "748d9d3999": {
+  "instruction": {
+   "geographic location": "ATL",
+   "check in date": "2/25/2017",
+   "check out date": "2/28/2017",
+   "number of people": "3",
+   "ANSWER": "Ramada Plaza Atlanta Capitol Park",
+   "number of rooms": "2"
+  }
+ },
+ "fd4900f283": {
+  "instruction": {
+   "geographic location": "Houston, Texas",
+   "check out date": "10/13/2017",
+   "number of people": "12",
+   "number of rooms": "4",
+   "check in date": "10/10/2017"
+  }
+ },
+ "9e3302ffdf": {
+  "instruction": {
+   "geographic location": "Santor\u00edni, Greece",
+   "check in date": "04/08/2017",
+   "check out date": "04/12/2017",
+   "number of people": "4",
+   "ANSWER": "Hotel Thireas, Main Street, Fira, 84700, Greece",
+   "number of rooms": "2"
+  }
+ },
+ "ae90675bc6": {
+  "instruction": {
+   "geographic location": "Los Angeles, CA",
+   "check in date": "3/5/2017",
+   "check out date": "3/10/2017",
+   "number of people": "3",
+   "ANSWER": "Hilton Los Angeles-Universal City ",
+   "number of rooms": "2"
+  }
+ },
+ "6bb1435853": {
+  "instruction": {
+   "check in date": "7/3/2017",
+   "number of people": "8",
+   "geographic location": "Reno, NV",
+   "number of rooms": "5",
+   "check out date": "7/8/2017",
+   "ANSWER": "Whitney Peak Hotel "
+  }
+ },
+ "be17675228": {
+  "instruction": {
+   "check in date": "2/15/2017",
+   "number of people": "4",
+   "geographic location": "Dallas",
+   "number of rooms": "2",
+   "check out date": "2/21/2017",
+   "ANSWER": "Hilton Garden Inn Downtown Dallas "
+  }
+ },
+ "ffe2df0603": {
+  "instruction": {
+   "geographic location": "Washington, DC",
+   "check in date": "6/15/17",
+   "check out date": "6/18/17",
+   "number of people": "10",
+   "ANSWER": "Four Seasons Washington DC",
+   "number of rooms": "5"
+  }
+ },
+ "429037fe9f": {
+  "instruction": {
+   "geographic location": "Wyoming",
+   "check in date": "5/8/2017",
+   "check out date": "5/11/2017",
+   "number of people": "4",
+   "ANSWER": "AmericInn Lodge and Suites Laramie",
+   "number of rooms": "3"
+  }
+ },
+ "192fec2baa": {
+  "instruction": {
+   "geographic location": "Austin, TX",
+   "check in date": "3/17/2017",
+   "check out date": "3/19/2017",
+   "number of people": "1",
+   "ANSWER": "Hampton Inn and Suites Austin-Downtown, $592",
+   "number of rooms": "1"
+  }
+ },
+ "91f830aa31": {
+  "instruction": {
+   "check in date": "5/23/2017",
+   "number of people": "2",
+   "geographic location": "Pittsburgh, PA",
+   "number of rooms": "2",
+   "check out date": "5/26/2017",
+   "ANSWER": "Courtyard by Marriott Pittsburgh Downtown"
+  }
+ },
+ "f78da01405": {
+  "instruction": {
+   "check out date": "6/2/2017",
+   "number of people": "10",
+   "number of rooms": "4",
+   "geographic location": "Palm Springs",
+   "check in date": "5/18/2017"
+  }
+ },
+ "95ea8262f0": {
+  "instruction": {
+   "geographic location": "Barcelona, Spain",
+   "check in date": "12/23/2017",
+   "check out date": "12/27/2017",
+   "number of people": "2",
+   "ANSWER": "Catalonia Magdalenes ",
+   "number of rooms": "1"
+  }
+ },
+ "4a1b5a1c8d": {
+  "instruction": {
+   "check in date": "2/25/2017",
+   "number of people": "2",
+   "geographic location": "Phoenix, AZ",
+   "number of rooms": "1",
+   "check out date": "2/28/2017",
+   "ANSWER": "Drury Inn & Suites Phoenix Happy Valley"
+  }
+ },
+ "c5ba51dbab": {
+  "instruction": {
+   "geographic location": "Orlando",
+   "check in date": "2/18/2017",
+   "check out date": "2/23/2017",
+   "number of people": "4",
+   "ANSWER": "Comfort Inn Orlando - Lake Buena Vista ",
+   "number of rooms": "2"
+  }
+ },
+ "4de1374415": {
+  "instruction": {
+   "check out date": "6/9/2017",
+   "number of people": "4",
+   "number of rooms": "2",
+   "geographic location": "Martha's Vineyard",
+   "check in date": "6/4/2017"
+  }
+ },
+ "4f36167483": {
+  "instruction": {
+   "check in date": "2/23/2017",
+   "number of people": "3",
+   "geographic location": "LA",
+   "number of rooms": "1",
+   "check out date": "2/25/2017",
+   "ANSWER": "Four Seasons Las Angeles at Beverly Hills"
+  }
+ },
+ "8b0f449e56": {
+  "instruction": {
+   "check in date": "5/19/2017",
+   "number of people": "4",
+   "geographic location": "Bar Harbor, ME",
+   "number of rooms": "2",
+   "check out date": "5/20/2017",
+   "ANSWER": "Bar Harbor Grand Hotel, $330"
+  }
+ },
+ "e0c6252f1e": {
+  "instruction": {
+   "geographic location": "Seattle",
+   "check out date": "4/30/2017",
+   "number of people": "3",
+   "number of rooms": "2",
+   "check in date": "4/21/2017"
+  }
+ },
+ "e74bba1f9f": {
+  "instruction": {
+   "check in date": "4/01/2017",
+   "number of people": "10",
+   "geographic location": "New York, NY",
+   "number of rooms": "5",
+   "check out date": "4/05/2017",
+   "ANSWER": "Hotel Pennsylvania"
+  }
+ },
+ "cedd2cb0a0": {
+  "instruction": {
+   "check in date": "10/28/2017",
+   "number of people": "4",
+   "geographic location": "Napa Valley Wine Country, USA",
+   "number of rooms": "1",
+   "check out date": "11/01/2017",
+   "ANSWER": "Silverado Resort and Spa, 1600 Atlas Peak Road, Napa, CA 94558, United States of America"
+  }
+ },
+ "c4571e6c41": {
+  "instruction": {
+   "geographic location": "Atlanta, Georgia, USA",
+   "check in date": "08/01/2017",
+   "check out date": "08/02/2017",
+   "number of people": "2",
+   "ANSWER": "Hilton Atlanta Airport, 1031 Virginia Avenue, Atlanta, GA 30354, United States of America",
+   "number of rooms": "1"
+  }
+ },
+ "368825e667": {
+  "instruction": {
+   "check in date": "12/23/2017",
+   "number of people": "2",
+   "geographic location": "Barcelona, Spain",
+   "number of rooms": "1",
+   "check out date": "12/27/2017",
+   "ANSWER": "Catalonia Magdalenes "
+  }
+ },
+ "c5476f52cf": {
+  "instruction": {
+   "geographic location": "Fort Lauderdale, FL",
+   "check in date": "4/5/2017",
+   "check out date": "4/9/2017",
+   "number of people": "4",
+   "ANSWER": "Sonesta Fort Lauderdale Beach",
+   "number of rooms": "2"
+  }
+ },
+ "f1e193edc1": {
+  "instruction": {
+   "geographic location": "San Francisco, CA",
+   "check in date": "3/25/2017",
+   "check out date": "3/26/2017",
+   "number of people": "2",
+   "ANSWER": " Hilton San Francisco Union Square $329",
+   "number of rooms": "1"
+  }
+ },
+ "bde58c418e": {
+  "instruction": {
+   "check in date": "3/5/2017",
+   "number of people": "3",
+   "geographic location": "Los Angeles, CA",
+   "number of rooms": "2",
+   "check out date": "3/10/2017",
+   "ANSWER": "Hilton Los Angeles-Universal City "
+  }
+ },
+ "7177791261": {
+  "instruction": {
+   "check in date": "06/15/2017",
+   "number of people": "5",
+   "geographic location": "Rosarito, Baja California, Mexico",
+   "number of rooms": "2",
+   "check out date": "06/24/2017",
+   "ANSWER": "Bobby's by the Sea, Km 43 carretera libre Rosarito - Ensenada, 22700 Rosarito, Mexico"
+  }
+ },
+ "c48e821aba": {
+  "instruction": {
+   "geographic location": "Bar Harbor, ME",
+   "check in date": "5/19/2017",
+   "check out date": "5/20/2017",
+   "number of people": "4",
+   "ANSWER": "Bar Harbor Grand Hotel, $330",
+   "number of rooms": "2"
+  }
+ },
+ "dd43c1f00e": {
+  "instruction": {
+   "check out date": "10/13/2017",
+   "number of people": "12",
+   "number of rooms": "4",
+   "geographic location": "Houston, Texas",
+   "check in date": "10/10/2017"
+  }
+ },
+ "85804b9ec4": {
+  "instruction": {
+   "check in date": "9/1/2017",
+   "number of people": "3",
+   "geographic location": "Venice, Italy",
+   "number of rooms": "3",
+   "check out date": "9/14/2017",
+   "ANSWER": "Baglioni Hotel Luna"
+  }
+ },
+ "55fab5c196": {
+  "instruction": {
+   "check in date": "2/13/2017",
+   "number of people": "2",
+   "geographic location": "Houston",
+   "number of rooms": "1",
+   "check out date": "2/17/2017",
+   "ANSWER": "Omni Houston Hotel Westside "
+  }
+ },
+ "b3ebea422c": {
+  "instruction": {
+   "geographic location": "Frankfurt",
+   "check out date": "5/16/2017",
+   "number of people": "6",
+   "number of rooms": "2",
+   "check in date": "5/4/2017"
+  }
+ },
+ "d446d9947c": {
+  "instruction": {
+   "geographic location": "Tokyo",
+   "check in date": "08/17/2017",
+   "check out date": "08/25/2017",
+   "number of people": "5",
+   "ANSWER": "440 properties found",
+   "number of rooms": "3"
+  }
+ },
+ "4b4362736d": {
+  "instruction": {
+   "check in date": "04/02/2017",
+   "number of people": "10",
+   "geographic location": "Universal Studios Orlando Area, Orlando, Florida, USA",
+   "number of rooms": "6",
+   "check out date": "04/09/2017",
+   "ANSWER": "43 properties found"
+  }
+ },
+ "304cd7ad82": {
+  "instruction": {
+   "check out date": "2/25/2017",
+   "number of people": "3",
+   "number of rooms": "1",
+   "geographic location": "downtown LA",
+   "check in date": "2/23/2017"
+  }
+ },
+ "4a78baf5dd": {
+  "instruction": {
+   "geographic location": "Mexico City, Mexico",
+   "check in date": "10/25/2017",
+   "check out date": "11/5/2017",
+   "number of people": "5",
+   "ANSWER": "City Express La Raza",
+   "number of rooms": "3"
+  }
+ },
+ "6f3a94e85b": {
+  "instruction": {
+   "geographic location": "Las Vegas, NV",
+   "check in date": "June 2, 2017",
+   "check out date": "June 10, 2017",
+   "number of people": "25",
+   "ANSWER": "180 Properties Found",
+   "number of rooms": "15"
+  }
+ },
+ "4487fc5cd3": {
+  "instruction": {
+   "geographic location": "Colorado Springs, CO",
+   "check in date": "7/3/2017",
+   "check out date": "7/6/2017",
+   "number of people": "5",
+   "ANSWER": "Fairfield Inn Colorado Springs Air Force Academy",
+   "number of rooms": "2"
+  }
+ },
+ "81cd745faa": {
+  "instruction": {
+   "geographic location": "Carlsbad, California, USA",
+   "check in date": "5/10/2017",
+   "check out date": "5/17/2017",
+   "number of people": "3",
+   "ANSWER": "Four Seasons Residence Club Aviara, 7210 Blue Heron Place, Carlsbad, CA 92011, United States of America",
+   "number of rooms": "1"
+  }
+ },
+ "1f5227874c": {
+  "instruction": {
+   "geographic location": "New Orlean's, Louisanna",
+   "check in date": "4/10/17",
+   "check out date": "4/12/17",
+   "number of people": "5",
+   "ANSWER": "Blue60 Guest House",
+   "number of rooms": "2"
+  }
+ },
+ "72a314d29c": {
+  "instruction": {
+   "check in date": "3/17/2017",
+   "number of people": "2",
+   "geographic location": "Washington, DC",
+   "number of rooms": "1",
+   "check out date": "3/19/2017",
+   "ANSWER": "Hotel Lombardy $678"
+  }
+ },
+ "65debb3bb2": {
+  "instruction": {
+   "geographic location": "NYC",
+   "number of people": "2",
+   "check in date": "2/21/2017",
+   "check out date": "2/25/2017",
+   "number of rooms": "1"
+  }
+ },
+ "75ef77d7bd": {
+  "instruction": {
+   "geographic location": "Palm Springs",
+   "number of people": "10",
+   "check in date": "5/18/2017",
+   "check out date": "6/2/2017",
+   "number of rooms": "4"
+  }
+ },
+ "ec43585b23": {
+  "instruction": {
+   "geographic location": "Baltimore, Maryland, USA",
+   "check in date": "12/21/2017",
+   "check out date": "12/26/2017",
+   "number of people": "2",
+   "ANSWER": "Radisson Hotel Baltimore Downtown-Inner Harbor, 101 West Fayette Street, Downtown Baltimore, Baltimore, MD 21201, United States of America",
+   "number of rooms": "2"
+  }
+ },
+ "1d4c6eb21e": {
+  "instruction": {
+   "geographic location": "Tampa",
+   "check in date": "2/19/2017",
+   "check out date": "2/23/2017",
+   "number of people": "2",
+   "ANSWER": " Tampa Stadium Hotel",
+   "number of rooms": "1"
+  }
+ },
+ "dffb2b692f": {
+  "instruction": {
+   "check in date": "8/22/2017",
+   "number of people": "3",
+   "geographic location": "Cheyenne, WY",
+   "number of rooms": "2",
+   "check out date": "8/25/2017",
+   "ANSWER": "SpringHill Suites by Marriott Cheyenne"
+  }
+ },
+ "9c766d4ab6": {
+  "instruction": {
+   "check in date": "3/15/2017",
+   "number of people": "6",
+   "geographic location": "Tucson, AZ",
+   "number of rooms": "2",
+   "check out date": "3/18/2017",
+   "ANSWER": "Best Western Royal Sun"
+  }
+ },
+ "7f15e8ff90": {
+  "instruction": {
+   "check in date": "4/10/18",
+   "number of people": "2",
+   "geographic location": "New York, NY",
+   "number of rooms": "2",
+   "check out date": "4/15/18",
+   "ANSWER": "Midtown East Next to Times Square"
+  }
+ },
+ "29b88c9601": {
+  "instruction": {
+   "check in date": "3/20/17",
+   "number of people": "6",
+   "geographic location": "las Vegas, Nevada",
+   "number of rooms": "6",
+   "check out date": "3/25/2017",
+   "ANSWER": "Cannery Casino and Hotel"
+  }
+ },
+ "d43195205e": {
+  "instruction": {
+   "geographic location": "Dubai",
+   "check in date": "06/05/2017",
+   "check out date": "06/10/2017",
+   "number of people": "6",
+   "ANSWER": "137 properties found",
+   "number of rooms": "2"
+  }
+ },
+ "04f4054bf2": {
+  "instruction": {
+   "check in date": "6/7/2017",
+   "number of people": "2",
+   "geographic location": "Philadelphia, PA",
+   "number of rooms": "1",
+   "check out date": "6/8/2017",
+   "ANSWER": "Wyndham Philadelphia-Historic District"
+  }
+ },
+ "238316ad5f": {
+  "instruction": {
+   "geographic location": "New York, NY",
+   "check in date": "4/01/2017",
+   "check out date": "4/05/2017",
+   "number of people": "10",
+   "ANSWER": "Hotel Pennsylvania",
+   "number of rooms": "5"
+  }
+ },
+ "4dca7017ef": {
+  "instruction": {
+   "geographic location": "Bellaire, OH",
+   "check in date": "December 29, 2017",
+   "check out date": "January 3, 2018",
+   "number of people": "5",
+   "ANSWER": "74 Properties Found",
+   "number of rooms": "2"
+  }
+ },
+ "72c891f7dc": {
+  "instruction": {
+   "check in date": "6/15/17",
+   "number of people": "10",
+   "geographic location": "Washington, DC",
+   "number of rooms": "5",
+   "check out date": "6/18/17",
+   "ANSWER": "Four Seasons Washington DC"
+  }
+ },
+ "f26bd6b532": {
+  "instruction": {
+   "geographic location": "Miami, FL",
+   "check in date": "4/10/2017",
+   "check out date": "4/15/2017",
+   "number of people": "2",
+   "ANSWER": "Kimpton EPIC Hotel ",
+   "number of rooms": "1"
+  }
+ },
+ "cfb0c4edc7": {
+  "instruction": {
+   "check in date": "4/10/2017",
+   "number of people": "6",
+   "geographic location": "Tampa, Florida",
+   "number of rooms": "2",
+   "check out date": "4/18/2017",
+   "ANSWER": "Renaissance Tampa International Plaza Hotel"
+  }
+ },
+ "80852420bb": {
+  "instruction": {
+   "geographic location": "Palm Springs",
+   "check out date": "6/2/2017",
+   "number of people": "10",
+   "number of rooms": "4",
+   "check in date": "5/18/2017"
+  }
+ },
+ "88d2eadd47": {
+  "instruction": {
+   "geographic location": "Canterbury, Kent, United Kingdom",
+   "check in date": "03/06/2017",
+   "check out date": "03/16/2017",
+   "number of people": "5",
+   "ANSWER": "The Thatch, The Thatch The Street, Wickhambreaux, Canterbury, CT3 1RJ, United Kingdom",
+   "number of rooms": "1"
+  }
+ },
+ "861cba7285": {
+  "instruction": {
+   "geographic location": "Washington, DC",
+   "check in date": "3/17/2017",
+   "check out date": "3/19/2017",
+   "number of people": "2",
+   "ANSWER": "Hotel Lombardy $678",
+   "number of rooms": "1"
+  }
+ },
+ "b535f864ef": {
+  "instruction": {
+   "geographic location": "Rosarito, Baja California, Mexico",
+   "check in date": "06/15/2017",
+   "check out date": "06/24/2017",
+   "number of people": "5",
+   "ANSWER": "Bobby's by the Sea, Km 43 carretera libre Rosarito - Ensenada, 22700 Rosarito, Mexico",
+   "number of rooms": "2"
+  }
+ },
+ "2c7d65194d": {
+  "instruction": {
+   "geographic location": "Miami",
+   "check in date": "2/16/2017",
+   "check out date": "2/22/2017",
+   "number of people": "3",
+   "ANSWER": "Kimpton EPIC Hotel ",
+   "number of rooms": "2"
+  }
+ },
+ "5b27875fd3": {
+  "instruction": {
+   "check in date": "10/01/2017",
+   "number of people": "8",
+   "geographic location": "Yalta, Big Yalta, Crimea",
+   "number of rooms": "2",
+   "check out date": "10/05/2017",
+   "ANSWER": " 219 properties found"
+  }
+ },
+ "fb0d27109a": {
+  "instruction": {
+   "check in date": "3/31/2017",
+   "number of people": "2",
+   "geographic location": "Portland, OR",
+   "number of rooms": "1",
+   "check out date": "4/42017",
+   "ANSWER": "Sentinal, A Provenance Hotel $866"
+  }
+ },
+ "6837c12151": {
+  "instruction": {
+   "geographic location": "Boulder, CO",
+   "check in date": "7/18/2017",
+   "check out date": "7/21/2017",
+   "number of people": "7",
+   "ANSWER": "Boulder Adventure Lodge ",
+   "number of rooms": "4"
+  }
+ },
+ "e0ceea539b": {
+  "instruction": {
+   "geographic location": "Napa Valley Wine Country, USA",
+   "check in date": "10/28/2017",
+   "check out date": "11/01/2017",
+   "number of people": "4",
+   "ANSWER": "Silverado Resort and Spa, 1600 Atlas Peak Road, Napa, CA 94558, United States of America",
+   "number of rooms": "1"
+  }
+ },
+ "e9b498c2f1": {
+  "instruction": {
+   "check out date": "5/16/2017",
+   "number of people": "6",
+   "number of rooms": "2",
+   "geographic location": "Frankfurt",
+   "check in date": "5/4/2017"
+  }
+ },
+ "67a74aeb70": {
+  "instruction": {
+   "geographic location": "Seattle, Washington State, USA",
+   "check in date": "07/17/2017",
+   "check out date": "07/19/2017",
+   "number of people": "3",
+   "ANSWER": "Motif Seattle, 1415 Fifth Avenue, Seattle Central Business District, Seattle, WA 98101, United States of America",
+   "number of rooms": "3"
+  }
+ },
+ "266c157360": {
+  "instruction": {
+   "geographic location": "SD",
+   "check in date": "2/26/2017",
+   "check out date": "2/29/2017",
+   "number of people": "2",
+   "ANSWER": "Staypineapple at Hotel Z ",
+   "number of rooms": "1"
+  }
+ },
+ "0609d12631": {
+  "instruction": {
+   "check in date": "3/3/2017",
+   "number of people": "3",
+   "geographic location": "Las Vegas, NV",
+   "number of rooms": "2",
+   "check out date": "3/4/2017",
+   "ANSWER": "Red Rock Casino Resort Spa $320"
+  }
+ },
+ "53d42ed8c6": {
+  "instruction": {
+   "check in date": "06/05/2017",
+   "number of people": "6",
+   "geographic location": "Dubai",
+   "number of rooms": "2",
+   "check out date": "06/10/2017",
+   "ANSWER": "137 properties found"
+  }
+ },
+ "f51c9bc677": {
+  "instruction": {
+   "check in date": "5/1/2017",
+   "number of people": "6",
+   "geographic location": "San Antonio, TX",
+   "number of rooms": "3",
+   "check out date": "5/4/2017",
+   "ANSWER": "Courtyard by Marriott San Antonio Medical Center"
+  }
+ },
+ "76c62c26be": {
+  "instruction": {
+   "check in date": "2/16/2017",
+   "number of people": "3",
+   "geographic location": "Miami",
+   "number of rooms": "2",
+   "check out date": "2/22/2017",
+   "ANSWER": "Kimpton EPIC Hotel "
+  }
+ },
+ "42061da8a2": {
+  "instruction": {
+   "check in date": "8/15/2017",
+   "number of people": "5",
+   "geographic location": "Rangeley, Maine",
+   "number of rooms": "3",
+   "check out date": "9/1/2017",
+   "ANSWER": "Rangeley Lake Resort"
+  }
+ },
+ "228a50e84e": {
+  "instruction": {
+   "geographic location": "Denver, CO",
+   "check in date": "3/5/2017",
+   "check out date": "3/7/2017",
+   "number of people": "1",
+   "ANSWER": "Homewood Suites- Denver Downtown Convention Center ",
+   "number of rooms": "1"
+  }
+ },
+ "ecb13414e5": {
+  "instruction": {
+   "check out date": "3/25/2017",
+   "number of people": "2",
+   "number of rooms": "2",
+   "geographic location": "Key West, FL",
+   "check in date": "3/21/2017"
+  }
+ },
+ "a029aa8bcc": {
+  "instruction": {
+   "check out date": "7/15/2017",
+   "number of people": "8",
+   "number of rooms": "3",
+   "geographic location": "Niagra Falls",
+   "check in date": "7/1/2017"
+  }
+ },
+ "283dd81ef8": {
+  "instruction": {
+   "geographic location": "Caldas Novas, Goi\u00e1s, Brazil",
+   "check in date": "09/03/2017",
+   "check out date": "09/09/2017",
+   "number of people": "2",
+   "ANSWER": "106 properties found",
+   "number of rooms": "1"
+  }
+ },
+ "1917302797": {
+  "instruction": {
+   "check in date": "7/2/2017",
+   "number of people": "3",
+   "geographic location": "New York City, NY",
+   "number of rooms": "1",
+   "check out date": "7/5/2017",
+   "ANSWER": "Loft with Central Park View"
+  }
+ },
+ "4a5cddc336": {
+  "instruction": {
+   "geographic location": "Seattle",
+   "number of people": "3",
+   "check in date": "4/21/2017",
+   "check out date": "4/30/2017",
+   "number of rooms": "2"
+  }
+ },
+ "4224796b40": {
+  "instruction": {
+   "geographic location": "Tucson, AZ",
+   "check in date": "3/15/2017",
+   "check out date": "3/18/2017",
+   "number of people": "6",
+   "ANSWER": "Best Western Royal Sun",
+   "number of rooms": "2"
+  }
+ },
+ "6d167ca916": {
+  "instruction": {
+   "geographic location": "Hamburg",
+   "check in date": "02/19/2017",
+   "check out date": "02/22/2017",
+   "number of people": "4",
+   "ANSWER": "255 properties found",
+   "number of rooms": "1"
+  }
+ },
+ "27d3b0ae21": {
+  "instruction": {
+   "check in date": "08/01/2017",
+   "number of people": "2",
+   "geographic location": "Atlanta, Georgia, USA",
+   "number of rooms": "1",
+   "check out date": "08/02/2017",
+   "ANSWER": "Hilton Atlanta Airport, 1031 Virginia Avenue, Atlanta, GA 30354, United States of America"
+  }
+ },
+ "f879cffa55": {
+  "instruction": {
+   "geographic location": "Rangeley, Maine",
+   "check in date": "8/15/2017",
+   "check out date": "9/1/2017",
+   "number of people": "5",
+   "ANSWER": "Rangeley Lake Resort",
+   "number of rooms": "3"
+  }
+ },
+ "120745b85f": {
+  "instruction": {
+   "geographic location": "San Antonio, TX",
+   "check in date": "5/1/2017",
+   "check out date": "5/4/2017",
+   "number of people": "6",
+   "ANSWER": "Courtyard by Marriott San Antonio Medical Center",
+   "number of rooms": "3"
+  }
+ },
+ "06c376d4d6": {
+  "instruction": {
+   "geographic location": "Las Vegas, NV",
+   "check in date": "3/3/2017",
+   "check out date": "3/4/2017",
+   "number of people": "3",
+   "ANSWER": "Red Rock Casino Resort Spa $320",
+   "number of rooms": "2"
+  }
+ },
+ "7b686c2238": {
+  "instruction": {
+   "check in date": "6/5/2017",
+   "number of people": "3",
+   "geographic location": "Malibu, CA",
+   "number of rooms": "2",
+   "check out date": "6/8/2017",
+   "ANSWER": "Malibu Country Inn "
+  }
+ },
+ "b93958a8ba": {
+  "instruction": {
+   "check in date": "4/15/2017",
+   "number of people": "5",
+   "geographic location": "Boston, MA",
+   "number of rooms": "1",
+   "check out date": "4/20/2017",
+   "ANSWER": "Garrison Street Apartment by Stay Alfred "
+  }
+ },
+ "a777bec9b4": {
+  "instruction": {
+   "geographic location": "Dallas",
+   "check in date": "2/15/2017",
+   "check out date": "2/21/2017",
+   "number of people": "4",
+   "ANSWER": "Hilton Garden Inn Downtown Dallas ",
+   "number of rooms": "2"
+  }
+ },
+ "0d20bbfbee": {
+  "instruction": {
+   "check in date": "5/1/2017",
+   "number of people": "2",
+   "geographic location": "Mount Pleasant Charleston, SC",
+   "number of rooms": "1",
+   "check out date": "5/10/2017",
+   "ANSWER": "Holiday Inn Express Suites Charleston NE Mt Pleasant US17"
+  }
+ },
+ "6f26ad96de": {
+  "instruction": {
+   "check in date": "08/17/2017",
+   "number of people": "5",
+   "geographic location": "Tokyo",
+   "number of rooms": "3",
+   "check out date": "08/25/2017",
+   "ANSWER": "440 properties found"
+  }
+ },
+ "d6a90c3f51": {
+  "instruction": {
+   "check in date": "12/21/2017",
+   "number of people": "2",
+   "geographic location": "Baltimore, Maryland, USA",
+   "number of rooms": "2",
+   "check out date": "12/26/2017",
+   "ANSWER": "Radisson Hotel Baltimore Downtown-Inner Harbor, 101 West Fayette Street, Downtown Baltimore, Baltimore, MD 21201, United States of America"
+  }
+ },
+ "2aafff8685": {
+  "instruction": {
+   "geographic location": "Columbus, OH",
+   "check in date": "5/13/2017",
+   "check out date": "5/18/2017",
+   "number of people": "4",
+   "ANSWER": "Best Western Port Columbus",
+   "number of rooms": "4"
+  }
+ },
+ "401bde1b80": {
+  "instruction": {
+   "geographic location": "Hudson, NH",
+   "check in date": "March 6, 2017",
+   "check out date": "March 13, 2017",
+   "number of people": "2",
+   "ANSWER": "454 Properties Found",
+   "number of rooms": "1"
+  }
+ },
+ "a31b9af0f9": {
+  "instruction": {
+   "check out date": "5/3/2017",
+   "number of people": "5",
+   "number of rooms": "2",
+   "geographic location": "Boston Mass.",
+   "check in date": "4/29/2017"
+  }
+ },
+ "796e3c18d9": {
+  "instruction": {
+   "geographic location": "Palm Springs, CA",
+   "check in date": "3/18/2017",
+   "check out date": "3/19/2017",
+   "number of people": "2",
+   "ANSWER": "Caliente Tropics, $230",
+   "number of rooms": "1"
+  }
+ },
+ "b33e6215e0": {
+  "instruction": {
+   "check in date": "4/05/2017",
+   "number of people": "5",
+   "geographic location": "Portland, OR",
+   "number of rooms": "2",
+   "check out date": "4/10/2017",
+   "ANSWER": "La Quinta Inn & Suites Portland Airport "
+  }
+ },
+ "33f7045b8d": {
+  "instruction": {
+   "geographic location": "Tempe",
+   "check in date": "2/16/2017",
+   "check out date": "2/20/2017",
+   "number of people": "3",
+   "ANSWER": " Residence Inn by Marriott Tempe Downtown/University",
+   "number of rooms": "2"
+  }
+ },
+ "612d9f3eaa": {
+  "instruction": {
+   "geographic location": "Atlanta, Georgia",
+   "check in date": "7/1/17",
+   "check out date": "7/8/17",
+   "number of people": "20",
+   "ANSWER": "The Hilton Garden Inn Atlanta Downtown ",
+   "number of rooms": "10"
+  }
+ },
+ "0c6b21d2c4": {
+  "instruction": {
+   "geographic location": "Ida Mountains, Kucukkuyu, Aegean Region, Turkey",
+   "check in date": "11/09/2017",
+   "check out date": "11/13/2017",
+   "number of people": "7",
+   "ANSWER": "16 properties found",
+   "number of rooms": "4"
+  }
+ },
+ "bb61130745": {
+  "instruction": {
+   "geographic location": "Houston, Texas",
+   "number of people": "12",
+   "check in date": "10/10/2017",
+   "check out date": "10/13/2017",
+   "number of rooms": "4"
+  }
+ },
+ "cb3f90f4b4": {
+  "instruction": {
+   "check in date": "5/10/2017",
+   "number of people": "3",
+   "geographic location": "Carlsbad, California, USA",
+   "number of rooms": "1",
+   "check out date": "5/17/2017",
+   "ANSWER": "Four Seasons Residence Club Aviara, 7210 Blue Heron Place, Carlsbad, CA 92011, United States of America"
+  }
+ },
+ "153ec8479c": {
+  "instruction": {
+   "geographic location": "Boston, MA",
+   "check in date": "4/15/2017",
+   "check out date": "4/20/2017",
+   "number of people": "5",
+   "ANSWER": "Garrison Street Apartment by Stay Alfred ",
+   "number of rooms": "1"
+  }
+ },
+ "639fa2e41d": {
+  "instruction": {
+   "geographic location": "Washington DC Metropolitan area, USA",
+   "check in date": "06/02/2017",
+   "check out date": "06/07/2017",
+   "number of people": "12",
+   "ANSWER": "Kimpton Glover Park Hotel, 2505 Wisconsin Avenue, Northwest, Washington, DC, DC 20007, United States of America",
+   "number of rooms": "4"
+  }
+ },
+ "5f22555b6c": {
+  "instruction": {
+   "check in date": "2/25/2017",
+   "number of people": "3",
+   "geographic location": "ATL",
+   "number of rooms": "2",
+   "check out date": "2/28/2017",
+   "ANSWER": "Ramada Plaza Atlanta Capitol Park"
+  }
+ },
+ "9d7633ae74": {
+  "instruction": {
+   "geographic location": "osaka",
+   "check in date": "07/08/2017",
+   "check out date": "07/09/2017",
+   "number of people": "1",
+   "ANSWER": "322 properties found",
+   "number of rooms": "1"
+  }
+ },
+ "a14f1a9095": {
+  "instruction": {
+   "check in date": "4/1/2017",
+   "number of people": "2",
+   "geographic location": "Reno, NV",
+   "number of rooms": "1",
+   "check out date": "4/3/2017",
+   "ANSWER": "Circus Circus, $144"
+  }
+ },
+ "95798f48cf": {
+  "instruction": {
+   "check in date": "04/16/2017",
+   "number of people": "2",
+   "geographic location": "Zorritos, Tumbes, Peru",
+   "number of rooms": "1",
+   "check out date": "04/23/2017",
+   "ANSWER": "19 properties found"
+  }
+ },
+ "8facd28875": {
+  "instruction": {
+   "geographic location": "Nassau, Bahamas",
+   "check in date": "3/3/2017",
+   "check out date": "3/6/2017",
+   "number of people": "15",
+   "ANSWER": "Comfort Suites Paradise Island",
+   "number of rooms": "5"
+  }
+ },
+ "c70e965837": {
+  "instruction": {
+   "check in date": "3/17/2017",
+   "number of people": "1",
+   "geographic location": "Austin, TX",
+   "number of rooms": "1",
+   "check out date": "3/19/2017",
+   "ANSWER": "Hampton Inn and Suites Austin-Downtown, $592"
+  }
+ },
+ "08d718c545": {
+  "instruction": {
+   "check out date": "2/25/2017",
+   "number of people": "2",
+   "number of rooms": "1",
+   "geographic location": "NYC",
+   "check in date": "2/21/2017"
+  }
+ },
+ "5bdae1fb6b": {
+  "instruction": {
+   "check in date": "7/3/2017",
+   "number of people": "5",
+   "geographic location": "Colorado Springs, CO",
+   "number of rooms": "2",
+   "check out date": "7/6/2017",
+   "ANSWER": "Fairfield Inn Colorado Springs Air Force Academy"
+  }
+ },
+ "ccdca0f4b2": {
+  "instruction": {
+   "geographic location": "Key West, FL",
+   "check out date": "3/25/2017",
+   "number of people": "2",
+   "number of rooms": "2",
+   "check in date": "3/21/2017"
+  }
+ },
+ "a3551444f9": {
+  "instruction": {
+   "geographic location": "Portland, OR",
+   "check in date": "3/31/2017",
+   "check out date": "4/42017",
+   "number of people": "2",
+   "ANSWER": "Sentinal, A Provenance Hotel $866",
+   "number of rooms": "1"
+  }
+ },
+ "889e01d6b3": {
+  "instruction": {
+   "geographic location": "SF",
+   "check in date": "2/24/2017",
+   "check out date": "2/28/2017",
+   "number of people": "2",
+   "ANSWER": " San Francisco Airport Marriott Waterfront ",
+   "number of rooms": "1"
+  }
+ },
+ "bfc8943f89": {
+  "instruction": {
+   "check in date": "4/20/2017",
+   "number of people": "3",
+   "geographic location": "Washington D.C.",
+   "number of rooms": "1",
+   "check out date": "4/25/2017",
+   "ANSWER": "JW Marriott Washington, DC "
+  }
+ },
+ "322b180b6e": {
+  "instruction": {
+   "check in date": "2/19/2017",
+   "number of people": "2",
+   "geographic location": "Tampa",
+   "number of rooms": "1",
+   "check out date": "2/23/2017",
+   "ANSWER": " Tampa Stadium Hotel"
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "fcec837b43": {
+  "instruction": {
+   "Time zone": "UTC +1",
+   "Major City": "Paris"
+  }
+ },
+ "eb995231dc": {
+  "instruction": {
+   "Time zone": "UTC +12",
+   "Major City": "Christchurch"
+  }
+ },
+ "a90327973c": {
+  "instruction": {
+   "Time zone": "UTC +10",
+   "Major City": "Sydney"
+  }
+ },
+ "400f0f6ac4": {
+  "instruction": {
+   "Time zone": "UTC -6",
+   "Major City": "Dallas"
+  }
+ },
+ "068343d2ea": {
+  "instruction": {
+   "Time zone": "UTC -5",
+   "Major City": "Montreal"
+  }
+ },
+ "c8753cd366": {
+  "instruction": {
+   "Time zone": "UTC (0)",
+   "Major City": "London"
+  }
+ },
+ "f0e659d9ca": {
+  "instruction": {
+   "Time zone": "UTC -3",
+   "Major City": "Buenos Aires"
+  }
+ },
+ "61b9dfbc9d": {
+  "instruction": {
+   "Time zone": "UTC +7",
+   "Major City": "Jakarta"
+  }
+ },
+ "a5175d1577": {
+  "instruction": {
+   "Time zone": "UTC -7",
+   "Major City": "Easter Island"
+  }
+ },
+ "eaf5c2f0ed": {
+  "instruction": {
+   "Time zone": "UTC -9",
+   "Major City": "Anchorage"
+  }
+ }
+}

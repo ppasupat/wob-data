@@ -1,0 +1,92 @@
+{
+ "ef6cbb7146": {
+  "instruction": {
+   "geographic location": "Las Vegas, NV",
+   "start date": "04/05/2017",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "end date": "04/08/2017"
+  }
+ },
+ "1ed5f9d181": {
+  "instruction": {
+   "geographic location": "New York, NY",
+   "start date": "05/03/2017",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "end date": "05/06/2017"
+  }
+ },
+ "ce83942aff": {
+  "instruction": {
+   "geographic location": "Seattle, WA",
+   "start date": "09/01/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "end date": "09/10/2017"
+  }
+ },
+ "f990cd5041": {
+  "instruction": {
+   "geographic location": "New York, NY",
+   "start date": "06/14/2017",
+   "number of rooms": "3",
+   "number of guests": "5",
+   "end date": "06/28/2017"
+  }
+ },
+ "69673bb6b3": {
+  "instruction": {
+   "geographic location": "Los Angeles, CA",
+   "start date": "03/01/2017",
+   "number of rooms": "2",
+   "number of guests": "2",
+   "end date": "03/05/2017"
+  }
+ },
+ "49bfd94045": {
+  "instruction": {
+   "geographic location": "Seattle, WA",
+   "start date": "09/12/2017",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "end date": "09/20/2017"
+  }
+ },
+ "e3227cf875": {
+  "instruction": {
+   "geographic location": "Los Angeles, CA",
+   "start date": "03/01/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "end date": "03/08/2017"
+  }
+ },
+ "0866d28a67": {
+  "instruction": {
+   "geographic location": "Cincinnati, OH",
+   "start date": "11/20/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "end date": "11/23/2017"
+  }
+ },
+ "fb98e1ec97": {
+  "instruction": {
+   "geographic location": "Portland, OR",
+   "start date": "08/20/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "end date": "08/30/2017"
+  }
+ },
+ "7220341963": {
+  "instruction": {
+   "geographic location": "Sacramento, CA",
+   "start date": "08/20/2017",
+   "number of rooms": "4",
+   "number of guests": "8",
+   "end date": "08/30/2017"
+  }
+ }
+}

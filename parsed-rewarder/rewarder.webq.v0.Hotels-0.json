@@ -1,0 +1,1862 @@
+{
+ "7fb60856cb": {
+  "instruction": {
+   "start date": "02/25/17",
+   "location": "Pennsville, NJ",
+   "number of adults": "3",
+   "end date": "02/26/17",
+   "ANSWER": "Hampton Inn Pennsville",
+   "number of rooms": "2"
+  }
+ },
+ "10d8a33923": {
+  "instruction": {
+   "number of adults": "5",
+   "end date": "02/26/17",
+   "ANSWER": "Red Roof Inn Columbus - Phenix City",
+   "start date": "02/21/17",
+   "number of rooms": "4",
+   "location": "Phenix City, AL"
+  }
+ },
+ "f7481a887e": {
+  "instruction": {
+   "start date": "2/21/17",
+   "location": "Chicago, IL",
+   "number of adults": "2",
+   "end date": "2/22/17",
+   "ANSWER": "Hard Rock Hotel Chicago",
+   "number of rooms": "1"
+  }
+ },
+ "179df17170": {
+  "instruction": {
+   "end date": "3/17/17",
+   "start date": "3/14/17",
+   "number of adults": "3",
+   "location": "Green Bay, WI",
+   "number of rooms": "1"
+  }
+ },
+ "9dae4dc47b": {
+  "instruction": {
+   "end date": "04/15/2017",
+   "start date": "04/09/2017",
+   "number of adults": "6",
+   "location": "Boston, MA",
+   "number of rooms": "3"
+  }
+ },
+ "58fe3f0502": {
+  "instruction": {
+   "number of adults": "9",
+   "end date": "3/15/17",
+   "ANSWER": "Four Seasons Hotel Houston",
+   "start date": "3/10/17",
+   "number of rooms": "5",
+   "location": "Houston, TX"
+  }
+ },
+ "a90c76cdf2": {
+  "instruction": {
+   "end date": "3/10/17 ",
+   "start date": "3/9/17 ",
+   "number of adults": "2",
+   "location": "Boca Raton , FL",
+   "number of rooms": "1"
+  }
+ },
+ "da14941c1f": {
+  "instruction": {
+   "end date": "03/18/2017",
+   "start date": "03/12/2017",
+   "number of adults": "4",
+   "location": "Fargo, ND ",
+   "number of rooms": "2"
+  }
+ },
+ "e0417826b3": {
+  "instruction": {
+   "end date": "02/23/2017",
+   "start date": "02/21/2017",
+   "number of adults": "2",
+   "location": "New York,NY",
+   "number of rooms": "1"
+  }
+ },
+ "3b753a6d40": {
+  "instruction": {
+   "start date": "02/28/17",
+   "location": "Downtown Orlando, Florida, USA",
+   "number of adults": "1",
+   "end date": "03/02/17",
+   "ANSWER": "Crowne Plaza Orlando - Downtown",
+   "number of rooms": "1"
+  }
+ },
+ "6a6e28b3a2": {
+  "instruction": {
+   "end date": "3/01/17",
+   "start date": "2/22/17",
+   "number of adults": "5",
+   "location": "Anchorage, AK",
+   "number of rooms": "3"
+  }
+ },
+ "2de2dc0c48": {
+  "instruction": {
+   "end date": "02/23/2017",
+   "start date": "02/19/2017",
+   "number of adults": "3",
+   "location": "Detroit,MI",
+   "number of rooms": "2"
+  }
+ },
+ "ed25ecf08f": {
+  "instruction": {
+   "start date": "2/19/17",
+   "number of rooms": "4",
+   "location": "Miami, FL",
+   "end date": "2/21/17",
+   "number of adults": "7"
+  }
+ },
+ "5a6d578de1": {
+  "instruction": {
+   "number of adults": "1",
+   "start date": "4/10/17",
+   "end date": "4/12/17",
+   "location": "Chicago, IL",
+   "number of rooms": "1"
+  }
+ },
+ "d7622911f4": {
+  "instruction": {
+   "number of adults": "8",
+   "start date": "4/1/17",
+   "end date": "4/5/17",
+   "location": "Cleveland, OH",
+   "number of rooms": "4"
+  }
+ },
+ "e706e6d771": {
+  "instruction": {
+   "end date": "2/28/17",
+   "start date": "2/22//17",
+   "number of adults": "4",
+   "location": "Knoxville, TN",
+   "number of rooms": "3"
+  }
+ },
+ "9734d4a3e2": {
+  "instruction": {
+   "start date": "5/20/17",
+   "location": "Cleveland, OH",
+   "number of adults": "7",
+   "end date": "5/27/17",
+   "ANSWER": "The Kimpton Schofield Hotel",
+   "number of rooms": "4"
+  }
+ },
+ "b8c0bee063": {
+  "instruction": {
+   "number of adults": "4",
+   "end date": "02/25/17",
+   "ANSWER": "Super 8 Austin Airport North",
+   "start date": "02/22/17",
+   "number of rooms": "3",
+   "location": "Austin, TX"
+  }
+ },
+ "2367d81585": {
+  "instruction": {
+   "number of adults": "5",
+   "start date": "2/22/17",
+   "end date": "3/01/17",
+   "location": "Anchorage, AK",
+   "number of rooms": "3"
+  }
+ },
+ "8e242c856d": {
+  "instruction": {
+   "start date": "3/3/2017",
+   "location": "Miami, FL",
+   "number of adults": "1 adult",
+   "end date": "3/8/2017",
+   "ANSWER": "Carillon Miami Wellness Resort",
+   "number of rooms": "1 room"
+  }
+ },
+ "eabc990e51": {
+  "instruction": {
+   "end date": "04/10/17",
+   "start date": "04/07/17",
+   "number of adults": "9",
+   "location": "Baltimore, Md ",
+   "number of rooms": "5"
+  }
+ },
+ "e96fba95b4": {
+  "instruction": {
+   "end date": "4/10/17",
+   "start date": "4/5/17",
+   "number of adults": "2",
+   "location": "Buffalo, NY",
+   "number of rooms": "1"
+  }
+ },
+ "f9cfb0f6f7": {
+  "instruction": {
+   "end date": "3/20/17",
+   "start date": "3/16/17",
+   "number of adults": "8",
+   "location": "College Park, GA",
+   "number of rooms": "4"
+  }
+ },
+ "37d2508373": {
+  "instruction": {
+   "number of adults": "2",
+   "end date": "2/25/17",
+   "ANSWER": "Cincinnatian Hotel",
+   "start date": "2/21/17",
+   "number of rooms": "1",
+   "location": "Cincinnati, OH"
+  }
+ },
+ "f0f36b63fb": {
+  "instruction": {
+   "start date": "3/5/2017",
+   "location": "Atlanta, GA",
+   "number of adults": "1",
+   "end date": "3/7/2017",
+   "ANSWER": "The Highland Inn",
+   "number of rooms": "1"
+  }
+ },
+ "ce27dc1256": {
+  "instruction": {
+   "start date": "02/22/17",
+   "location": "Melbourne, Florida, USA",
+   "number of adults": "2",
+   "end date": "02/28/17",
+   "ANSWER": "Extended Stay America - Melbourne - Airport",
+   "number of rooms": "1"
+  }
+ },
+ "e136607f26": {
+  "instruction": {
+   "geographic location": "Texas highway",
+   "stay": "Motel"
+  }
+ },
+ "ed38f5b281": {
+  "instruction": {
+   "start date": "2/24/17",
+   "location": "Manila, PH",
+   "number of adults": "2",
+   "end date": "2/29/17",
+   "ANSWER": "Mariott",
+   "number of rooms": "1"
+  }
+ },
+ "316ce80986": {
+  "instruction": {
+   "end date": "02/24/2017",
+   "start date": "02/20/2017",
+   "number of adults": "8",
+   "location": "Washington, DC ",
+   "number of rooms": "4"
+  }
+ },
+ "b98ca47d56": {
+  "instruction": {
+   "number of adults": "3",
+   "start date": "05/02/2017",
+   "end date": "05/16/2017",
+   "location": "Richmond, Indiana",
+   "number of rooms": "2"
+  }
+ },
+ "5142af70f1": {
+  "instruction": {
+   "start date": "2/25/17",
+   "location": "Little Rock, AR",
+   "number of adults": "1",
+   "end date": "2/28/17",
+   "ANSWER": "Markham House Suites",
+   "number of rooms": "1"
+  }
+ },
+ "5f5dbddcad": {
+  "instruction": {
+   "end date": "5/5/17",
+   "start date": "5/2/17",
+   "number of adults": "6",
+   "location": "San Diego, CA",
+   "number of rooms": "3"
+  }
+ },
+ "64447c2792": {
+  "instruction": {
+   "number of adults": "3",
+   "end date": "02/28/17",
+   "ANSWER": "Wyndham Houston West Energy Corridor",
+   "start date": "02/21/17",
+   "number of rooms": "3",
+   "location": "Houston, TX"
+  }
+ },
+ "424b1067b1": {
+  "instruction": {
+   "number of adults": "6",
+   "start date": "02/24/2017",
+   "end date": "02/27/2017",
+   "location": "Dallas, Texas",
+   "number of rooms": "3"
+  }
+ },
+ "cd169ed4d8": {
+  "instruction": {
+   "number of adults": "1",
+   "end date": "03/04/17",
+   "ANSWER": "St George Lycabettus Hotel",
+   "start date": "03/02/17",
+   "number of rooms": "1",
+   "location": "Irakleio, Greece"
+  }
+ },
+ "9c89ac9fed": {
+  "instruction": {
+   "number of adults": "6",
+   "end date": "2/28/17",
+   "ANSWER": "Greektown Casino Hotel",
+   "start date": "2/25/17",
+   "number of rooms": "3",
+   "location": "Detroit, MI"
+  }
+ },
+ "d29cef268e": {
+  "instruction": {
+   "number of adults": "4",
+   "start date": "02/22/2017",
+   "end date": "02/24/2017",
+   "location": "Los Angeles,CA",
+   "number of rooms": "2"
+  }
+ },
+ "4c679e6ca3": {
+  "instruction": {
+   "start date": "02/20/17",
+   "location": "Los Angeles, CA",
+   "number of adults": "3",
+   "end date": "02/27/17",
+   "ANSWER": "LEVEL Furnished Living Suites",
+   "number of rooms": "3"
+  }
+ },
+ "61f45d9bb4": {
+  "instruction": {
+   "number of adults": "3",
+   "start date": "02/19/2017",
+   "end date": "02/23/2017",
+   "location": "Detroit,MI",
+   "number of rooms": "2"
+  }
+ },
+ "ae1ef23104": {
+  "instruction": {
+   "start date": "3/3/17",
+   "location": "Phoenix, AZ",
+   "number of adults": "2",
+   "end date": "3/10/17",
+   "ANSWER": "Phoenix Mesa Marriott",
+   "number of rooms": "2"
+  }
+ },
+ "ab60db3f5f": {
+  "instruction": {
+   "geographic location": "NYC",
+   "stay": "5-star hotel"
+  }
+ },
+ "75b8ad7205": {
+  "instruction": {
+   "start date": "2/25/17",
+   "location": "Des Moines, IA",
+   "number of adults": "1",
+   "end date": "2/28/17",
+   "ANSWER": "SpringHill Suites Des Moines West",
+   "number of rooms": "1"
+  }
+ },
+ "e9d408143c": {
+  "instruction": {
+   "end date": "02/24/2017",
+   "start date": "02/22/2017",
+   "number of adults": "4",
+   "location": "Chicago,IL",
+   "number of rooms": "2"
+  }
+ },
+ "c05bbfd43d": {
+  "instruction": {
+   "start date": "2/25/17",
+   "location": "Cebu City, PH",
+   "number of adults": "2",
+   "end date": "2/27/17",
+   "ANSWER": "Crown Regency",
+   "number of rooms": "1"
+  }
+ },
+ "53a4719c22": {
+  "instruction": {
+   "end date": "4/2/17",
+   "start date": "3/28/17",
+   "number of adults": "4",
+   "location": "Richmond, VA",
+   "number of rooms": "2"
+  }
+ },
+ "a225d24e86": {
+  "instruction": {
+   "number of adults": "8",
+   "start date": "02/20/2017",
+   "end date": "02/24/2017",
+   "location": "Washington, DC ",
+   "number of rooms": "4"
+  }
+ },
+ "27bcdb8680": {
+  "instruction": {
+   "start date": "02/24/17",
+   "location": "Downtown Los Angeles, California, USA",
+   "number of adults": "5",
+   "end date": "02/28/17",
+   "ANSWER": "LEVEL Furnished Living SuitesLoved by guests",
+   "number of rooms": "3"
+  }
+ },
+ "46edd68783": {
+  "instruction": {
+   "number of adults": "3",
+   "end date": "02/23/17",
+   "ANSWER": "The Burgundy Hotel, an Ascend Hotel Collection Member",
+   "start date": "02/21/17",
+   "number of rooms": "1",
+   "location": "Little Rock, Arkansas, USA"
+  }
+ },
+ "c0fc1a2173": {
+  "instruction": {
+   "number of adults": "5",
+   "end date": "02/25/17",
+   "ANSWER": "Delta Hotels by Marriott Calgary Downtown",
+   "start date": "02/21/17",
+   "number of rooms": "2",
+   "location": "Calgary, Alberta, Canada"
+  }
+ },
+ "e992e3a5c5": {
+  "instruction": {
+   "end date": "02/23/2017",
+   "start date": "02/20/2017",
+   "number of adults": "4",
+   "location": "Key West, Florida ",
+   "number of rooms": "2"
+  }
+ },
+ "5ba4185e76": {
+  "instruction": {
+   "start date": "2/21/17",
+   "location": "Chicago, IL",
+   "number of adults": "4",
+   "end date": "2/25/17",
+   "ANSWER": "Hilton ",
+   "number of rooms": "2"
+  }
+ },
+ "dc767cf65e": {
+  "instruction": {
+   "end date": "2/20/17",
+   "start date": "2/18/17",
+   "number of adults": "4",
+   "location": "Orlando, FL",
+   "number of rooms": "3"
+  }
+ },
+ "74ae6f2776": {
+  "instruction": {
+   "end date": "02/27/2017",
+   "start date": "02/24/2017",
+   "number of adults": "6",
+   "location": "Dallas, Texas",
+   "number of rooms": "3"
+  }
+ },
+ "d4cdbde019": {
+  "instruction": {
+   "start date": "3/29/17",
+   "location": "Aurora, CO",
+   "number of adults": "3",
+   "end date": "4/4/17",
+   "ANSWER": "Radisson Hotel Denver Southeast",
+   "number of rooms": "1"
+  }
+ },
+ "328ac38280": {
+  "instruction": {
+   "number of adults": "6",
+   "start date": "3/1/17",
+   "end date": "3/5/17",
+   "location": "Orlando,FL",
+   "number of rooms": "3"
+  }
+ },
+ "d31786c2ac": {
+  "instruction": {
+   "end date": "4/19/17",
+   "start date": "4/18/17 ",
+   "number of adults": "6",
+   "location": "Charlotte,NC",
+   "number of rooms": "3"
+  }
+ },
+ "0efb7f9958": {
+  "instruction": {
+   "geographic location": "Jacksonville",
+   "stay": "Ramada"
+  }
+ },
+ "c4e92692d7": {
+  "instruction": {
+   "number of adults": "4",
+   "end date": "3/6/17",
+   "ANSWER": "The James Chicago",
+   "start date": "3/4/17",
+   "number of rooms": "2",
+   "location": "Chicago, IL"
+  }
+ },
+ "2a24437d10": {
+  "instruction": {
+   "number of adults": "6",
+   "start date": "04/09/2017",
+   "end date": "04/15/2017",
+   "location": "Boston, MA",
+   "number of rooms": "3"
+  }
+ },
+ "812eea9b4f": {
+  "instruction": {
+   "start date": "6/4/17",
+   "location": "Omaha, NE",
+   "number of adults": "4",
+   "end date": "6/10/17",
+   "ANSWER": "Hyatt Place Omaha Downtown Old Market",
+   "number of rooms": "3"
+  }
+ },
+ "f92b7d9044": {
+  "instruction": {
+   "number of adults": "8",
+   "start date": "2/20/17",
+   "end date": "2/25/17",
+   "location": "Phoenix, AZ",
+   "number of rooms": "2"
+  }
+ },
+ "f2b7d46f76": {
+  "instruction": {
+   "number of adults": "4",
+   "start date": "2/22//17",
+   "end date": "2/28/17",
+   "location": "Knoxville, TN",
+   "number of rooms": "3"
+  }
+ },
+ "2d74f68988": {
+  "instruction": {
+   "end date": "3/10/17",
+   "start date": "3/01/17",
+   "number of adults": "5",
+   "location": "Pittsburgh, PA",
+   "number of rooms": "2"
+  }
+ },
+ "97906320f3": {
+  "instruction": {
+   "end date": "03/28/2017",
+   "start date": "03/24/2017",
+   "number of adults": "4",
+   "location": "Myrtle Beach, SC ",
+   "number of rooms": "2"
+  }
+ },
+ "1acf4ee667": {
+  "instruction": {
+   "start date": "02/22/17",
+   "location": "Miami Beach, Florida, USA",
+   "number of adults": "10",
+   "end date": "02/24/17",
+   "ANSWER": "1 Hotel South BeachLoved by guests",
+   "number of rooms": "4"
+  }
+ },
+ "87ae958954": {
+  "instruction": {
+   "start date": "2/14/17",
+   "number of rooms": "2",
+   "location": "Chicago, IL",
+   "end date": "2/16/17",
+   "number of adults": "4"
+  }
+ },
+ "522a1f60ad": {
+  "instruction": {
+   "start date": "3/11/17",
+   "location": "Miami, FL",
+   "number of adults": "3",
+   "end date": "3/18/17",
+   "ANSWER": "Sixty Sixty Resort",
+   "number of rooms": "1"
+  }
+ },
+ "77ddbe1919": {
+  "instruction": {
+   "start date": "2/21/17",
+   "location": "New York, NY",
+   "number of adults": "2",
+   "end date": "2/22/17",
+   "ANSWER": "Staybridge Suites Times Square",
+   "number of rooms": "1"
+  }
+ },
+ "456b643db0": {
+  "instruction": {
+   "start date": "02/23/17",
+   "location": "New York, New York, USA",
+   "number of adults": "3",
+   "end date": "02/25/17",
+   "ANSWER": "Embassy Suites Secaucus - Meadowlands",
+   "number of rooms": "2"
+  }
+ },
+ "2c18c790c2": {
+  "instruction": {
+   "number of adults": "8",
+   "start date": "3/16/17",
+   "end date": "3/20/17",
+   "location": "College Park, GA",
+   "number of rooms": "4"
+  }
+ },
+ "c8c1560aba": {
+  "instruction": {
+   "start date": "2/20/17",
+   "location": "San Antonio, TX",
+   "number of adults": "5",
+   "end date": "2/27/17",
+   "ANSWER": "El Tropicano Riverwalk Hotel",
+   "number of rooms": "2"
+  }
+ },
+ "fe7d90d6af": {
+  "instruction": {
+   "number of adults": "4",
+   "end date": "02/27/17",
+   "ANSWER": "Kimpton Angler's Hotel",
+   "start date": "02/25/17",
+   "number of rooms": "3",
+   "location": "Miami, FL"
+  }
+ },
+ "95c1e4f762": {
+  "instruction": {
+   "number of adults": "5",
+   "end date": "02/28/17",
+   "ANSWER": "LEVEL Furnished Living SuitesLoved by guests",
+   "start date": "02/24/17",
+   "number of rooms": "3",
+   "location": "Downtown Los Angeles, California, USA"
+  }
+ },
+ "0a941751cd": {
+  "instruction": {
+   "number of adults": "4",
+   "start date": "3/13/17",
+   "end date": "3/20/17",
+   "location": "Dallas,TX",
+   "number of rooms": "2"
+  }
+ },
+ "5ec87a4cd4": {
+  "instruction": {
+   "end date": "02/23/2017",
+   "start date": "02/20/2017",
+   "number of adults": "4",
+   "location": "Miami,FL",
+   "number of rooms": "2"
+  }
+ },
+ "4c805e5782": {
+  "instruction": {
+   "start date": "02/22/17",
+   "location": "Austin, TX",
+   "number of adults": "4",
+   "end date": "02/25/17",
+   "ANSWER": "Super 8 Austin Airport North",
+   "number of rooms": "3"
+  }
+ },
+ "78bd13b2b7": {
+  "instruction": {
+   "start date": "2/23/17",
+   "location": "Miami, FL",
+   "number of adults": "4",
+   "end date": "2/25/17",
+   "ANSWER": "Golden Hotel",
+   "number of rooms": "2"
+  }
+ },
+ "b038ea7471": {
+  "instruction": {
+   "end date": "05/30/2017",
+   "start date": "05/25/2017",
+   "number of adults": "3",
+   "location": "Morgantown, West Virginia ",
+   "number of rooms": "2"
+  }
+ },
+ "6b9368e0a0": {
+  "instruction": {
+   "start date": "02/21/17",
+   "location": "Houston, TX",
+   "number of adults": "3",
+   "end date": "02/28/17",
+   "ANSWER": "Wyndham Houston West Energy Corridor",
+   "number of rooms": "3"
+  }
+ },
+ "afe49d2e1f": {
+  "instruction": {
+   "start date": "2/21/17",
+   "location": "Sydney, AU",
+   "number of adults": "4",
+   "end date": "2/25/17",
+   "ANSWER": "Dolphine Hotel",
+   "number of rooms": "2"
+  }
+ },
+ "b67ab733d8": {
+  "instruction": {
+   "number of adults": "2",
+   "start date": "4/5/17",
+   "end date": "4/10/17",
+   "location": "Buffalo, NY",
+   "number of rooms": "1"
+  }
+ },
+ "63a4dd6b1c": {
+  "instruction": {
+   "end date": "3/14/17",
+   "start date": "3/12/17",
+   "number of adults": "2",
+   "location": "Greensboro, NC",
+   "number of rooms": "1"
+  }
+ },
+ "1b9de70024": {
+  "instruction": {
+   "geographic location": "Charleston",
+   "stay": "beach resort"
+  }
+ },
+ "5eb85104ba": {
+  "instruction": {
+   "start date": "2/9/17",
+   "number of rooms": "2",
+   "location": "Las Vegas, NV",
+   "end date": "2/11/17",
+   "number of adults": "2"
+  }
+ },
+ "cb00942de1": {
+  "instruction": {
+   "start date": "2/25/17",
+   "location": "Juneau, AK",
+   "number of adults": "1",
+   "end date": "2/28/17",
+   "ANSWER": "Prospector Hotel",
+   "number of rooms": "1"
+  }
+ },
+ "79c583d158": {
+  "instruction": {
+   "start date": "03/02/17",
+   "location": "Irakleio, Greece",
+   "number of adults": "1",
+   "end date": "03/04/17",
+   "ANSWER": "St George Lycabettus Hotel",
+   "number of rooms": "1"
+  }
+ },
+ "61748cd479": {
+  "instruction": {
+   "number of adults": "2",
+   "start date": "02/18/2017",
+   "end date": "02/22/2017",
+   "location": "Atlanta,GA",
+   "number of rooms": "1"
+  }
+ },
+ "e0894a7c72": {
+  "instruction": {
+   "start date": "3/3/17",
+   "location": "Marion, IL",
+   "number of adults": "2`",
+   "end date": "3/10/17",
+   "ANSWER": "Best Western Plus Marion Hotel",
+   "number of rooms": "2"
+  }
+ },
+ "fa1dce0206": {
+  "instruction": {
+   "number of adults": "10",
+   "end date": "02/24/17",
+   "ANSWER": "1 Hotel South BeachLoved by guests",
+   "start date": "02/22/17",
+   "number of rooms": "4",
+   "location": "Miami Beach, Florida, USA"
+  }
+ },
+ "75679f80e2": {
+  "instruction": {
+   "number of adults": "4",
+   "start date": "02/20/2017",
+   "end date": "02/23/2017",
+   "location": "Key West, Florida ",
+   "number of rooms": "2"
+  }
+ },
+ "5f9e7349fd": {
+  "instruction": {
+   "start date": "3/9/2017",
+   "location": "Los Angeles, CA",
+   "number of adults": "4",
+   "end date": "3/13/2017",
+   "ANSWER": "Diamond Bell Inn & Suites",
+   "number of rooms": "2"
+  }
+ },
+ "e88929558c": {
+  "instruction": {
+   "number of adults": "4",
+   "start date": "02/22/2017",
+   "end date": "02/24/2017",
+   "location": "Chicago,IL",
+   "number of rooms": "2"
+  }
+ },
+ "90d6f37b34": {
+  "instruction": {
+   "start date": "2/9/17",
+   "number of rooms": "1",
+   "location": "Bonita Springs, FL",
+   "end date": "2/10/17",
+   "number of adults": "1"
+  }
+ },
+ "27455e3829": {
+  "instruction": {
+   "start date": "4/5/2017",
+   "location": "Chicago, IL",
+   "number of adults": "1",
+   "end date": "4/21/2017",
+   "ANSWER": "Hard Rock Hotel Chicago",
+   "number of rooms": "1"
+  }
+ },
+ "804c03eec3": {
+  "instruction": {
+   "start date": "3/10/17",
+   "location": "Houston, TX",
+   "number of adults": "9",
+   "end date": "3/15/17",
+   "ANSWER": "Four Seasons Hotel Houston",
+   "number of rooms": "5"
+  }
+ },
+ "f3cbbeb93a": {
+  "instruction": {
+   "start date": "03/05/17",
+   "location": "Houston, Texas, USA",
+   "number of adults": "20",
+   "end date": "03/07/17",
+   "ANSWER": "Hilton Houston - Post Oak",
+   "number of rooms": "5"
+  }
+ },
+ "9e31a2185a": {
+  "instruction": {
+   "number of adults": "4",
+   "start date": "03/12/2017",
+   "end date": "03/18/2017",
+   "location": "Fargo, ND ",
+   "number of rooms": "2"
+  }
+ },
+ "bfcc2fedb7": {
+  "instruction": {
+   "number of adults": "2",
+   "start date": "02/21/2017",
+   "end date": "02/23/2017",
+   "location": "New York,NY",
+   "number of rooms": "1"
+  }
+ },
+ "2e463b33ca": {
+  "instruction": {
+   "end date": "2/22/17",
+   "start date": "2/20/17",
+   "number of adults": "8",
+   "location": "Los Angeles, CA",
+   "number of rooms": "4"
+  }
+ },
+ "e213782390": {
+  "instruction": {
+   "end date": "02/24/2017",
+   "start date": "02/20/2017",
+   "number of adults": "5",
+   "location": "Boston,MA",
+   "number of rooms": "2"
+  }
+ },
+ "fac2d41e8a": {
+  "instruction": {
+   "number of adults": "2",
+   "start date": "02/21/2017",
+   "end date": "02/25/2017",
+   "location": "Miami,FL",
+   "number of rooms": "1"
+  }
+ },
+ "067a24a153": {
+  "instruction": {
+   "end date": "2/11/17",
+   "start date": "2/10/17",
+   "number of adults": "1",
+   "location": "Boston, MA",
+   "number of rooms": "1"
+  }
+ },
+ "a9ed79a3e9": {
+  "instruction": {
+   "number of adults": "5",
+   "start date": "02/20/2017",
+   "end date": "02/24/2017",
+   "location": "Boston,MA",
+   "number of rooms": "2"
+  }
+ },
+ "c773c72ae2": {
+  "instruction": {
+   "number of adults": "4",
+   "end date": "02/23/17",
+   "ANSWER": "Quality Inn San Angelo",
+   "start date": "02/21/17",
+   "number of rooms": "4",
+   "location": "San Angelo, TX"
+  }
+ },
+ "1baba48e9a": {
+  "instruction": {
+   "end date": "2/10/17",
+   "start date": "2/9/17",
+   "number of adults": "1",
+   "location": "Bonita Springs, FL",
+   "number of rooms": "1"
+  }
+ },
+ "79b1545932": {
+  "instruction": {
+   "number of adults": "3",
+   "end date": "3/5/17",
+   "ANSWER": "Galt House Hotel",
+   "start date": "2/28/17",
+   "number of rooms": "1",
+   "location": "Louisville, KY"
+  }
+ },
+ "22fc9bab81": {
+  "instruction": {
+   "number of adults": "2",
+   "end date": "02/28/17",
+   "ANSWER": "Extended Stay America - Melbourne - Airport",
+   "start date": "02/22/17",
+   "number of rooms": "1",
+   "location": "Melbourne, Florida, USA"
+  }
+ },
+ "db22b26b32": {
+  "instruction": {
+   "number of adults": "3",
+   "end date": "02/25/17",
+   "ANSWER": "Embassy Suites Secaucus - Meadowlands",
+   "start date": "02/23/17",
+   "number of rooms": "2",
+   "location": "New York, New York, USA"
+  }
+ },
+ "dfbd9978de": {
+  "instruction": {
+   "end date": "5/11/17",
+   "start date": "5/10/17",
+   "number of adults": "4",
+   "location": "Atlanta,GA",
+   "number of rooms": "2"
+  }
+ },
+ "21143f122e": {
+  "instruction": {
+   "start date": "2/18/17",
+   "number of rooms": "3",
+   "location": "Orlando, FL",
+   "end date": "2/20/17",
+   "number of adults": "4"
+  }
+ },
+ "7fc820091e": {
+  "instruction": {
+   "number of adults": "3",
+   "start date": "3/3/17",
+   "end date": "3/5/17",
+   "location": "Winslow, AZ",
+   "number of rooms": "2"
+  }
+ },
+ "0b7f7282fc": {
+  "instruction": {
+   "start date": "4/5/2017",
+   "location": "San Francisco, CA",
+   "number of adults": "2 adults",
+   "end date": "4/6/2017",
+   "ANSWER": "San Francisco Marriott Marquis",
+   "number of rooms": "2 rooms"
+  }
+ },
+ "6b32adf793": {
+  "instruction": {
+   "number of adults": "5",
+   "end date": "2/27/17",
+   "ANSWER": "El Tropicano Riverwalk Hotel",
+   "start date": "2/20/17",
+   "number of rooms": "2",
+   "location": "San Antonio, TX"
+  }
+ },
+ "b5cb65e680": {
+  "instruction": {
+   "start date": "2/28/17",
+   "location": "Louisville, KY",
+   "number of adults": "3",
+   "end date": "3/5/17",
+   "ANSWER": "Galt House Hotel",
+   "number of rooms": "1"
+  }
+ },
+ "7fe2329562": {
+  "instruction": {
+   "number of adults": "1",
+   "end date": "03/02/17",
+   "ANSWER": "Crowne Plaza Orlando - Downtown",
+   "start date": "02/28/17",
+   "number of rooms": "1",
+   "location": "Downtown Orlando, Florida, USA"
+  }
+ },
+ "150bdc858b": {
+  "instruction": {
+   "start date": "3/1/2017",
+   "location": "New York, NY",
+   "number of adults": "2 people",
+   "end date": "3/3/2017",
+   "ANSWER": "Shelburne NYC-an Affinia hotel",
+   "number of rooms": "1room"
+  }
+ },
+ "fa0c427d13": {
+  "instruction": {
+   "end date": "3/5/17",
+   "start date": "3/1/17",
+   "number of adults": "6",
+   "location": "Orlando,FL",
+   "number of rooms": "3"
+  }
+ },
+ "7a2aecb6bd": {
+  "instruction": {
+   "start date": "2/10/17",
+   "number of rooms": "1",
+   "location": "Boston, MA",
+   "end date": "2/11/17",
+   "number of adults": "1"
+  }
+ },
+ "d77fb77a3e": {
+  "instruction": {
+   "start date": "2/13/17",
+   "number of rooms": "1",
+   "location": "Atlantic City, NJ",
+   "end date": "2/15/17",
+   "number of adults": "1"
+  }
+ },
+ "decd52e03b": {
+  "instruction": {
+   "start date": "3/4/17",
+   "location": "Chicago, IL",
+   "number of adults": "4",
+   "end date": "3/6/17",
+   "ANSWER": "The James Chicago",
+   "number of rooms": "2"
+  }
+ },
+ "0da670f265": {
+  "instruction": {
+   "start date": "02/20/17",
+   "location": "Baltimore, Maryland, USA",
+   "number of adults": "6",
+   "end date": "03/01/17",
+   "ANSWER": "Admiral Fell Inn, an Ascend Hotel Collection Member",
+   "number of rooms": "3"
+  }
+ },
+ "b9c5a0faad": {
+  "instruction": {
+   "start date": "2/22/17",
+   "location": "Boston, TX",
+   "number of adults": "6",
+   "end date": "2/23/17",
+   "ANSWER": "Shangrila",
+   "number of rooms": "3"
+  }
+ },
+ "43986c7442": {
+  "instruction": {
+   "number of adults": "4",
+   "start date": "03/24/2017",
+   "end date": "03/28/2017",
+   "location": "Myrtle Beach, SC ",
+   "number of rooms": "2"
+  }
+ },
+ "10baf28202": {
+  "instruction": {
+   "end date": "4/5/17",
+   "start date": "4/1/17",
+   "number of adults": "8",
+   "location": "Cleveland, OH",
+   "number of rooms": "4"
+  }
+ },
+ "0dff79d713": {
+  "instruction": {
+   "end date": "02/26/2017",
+   "start date": "02/22/2017",
+   "number of adults": "5",
+   "location": "Dallas, TX",
+   "number of rooms": "3"
+  }
+ },
+ "ad0f67cbca": {
+  "instruction": {
+   "start date": "02/21/17",
+   "location": "Little Rock, Arkansas, USA",
+   "number of adults": "3",
+   "end date": "02/23/17",
+   "ANSWER": "The Burgundy Hotel, an Ascend Hotel Collection Member",
+   "number of rooms": "1"
+  }
+ },
+ "96319c85c3": {
+  "instruction": {
+   "end date": "3/5/17",
+   "start date": "3/3/17",
+   "number of adults": "3",
+   "location": "Winslow, AZ",
+   "number of rooms": "2"
+  }
+ },
+ "3f7d3f7a2f": {
+  "instruction": {
+   "start date": "2/21/17",
+   "location": "Boston, MA",
+   "number of adults": "2",
+   "end date": "2/22/17",
+   "ANSWER": "The Godfrey Hotel Boston",
+   "number of rooms": "1"
+  }
+ },
+ "1c3d380c6b": {
+  "instruction": {
+   "start date": "3/7/2017",
+   "location": "Houston, TX",
+   "number of adults": "4",
+   "end date": "3/9/2017",
+   "ANSWER": "Magnolia Hotel Houston",
+   "number of rooms": "3"
+  }
+ },
+ "344e7c6eb6": {
+  "instruction": {
+   "number of adults": "3",
+   "start date": "05/25/2017",
+   "end date": "05/30/2017",
+   "location": "Morgantown, West Virginia ",
+   "number of rooms": "2"
+  }
+ },
+ "cccb5c516e": {
+  "instruction": {
+   "start date": "02/21/17",
+   "location": "San Angelo, TX",
+   "number of adults": "4",
+   "end date": "02/23/17",
+   "ANSWER": "Quality Inn San Angelo",
+   "number of rooms": "4"
+  }
+ },
+ "b65c30f558": {
+  "instruction": {
+   "end date": "03/06/2017",
+   "start date": "03/03/2017",
+   "number of adults": "5",
+   "location": "Chicago, IL",
+   "number of rooms": "3"
+  }
+ },
+ "b34a1bfa07": {
+  "instruction": {
+   "number of adults": "2",
+   "start date": "3/12/17",
+   "end date": "3/14/17",
+   "location": "Greensboro, NC",
+   "number of rooms": "1"
+  }
+ },
+ "4bf4d598a7": {
+  "instruction": {
+   "end date": "3/20/17",
+   "start date": "3/13/17",
+   "number of adults": "4",
+   "location": "Dallas,TX",
+   "number of rooms": "2"
+  }
+ },
+ "716d5d0d75": {
+  "instruction": {
+   "start date": "3/11/2017",
+   "location": "Salt Lake City, UT",
+   "number of adults": "2",
+   "end date": "3/15/2017",
+   "ANSWER": "The Grand America Hotel",
+   "number of rooms": "1"
+  }
+ },
+ "1232bcdb87": {
+  "instruction": {
+   "start date": "2/21/17",
+   "location": "Cincinnati, OH",
+   "number of adults": "2",
+   "end date": "2/25/17",
+   "ANSWER": "Cincinnatian Hotel",
+   "number of rooms": "1"
+  }
+ },
+ "f66ad56994": {
+  "instruction": {
+   "start date": "2/21/17",
+   "location": "Cebu City, PH",
+   "number of adults": "2",
+   "end date": "2/26/17",
+   "ANSWER": "GV Tower",
+   "number of rooms": "1"
+  }
+ },
+ "ed5f6a270b": {
+  "instruction": {
+   "end date": "2/4/17",
+   "start date": "2/25/17",
+   "number of adults": "2",
+   "location": "Las Vegas,NV",
+   "number of rooms": "1"
+  }
+ },
+ "0ee3b17a4b": {
+  "instruction": {
+   "geographic location": "L.A.",
+   "stay": "Hilton"
+  }
+ },
+ "d62a0f948c": {
+  "instruction": {
+   "start date": "2/20/17",
+   "number of rooms": "4",
+   "location": "Los Angeles, CA",
+   "end date": "2/22/17",
+   "number of adults": "8"
+  }
+ },
+ "a4a37d92d4": {
+  "instruction": {
+   "number of adults": "2",
+   "start date": "3/9/17 ",
+   "end date": "3/10/17 ",
+   "location": "Boca Raton , FL",
+   "number of rooms": "1"
+  }
+ },
+ "3c05e1f254": {
+  "instruction": {
+   "end date": "05/16/2017",
+   "start date": "05/02/2017",
+   "number of adults": "3",
+   "location": "Richmond, Indiana",
+   "number of rooms": "2"
+  }
+ },
+ "464a59ed01": {
+  "instruction": {
+   "end date": "02/22/2017",
+   "start date": "02/18/2017",
+   "number of adults": "2",
+   "location": "Atlanta,GA",
+   "number of rooms": "1"
+  }
+ },
+ "3bef002329": {
+  "instruction": {
+   "start date": "3/3/17",
+   "location": "Hercules, CA",
+   "number of adults": "2",
+   "end date": "3/10/17",
+   "ANSWER": "Sheraton Sonoma County - Petaluma",
+   "number of rooms": "2"
+  }
+ },
+ "ca05fb6cfe": {
+  "instruction": {
+   "start date": "3/10/2017",
+   "location": "Hollywood, CA",
+   "number of adults": "2",
+   "end date": "3/12/2017",
+   "ANSWER": "Hollywood Orchid Suites",
+   "number of rooms": "1"
+  }
+ },
+ "1080fd114c": {
+  "instruction": {
+   "end date": "2/15/17",
+   "start date": "2/13/17",
+   "number of adults": "5",
+   "location": "Albany, NY",
+   "number of rooms": "3"
+  }
+ },
+ "0aca975720": {
+  "instruction": {
+   "end date": "2/21/17",
+   "start date": "2/19/17",
+   "number of adults": "7",
+   "location": "Miami, FL",
+   "number of rooms": "4"
+  }
+ },
+ "377b3d3f43": {
+  "instruction": {
+   "geographic location": "Washington",
+   "stay": "4-star hotel"
+  }
+ },
+ "12f4300fcb": {
+  "instruction": {
+   "start date": "2/18/17",
+   "number of rooms": "2",
+   "location": "Phoenix, AZ",
+   "end date": "2/19/17",
+   "number of adults": "3"
+  }
+ },
+ "d54260ff09": {
+  "instruction": {
+   "end date": "2/11/17",
+   "start date": "2/9/17",
+   "number of adults": "2",
+   "location": "Las Vegas, NV",
+   "number of rooms": "2"
+  }
+ },
+ "15119eba63": {
+  "instruction": {
+   "number of adults": "3",
+   "start date": "3/14/17",
+   "end date": "3/17/17",
+   "location": "Green Bay, WI",
+   "number of rooms": "1"
+  }
+ },
+ "ebb8a71cb5": {
+  "instruction": {
+   "number of adults": "4",
+   "start date": "5/10/17",
+   "end date": "5/11/17",
+   "location": "Atlanta,GA",
+   "number of rooms": "2"
+  }
+ },
+ "11b11528be": {
+  "instruction": {
+   "start date": "02/21/17",
+   "location": "Colorado Springs, CO",
+   "number of adults": "2",
+   "end date": "02/28/17",
+   "ANSWER": "MCM Elegante Suites",
+   "number of rooms": "2"
+  }
+ },
+ "24fe38b97d": {
+  "instruction": {
+   "start date": "02/25/17",
+   "location": "Miami, FL",
+   "number of adults": "4",
+   "end date": "02/27/17",
+   "ANSWER": "Kimpton Angler's Hotel",
+   "number of rooms": "3"
+  }
+ },
+ "9a6b47f576": {
+  "instruction": {
+   "end date": "2/15/17",
+   "start date": "2/13/17",
+   "number of adults": "1",
+   "location": "Atlantic City, NJ",
+   "number of rooms": "1"
+  }
+ },
+ "629c312f02": {
+  "instruction": {
+   "number of adults": "2",
+   "end date": "02/28/17",
+   "ANSWER": "MCM Elegante Suites",
+   "start date": "02/21/17",
+   "number of rooms": "2",
+   "location": "Colorado Springs, CO"
+  }
+ },
+ "9c7fc8b2bd": {
+  "instruction": {
+   "number of adults": "3",
+   "end date": "02/27/17",
+   "ANSWER": "LEVEL Furnished Living Suites",
+   "start date": "02/20/17",
+   "number of rooms": "3",
+   "location": "Los Angeles, CA"
+  }
+ },
+ "e41b1f782f": {
+  "instruction": {
+   "end date": "2/19/17",
+   "start date": "2/18/17",
+   "number of adults": "3",
+   "location": "Phoenix, AZ",
+   "number of rooms": "2"
+  }
+ },
+ "963bcc26ba": {
+  "instruction": {
+   "end date": "02/24/2017",
+   "start date": "02/22/2017",
+   "number of adults": "4",
+   "location": "Los Angeles,CA",
+   "number of rooms": "2"
+  }
+ },
+ "e2adbad3e0": {
+  "instruction": {
+   "number of adults": "4",
+   "end date": "6/10/17",
+   "ANSWER": "Hyatt Place Omaha Downtown Old Market",
+   "start date": "6/4/17",
+   "number of rooms": "3",
+   "location": "Omaha, NE"
+  }
+ },
+ "ed5eacca0c": {
+  "instruction": {
+   "start date": "2/13/17",
+   "number of rooms": "3",
+   "location": "Albany, NY",
+   "end date": "2/15/17",
+   "number of adults": "5"
+  }
+ },
+ "5b3cc6760c": {
+  "instruction": {
+   "start date": "4/10/2017",
+   "location": "Orlando, FL",
+   "number of adults": "4",
+   "end date": "4/14/2017",
+   "ANSWER": "Universal's Hard Rock Hotel1",
+   "number of rooms": "2"
+  }
+ },
+ "84fad611f2": {
+  "instruction": {
+   "start date": "2/25/17",
+   "location": "Chicago, IL",
+   "number of adults": "3",
+   "end date": "2/28/17",
+   "ANSWER": "Chicago Luxury",
+   "number of rooms": "1"
+  }
+ },
+ "8a34941ddf": {
+  "instruction": {
+   "start date": "02/21/17",
+   "location": "Phenix City, AL",
+   "number of adults": "5",
+   "end date": "02/26/17",
+   "ANSWER": "Red Roof Inn Columbus - Phenix City",
+   "number of rooms": "4"
+  }
+ },
+ "14e25f0097": {
+  "instruction": {
+   "end date": "2/16/17",
+   "start date": "2/14/17",
+   "number of adults": "4",
+   "location": "Chicago, IL",
+   "number of rooms": "2"
+  }
+ },
+ "3d79272f33": {
+  "instruction": {
+   "number of adults": "6",
+   "start date": "4/18/17 ",
+   "end date": "4/19/17",
+   "location": "Charlotte,NC",
+   "number of rooms": "3"
+  }
+ },
+ "00ca5ebc5e": {
+  "instruction": {
+   "number of adults": "3",
+   "end date": "4/4/17",
+   "ANSWER": "Radisson Hotel Denver Southeast",
+   "start date": "3/29/17",
+   "number of rooms": "1",
+   "location": "Aurora, CO"
+  }
+ },
+ "ab6a6dbf43": {
+  "instruction": {
+   "end date": "3/12/17",
+   "start date": "3/2/17",
+   "number of adults": "2",
+   "location": "Sacramento, CA",
+   "number of rooms": "2"
+  }
+ },
+ "412e2971bd": {
+  "instruction": {
+   "number of adults": "5",
+   "end date": "4/25/17",
+   "ANSWER": "The Surfjack Hotel & Swim ClubTop Hotel",
+   "start date": "4/18/17",
+   "number of rooms": "2",
+   "location": "Honolulu, HI"
+  }
+ },
+ "408b1b5f7b": {
+  "instruction": {
+   "number of adults": "7",
+   "end date": "5/27/17",
+   "ANSWER": "The Kimpton Schofield Hotel",
+   "start date": "5/20/17",
+   "number of rooms": "4",
+   "location": "Cleveland, OH"
+  }
+ },
+ "89fdb7eec7": {
+  "instruction": {
+   "number of adults": "3",
+   "end date": "02/26/17",
+   "ANSWER": "Hampton Inn Pennsville",
+   "start date": "02/25/17",
+   "number of rooms": "2",
+   "location": "Pennsville, NJ"
+  }
+ },
+ "30143d8fbe": {
+  "instruction": {
+   "start date": "02/21/17",
+   "location": "Calgary, Alberta, Canada",
+   "number of adults": "5",
+   "end date": "02/25/17",
+   "ANSWER": "Delta Hotels by Marriott Calgary Downtown",
+   "number of rooms": "2"
+  }
+ },
+ "c634fe76f5": {
+  "instruction": {
+   "start date": "2/25/17",
+   "location": "Detroit, MI",
+   "number of adults": "6",
+   "end date": "2/28/17",
+   "ANSWER": "Greektown Casino Hotel",
+   "number of rooms": "3"
+  }
+ },
+ "c0c66c6898": {
+  "instruction": {
+   "number of adults": "20",
+   "end date": "03/07/17",
+   "ANSWER": "Hilton Houston - Post Oak",
+   "start date": "03/05/17",
+   "number of rooms": "5",
+   "location": "Houston, Texas, USA"
+  }
+ },
+ "d8a70cea07": {
+  "instruction": {
+   "number of adults": "6",
+   "end date": "03/01/17",
+   "ANSWER": "Admiral Fell Inn, an Ascend Hotel Collection Member",
+   "start date": "02/20/17",
+   "number of rooms": "3",
+   "location": "Baltimore, Maryland, USA"
+  }
+ },
+ "478bd22f75": {
+  "instruction": {
+   "number of adults": "2",
+   "start date": "3/2/17",
+   "end date": "3/12/17",
+   "location": "Sacramento, CA",
+   "number of rooms": "2"
+  }
+ },
+ "c40970d871": {
+  "instruction": {
+   "start date": "2/29/17",
+   "location": "Cebu City, PH",
+   "number of adults": "2",
+   "end date": "2/30/17",
+   "ANSWER": "Marco Polo ",
+   "number of rooms": "1"
+  }
+ },
+ "36892e4fe8": {
+  "instruction": {
+   "geographic location": "Disney Anaheim",
+   "stay": "Wyndham"
+  }
+ },
+ "422053ae24": {
+  "instruction": {
+   "start date": "02/21/17",
+   "location": "Little Rock, AK",
+   "number of adults": "4",
+   "end date": "02/23/17",
+   "ANSWER": "Comfort Inn & Suites Airport",
+   "number of rooms": "2"
+  }
+ },
+ "682121d2cc": {
+  "instruction": {
+   "geographic location": "Tacoma, WA",
+   "stay": "B&B"
+  }
+ },
+ "37bf08d8b5": {
+  "instruction": {
+   "number of adults": "2",
+   "start date": "2/25/17",
+   "end date": "2/4/17",
+   "location": "Las Vegas,NV",
+   "number of rooms": "1"
+  }
+ },
+ "811735df75": {
+  "instruction": {
+   "end date": "02/25/2017",
+   "start date": "02/21/2017",
+   "number of adults": "2",
+   "location": "Miami,FL",
+   "number of rooms": "1"
+  }
+ },
+ "b94b755c6b": {
+  "instruction": {
+   "end date": "02/27/2017",
+   "start date": "02/21/2017",
+   "number of adults": "2",
+   "location": "Atlanta, GA",
+   "number of rooms": "2"
+  }
+ },
+ "7ce021829a": {
+  "instruction": {
+   "number of adults": "6",
+   "start date": "5/2/17",
+   "end date": "5/5/17",
+   "location": "San Diego, CA",
+   "number of rooms": "3"
+  }
+ },
+ "672603789f": {
+  "instruction": {
+   "end date": "2/25/17",
+   "start date": "2/20/17",
+   "number of adults": "8",
+   "location": "Phoenix, AZ",
+   "number of rooms": "2"
+  }
+ },
+ "2dbcc411af": {
+  "instruction": {
+   "number of adults": "5",
+   "start date": "02/22/2017",
+   "end date": "02/26/2017",
+   "location": "Dallas, TX",
+   "number of rooms": "3"
+  }
+ },
+ "d6b507170e": {
+  "instruction": {
+   "start date": "2/27/17",
+   "location": "Manila, PH",
+   "number of adults": "3",
+   "end date": "2/30/17",
+   "ANSWER": "Resorts World",
+   "number of rooms": "1"
+  }
+ },
+ "2ce0558ab2": {
+  "instruction": {
+   "end date": "4/12/17",
+   "start date": "4/10/17",
+   "number of adults": "1",
+   "location": "Chicago, IL",
+   "number of rooms": "1"
+  }
+ },
+ "a6c2a03b55": {
+  "instruction": {
+   "geographic location": "Disney Orlando",
+   "stay": "Marriot"
+  }
+ },
+ "974c866c33": {
+  "instruction": {
+   "start date": "4/18/17",
+   "location": "Honolulu, HI",
+   "number of adults": "5",
+   "end date": "4/25/17",
+   "ANSWER": "The Surfjack Hotel & Swim ClubTop Hotel",
+   "number of rooms": "2"
+  }
+ },
+ "cf8b5be870": {
+  "instruction": {
+   "number of adults": "5",
+   "start date": "03/03/2017",
+   "end date": "03/06/2017",
+   "location": "Chicago, IL",
+   "number of rooms": "3"
+  }
+ },
+ "f37e84f368": {
+  "instruction": {
+   "start date": "02/25/17",
+   "location": "New York, NY",
+   "number of adults": "5",
+   "end date": "02/27/17",
+   "ANSWER": "Chelsea Savoy Hotel",
+   "number of rooms": "2"
+  }
+ },
+ "43aabdd09f": {
+  "instruction": {
+   "number of adults": "5",
+   "end date": "02/27/17",
+   "ANSWER": "Chelsea Savoy Hotel",
+   "start date": "02/25/17",
+   "number of rooms": "2",
+   "location": "New York, NY"
+  }
+ },
+ "876f5f380c": {
+  "instruction": {
+   "number of adults": "2",
+   "start date": "02/21/2017",
+   "end date": "02/27/2017",
+   "location": "Atlanta, GA",
+   "number of rooms": "2"
+  }
+ },
+ "9ca287f014": {
+  "instruction": {
+   "geographic location": "Alexandria, VA",
+   "stay": "3-star hotel"
+  }
+ },
+ "1417d5d5f9": {
+  "instruction": {
+   "number of adults": "5",
+   "start date": "3/01/17",
+   "end date": "3/10/17",
+   "location": "Pittsburgh, PA",
+   "number of rooms": "2"
+  }
+ },
+ "75c2f4ee1f": {
+  "instruction": {
+   "number of adults": "9",
+   "start date": "04/07/17",
+   "end date": "04/10/17",
+   "location": "Baltimore, Md ",
+   "number of rooms": "5"
+  }
+ },
+ "3f5519ca57": {
+  "instruction": {
+   "number of adults": "4",
+   "start date": "3/28/17",
+   "end date": "4/2/17",
+   "location": "Richmond, VA",
+   "number of rooms": "2"
+  }
+ },
+ "a0030d3e5c": {
+  "instruction": {
+   "number of adults": "4",
+   "end date": "02/23/17",
+   "ANSWER": "Comfort Inn & Suites Airport",
+   "start date": "02/21/17",
+   "number of rooms": "2",
+   "location": "Little Rock, AK"
+  }
+ },
+ "68763358f7": {
+  "instruction": {
+   "number of adults": "4",
+   "start date": "02/20/2017",
+   "end date": "02/23/2017",
+   "location": "Miami,FL",
+   "number of rooms": "2"
+  }
+ }
+}

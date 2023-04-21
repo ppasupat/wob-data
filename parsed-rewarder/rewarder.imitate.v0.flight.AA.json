@@ -1,0 +1,2048 @@
+{
+ "092740a062": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/30/2017",
+     "segments[1].travelDate": "03/31/2017",
+     "segments[0].origin": "DEN",
+     "segments[0].destination": "BOS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Boston",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Denver",
+   "Returning Day": 31,
+   "Departure Day": 30
+  }
+ },
+ "53e9a0c8ca": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/06/2017",
+     "segments[1].travelDate": "03/19/2017",
+     "segments[0].origin": "NYC",
+     "segments[0].destination": "LAX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Los Angeles",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "New York",
+   "Returning Day": 19,
+   "Departure Day": 6
+  }
+ },
+ "7409a27bad": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/19/2017",
+     "segments[1].travelDate": "03/30/2017",
+     "segments[0].origin": "SAN",
+     "segments[0].destination": "PDX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Portland",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "San Diego",
+   "Returning Day": 30,
+   "Departure Day": 19
+  }
+ },
+ "cb20db306d": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/24/2017",
+     "segments[1].travelDate": "03/30/2017",
+     "segments[0].origin": "DEN",
+     "segments[0].destination": "LAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Las Vegas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Denver",
+   "Returning Day": 30,
+   "Departure Day": 24
+  }
+ },
+ "406bd53877": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/07/2017",
+     "segments[1].travelDate": "03/23/2017",
+     "segments[0].origin": "NYC",
+     "segments[0].destination": "DEN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Denver",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "New York",
+   "Returning Day": 23,
+   "Departure Day": 7
+  }
+ },
+ "0f8add3cbe": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/12/2017",
+     "segments[1].travelDate": "03/15/2017",
+     "segments[0].origin": "AUS",
+     "segments[0].destination": "DFW",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Dallas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Austin",
+   "Returning Day": 15,
+   "Departure Day": 12
+  }
+ },
+ "9176d5e618": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/06/2017",
+     "segments[1].travelDate": "03/14/2017",
+     "segments[0].origin": "BOS",
+     "segments[0].destination": "LAX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Los Angeles",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Boston",
+   "Returning Day": 14,
+   "Departure Day": 6
+  }
+ },
+ "453a081736": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/08/2017",
+     "segments[1].travelDate": "03/10/2017",
+     "segments[0].origin": "DFW",
+     "segments[0].destination": "PDX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Portland",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Dallas",
+   "Returning Day": 10,
+   "Departure Day": 8
+  }
+ },
+ "55febab899": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/16/2017",
+     "segments[1].travelDate": "03/18/2017",
+     "segments[0].origin": "DFW",
+     "segments[0].destination": "PDX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Diego",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Austin",
+   "Returning Day": 18,
+   "Departure Day": 16
+  }
+ },
+ "7414eaf37d": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/29/2017",
+     "segments[1].travelDate": "03/29/2017",
+     "segments[0].origin": "SAN",
+     "segments[0].destination": "NYC",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "New York",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "San Diego",
+   "Returning Day": 29,
+   "Departure Day": 29
+  }
+ },
+ "be33a29409": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/31/2017",
+     "segments[1].travelDate": "03/31/2017",
+     "segments[0].origin": "DEN",
+     "segments[0].destination": "BOS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Boston",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Denver",
+   "Returning Day": 31,
+   "Departure Day": 31
+  }
+ },
+ "feeabcb573": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/19/2017",
+     "segments[1].travelDate": "03/21/2017",
+     "segments[0].origin": "LAS",
+     "segments[0].destination": "PDX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Portland",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Las Vegas",
+   "Returning Day": 21,
+   "Departure Day": 19
+  }
+ },
+ "75432338bb": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/10/2017",
+     "segments[1].travelDate": "03/19/2017",
+     "segments[0].origin": "AUS",
+     "segments[0].destination": "DFW",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Dallas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Austin",
+   "Returning Day": 19,
+   "Departure Day": 10
+  }
+ },
+ "67352fdf6d": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/03/2017",
+     "segments[1].travelDate": "03/08/2017",
+     "segments[0].origin": "LAS",
+     "segments[0].destination": "SAN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Diego",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Las Vegas",
+   "Returning Day": 8,
+   "Departure Day": 3
+  }
+ },
+ "7cee36e8c2": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/31/2017",
+     "segments[1].travelDate": "03/31/2017",
+     "segments[0].origin": "DFW",
+     "segments[0].destination": "DEN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Denver",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Dallas",
+   "Returning Day": 31,
+   "Departure Day": 31
+  }
+ },
+ "0dee23392e": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/25/2017",
+     "segments[1].travelDate": "03/31/2017",
+     "segments[0].origin": "LAX",
+     "segments[0].destination": "AUS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Austin",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Los Angeles",
+   "Returning Day": 31,
+   "Departure Day": 25
+  }
+ },
+ "a2e811b3de": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/10/2017",
+     "segments[1].travelDate": "03/12/2017",
+     "segments[0].origin": "AUS",
+     "segments[0].destination": "WAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Washington DC",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Austin",
+   "Returning Day": 12,
+   "Departure Day": 10
+  }
+ },
+ "a8be75ec36": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/22/2017",
+     "segments[1].travelDate": "03/29/2017",
+     "segments[0].origin": "NYC",
+     "segments[0].destination": "BOS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Boston",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "New York",
+   "Returning Day": 29,
+   "Departure Day": 22
+  }
+ },
+ "998da172a9": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/11/2017",
+     "segments[1].travelDate": "03/22/2017",
+     "segments[0].origin": "LAX",
+     "segments[0].destination": "DEN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Denver",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Los Angeles",
+   "Returning Day": 22,
+   "Departure Day": 11
+  }
+ },
+ "d9d3f552f2": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/13/2017",
+     "segments[1].travelDate": "03/16/2017",
+     "segments[0].origin": "LAX",
+     "segments[0].destination": "DFW",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Dallas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Los Angeles",
+   "Returning Day": 16,
+   "Departure Day": 13
+  }
+ },
+ "98382b74fd": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/09/2017",
+     "segments[1].travelDate": "03/26/2017",
+     "segments[0].origin": "BOS",
+     "segments[0].destination": "WAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Washington DC",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Boston",
+   "Returning Day": 26,
+   "Departure Day": 9
+  }
+ },
+ "9aebf9b3bf": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/24/2017",
+     "segments[1].travelDate": "03/29/2017",
+     "segments[0].origin": "LAX",
+     "segments[0].destination": "SFO",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Francisco",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Las Vegas",
+   "Returning Day": 29,
+   "Departure Day": 24
+  }
+ },
+ "c0b0e74b14": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/28/2017",
+     "segments[1].travelDate": "03/31/2017",
+     "segments[0].origin": "DEN",
+     "segments[0].destination": "BOS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Boston",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Denver",
+   "Returning Day": 31,
+   "Departure Day": 28
+  }
+ },
+ "1907eee171": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/29/2017",
+     "segments[1].travelDate": "03/30/2017",
+     "segments[0].origin": "SAN",
+     "segments[0].destination": "LAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Las Vegas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "San Diego",
+   "Returning Day": 30,
+   "Departure Day": 29
+  }
+ },
+ "056040c368": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/28/2017",
+     "segments[1].travelDate": "03/31/2017",
+     "segments[0].origin": "AUS",
+     "segments[0].destination": "WAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Washington DC",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Austin",
+   "Returning Day": 31,
+   "Departure Day": 28
+  }
+ },
+ "271c71a533": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/19/2017",
+     "segments[1].travelDate": "03/19/2017",
+     "segments[0].origin": "SAN",
+     "segments[0].destination": "WAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Washington DC",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "San Diego",
+   "Returning Day": 19,
+   "Departure Day": 19
+  }
+ },
+ "55e7ad8873": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/10/2017",
+     "segments[1].travelDate": "03/28/2017",
+     "segments[0].origin": "PDX",
+     "segments[0].destination": "DEN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Denver",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Portland",
+   "Returning Day": 28,
+   "Departure Day": 10
+  }
+ },
+ "ba8ad929ce": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/27/2017",
+     "segments[1].travelDate": "03/28/2017",
+     "segments[0].origin": "DFW",
+     "segments[0].destination": "PDX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Portland",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Dallas",
+   "Returning Day": 28,
+   "Departure Day": 27
+  }
+ },
+ "834b509b20": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/22/2017",
+     "segments[1].travelDate": "03/27/2017",
+     "segments[0].origin": "LAS",
+     "segments[0].destination": "NYC",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "New York",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Las Vegas",
+   "Returning Day": 27,
+   "Departure Day": 22
+  }
+ },
+ "07a6a34251": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/08/2017",
+     "segments[1].travelDate": "03/24/2017",
+     "segments[0].origin": "DEN",
+     "segments[0].destination": "LAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Las Vegas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Denver",
+   "Returning Day": 24,
+   "Departure Day": 8
+  }
+ },
+ "e64c89252b": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/25/2017",
+     "segments[1].travelDate": "03/30/2017",
+     "segments[0].origin": "DFW",
+     "segments[0].destination": "BOS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Boston",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Dallas",
+   "Returning Day": 30,
+   "Departure Day": 25
+  }
+ },
+ "25fae78e47": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/05/2017",
+     "segments[1].travelDate": "03/14/2017",
+     "segments[0].origin": "AUS",
+     "segments[0].destination": "BOS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Boston",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Austin",
+   "Returning Day": 14,
+   "Departure Day": 5
+  }
+ },
+ "613d8601cf": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/03/2017",
+     "segments[1].travelDate": "03/28/2017",
+     "segments[0].origin": "NYC",
+     "segments[0].destination": "LAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Las Vegas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "New York",
+   "Returning Day": 28,
+   "Departure Day": 3
+  }
+ },
+ "a14913428e": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/17/2017",
+     "segments[1].travelDate": "03/23/2017",
+     "segments[0].origin": "WAS",
+     "segments[0].destination": "SAN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Diego",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Washington DC",
+   "Returning Day": 23,
+   "Departure Day": 17
+  }
+ },
+ "bc55a06477": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/16/2017",
+     "segments[1].travelDate": "03/21/2017",
+     "segments[0].origin": "LAS",
+     "segments[0].destination": "LAX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Los Angeles",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Las Vegas",
+   "Returning Day": 31,
+   "Departure Day": 16
+  }
+ },
+ "1bec6d6b66": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/20/2017",
+     "segments[1].travelDate": "03/23/2017",
+     "segments[0].origin": "BOS",
+     "segments[0].destination": "LAX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Los Angeles",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Boston",
+   "Returning Day": 23,
+   "Departure Day": 20
+  }
+ },
+ "870c2515d6": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/05/2017",
+     "segments[1].travelDate": "03/10/2017",
+     "segments[0].origin": "LAS",
+     "segments[0].destination": "AUS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Austin",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Las Vegas",
+   "Returning Day": 10,
+   "Departure Day": 5
+  }
+ },
+ "0e5222c4cf": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/09/2017",
+     "segments[1].travelDate": "03/12/2017",
+     "segments[0].origin": "DEN",
+     "segments[0].destination": "WAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Washington DC",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Denver",
+   "Returning Day": 12,
+   "Departure Day": 9
+  }
+ },
+ "aca53d5e15": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/01/2017",
+     "segments[1].travelDate": "03/12/2017",
+     "segments[0].origin": "AUS",
+     "segments[0].destination": "SAN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Los Angeles",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Dallas",
+   "Returning Day": 12,
+   "Departure Day": 1
+  }
+ },
+ "859cfc9df3": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/16/2017",
+     "segments[1].travelDate": "03/19/2017",
+     "segments[0].origin": "PDX",
+     "segments[0].destination": "BOS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Boston",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Portland",
+   "Returning Day": 19,
+   "Departure Day": 16
+  }
+ },
+ "f06b0cc0b9": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/03/2017",
+     "segments[1].travelDate": "03/18/2017",
+     "segments[0].origin": "NYC",
+     "segments[0].destination": "LAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Las Vegas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "New York",
+   "Returning Day": 18,
+   "Departure Day": 3
+  }
+ },
+ "f28ad254d1": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/29/2017",
+     "segments[1].travelDate": "03/29/2017",
+     "segments[0].origin": "LAX",
+     "segments[0].destination": "WAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Washington DC",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Los Angeles",
+   "Returning Day": 29,
+   "Departure Day": 29
+  }
+ },
+ "f8a67ef2a8": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/30/2017",
+     "segments[1].travelDate": "03/31/2017",
+     "segments[0].origin": "BOS",
+     "segments[0].destination": "LAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Las Vegas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Boston",
+   "Returning Day": 31,
+   "Departure Day": 30
+  }
+ },
+ "fb3b0d048e": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/27/2017",
+     "segments[1].travelDate": "03/27/2017",
+     "segments[0].origin": "DFW",
+     "segments[0].destination": "BOS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Boston",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Dallas",
+   "Returning Day": 27,
+   "Departure Day": 27
+  }
+ },
+ "5769cdd90d": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/10/2017",
+     "segments[1].travelDate": "03/24/2017",
+     "segments[0].origin": "LAX",
+     "segments[0].destination": "SAN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Diego",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Los Angeles",
+   "Returning Day": 24,
+   "Departure Day": 10
+  }
+ },
+ "852eadd8e0": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/22/2017",
+     "segments[1].travelDate": "03/26/2017",
+     "segments[0].origin": "SFO",
+     "segments[0].destination": "LAX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Los Angeles",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "San Francisco",
+   "Returning Day": 26,
+   "Departure Day": 22
+  }
+ },
+ "90e1dff96b": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/25/2017",
+     "segments[1].travelDate": "03/28/2017",
+     "segments[0].origin": "WAS",
+     "segments[0].destination": "SFO",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Francisco",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Washington DC",
+   "Returning Day": 28,
+   "Departure Day": 25
+  }
+ },
+ "5b655caa59": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/25/2017",
+     "segments[1].travelDate": "03/30/2017",
+     "segments[0].origin": "DEN",
+     "segments[0].destination": "WAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Washington DC",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Denver",
+   "Returning Day": 30,
+   "Departure Day": 25
+  }
+ },
+ "81b47ce9c8": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/12/2017",
+     "segments[1].travelDate": "03/21/2017",
+     "segments[0].origin": "LAX",
+     "segments[0].destination": "AUS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Austin",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Los Angeles",
+   "Returning Day": 31,
+   "Departure Day": 12
+  }
+ },
+ "30cfdd49fc": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/13/2017",
+     "segments[1].travelDate": "03/22/2017",
+     "segments[0].origin": "PDX",
+     "segments[0].destination": "LAX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Los Angeles",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Portland",
+   "Returning Day": 22,
+   "Departure Day": 13
+  }
+ },
+ "6cae96a716": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/24/2017",
+     "segments[1].travelDate": "03/26/2017",
+     "segments[0].origin": "NYC",
+     "segments[0].destination": "DFW",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Dallas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "New York",
+   "Returning Day": 26,
+   "Departure Day": 24
+  }
+ },
+ "63269d5805": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/17/2017",
+     "segments[1].travelDate": "03/18/2017",
+     "segments[0].origin": "DEN",
+     "segments[0].destination": "BOS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Boston",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Denver",
+   "Returning Day": 18,
+   "Departure Day": 17
+  }
+ },
+ "68480b4e6c": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/20/2017",
+     "segments[1].travelDate": "03/31/2017",
+     "segments[0].origin": "LAS",
+     "segments[0].destination": "WAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Washington DC",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Las Vegas",
+   "Returning Day": 31,
+   "Departure Day": 20
+  }
+ },
+ "c60293a703": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/26/2017",
+     "segments[1].travelDate": "03/30/2017",
+     "segments[0].origin": "BOS",
+     "segments[0].destination": "PDX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Portland",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Boston",
+   "Returning Day": 30,
+   "Departure Day": 26
+  }
+ },
+ "5bf7d04e6f": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/06/2017",
+     "segments[1].travelDate": "03/26/2017",
+     "segments[0].origin": "BOS",
+     "segments[0].destination": "PDX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Portland",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Boston",
+   "Returning Day": 26,
+   "Departure Day": 6
+  }
+ },
+ "c5d8f30b29": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/19/2017",
+     "segments[1].travelDate": "03/28/2017",
+     "segments[0].origin": "SAN",
+     "segments[0].destination": "DFW",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Dallas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "San Francisco",
+   "Returning Day": 28,
+   "Departure Day": 19
+  }
+ },
+ "93e8233781": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/31/2017",
+     "segments[1].travelDate": "03/31/2017",
+     "segments[0].origin": "SFO",
+     "segments[0].destination": "LAX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Los Angeles",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "San Francisco",
+   "Returning Day": 31,
+   "Departure Day": 31
+  }
+ },
+ "adee2c44ca": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/09/2017",
+     "segments[1].travelDate": "03/17/2017",
+     "segments[0].origin": "WAS",
+     "segments[0].destination": "SAN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Diego",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Washington DC",
+   "Returning Day": 17,
+   "Departure Day": 9
+  }
+ },
+ "dd8ff78377": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/16/2017",
+     "segments[1].travelDate": "03/22/2017",
+     "segments[0].origin": "AUS",
+     "segments[0].destination": "SAN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Diego",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Austin",
+   "Returning Day": 22,
+   "Departure Day": 16
+  }
+ },
+ "51c5d72a92": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/27/2017",
+     "segments[1].travelDate": "03/31/2017",
+     "segments[0].origin": "lax",
+     "segments[0].destination": "sfo",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Francisco",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Los Angeles",
+   "Returning Day": 31,
+   "Departure Day": 27
+  }
+ },
+ "24904f50c0": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/21/2017",
+     "segments[1].travelDate": "03/29/2017",
+     "segments[0].origin": "DEN",
+     "segments[0].destination": "AUS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Austin",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Denver",
+   "Returning Day": 29,
+   "Departure Day": 21
+  }
+ },
+ "3e105bb483": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/14/2017",
+     "segments[1].travelDate": "03/26/2017",
+     "segments[0].origin": "DEN",
+     "segments[0].destination": "PDX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Portland",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Denver",
+   "Returning Day": 26,
+   "Departure Day": 14
+  }
+ },
+ "3709ec0026": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/27/2017",
+     "segments[1].travelDate": "03/31/2017",
+     "segments[0].origin": "BOS",
+     "segments[0].destination": "DFW",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Dallas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Boston",
+   "Returning Day": 31,
+   "Departure Day": 27
+  }
+ },
+ "7ea258b43d": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/12/2017",
+     "segments[1].travelDate": "03/25/2017",
+     "segments[0].origin": "DEN",
+     "segments[0].destination": "WAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Washington DC",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Denver",
+   "Returning Day": 25,
+   "Departure Day": 12
+  }
+ },
+ "8e667119a1": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/25/2017",
+     "segments[1].travelDate": "03/30/2017",
+     "segments[0].origin": "PDX",
+     "segments[0].destination": "DEN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Denver",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Portland",
+   "Returning Day": 30,
+   "Departure Day": 25
+  }
+ },
+ "e7852a1415": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/11/2017",
+     "segments[1].travelDate": "03/25/2017",
+     "segments[0].origin": "SAN",
+     "segments[0].destination": "NYC",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "New York",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "San Diego",
+   "Returning Day": 25,
+   "Departure Day": 11
+  }
+ },
+ "77942ea2ec": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/23/2017",
+     "segments[1].travelDate": "03/25/2017",
+     "segments[0].origin": "DFW",
+     "segments[0].destination": "DEN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Denver",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Dallas",
+   "Returning Day": 25,
+   "Departure Day": 23
+  }
+ },
+ "25f0f21e00": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/12/2017",
+     "segments[1].travelDate": "03/15/2017",
+     "segments[0].origin": "LAS",
+     "segments[0].destination": "SFO",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Francisco",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Las Vegas",
+   "Returning Day": 15,
+   "Departure Day": 12
+  }
+ },
+ "f03c944637": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/15/2017",
+     "segments[1].travelDate": "03/25/2017",
+     "segments[0].origin": "LAX",
+     "segments[0].destination": "SAN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Diego",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Los Angeles",
+   "Returning Day": 25,
+   "Departure Day": 15
+  }
+ },
+ "6745909464": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/05/2017",
+     "segments[1].travelDate": "03/16/2017",
+     "segments[0].origin": "PDX",
+     "segments[0].destination": "LAX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Los Angeles",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Portland",
+   "Returning Day": 16,
+   "Departure Day": 5
+  }
+ },
+ "514d65cd65": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/27/2017",
+     "segments[1].travelDate": "03/29/2017",
+     "segments[0].origin": "SAN",
+     "segments[0].destination": "LAX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Los Angeles",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "San Diego",
+   "Returning Day": 29,
+   "Departure Day": 27
+  }
+ },
+ "bba86907be": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/27/2017",
+     "segments[1].travelDate": "03/29/2017",
+     "segments[0].origin": "AUS",
+     "segments[0].destination": "DFW",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Dallas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Austin",
+   "Returning Day": 29,
+   "Departure Day": 27
+  }
+ },
+ "3adcac8ca9": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/19/2017",
+     "segments[1].travelDate": "03/28/2017",
+     "segments[0].origin": "LAS",
+     "segments[0].destination": "SFO",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Francisco",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Las Vegas",
+   "Returning Day": 28,
+   "Departure Day": 19
+  }
+ },
+ "6b74ee0a46": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/01/2017",
+     "segments[1].travelDate": "03/01/2017",
+     "segments[0].origin": "DFW",
+     "segments[0].destination": "WAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Washington DC",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Dallas",
+   "Returning Day": 1,
+   "Departure Day": 1
+  }
+ },
+ "526cca9ccf": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/01/2017",
+     "segments[1].travelDate": "03/01/2017",
+     "segments[0].origin": "SFO",
+     "segments[0].destination": "WAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Washington DC",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "San Francisco",
+   "Returning Day": 1,
+   "Departure Day": 1
+  }
+ },
+ "037ab5fae2": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/04/2017",
+     "segments[1].travelDate": "03/17/2017",
+     "segments[0].origin": "DFW",
+     "segments[0].destination": "SFO",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Francisco",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Dallas",
+   "Returning Day": 17,
+   "Departure Day": 4
+  }
+ },
+ "a1c0795d56": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/03/2017",
+     "segments[1].travelDate": "03/03/2017",
+     "segments[0].origin": "WAS",
+     "segments[0].destination": "SAN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Diego",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Washington DC",
+   "Returning Day": 3,
+   "Departure Day": 3
+  }
+ },
+ "be51cc805b": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/01/2017",
+     "segments[1].travelDate": "03/24/2017",
+     "segments[0].origin": "LAX",
+     "segments[0].destination": "SAN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Diego",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Los Angeles",
+   "Returning Day": 24,
+   "Departure Day": 1
+  }
+ },
+ "7c4d5f8b88": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/15/2017",
+     "segments[1].travelDate": "03/28/2017",
+     "segments[0].origin": "NYC",
+     "segments[0].destination": "AUS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Austin",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "New York",
+   "Returning Day": 28,
+   "Departure Day": 15
+  }
+ },
+ "2541092e82": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/12/2017",
+     "segments[1].travelDate": "03/26/2017",
+     "segments[0].origin": "LAX",
+     "segments[0].destination": "DFW",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Dallas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Los Angeles",
+   "Returning Day": 26,
+   "Departure Day": 12
+  }
+ },
+ "b66a869708": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/14/2017",
+     "segments[1].travelDate": "03/31/2017",
+     "segments[0].origin": "SAN",
+     "segments[0].destination": "SFO",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Francisco",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "San Diego",
+   "Returning Day": 31,
+   "Departure Day": 14
+  }
+ },
+ "68f8a26699": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/01/2017",
+     "segments[1].travelDate": "03/19/2017",
+     "segments[0].origin": "WAS",
+     "segments[0].destination": "AUS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Austin",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Washington DC",
+   "Returning Day": 19,
+   "Departure Day": 1
+  }
+ },
+ "f8700db9c6": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/07/2017",
+     "segments[1].travelDate": "03/31/2017",
+     "segments[0].origin": "NYC",
+     "segments[0].destination": "PDX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Portland",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "New York",
+   "Returning Day": 31,
+   "Departure Day": 7
+  }
+ },
+ "34c3437316": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/02/2017",
+     "segments[1].travelDate": "03/17/2017",
+     "segments[0].origin": "WAS",
+     "segments[0].destination": "DFW",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Dallas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Washington DC",
+   "Returning Day": 17,
+   "Departure Day": 2
+  }
+ },
+ "4474c09485": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/08/2017",
+     "segments[1].travelDate": "03/09/2017",
+     "segments[0].origin": "WAS",
+     "segments[0].destination": "DFW",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Dallas",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Washington DC",
+   "Returning Day": 9,
+   "Departure Day": 8
+  }
+ },
+ "e29162dcd9": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/17/2017",
+     "segments[1].travelDate": "03/25/2017",
+     "segments[0].origin": "BOS",
+     "segments[0].destination": "LAX",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Los Angeles",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Boston",
+   "Returning Day": 25,
+   "Departure Day": 17
+  }
+ },
+ "19e2153193": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/22/2017",
+     "segments[1].travelDate": "03/22/2017",
+     "segments[0].origin": "LAX",
+     "segments[0].destination": "WAS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Washington DC",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Los Angeles",
+   "Returning Day": 22,
+   "Departure Day": 22
+  }
+ },
+ "95d0105c9c": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/22/2017",
+     "segments[1].travelDate": "03/22/2017",
+     "segments[0].origin": "LAX",
+     "segments[0].destination": "SAN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Diego",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Los Angeles",
+   "Returning Day": 22,
+   "Departure Day": 22
+  }
+ },
+ "1a78231f6f": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/19/2017",
+     "segments[1].travelDate": "03/29/2017",
+     "segments[0].origin": "PDX",
+     "segments[0].destination": "DEN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Denver",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Portland",
+   "Returning Day": 29,
+   "Departure Day": 19
+  }
+ },
+ "b87a828d7e": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/04/2017",
+     "segments[1].travelDate": "03/30/2017",
+     "segments[0].origin": "SFO",
+     "segments[0].destination": "SAN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "San Diego",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "San Francisco",
+   "Returning Day": 30,
+   "Departure Day": 4
+  }
+ },
+ "d41292eec5": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/31/2017",
+     "segments[1].travelDate": "03/31/2017",
+     "segments[0].origin": "PDX",
+     "segments[0].destination": "DEN",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Denver",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Portland",
+   "Returning Day": 31,
+   "Departure Day": 31
+  }
+ },
+ "72490317cc": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/12/2017",
+     "segments[1].travelDate": "03/18/2017",
+     "segments[0].origin": "DEN",
+     "segments[0].destination": "BOS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Boston",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Denver",
+   "Returning Day": 18,
+   "Departure Day": 12
+  }
+ },
+ "4a9050c12d": {
+  "requests": {
+   "www.aa.com/booking/find-flights": [
+    {
+     "segments[0].travelDate": "03/21/2017",
+     "segments[1].travelDate": "03/25/2017",
+     "segments[0].origin": "LAX",
+     "segments[0].destination": "BOS",
+     "passengerCount": "1"
+    }
+   ]
+  },
+  "instruction": {
+   "Departure Month": 3,
+   "Destination City": "Boston",
+   "One Way or Round Trip": "return flight",
+   "Returning Month": 3,
+   "Departure City": "Los Angeles",
+   "Returning Day": 25,
+   "Departure Day": 21
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "7216de8425": {
+  "instruction": {
+   "start date": "November, 2017",
+   "location": "New Orleans, LA",
+   "price": "$650"
+  }
+ },
+ "78917b5f7e": {
+  "instruction": {
+   "start date": "April, 2017",
+   "location": "Jacksonville, FL",
+   "price": "$500"
+  }
+ },
+ "acfe1c6ae6": {
+  "instruction": {
+   "start date": "April, 2017",
+   "location": "Baltimore, MD",
+   "price": "$900"
+  }
+ },
+ "ea4dad6f56": {
+  "instruction": {
+   "start date": "August, 2017",
+   "location": "Charleston, SC",
+   "price": "$500"
+  }
+ },
+ "80fe2af03e": {
+  "instruction": {
+   "start date": "December, 2017",
+   "location": "Tampa, FL",
+   "price": "$600"
+  }
+ },
+ "8d539e2a16": {
+  "instruction": {
+   "start date": "March, 2017",
+   "location": "New York City, NY",
+   "price": "$800"
+  }
+ },
+ "3a2f6185f6": {
+  "instruction": {
+   "start date": "May, 2017",
+   "location": "Venice, Italy",
+   "price": "$1000"
+  }
+ },
+ "f863209e12": {
+  "instruction": {
+   "start date": "September, 2017",
+   "location": "Honolulu, HI",
+   "price": "$2000"
+  }
+ },
+ "f0afcdf57c": {
+  "instruction": {
+   "start date": "July, 2017",
+   "location": "Fort Lauderdale, FL",
+   "price": "$500"
+  }
+ },
+ "c575a0697d": {
+  "instruction": {
+   "start date": "October, 2017",
+   "location": "Paris, France",
+   "price": "$3000"
+  }
+ }
+}

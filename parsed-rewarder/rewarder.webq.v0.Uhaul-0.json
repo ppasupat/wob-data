@@ -1,0 +1,62 @@
+{
+ "5ceebd0d30": {
+  "instruction": {
+   "Per-Mile": "$0.69",
+   "Uhaul": "U-Box containers"
+  }
+ },
+ "1e93b7ab54": {
+  "instruction": {
+   "Per-Mile": "$0.69",
+   "Uhaul": "10' truck"
+  }
+ },
+ "9198c877f6": {
+  "instruction": {
+   "Per-Mile": "$0.69",
+   "Uhaul": "15' truck"
+  }
+ },
+ "dcdec79b2e": {
+  "instruction": {
+   "Per-Mile": "$0.59",
+   "Uhaul": "9' Cargo van"
+  }
+ },
+ "0325b75ad4": {
+  "instruction": {
+   "Per-Mile": "$0.69",
+   "Uhaul": "26' truck"
+  }
+ },
+ "e71529b977": {
+  "instruction": {
+   "Per-Mile": "$0.69",
+   "Uhaul": "17' truck"
+  }
+ },
+ "bacadf1780": {
+  "instruction": {
+   "Per-Mile": "$0.59",
+   "Uhaul": "8' Pickup truck"
+  }
+ },
+ "d1d43f5860": {
+  "instruction": {
+   "Per-Mile": "$0.69",
+   "Uhaul": "Truck & Trailor"
+  }
+ },
+ "3b7e2ac13c": {
+  "instruction": {
+   "Per-Mile": "$0.69",
+   "Uhaul": "20' truck"
+  }
+ },
+ "ce88dbbf73": {
+  "instruction": {
+   "Per-Mile": "$0.69",
+   "Uhaul": "Truck And Tow"
+  }
+ }
+}

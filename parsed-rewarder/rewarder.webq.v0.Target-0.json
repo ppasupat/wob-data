@@ -1,0 +1,72 @@
+{
+ "4464847073": {
+  "instruction": {
+   "availability": "for shipping",
+   "jewelry": "jewelry rolls",
+   "price": "$100"
+  }
+ },
+ "b937a5c60f": {
+  "instruction": {
+   "availability": "for pick up today eligible",
+   "jewelry": "keychains",
+   "price": "$25"
+  }
+ },
+ "a8b02257a4": {
+  "instruction": {
+   "availability": "in stores",
+   "jewelry": "necklaces",
+   "price": "$25"
+  }
+ },
+ "223bd48868": {
+  "instruction": {
+   "availability": "for pick up today eligible",
+   "jewelry": "earrings",
+   "price": "$25"
+  }
+ },
+ "71c134e6e4": {
+  "instruction": {
+   "availability": "for shipping",
+   "jewelry": "body piercing jewelry",
+   "price": "$25"
+  }
+ },
+ "9d1c09dcc4": {
+  "instruction": {
+   "availability": "in stores",
+   "jewelry": "anklets",
+   "price": "$100"
+  }
+ },
+ "03cf60bc22": {
+  "instruction": {
+   "availability": "for shipping",
+   "jewelry": "bracelets",
+   "price": "$50"
+  }
+ },
+ "24be1593c9": {
+  "instruction": {
+   "availability": "in stores",
+   "jewelry": "pins",
+   "price": "$25"
+  }
+ },
+ "4802e33199": {
+  "instruction": {
+   "availability": "for pick up today eligible",
+   "jewelry": "earring sets",
+   "price": "$100"
+  }
+ },
+ "0ae1279b66": {
+  "instruction": {
+   "availability": "for pick up today eligible",
+   "jewelry": "Fashion Ring Set",
+   "price": "$50"
+  }
+ }
+}

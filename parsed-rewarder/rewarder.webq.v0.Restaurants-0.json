@@ -1,0 +1,62 @@
+{
+ "b462212090": {
+  "instruction": {
+   "location": "San Bernardino, CA",
+   "type of cousine": "Sushi"
+  }
+ },
+ "a1aa0c3616": {
+  "instruction": {
+   "location": "Los Angeles, CA",
+   "type of cousine": "Greek"
+  }
+ },
+ "34d4fcaed8": {
+  "instruction": {
+   "location": "Atlanta, GA",
+   "type of cousine": "Mexican"
+  }
+ },
+ "a9615a9e55": {
+  "instruction": {
+   "location": "Portland, OR",
+   "type of cousine": "Oriental"
+  }
+ },
+ "b2dae11766": {
+  "instruction": {
+   "location": "Seattle, WA",
+   "type of cousine": "Indian"
+  }
+ },
+ "e24b1c0095": {
+  "instruction": {
+   "location": "Key West, FL",
+   "type of cousine": "Fast food"
+  }
+ },
+ "02a9b03587": {
+  "instruction": {
+   "location": "New York, NY",
+   "type of cousine": "Asian"
+  }
+ },
+ "be4e878937": {
+  "instruction": {
+   "location": "Dallas, TX",
+   "type of cousine": "American"
+  }
+ },
+ "49e60f144c": {
+  "instruction": {
+   "location": "Sacramento, CA",
+   "type of cousine": "Seafood"
+  }
+ },
+ "533526f417": {
+  "instruction": {
+   "location": "Denver, CO",
+   "type of cousine": "Thai"
+  }
+ }
+}

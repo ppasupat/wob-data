@@ -1,0 +1,1152 @@
+{
+ "87517802e3": {
+  "instruction": {
+   "check out date": "March 20",
+   "ANSWER": "Taj Boston Hotel",
+   "place": "Boston (MA) USA",
+   "check in date": "March 13"
+  }
+ },
+ "9131f59fa1": {
+  "instruction": {
+   "check out date": "May 8",
+   "ANSWER": "Omni Dallas Hotel",
+   "place": "Dallas (TX) USA",
+   "check in date": "May 1"
+  }
+ },
+ "553d12fb78": {
+  "instruction": {
+   "date": "20 Feb 2017",
+   "place of arrival": "Agra Cantt",
+   "place of departure": "Pune"
+  }
+ },
+ "b672e7fc46": {
+  "instruction": {
+   "date": "March 13, 2017",
+   "place of arrival": "Jammu",
+   "place of departure": "Pune"
+  }
+ },
+ "7daac62e58": {
+  "instruction": {
+   "check out date": "03/07/2017",
+   "ANSWER": "Hotel VITS",
+   "place": "Mumbai, India",
+   "check in date": "03/05/2017"
+  }
+ },
+ "c73aae4ffe": {
+  "instruction": {
+   "check out date": "02/22/2017",
+   "ANSWER": "Home in the hills",
+   "place": "Dehradun",
+   "check in date": "02/20/2017"
+  }
+ },
+ "19c4104bba": {
+  "instruction": {
+   "date": "19 February 2017",
+   "place of departure": "Coimbatore",
+   "place of arrival": "Chennai",
+   "ANSWER": "RAPTISAGAR EXP"
+  }
+ },
+ "93db5d8efc": {
+  "instruction": {
+   "check out date": "May 7",
+   "ANSWER": "Grand Hotel Cravat",
+   "place": "Luxembourg, Luxembourg",
+   "check in date": "April 30"
+  }
+ },
+ "3bf7923a06": {
+  "instruction": {
+   "check out date": "03/01/2017",
+   "ANSWER": "Rs 4,062",
+   "place": "Ooty, India",
+   "check in date": "02/25/2017"
+  }
+ },
+ "4274c15cdf": {
+  "instruction": {
+   "check out date": "08/03/2017",
+   "ANSWER": "Hotel VITS",
+   "place": "Mumbai",
+   "check in date": "01/03/2017"
+  }
+ },
+ "78e3ae3b7b": {
+  "instruction": {
+   "date": "22 February 2017",
+   "place of departure": "Cochin",
+   "place of arrival": "Delhi",
+   "ANSWER": "TVC NZM EXPRESS"
+  }
+ },
+ "5e6a8eb045": {
+  "instruction": {
+   "check out date": "02/22/2017",
+   "ANSWER": "Le Pension Heritage Villa",
+   "place": "Jaipur",
+   "check in date": "02/20/2017"
+  }
+ },
+ "872b23993d": {
+  "instruction": {
+   "date": "18 February 2017",
+   "place of arrival": "Ahmedabad",
+   "place of departure": "Delhi"
+  }
+ },
+ "494bb56a30": {
+  "instruction": {
+   "place of departure": "Chennai",
+   "place of arrival": "Delhi",
+   "date": "18 February 2017"
+  }
+ },
+ "c0b59716c7": {
+  "instruction": {
+   "check out date": "03/01/2017",
+   "ANSWER": "Rs 7,838",
+   "place": "Bangkok, Thailand",
+   "check in date": "02/25/2017"
+  }
+ },
+ "3fc26607ef": {
+  "instruction": {
+   "check out date": "07/11/17",
+   "ANSWER": "Sheraton Agoura Hills Hotel",
+   "place": "Agoura Hills (CA), USA",
+   "check in date": "01/11/17"
+  }
+ },
+ "7ea7cbdc59": {
+  "instruction": {
+   "check out date": "07/06/17",
+   "ANSWER": "La Tourmaline",
+   "place": "Aime, France",
+   "check in date": "05/06/17"
+  }
+ },
+ "80313d5291": {
+  "instruction": {
+   "place of departure": "Chennai",
+   "place of arrival": "Mumbai",
+   "date": "16 February 2017"
+  }
+ },
+ "388221f5ac": {
+  "instruction": {
+   "check out date": "25/02/2017",
+   "ANSWER": "Aaram Baagh",
+   "place": "Pushkar",
+   "check in date": "21/02/2017"
+  }
+ },
+ "c425005d3a": {
+  "instruction": {
+   "date": "15 February 2017",
+   "place of arrival": "Goa",
+   "place of departure": "Delhi"
+  }
+ },
+ "44ba5b02f2": {
+  "instruction": {
+   "date": "19 Feb 2017",
+   "place of arrival": "Bhopal",
+   "place of departure": "Amritsar"
+  }
+ },
+ "e8b8496353": {
+  "instruction": {
+   "check out date": "03/01/2017",
+   "ANSWER": "Rs 7,401",
+   "place": "Alice Springs, Australia",
+   "check in date": "02/25/2017"
+  }
+ },
+ "21c8354dde": {
+  "instruction": {
+   "date": "19 Feb 2017",
+   "place of arrival": "Londa",
+   "place of departure": "Delhi"
+  }
+ },
+ "816e2fa12f": {
+  "instruction": {
+   "check out date": "09/03/2017",
+   "ANSWER": "Le Royal park",
+   "place": "Pondicherry",
+   "check in date": "28/02/2017"
+  }
+ },
+ "a4c6b2a98d": {
+  "instruction": {
+   "check out date": "3/12/2017",
+   "ANSWER": "Hotel Kea by Keahotels",
+   "place": "Akureyri",
+   "check in date": "03/10/2017"
+  }
+ },
+ "7efefbff8d": {
+  "instruction": {
+   "check out date": "09/02/2017",
+   "place": "Delhi",
+   "check in date": "07/02/2017"
+  }
+ },
+ "65b436fe3f": {
+  "instruction": {
+   "check out date": "04/14/2017",
+   "ANSWER": "Akita Castle Hotel",
+   "place": "Akita",
+   "check in date": "04/12/2017"
+  }
+ },
+ "a3013d5fce": {
+  "instruction": {
+   "check out date": "11/02/2017",
+   "place": "Hyderabad",
+   "check in date": "09/02/2017"
+  }
+ },
+ "2438fe9c77": {
+  "instruction": {
+   "check out date": "02/26/2017",
+   "ANSWER": "Orlando Continental Plaza Hotel",
+   "place": "Orlando, Florida",
+   "check in date": "02/24/2017"
+  }
+ },
+ "0be72bc508": {
+  "instruction": {
+   "check out date": "2/21/2017",
+   "ANSWER": "Vivanta by Taj - Panaji Goa",
+   "place": "Goa",
+   "check in date": "02/19/2017"
+  }
+ },
+ "aaccbc0cb8": {
+  "instruction": {
+   "place of departure": "Delhi",
+   "place of arrival": "Goa",
+   "date": "15 February 2017"
+  }
+ },
+ "3ad534ee82": {
+  "instruction": {
+   "date": "20 Feb 2017",
+   "place of arrival": "Bhopal",
+   "place of departure": "Amritsar"
+  }
+ },
+ "1fe5cc1890": {
+  "instruction": {
+   "check out date": "03/01/2017",
+   "ANSWER": "Rs 47,909",
+   "place": "Goa, India",
+   "check in date": "02/25/2017"
+  }
+ },
+ "52c9dac5d3": {
+  "instruction": {
+   "date": "27 February 2017",
+   "place of arrival": "Jabalpur",
+   "place of departure": "Mumbai"
+  }
+ },
+ "1e988569bb": {
+  "instruction": {
+   "check out date": "20/02/2017",
+   "place": "Jabalpur",
+   "check in date": "15/02/2017"
+  }
+ },
+ "854d1fa5b9": {
+  "instruction": {
+   "place of departure": "Goa",
+   "place of arrival": "Mumbai",
+   "date": "20 February 2017"
+  }
+ },
+ "bc9be2a1d7": {
+  "instruction": {
+   "date": "20 Feb 2017",
+   "place of arrival": "Ahmedabad",
+   "place of departure": "Allahabad"
+  }
+ },
+ "b7763d6ec3": {
+  "instruction": {
+   "date": "22 February 2017",
+   "place of departure": "Chennai",
+   "place of arrival": "Jaipur",
+   "ANSWER": "JAIPUR EXP"
+  }
+ },
+ "60b4809c6f": {
+  "instruction": {
+   "date": "March 12, 2017",
+   "place of arrival": "Patna",
+   "place of departure": "Secunderabad"
+  }
+ },
+ "c3e41f5f19": {
+  "instruction": {
+   "date": "22 February 2017",
+   "place of departure": "Kolkata ",
+   "place of arrival": "Delhi",
+   "ANSWER": "POORVA EXP"
+  }
+ },
+ "ef4ae49006": {
+  "instruction": {
+   "check out date": "02/28/2017",
+   "ANSWER": "Oops! The city is sold out for your selected Dates",
+   "place": "Houston, Texas",
+   "check in date": "02/26/2017"
+  }
+ },
+ "6e95089b46": {
+  "instruction": {
+   "check out date": "04/09/2017",
+   "ANSWER": "Hampton Inn Alice",
+   "place": "Alice (TX)",
+   "check in date": "04/07/2017"
+  }
+ },
+ "fe2cb77eff": {
+  "instruction": {
+   "check out date": "03/01/2017",
+   "ANSWER": "Rs 10,335",
+   "place": "Agra, India",
+   "check in date": "02/25/2017"
+  }
+ },
+ "656549ee4b": {
+  "instruction": {
+   "check out date": "06/05/17",
+   "ANSWER": "Akita Castle and Hotel",
+   "place": "Akita, Japan",
+   "check in date": "02/05/17"
+  }
+ },
+ "48ebdc1591": {
+  "instruction": {
+   "check out date": "02/24/2017",
+   "ANSWER": "Rewa Retreat ",
+   "place": "Nainital ",
+   "check in date": "02/20/2017"
+  }
+ },
+ "39e7c36f5d": {
+  "instruction": {
+   "date": "March 10, 2017",
+   "place of arrival": "Kanpur",
+   "place of departure": "Kolkata"
+  }
+ },
+ "e47a8d8640": {
+  "instruction": {
+   "date": "20 February 2017",
+   "place of departure": "Chennai",
+   "place of arrival": "Kolkatta",
+   "ANSWER": "COROMANDEL EXP"
+  }
+ },
+ "430253bf36": {
+  "instruction": {
+   "check out date": "07/03/2017",
+   "ANSWER": "Mercure Albi Bastides Hotel",
+   "place": "Albi",
+   "check in date": "01/03/2017"
+  }
+ },
+ "47701d46d0": {
+  "instruction": {
+   "check out date": "03/10/2017",
+   "ANSWER": "Howard Johnson Plaza Hotel Shanghai",
+   "place": "Shanghai, China",
+   "check in date": "03/07/2017"
+  }
+ },
+ "70b8656d34": {
+  "instruction": {
+   "place of departure": "Delhi",
+   "place of arrival": "Jabalpur",
+   "date": "9 February 2017"
+  }
+ },
+ "0f1d54e01a": {
+  "instruction": {
+   "date": "19 Feb 2017",
+   "place of arrival": "Ahmedabad",
+   "place of departure": "Allahabad"
+  }
+ },
+ "7efe35cd19": {
+  "instruction": {
+   "check out date": "22/06/17",
+   "ANSWER": "La Quinta Inn & Suites Ada",
+   "place": "Ada (OK), USA",
+   "check in date": "19/06/17"
+  }
+ },
+ "97011ba3bf": {
+  "instruction": {
+   "check out date": "May 8",
+   "ANSWER": "Clarion Inn Lake Buena Vista",
+   "place": "Orlando (FL) USA",
+   "check in date": "May 1"
+  }
+ },
+ "2ff4807a9b": {
+  "instruction": {
+   "check out date": "May 15",
+   "ANSWER": "Australian Heritage Hotel",
+   "place": "Sydney Australia",
+   "check in date": "May 8"
+  }
+ },
+ "0c7e889257": {
+  "instruction": {
+   "check out date": "02/25/2017",
+   "ANSWER": "Americana Inn New York City",
+   "place": "Midtown, New York",
+   "check in date": "02/22/2017"
+  }
+ },
+ "aa360d4c5c": {
+  "instruction": {
+   "check out date": "02/23/2017",
+   "ANSWER": "Fairfield by Marriott ",
+   "place": "Lucknow",
+   "check in date": "02/20/2017"
+  }
+ },
+ "1aad35da37": {
+  "instruction": {
+   "date": "19 February 2017",
+   "place of departure": "Bangalore",
+   "place of arrival": "Mumbai",
+   "ANSWER": "LOKMANYA TT EXP"
+  }
+ },
+ "3d263ad82c": {
+  "instruction": {
+   "place of departure": "Delhi",
+   "place of arrival": "Ahmedabad",
+   "date": "18 February 2017"
+  }
+ },
+ "6648d12607": {
+  "instruction": {
+   "check out date": "012/02/2017",
+   "place": "Kolkata",
+   "check in date": "07/02/2017"
+  }
+ },
+ "c0a3f98ab4": {
+  "instruction": {
+   "check out date": "14/03/17",
+   "ANSWER": "Altland House Inn and Suites",
+   "place": "Abbottstown (PA), USA",
+   "check in date": "04/03/17"
+  }
+ },
+ "d11a9688ff": {
+  "instruction": {
+   "check out date": "27/12/17",
+   "ANSWER": "Hilton Garden Inn Albuquerque Uptown Hotel",
+   "place": "Albuquerque, USA",
+   "check in date": "21/12/17"
+  }
+ },
+ "c0b564d176": {
+  "instruction": {
+   "check out date": "28/02/17",
+   "ANSWER": "Caspia Hotel",
+   "place": "Ahmedabad, India",
+   "check in date": "25/02/17"
+  }
+ },
+ "60b5c68889": {
+  "instruction": {
+   "date": "March 3, 2017",
+   "place of arrival": "Bhopal",
+   "place of departure": "Chenai"
+  }
+ },
+ "fff64ff789": {
+  "instruction": {
+   "date": "24 February 2017",
+   "place of departure": "Mumbai",
+   "place of arrival": "Coimbatore",
+   "ANSWER": "DADAR TEN EXP"
+  }
+ },
+ "3dd19c249b": {
+  "instruction": {
+   "check out date": "09/03/2017",
+   "ANSWER": "Keys Hotel Whitefield",
+   "place": "Bangalore",
+   "check in date": "28/02/2017"
+  }
+ },
+ "8a5d13ddcb": {
+  "instruction": {
+   "check out date": "March 20",
+   "ANSWER": "Ashling Hotel Dublin",
+   "place": "Dublin, Ireland",
+   "check in date": "March 16"
+  }
+ },
+ "eefc478e8e": {
+  "instruction": {
+   "date": "March 13, 2017",
+   "place of arrival": "Ahmedabad",
+   "place of departure": "New Delhi"
+  }
+ },
+ "6f0150c266": {
+  "instruction": {
+   "check out date": "02/23/2017",
+   "ANSWER": "The Lalit Grand Palace",
+   "place": "Srinagar",
+   "check in date": "02/20/2017"
+  }
+ },
+ "dfe2e05777": {
+  "instruction": {
+   "check out date": "02/27/2017",
+   "ANSWER": "Hyatt Regency Miami Hotel",
+   "place": "Miami, Florida",
+   "check in date": "02/25/2017"
+  }
+ },
+ "9f010c7c7f": {
+  "instruction": {
+   "place of departure": "Jabalpur",
+   "place of arrival": "Mumbai",
+   "date": "17 February 2017"
+  }
+ },
+ "2795cbbc18": {
+  "instruction": {
+   "check out date": "02/24/2017",
+   "ANSWER": "Best Western Merrion ",
+   "place": "Amritsar",
+   "check in date": "02/20/2017"
+  }
+ },
+ "ea29fb5ad3": {
+  "instruction": {
+   "check out date": "03/01/2017",
+   "ANSWER": "Rs 6,264",
+   "place": "Alevia, Spain",
+   "check in date": "02/25/2017"
+  }
+ },
+ "f15b5109e4": {
+  "instruction": {
+   "date": "March 13, 2017",
+   "place of arrival": "Coimbatore",
+   "place of departure": "New Delhi"
+  }
+ },
+ "56192ab5eb": {
+  "instruction": {
+   "check out date": "09/03/2017",
+   "ANSWER": "Sold out",
+   "place": "Aldridge",
+   "check in date": "03/03/2017"
+  }
+ },
+ "451bc7a784": {
+  "instruction": {
+   "check out date": "03/05/2017",
+   "ANSWER": "Sunway Manor",
+   "place": "Pondicherry",
+   "check in date": "03/03/2017"
+  }
+ },
+ "287a5d31f2": {
+  "instruction": {
+   "date": "22 February 2017",
+   "place of departure": "Bangalore ",
+   "place of arrival": "Chennai",
+   "ANSWER": "GUWAHATI EXP"
+  }
+ },
+ "3a366f1ebe": {
+  "instruction": {
+   "place of departure": "Mumbai",
+   "place of arrival": "Jabalpur",
+   "date": "27 February 2017"
+  }
+ },
+ "a146246358": {
+  "instruction": {
+   "date": "19 Feb 2017",
+   "place of arrival": "Vadodara",
+   "place of departure": "Jodhpur"
+  }
+ },
+ "22144fda3b": {
+  "instruction": {
+   "check out date": "02/21/2017",
+   "ANSWER": "Nidhivan Sarovar Portico",
+   "place": "Mathura",
+   "check in date": "02/20/2017"
+  }
+ },
+ "405e0f189c": {
+  "instruction": {
+   "check out date": "02/25/2017",
+   "ANSWER": "Geetanjali",
+   "place": "Bharatpur",
+   "check in date": "02/20/2017"
+  }
+ },
+ "034d9313a2": {
+  "instruction": {
+   "check out date": "02/03/2017",
+   "place": "Mysore",
+   "check in date": "01/03/2017"
+  }
+ },
+ "3bcc2c62a4": {
+  "instruction": {
+   "check out date": "03/01/2017",
+   "ANSWER": "Rs 8,007",
+   "place": "Abashiri, Japan",
+   "check in date": "02/25/2017"
+  }
+ },
+ "ea97453346": {
+  "instruction": {
+   "date": "17 February 2017",
+   "place of arrival": "Mumbai",
+   "place of departure": "Jabalpur"
+  }
+ },
+ "3dffaca0ec": {
+  "instruction": {
+   "date": "24 February 2017",
+   "place of departure": "Chennai",
+   "place of arrival": "Goa",
+   "ANSWER": "MAS VASCO EXP"
+  }
+ },
+ "f1bbf3e677": {
+  "instruction": {
+   "date": "March 1, 2017",
+   "place of arrival": "Bangalore",
+   "place of departure": "Ahmedabad"
+  }
+ },
+ "83e6c41698": {
+  "instruction": {
+   "check out date": "02/23/2017",
+   "ANSWER": "Hotel paradise mansion",
+   "place": "Mussoorie",
+   "check in date": "02/20/2017"
+  }
+ },
+ "019a09505d": {
+  "instruction": {
+   "date": "19 February 2017",
+   "place of arrival": "Mumbai",
+   "place of departure": "Delhi"
+  }
+ },
+ "49defbc673": {
+  "instruction": {
+   "check out date": "10/03/2017",
+   "ANSWER": "https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=03042017&checkout=03102017&roomStayQualifier=2e0e&city=IDR&country=IN&searchText=Indore,%20India",
+   "place": "What is the best hotel for 2 in Indore",
+   "check in date": "04/03/2017"
+  }
+ },
+ "c61840a27d": {
+  "instruction": {
+   "check out date": "20/03/2017",
+   "ANSWER": "https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=03182017&checkout=03202017&roomStayQualifier=2e0e&city=PNQ&country=IN&searchText=Pune,%20India",
+   "place": "What is the best hotel for 2 in Pune",
+   "check in date": "18/03/2017"
+  }
+ },
+ "c96ab53ed8": {
+  "instruction": {
+   "check out date": "03/01/2017",
+   "ANSWER": "Rs 81,910",
+   "place": "Jaipur, India",
+   "check in date": "02/25/2017"
+  }
+ },
+ "af921d5661": {
+  "instruction": {
+   "check out date": "June 7",
+   "ANSWER": "Maha Bodhi Hotel Resort and Convention Center",
+   "place": "Tokyo Japan",
+   "check in date": "June 1"
+  }
+ },
+ "ee3af3e413": {
+  "instruction": {
+   "date": "Feb. 22, 2017",
+   "place of arrival": "Agra",
+   "place of departure": "Amritsar"
+  }
+ },
+ "bd9b2d18cd": {
+  "instruction": {
+   "check out date": "03/01/2017",
+   "ANSWER": "Rs 3,120",
+   "place": "Aalo, India",
+   "check in date": "02/25/2017"
+  }
+ },
+ "095e5ee182": {
+  "instruction": {
+   "check out date": "27/10/17",
+   "ANSWER": "Villa Shanti",
+   "place": "Pondicherry, India",
+   "check in date": "24/10/17"
+  }
+ },
+ "1117eadaec": {
+  "instruction": {
+   "place of departure": "Kolkata",
+   "place of arrival": "Mumbai",
+   "date": "10 February 2017"
+  }
+ },
+ "da708b7944": {
+  "instruction": {
+   "check out date": "16/08/2017",
+   "ANSWER": "Hotel Kyriad Calais Sud Coquelles",
+   "place": "Calais, France",
+   "check in date": "13/08/2017"
+  }
+ },
+ "9f0f85a16b": {
+  "instruction": {
+   "check out date": "10/02/2017",
+   "place": "Bengaluru",
+   "check in date": "07/02/2017"
+  }
+ },
+ "21b76f7b8e": {
+  "instruction": {
+   "date": "16 February 2017",
+   "place of arrival": "Mumbai",
+   "place of departure": "Chennai"
+  }
+ },
+ "620cec0aa3": {
+  "instruction": {
+   "check out date": "2/21/2017",
+   "ANSWER": "Hotel Abu Sarovar Portico",
+   "place": "Chennai",
+   "check in date": "2/19/2017"
+  }
+ },
+ "6c046a76c2": {
+  "instruction": {
+   "check out date": "03/05/2017",
+   "ANSWER": "Iberostar Grand Hotel Salome",
+   "place": "Adeje",
+   "check in date": "03/03/2017"
+  }
+ },
+ "ab221760c9": {
+  "instruction": {
+   "check out date": "3/12/2017",
+   "ANSWER": "BEST WESTERN Ajaccio Amiraute",
+   "place": "Adaccio",
+   "check in date": "03/10/2017"
+  }
+ },
+ "10e53725ec": {
+  "instruction": {
+   "date": "20 Feb 2017",
+   "place of arrival": "Delhi",
+   "place of departure": "Mumbi"
+  }
+ },
+ "024d728aad": {
+  "instruction": {
+   "check out date": "11/07/17",
+   "ANSWER": "Sercotel Villa De Laguardia Hotel",
+   "place": "Alava, Spain",
+   "check in date": "08/07/17"
+  }
+ },
+ "94f774ba91": {
+  "instruction": {
+   "check out date": "23/03/2017",
+   "ANSWER": "Desert Rose Inn Alice Springs",
+   "place": "Alice Springs",
+   "check in date": "16/03/52017"
+  }
+ },
+ "39914c5da1": {
+  "instruction": {
+   "date": "9 February 2017",
+   "place of arrival": "Jabalpur",
+   "place of departure": "Delhi"
+  }
+ },
+ "eb723cfecd": {
+  "instruction": {
+   "check out date": "18/04/17",
+   "ANSWER": "La Quinta Inn & Suites Alamo",
+   "place": "Alamo (TX), USA",
+   "check in date": "15/04/17"
+  }
+ },
+ "b1a924d0e2": {
+  "instruction": {
+   "check out date": "08/09/2017",
+   "ANSWER": "The Park Lane Hong Kong",
+   "place": "Hong Kong",
+   "check in date": "03/09/2017"
+  }
+ },
+ "2fe8bc6d8d": {
+  "instruction": {
+   "check out date": "03/03/2017",
+   "ANSWER": "https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=02282017&checkout=03032017&roomStayQualifier=2e0e&city=XBI&country=IN&searchText=Kabini,%20India",
+   "place": "What is the best hotel for 2 in Kabini",
+   "check in date": "28/02/2017"
+  }
+ },
+ "426b5fa634": {
+  "instruction": {
+   "check out date": "28/05/2017",
+   "ANSWER": "https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=05252017&checkout=05282017&roomStayQualifier=2e0e&city=XMY&country=IN&searchText=Mysore,%20India",
+   "place": "What is the best hotel for 2 in Mysore",
+   "check in date": "25/05/2017"
+  }
+ },
+ "519aec3bb4": {
+  "instruction": {
+   "check out date": "30/04/2017",
+   "ANSWER": "https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=04262017&checkout=04302017&roomStayQualifier=2e0e&city=XPC&country=IN&searchText=Pondicherry,%20India",
+   "place": "What is the best hotel for 2 in Pondicherry",
+   "check in date": "26/04/2017"
+  }
+ },
+ "5ff2f3c362": {
+  "instruction": {
+   "check out date": "19/12/2017",
+   "ANSWER": "Copthorne Tara Hotel London Kensington",
+   "place": "London, United Kingdom",
+   "check in date": "15/12/2017"
+  }
+ },
+ "c27bc876a0": {
+  "instruction": {
+   "check out date": "10/05/2017",
+   "ANSWER": "https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=05062017&checkout=05102017&roomStayQualifier=2e0e&city=XKY&country=IN&searchText=Kanyakumari,%20India",
+   "place": "What is the best hotel for 2 in Kanyakumari",
+   "check in date": "06/05/2017"
+  }
+ },
+ "1d408353a0": {
+  "instruction": {
+   "check out date": "03/01/2017",
+   "ANSWER": "Rs 3,733",
+   "place": "Abingdon (VA), United States of America",
+   "check in date": "02/25/2017"
+  }
+ },
+ "7405fb1fc8": {
+  "instruction": {
+   "check out date": "10/05/2017",
+   "ANSWER": "Meridian Hotel",
+   "place": "Nairobi, Kenya",
+   "check in date": "07/05/2017"
+  }
+ },
+ "e9503277cc": {
+  "instruction": {
+   "check out date": "January 4",
+   "ANSWER": "Commodore Hotel Jerusalem",
+   "place": "Jerusalem, Israel",
+   "check in date": "December 29"
+  }
+ },
+ "cb7b3fcc8c": {
+  "instruction": {
+   "date": "19 Feb 2017",
+   "place of arrival": "Agra Cantt",
+   "place of departure": "Pune"
+  }
+ },
+ "7d16301c56": {
+  "instruction": {
+   "check out date": "05/08/2017",
+   "ANSWER": "Hotel Rose Garden Shinjuku",
+   "place": "Tokyo, Japan",
+   "check in date": "01/08/2017"
+  }
+ },
+ "2b4f229ed8": {
+  "instruction": {
+   "check out date": "18/11/2017",
+   "ANSWER": "Park Inn Hotel Prague",
+   "place": "Prague, Czech Republic",
+   "check in date": "14/11/2017"
+  }
+ },
+ "686e476e24": {
+  "instruction": {
+   "check out date": "11/02/2017",
+   "place": "Chennai",
+   "check in date": "07/02/2017"
+  }
+ },
+ "1c4e055e55": {
+  "instruction": {
+   "check out date": "02/22/2017",
+   "ANSWER": "Hotel Castle View Agra",
+   "place": "Agra",
+   "check in date": "02/20/2017"
+  }
+ },
+ "118e1adef5": {
+  "instruction": {
+   "check out date": "10/02/2017",
+   "place": "Mumbai",
+   "check in date": "09/02/2017"
+  }
+ },
+ "e922e13884": {
+  "instruction": {
+   "check out date": "April 5",
+   "ANSWER": "The Principal Edinburgh",
+   "place": "Edinburgh, UK",
+   "check in date": "April 1"
+  }
+ },
+ "53e6aab934": {
+  "instruction": {
+   "date": "18 February 2017",
+   "place of arrival": "Delhi",
+   "place of departure": "Chennai"
+  }
+ },
+ "a3245806e9": {
+  "instruction": {
+   "check out date": "04/09/2017",
+   "ANSWER": "Keys Hotel Whitefield",
+   "place": "Banglador",
+   "check in date": "04/07/2017"
+  }
+ },
+ "32e08b2fc1": {
+  "instruction": {
+   "date": "March 21, 2017",
+   "place of arrival": "Goa",
+   "place of departure": "Agra"
+  }
+ },
+ "77777b19d7": {
+  "instruction": {
+   "check out date": "03/11/2017",
+   "ANSWER": "Hotel Rose Garden Shinjuku",
+   "place": "Tokyo, Japan ",
+   "check in date": "03/08/2017"
+  }
+ },
+ "41ed47d3cd": {
+  "instruction": {
+   "date": "March 21, 2017",
+   "place of arrival": "Goa",
+   "place of departure": "New Delhi"
+  }
+ },
+ "26b1e9556e": {
+  "instruction": {
+   "check out date": "05/03/2017",
+   "ANSWER": "Hyatt Place Memphis Wolfchase Galleria Hotel",
+   "place": "Memphis, United States",
+   "check in date": "02/03/2017"
+  }
+ },
+ "671e0c645a": {
+  "instruction": {
+   "date": "19 Feb 2017",
+   "place of arrival": "Delhi",
+   "place of departure": "Mumbi"
+  }
+ },
+ "d4f6c80ec9": {
+  "instruction": {
+   "check out date": "21/02/2017",
+   "ANSWER": "The Sapphire Comfort",
+   "place": "Goa",
+   "check in date": "19/02/2017"
+  }
+ },
+ "329e664888": {
+  "instruction": {
+   "date": "10 February 2017",
+   "place of arrival": "Mumbai",
+   "place of departure": "Kolkata"
+  }
+ },
+ "e17aeed29a": {
+  "instruction": {
+   "date": "21 February 2017",
+   "place of departure": "Chennai",
+   "place of arrival": "Patna",
+   "ANSWER": "PATNA EXP"
+  }
+ },
+ "3b246ba52f": {
+  "instruction": {
+   "check out date": "03/04/2017",
+   "ANSWER": "https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=03312017&checkout=04032017&roomStayQualifier=2e0e&city=XCR&country=IN&searchText=Coorg,%20India",
+   "place": "What is the best hotel for 2 in Coorg",
+   "check in date": "31/03/2017"
+  }
+ },
+ "1b7f031159": {
+  "instruction": {
+   "check out date": "08/02/2017",
+   "place": "Goa",
+   "check in date": "07/02/2017"
+  }
+ },
+ "d5766cf69f": {
+  "instruction": {
+   "check out date": "08/03/2017",
+   "ANSWER": "Praia Verde Boutique Hotel - Design Hotels",
+   "place": "Algarve",
+   "check in date": "02/03/2017"
+  }
+ },
+ "fa79db0ae6": {
+  "instruction": {
+   "check out date": "03/01/2017",
+   "ANSWER": "M Star Cleveland",
+   "place": "Cleveland (GA), United States ",
+   "check in date": "02/28/2017"
+  }
+ },
+ "7ffdebf789": {
+  "instruction": {
+   "check out date": "23/03/2017",
+   "ANSWER": "Rusticae Casona D'Alevia",
+   "place": "Alevia",
+   "check in date": "16/03/2017"
+  }
+ },
+ "3186c72a45": {
+  "instruction": {
+   "check out date": "30/03/2017",
+   "ANSWER": "https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=03222017&checkout=03302017&roomStayQualifier=2e0e&city=ALO&country=IN&searchText=Aalo,%20India",
+   "place": "What is the best hotel for 2 in Aalo",
+   "check in date": "22/03/2017"
+  }
+ },
+ "1a42bad4e6": {
+  "instruction": {
+   "place of departure": "Delhi",
+   "place of arrival": "Mumbai",
+   "date": "19 February 2017"
+  }
+ },
+ "11d90874aa": {
+  "instruction": {
+   "check out date": "04/14/2017",
+   "ANSWER": "Alghero City Hotel",
+   "place": "Alghero",
+   "check in date": "04/12/2017"
+  }
+ },
+ "a042071919": {
+  "instruction": {
+   "check out date": "02/26/2017",
+   "ANSWER": "Eurobuilding Hotel & Suites Caracas",
+   "place": "Caracas, Venezuela",
+   "check in date": "02/23/2017"
+  }
+ },
+ "fbdfc60467": {
+  "instruction": {
+   "check out date": "03/04/2017",
+   "ANSWER": "Hampton Inn Baltimore Downtown",
+   "place": "Baltimore, United States ",
+   "check in date": "03/02/2017"
+  }
+ },
+ "7cffb3f606": {
+  "instruction": {
+   "check out date": "03/03/2017",
+   "ANSWER": "Keys Prima Temple Tree, Shirdi",
+   "place": "Shirdi, India",
+   "check in date": "26/02/2017"
+  }
+ },
+ "bdb9bac515": {
+  "instruction": {
+   "check out date": "17/02/2017",
+   "place": "Pune",
+   "check in date": "15/02/2017"
+  }
+ },
+ "25692ba4e3": {
+  "instruction": {
+   "date": "20 February 2017",
+   "place of arrival": "Mumbai",
+   "place of departure": "Goa"
+  }
+ },
+ "d86769e5df": {
+  "instruction": {
+   "check out date": "01/03/2017",
+   "ANSWER": "Royal Park Boutique Budapest",
+   "place": "Budapest,Hungary",
+   "check in date": "21/02/2017"
+  }
+ },
+ "84e914a97a": {
+  "instruction": {
+   "check out date": "December 16",
+   "ANSWER": "Hotel Carlton on the Grand Canal",
+   "place": "Venice Italy",
+   "check in date": "December 9"
+  }
+ },
+ "6940198609": {
+  "instruction": {
+   "check out date": "29/04/2017",
+   "ANSWER": "https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=04262017&checkout=04292017&city=XOO&country=IN&area=&roomStayQualifier=2e0e&searchText=Ooty,%20India&sTime=1487560512826",
+   "place": "What is the best hotel for 2 in Ooty",
+   "check in date": "26/04/2017"
+  }
+ },
+ "bfac58167b": {
+  "instruction": {
+   "check out date": "21/06/2017",
+   "ANSWER": "Radisson on Flagstaff Gardens Melbourne",
+   "place": "Melbourne, Australia",
+   "check in date": "18/06/2017"
+  }
+ },
+ "1f8de8c22d": {
+  "instruction": {
+   "check out date": "16/03/2017",
+   "ANSWER": "https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=03062017&checkout=03162017&roomStayQualifier=2e0e&city=SLV&country=IN&searchText=Shimla,%20India",
+   "place": "What is the best hotel for 2 in Shimla",
+   "check in date": "06/03/2017"
+  }
+ }
+}

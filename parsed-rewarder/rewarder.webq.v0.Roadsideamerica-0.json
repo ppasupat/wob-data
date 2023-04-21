@@ -1,0 +1,72 @@
+{
+ "0d979dc250": {
+  "instruction": {
+   "city": "Tampa",
+   "state": "Florida",
+   "attraction": "amusement park"
+  }
+ },
+ "7867184183": {
+  "instruction": {
+   "city": "Gettysburg",
+   "state": "Pennsylvania",
+   "attraction": "battlefield"
+  }
+ },
+ "4678bce1c6": {
+  "instruction": {
+   "city": "Charleston",
+   "state": "South Carolina",
+   "attraction": "historical site"
+  }
+ },
+ "16ec00cd36": {
+  "instruction": {
+   "city": "Boston",
+   "state": "Massachusetts",
+   "attraction": "capitol building"
+  }
+ },
+ "84695be4be": {
+  "instruction": {
+   "city": "Cleveland",
+   "state": "Ohio",
+   "attraction": "park"
+  }
+ },
+ "e0fb26d94d": {
+  "instruction": {
+   "city": "Phoenix",
+   "state": "Arizona",
+   "attraction": "mall"
+  }
+ },
+ "934ff8455a": {
+  "instruction": {
+   "city": "New York",
+   "state": "New York",
+   "attraction": "art museum"
+  }
+ },
+ "93472cc036": {
+  "instruction": {
+   "city": "Springfield",
+   "state": "Illinois",
+   "attraction": "museum"
+  }
+ },
+ "daaf5b8079": {
+  "instruction": {
+   "city": "Madison",
+   "state": "Wisconsin",
+   "attraction": "zoo"
+  }
+ },
+ "ce58498a43": {
+  "instruction": {
+   "city": "Indianapolis",
+   "state": "Indiana",
+   "attraction": "aquarium"
+  }
+ }
+}

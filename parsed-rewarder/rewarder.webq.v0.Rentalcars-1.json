@@ -1,0 +1,92 @@
+{
+ "62245a62cb": {
+  "instruction": {
+   "start date": "10/9/2017",
+   "geographic location": "Miami Intl, US (MIA)",
+   "end time": "2PM",
+   "start time": "4PM",
+   "end date": "10/14/2017"
+  }
+ },
+ "96fb59cf72": {
+  "instruction": {
+   "start date": "5/20/2017",
+   "geographic location": "Sacramento International, US (SMF)",
+   "end time": "4PM",
+   "start time": "1PM",
+   "end date": "5/25/2017"
+  }
+ },
+ "5a87656a52": {
+  "instruction": {
+   "start date": "3/20/2017",
+   "geographic location": "Los Angeles Intl, US (LAX)",
+   "end time": "10AM",
+   "start time": "10AM",
+   "end date": "3/21/2017"
+  }
+ },
+ "536e4ee0df": {
+  "instruction": {
+   "start date": "3/1/2017",
+   "geographic location": "Las Vegas, NV",
+   "end time": "10AM",
+   "start time": "4PM",
+   "end date": "3/19/2017"
+  }
+ },
+ "9dcc991dff": {
+  "instruction": {
+   "start date": "6/10/2017",
+   "geographic location": "San Diego, CA",
+   "end time": "3PM",
+   "start time": "11AM",
+   "end date": "6/28/2017"
+  }
+ },
+ "c9cfd3cb72": {
+  "instruction": {
+   "start date": "4/10/2017",
+   "geographic location": "Seattle Tacoma Intl, US (SEA)",
+   "end time": "2PM",
+   "start time": "2PM",
+   "end date": "4/11/2017"
+  }
+ },
+ "d8e110c1d6": {
+  "instruction": {
+   "start date": "4/6/2017",
+   "geographic location": "New York City - John F Kennedy Intl, US (JFK)",
+   "end time": "11AM",
+   "start time": "5PM",
+   "end date": "4/21/2017"
+  }
+ },
+ "5b557175b9": {
+  "instruction": {
+   "start date": "4/1/2017",
+   "geographic location": "Portland Intl (Oregon), US (PDX)",
+   "end time": "10AM",
+   "start time": "12PM",
+   "end date": "4/2/2017"
+  }
+ },
+ "7a1971d04f": {
+  "instruction": {
+   "start date": "7/12/2017",
+   "geographic location": "Honolulu Intl, US (HNL)",
+   "end time": "10AM",
+   "start time": "11AM",
+   "end date": "7/29/2017"
+  }
+ },
+ "f23f38c5a1": {
+  "instruction": {
+   "start date": "5/5/2017",
+   "geographic location": "Salt Lake City Intl, US (SLC)",
+   "end time": "1PM",
+   "start time": "3PM",
+   "end date": "5/6/2017"
+  }
+ }
+}

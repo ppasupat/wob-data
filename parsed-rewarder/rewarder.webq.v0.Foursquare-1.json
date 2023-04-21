@@ -1,0 +1,62 @@
+{
+ "a9226b3db9": {
+  "instruction": {
+   "name of city": "richmond, va",
+   "type of food": "wings"
+  }
+ },
+ "68c04d19aa": {
+  "instruction": {
+   "name of city": "greensboro, nc",
+   "type of food": "thai"
+  }
+ },
+ "5dc5cb5840": {
+  "instruction": {
+   "name of city": "savannah, ga",
+   "type of food": "southern"
+  }
+ },
+ "c1e5bf2d1a": {
+  "instruction": {
+   "name of city": "myrtle beach, sc",
+   "type of food": "seafood"
+  }
+ },
+ "5bd28308dd": {
+  "instruction": {
+   "name of city": "charlotte, nc",
+   "type of food": "korean"
+  }
+ },
+ "8976d450d2": {
+  "instruction": {
+   "name of city": "lexington, nc",
+   "type of food": "barbecue"
+  }
+ },
+ "02c2737f11": {
+  "instruction": {
+   "name of city": "atlanta, ga",
+   "type of food": "peruvian"
+  }
+ },
+ "1df8e7feb2": {
+  "instruction": {
+   "name of city": "miami, fl",
+   "type of food": "crabs"
+  }
+ },
+ "8d166b36e4": {
+  "instruction": {
+   "name of city": "raleigh, nc",
+   "type of food": "hot dogs"
+  }
+ },
+ "70ed0ea82f": {
+  "instruction": {
+   "name of city": "kanas city, mo",
+   "type of food": "ribs"
+  }
+ }
+}

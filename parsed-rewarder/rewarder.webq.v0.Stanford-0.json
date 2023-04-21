@@ -1,0 +1,62 @@
+{
+ "6b614c7bf8": {
+  "instruction": {
+   "office": "CLARK 5293",
+   "name": "Leonidas Guibas"
+  }
+ },
+ "1682f89d54": {
+  "instruction": {
+   "office": "Gates 362",
+   "name": "Doug James"
+  }
+ },
+ "62eb478692": {
+  "instruction": {
+   "office": "Gates 409",
+   "name": "Philip Levis"
+  }
+ },
+ "f989956642": {
+  "instruction": {
+   "office": "GATES 144",
+   "name": "Oussama Khatib"
+  }
+ },
+ "b6ca31f13a": {
+  "instruction": {
+   "office": "GATES 310",
+   "name": "John Ousterhout"
+  }
+ },
+ "12b821deed": {
+  "instruction": {
+   "office": "Littlefld 200",
+   "name": "John MItchel"
+  }
+ },
+ "0b0a1091b6": {
+  "instruction": {
+   "office": "GATES 301",
+   "name": "Bill Dally"
+  }
+ },
+ "287a64c568": {
+  "instruction": {
+   "office": "GATES 248",
+   "name": "Chris Manning"
+  }
+ },
+ "c372fd1672": {
+  "instruction": {
+   "office": "Gates Bldg 250",
+   "name": "Percy Liang"
+  }
+ },
+ "2caddd1bf7": {
+  "instruction": {
+   "office": "GATES 411",
+   "name": "Alex Aiken"
+  }
+ }
+}

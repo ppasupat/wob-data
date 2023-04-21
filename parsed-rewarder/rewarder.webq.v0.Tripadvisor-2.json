@@ -1,0 +1,762 @@
+{
+ "9c761737d2": {
+  "instruction": {
+   "type": "sports",
+   "location": "Los Angeles, CA",
+   "ANSWER": "Staples Center"
+  }
+ },
+ "36ea8ec4af": {
+  "instruction": {
+   "type": "opera",
+   "location": "New York City, NY",
+   "ANSWER": "Phantom of the Opera"
+  }
+ },
+ "74350a43e6": {
+  "instruction": {
+   "type": "Paintball",
+   "location": "Boston, Ma",
+   "ANSWER": "Boston Paintball"
+  }
+ },
+ "9620e31f5e": {
+  "instruction": {
+   "type": "running",
+   "location": "Kingsport, TN",
+   "ANSWER": "Warrior's Path Park, Kingsport Greenbelt"
+  }
+ },
+ "2cbe2e964c": {
+  "instruction": {
+   "type": "extreme sports",
+   "location": "Arizona",
+   "ANSWER": "Flagstaff Extreme"
+  }
+ },
+ "9374453a89": {
+  "instruction": {
+   "type": "cycling",
+   "location": "Denali, Alaska",
+   "ANSWER": "Skyline Lodge"
+  }
+ },
+ "22a692adb2": {
+  "instruction": {
+   "type": "best area for live music",
+   "location": "Nashville, TN",
+   "ANSWER": "Music Row"
+  }
+ },
+ "debbb0bb43": {
+  "instruction": {
+   "type": "aquatic",
+   "location": "Cape Town",
+   "ANSWER": "Sea point surfing"
+  }
+ },
+ "d4df85bf7f": {
+  "instruction": {
+   "type": "theater",
+   "location": "Chicago, IL",
+   "ANSWER": "Broadway Playhouse"
+  }
+ },
+ "2dc2f592cf": {
+  "instruction": {
+   "type": "brew pub",
+   "location": "Raleigh, NC",
+   "ANSWER": "Clouds Brewing"
+  }
+ },
+ "84535c8282": {
+  "instruction": {
+   "type": "Which is the richest country",
+   "location": "Qatar",
+   "ANSWER": "International Dollars  Qatar  129,726"
+  }
+ },
+ "9a4c2a7334": {
+  "instruction": {
+   "type": "musical",
+   "location": "New York",
+   "ANSWER": "Braodway"
+  }
+ },
+ "a323c4dbf2": {
+  "instruction": {
+   "type": "nature",
+   "location": "South Africa",
+   "ANSWER": "Kruger National Park"
+  }
+ },
+ "4c017a8bd7": {
+  "instruction": {
+   "type": "festival",
+   "location": "Charlotte, NC",
+   "ANSWER": "Freedom Park,Historic Rural Hill Farm"
+  }
+ },
+ "e9f53dc885": {
+  "instruction": {
+   "type": "Self Guided Tour",
+   "location": "New York City",
+   "ANSWER": "Food On Foot Tours"
+  }
+ },
+ "e8c12fb24e": {
+  "instruction": {
+   "type": "Lgbtq",
+   "location": "San Francisco"
+  }
+ },
+ "8c41120fec": {
+  "instruction": {
+   "type": "Running Trails",
+   "location": "London, England",
+   "ANSWER": "Love London Running Tours"
+  }
+ },
+ "91474b7708": {
+  "instruction": {
+   "type": "cultural ",
+   "location": "charleston wv"
+  }
+ },
+ "7fb5e51384": {
+  "instruction": {
+   "type": "(farmers market)",
+   "location": "(St.Louis, Mo)",
+   "ANSWER": "Kirkwood Farmers\u2019 Market"
+  }
+ },
+ "aff97cdba4": {
+  "instruction": {
+   "type": "Surfing",
+   "location": "Huntington Beach California "
+  }
+ },
+ "6802a9f897": {
+  "instruction": {
+   "type": "hinstorial ",
+   "location": "JAmaica "
+  }
+ },
+ "0015656db9": {
+  "instruction": {
+   "type": "Ghost & Vampire Tours",
+   "location": "Charleston, South Carolina",
+   "ANSWER": "Old Charleston Walking Tours"
+  }
+ },
+ "33597508db": {
+  "instruction": {
+   "type": "What is the car of the world",
+   "location": " EE.UU",
+   "ANSWER": "Hennessey Venom GT"
+  }
+ },
+ "c917644ba6": {
+  "instruction": {
+   "type": "(natural park)",
+   "location": "(Branson, Mo)",
+   "ANSWER": "College of the Ozarks"
+  }
+ },
+ "ad328b49ff": {
+  "instruction": {
+   "type": "(park)",
+   "location": "(St.Louis, Mo)",
+   "ANSWER": "St. Louis Zoo"
+  }
+ },
+ "450097780a": {
+  "instruction": {
+   "type": "adventure",
+   "location": "Australia",
+   "ANSWER": "Drive on Fraser Island"
+  }
+ },
+ "3b4afb5c05": {
+  "instruction": {
+   "type": "oddities",
+   "location": "Ohio",
+   "ANSWER": "First Concrete Street"
+  }
+ },
+ "8b2d64abcc": {
+  "instruction": {
+   "type": "c",
+   "location": "hygfv",
+   "ANSWER": "gyjh"
+  }
+ },
+ "714b27cf65": {
+  "instruction": {
+   "type": "(playground)",
+   "location": "(St.Louis, Mo)",
+   "ANSWER": "Turtle Park"
+  }
+ },
+ "3c97b0e962": {
+  "instruction": {
+   "type": "Kayaking & Canoeing",
+   "location": "New Orleans, Louisiana",
+   "ANSWER": "Canoe & Trail Adventures"
+  }
+ },
+ "4c5675f829": {
+  "instruction": {
+   "type": "night-life",
+   "location": "Miami, FL",
+   "ANSWER": "Miami Beach Clubs"
+  }
+ },
+ "497aff482c": {
+  "instruction": {
+   "type": "art",
+   "location": "myrtle Beach, SC"
+  }
+ },
+ "3d9ae191b7": {
+  "instruction": {
+   "type": "Restaurants",
+   "location": "El Paso, Texas",
+   "ANSWER": "ZINO'S Greek Restaurant"
+  }
+ },
+ "a382712185": {
+  "instruction": {
+   "type": "outdoor",
+   "location": "New york City "
+  }
+ },
+ "6c43579ea7": {
+  "instruction": {
+   "type": "museum",
+   "location": "Atlanta, Ga",
+   "ANSWER": "Center for Civil and Human Rights"
+  }
+ },
+ "0af0922e8d": {
+  "instruction": {
+   "type": "hiking",
+   "location": "Wisconsin",
+   "ANSWER": "Devil's Lake State Park"
+  }
+ },
+ "4e1b6b8db5": {
+  "instruction": {
+   "type": "craft",
+   "location": "Ocala, FL",
+   "ANSWER": "Infinite Ale Works, Craft cuisine"
+  }
+ },
+ "a9214f1fb4": {
+  "instruction": {
+   "type": "seafood buffet",
+   "location": "New Orleans, Louisiana",
+   "ANSWER": "Harrah's Casino Buffet"
+  }
+ },
+ "948439ec67": {
+  "instruction": {
+   "type": "(hiking trail)",
+   "location": "(Branson, Mo)",
+   "ANSWER": "Ruth and Paul Henning Conservation Area"
+  }
+ },
+ "2dba2eb004": {
+  "instruction": {
+   "type": "Who is the richest man",
+   "location": "EE.UU",
+   "ANSWER": "Bill Gates"
+  }
+ },
+ "7cc94be443": {
+  "instruction": {
+   "type": "nerdy",
+   "location": "Palo alto",
+   "ANSWER": "Standford University"
+  }
+ },
+ "6b0272f5d3": {
+  "instruction": {
+   "type": "sport",
+   "location": "Brazil",
+   "ANSWER": "Soccer"
+  }
+ },
+ "5700c38f2a": {
+  "instruction": {
+   "type": "movie theater",
+   "location": "Raleigh, NC",
+   "ANSWER": "Wells Fargo Imax"
+  }
+ },
+ "046c5d1d9a": {
+  "instruction": {
+   "type": "best walking tour",
+   "location": "Seattle, WA",
+   "ANSWER": "SeattleFreeWalkingTours.com"
+  }
+ },
+ "c778a7ad7c": {
+  "instruction": {
+   "type": "Mountain Biking",
+   "location": "Seattle, Wa",
+   "ANSWER": "Mountain Madness"
+  }
+ },
+ "1eb3624068": {
+  "instruction": {
+   "type": "best amusement park in the USA",
+   "location": "Orlando, FL",
+   "ANSWER": "Universal's Islands of Adventure"
+  }
+ },
+ "75717ee523": {
+  "instruction": {
+   "type": "Pottery",
+   "location": "Asheville, NC",
+   "ANSWER": "New Morning Art Gallery, Southern Highland Craft Guild Folk Art Center,  River Arts District, Fired Up Creative Lounge Asheville"
+  }
+ },
+ "5321aff89a": {
+  "instruction": {
+   "type": "fishing",
+   "location": "Traverse City, MI",
+   "ANSWER": "Fishtown"
+  }
+ },
+ "cfdcd2b72f": {
+  "instruction": {
+   "type": "oiygbn",
+   "location": "utfvgjm ",
+   "ANSWER": "vm"
+  }
+ },
+ "f150e6c846": {
+  "instruction": {
+   "type": "best historic walking tour",
+   "location": "Boston, MA",
+   "ANSWER": "Freedom Trail"
+  }
+ },
+ "72175ce0e7": {
+  "instruction": {
+   "type": "4WD, ATV & Off-Road Tours",
+   "location": "Las Vegas, NV",
+   "ANSWER": "Pink Jeep Tours Las Vegas"
+  }
+ },
+ "a0afea1e58": {
+  "instruction": {
+   "type": "tour",
+   "location": "Detroit, MI",
+   "ANSWER": "The Handlebar Detroit"
+  }
+ },
+ "9ed8adf810": {
+  "instruction": {
+   "type": "free sites",
+   "location": "Raleigh, NC",
+   "ANSWER": "NC Museum of History"
+  }
+ },
+ "55aceb0963": {
+  "instruction": {
+   "type": "(theatre)",
+   "location": "(St.Louis, Mo)",
+   "ANSWER": "The Fox Theatre"
+  }
+ },
+ "b526d21291": {
+  "instruction": {
+   "type": "geology ",
+   "location": "NAvada"
+  }
+ },
+ "201078fb45": {
+  "instruction": {
+   "type": "(art gallery)",
+   "location": "(St.Louis, Mo)",
+   "ANSWER": "Third Degree Glass Factory"
+  }
+ },
+ "cdaab7309f": {
+  "instruction": {
+   "type": "dining",
+   "location": "Washington D.C.",
+   "ANSWER": "Capital Grill, Rasika, Joe's Seafood prime steak stone crab"
+  }
+ },
+ "32d2e0745b": {
+  "instruction": {
+   "type": "What is the best airplane",
+   "location": " EE.UU",
+   "ANSWER": "Spirit Stealth Bomber "
+  }
+ },
+ "de5f500d2b": {
+  "instruction": {
+   "type": "Snowboarding",
+   "location": "Denver, Co",
+   "ANSWER": "Snobahn"
+  }
+ },
+ "914f6c653e": {
+  "instruction": {
+   "type": "spa",
+   "location": "New Orleans, LA",
+   "ANSWER": "Spa Atlantis"
+  }
+ },
+ "ecbc680ad6": {
+  "instruction": {
+   "type": "(garden)",
+   "location": "(St.Louis, Mo)",
+   "ANSWER": "Missouri Botanical Gardens"
+  }
+ },
+ "6e6c94a75d": {
+  "instruction": {
+   "type": "best museum in the USA",
+   "location": "New York, NY",
+   "ANSWER": "The Metropolitan Museum of Art"
+  }
+ },
+ "86abe51a54": {
+  "instruction": {
+   "type": "Where there are more inhabitants?",
+   "location": "China",
+   "ANSWER": "1382300000"
+  }
+ },
+ "399c64b037": {
+  "instruction": {
+   "type": "Movie Theater",
+   "location": "Temecula, CA",
+   "ANSWER": "Temeku Cinemas"
+  }
+ },
+ "5f930f8153": {
+  "instruction": {
+   "type": "cocktails",
+   "location": "Raleigh, NC",
+   "ANSWER": "C. Grace"
+  }
+ },
+ "9a51e3ada0": {
+  "instruction": {
+   "type": "(brewery)",
+   "location": "(St.Louis, Mo)",
+   "ANSWER": "Anheuser-Busch Brewery"
+  }
+ },
+ "f1536dbae4": {
+  "instruction": {
+   "type": "water sport",
+   "location": "Miami Florida "
+  }
+ },
+ "5b82059368": {
+  "instruction": {
+   "type": "srdjky",
+   "location": "tg",
+   "ANSWER": "ch"
+  }
+ },
+ "1064dfd013": {
+  "instruction": {
+   "type": "local concerts",
+   "location": "Raleigh, NC",
+   "ANSWER": "The Ritz"
+  }
+ },
+ "c233c8c253": {
+  "instruction": {
+   "type": "Surf Lessons",
+   "location": "Sydney, Australia",
+   "ANSWER": "Manly Surf Guide"
+  }
+ },
+ "b3ce898c08": {
+  "instruction": {
+   "type": "coffee",
+   "location": "Lake Geneva, WI",
+   "ANSWER": "Egg Harbor Cafe"
+  }
+ },
+ "26e9ee5ec2": {
+  "instruction": {
+   "type": "Which is the best city",
+   "location": "Melbourne, Australia",
+   "ANSWER": "the city scores an overall rating of 97.5 out of 100"
+  }
+ },
+ "c9931559ea": {
+  "instruction": {
+   "type": "6uthxfc",
+   "location": "gtfgc",
+   "ANSWER": "tfh"
+  }
+ },
+ "5bd0273a92": {
+  "instruction": {
+   "type": "Casino",
+   "location": "Las Vegas, NV",
+   "ANSWER": "Wynn Las Vegas Casino"
+  }
+ },
+ "7c7c7d97a7": {
+  "instruction": {
+   "type": "art",
+   "location": "Rome, Italy",
+   "ANSWER": "Borghese gallery, Palazzo Barberini, Galleria Nazionale d'Arte Moderna"
+  }
+ },
+ "3d08d1e7bd": {
+  "instruction": {
+   "type": "ytcvgbj,h",
+   "location": "thjcvbmj",
+   "ANSWER": "otc"
+  }
+ },
+ "cd3d0678c8": {
+  "instruction": {
+   "type": "sports venue",
+   "location": "Raleigh, NC",
+   "ANSWER": "PNC Arena"
+  }
+ },
+ "1df216a17a": {
+  "instruction": {
+   "type": "What are the best beaches",
+   "location": "on the coast of Zakynthos, in the Ionian Islands of Greece",
+   "ANSWER": "Navagio "
+  }
+ },
+ "a0efee6951": {
+  "instruction": {
+   "type": "kids attractions",
+   "location": "Raleigh, NC",
+   "ANSWER": "Pullen Park"
+  }
+ },
+ "0ac5f5a02e": {
+  "instruction": {
+   "type": "skiing",
+   "location": "Montpelier, VT",
+   "ANSWER": "Sugarbrush Mountain Ski Resort, Stowe Mountain, Mountain River Glen"
+  }
+ },
+ "fe5ce543ff": {
+  "instruction": {
+   "type": "driving",
+   "location": "Germany",
+   "ANSWER": "The Autobahn"
+  }
+ },
+ "658718bd62": {
+  "instruction": {
+   "type": "spiritual",
+   "location": "Osaka, Japan",
+   "ANSWER": "H\u014dzen-ji Temple"
+  }
+ },
+ "c1cfd39358": {
+  "instruction": {
+   "type": "late night restaurant",
+   "location": "Raleigh, NC",
+   "ANSWER": "Taverna Agora"
+  }
+ },
+ "9d2f3ceb46": {
+  "instruction": {
+   "type": "(museum)",
+   "location": "(Branson, Mo)",
+   "ANSWER": "Titantic Museum"
+  }
+ },
+ "55f05adda7": {
+  "instruction": {
+   "type": "cgtc",
+   "location": "hyfg",
+   "ANSWER": "hho["
+  }
+ },
+ "5913a9e7d9": {
+  "instruction": {
+   "type": "Which is the best park",
+   "location": "Brasil",
+   "ANSWER": "Ibirapuera"
+  }
+ },
+ "ac84efbe58": {
+  "instruction": {
+   "type": "Restaurants",
+   "location": "Charlotte, North Carolina",
+   "ANSWER": "Fig Tree Restaurant"
+  }
+ },
+ "e75f6a7477": {
+  "instruction": {
+   "type": "horse Riding",
+   "location": "London, England",
+   "ANSWER": "Trent Park Equestrian, Ross Nye Stables, Hyde Park"
+  }
+ },
+ "e81af3bee9": {
+  "instruction": {
+   "type": "educational",
+   "location": "New York, NY",
+   "ANSWER": "Ellis Island, Urban Oasis Shopping tour, American Museum of natural history, Body World"
+  }
+ },
+ "6a6f103472": {
+  "instruction": {
+   "type": "best Rodin museum",
+   "location": "Worldwide",
+   "ANSWER": "Musee Rodin, Paris"
+  }
+ },
+ "898f902c11": {
+  "instruction": {
+   "type": "art experience",
+   "location": "Raleigh, NC",
+   "ANSWER": "North Carolina Museum of Art"
+  }
+ },
+ "927e5efe47": {
+  "instruction": {
+   "type": "Water Sports",
+   "location": "Orlando, FL",
+   "ANSWER": "Paddleboard Orlando"
+  }
+ },
+ "9aba41de21": {
+  "instruction": {
+   "type": "gambling",
+   "location": "Las Vegas",
+   "ANSWER": "The venetian"
+  }
+ },
+ "2e03104b22": {
+  "instruction": {
+   "type": "best Dali museum",
+   "location": "St. Petersburg, FL",
+   "ANSWER": "The Dali Museum"
+  }
+ },
+ "be087da2c9": {
+  "instruction": {
+   "type": "restaurants",
+   "location": "mexico city ",
+   "ANSWER": "Sir Winston Churchill's"
+  }
+ },
+ "c904e43ca2": {
+  "instruction": {
+   "type": "best 3 star Michelin in Paris by most reviews",
+   "location": "Paris, France",
+   "ANSWER": "Epicure"
+  }
+ },
+ "7b4b14cf94": {
+  "instruction": {
+   "type": "jet ski",
+   "location": "Myrtle Beach, South Carolina",
+   "ANSWER": "Myrtle Beach Watersports"
+  }
+ },
+ "3195184af8": {
+  "instruction": {
+   "type": "cheap eats",
+   "location": "Raleigh, NC",
+   "ANSWER": "Guasaca"
+  }
+ },
+ "4e37560bba": {
+  "instruction": {
+   "type": "Kayaking & Canoeing",
+   "location": "Asheville, NC",
+   "ANSWER": "Asheville Outdoor Center"
+  }
+ },
+ "879bec57b7": {
+  "instruction": {
+   "type": "cuisine ",
+   "location": "New Orleans LA"
+  }
+ },
+ "6e94e045e9": {
+  "instruction": {
+   "type": "gfgv",
+   "location": "ycgh",
+   "ANSWER": "ytfghc"
+  }
+ },
+ "84d9695065": {
+  "instruction": {
+   "type": "ifylcgnv",
+   "location": "drytfh",
+   "ANSWER": "rsvh"
+  }
+ },
+ "5beda7f28a": {
+  "instruction": {
+   "type": "hjbjh",
+   "location": "bhgouyf",
+   "ANSWER": "htjcfih"
+  }
+ },
+ "1259ab3353": {
+  "instruction": {
+   "type": "What is the best computer company",
+   "location": " EE.UU",
+   "ANSWER": "Apple"
+  }
+ },
+ "3c94ce89a6": {
+  "instruction": {
+   "type": "ranch ",
+   "location": "Wyoming "
+  }
+ },
+ "d0ac30db4a": {
+  "instruction": {
+   "type": "best zoo & aquarium",
+   "location": "Vancouver, Canada",
+   "ANSWER": "Vancouver Aquarium"
+  }
+ },
+ "3e5c1f5fcb": {
+  "instruction": {
+   "type": "best sailing",
+   "location": "Bermuda",
+   "ANSWER": "Catamaran Cruise with Snorkeling, Paddleboarding and Kayaking"
+  }
+ },
+ "71b5dd2421": {
+  "instruction": {
+   "type": "Hiking",
+   "location": "San Diego",
+   "ANSWER": "Torrey Pines State Natural Reserve "
+  }
+ },
+ "8c835047d0": {
+  "instruction": {
+   "type": "Dog Beach",
+   "location": "Santa Barbara, Ca",
+   "ANSWER": "Arroyo Burro County Beach Park"
+  }
+ },
+ "d266b2abe1": {
+  "instruction": {
+   "type": "The country with more oil",
+   "location": "VENEZUELA",
+   "ANSWER": "Proven oil reserves in 2013 (billion barrels): 297.6. Total oil supply in 2012 (thousand barrels per day): 2,489.2"
+  }
+ }
+}

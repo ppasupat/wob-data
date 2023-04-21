@@ -1,0 +1,1722 @@
+{
+ "53607ed42c": {
+  "instruction": {
+   "loan amount": "5000",
+   "years": "5",
+   "ANSWER": "5324",
+   "interest rate": "2.5"
+  }
+ },
+ "2aebb43633": {
+  "instruction": {
+   "years": "9",
+   "interest rate": "2.9",
+   "loan amount": "18,000",
+   "ANSWER": "20,473"
+  }
+ },
+ "099bf2a972": {
+  "instruction": {
+   "loan amount": "113000",
+   "years": "11",
+   "ANSWER": "162,347",
+   "interest rate": "7.0"
+  }
+ },
+ "2f7754ac72": {
+  "instruction": {
+   "loan amount": "2459",
+   "years": "4",
+   "ANSWER": "2628",
+   "interest rate": "3.3"
+  }
+ },
+ "9a6373f474": {
+  "instruction": {
+   "loan amount": "15000",
+   "years": "6",
+   "ANSWER": "17899",
+   "interest rate": "6"
+  }
+ },
+ "188f5c15bd": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "6.00",
+   "loan amount": "25000",
+   "ANSWER": "33306"
+  }
+ },
+ "5b29ecf4b9": {
+  "instruction": {
+   "years": "7",
+   "interest rate": "4.3",
+   "loan amount": "12000"
+  }
+ },
+ "ceac71f562": {
+  "instruction": {
+   "loan amount": "30000",
+   "years": "6",
+   "ANSWER": "33304",
+   "interest rate": "3.50"
+  }
+ },
+ "b0403a2206": {
+  "instruction": {
+   "years": "2",
+   "interest rate": "8",
+   "loan amount": "1000",
+   "ANSWER": "1085"
+  }
+ },
+ "ac36484521": {
+  "instruction": {
+   "loan amount": "12,000",
+   "years": "6",
+   "ANSWER": "13,205",
+   "interest rate": "3.2"
+  }
+ },
+ "f859dcf929": {
+  "instruction": {
+   "loan amount": "1000",
+   "years": "2",
+   "ANSWER": "1085",
+   "interest rate": "8"
+  }
+ },
+ "ee2c1b0966": {
+  "instruction": {
+   "interest rate": "6.3",
+   "years": "10",
+   "loan amount": "20000"
+  }
+ },
+ "b1def9acb6": {
+  "instruction": {
+   "years": "4",
+   "interest rate": "3.2",
+   "loan amount": "9000"
+  }
+ },
+ "45d99c9033": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "8.3",
+   "loan amount": "156000",
+   "ANSWER": "230,104"
+  }
+ },
+ "0455402fdd": {
+  "instruction": {
+   "loan amount": "55000",
+   "years": "10",
+   "ANSWER": "76632",
+   "interest rate": "7"
+  }
+ },
+ "8a9e0651d6": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "5",
+   "loan amount": "20000",
+   "ANSWER": "22645"
+  }
+ },
+ "7750f32c93": {
+  "instruction": {
+   "loan amount": "20000",
+   "years": "20",
+   "ANSWER": "31678",
+   "interest rate": "5"
+  }
+ },
+ "281a891f7d": {
+  "instruction": {
+   "loan amount": "20000",
+   "years": "10",
+   "ANSWER": "25691",
+   "interest rate": "5.2"
+  }
+ },
+ "ed1ed7a2ee": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "8",
+   "loan amount": "40000",
+   "ANSWER": "48663"
+  }
+ },
+ "15df4f7e18": {
+  "instruction": {
+   "loan amount": "35000",
+   "years": "10",
+   "interest rate": "5.7"
+  }
+ },
+ "72cfec0744": {
+  "instruction": {
+   "years": "6",
+   "interest rate": "6",
+   "loan amount": "15000",
+   "ANSWER": "17899"
+  }
+ },
+ "d9f4ad766a": {
+  "instruction": {
+   "loan amount": "71000",
+   "years": "5",
+   "ANSWER": "78,454",
+   "interest rate": "4.0"
+  }
+ },
+ "61bcf2be22": {
+  "instruction": {
+   "loan amount": "50000",
+   "years": "10",
+   "ANSWER": "67217",
+   "interest rate": "6.2"
+  }
+ },
+ "e3b45b6fc3": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "10",
+   "ANSWER": "12728",
+   "interest rate": "5"
+  }
+ },
+ "e754ec9481": {
+  "instruction": {
+   "years": "2",
+   "interest rate": "2.8",
+   "loan amount": "750",
+   "ANSWER": "772"
+  }
+ },
+ "a1a88e3105": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "5.50",
+   "loan amount": "55000",
+   "ANSWER": "71627"
+  }
+ },
+ "9bfb9ce461": {
+  "instruction": {
+   "loan amount": "100000",
+   "years": "10",
+   "ANSWER": "127279",
+   "interest rate": "5.00"
+  }
+ },
+ "2e65840496": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "5.95",
+   "loan amount": "15000",
+   "ANSWER": "17379"
+  }
+ },
+ "e69f547009": {
+  "instruction": {
+   "loan amount": "95,000",
+   "years": "15",
+   "ANSWER": "122,245",
+   "interest rate": "3.5"
+  }
+ },
+ "8231b7dc08": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "5",
+   "interest rate": "6.3"
+  }
+ },
+ "04072d5b9f": {
+  "instruction": {
+   "loan amount": "27000",
+   "years": "9",
+   "ANSWER": "36174",
+   "interest rate": "6.8"
+  }
+ },
+ "bc59ede3c7": {
+  "instruction": {
+   "years": "16",
+   "interest rate": "5.3",
+   "loan amount": "93000"
+  }
+ },
+ "1748475219": {
+  "instruction": {
+   "loan amount": "20000",
+   "years": "10",
+   "ANSWER": "26046",
+   "interest rate": "5.5"
+  }
+ },
+ "38e6c58eaa": {
+  "instruction": {
+   "loan amount": "15000",
+   "years": "5",
+   "ANSWER": "16172",
+   "interest rate": "3.00"
+  }
+ },
+ "39728df2d9": {
+  "instruction": {
+   "years": "4",
+   "interest rate": "3.5",
+   "loan amount": "2,500",
+   "ANSWER": "2,683"
+  }
+ },
+ "5c0d08b839": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "7",
+   "loan amount": "5000",
+   "ANSWER": "5940"
+  }
+ },
+ "55496f50d1": {
+  "instruction": {
+   "loan amount": "12000",
+   "years": "7",
+   "interest rate": "4.3"
+  }
+ },
+ "8e9574e3a2": {
+  "instruction": {
+   "loan amount": "45000",
+   "years": "12",
+   "ANSWER": "64246",
+   "interest rate": "6.3"
+  }
+ },
+ "b0870d0e3b": {
+  "instruction": {
+   "loan amount": "2000",
+   "years": "10",
+   "interest rate": "2.5"
+  }
+ },
+ "ff9b56233f": {
+  "instruction": {
+   "years": "9",
+   "interest rate": "8.1",
+   "loan amount": "17000"
+  }
+ },
+ "959fb4459e": {
+  "instruction": {
+   "interest rate": "6.0",
+   "years": "8",
+   "loan amount": "10000"
+  }
+ },
+ "d8b3ee232b": {
+  "instruction": {
+   "interest rate": "2.5",
+   "years": "10",
+   "loan amount": "2000"
+  }
+ },
+ "5cb99107f9": {
+  "instruction": {
+   "loan amount": "115000",
+   "years": "5",
+   "ANSWER": "136628",
+   "interest rate": "7.00"
+  }
+ },
+ "60e50d89bb": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "4.0",
+   "loan amount": "71000",
+   "ANSWER": "78,454"
+  }
+ },
+ "469264505d": {
+  "instruction": {
+   "loan amount": "5000",
+   "years": "20",
+   "interest rate": "5.2"
+  }
+ },
+ "01caceb57e": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "5",
+   "ANSWER": "11768",
+   "interest rate": "6.6"
+  }
+ },
+ "7d81015efe": {
+  "instruction": {
+   "loan amount": "200000",
+   "years": "25",
+   "ANSWER": "381098",
+   "interest rate": "5.85"
+  }
+ },
+ "337bb87843": {
+  "instruction": {
+   "loan amount": "212000",
+   "years": "9",
+   "ANSWER": "258,212",
+   "interest rate": "4.5"
+  }
+ },
+ "1b8a5ebcd0": {
+  "instruction": {
+   "loan amount": "15000",
+   "years": "10",
+   "ANSWER": "17799",
+   "interest rate": "3.5"
+  }
+ },
+ "1f4a06783d": {
+  "instruction": {
+   "loan amount": "36,000",
+   "years": "7",
+   "ANSWER": "41,613",
+   "interest rate": "4.2"
+  }
+ },
+ "34d47ccb06": {
+  "instruction": {
+   "loan amount": "18,000",
+   "years": "9",
+   "ANSWER": "20,473",
+   "interest rate": "2.9"
+  }
+ },
+ "cfea79aac7": {
+  "instruction": {
+   "loan amount": "15000",
+   "years": "5",
+   "ANSWER": "16373",
+   "interest rate": "3.5"
+  }
+ },
+ "d4c33783db": {
+  "instruction": {
+   "years": "2",
+   "interest rate": "5",
+   "loan amount": "10000",
+   "ANSWER": "10529"
+  }
+ },
+ "5382c86c24": {
+  "instruction": {
+   "loan amount": "56,000",
+   "years": "10",
+   "ANSWER": "67,400",
+   "interest rate": "3.8"
+  }
+ },
+ "d80ac046bb": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "3.40",
+   "loan amount": "70000",
+   "ANSWER": "76217"
+  }
+ },
+ "7f5c2e29a9": {
+  "instruction": {
+   "years": "6",
+   "interest rate": "6.0",
+   "loan amount": "15000",
+   "ANSWER": "17,899"
+  }
+ },
+ "66199d84bc": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "10",
+   "loan amount": "10000",
+   "ANSWER": "15858"
+  }
+ },
+ "7830062a23": {
+  "instruction": {
+   "years": "15",
+   "interest rate": "4.8",
+   "loan amount": "72000"
+  }
+ },
+ "1c2aac3b8c": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "5.50",
+   "loan amount": "45000",
+   "ANSWER": "58604"
+  }
+ },
+ "9bf6f6c34a": {
+  "instruction": {
+   "years": "7",
+   "interest rate": "4.2",
+   "loan amount": "36,000",
+   "ANSWER": "41,613"
+  }
+ },
+ "527b67f2c5": {
+  "instruction": {
+   "years": "8",
+   "interest rate": "3.4",
+   "loan amount": "29,000",
+   "ANSWER": "33,163"
+  }
+ },
+ "f9e70afb29": {
+  "instruction": {
+   "years": "3",
+   "interest rate": "8",
+   "loan amount": "10000",
+   "ANSWER": "11281"
+  }
+ },
+ "3f37ca5f3e": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "5.2",
+   "loan amount": "20000",
+   "ANSWER": "25691"
+  }
+ },
+ "3fadf5e922": {
+  "instruction": {
+   "loan amount": "8000",
+   "years": "10",
+   "ANSWER": "9811",
+   "interest rate": "4.2"
+  }
+ },
+ "444e065d7c": {
+  "instruction": {
+   "loan amount": "25000",
+   "years": "5",
+   "ANSWER": "30057",
+   "interest rate": "7.5"
+  }
+ },
+ "f4c6c0b0d0": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "6.6",
+   "loan amount": "10000",
+   "ANSWER": "11768"
+  }
+ },
+ "588577aa3f": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "5",
+   "loan amount": "10000",
+   "ANSWER": "12728"
+  }
+ },
+ "e31c900d9a": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "2.0",
+   "loan amount": "65000",
+   "ANSWER": "68,358"
+  }
+ },
+ "7641e44226": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "3",
+   "ANSWER": "11281",
+   "interest rate": "8"
+  }
+ },
+ "676fe2e44b": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "5",
+   "loan amount": "20000",
+   "ANSWER": "25456"
+  }
+ },
+ "25c2e7d869": {
+  "instruction": {
+   "years": "9",
+   "interest rate": "6.8",
+   "loan amount": "27000",
+   "ANSWER": "36174"
+  }
+ },
+ "af60f159ea": {
+  "instruction": {
+   "years": "15",
+   "interest rate": "3.5",
+   "loan amount": "95,000",
+   "ANSWER": "122,245"
+  }
+ },
+ "cac629e7a6": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "5.00",
+   "loan amount": "100000",
+   "ANSWER": "127279"
+  }
+ },
+ "354d772718": {
+  "instruction": {
+   "loan amount": "20000",
+   "years": "8",
+   "ANSWER": "25232",
+   "interest rate": "6"
+  }
+ },
+ "993e6aab41": {
+  "instruction": {
+   "loan amount": "20000",
+   "years": "10",
+   "ANSWER": "25456",
+   "interest rate": "5"
+  }
+ },
+ "5f5581d014": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "3.9",
+   "loan amount": "3950",
+   "ANSWER": "4354"
+  }
+ },
+ "399a478c49": {
+  "instruction": {
+   "years": "15",
+   "interest rate": "5.25",
+   "loan amount": "10000",
+   "ANSWER": "14470"
+  }
+ },
+ "c0b5257ce3": {
+  "instruction": {
+   "years": "20",
+   "interest rate": "7.9",
+   "loan amount": "28950",
+   "ANSWER": "57684"
+  }
+ },
+ "9d83aef97a": {
+  "instruction": {
+   "loan amount": "35000",
+   "years": "10",
+   "ANSWER": "45998",
+   "interest rate": "5.7"
+  }
+ },
+ "46bffba612": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "3.5",
+   "loan amount": "15000",
+   "ANSWER": "16373"
+  }
+ },
+ "6ec0bb9997": {
+  "instruction": {
+   "loan amount": "7895",
+   "years": "8",
+   "ANSWER": "10108",
+   "interest rate": "6.4"
+  }
+ },
+ "b29f104c40": {
+  "instruction": {
+   "years": "20",
+   "interest rate": "5",
+   "loan amount": "20000",
+   "ANSWER": "31678"
+  }
+ },
+ "c5155c9374": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "15",
+   "ANSWER": "14470",
+   "interest rate": "5.25"
+  }
+ },
+ "5853ca38cd": {
+  "instruction": {
+   "loan amount": "63000",
+   "years": "11",
+   "ANSWER": "82,859",
+   "interest rate": "5.2"
+  }
+ },
+ "27035c97eb": {
+  "instruction": {
+   "loan amount": "60000",
+   "years": "10",
+   "ANSWER": "72897",
+   "interest rate": "4.00"
+  }
+ },
+ "596eab11c6": {
+  "instruction": {
+   "loan amount": "20000",
+   "years": "5",
+   "ANSWER": "22645",
+   "interest rate": "5"
+  }
+ },
+ "6edd692900": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "3.5",
+   "loan amount": "15000",
+   "ANSWER": "17799"
+  }
+ },
+ "ad833f5d98": {
+  "instruction": {
+   "years": "11",
+   "interest rate": "4.8",
+   "loan amount": "67,000",
+   "ANSWER": "86,368"
+  }
+ },
+ "34b3188b15": {
+  "instruction": {
+   "loan amount": "8000",
+   "years": "8",
+   "ANSWER": "10857",
+   "interest rate": "8"
+  }
+ },
+ "8a14eaabb4": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "3.8",
+   "loan amount": "56,000",
+   "ANSWER": "67,400"
+  }
+ },
+ "868247479c": {
+  "instruction": {
+   "loan amount": "5000",
+   "years": "7",
+   "interest rate": "3.8"
+  }
+ },
+ "bb4b98a2a9": {
+  "instruction": {
+   "years": "3",
+   "interest rate": "5",
+   "loan amount": "10000",
+   "ANSWER": "10790"
+  }
+ },
+ "68ab79d8a6": {
+  "instruction": {
+   "loan amount": "16650",
+   "years": "20",
+   "ANSWER": "33923",
+   "interest rate": "8.2"
+  }
+ },
+ "6f72392442": {
+  "instruction": {
+   "loan amount": "5000",
+   "years": "5",
+   "ANSWER": "5940",
+   "interest rate": "7"
+  }
+ },
+ "98dab5f92c": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "5",
+   "ANSWER": "10781",
+   "interest rate": "3"
+  }
+ },
+ "84bd069573": {
+  "instruction": {
+   "loan amount": "50000",
+   "years": "15",
+   "ANSWER": "80895",
+   "interest rate": "7"
+  }
+ },
+ "91c654b5e5": {
+  "instruction": {
+   "years": "3",
+   "interest rate": "10",
+   "loan amount": "10000",
+   "ANSWER": "11616"
+  }
+ },
+ "5b06c39cd0": {
+  "instruction": {
+   "years": "3",
+   "interest rate": "3.0",
+   "loan amount": "1,200",
+   "ANSWER": "1,256"
+  }
+ },
+ "ef58b15126": {
+  "instruction": {
+   "interest rate": "2.5",
+   "years": "10",
+   "loan amount": "20000"
+  }
+ },
+ "efb2cb184e": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "3.8",
+   "loan amount": "25000",
+   "ANSWER": "27,490"
+  }
+ },
+ "c094c3f230": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "3",
+   "ANSWER": "10790",
+   "interest rate": "5"
+  }
+ },
+ "4ace204ac5": {
+  "instruction": {
+   "interest rate": "5.2",
+   "years": "20",
+   "loan amount": "5000"
+  }
+ },
+ "878fc4e547": {
+  "instruction": {
+   "years": "7",
+   "interest rate": "4.0",
+   "loan amount": "78000",
+   "ANSWER": "89,558"
+  }
+ },
+ "9922265f61": {
+  "instruction": {
+   "interest rate": "2.5",
+   "years": "10",
+   "loan amount": "5000"
+  }
+ },
+ "fd416d00ad": {
+  "instruction": {
+   "loan amount": "1000",
+   "years": "3",
+   "ANSWER": "1128",
+   "interest rate": "8"
+  }
+ },
+ "8ee310457d": {
+  "instruction": {
+   "loan amount": "72000",
+   "years": "15",
+   "interest rate": "4.8"
+  }
+ },
+ "47242c8782": {
+  "instruction": {
+   "loan amount": "1000",
+   "years": "2",
+   "ANSWER": "1053",
+   "interest rate": "5"
+  }
+ },
+ "ade4e56605": {
+  "instruction": {
+   "years": "12",
+   "interest rate": "6.3",
+   "loan amount": "45000",
+   "ANSWER": "64246"
+  }
+ },
+ "2b9aa696aa": {
+  "instruction": {
+   "years": "6",
+   "interest rate": "5.0",
+   "loan amount": "5595",
+   "ANSWER": "6488"
+  }
+ },
+ "6e679edae2": {
+  "instruction": {
+   "loan amount": "30000",
+   "years": "10",
+   "ANSWER": "39967",
+   "interest rate": "6"
+  }
+ },
+ "966c360f1f": {
+  "instruction": {
+   "loan amount": "21000",
+   "years": "5",
+   "interest rate": "3.5"
+  }
+ },
+ "0cffa28a3d": {
+  "instruction": {
+   "loan amount": "20000",
+   "years": "10",
+   "interest rate": "6.3"
+  }
+ },
+ "34dc76975b": {
+  "instruction": {
+   "loan amount": "50000",
+   "years": "20",
+   "ANSWER": "84937",
+   "interest rate": "5.85"
+  }
+ },
+ "21e7d9627c": {
+  "instruction": {
+   "loan amount": "15000",
+   "years": "6",
+   "ANSWER": "17,899",
+   "interest rate": "6.0"
+  }
+ },
+ "59c512a355": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "4.2",
+   "loan amount": "8000",
+   "ANSWER": "9811"
+  }
+ },
+ "083b11a247": {
+  "instruction": {
+   "loan amount": "1,200",
+   "years": "3",
+   "ANSWER": "1,256",
+   "interest rate": "3.0"
+  }
+ },
+ "86e7594a47": {
+  "instruction": {
+   "years": "8",
+   "interest rate": "6",
+   "loan amount": "20000",
+   "ANSWER": "25232"
+  }
+ },
+ "f99a39e9b0": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "4.00",
+   "loan amount": "60000",
+   "ANSWER": "72897"
+  }
+ },
+ "d99c6764f8": {
+  "instruction": {
+   "years": "6",
+   "interest rate": "6.5",
+   "loan amount": "12000",
+   "ANSWER": "15421"
+  }
+ },
+ "e5ce9446dc": {
+  "instruction": {
+   "loan amount": "20000",
+   "years": "10",
+   "interest rate": "2.5"
+  }
+ },
+ "761ae3bafd": {
+  "instruction": {
+   "years": "16",
+   "interest rate": "7.45",
+   "loan amount": "60000"
+  }
+ },
+ "d664944810": {
+  "instruction": {
+   "loan amount": "3950",
+   "years": "5",
+   "ANSWER": "4354",
+   "interest rate": "3.9"
+  }
+ },
+ "85139ef3ce": {
+  "instruction": {
+   "years": "15",
+   "interest rate": "7",
+   "loan amount": "50000",
+   "ANSWER": "80895"
+  }
+ },
+ "0e708bad6b": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "3",
+   "ANSWER": "11616",
+   "interest rate": "10"
+  }
+ },
+ "f07b626fa5": {
+  "instruction": {
+   "years": "3",
+   "interest rate": "8",
+   "loan amount": "1000",
+   "ANSWER": "1128"
+  }
+ },
+ "2e5a810701": {
+  "instruction": {
+   "loan amount": "93000",
+   "years": "16",
+   "interest rate": "5.3"
+  }
+ },
+ "a24efab7b3": {
+  "instruction": {
+   "years": "8",
+   "interest rate": "8",
+   "loan amount": "8000",
+   "ANSWER": "10857"
+  }
+ },
+ "7a946f1375": {
+  "instruction": {
+   "loan amount": "35000",
+   "years": "5",
+   "interest rate": "5.0"
+  }
+ },
+ "2f56b862f8": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "10",
+   "ANSWER": "11042",
+   "interest rate": "2"
+  }
+ },
+ "9e58789972": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "5.7",
+   "loan amount": "35000"
+  }
+ },
+ "729ca16347": {
+  "instruction": {
+   "loan amount": "5000",
+   "years": "10",
+   "ANSWER": "5656",
+   "interest rate": "2.5"
+  }
+ },
+ "51781948a3": {
+  "instruction": {
+   "years": "20",
+   "interest rate": "5.85",
+   "loan amount": "50000",
+   "ANSWER": "84937"
+  }
+ },
+ "a2fcd95c03": {
+  "instruction": {
+   "years": "4",
+   "interest rate": "3.3",
+   "loan amount": "2459",
+   "ANSWER": "2628"
+  }
+ },
+ "e04f44f4c4": {
+  "instruction": {
+   "years": "9",
+   "interest rate": "4.5",
+   "loan amount": "212000",
+   "ANSWER": "258,212"
+  }
+ },
+ "de82d96326": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "5.7",
+   "loan amount": "35000",
+   "ANSWER": "45998"
+  }
+ },
+ "9e19f3833c": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "8.00",
+   "loan amount": "45000"
+  }
+ },
+ "2cc470e0ae": {
+  "instruction": {
+   "loan amount": "78000",
+   "years": "7",
+   "ANSWER": "89,558",
+   "interest rate": "4.0"
+  }
+ },
+ "122700c63c": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "10",
+   "ANSWER": "11587",
+   "interest rate": "3"
+  }
+ },
+ "f6bedb48da": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "7.00",
+   "loan amount": "115000",
+   "ANSWER": "136628"
+  }
+ },
+ "6ac584893f": {
+  "instruction": {
+   "years": "6",
+   "interest rate": "3.50",
+   "loan amount": "30000",
+   "ANSWER": "33304"
+  }
+ },
+ "c54f38ace3": {
+  "instruction": {
+   "years": "6",
+   "interest rate": "3.2",
+   "loan amount": "12,000",
+   "ANSWER": "13,205"
+  }
+ },
+ "6f62fdc8ad": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "3.0",
+   "loan amount": "200000",
+   "ANSWER": "231,746"
+  }
+ },
+ "ff62d0e777": {
+  "instruction": {
+   "years": "20",
+   "interest rate": "4.8",
+   "loan amount": "84000"
+  }
+ },
+ "36f29cd70f": {
+  "instruction": {
+   "years": "2",
+   "interest rate": "5",
+   "loan amount": "1000",
+   "ANSWER": "1053"
+  }
+ },
+ "175b0b44cf": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "8",
+   "loan amount": "25000",
+   "ANSWER": "36398"
+  }
+ },
+ "608ed5061b": {
+  "instruction": {
+   "years": "11",
+   "interest rate": "7.0",
+   "loan amount": "113000",
+   "ANSWER": "162,347"
+  }
+ },
+ "2a4be87ec3": {
+  "instruction": {
+   "loan amount": "45000",
+   "years": "10",
+   "interest rate": "8.00"
+  }
+ },
+ "d1c15eafe4": {
+  "instruction": {
+   "loan amount": "28950",
+   "years": "20",
+   "ANSWER": "57684",
+   "interest rate": "7.9"
+  }
+ },
+ "1c6ebe48ea": {
+  "instruction": {
+   "loan amount": "12000",
+   "years": "6",
+   "ANSWER": "15421",
+   "interest rate": "6.5"
+  }
+ },
+ "241e8edbd3": {
+  "instruction": {
+   "loan amount": "5595",
+   "years": "6",
+   "ANSWER": "6488",
+   "interest rate": "5.0"
+  }
+ },
+ "f194aaafdf": {
+  "instruction": {
+   "years": "11",
+   "interest rate": "5.2",
+   "loan amount": "63000",
+   "ANSWER": "82,859"
+  }
+ },
+ "4c7565b610": {
+  "instruction": {
+   "loan amount": "15000",
+   "years": "5",
+   "ANSWER": "17379",
+   "interest rate": "5.95"
+  }
+ },
+ "ae46d7c6f2": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "3",
+   "loan amount": "10000",
+   "ANSWER": "11587"
+  }
+ },
+ "c9b08ed970": {
+  "instruction": {
+   "years": "20",
+   "interest rate": "2.5",
+   "loan amount": "10000",
+   "ANSWER": "11312"
+  }
+ },
+ "7899646a7b": {
+  "instruction": {
+   "loan amount": "5000",
+   "years": "20",
+   "ANSWER": "8086",
+   "interest rate": "5.25"
+  }
+ },
+ "147705689c": {
+  "instruction": {
+   "loan amount": "25000",
+   "years": "10",
+   "ANSWER": "32781",
+   "interest rate": "5.65"
+  }
+ },
+ "86c5e9cb12": {
+  "instruction": {
+   "years": "8",
+   "interest rate": "6.2",
+   "loan amount": "28000",
+   "ANSWER": "35587"
+  }
+ },
+ "bc392d2015": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "5.3",
+   "loan amount": "35000",
+   "ANSWER": "39919"
+  }
+ },
+ "9ec88b6b4b": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "5",
+   "ANSWER": "10781",
+   "interest rate": "3.00"
+  }
+ },
+ "dceced7034": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "3.00",
+   "loan amount": "15000",
+   "ANSWER": "16172"
+  }
+ },
+ "3acfac57a1": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "6",
+   "loan amount": "30000",
+   "ANSWER": "39967"
+  }
+ },
+ "a87ec0dfa3": {
+  "instruction": {
+   "loan amount": "156000",
+   "years": "10",
+   "ANSWER": "230,104",
+   "interest rate": "8.3"
+  }
+ },
+ "82e3299487": {
+  "instruction": {
+   "loan amount": "750",
+   "years": "2",
+   "ANSWER": "772",
+   "interest rate": "2.8"
+  }
+ },
+ "054aacf252": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "7",
+   "loan amount": "55000",
+   "ANSWER": "76632"
+  }
+ },
+ "acbdc6ff94": {
+  "instruction": {
+   "interest rate": "6.3",
+   "years": "5",
+   "loan amount": "10000"
+  }
+ },
+ "82c0c8c818": {
+  "instruction": {
+   "years": "15",
+   "interest rate": "5.75",
+   "loan amount": "40000",
+   "ANSWER": "59790"
+  }
+ },
+ "d4ab3af3e4": {
+  "instruction": {
+   "loan amount": "55000",
+   "years": "10",
+   "ANSWER": "71627",
+   "interest rate": "5.50"
+  }
+ },
+ "e9aae9a036": {
+  "instruction": {
+   "loan amount": "25000",
+   "years": "10",
+   "ANSWER": "33306",
+   "interest rate": "6.00"
+  }
+ },
+ "5534a2c46a": {
+  "instruction": {
+   "years": "7",
+   "interest rate": "7",
+   "loan amount": "20000",
+   "ANSWER": "25356"
+  }
+ },
+ "db8fef2140": {
+  "instruction": {
+   "loan amount": "35000",
+   "years": "5",
+   "ANSWER": "39919",
+   "interest rate": "5.3"
+  }
+ },
+ "90184f59f7": {
+  "instruction": {
+   "loan amount": "70000",
+   "years": "5",
+   "ANSWER": "76217",
+   "interest rate": "3.40"
+  }
+ },
+ "f7074f8634": {
+  "instruction": {
+   "loan amount": "200000",
+   "years": "10",
+   "ANSWER": "231,746",
+   "interest rate": "3.0"
+  }
+ },
+ "646327638c": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "6.5",
+   "loan amount": "30000",
+   "ANSWER": "40877"
+  }
+ },
+ "2f1621c125": {
+  "instruction": {
+   "interest rate": "3.9",
+   "years": "8",
+   "loan amount": "10000"
+  }
+ },
+ "27e737ac52": {
+  "instruction": {
+   "loan amount": "100000",
+   "years": "25",
+   "ANSWER": "181549",
+   "interest rate": "5.35"
+  }
+ },
+ "f358395e20": {
+  "instruction": {
+   "loan amount": "5000",
+   "years": "10",
+   "interest rate": "2.5"
+  }
+ },
+ "8d94c5f153": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "8",
+   "interest rate": "6.0"
+  }
+ },
+ "34f201695b": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "3.5",
+   "loan amount": "21000"
+  }
+ },
+ "3f0cfba052": {
+  "instruction": {
+   "years": "20",
+   "interest rate": "8.2",
+   "loan amount": "16650",
+   "ANSWER": "33923"
+  }
+ },
+ "8cd05a5a3c": {
+  "instruction": {
+   "loan amount": "17000",
+   "years": "9",
+   "interest rate": "8.1"
+  }
+ },
+ "cdf23d01b6": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "3.00",
+   "loan amount": "10000",
+   "ANSWER": "10781"
+  }
+ },
+ "e7700f7a53": {
+  "instruction": {
+   "loan amount": "45000",
+   "years": "10",
+   "ANSWER": "58604",
+   "interest rate": "5.50"
+  }
+ },
+ "bc34a1266b": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "10",
+   "ANSWER": "15858",
+   "interest rate": "10"
+  }
+ },
+ "4ba23d443e": {
+  "instruction": {
+   "loan amount": "4089",
+   "years": "5",
+   "ANSWER": "4485",
+   "interest rate": "3.7"
+  }
+ },
+ "ada819c39b": {
+  "instruction": {
+   "loan amount": "40000",
+   "years": "5",
+   "ANSWER": "48663",
+   "interest rate": "8"
+  }
+ },
+ "907821f42f": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "2",
+   "loan amount": "10000",
+   "ANSWER": "11042"
+  }
+ },
+ "8db38342a5": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "2.5",
+   "loan amount": "5000",
+   "ANSWER": "5324"
+  }
+ },
+ "7b292a31d7": {
+  "instruction": {
+   "loan amount": "67,000",
+   "years": "11",
+   "ANSWER": "86,368",
+   "interest rate": "4.8"
+  }
+ },
+ "4ccb7b708a": {
+  "instruction": {
+   "loan amount": "65000",
+   "years": "5",
+   "ANSWER": "68,358",
+   "interest rate": "2.0"
+  }
+ },
+ "c2b76c1b6d": {
+  "instruction": {
+   "loan amount": "25000",
+   "years": "5",
+   "ANSWER": "27,490",
+   "interest rate": "3.8"
+  }
+ },
+ "b96371156b": {
+  "instruction": {
+   "loan amount": "29,000",
+   "years": "8",
+   "ANSWER": "33,163",
+   "interest rate": "3.4"
+  }
+ },
+ "476de5b587": {
+  "instruction": {
+   "years": "25",
+   "interest rate": "5.35",
+   "loan amount": "100000",
+   "ANSWER": "181549"
+  }
+ },
+ "91a230eaff": {
+  "instruction": {
+   "loan amount": "9000",
+   "years": "4",
+   "interest rate": "3.2"
+  }
+ },
+ "9d66207357": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "5.65",
+   "loan amount": "25000",
+   "ANSWER": "32781"
+  }
+ },
+ "b0bc8ec3e6": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "8",
+   "interest rate": "3.9"
+  }
+ },
+ "b2ae918cd9": {
+  "instruction": {
+   "loan amount": "60000",
+   "years": "16",
+   "interest rate": "7.45"
+  }
+ },
+ "e0db02f5a1": {
+  "instruction": {
+   "loan amount": "20000",
+   "years": "7",
+   "ANSWER": "25356",
+   "interest rate": "7"
+  }
+ },
+ "9c5631a7b8": {
+  "instruction": {
+   "years": "25",
+   "interest rate": "5.85",
+   "loan amount": "200000",
+   "ANSWER": "381098"
+  }
+ },
+ "16c979b8d7": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "2",
+   "ANSWER": "10529",
+   "interest rate": "5"
+  }
+ },
+ "b01601f12f": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "3.7",
+   "loan amount": "4089",
+   "ANSWER": "4485"
+  }
+ },
+ "483e3e9966": {
+  "instruction": {
+   "loan amount": "37152",
+   "years": "10",
+   "ANSWER": "49945",
+   "interest rate": "6.2"
+  }
+ },
+ "83b142ab26": {
+  "instruction": {
+   "years": "8",
+   "interest rate": "6.4",
+   "loan amount": "7895",
+   "ANSWER": "10108"
+  }
+ },
+ "d447a6bc61": {
+  "instruction": {
+   "loan amount": "2,500",
+   "years": "4",
+   "ANSWER": "2,683",
+   "interest rate": "3.5"
+  }
+ },
+ "7744decda5": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "5.5",
+   "loan amount": "20000",
+   "ANSWER": "26046"
+  }
+ },
+ "450c6b0e00": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "6.2",
+   "loan amount": "50000",
+   "ANSWER": "67217"
+  }
+ },
+ "fe25bec860": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "5.3",
+   "loan amount": "8000",
+   "ANSWER": "10324"
+  }
+ },
+ "7f8f80e4ea": {
+  "instruction": {
+   "loan amount": "84000",
+   "years": "20",
+   "interest rate": "4.8"
+  }
+ },
+ "28aa9885f2": {
+  "instruction": {
+   "loan amount": "10000",
+   "years": "20",
+   "ANSWER": "11312",
+   "interest rate": "2.5"
+  }
+ },
+ "2526e17e01": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "2.5",
+   "loan amount": "5000",
+   "ANSWER": "5656"
+  }
+ },
+ "7f3addc8b5": {
+  "instruction": {
+   "years": "10",
+   "interest rate": "6.2",
+   "loan amount": "37152",
+   "ANSWER": "49945"
+  }
+ },
+ "1e8e3f90c4": {
+  "instruction": {
+   "loan amount": "28000",
+   "years": "8",
+   "ANSWER": "35587",
+   "interest rate": "6.2"
+  }
+ },
+ "7795ffba64": {
+  "instruction": {
+   "interest rate": "5.0",
+   "years": "5",
+   "loan amount": "35000"
+  }
+ },
+ "3e75125e4b": {
+  "instruction": {
+   "loan amount": "40000",
+   "years": "15",
+   "ANSWER": "59790",
+   "interest rate": "5.75"
+  }
+ },
+ "9944314ff5": {
+  "instruction": {
+   "years": "20",
+   "interest rate": "5.25",
+   "loan amount": "5000",
+   "ANSWER": "8086"
+  }
+ },
+ "6e62d075e4": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "3",
+   "loan amount": "10000",
+   "ANSWER": "10781"
+  }
+ },
+ "512bd2fd42": {
+  "instruction": {
+   "loan amount": "8000",
+   "years": "10",
+   "ANSWER": "10324",
+   "interest rate": "5.3"
+  }
+ },
+ "10824c4b72": {
+  "instruction": {
+   "loan amount": "30000",
+   "years": "10",
+   "ANSWER": "40877",
+   "interest rate": "6.5"
+  }
+ },
+ "9ad7a93dfe": {
+  "instruction": {
+   "interest rate": "3.8",
+   "years": "7",
+   "loan amount": "5000"
+  }
+ },
+ "19781c4229": {
+  "instruction": {
+   "loan amount": "25000",
+   "years": "10",
+   "ANSWER": "36398",
+   "interest rate": "8"
+  }
+ },
+ "a432d5c585": {
+  "instruction": {
+   "years": "5",
+   "interest rate": "7.5",
+   "loan amount": "25000",
+   "ANSWER": "30057"
+  }
+ }
+}

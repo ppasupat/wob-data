@@ -1,0 +1,62 @@
+{
+ "533af89c2b": {
+  "instruction": {
+   "price": "50",
+   "cleanser": "Purity Made Simple One-Step Facial Cleanser"
+  }
+ },
+ "3fe573c790": {
+  "instruction": {
+   "price": "50",
+   "cleanser": "Acne Complex Clarifying Cleanser"
+  }
+ },
+ "4ad047b7b7": {
+  "instruction": {
+   "price": "45",
+   "cleanser": "The Microdelivery Exfoliating Wash"
+  }
+ },
+ "59f488e0fd": {
+  "instruction": {
+   "price": "45",
+   "cleanser": "Pure Plush Gentle Deep Cleansing Foam"
+  }
+ },
+ "527be6f647": {
+  "instruction": {
+   "price": "50",
+   "cleanser": "SkinActive Micellar Cleansing Water All-in-1 Cleanser & Waterproof Makeup Remover"
+  }
+ },
+ "81c8ee3e55": {
+  "instruction": {
+   "price": "40",
+   "cleanser": "Professional Pro-X Advanced Cleansing System"
+  }
+ },
+ "70401f1b17": {
+  "instruction": {
+   "price": "45",
+   "cleanser": "Special Cleansing Gel"
+  }
+ },
+ "afc7acc0c5": {
+  "instruction": {
+   "price": "40",
+   "cleanser": "CLINIQUE Take The Day Off Cleansing Balm"
+  }
+ },
+ "1631ce7ab2": {
+  "instruction": {
+   "price": "30",
+   "cleanser": "BENEFIT COSMETICS Foamingly Clean Facial Wash"
+  }
+ },
+ "da31a21a6e": {
+  "instruction": {
+   "price": "40",
+   "cleanser": "GARNIER SkinActive Micellar Cleansing Water All-in-1 Cleanser & Makeup "
+  }
+ }
+}

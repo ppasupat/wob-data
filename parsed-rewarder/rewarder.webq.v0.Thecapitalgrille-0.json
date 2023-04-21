@@ -1,0 +1,1228 @@
+{
+ "6bf4d1141e": {
+  "instruction": {
+   "state": "California",
+   "this restaurant": "capital grill",
+   "ANSWER": "Costa Mesa"
+  }
+ },
+ "cb5a8fae9b": {
+  "instruction": {
+   "state": "Arizona",
+   "this restaurant": "capital grill"
+  }
+ },
+ "2f8932025b": {
+  "instruction": {
+   "state": "Pennsylvania",
+   "this restaurant": "capital grill",
+   "ANSWER": "King of Prussia, Philadelphia, & Pittsburgh"
+  }
+ },
+ "17b1d34c30": {
+  "instruction": {
+   "state": "Tennessee",
+   "this restaurant": "capital grill",
+   "ANSWER": "Memphis"
+  }
+ },
+ "7119e8fc1b": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Phoenix, Scottsdale",
+   "state": "ARIZONA"
+  }
+ },
+ "eb714eb668": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Cincinnati & Cleveland",
+   "state": "Ohio"
+  }
+ },
+ "9fd2905409": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "state": "Arizona"
+  }
+ },
+ "e2c3007ba5": {
+  "instruction": {
+   "state": "Indiana",
+   "this restaurant": "capital grill",
+   "ANSWER": "Indianapolis"
+  }
+ },
+ "a4a2547f6e": {
+  "instruction": {
+   "state": "Washington",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "1301 4th Ave Seattle, WA  98101"
+  }
+ },
+ "58c7d44623": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Denver",
+   "state": "COLORADO"
+  }
+ },
+ "1e48bba3c8": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "2800 West Big Beaver Rd Troy, MI  48084",
+   "state": "Michigan"
+  }
+ },
+ "0579ac8a22": {
+  "instruction": {
+   "state": "Ohio",
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "25389 Cedar Road Lyndhurst, OH  44124"
+  }
+ },
+ "d818806451": {
+  "instruction": {
+   "state": "Connecticut",
+   "this restaurant": "capital grill",
+   "ANSWER": "Hartford and Stamford"
+  }
+ },
+ "b59f6d395e": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Chicago",
+   "state": "Illinois"
+  }
+ },
+ "d95adfdd5f": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "state": "Georgia"
+  }
+ },
+ "03a601098e": {
+  "instruction": {
+   "state": "Rhode Island",
+   "this restaurant": "capital grill",
+   "ANSWER": "Providence"
+  }
+ },
+ "28fad9f01d": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Providence",
+   "state": "Rhode Island"
+  }
+ },
+ "72a67f9bdf": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Minneapolis",
+   "state": "Minnesota"
+  }
+ },
+ "fda77ec2b6": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Indianapolis",
+   "state": "INDIANA"
+  }
+ },
+ "64c5b0cab3": {
+  "instruction": {
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Milwaukee",
+   "state": "Wisconsin"
+  }
+ },
+ "d1fb46f7cc": {
+  "instruction": {
+   "state": "Wisconsin",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "310 W Wisconsin Ave, Milwaukee, WI 53203"
+  }
+ },
+ "cfc7af6cbb": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Minneapolis",
+   "state": "MINNESOTA"
+  }
+ },
+ "728e359ccf": {
+  "instruction": {
+   "state": "Wisconsin",
+   "this restaurant": "capital grill",
+   "ANSWER": "Milwaukee"
+  }
+ },
+ "d2b995045e": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Providence",
+   "state": "RHODE ISLAND"
+  }
+ },
+ "4a41bd9c26": {
+  "instruction": {
+   "state": "Wisconsin",
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Milwaukee"
+  }
+ },
+ "2b1f99a450": {
+  "instruction": {
+   "state": "MISSOURI",
+   "this restaurant": "capital grill",
+   "ANSWER": "Kansas City"
+  }
+ },
+ "641b4fe807": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Denver",
+   "state": "Colorado"
+  }
+ },
+ "ff2f062648": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Baltimore, Chevy Chase",
+   "state": "MARYLAND"
+  }
+ },
+ "0fb19aa07a": {
+  "instruction": {
+   "state": "Washington DC",
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "601 Pennsylvania Ave NW Washington, DC  20004"
+  }
+ },
+ "8214fa6ba0": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "state": "Indiana"
+  }
+ },
+ "d8201ba14c": {
+  "instruction": {
+   "state": "Nevada",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "3200 S Las Vegas Blvd, Las Vegas, NV 89109"
+  }
+ },
+ "0bf231139f": {
+  "instruction": {
+   "state": "Wisconsin",
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "310 W Wisconsin Ave Milwaukee, WI  53203"
+  }
+ },
+ "7dcd105ce7": {
+  "instruction": {
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Denver",
+   "state": "Colorado"
+  }
+ },
+ "5ac39ff5e1": {
+  "instruction": {
+   "state": "Indiana",
+   "this restaurant": "capital grill"
+  }
+ },
+ "910746538c": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "3200 S Las Vegas Blvd, Las Vegas, NV 89109",
+   "state": "Nevada"
+  }
+ },
+ "1c1385d3b6": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "3333 Bristol St. Costa Mesa, CA  92626",
+   "state": "California"
+  }
+ },
+ "ec95affd41": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Kansas City",
+   "state": "Missouri"
+  }
+ },
+ "0e7d08b05f": {
+  "instruction": {
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Troy",
+   "state": "Michigan"
+  }
+ },
+ "2e5ef938a7": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "16489 N Scottsdale Rd, Scottsdale, AZ 85254",
+   "state": "Arizona"
+  }
+ },
+ "f47269a4c5": {
+  "instruction": {
+   "state": "Rhode Island",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "10 Memorial Blvd, Providence, RI 02903"
+  }
+ },
+ "fef5c930cb": {
+  "instruction": {
+   "state": "Rhode Island",
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "10 Memorial Blvd Providence, RI  02903"
+  }
+ },
+ "a8b540d4aa": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Kansas City",
+   "state": "MISSOURI"
+  }
+ },
+ "711cbf5009": {
+  "instruction": {
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Kansas City",
+   "state": "Missouri"
+  }
+ },
+ "a295c10e94": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "10 Memorial Blvd, Providence, RI 02903",
+   "state": "Rhode Island"
+  }
+ },
+ "6c163b4ce1": {
+  "instruction": {
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Costa Mesa",
+   "state": "California"
+  }
+ },
+ "c3edf1bead": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Chicago - Downtown, Chicago - Lombard, Chicago - Rosemont",
+   "state": "ILLINOIS"
+  }
+ },
+ "105491b6af": {
+  "instruction": {
+   "state": "Missouri",
+   "this restaurant": "capital grill",
+   "ANSWER": "Kansas City"
+  }
+ },
+ "bafc53cd95": {
+  "instruction": {
+   "state": "ARIZONA",
+   "this restaurant": "capital grill",
+   "ANSWER": "Phoenix, Scottsdale"
+  }
+ },
+ "7ca2fd203c": {
+  "instruction": {
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Cherry Hill, Paramus",
+   "state": "New Jersey"
+  }
+ },
+ "92f08b3476": {
+  "instruction": {
+   "state": "Missouri",
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Kansas City"
+  }
+ },
+ "238aaec6c8": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "state": "Michigan"
+  }
+ },
+ "b58c3f279a": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Tysons Corner",
+   "state": "Virginia"
+  }
+ },
+ "11ad5c5477": {
+  "instruction": {
+   "state": "Nevada",
+   "this restaurant": "capital grill",
+   "ANSWER": "Las Vegas"
+  }
+ },
+ "907fc9818b": {
+  "instruction": {
+   "state": "Minnasota",
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "801 Hennepin Ave Minneapolis, MN  55402"
+  }
+ },
+ "c97187e5e6": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Milwaukee",
+   "state": "WISCONSIN"
+  }
+ },
+ "82b203ab9a": {
+  "instruction": {
+   "state": "Arizona",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "16489 N Scottsdale Rd, Scottsdale, AZ 85254"
+  }
+ },
+ "93242fb3ba": {
+  "instruction": {
+   "state": "Ohio",
+   "this restaurant": "capital grill",
+   "ANSWER": "Cincinnati & Cleveland"
+  }
+ },
+ "95c704e7a3": {
+  "instruction": {
+   "state": "MASSACHUSETTS",
+   "this restaurant": "capital grill",
+   "ANSWER": "Boston, Burlington, Chestnut Hill"
+  }
+ },
+ "699985a4b0": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Las Vegas",
+   "state": "NEVADA"
+  }
+ },
+ "75068b401a": {
+  "instruction": {
+   "state": "California",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "3333 Bristol St. Costa Mesa, CA  92626"
+  }
+ },
+ "14fbb2cf1e": {
+  "instruction": {
+   "state": "Illinois",
+   "this restaurant": "capital grill"
+  }
+ },
+ "bccad83b9a": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Hartford and Stamford",
+   "state": "Connecticut"
+  }
+ },
+ "399292119d": {
+  "instruction": {
+   "state": "Colorado",
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Denver"
+  }
+ },
+ "56b7bbe82c": {
+  "instruction": {
+   "state": "OHIO",
+   "this restaurant": "capital grill",
+   "ANSWER": "Cincinnati, Lyndhurst"
+  }
+ },
+ "aeca17ef1e": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "1450 Larimer Street Denver, CO  80202",
+   "state": "Colorado"
+  }
+ },
+ "326fd00f9c": {
+  "instruction": {
+   "state": "Rhode Island",
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Providence"
+  }
+ },
+ "1192391390": {
+  "instruction": {
+   "state": "Arizona",
+   "this restaurant": "capital grill",
+   "ANSWER": "Phoenix and Scottsdale"
+  }
+ },
+ "443c36cebb": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Costa Mesa",
+   "state": "CALIFORNIA"
+  }
+ },
+ "77f504d468": {
+  "instruction": {
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "3200 Las Vegas Blvd South Las Vegas, NV  89109",
+   "state": "Nevada"
+  }
+ },
+ "7829a3a8e4": {
+  "instruction": {
+   "state": "Virginia",
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Tysons Corner"
+  }
+ },
+ "e4005aad0c": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Phoenix and Scottsdale",
+   "state": "Arizona"
+  }
+ },
+ "ac8100c179": {
+  "instruction": {
+   "state": "Ohio",
+   "this restaurant": "capital grill"
+  }
+ },
+ "58668e92cc": {
+  "instruction": {
+   "state": "Colorado",
+   "this restaurant": "capital grill",
+   "ANSWER": "Denver"
+  }
+ },
+ "b349f94653": {
+  "instruction": {
+   "state": "Virginia",
+   "this restaurant": "capital grill"
+  }
+ },
+ "c4c91ada9f": {
+  "instruction": {
+   "state": "New Jersey",
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Cherry Hill, Paramus"
+  }
+ },
+ "e5437d1629": {
+  "instruction": {
+   "state": "MINNESOTA",
+   "this restaurant": "capital grill",
+   "ANSWER": "Minneapolis"
+  }
+ },
+ "5ba9569272": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "state": "Washngton"
+  }
+ },
+ "b960006df0": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Troy",
+   "state": "Michigan"
+  }
+ },
+ "23ef208a18": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "310 W Wisconsin Ave, Milwaukee, WI 53203",
+   "state": "Wisconsin"
+  }
+ },
+ "f9158e49cf": {
+  "instruction": {
+   "state": "Virginia",
+   "this restaurant": "capital grill",
+   "ANSWER": "Tysons Corner"
+  }
+ },
+ "fccb730a1c": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "state": "Virginia"
+  }
+ },
+ "0328cdcf6f": {
+  "instruction": {
+   "state": "NEVADA",
+   "this restaurant": "capital grill",
+   "ANSWER": "Las Vegas"
+  }
+ },
+ "9ed89039bb": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Boston, Burlington, Chestnut Hill",
+   "state": "MASSACHUSETTS"
+  }
+ },
+ "e6efe24b01": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "Tysons Corner, 1861 International Drive Mclean, VA  22102",
+   "state": "Virginia"
+  }
+ },
+ "389f6f94ec": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Indianapolis",
+   "state": "Indiana"
+  }
+ },
+ "d81bca57c5": {
+  "instruction": {
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "6065 Poplar Ave Memphis, TN  38119",
+   "state": "Tennesee"
+  }
+ },
+ "ece45d2600": {
+  "instruction": {
+   "state": "Nevada",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "3200 Las Vegas Blvd South Las Vegas, NV  89109"
+  }
+ },
+ "5c9551326b": {
+  "instruction": {
+   "this restaurant": "Capital Grille",
+   "ANSWER": "King of Prussia, Philadelphia, Pittsburgh",
+   "state": "Pennsylvania"
+  }
+ },
+ "2df7589a49": {
+  "instruction": {
+   "state": "CONNECTICUT",
+   "this restaurant": "capital grill",
+   "ANSWER": "Hartford, Stamford"
+  }
+ },
+ "e72c752815": {
+  "instruction": {
+   "state": "Maryland",
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Baltimore"
+  }
+ },
+ "2cd566da85": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "310 W Wisconsin Ave Milwaukee, WI  53203                                                                                                                          Milwaukee, WI  53203",
+   "state": "Wisconsin"
+  }
+ },
+ "63170d87ac": {
+  "instruction": {
+   "state": "WISCONSIN",
+   "this restaurant": "capital grill",
+   "ANSWER": "Milwaukee"
+  }
+ },
+ "90f5abb909": {
+  "instruction": {
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Las Vegas",
+   "state": "Nevada"
+  }
+ },
+ "09c9c14154": {
+  "instruction": {
+   "state": "Tennessee",
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Memphis"
+  }
+ },
+ "05c9f8c0bd": {
+  "instruction": {
+   "state": "New York",
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Garden City, NYC-Chrysler Center, NYC-Wall Street, NYC Time-Life Building"
+  }
+ },
+ "a2d68341a3": {
+  "instruction": {
+   "state": "Michigan",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "2800 West Big Beaver Rd Troy, MI  48084"
+  }
+ },
+ "3c9df5baea": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Memphis",
+   "state": "Tennessee"
+  }
+ },
+ "90a3ae63d5": {
+  "instruction": {
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Memphis",
+   "state": "Tennessee"
+  }
+ },
+ "23584ddf7b": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Hartford, Stamford",
+   "state": "CONNECTICUT"
+  }
+ },
+ "a7b37118bb": {
+  "instruction": {
+   "state": "Pennsylvania",
+   "this restaurant": "Capital Grille",
+   "ANSWER": "King of Prussia, Philadelphia, Pittsburgh"
+  }
+ },
+ "81ccbf1d12": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "6065 Poplar Ave, Memphis, TN 38119",
+   "state": "Tennessee"
+  }
+ },
+ "4edef9aee0": {
+  "instruction": {
+   "state": "Virginia",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "Tysons Corner, 1861 International Drive Mclean, VA  22102"
+  }
+ },
+ "4eb41fbb2b": {
+  "instruction": {
+   "state": "Massachusetts",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "10 Wayside Rd, Burlington, MA 01803"
+  }
+ },
+ "7b72b0d3bd": {
+  "instruction": {
+   "state": "Nevada",
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "3200 Las Vegas Blvd South Las Vegas, NV  89109"
+  }
+ },
+ "25e5bdba10": {
+  "instruction": {
+   "state": "DISTRICT OF COLUMBIA",
+   "this restaurant": "capital grill",
+   "ANSWER": "Washington, D.C."
+  }
+ },
+ "8f9ee33f85": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Costa Mesa",
+   "state": "California"
+  }
+ },
+ "4b4239deb4": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Memphis",
+   "state": "TENNESSEE"
+  }
+ },
+ "d157d9b309": {
+  "instruction": {
+   "state": "Minnesota",
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Minneapolis"
+  }
+ },
+ "63eeea8beb": {
+  "instruction": {
+   "state": "Tennessee",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "6065 Poplar Ave, Memphis, TN 38119"
+  }
+ },
+ "e7fd248422": {
+  "instruction": {
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "1861 International Drive Mclean, VA  22102",
+   "state": "Virgina"
+  }
+ },
+ "335cd9a64c": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "3333 Bristol St, Costa Mesa, CA 92626",
+   "state": "California"
+  }
+ },
+ "d9a9a90ce7": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Cherry Hill, Paramus",
+   "state": "NEW JERSEY"
+  }
+ },
+ "7a64bff204": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "1301 4th Ave Seattle, WA  98101",
+   "state": "Washington"
+  }
+ },
+ "ec91022026": {
+  "instruction": {
+   "state": "Minnesota",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "801 Hennepin Ave Minneapolis, MN  55402"
+  }
+ },
+ "721ad30d95": {
+  "instruction": {
+   "state": "Maryland",
+   "this restaurant": "capital grill"
+  }
+ },
+ "9b7ddb998c": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "801 Hennepin Ave Minneapolis, MN  55402",
+   "state": "Minnesota"
+  }
+ },
+ "cd743a0a02": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "10 Memorial Blvd Providence, RI  02903",
+   "state": "Rhode Island"
+  }
+ },
+ "4522a33720": {
+  "instruction": {
+   "state": "Ohio",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "3821 Edwards Rd, Cincinnati, OH 45209"
+  }
+ },
+ "58240b05ec": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "3821 Edwards Rd, Cincinnati, OH 45209",
+   "state": "Ohio"
+  }
+ },
+ "3ddd19bff3": {
+  "instruction": {
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Minneapolis",
+   "state": "Minnesota"
+  }
+ },
+ "da6af6d915": {
+  "instruction": {
+   "state": "Colorado",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "1450 Larimer St, Denver, CO 80202"
+  }
+ },
+ "99c3b100dc": {
+  "instruction": {
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Garden City, NYC-Chrysler Center, NYC-Wall Street, NYC Time-Life Building",
+   "state": "New York"
+  }
+ },
+ "a7dd7cbea1": {
+  "instruction": {
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Tysons Corner",
+   "state": "Virginia"
+  }
+ },
+ "be20d0279f": {
+  "instruction": {
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "801 Hennepin Ave Minneapolis, MN  55402",
+   "state": "Minnasota"
+  }
+ },
+ "84fc8c221d": {
+  "instruction": {
+   "state": "Nevada",
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Las Vegas"
+  }
+ },
+ "017db879c5": {
+  "instruction": {
+   "state": "Michigan",
+   "this restaurant": "capital grill"
+  }
+ },
+ "c90ad417c6": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "state": "Texas"
+  }
+ },
+ "1d752dcfe5": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "1450 Larimer St, Denver, CO 80202",
+   "state": "Colorado"
+  }
+ },
+ "ce9fecae26": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "10 Wayside Rd, Burlington, MA 01803",
+   "state": "Massachusetts"
+  }
+ },
+ "bd5dcdf6ad": {
+  "instruction": {
+   "state": "INDIANA",
+   "this restaurant": "capital grill",
+   "ANSWER": "Indianapolis"
+  }
+ },
+ "ad8b6c9d4a": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "state": "Maryland"
+  }
+ },
+ "220a6dc498": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Milwaukee",
+   "state": "Wisconsin"
+  }
+ },
+ "0e38b753d4": {
+  "instruction": {
+   "state": "Michigan",
+   "this restaurant": "capital grill",
+   "ANSWER": "Troy"
+  }
+ },
+ "80a52cd14d": {
+  "instruction": {
+   "state": "Ohio",
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "3821 Edwards Road Cincinnati, OH  45209"
+  }
+ },
+ "c83f50ea9c": {
+  "instruction": {
+   "state": "CALIFORNIA",
+   "this restaurant": "capital grill",
+   "ANSWER": "Costa Mesa"
+  }
+ },
+ "fb287b4f52": {
+  "instruction": {
+   "state": "Minnesota",
+   "this restaurant": "capital grill",
+   "ANSWER": "Minneapolis"
+  }
+ },
+ "7410dffd66": {
+  "instruction": {
+   "state": "Illinois",
+   "this restaurant": "capital grill",
+   "ANSWER": "Chicago"
+  }
+ },
+ "866b4cbb0a": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Las Vegas",
+   "state": "Nevada"
+  }
+ },
+ "4234eb91d7": {
+  "instruction": {
+   "state": "WASHINGTON",
+   "this restaurant": "capital grill",
+   "ANSWER": "Seattle"
+  }
+ },
+ "36fd77512c": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Seattle",
+   "state": "WASHINGTON"
+  }
+ },
+ "8f63efdbc3": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Cincinnati, Lyndhurst",
+   "state": "OHIO"
+  }
+ },
+ "f77cacd711": {
+  "instruction": {
+   "state": "Michigan",
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Troy"
+  }
+ },
+ "78d9361603": {
+  "instruction": {
+   "state": "Minnesota",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "801 Hennepin Ave, Minneapolis, MN 55402"
+  }
+ },
+ "b29a0f66a9": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "801 Hennepin Ave, Minneapolis, MN 55402",
+   "state": "Minnesota"
+  }
+ },
+ "fda62c6621": {
+  "instruction": {
+   "state": "Wisconsin",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "310 W Wisconsin Ave Milwaukee, WI  53203                                                                                                                          Milwaukee, WI  53203"
+  }
+ },
+ "bc7ed7596c": {
+  "instruction": {
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "310 W Wisconsin Ave Milwaukee, WI  53203",
+   "state": "Wisconsin"
+  }
+ },
+ "a5724e6cdc": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "6065 Poplar Ave Memphis, TN  38119",
+   "state": "Tennessee"
+  }
+ },
+ "6c4a4decca": {
+  "instruction": {
+   "this restaurant": "Capital Grill",
+   "ANSWER": "3200 Las Vegas Blvd South Las Vegas, NV  89109",
+   "state": "Nevada"
+  }
+ },
+ "01276f5768": {
+  "instruction": {
+   "state": "Rhode Island",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "10 Memorial Blvd Providence, RI  02903"
+  }
+ },
+ "702392cc1d": {
+  "instruction": {
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "3821 Edwards Road Cincinnati, OH  45209",
+   "state": "Ohio"
+  }
+ },
+ "8c76b68b97": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "state": "Illinois"
+  }
+ },
+ "74b55112ef": {
+  "instruction": {
+   "state": "NEW JERSEY",
+   "this restaurant": "capital grill",
+   "ANSWER": "Cherry Hill, Paramus"
+  }
+ },
+ "c0d9270071": {
+  "instruction": {
+   "state": "California",
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Costa Mesa"
+  }
+ },
+ "34ce5ebbd5": {
+  "instruction": {
+   "state": "MARYLAND",
+   "this restaurant": "capital grill",
+   "ANSWER": "Baltimore, Chevy Chase"
+  }
+ },
+ "d898b2564f": {
+  "instruction": {
+   "state": "New Jersey",
+   "this restaurant": "capital grill",
+   "ANSWER": "Paramus & Cherry Hill"
+  }
+ },
+ "aa8a1de0ac": {
+  "instruction": {
+   "state": "Georgia",
+   "this restaurant": "capital grill"
+  }
+ },
+ "08b97ba6c3": {
+  "instruction": {
+   "state": "Virgina",
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "1861 International Drive Mclean, VA  22102"
+  }
+ },
+ "5433fabb19": {
+  "instruction": {
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "25389 Cedar Road Lyndhurst, OH  44124",
+   "state": "Ohio"
+  }
+ },
+ "dee1543feb": {
+  "instruction": {
+   "state": "California",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "3333 Bristol St, Costa Mesa, CA 92626"
+  }
+ },
+ "0c8867a9e4": {
+  "instruction": {
+   "state": "ILLINOIS",
+   "this restaurant": "capital grill",
+   "ANSWER": "Chicago - Downtown, Chicago - Lombard, Chicago - Rosemont"
+  }
+ },
+ "b5e60addd7": {
+  "instruction": {
+   "state": "Colorado",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "1450 Larimer Street Denver, CO  80202"
+  }
+ },
+ "8d997bba0b": {
+  "instruction": {
+   "state": "RHODE ISLAND",
+   "this restaurant": "capital grill",
+   "ANSWER": "Providence"
+  }
+ },
+ "0462befab8": {
+  "instruction": {
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Baltimore",
+   "state": "Maryland"
+  }
+ },
+ "e040f0b0c5": {
+  "instruction": {
+   "state": "Washngton",
+   "this restaurant": "capital grill"
+  }
+ },
+ "b6bf11a69e": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Washington, D.C.",
+   "state": "DISTRICT OF COLUMBIA"
+  }
+ },
+ "c81ffbbd94": {
+  "instruction": {
+   "state": "TENNESSEE",
+   "this restaurant": "capital grill",
+   "ANSWER": "Memphis"
+  }
+ },
+ "2e4b522d1c": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "Paramus & Cherry Hill",
+   "state": "New Jersey"
+  }
+ },
+ "3a2e7a91ba": {
+  "instruction": {
+   "state": "Texas",
+   "this restaurant": "capital grill"
+  }
+ },
+ "f9f9eb3e84": {
+  "instruction": {
+   "state": "COLORADO",
+   "this restaurant": "capital grill",
+   "ANSWER": "Denver"
+  }
+ },
+ "37aea6d835": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "ANSWER": "King of Prussia, Philadelphia, & Pittsburgh",
+   "state": "Pennsylvania"
+  }
+ },
+ "60ac7812d8": {
+  "instruction": {
+   "this restaurant": "Capital Grille",
+   "ANSWER": "Providence",
+   "state": "Rhode Island"
+  }
+ },
+ "a52786368c": {
+  "instruction": {
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "10 Memorial Blvd Providence, RI  02903",
+   "state": "Rhode Island"
+  }
+ },
+ "d4d88e9247": {
+  "instruction": {
+   "this restaurant": "capital grill",
+   "state": "Ohio"
+  }
+ },
+ "17363a6564": {
+  "instruction": {
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "3333 Bristol St. Costa Mesa, CA  92626",
+   "state": "California"
+  }
+ },
+ "2a31978674": {
+  "instruction": {
+   "state": "California",
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "3333 Bristol St. Costa Mesa, CA  92626"
+  }
+ },
+ "c6fa3e6ff0": {
+  "instruction": {
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "601 Pennsylvania Ave NW Washington, DC  20004",
+   "state": "Washington DC"
+  }
+ },
+ "916057acf6": {
+  "instruction": {
+   "state": "Tennessee",
+   "this restaurant": "Capital Grill",
+   "ANSWER": "6065 Poplar Ave Memphis, TN  38119"
+  }
+ },
+ "6b6983d4f5": {
+  "instruction": {
+   "state": "Tennesee",
+   "this restaurant": "The Capital Grille",
+   "ANSWER": "6065 Poplar Ave Memphis, TN  38119"
+  }
+ }
+}

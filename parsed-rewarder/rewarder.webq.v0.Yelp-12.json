@@ -1,0 +1,62 @@
+{
+ "efd5168ab9": {
+  "instruction": {
+   "type of food": "Italian",
+   "specific city": "Sacramento, California"
+  }
+ },
+ "8d8cd6eff7": {
+  "instruction": {
+   "type of food": "Seafood",
+   "specific city": "San Francisco, California"
+  }
+ },
+ "578415eed5": {
+  "instruction": {
+   "type of food": "Basque",
+   "specific city": "Orlando, Florida"
+  }
+ },
+ "886adaa70c": {
+  "instruction": {
+   "type of food": "Mexican",
+   "specific city": "Austin, Texas"
+  }
+ },
+ "5fe4e1c99d": {
+  "instruction": {
+   "type of food": "Barbeque",
+   "specific city": "Los Angeles, California"
+  }
+ },
+ "7ce611678a": {
+  "instruction": {
+   "type of food": "American",
+   "specific city": "Bakersfield, California"
+  }
+ },
+ "9d2396e757": {
+  "instruction": {
+   "type of food": "Thai",
+   "specific city": "Dallas, Texas"
+  }
+ },
+ "68a9b8cf4d": {
+  "instruction": {
+   "type of food": "Chinese",
+   "specific city": "Dallas, Texas"
+  }
+ },
+ "032bb1cd94": {
+  "instruction": {
+   "type of food": "Vegan",
+   "specific city": "Los Angeles, California"
+  }
+ },
+ "9a0bd62bfc": {
+  "instruction": {
+   "type of food": "Mongolian",
+   "specific city": "Santa Clarita, California"
+  }
+ }
+}

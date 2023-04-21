@@ -1,0 +1,1252 @@
+{
+ "c8dbbd6734": {
+  "instruction": {
+   "movie": "Fist Fight",
+   "where": "Regal McCain Mall Stadium 12",
+   "date": "2/20/2017",
+   "ANSWER": "Regal McCain Mall Stadium 12 is Fist Fight playing on 2/20/2017"
+  }
+ },
+ "117e022643": {
+  "instruction": {
+   "movie": "50 Shades Darker",
+   "where": "Regal Stark Street Stadium 10",
+   "date": "2/19/2017",
+   "ANSWER": "7:30PM, 10:15PM"
+  }
+ },
+ "63c6852826": {
+  "instruction": {
+   "movie": "Split",
+   "where": "Regal Swansea Stadium 12",
+   "date": "2/19/17",
+   "ANSWER": "yes"
+  }
+ },
+ "8771019668": {
+  "instruction": {
+   "movie": "The Great Wall",
+   "where": "Regal Garden Grove Stadium 16",
+   "date": "2/19/17",
+   "ANSWER": "6:30 PM"
+  }
+ },
+ "73dae496e7": {
+  "instruction": {
+   "movie": "A Cure for Wellness",
+   "where": "Regal Cinemas Concord 6",
+   "date": "2/10/17"
+  }
+ },
+ "33ed92d9d7": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "The Great Wall",
+   "where": "Regal Swansea Stadium 12",
+   "ANSWER": "yes"
+  }
+ },
+ "e65dfbc6bf": {
+  "instruction": {
+   "movie": "The Lego Batman Movie",
+   "where": "Regal Cinemas Concord 3",
+   "date": "2/10/17"
+  }
+ },
+ "e0174dd790": {
+  "instruction": {
+   "movie": "The Great Wall (2017) ",
+   "where": "Regal Pioneer Place Stadium 6",
+   "date": "02/19/2017",
+   "ANSWER": "6:45PM"
+  }
+ },
+ "1d39ab0c48": {
+  "instruction": {
+   "movie": "50 Shades Darker",
+   "where": "Regal Jack Stadium 9, Oakland CA",
+   "date": "02/18/2017",
+   "ANSWER": "10:00 PM"
+  }
+ },
+ "0f2da8ca24": {
+  "instruction": {
+   "movie": "John Wick: Chapter 2",
+   "where": "Regal Stark Street Stadium 10",
+   "date": "2/19/2017",
+   "ANSWER": "7:00PM, 10:00PM"
+  }
+ },
+ "eed92ade63": {
+  "instruction": {
+   "movie": "The Great Wall",
+   "where": "Edwards Brea Stadium East 12",
+   "date": "2/19/17",
+   "ANSWER": "7:05 PM"
+  }
+ },
+ "ef083b9288": {
+  "instruction": {
+   "date": "02/18/2017",
+   "movie": "Fist Fist",
+   "where": "Regal Jack Stadium Oakland CA",
+   "ANSWER": "10:30 PM"
+  }
+ },
+ "6ab53135c8": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "A Cure for Wellness",
+   "where": "Regal Cinemas Concord 6"
+  }
+ },
+ "deaab149a2": {
+  "instruction": {
+   "movie": "Fifty Shades Darker",
+   "where": "Edwards South Gate Stadium 20 & IMAX",
+   "date": "2/19/17",
+   "ANSWER": "5:00 PM"
+  }
+ },
+ "afc3807d17": {
+  "instruction": {
+   "where": "Regal Cinemas Concord 6",
+   "date": "2/10/17",
+   "movie": "A Cure for Wellness"
+  }
+ },
+ "21f0e482a6": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "The Comedian",
+   "where": "Regal Cinemas Concord 4"
+  }
+ },
+ "1524281d1c": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "Fences",
+   "where": "Regal Swansea Stadium 12",
+   "ANSWER": "yes"
+  }
+ },
+ "b4197044c2": {
+  "instruction": {
+   "movie": "The Lego Batman Movie 3D",
+   "where": "Regal Webster Place 11",
+   "date": "02/20/2017",
+   "ANSWER": "yes"
+  }
+ },
+ "c6ecab264e": {
+  "instruction": {
+   "movie": "The Great Wall",
+   "where": "Edwards South Gate Stadium 20 & IMAX",
+   "date": "2/19/17",
+   "ANSWER": "4:15 PM"
+  }
+ },
+ "e3df8c7cbe": {
+  "instruction": {
+   "movie": "Hidden Figures",
+   "where": "UA Berkeley 7",
+   "date": "02/18/2017",
+   "ANSWER": "9:40 PM"
+  }
+ },
+ "5008c2a72a": {
+  "instruction": {
+   "where": "Regal Cinemas Concord 1",
+   "date": "2/10/17",
+   "movie": "Nenu Local"
+  }
+ },
+ "83726f892f": {
+  "instruction": {
+   "movie": "La La Land",
+   "where": "Regal Webster Place 11",
+   "date": "02/20/2017",
+   "ANSWER": "yes"
+  }
+ },
+ "868a701fdf": {
+  "instruction": {
+   "movie": "The Lego Batman ",
+   "where": "regal entertainment group ",
+   "date": "10.02.2017",
+   "ANSWER": "regal entertainment is playing The Lego Batman  on 10.02.2017"
+  }
+ },
+ "f21b6da50c": {
+  "instruction": {
+   "movie": "Everybody Loves Somebody",
+   "where": "Regal San Bernardino Stadium 14",
+   "date": "2/20/2017",
+   "ANSWER": "Regal San Bernardino Stadium 14 is Everybody Loves Somebody playing on 2/20/2017"
+  }
+ },
+ "9f01a7a4b0": {
+  "instruction": {
+   "movie": "Space Between Us",
+   "where": "Regal Cinemas Concord 9",
+   "date": "2/10/17"
+  }
+ },
+ "b3d427854f": {
+  "instruction": {
+   "movie": "The Great Wall 3D",
+   "where": "Regal Swansea Stadium 12",
+   "date": "2/19/17",
+   "ANSWER": "yes"
+  }
+ },
+ "1a5c34cec0": {
+  "instruction": {
+   "movie": "A Cure for Wellness",
+   "where": "Regal Tikahtnu Stadium 16",
+   "date": "2/20/2017",
+   "ANSWER": "Regal Tikahtnu Stadium 16 is A Cure for Wellness playing on 2/20/2017"
+  }
+ },
+ "e4f3a56d14": {
+  "instruction": {
+   "date": "02/18/2017",
+   "movie": "Hidden Figures",
+   "where": "Regal Jack Stadium 9, Oakland CA",
+   "ANSWER": "9:40 PM"
+  }
+ },
+ "fc57bfa3eb": {
+  "instruction": {
+   "movie": "The Great Wall",
+   "where": "UA Berlely 7",
+   "date": "02/18/2017",
+   "ANSWER": "9:50 PM"
+  }
+ },
+ "1a2e6eb0bd": {
+  "instruction": {
+   "movie": "fifty shades darker",
+   "where": "Regal Cinemas Concord 7",
+   "date": "2/13/17"
+  }
+ },
+ "61e3e800e0": {
+  "instruction": {
+   "movie": "Fifty Shades Darker",
+   "where": "regal entertainment group ",
+   "date": "10.02.2017",
+   "ANSWER": "regal entertainment is playing Fifty Shades Darker on 10.02.2017"
+  }
+ },
+ "3c7f9fe2b5": {
+  "instruction": {
+   "movie": "Split (2017)",
+   "where": "Regal Stark Street Stadium 10",
+   "date": "02/19/2017",
+   "ANSWER": "6:45pm, 9:45PM"
+  }
+ },
+ "b81b9dca35": {
+  "instruction": {
+   "movie": "George Takei\u2019s Allegiance on Broadway",
+   "where": "Regal Swansea Stadium 12",
+   "date": "2/19/17",
+   "ANSWER": "yes"
+  }
+ },
+ "beea66f137": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "Fifty Shades Darker",
+   "where": "Edwards Cerritos Stadium 10",
+   "ANSWER": "7:00 PM"
+  }
+ },
+ "25b55a3045": {
+  "instruction": {
+   "movie": "Everybody Loves Somebody",
+   "where": "Regal City North Stadium 14 IMAX & RPX",
+   "date": "2/20/17",
+   "ANSWER": "yes"
+  }
+ },
+ "32373abef3": {
+  "instruction": {
+   "movie": "Fences",
+   "where": "Regal Swansea Stadium 12",
+   "date": "2/19/17",
+   "ANSWER": "yes"
+  }
+ },
+ "917e4e3c7b": {
+  "instruction": {
+   "date": "2/12/17",
+   "movie": "John Wick: Chapter 2 ",
+   "where": "Regal Cinemas Concord 10"
+  }
+ },
+ "636860876e": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "Space Between Us",
+   "where": "Regal Cinemas Concord 9"
+  }
+ },
+ "0477455fd8": {
+  "instruction": {
+   "movie": "Fist Fight",
+   "where": "Regal Pioneer Place Stadium 6",
+   "date": "02/19/2017",
+   "ANSWER": "7:30PM, 10:15PM"
+  }
+ },
+ "0313670e23": {
+  "instruction": {
+   "movie": "The Great Wall",
+   "where": "Edwards Cerritos Stadium 10",
+   "date": "2/19/17",
+   "ANSWER": "7:00 PM"
+  }
+ },
+ "5a0cf5ee68": {
+  "instruction": {
+   "movie": "Rings",
+   "where": "Regal Bolingbrook Stadium 12",
+   "date": "2/20/17",
+   "ANSWER": "Showtime: 5:00 PM Showtime: 10:55 PM"
+  }
+ },
+ "f6d9eeb882": {
+  "instruction": {
+   "movie": "Nenu Local",
+   "where": "Regal Cinemas Concord 1",
+   "date": "2/10/17"
+  }
+ },
+ "40e153e6f3": {
+  "instruction": {
+   "where": "Regal Cinemas Concord 5",
+   "date": "2/11/17",
+   "movie": "Gold"
+  }
+ },
+ "23f8f1e2cb": {
+  "instruction": {
+   "movie": "Moonlight (2016)",
+   "where": "Regal Webster Place 11",
+   "date": "02/23/2017",
+   "ANSWER": "yes"
+  }
+ },
+ "d65ff8929a": {
+  "instruction": {
+   "movie": "Fist Fight",
+   "where": "Regal Webster Place 11",
+   "date": "2/21/17",
+   "ANSWER": "yes"
+  }
+ },
+ "b0868e64b3": {
+  "instruction": {
+   "movie": "A Dog's Purpose",
+   "where": "regal entertainment group ",
+   "date": "27.01.2017",
+   "ANSWER": "regal entertainment is playing A Dog's Purpose on 27.01.2017"
+  }
+ },
+ "5fe4607942": {
+  "instruction": {
+   "movie": "A Dogs Purpose",
+   "where": "Regal Cinemas Concord 8",
+   "date": "2/10/17"
+  }
+ },
+ "3d087e0a7e": {
+  "instruction": {
+   "date": "2/11/17",
+   "movie": "Gold",
+   "where": "Regal Cinemas Concord 5"
+  }
+ },
+ "167154daab": {
+  "instruction": {
+   "movie": "A Dog's Purpose",
+   "where": "Regal Winter Park Village Stadium 20 ",
+   "date": "2/20/2017",
+   "ANSWER": "Regal Winter Park Village Stadium 20 is A Dog's Purpose playing on 2/20/2017"
+  }
+ },
+ "1ce35079b3": {
+  "instruction": {
+   "movie": "Rings",
+   "where": "Regal City North Stadium 14 IMAX & RPX",
+   "date": "2/20/17",
+   "ANSWER": "yes"
+  }
+ },
+ "b71a78ec43": {
+  "instruction": {
+   "movie": "John Wick: Chapter 2",
+   "where": "Regal Webster Place 11",
+   "date": "02/21/2017",
+   "ANSWER": "yes"
+  }
+ },
+ "16786780a9": {
+  "instruction": {
+   "date": "02/18/2017",
+   "movie": "The Lego Batman Movie",
+   "where": "UA Berkeley 7",
+   "ANSWER": "9:30 PM, 10:10 PM"
+  }
+ },
+ "718b7269a3": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "George Takei\u2019s Allegiance on Broadway",
+   "where": "Regal Swansea Stadium 12",
+   "ANSWER": "yes"
+  }
+ },
+ "064b09ac08": {
+  "instruction": {
+   "movie": "A Cure for Wellness",
+   "where": "Regal Stark Street Stadium 10",
+   "date": "02/19/2017",
+   "ANSWER": "8:30PM"
+  }
+ },
+ "cd38394257": {
+  "instruction": {
+   "movie": "Hidden Figures",
+   "where": "Regal Webster Place 11",
+   "date": "2/21/17",
+   "ANSWER": "yes"
+  }
+ },
+ "af62b132bd": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "The Great Wall",
+   "where": "Edwards Cerritos Stadium 10",
+   "ANSWER": "7:00 PM"
+  }
+ },
+ "a1b618a66f": {
+  "instruction": {
+   "movie": "Fifty Shades Darker",
+   "where": "UA Long Beach 6",
+   "date": "2/19/17",
+   "ANSWER": "4:15 PM"
+  }
+ },
+ "4532ed1248": {
+  "instruction": {
+   "where": "Regal Cinemas Concord 9",
+   "date": "2/10/17",
+   "movie": "Space Between Us"
+  }
+ },
+ "4f23a22eac": {
+  "instruction": {
+   "movie": "The Lego Batman Movie 3D",
+   "where": "Regal Webster Place 11",
+   "date": "2/21/17",
+   "ANSWER": "yes"
+  }
+ },
+ "eb3c51f3ca": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "A Dogs Purpose",
+   "where": "Regal Cinemas Concord 8"
+  }
+ },
+ "30bb66a011": {
+  "instruction": {
+   "movie": "John Wick: Chapter 2 ",
+   "where": "Regal Cinemas Concord 10",
+   "date": "2/12/17"
+  }
+ },
+ "6055a4ae77": {
+  "instruction": {
+   "movie": "Split (2017)",
+   "where": "Regal Webster Place 11",
+   "date": "02/20/2017",
+   "ANSWER": "yes"
+  }
+ },
+ "0e485a234e": {
+  "instruction": {
+   "where": "Regal Cinemas Concord 2",
+   "date": "2/10/17",
+   "movie": "Rings "
+  }
+ },
+ "1178541a51": {
+  "instruction": {
+   "movie": "Fist Fight",
+   "where": "Regal Webster Place 11",
+   "date": "02/20/2017",
+   "ANSWER": "yes"
+  }
+ },
+ "d5b7fe723d": {
+  "instruction": {
+   "date": "02/18/2017",
+   "movie": "Fist Fight",
+   "where": "UA Berkeley 7",
+   "ANSWER": "10:20 PM"
+  }
+ },
+ "a28dd93f51": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "Fist Fight ",
+   "where": "Regal Swansea Stadium 12",
+   "ANSWER": "yes"
+  }
+ },
+ "2d659aa34f": {
+  "instruction": {
+   "movie": "Hidden Figures",
+   "where": "Regal Crown Club Regal Cantera Stadium 17",
+   "date": "2/20/2017",
+   "ANSWER": "Regal Crown Club Regal Cantera Stadium 17 is Hidden Figures playing on 2/20/2017"
+  }
+ },
+ "b12e5b7d63": {
+  "instruction": {
+   "movie": "A Cure for Wellness",
+   "where": "regal entertainment group ",
+   "date": "17.02.2017",
+   "ANSWER": "regal entertainment is playing A Cure for Wellness on 17.02.2017"
+  }
+ },
+ "d16b272ae6": {
+  "instruction": {
+   "where": "Regal Cinemas Concord 7",
+   "date": "2/13/17",
+   "movie": "fifty shades darker"
+  }
+ },
+ "0e750fad8e": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "The Great Wall",
+   "where": "Edwards South Gate Stadium 20 & IMAX",
+   "ANSWER": "4:15 PM"
+  }
+ },
+ "51531c0bc1": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "Fifty Shades Darker",
+   "where": "Regal Swansea Stadium 12",
+   "ANSWER": "yes"
+  }
+ },
+ "1280d906d9": {
+  "instruction": {
+   "movie": "Hidden Figures",
+   "where": "Regal Swansea Stadium 12",
+   "date": "2/19/17",
+   "ANSWER": "yes"
+  }
+ },
+ "d45af31dcd": {
+  "instruction": {
+   "movie": "The Great Wall",
+   "where": "Edwards Long Beach Stadium 26 & IMAX",
+   "date": "2/19/17",
+   "ANSWER": "5:05 PM"
+  }
+ },
+ "1b486950f6": {
+  "instruction": {
+   "movie": "The Great Wall",
+   "where": "Regal Jack Stadium 9, Oakland CA",
+   "date": "02/18/2017",
+   "ANSWER": "9:45 PM"
+  }
+ },
+ "c2777a9609": {
+  "instruction": {
+   "movie": "Hidden Figures",
+   "where": "Regal Jack Stadium 9, Oakland CA",
+   "date": "02/18/2017",
+   "ANSWER": "9:40 PM"
+  }
+ },
+ "e517385398": {
+  "instruction": {
+   "movie": "John Wick: Chapter 2",
+   "where": "Regal Starlight Stadium 14",
+   "date": "2/20/17",
+   "ANSWER": "Anderson, SC"
+  }
+ },
+ "3bb96db3b2": {
+  "instruction": {
+   "date": "02/18/2017",
+   "movie": "50 Shades Darker",
+   "where": "Regal Jack Stadium 9, Oakland CA",
+   "ANSWER": "10:00 PM"
+  }
+ },
+ "24f475ef7a": {
+  "instruction": {
+   "movie": "A Dog's Purpose",
+   "where": "Regal Bolingbrook Stadium 12",
+   "date": "2/20/17",
+   "ANSWER": "1:00 PM(Showtime has begun) Showtime: 4:00 PM Showtime: 6:30 PM Showtime: 9:10 PM"
+  }
+ },
+ "5589aff68e": {
+  "instruction": {
+   "date": "02/18/2017",
+   "movie": "The Great Wall",
+   "where": "Regal Jack Stadium 9, Oakland CA",
+   "ANSWER": "9:45 PM"
+  }
+ },
+ "8f6d308bce": {
+  "instruction": {
+   "movie": "The Great Wall",
+   "where": "Regal La Habra Stadium 16",
+   "date": "2/19/17",
+   "ANSWER": "4:30 PM"
+  }
+ },
+ "226f9872ed": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "Nenu Local",
+   "where": "Regal Cinemas Concord 1"
+  }
+ },
+ "dcd24fcabf": {
+  "instruction": {
+   "movie": "Fist Fist",
+   "where": "Regal Jack Stadium Oakland CA",
+   "date": "02/18/2017",
+   "ANSWER": "10:30 PM"
+  }
+ },
+ "0f605dcf0a": {
+  "instruction": {
+   "movie": "Rings",
+   "where": "Regal Atlantic Station 18 ",
+   "date": "2/20/2017",
+   "ANSWER": "Regal Atlantic Station 18 is Rings playing on 2/20/2017"
+  }
+ },
+ "6e7b7e4242": {
+  "instruction": {
+   "movie": "The Lego Batman Movie 3D",
+   "where": "Edwards Big Newport 6",
+   "date": "2/20/2017",
+   "ANSWER": "Edwards Big Newport 6 is The Lego Batman Movie 3D playing on 2/20/2017"
+  }
+ },
+ "0f44ddb4fc": {
+  "instruction": {
+   "movie": "Hidden Figures",
+   "where": "Regal Webster Place 11",
+   "date": "02/21/2017",
+   "ANSWER": "yes"
+  }
+ },
+ "cd0771b00c": {
+  "instruction": {
+   "movie": "Lego Batman Movie",
+   "where": "Regal Bolingbrook Stadium 12",
+   "date": "2/20/17",
+   "ANSWER": "Showtime: 1:40 PM Showtime: 4:20 PM Showtime: 7:00 PM Showtime: 9:40 PM"
+  }
+ },
+ "b608fc6d7f": {
+  "instruction": {
+   "movie": "A Cure for Wellness",
+   "where": "Regal Webster Place 11",
+   "date": "02/20/2017",
+   "ANSWER": "yes"
+  }
+ },
+ "64082805fa": {
+  "instruction": {
+   "movie": "The Great Wall 2017",
+   "where": "regal entertainment group ",
+   "date": "17.02.2017",
+   "ANSWER": "regal entertainment is playing The Great Wall on 17.02.2017"
+  }
+ },
+ "af2ce8b103": {
+  "instruction": {
+   "date": "02/18/2017",
+   "movie": "Hidden Figures",
+   "where": "UA Berkeley 7",
+   "ANSWER": "9:40 PM"
+  }
+ },
+ "d9aba7aca5": {
+  "instruction": {
+   "movie": "The Lego Batman Movie",
+   "where": "Regal Stark Street Stadium 10",
+   "date": "02/21/2017",
+   "ANSWER": "2:15PM, 5:00PM, 7:45PM, 10:30PM"
+  }
+ },
+ "e9b7612286": {
+  "instruction": {
+   "movie": "DISNEY\u2019S NEWSIES: THE BROADWAY MUSICAL!",
+   "where": "regal entertainment group ",
+   "date": "16.02.2017",
+   "ANSWER": "regal entertainment is playing DISNEY\u2019S NEWSIES: THE BROADWAY MUSICAL! on 16.02.2017"
+  }
+ },
+ "89548f5b9c": {
+  "instruction": {
+   "movie": "The Lego Batman Movie",
+   "where": "UA Berkeley 7",
+   "date": "02/18/2017",
+   "ANSWER": "9:30 PM, 10:10 PM"
+  }
+ },
+ "97d2252e11": {
+  "instruction": {
+   "movie": "Gold",
+   "where": "Regal Cinemas Concord 5",
+   "date": "2/11/17"
+  }
+ },
+ "3559c0b03b": {
+  "instruction": {
+   "movie": "Fifty Shades Darker",
+   "where": "Regal Webster Place 11",
+   "date": "2/21/17",
+   "ANSWER": "yes"
+  }
+ },
+ "9d9c2599b9": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "Rings ",
+   "where": "Regal Cinemas Concord 2"
+  }
+ },
+ "ecd29a525c": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "Fifty Shades Darker",
+   "where": "Edwards South Gate Stadium 20 & IMAX",
+   "ANSWER": "5:00 PM"
+  }
+ },
+ "1aabe66aea": {
+  "instruction": {
+   "movie": "The Space Between Us",
+   "where": "Edwards Santa Maria Stadium 14",
+   "date": "2/20/2017",
+   "ANSWER": "Edwards Santa Maria Stadium 14 is The Space Between Us playing on 2/20/2017"
+  }
+ },
+ "bee8a71146": {
+  "instruction": {
+   "movie": "Lego Batman Movie 3D",
+   "where": "Regal Bolingbrook Stadium 12",
+   "date": "2/20/17",
+   "ANSWER": " 11:50 AM(Showtime has begun) Showtime: 2:30 PM Showtime: 5:10 PM Showtime: 7:50 PM Showtime: 10:30 PM"
+  }
+ },
+ "e5927a3a52": {
+  "instruction": {
+   "movie": "John Wick: Chapter 2",
+   "where": "Regal Webster Place 11",
+   "date": "2/21/17",
+   "ANSWER": "yes"
+  }
+ },
+ "3b54c309b5": {
+  "instruction": {
+   "movie": "The Great Wall (2017)",
+   "where": "Regal Starlight Stadium 14",
+   "date": "2/20/17",
+   "ANSWER": "Anderson, SC"
+  }
+ },
+ "f803538c58": {
+  "instruction": {
+   "movie": "Lion",
+   "where": "Regal Bolingbrook Stadium 12",
+   "date": "2/20/17",
+   "ANSWER": "Showtime: 2:10 PM Showtime: 8:10 PM"
+  }
+ },
+ "12d2fd5902": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "A Cure for Wellness",
+   "where": "Regal Swansea Stadium 12",
+   "ANSWER": "yes"
+  }
+ },
+ "6049eec328": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "The Lego Batman Movie",
+   "where": "Regal Cinemas Concord 3"
+  }
+ },
+ "d9b9834128": {
+  "instruction": {
+   "date": "02/18/2017",
+   "movie": "The Great Wall",
+   "where": "UA Berlely 7",
+   "ANSWER": "9:50 PM"
+  }
+ },
+ "5c6461b59b": {
+  "instruction": {
+   "movie": "Split",
+   "where": "Regal Bolingbrook Stadium 12",
+   "date": "2/20/17",
+   "ANSWER": "12:50 PM(Showtime has begun) Showtime: 3:40 PM Showtime: 6:50 PM Showtime: 9:45 PM"
+  }
+ },
+ "fc1180faff": {
+  "instruction": {
+   "movie": "Fifty Shades Darker",
+   "where": "Regal Hacienda Crossings Stadium 20",
+   "date": "2/20/2017",
+   "ANSWER": "Regal Hacienda Crossings Stadium 20 is Fifty Shades Darker playing on 2/20/2017"
+  }
+ },
+ "3a34ecb338": {
+  "instruction": {
+   "where": "Regal Cinemas Concord 3",
+   "date": "2/10/17",
+   "movie": "The Lego Batman Movie"
+  }
+ },
+ "2577e65e83": {
+  "instruction": {
+   "date": "2/13/17",
+   "movie": "fifty shades darker",
+   "where": "Regal Cinemas Concord 7"
+  }
+ },
+ "851efe5e30": {
+  "instruction": {
+   "movie": "Rings",
+   "where": "Regal Starlight Stadium 14",
+   "date": "2/20/17",
+   "ANSWER": "Anderson, SC"
+  }
+ },
+ "a8d5aed43f": {
+  "instruction": {
+   "movie": "Fifty Shades Darker",
+   "where": "Regal Starlight Stadium 14",
+   "date": "2/20/17",
+   "ANSWER": "Anderson, SC"
+  }
+ },
+ "4fa09184a1": {
+  "instruction": {
+   "movie": "Hidden Figures",
+   "where": "regal entertainment group ",
+   "date": "06.01.2017",
+   "ANSWER": "regal entertainment is playing Hidden Figures on 06.01.2017"
+  }
+ },
+ "2697baceae": {
+  "instruction": {
+   "where": "Regal Cinemas Concord 8",
+   "date": "2/10/17",
+   "movie": "A Dogs Purpose"
+  }
+ },
+ "7ed47e6f05": {
+  "instruction": {
+   "movie": "The Lego Batman Movie",
+   "where": "Regal Jack Stadium 9, Oakland CA",
+   "date": "02/18/2017",
+   "ANSWER": "10:20. 10:50 PM"
+  }
+ },
+ "a66c918c1f": {
+  "instruction": {
+   "movie": "A Cure for Wellness",
+   "where": "Regal Swansea Stadium 12",
+   "date": "2/19/17",
+   "ANSWER": "yes"
+  }
+ },
+ "ce52a7c3e6": {
+  "instruction": {
+   "movie": "Fist Fight",
+   "where": "UA Berkeley 7",
+   "date": "02/18/2017",
+   "ANSWER": "10:20 PM"
+  }
+ },
+ "62163a2e71": {
+  "instruction": {
+   "movie": "Rings",
+   "where": "Regal Division Street Stadium 13",
+   "date": "02/19/2017",
+   "ANSWER": "10:00PM"
+  }
+ },
+ "8df2318016": {
+  "instruction": {
+   "movie": "The Great Wall 3D",
+   "where": "Regal Bolingbrook Stadium 12",
+   "date": "2/20/17",
+   "ANSWER": "3:50 PM Showtime: 9:20 PM"
+  }
+ },
+ "0aeb77047e": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "The Great Wall",
+   "where": "Regal La Habra Stadium 16",
+   "ANSWER": "4:30 PM"
+  }
+ },
+ "1c9786e173": {
+  "instruction": {
+   "movie": "The Lego Batman Movie 3D",
+   "where": "Regal Starlight Stadium 14",
+   "date": "2/20/17",
+   "ANSWER": "Anderson, SC"
+  }
+ },
+ "540ae61605": {
+  "instruction": {
+   "where": "Regal Cinemas Concord 10",
+   "date": "2/12/17",
+   "movie": "John Wick: Chapter 2 "
+  }
+ },
+ "40622bdf94": {
+  "instruction": {
+   "movie": "Lion",
+   "where": "Regal Webster Place 11",
+   "date": "02/22/2017",
+   "ANSWER": "yes"
+  }
+ },
+ "79e467a8bc": {
+  "instruction": {
+   "date": "02/18/2017",
+   "movie": "50 Shades Darker",
+   "where": "UA Berkeley 7",
+   "ANSWER": "10:00 PM"
+  }
+ },
+ "f64f713505": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "Hidden Figures",
+   "where": "Regal Swansea Stadium 12",
+   "ANSWER": "yes"
+  }
+ },
+ "3b66448846": {
+  "instruction": {
+   "movie": "Hidden Figures",
+   "where": "Regal Stark Street Stadium 10",
+   "date": "02/19/2017",
+   "ANSWER": "8:30PM"
+  }
+ },
+ "543a64b6e1": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "The Great Wall",
+   "where": "Edwards Brea Stadium East 12",
+   "ANSWER": "7:05 PM"
+  }
+ },
+ "18ea895082": {
+  "instruction": {
+   "movie": "50 Shades Darker",
+   "where": "UA Berkeley 7",
+   "date": "02/18/2017",
+   "ANSWER": "10:00 PM"
+  }
+ },
+ "e5c5fdf08c": {
+  "instruction": {
+   "where": "Regal Cinemas Concord 4",
+   "date": "2/10/17",
+   "movie": "The Comedian"
+  }
+ },
+ "bcd506cdd1": {
+  "instruction": {
+   "movie": "John Wick",
+   "where": "regal entertainment group ",
+   "date": "10.02.2017",
+   "ANSWER": "regal entertainment is playing John Wick on 10.02.2017"
+  }
+ },
+ "b781a1c3e6": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "The Great Wall",
+   "where": "Edwards Long Beach Stadium 26 & IMAX",
+   "ANSWER": "5:05 PM"
+  }
+ },
+ "5dd59d95a5": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "Lion",
+   "where": "Regal Swansea Stadium 12",
+   "ANSWER": "yes"
+  }
+ },
+ "76267507ca": {
+  "instruction": {
+   "movie": "Lion",
+   "where": "Regal Swansea Stadium 12",
+   "date": "2/19/17",
+   "ANSWER": "yes"
+  }
+ },
+ "0eda9cd17d": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "The Great Wall 3D",
+   "where": "Regal Swansea Stadium 12",
+   "ANSWER": "yes"
+  }
+ },
+ "145b71579a": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "Fifty Shades Darker",
+   "where": "Regal La Habra Stadium 16",
+   "ANSWER": "4:15 PM"
+  }
+ },
+ "43f6a0c794": {
+  "instruction": {
+   "movie": "Hidden Figures",
+   "where": "Regal Bolingbrook Stadium 12",
+   "date": "2/20/17",
+   "ANSWER": "Showtime: 1:30 PM Showtime: 4:30 PM Showtime: 7:30 PM Showtime: 10:50 PM"
+  }
+ },
+ "452eef67fa": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "The Great Wall",
+   "where": "Regal Garden Grove Stadium 16",
+   "ANSWER": "6:30 PM"
+  }
+ },
+ "3ca4146874": {
+  "instruction": {
+   "movie": "Fist Fight",
+   "where": "Regal Starlight Stadium 14",
+   "date": "2/20/17",
+   "ANSWER": "Anderson, SC"
+  }
+ },
+ "1bf3f34a35": {
+  "instruction": {
+   "movie": "John Wick: Chapter 2",
+   "where": "Regal Bolingbrook Stadium 12",
+   "date": "2/20/17",
+   "ANSWER": "Showtime: 1:50 PM Showtime: 4:50 PM Showtime: 7:40 PM Showtime: 10:45 PM"
+  }
+ },
+ "d18e780d74": {
+  "instruction": {
+   "movie": "The Great Wall",
+   "where": "Regal Swansea Stadium 12",
+   "date": "2/19/17",
+   "ANSWER": "yes"
+  }
+ },
+ "f560b8f09d": {
+  "instruction": {
+   "movie": "Fifty Shades Darker",
+   "where": "Regal Swansea Stadium 12",
+   "date": "2/19/17",
+   "ANSWER": "yes"
+  }
+ },
+ "1b88059182": {
+  "instruction": {
+   "movie": "A Dog's Purpose",
+   "where": "Regal Starlight Stadium 14",
+   "date": "2/20/17",
+   "ANSWER": "Anderson, SC"
+  }
+ },
+ "d889f798cd": {
+  "instruction": {
+   "movie": "Rings ",
+   "where": "Regal Cinemas Concord 2",
+   "date": "2/10/17"
+  }
+ },
+ "bf8831f491": {
+  "instruction": {
+   "movie": "Fist Fight ",
+   "where": "Regal Swansea Stadium 12",
+   "date": "2/19/17",
+   "ANSWER": "yes"
+  }
+ },
+ "9f090af0f0": {
+  "instruction": {
+   "movie": "Fifty Shades Darker",
+   "where": "Regal Webster Place 11",
+   "date": "02/20/2017",
+   "ANSWER": "yes"
+  }
+ },
+ "0926c0ceac": {
+  "instruction": {
+   "movie": "Lion",
+   "where": "Regal Webster Place 11",
+   "date": "2/21/17",
+   "ANSWER": "yes"
+  }
+ },
+ "440ee0259e": {
+  "instruction": {
+   "movie": "La La Land",
+   "where": "Regal Webster Place 11",
+   "date": "2/21/17",
+   "ANSWER": "yes"
+  }
+ },
+ "5830e6a2e6": {
+  "instruction": {
+   "movie": "Split (2017)",
+   "where": "regal entertainment group ",
+   "date": "20.01.2017",
+   "ANSWER": "regal entertainment is playing Split (2017) on 20.01.2017"
+  }
+ },
+ "59531e3353": {
+  "instruction": {
+   "movie": "Fifty Shades Darker",
+   "where": "Regal La Habra Stadium 16",
+   "date": "2/19/17",
+   "ANSWER": "4:15 PM"
+  }
+ },
+ "2debda86ad": {
+  "instruction": {
+   "movie": "Fifty Shades Darker",
+   "where": "Edwards Cerritos Stadium 10",
+   "date": "2/19/17",
+   "ANSWER": "7:00 PM"
+  }
+ },
+ "af3c6ec0b9": {
+  "instruction": {
+   "movie": "John Wick: Chapter 2",
+   "where": "Regal Avenues Stadium 20",
+   "date": "2/20/2017",
+   "ANSWER": "Regal Avenues Stadium 20 is John Wick: Chapter 2 playing on 2/20/2017"
+  }
+ },
+ "4830a3edca": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "Fifty Shades Darker",
+   "where": "UA Long Beach 6",
+   "ANSWER": "4:15 PM"
+  }
+ },
+ "bc70e043c5": {
+  "instruction": {
+   "movie": "Fish Flight",
+   "where": "regal entertainment group ",
+   "date": "17.02.2017",
+   "ANSWER": "regal entertainment is playing Fish Flight on 17.02.2017"
+  }
+ },
+ "8d917edf03": {
+  "instruction": {
+   "movie": "A Dog's Purpose",
+   "where": "Regal Hilltop 9 Cinema",
+   "date": "02/19/2017",
+   "ANSWER": "9:15PM"
+  }
+ },
+ "0fcbae9d2b": {
+  "instruction": {
+   "date": "02/18/2017",
+   "movie": "The Lego Batman Movie",
+   "where": "Regal Jack Stadium 9, Oakland CA",
+   "ANSWER": "10:20. 10:50 PM"
+  }
+ },
+ "f40eb60c89": {
+  "instruction": {
+   "movie": "Fifty Shades Darker",
+   "where": "Regal Bolingbrook Stadium 12",
+   "date": "2/20/17",
+   "ANSWER": "11:30 AM(Showtime has begun) Showtime: 1:20 PM Showtime: 2:20 PM Showtime: 4:10 PM Showtime: 5:20 PM Showtime: 7:10 PM Showtime: 8:20 PM Showtime: 10:10 PM"
+  }
+ },
+ "1e3c41b85a": {
+  "instruction": {
+   "movie": "The Lego Batman Movie",
+   "where": "Regal Starlight Stadium 14",
+   "date": "2/20/17",
+   "ANSWER": "Anderson, SC"
+  }
+ },
+ "cb0995eda6": {
+  "instruction": {
+   "movie": "The Comedian",
+   "where": "Regal Cinemas Concord 4",
+   "date": "2/10/17"
+  }
+ },
+ "4c06e9dcac": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "Split",
+   "where": "Regal Swansea Stadium 12",
+   "ANSWER": "yes"
+  }
+ },
+ "e8355f3ec2": {
+  "instruction": {
+   "movie": "A Cure for Wellness",
+   "where": "Regal Starlight Stadium 14",
+   "date": "2/20/17",
+   "ANSWER": "Anderson, SC"
+  }
+ },
+ "18f586b0de": {
+  "instruction": {
+   "movie": "The Great Wall 3D",
+   "where": "Regal Starlight Stadium 14",
+   "date": "2/20/17",
+   "ANSWER": "Anderson, SC"
+  }
+ },
+ "ad5451ea22": {
+  "instruction": {
+   "movie": "The Great Wall: An IMAX 3D Experience",
+   "where": "Regal City North Stadium 14 IMAX & RPX",
+   "date": "2/20/17",
+   "ANSWER": "yes"
+  }
+ }
+}

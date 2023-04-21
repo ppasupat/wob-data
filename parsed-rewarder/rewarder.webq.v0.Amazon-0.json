@@ -1,0 +1,942 @@
+{
+ "0f241131c1": {
+  "instruction": {
+   "laptop": "2016 Newest HP Pavilion X360 2-in-1 13.3\" Touchscreen Premium Laptop",
+   "800 dollars": "509.10"
+  }
+ },
+ "7219a896c4": {
+  "instruction": {
+   "800 dollars": "800 dollars",
+   "laptop": "Personal Laptop",
+   "ANSWER": "Apple MacBook Air MD711LL/B 11.6-Inch Laptop (OLD VERSION)    Submit Capacity:  128 GB  Submit Style:  11.6-Inch"
+  }
+ },
+ "095145ffeb": {
+  "instruction": {
+   "electronics": "streaming media players",
+   "price": "100"
+  }
+ },
+ "403410c420": {
+  "instruction": {
+   "800 dollars": "800 dollars",
+   "laptop": "Dell Laptop",
+   "ANSWER": "Dell Latitude 7000 E7450 UltraBook Laptop: 14\" FHD (1920x1080) TouchScreen (Corning Gorilla Glass) | Intel i5-5300U | 256GB SSD | 8GB RAM | Back-lit | Bluetooth | Windows 10 Pro | Warranty till 2019"
+  }
+ },
+ "4f889cdb39": {
+  "instruction": {
+   "types of games": "action ",
+   "video game console": "Playstation 4"
+  }
+ },
+ "9f189127f6": {
+  "instruction": {
+   "electronics": "audio equipment",
+   "price": "150 dollars"
+  }
+ },
+ "6454aefce1": {
+  "instruction": {
+   "electronics": "speakers",
+   "price": "100"
+  }
+ },
+ "d7793395c2": {
+  "instruction": {
+   "electronics": " External Hard Drives",
+   "ANSWER": "Sabrent USB 3.0 to SATA External Hard Drive Lay-Flat Docking Station for 2.5 or 3.5in HDD, SS,120g HDD for Xbox 360 Slim Black Color 120gb,HDE USB 2.0 Aluminum External Hard Drive Enclosure Case Supports 2.5-inch IDE/PATA Drives Up To 500GB (Blue),Sabrent USB 3.0 To 2.5-Inch SATA Hard Drive Enclosure Case (for 9.5mm, 12.5mm 2.5-Inch SATA-I, SATA-II, HDD;Connectland USB 2.0 External Enclosure for 3.5-Inch SATA/IDE Hard Drive CL-ENC35008",
+   "price": "25"
+  }
+ },
+ "9d86025d28": {
+  "instruction": {
+   "electronics": "cell phone case ",
+   "ANSWER": "Spigen tough armour",
+   "price": "$50"
+  }
+ },
+ "78f003a05a": {
+  "instruction": {
+   "electronics": "Android Tablets",
+   "ANSWER": "Chromo Inc 7\" Tablet Google Android 4.4,Alldaymall A88X 7'' Tablet - Android 4.4,Haehne 7 Inch Android 4.4 Google Tablet PC 512MB DDR3 Allwinner A33 1.5GHz Quad-Core Capacitive Touch Screen Dual Cameras WiFi 8GB Pink,Yuntab 7 inch Tablet PC 8GB Q88 Allwinner A23, Android 4.4 ,With Dual core and Dual Camera",
+   "price": "50"
+  }
+ },
+ "a59526a642": {
+  "instruction": {
+   "electronics": "Home Theater Systems",
+   "ANSWER": "Sony DAV-TZ140 Home Theater System Speakers,Sima Copy Kit 3 Home Theatre Copy Center,RUS HTP2 Following the success of the HTP-1 Home Theater Plate,Acoustic Audio AA2101 Home 2.1 Speaker System with Bluetooth for Multimedia or Computer,Craig Tower Speaker System with FM Radio and USB/SD Slot, Black (CHT909)",
+   "price": "50"
+  }
+ },
+ "8759226820": {
+  "instruction": {
+   "800 dollars": "800 dollars",
+   "laptop": "Gaming Laptop",
+   "ANSWER": "Samsung Chromebook 2 (11.6-Inch, Classic White)"
+  }
+ },
+ "c7a3939a5a": {
+  "instruction": {
+   "electronics": "video games",
+   "price": "80 dollars"
+  }
+ },
+ "ea47d80766": {
+  "instruction": {
+   "electronics": "MP4 Players",
+   "ANSWER": "Apple Ipod Nano 7th Generation 16 GB Slate With Generic White Earpods and A USB Data Cable (Non Retail Packaged in a White Box), Model: MD483LL/CALI",
+   "price": "150"
+  }
+ },
+ "d27cb93041": {
+  "instruction": {
+   "electronics": "Digital Cameras",
+   "ANSWER": "Sony DSCW800/B 20.1 MP Digital Camera (Black),Canon PowerShot ELPH 180 (Silver) with 20.0 MP CCD Sensor and 8x Optical Zoom,Nikon COOLPIX L32 Digital Camera with 5x Wide-Angle NIKKOR Zoom Lens,Sony DSCW830 20.1 MP Digital Camera with 2.7-Inch LCD (Silver),Canon PowerShot ELPH 190 IS (Blue) with 10x Optical Zoom and Built-In Wi-Fi",
+   "price": "200"
+  }
+ },
+ "667478b11f": {
+  "instruction": {
+   "800 dollars": "800 dollars",
+   "laptop": "Business Laptop",
+   "ANSWER": "ASUS Chromebook C202SA-YS02 11.6\" Ruggedized and Water Resistant Design with 180 Degree (Intel Celeron 4 GB, 16GB eMMC, Dark Blue)            "
+  }
+ },
+ "559bd29195": {
+  "instruction": {
+   "800 dollars": "699.99",
+   "laptop": "HP Pavilion 15.6-Inch Non-Touch Gaming Laptop",
+   "ANSWER": "624.99"
+  }
+ },
+ "e9b98482f2": {
+  "instruction": {
+   "800 dollars": "629.99",
+   "laptop": "Lenovo ideapad 300 80Q70021US 15.6-Inch",
+   "ANSWER": "609.99"
+  }
+ },
+ "b07d5367c1": {
+  "instruction": {
+   "laptop": "Lenovo IdeaPad 310 Laptop 15.6\" Screen",
+   "800 dollars": "529.00"
+  }
+ },
+ "56289fcb30": {
+  "instruction": {
+   "electronics": "action cameras",
+   "price": "200"
+  }
+ },
+ "edc584dd11": {
+  "instruction": {
+   "electronics": "GPS equipment",
+   "price": "300 dollars"
+  }
+ },
+ "c33172076e": {
+  "instruction": {
+   "laptop": "Acer Swift 3, 14\" Full HD, 7th Gen Intel Core i5-7200U",
+   "800 dollars": "599.99"
+  }
+ },
+ "7ec6231f58": {
+  "instruction": {
+   "electronics": "Projectors",
+   "ANSWER": "DBPOWER T20 1500 Lumens LCD",
+   "price": "120"
+  }
+ },
+ "5058a1dc40": {
+  "instruction": {
+   "types of games": "sports",
+   "video game console": "Playstation 4"
+  }
+ },
+ "0cbd0a459c": {
+  "instruction": {
+   "electronics": "water resistant flash drive",
+   "ANSWER": "Samsung 64BG BAR (metal) USB 3.0 Drive",
+   "price": "$50"
+  }
+ },
+ "fefd8846c3": {
+  "instruction": {
+   "electronics": "Sport and Exercise Headphones",
+   "ANSWER": "RIF6 Eargo Wireless Headphones",
+   "price": "$100"
+  }
+ },
+ "20215a798e": {
+  "instruction": {
+   "800 dollars": "759.99",
+   "laptop": "ASUS ZenBook UX330UA-AH54 13.3-inch Ultra-Slim Laptop",
+   "ANSWER": "699.00"
+  }
+ },
+ "6c2ff708c5": {
+  "instruction": {
+   "electronics": "3d HDTVs",
+   "ANSWER": "LG Electronics 65UH8500 65-Inch",
+   "price": "2000"
+  }
+ },
+ "19e952f2cb": {
+  "instruction": {
+   "electronics": "monitors",
+   "price": "300"
+  }
+ },
+ "5f6d23e3c0": {
+  "instruction": {
+   "electronics": "Bluetooth speakers",
+   "ANSWER": "ARCHEER 25W Bluetooth Speakers (A320), JBL Flip 3 Splashproof , Jabra Speak510 Wireless , ",
+   "price": "less than 100 dollars"
+  }
+ },
+ "dae7886f2b": {
+  "instruction": {
+   "800 dollars": "800 dollars",
+   "laptop": "Traditional Laptop",
+   "ANSWER": " Apple MacBook Air MD711LL/B 11.6-Inch Laptop (OLD VERSION)    Submit Capacity:  128 GB  Submit Style:  11.6-Inch"
+  }
+ },
+ "3e92fcec1c": {
+  "instruction": {
+   "800 dollars": "800 dollars",
+   "laptop": "Convertible Laptop",
+   "ANSWER": "Acer Spin 5, 13.3\" Full HD Touch, Intel Core i3, 8GB DDR4, 128GB SSD, Windows 10, Convertible, SP513-51-30EU"
+  }
+ },
+ "af3e847a19": {
+  "instruction": {
+   "electronics": "Headphones",
+   "ANSWER": "Bose SoundSport Pulse , Bose SoundTrue around-ear",
+   "price": "less than 199 dollars"
+  }
+ },
+ "6f71bf33d1": {
+  "instruction": {
+   "electronics": "noise-canceling Headphones",
+   "ANSWER": "Audio-Technica ATH-ANC7B",
+   "price": "100"
+  }
+ },
+ "2361f93907": {
+  "instruction": {
+   "electronics": "What are some new, popular (Handy Cams) for less than (400 dollars)",
+   "ANSWER": "Handy Cams",
+   "price": "400 dollars"
+  }
+ },
+ "0e8130fc5a": {
+  "instruction": {
+   "electronics": "What are some new,popular (smartPhones) for less than (300 dollars)",
+   "ANSWER": "SmartPhones",
+   "price": "300 dollars"
+  }
+ },
+ "29166feeda": {
+  "instruction": {
+   "electronics": "curved TV",
+   "ANSWER": "Samsung UN55KU6600 Curved 55-Inch 4K Ultra HD Smart LED TV (2016 Model)",
+   "price": "$1000"
+  }
+ },
+ "1021d21efb": {
+  "instruction": {
+   "electronics": "portable charger",
+   "ANSWER": "Anker PowerCore 26800 Portable Charger, 26800mAh External Battery with Dual Input Port and Double-Speed Recharging, 3 USB Ports for iPhone, iPad, Samsung Galaxy, Android and other Smart Devices",
+   "price": "$80"
+  }
+ },
+ "dba89c9995": {
+  "instruction": {
+   "electronics": "Watch",
+   "ANSWER": "Casio Men's Sport Analog Dive Watch",
+   "price": "$20"
+  }
+ },
+ "0cd4e950c4": {
+  "instruction": {
+   "electronics": "What is the price of (samsung galaxy J7 16GB) for less than (150 dollars))for less ",
+   "ANSWER": "Samsung J7",
+   "price": "150 dollars"
+  }
+ },
+ "a445b15ac4": {
+  "instruction": {
+   "electronics": "what are some new , popular (cameras) for less than (300 dollars)",
+   "ANSWER": "Cameras",
+   "price": "300 dollars"
+  }
+ },
+ "ddeb9568de": {
+  "instruction": {
+   "electronics": " Home Theater Systems",
+   "ANSWER": "Polk Audio RM705 5.1 , Panasonic Home Theater System SC-XH105",
+   "price": "Less than 200 dollars"
+  }
+ },
+ "a4aa748250": {
+  "instruction": {
+   "electronics": "printers",
+   "ANSWER": "HP Envy 5540",
+   "price": "$100"
+  }
+ },
+ "fa8093d367": {
+  "instruction": {
+   "laptop": "ASUS F556UA-AB54 NB 15.6\"",
+   "800 dollars": "520.24"
+  }
+ },
+ "92aef7090f": {
+  "instruction": {
+   "electronics": "What are some new.Popular (Computers) for less than (750 dollars)",
+   "ANSWER": "Computers",
+   "price": "750 dollars"
+  }
+ },
+ "dca9385f34": {
+  "instruction": {
+   "800 dollars": "800 dollars",
+   "laptop": "2 in 1 Laptop",
+   "ANSWER": "Microsoft Surface Pro 4 - 12.3\" - 128GB - Intel Core m3 - Bundle with Keyboard ,Silver"
+  }
+ },
+ "961b33d243": {
+  "instruction": {
+   "laptop": "Dell 15.6 inch gaming laptop ",
+   "800 dollars": "739.99"
+  }
+ },
+ "3ba8576cba": {
+  "instruction": {
+   "electronics": "wireless printers",
+   "price": "200"
+  }
+ },
+ "4544a6ded7": {
+  "instruction": {
+   "electronics": "Running Watches & Devices",
+   "ANSWER": "LG VC110 GizmoPal 2 Verizon, Garmin Vivofit Fitness Band",
+   "price": "Less Than 50 dollars"
+  }
+ },
+ "27a744d7af": {
+  "instruction": {
+   "electronics": "Gaming Desktops",
+   "ANSWER": "CYBERPOWERPC Gamer Xtreme VR GXiVR8020A Gaming Desktop - Intel i5-6402P Quad Core 2.8GHz, 8GB DDR4 RAM, 1TB HDD, 24X DVD, AMD RX 480 4GB, WI-Fi USB Adapter, Windows 10 Home",
+   "price": "800"
+  }
+ },
+ "7b2338d76b": {
+  "instruction": {
+   "electronics": "All in One Desktops",
+   "ANSWER": "Dell Inspiron 24 3000 Series All-In-One (Intel Core i3, 8 GB RAM, 500 GB HDD)",
+   "price": "600"
+  }
+ },
+ "e1e788b68d": {
+  "instruction": {
+   "electronics": "wearable tech",
+   "price": "200 dollars"
+  }
+ },
+ "31502c5998": {
+  "instruction": {
+   "electronics": "cameras",
+   "price": "250 dollars"
+  }
+ },
+ "b605640600": {
+  "instruction": {
+   "800 dollars": "682.03",
+   "laptop": "Dell Inspiron i5578-2451GRY 15.6",
+   "ANSWER": "606.00"
+  }
+ },
+ "610f8c12e5": {
+  "instruction": {
+   "types of games": "fighting ",
+   "video game console": "Xbox One"
+  }
+ },
+ "931c29543a": {
+  "instruction": {
+   "laptop": "HP Pavilion x360 2-in-1 13.3\" TouchScreen Laptop",
+   "800 dollars": "599.99"
+  }
+ },
+ "ac1253fa07": {
+  "instruction": {
+   "electronics": "Printer",
+   "ANSWER": "Brother MFCL2700DW",
+   "price": "$130"
+  }
+ },
+ "581d26a7b9": {
+  "instruction": {
+   "electronics": "Laser Printer",
+   "ANSWER": "HP LaserJet Pro M402n, Brother MFCL2700DW Compact Laser",
+   "price": "less than 199 dollars"
+  }
+ },
+ "fc3ecd04d9": {
+  "instruction": {
+   "electronics": "DSLR Cameras",
+   "ANSWER": "Nikon D3300 1532 18-55mm f/3.5-5.6G VR II Auto Focus-S DX NIKKOR Zoom Lens 24.2 MP Digital SLR \u2013 Black",
+   "price": "500"
+  }
+ },
+ "c21118cefa": {
+  "instruction": {
+   "electronics": " Video Games",
+   "ANSWER": "The Legend of Zelda: Breath of the Wild - Nintendo Switch,Horizon Zero Dawn - PlayStation 4,For Honor - PlayStation 4,Nioh - PlayStation 4",
+   "price": "100"
+  }
+ },
+ "cef2cd421e": {
+  "instruction": {
+   "electronics": "Android Tablets",
+   "ANSWER": "Samsung Galaxy Tab E Lite 7\"; 8 GB Wifi Tablet (White) SM-T113NDWAXAR",
+   "price": "100"
+  }
+ },
+ "4998320f0e": {
+  "instruction": {
+   "electronics": "GPS trackers",
+   "ANSWER": "Spy Tec STI_GL300 Mini Portable Real Time GPS Tracker",
+   "price": "50"
+  }
+ },
+ "8c7def6a3c": {
+  "instruction": {
+   "electronics": "Televisions",
+   "ANSWER": "TCL 32S3800 32-Inch 720p Roku Smart LED TV (2015 Model),Sony KDL40W650D 40-Inch 1080p Smart LED TV (2016 Model),Samsung UN28H4000 28-Inch 720p 60Hz LED TV (2014 Model),Samsung UN19F4000 19-Inch 720p 60Hz LED TV (2013 Model),LG Electronics 43UH6100 43-Inch 4K Ultra HD Smart LED TV (2016 Model)",
+   "price": "499"
+  }
+ },
+ "b7a62e3286": {
+  "instruction": {
+   "electronics": "TV",
+   "ANSWER": "LG Electronics 60UH6150 60-Inch, Samsung UN60J6200 60-Inch , Samsung UN55KU6300 , ",
+   "price": "Less Than 999 dollars"
+  }
+ },
+ "360225ebdb": {
+  "instruction": {
+   "800 dollars": "549.00",
+   "laptop": "ASUS F556UA-AB54 NB 15.6",
+   "ANSWER": "529.00"
+  }
+ },
+ "2256629345": {
+  "instruction": {
+   "electronics": "Electric Guitar",
+   "ANSWER": " Costzon 38 \" Black Acoustic, ChromaCast CC-BPB-BAG-KIT-1, ",
+   "price": "Less Than 50 dollars"
+  }
+ },
+ "93aac9913b": {
+  "instruction": {
+   "electronics": "2 in 1 Laptops ",
+   "ANSWER": "Acer Chromebook R 11 Convertible, 11.6-Inch HD Touch, Intel Celeron N3150, 4GB DDR3L, 32GB, Chrome, CB5-132T-C1LK",
+   "price": "300"
+  }
+ },
+ "47869d4f75": {
+  "instruction": {
+   "types of games": "shooter",
+   "video game console": "Xbox 360"
+  }
+ },
+ "24205a9925": {
+  "instruction": {
+   "electronics": "GPS Navigation",
+   "ANSWER": "Garmin Nuvi 57LM GPS Navigator System with Spoken Turn-By-Turn Directions, Lifetime Map Updates, Direct Access, and Speed Limit Displays",
+   "price": "$200"
+  }
+ },
+ "1baf86dcd4": {
+  "instruction": {
+   "electronics": "Scanners",
+   "ANSWER": "Brother ADS1000W , Fujitsu ScanSnap iX100 Wireless Mobile Scanner",
+   "price": "Less than 199 dollars"
+  }
+ },
+ "a762afe5ca": {
+  "instruction": {
+   "electronics": "What are some new,popular (Laptops) for less than (700 dollars) ",
+   "ANSWER": "Laptops",
+   "price": "700 dollars"
+  }
+ },
+ "2ca5486785": {
+  "instruction": {
+   "800 dollars": "559.9",
+   "laptop": "HP Notebook 15-ay011nr 15.6-Inch Laptop",
+   "ANSWER": "459.99"
+  }
+ },
+ "152efd7d89": {
+  "instruction": {
+   "types of games": "adventure",
+   "video game console": "Nintendo 3ds"
+  }
+ },
+ "dcc7a78d79": {
+  "instruction": {
+   "electronics": "Home Theater Systems",
+   "ANSWER": "Bose CineMate 15 Home Theater Speaker System, Black",
+   "price": "500"
+  }
+ },
+ "63d8b8b19c": {
+  "instruction": {
+   "electronics": "Headset",
+   "ANSWER": "Honstek G9 Gaming Headset",
+   "price": "$40"
+  }
+ },
+ "bf7e519485": {
+  "instruction": {
+   "electronics": "Smart TVs ",
+   "price": "1000 dollars"
+  }
+ },
+ "6e0b7e6f0b": {
+  "instruction": {
+   "electronics": "Carrier Cell Phones",
+   "ANSWER": "Samsung Galaxy J7 - No Contract Phone - White - (Virgin Mobile),Jitterbug Smart Easy-to-Use 5.5\u201d Smartphone for Seniors by GreatCall,TracFone Samsung Galaxy J3 Sky 4G LTE Prepaid Smartphone with Free $30 Airtime Bundle,Samsung Galaxy Note 3, Black 32GB (Verizon Wireless),LG G Vista VS880, Black 8GB Verizon LTE,LG G Vista (Verizon Prepaid)",
+   "price": "150"
+  }
+ },
+ "31b4995c58": {
+  "instruction": {
+   "electronics": "over-ear headphones",
+   "ANSWER": "Bose SoundTrue",
+   "price": "150"
+  }
+ },
+ "062ef0cca4": {
+  "instruction": {
+   "electronics": "bookshelf speakers",
+   "ANSWER": "Sonos PLAY:1 Compact ",
+   "price": "700"
+  }
+ },
+ "1b22e582c7": {
+  "instruction": {
+   "types of games": "strategy",
+   "video game console": "Xbox One"
+  }
+ },
+ "4a6b970aa7": {
+  "instruction": {
+   "electronics": "Keyboard",
+   "ANSWER": "HyperX Alloy FPS ",
+   "price": "$80"
+  }
+ },
+ "08079c15ec": {
+  "instruction": {
+   "electronics": "What aresome new,Popular( Video game systems) for less than (300 dollars)",
+   "ANSWER": "Video game systems",
+   "price": "300 dollars"
+  }
+ },
+ "1e63fede67": {
+  "instruction": {
+   "electronics": "smart watches",
+   "price": "100"
+  }
+ },
+ "3185d8a79a": {
+  "instruction": {
+   "800 dollars": "599.99",
+   "laptop": "HP Pavilion x2 12-b020nr 12",
+   "ANSWER": "419.97"
+  }
+ },
+ "b8fa71c556": {
+  "instruction": {
+   "laptop": "ASUS ZX53VW 15.6\" Gaming Laptop, NVIDIA",
+   "800 dollars": "779.00"
+  }
+ },
+ "4d7f893adf": {
+  "instruction": {
+   "electronics": "smart devices",
+   "price": "400 dollars"
+  }
+ },
+ "a937cbd486": {
+  "instruction": {
+   "electronics": "Tablet",
+   "ANSWER": "Samsung Galaxy Tab A 8-Inch Tablet ",
+   "price": "$200"
+  }
+ },
+ "79a375b6d1": {
+  "instruction": {
+   "electronics": "What are some new, Popular (Books) for less than (30 dollars)",
+   "ANSWER": "Books",
+   "price": "30 dollars"
+  }
+ },
+ "37b56418d3": {
+  "instruction": {
+   "laptop": "ASUS ZenBook UX330UA-AH54 13.3-inch Ultra-Slim Laptop",
+   "800 dollars": "729.99"
+  }
+ },
+ "b886bbfb18": {
+  "instruction": {
+   "electronics": "Laptop",
+   "ANSWER": "2017 HP 15.6 Inch Premium Flagship Touchscreen Laptop ",
+   "price": "$350"
+  }
+ },
+ "90e5ff52ba": {
+  "instruction": {
+   "electronics": "video game systems",
+   "price": "300 dollars"
+  }
+ },
+ "2324e49445": {
+  "instruction": {
+   "electronics": "4K Smart TVs",
+   "ANSWER": "Samsung UN65KS8000 65-Inch 4K Ultra HD Smart LED TV",
+   "price": "2000"
+  }
+ },
+ "f1d41f97aa": {
+  "instruction": {
+   "types of games": "trivia",
+   "video game console": "Nintendo DS"
+  }
+ },
+ "46d5f196c1": {
+  "instruction": {
+   "electronics": "Mouse",
+   "ANSWER": "Logitech M510 Wireless Large Mouse",
+   "price": "$15"
+  }
+ },
+ "bb91b4c869": {
+  "instruction": {
+   "types of games": "racing",
+   "video game console": "Nintendo Wii"
+  }
+ },
+ "afd6c3d0e4": {
+  "instruction": {
+   "800 dollars": "729.99",
+   "laptop": "Lenovo Flex 4 2-in-1 Laptop/Tablet 14",
+   "ANSWER": "672.99"
+  }
+ },
+ "5d1cf6c4a8": {
+  "instruction": {
+   "electronics": "DSLR camera",
+   "ANSWER": "Nikon D7200 DX-format",
+   "price": "$1000"
+  }
+ },
+ "d60071750b": {
+  "instruction": {
+   "laptop": "Dell Latitude 14 5000 E5450 14\" Laptop",
+   "800 dollars": "598.99"
+  }
+ },
+ "68351be280": {
+  "instruction": {
+   "electronics": "What are some new, popular (Enclyclopedia)for less than (50 dollars)",
+   "ANSWER": "Encyclopedia",
+   "price": "50 dollars"
+  }
+ },
+ "a62c3d3dd6": {
+  "instruction": {
+   "electronics": "TV 4K ultra HD",
+   "ANSWER": "LG Electronics 75UH6550 75-Inch 4K Ultra HD Smart LED TV",
+   "price": "3000 dollars"
+  }
+ },
+ "72a8836d28": {
+  "instruction": {
+   "electronics": "External Hard Drive",
+   "ANSWER": "Seagate Expansion 1TB Portable External Hard Drive USB 3.0 ",
+   "price": "$60"
+  }
+ },
+ "faa0a8c1b8": {
+  "instruction": {
+   "electronics": "Gaming Laptops",
+   "ANSWER": "Dell 15.6-Inch Gaming Laptop (6th Gen Intel Quad-Core i5-6300HQ Processor up to 3.2GHz, 8GB DDR3, 256GB SSD, Nvidia GeForce GTX 960M, Windows 10)",
+   "price": "800"
+  }
+ },
+ "2154b3f73c": {
+  "instruction": {
+   "electronics": "Mobile Phone",
+   "ANSWER": "Samsung Galaxy J7 ",
+   "price": "$150"
+  }
+ },
+ "add4cf07e4": {
+  "instruction": {
+   "electronics": "Audio Tuners",
+   "ANSWER": "Yamaha T-S500BL AM/FM Tuner",
+   "price": "250"
+  }
+ },
+ "5fd20d2959": {
+  "instruction": {
+   "800 dollars": "800 dollars",
+   "laptop": "Windows 10 OS Laptop",
+   "ANSWER": "Dell Latitude 7000 E7450 UltraBook Laptop: 14\" FHD (1920x1080) TouchScreen (Corning Gorilla Glass) | Intel i5-5300U | 256GB SSD | 8GB RAM | Back-lit | Bluetooth | Windows 10 Pro | Warranty till 2019"
+  }
+ },
+ "e26086c567": {
+  "instruction": {
+   "electronics": " Smart Watches",
+   "ANSWER": "Amazingforless Black Bluetooth Touch Screen Smart Wrist Watch,Qiufeng Dz09 Bluetooth Smart Watch SmartWatch with Camera,TW64 Smart Watch TopBest Bluetooth Bracelet Call,Qiufeng GT08 Bluetooth Smart Watch SmartWatch ",
+   "price": "25"
+  }
+ },
+ "06614f9f23": {
+  "instruction": {
+   "electronics": "keyboards",
+   "price": "100"
+  }
+ },
+ "3b7a0b4d85": {
+  "instruction": {
+   "electronics": "turntables",
+   "ANSWER": "Audio Technica AT-LP60BK Fully Automatic Belt-Drive Stereo Turntable",
+   "price": "100"
+  }
+ },
+ "3631cbe7e6": {
+  "instruction": {
+   "types of games": "role-playing",
+   "video game console": "PC"
+  }
+ },
+ "d98fc5037a": {
+  "instruction": {
+   "electronics": "shredder",
+   "ANSWER": "AmazonBasics 6-Sheet Cross-Cut Paper",
+   "price": "30 dollars"
+  }
+ },
+ "88f533799a": {
+  "instruction": {
+   "electronics": "Plasma TV",
+   "ANSWER": "Samsung PN43F4500 43-Inch 720p 600Hz Plasma HDTV",
+   "price": "$1000"
+  }
+ },
+ "9b7e610337": {
+  "instruction": {
+   "electronics": "Blu-ray Disc Players",
+   "ANSWER": "Sony BDPS3700 Streaming Blu-Ray Disc",
+   "price": "100 dollars"
+  }
+ },
+ "39d1e873ab": {
+  "instruction": {
+   "electronics": "USB Flash Drive",
+   "ANSWER": "SanDisk Ultra CZ48 32GB USB 3.0 Flash",
+   "price": "30 dollars"
+  }
+ },
+ "9668e385da": {
+  "instruction": {
+   "800 dollars": "499.99",
+   "laptop": "Lenovo Ideapad 310 15.6",
+   "ANSWER": "468.98"
+  }
+ },
+ "3ff487d649": {
+  "instruction": {
+   "electronics": "Cell Phone VR Headsets",
+   "ANSWER": "Google Daydream View - VR Headset , Samsung Gear VR - Virtual Reality Headset, ",
+   "price": "less than 100 dollars"
+  }
+ },
+ "c65faef00f": {
+  "instruction": {
+   "electronics": "Portable Bluetooth Speakers",
+   "ANSWER": "AmazonBasics Portable Bluetooth Speaker - Black,VicTsing Shower Speaker, Wireless Waterproof Speaker with 5W Drive, Suction Cup, Buit-in Mic, Hands-Free Speakerphone - Army Green,SoundBot SB571 Bluetooth Wireless Speaker 12W Output HD Bass 40mm Dual Driver Portable Speakerphone,Sylvania SP328-Black Portable Bluetooth Speaker",
+   "price": "25"
+  }
+ },
+ "5e42106d26": {
+  "instruction": {
+   "electronics": "computers",
+   "price": "800 dollars"
+  }
+ },
+ "b2362950f5": {
+  "instruction": {
+   "electronics": "Monitor",
+   "ANSWER": "HP Pavilion 22cwa 21.5-inch",
+   "price": "$100"
+  }
+ },
+ "bf57bf0817": {
+  "instruction": {
+   "electronics": "What are some new, popular(Earphones) for less than (70 dollars)",
+   "ANSWER": "Earphones",
+   "price": "70 dollars"
+  }
+ },
+ "0ba072232a": {
+  "instruction": {
+   "electronics": "VR headsets",
+   "price": "1000"
+  }
+ },
+ "afbef94bd5": {
+  "instruction": {
+   "electronics": "bluetoother speakers",
+   "ANSWER": "JBL Flip 3 Splashproof Portable Bluetooth Speaker",
+   "price": "80"
+  }
+ },
+ "2c411daaf3": {
+  "instruction": {
+   "electronics": "cell phone",
+   "ANSWER": "BLU R1 HD, BLU Advance 5.0 & LG Destiny 4G",
+   "price": "60 dollars"
+  }
+ },
+ "9b83570f1c": {
+  "instruction": {
+   "electronics": "headphones",
+   "price": "90 dollars"
+  }
+ },
+ "84bf160ca8": {
+  "instruction": {
+   "800 dollars": "800 dollars",
+   "laptop": "Mac OS X Laptop",
+   "ANSWER": "Apple MacBook Air MD711LL/B 11.6-Inch Laptop (OLD VERSION)"
+  }
+ },
+ "4923bb4be0": {
+  "instruction": {
+   "800 dollars": "800 dollars",
+   "laptop": "Chrome OS Laptop",
+   "ANSWER": " ASUS Chromebook C202SA-YS02 11.6\" Ruggedized and Water Resistant Design with 180 Degree (Intel Celeron 4 GB, 16GB eMMC, Dark Blue)"
+  }
+ },
+ "d9f549ff84": {
+  "instruction": {
+   "electronics": "Digital SLRs",
+   "ANSWER": "Nikon D3300 1532 18-55mm f/3.5-5.6G",
+   "price": "500 dollars"
+  }
+ },
+ "fcbe887847": {
+  "instruction": {
+   "types of games": "puzzle",
+   "video game console": "Playstation 3"
+  }
+ },
+ "c98e84105d": {
+  "instruction": {
+   "electronics": "bluetooth Headphones",
+   "ANSWER": "AmazonBasics Over-Ear Wireless RF Headphones with Charging Dock",
+   "price": "70"
+  }
+ },
+ "f90f952e42": {
+  "instruction": {
+   "electronics": "car radar",
+   "price": "300"
+  }
+ },
+ "d98a6fae7f": {
+  "instruction": {
+   "electronics": "wifi routers",
+   "price": "90"
+  }
+ },
+ "22051ea556": {
+  "instruction": {
+   "800 dollars": "629.99",
+   "laptop": "Dell Inspiron i7359-2435SLV 13.3 Inch 2-in-1 Touchscreen",
+   "ANSWER": "578.19"
+  }
+ },
+ "deac660de9": {
+  "instruction": {
+   "laptop": "ASUS K501UW-AB78 15.6-inch Full-HD Gaming Laptop ",
+   "800 dollars": "799.99"
+  }
+ },
+ "9636710c01": {
+  "instruction": {
+   "electronics": "Soundbars",
+   "ANSWER": "Samsung HW-J355 2.1 Channel ",
+   "price": "150"
+  }
+ },
+ "57c8693bac": {
+  "instruction": {
+   "electronics": "mobile phone",
+   "ANSWER": "Samsung Galaxy J7 , LG G Stylo LS770AVB",
+   "price": "less than 150 dollars"
+  }
+ },
+ "9ad2f50ffe": {
+  "instruction": {
+   "electronics": "printer",
+   "ANSWER": "Canon Office and Business MX922 & HP OfficeJet 4650 Wireless",
+   "price": "100 dollars"
+  }
+ },
+ "1e291fb321": {
+  "instruction": {
+   "electronics": "Routers",
+   "ANSWER": "NETGEAR Wireless Router (WNR1000-100NAS (G54/N150)),TP-Link N300 Wireless Wi-Fi Router, Up to 300Mbps (TL-WR841N),HooToo Wireless Travel Router, USB Port, High Performance- TripMate Nano (Not a Hotspot),TRENDnet Wireless N 300 Mbps Home Router, TEW-731BR",
+   "price": "25"
+  }
+ },
+ "dccd4dd20d": {
+  "instruction": {
+   "electronics": "Projector",
+   "ANSWER": "ViewSonic PJD5155 3300 Lumens SVGA",
+   "price": "300 dollars"
+  }
+ },
+ "87b7e63e9e": {
+  "instruction": {
+   "electronics": "scanner",
+   "ANSWER": "Fujitsu iX500 ScanSnap Document Scanner",
+   "price": "500 dollars"
+  }
+ },
+ "2f4f6ae8d5": {
+  "instruction": {
+   "electronics": "home theater sound system",
+   "ANSWER": "Bose CineMate 15 Home Theater Speaker System",
+   "price": "$500"
+  }
+ },
+ "6d933a0559": {
+  "instruction": {
+   "electronics": "Kindle E-reader",
+   "ANSWER": "Certified Refurbished Kindle Paperwhite E-reader - Black, 6\" High-Resolution Display (300 ppi) with Built-in Light, Wi-Fi - Includes Special Offers",
+   "price": "100 dollars"
+  }
+ }
+}

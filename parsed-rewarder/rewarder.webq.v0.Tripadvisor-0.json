@@ -1,0 +1,1395 @@
+{
+ "962e1d814c": {
+  "instruction": {
+   "type of food": "Good Steak",
+   "ANSWER": "St. Elmo Steakhouse",
+   "city": "Indianapolis"
+  }
+ },
+ "5583e3ca51": {
+  "instruction": {
+   "type of food": "Middle Eastern",
+   "ANSWER": "DarSalam",
+   "city": "Portland"
+  }
+ },
+ "f1df3b4497": {
+  "instruction": {
+   "type of food": "Breakfast",
+   "ANSWER": "Long's Bakery",
+   "city": "Indianapolis"
+  }
+ },
+ "a377ce79f5": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "kenya",
+   "type of activity": "safari"
+  }
+ },
+ "66eba8ec75": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Mama Carolla's Old Italian Restaurant ",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "d172455c68": {
+  "instruction": {
+   "type of food": "Mexican Food",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "f1eb54733e": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Japan",
+   "type of activity": "skiing"
+  }
+ },
+ "6e448816c5": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Las Vegas",
+   "type of activity": "Historic Site",
+   "ANSWER": "Little Church of the West"
+  }
+ },
+ "06c8f7ff5c": {
+  "instruction": {
+   "type of food": "seafood",
+   "ANSWER": "Caplinger's Fresh Catch ",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "db0de4bbba": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Chicago",
+   "type of activity": "historic site",
+   "ANSWER": "Garfield Park Conservatory"
+  }
+ },
+ "0e889a9a2d": {
+  "instruction": {
+   "type of food": "tamales",
+   "ANSWER": "The Tamale Place",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "88c587d8fc": {
+  "instruction": {
+   "type of food": "Coffee",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "bdec0400ff": {
+  "instruction": {
+   "type of food": "Sushi",
+   "ANSWER": "Kona Jack's Fish Market",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "07a71a46fc": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Eataly",
+   "city": "New York, NY"
+  }
+ },
+ "a28659591b": {
+  "instruction": {
+   "type of food": "Creole food",
+   "ANSWER": "Yats on College",
+   "city": "Indianapolis"
+  }
+ },
+ "d93eb60156": {
+  "instruction": {
+   "type of food": "Pizza",
+   "price": "cheap",
+   "location": "Henrico,VA"
+  }
+ },
+ "cfd41eb1bc": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Gold Coast Australia",
+   "type of activity": "water park"
+  }
+ },
+ "269356e162": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Las Vegas",
+   "type of activity": "Scenic Drive",
+   "ANSWER": "Hwy-158"
+  }
+ },
+ "263e7217f1": {
+  "instruction": {
+   "type of food": "Thai",
+   "price": "mid-range",
+   "location": "Henrico,VA"
+  }
+ },
+ "59660d4bd6": {
+  "instruction": {
+   "type of food": "Deli sandwiches",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "4184b61919": {
+  "instruction": {
+   "type of food": "American food",
+   "ANSWER": "Capital Grille",
+   "city": "Indianapolis"
+  }
+ },
+ "74132afaa9": {
+  "instruction": {
+   "type of food": "Sushi",
+   "ANSWER": "Yotsuba Japanese Restaurant",
+   "city": "Ann Arbor, Michigan"
+  }
+ },
+ "4e0fa9822e": {
+  "instruction": {
+   "type of food": "Cuban and latin",
+   "ANSWER": "Taste of Havana",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "32c016de09": {
+  "instruction": {
+   "type of food": "barbeque",
+   "ANSWER": "City Barbeque ",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "73febf19f0": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Los Angeles",
+   "type of activity": "place to see a sports event",
+   "ANSWER": "Staples Center"
+  }
+ },
+ "30d1430a2f": {
+  "instruction": {
+   "type of food": "Lobster",
+   "ANSWER": "The Lobster Shack at two lights",
+   "city": "Cape Elizabeth, Maine"
+  }
+ },
+ "d1ace3dba9": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Outer Banks",
+   "type of activity": "mini golf course",
+   "ANSWER": "Professor Hacker's Lost Treasure Golf"
+  }
+ },
+ "487c985e7e": {
+  "instruction": {
+   "type of food": "Burgers",
+   "ANSWER": "Elevation Burger Ann Arbor - Washtenaw",
+   "city": "Ann Arbor, Michigan"
+  }
+ },
+ "38ad184d97": {
+  "instruction": {
+   "type of food": "Hoagies",
+   "ANSWER": "Hoagies & Hops",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "0c8de07a74": {
+  "instruction": {
+   "type of food": "Vegan food",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "b3991e7bed": {
+  "instruction": {
+   "type of food": "Tacos",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "b1e7dab999": {
+  "instruction": {
+   "type of food": "Chinese",
+   "ANSWER": "TK Wu",
+   "city": "Ann Arbor, Michigan"
+  }
+ },
+ "96b2e22416": {
+  "instruction": {
+   "type of food": "Seafood",
+   "price": "mid-range",
+   "location": "Richmond,VA"
+  }
+ },
+ "07b3f5550e": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Las Vegas",
+   "type of activity": "Casino",
+   "ANSWER": "Wynn Las Vegas Casino"
+  }
+ },
+ "74b3a9e37e": {
+  "instruction": {
+   "type of food": "Good coffee",
+   "ANSWER": "Cafe Patachou",
+   "city": "Indianapolis"
+  }
+ },
+ "a75751766a": {
+  "instruction": {
+   "type of food": "Italian food",
+   "ANSWER": "Osteria Pronto",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "9a84e2406b": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Napa Valley",
+   "type of activity": "hot air balloon rides",
+   "ANSWER": "Napa Valley Balloons, Inc."
+  }
+ },
+ "39f6374bd7": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Las Vegas",
+   "type of activity": "Shopping",
+   "ANSWER": "Forum Shops at Caesars Palace"
+  }
+ },
+ "4e66de839f": {
+  "instruction": {
+   "type of food": "soups",
+   "ANSWER": "McAlister's Deli",
+   "city": "Indianapolis,Indiana"
+  }
+ },
+ "99b27c589a": {
+  "instruction": {
+   "type of food": "Italian food",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "341a72be95": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Phuket",
+   "type of activity": "childrens activities"
+  }
+ },
+ "8ab9b0fa6a": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Connecticut",
+   "type of activity": "winery tastings",
+   "ANSWER": "Jonathan Edwards Winery"
+  }
+ },
+ "6f3e68d035": {
+  "instruction": {
+   "type of food": "barbeque",
+   "ANSWER": "City Barbeque",
+   "city": "Indianapolis,Indiana"
+  }
+ },
+ "e3211b3970": {
+  "instruction": {
+   "type of food": "Dessert",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "318b7f3ab1": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Panama City Beach, FL",
+   "type of activity": "museums",
+   "ANSWER": "Ripley's Believe It or Not"
+  }
+ },
+ "0be63d7961": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Destin, FL",
+   "type of activity": "beach",
+   "ANSWER": "Henderson Beach State Park"
+  }
+ },
+ "81add08f51": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Las Vegas",
+   "type of activity": "Antique Store",
+   "ANSWER": "Gold and Silver Pawn Shop"
+  }
+ },
+ "1ad36fd06f": {
+  "instruction": {
+   "type of food": "mexican",
+   "price": "cheap",
+   "location": "Richmond,VA"
+  }
+ },
+ "12fdb29beb": {
+  "instruction": {
+   "type of food": "Burger",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "1f39ceb75b": {
+  "instruction": {
+   "age groups": "Adults",
+   "geographic location": "Pittsburgh, PA",
+   "type of activity": "Skating Rink",
+   "ANSWER": "PPG Place"
+  }
+ },
+ "fc8120567b": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "london",
+   "type of activity": "musueums"
+  }
+ },
+ "1a211c9142": {
+  "instruction": {
+   "type of food": "spanish food ",
+   "ANSWER": "The Tamale Palace",
+   "city": "Indianapolis,Indiana"
+  }
+ },
+ "3a222d7042": {
+  "instruction": {
+   "age groups": "couples",
+   "geographic location": "Darwin Australia",
+   "type of activity": "hotel"
+  }
+ },
+ "e89b3cc35f": {
+  "instruction": {
+   "type of food": "Greek",
+   "ANSWER": "Kokkari Estiatorio",
+   "city": "San Francisco"
+  }
+ },
+ "8a5fe1d47c": {
+  "instruction": {
+   "type of food": "a good burger",
+   "ANSWER": "Bru Burger Bar",
+   "city": "Indianapolis"
+  }
+ },
+ "afcee8cc64": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Destin, FL",
+   "type of activity": "parasailing",
+   "ANSWER": "Just Chute Me Parasail"
+  }
+ },
+ "f8123e5f3e": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "ann arbor, mi",
+   "type of activity": "coffee shops"
+  }
+ },
+ "c1b8914e29": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Tampa, FL",
+   "type of activity": "hiking trail",
+   "ANSWER": "Bayshore Boulevard"
+  }
+ },
+ "d450175ed3": {
+  "instruction": {
+   "type of food": "Japanese",
+   "ANSWER": "Yotsuba Japanese Restaurant",
+   "city": "Ann Arbor, Michigan"
+  }
+ },
+ "26b17ebd3c": {
+  "instruction": {
+   "type of food": "Middle Eastern",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "d02faebd62": {
+  "instruction": {
+   "type of food": "Sushi",
+   "ANSWER": "Sushi.com",
+   "city": "Spokane"
+  }
+ },
+ "d88924683d": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "aspen",
+   "type of activity": "skiing"
+  }
+ },
+ "e6d61282a4": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "oklahoma city, oklahoma",
+   "type of activity": "fine dining"
+  }
+ },
+ "ef58c7cd83": {
+  "instruction": {
+   "type of food": "ice cream",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "5e28fe3599": {
+  "instruction": {
+   "type of food": "PIzza",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "c6da4e5fcb": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Bangkok",
+   "type of activity": "temple"
+  }
+ },
+ "8e618cf3d4": {
+  "instruction": {
+   "type of food": "Mexican food",
+   "ANSWER": "The Tamale Place",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "79a8a6767f": {
+  "instruction": {
+   "type of food": "Wine bars",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "7443a27b5d": {
+  "instruction": {
+   "type of food": "pizza",
+   "ANSWER": "Brozinni Pizzeria",
+   "city": "Indianapolis,Indiana"
+  }
+ },
+ "5804089135": {
+  "instruction": {
+   "type of food": "Cuban food",
+   "ANSWER": "Taste of Havana",
+   "city": "Indianapolis"
+  }
+ },
+ "ec37e79312": {
+  "instruction": {
+   "type of food": "Seafood",
+   "ANSWER": "Caplinger's Fresh Catch",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "a1ea1e3d08": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Michigan City",
+   "type of activity": "shopping",
+   "ANSWER": "Lighthouse Place Premium Outlets"
+  }
+ },
+ "2c2b382eae": {
+  "instruction": {
+   "type of food": "Barbecue",
+   "ANSWER": "City Barbeque",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "74e57a7ad4": {
+  "instruction": {
+   "age groups": "Kids",
+   "geographic location": "Pittsburgh, PA",
+   "type of activity": "Museum",
+   "ANSWER": "Children's Museum of Pittsburgh"
+  }
+ },
+ "eef53c9eb3": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "colorado",
+   "type of activity": "hiking"
+  }
+ },
+ "f46d043696": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Chiang Mai",
+   "type of activity": "Thai massage",
+   "ANSWER": "Fah Lanna Spa"
+  }
+ },
+ "c06138d774": {
+  "instruction": {
+   "type of food": "gyros",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "674e969d6e": {
+  "instruction": {
+   "type of food": "Steaks",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "f3c34ef522": {
+  "instruction": {
+   "type of food": "Jamacian",
+   "price": "cheap",
+   "location": "Richmond,VA"
+  }
+ },
+ "615032d4b3": {
+  "instruction": {
+   "type of food": "Cajun & Creole",
+   "ANSWER": "Yats on College",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "8c7e224cf6": {
+  "instruction": {
+   "type of food": "coffee",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "6c1e611508": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "SIAM Square",
+   "city": "Ann Arbor, Michigan"
+  }
+ },
+ "3e2f610856": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Johannesburg",
+   "type of activity": "safari",
+   "ANSWER": "Felleng Day Tours"
+  }
+ },
+ "5b252f2c05": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "sacramento, ca",
+   "type of activity": "karaoke"
+  }
+ },
+ "43e4a27ada": {
+  "instruction": {
+   "type of food": "Chinese",
+   "ANSWER": "Ichiyami Buffet and Sushi",
+   "city": "Boba Raton, FL"
+  }
+ },
+ "1423432f41": {
+  "instruction": {
+   "type of food": "tacos",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "f577e867aa": {
+  "instruction": {
+   "age groups": "couples",
+   "geographic location": "Mexico City",
+   "type of activity": "Thai restaurant"
+  }
+ },
+ "0c54260a19": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "memphis, tn",
+   "type of activity": "theatre and live shows"
+  }
+ },
+ "a996d91ff3": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "atlanta, georgia",
+   "type of activity": "water parks"
+  }
+ },
+ "0913b503ea": {
+  "instruction": {
+   "type of food": "Greek food",
+   "ANSWER": "Santorini Greek Kitchen",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "1ce8f9ba3d": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Los Angeles, CA",
+   "type of activity": "shopping",
+   "ANSWER": "The Grove"
+  }
+ },
+ "56fb00541b": {
+  "instruction": {
+   "type of food": "Seafood",
+   "ANSWER": "Hog Fish Bar and Grill",
+   "city": "Key West, FL"
+  }
+ },
+ "e2b4db2ef8": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Panama City Beach, FL",
+   "type of activity": "shopping",
+   "ANSWER": "Pier Park"
+  }
+ },
+ "7731104660": {
+  "instruction": {
+   "age groups": "Families",
+   "geographic location": "Bar Harbor, ME",
+   "type of activity": "Mini Golf",
+   "ANSWER": "Pirates Cove Mini Golf"
+  }
+ },
+ "aa7aaeb896": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "seattle, wa",
+   "type of activity": "hookah lounges"
+  }
+ },
+ "553e7da491": {
+  "instruction": {
+   "type of food": "sea food",
+   "ANSWER": "Caplinger's Fresh Catch",
+   "city": "Indianapolis,Indiana"
+  }
+ },
+ "d2ba841af6": {
+  "instruction": {
+   "type of food": "Diner food",
+   "ANSWER": "Historic Steer-In Restaurant",
+   "city": "Indianapolis"
+  }
+ },
+ "ada32a7c6f": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Singapore",
+   "type of activity": "casino"
+  }
+ },
+ "e00dfeff7d": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Albuquerque",
+   "type of activity": "hot air ballooning",
+   "ANSWER": "Rainbow Ryders"
+  }
+ },
+ "8dda91d4fd": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "orlando",
+   "type of activity": "disney world"
+  }
+ },
+ "afcfad575c": {
+  "instruction": {
+   "type of food": "Cuban",
+   "ANSWER": "Enriqueta's Sandwich Shop",
+   "city": "Miami, FL"
+  }
+ },
+ "1ced6ec281": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Las vegas",
+   "type of activity": "magic show",
+   "ANSWER": "Mac King Comedy Magic Show"
+  }
+ },
+ "3d883c8867": {
+  "instruction": {
+   "type of food": "Tex-Mex",
+   "price": "mid-range",
+   "location": "Virginia Beach , VA"
+  }
+ },
+ "1e8fa3493e": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "South Lake Tahoe",
+   "type of activity": "ski resort",
+   "ANSWER": "Gondola at Heavenly"
+  }
+ },
+ "73bfa9873a": {
+  "instruction": {
+   "age groups": "Teens",
+   "geographic location": "Nantucket, MA",
+   "type of activity": "Museum",
+   "ANSWER": "Nantucket Shipwreck & Lifesaving Museum"
+  }
+ },
+ "d8c33677b1": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Ayala Thai Cuisine",
+   "city": "Los Angeles, CA"
+  }
+ },
+ "bbe1427b28": {
+  "instruction": {
+   "type of food": "French food",
+   "ANSWER": "The Cake Bake Shop",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "60a98fffc4": {
+  "instruction": {
+   "type of food": "thai",
+   "ANSWER": "Thai Paradise",
+   "city": "Indianapolis,Indiana"
+  }
+ },
+ "b4d0484391": {
+  "instruction": {
+   "age groups": "Kids",
+   "geographic location": "Salem, MA",
+   "type of activity": "Historical Tour",
+   "ANSWER": "Bewitched After Dark Walking Tours of Salem"
+  }
+ },
+ "aa96fad92e": {
+  "instruction": {
+   "age groups": "kids",
+   "geographic location": "Long Island",
+   "type of activity": "water park",
+   "ANSWER": "Splish Splash"
+  }
+ },
+ "585e7f1582": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "miami, fl",
+   "type of activity": "bars"
+  }
+ },
+ "45eb7b88a7": {
+  "instruction": {
+   "type of food": "Chinese food",
+   "ANSWER": "P.F. Chang's",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "d2f80302a9": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Williamsburg, PA",
+   "type of activity": "amusement park",
+   "ANSWER": "Busch Gardens"
+  }
+ },
+ "a37f66f1ca": {
+  "instruction": {
+   "type of food": "Cheesesteaks",
+   "ANSWER": "Mombo's Cheesesteak Grill",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "9d8372339f": {
+  "instruction": {
+   "type of food": "Ethiopian ",
+   "ANSWER": "Blue Nile Ethiopian Restaurant",
+   "city": "Las Vegas"
+  }
+ },
+ "02e1ab1fc8": {
+  "instruction": {
+   "type of food": "Japanese",
+   "ANSWER": "Sakagura",
+   "city": "New York City"
+  }
+ },
+ "38ca692d9d": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "San Francisco",
+   "type of activity": "Chinese food",
+   "ANSWER": "Hakkasan"
+  }
+ },
+ "0f923accff": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Michigan City",
+   "type of activity": "beach",
+   "ANSWER": "Michigan City Beach"
+  }
+ },
+ "3cd6754dc2": {
+  "instruction": {
+   "type of food": "seafood",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "d0811fe960": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "appalachia, virginia",
+   "type of activity": "hiking"
+  }
+ },
+ "7b2a118a9c": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Las Vegas",
+   "type of activity": "Hiking Trail",
+   "ANSWER": "Historic Railroad Trail"
+  }
+ },
+ "95bbf199b0": {
+  "instruction": {
+   "type of food": "hamburgers",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "cc39e779a3": {
+  "instruction": {
+   "type of food": "Indian",
+   "ANSWER": "Saffron Cafe ",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "9288e23dbe": {
+  "instruction": {
+   "type of food": "Chinese food",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "c53550b931": {
+  "instruction": {
+   "type of food": "Pho",
+   "price": "cheap",
+   "location": "Virginia Beach,VA"
+  }
+ },
+ "9263d5b7b0": {
+  "instruction": {
+   "type of food": "barbeque",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "1e1dd827fb": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "hawaii",
+   "type of activity": "scuba diving"
+  }
+ },
+ "7542f4b671": {
+  "instruction": {
+   "type of food": "cookies",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "718f9ff3c4": {
+  "instruction": {
+   "type of food": "latin",
+   "ANSWER": "Delicia",
+   "city": "Indianapolis,Indiana"
+  }
+ },
+ "88743c1e9f": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Thai Paradise",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "da1f69af19": {
+  "instruction": {
+   "type of food": "Pub",
+   "price": "cheap",
+   "location": "Norfolk,VA"
+  }
+ },
+ "cc1ee715c0": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Boston",
+   "type of activity": "museum"
+  }
+ },
+ "da391a9dc7": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Los Angeles, CA",
+   "type of activity": "amusement park",
+   "ANSWER": "Universal Studios Hollywood"
+  }
+ },
+ "9af51ac386": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "new york city",
+   "type of activity": "sightseeing"
+  }
+ },
+ "ed115714e6": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Miami, FL",
+   "type of activity": "beach",
+   "ANSWER": "South Beach"
+  }
+ },
+ "8f026e63bf": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Denver, CO",
+   "type of activity": "brewery tour",
+   "ANSWER": "Great Divide Brewery"
+  }
+ },
+ "c802e0faea": {
+  "instruction": {
+   "type of food": "gluten free food",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "b88e7e733e": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Thai Pot Cafe",
+   "city": "Denver"
+  }
+ },
+ "64509e7cef": {
+  "instruction": {
+   "type of food": "doughnuts",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "d773ad5306": {
+  "instruction": {
+   "type of food": "Hamburgers",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "155d166247": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Las Vegas",
+   "type of activity": "RV park",
+   "ANSWER": "Oasis Las vegas RV Resort"
+  }
+ },
+ "dc3b83927a": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Las Vegas",
+   "type of activity": "Arena",
+   "ANSWER": "MGM Grand Arena"
+  }
+ },
+ "113ad0e172": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Giordano's",
+   "city": "Chicago, IL"
+  }
+ },
+ "4c4dd07b31": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Taipei",
+   "type of activity": "pizza places",
+   "ANSWER": "Zoca Pizzeria Caffetteria"
+  }
+ },
+ "d8dd4e3ddb": {
+  "instruction": {
+   "type of food": "German",
+   "ANSWER": "Schnitzel",
+   "city": "Helen, GA"
+  }
+ },
+ "800dbfcf95": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Austin, TX",
+   "type of activity": "place to see a concert",
+   "ANSWER": "The Moody Theater"
+  }
+ },
+ "954bc24b5a": {
+  "instruction": {
+   "type of food": "Spanish food",
+   "ANSWER": "The Tamale Place",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "c6a8dbb466": {
+  "instruction": {
+   "type of food": "Burritos",
+   "ANSWER": "Big Ten Burrito",
+   "city": "Ann Arbor, Michigan"
+  }
+ },
+ "e036fea5f4": {
+  "instruction": {
+   "type of food": "Brazilian food",
+   "ANSWER": "Fogo de Chao Brazilian Steakhouse",
+   "city": "Indianapolis"
+  }
+ },
+ "1230fb0f23": {
+  "instruction": {
+   "age groups": "Kids",
+   "geographic location": "Bar Harbor, ME",
+   "type of activity": "Hiking",
+   "ANSWER": "Mount Desert Island"
+  }
+ },
+ "6c34487bc5": {
+  "instruction": {
+   "type of food": "Barbeque",
+   "price": "Mid-range",
+   "location": "Arlington, VA"
+  }
+ },
+ "625ee3a777": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Orlando, FL",
+   "type of activity": "museum",
+   "ANSWER": "Madame Tussauds Orlando"
+  }
+ },
+ "96e657dd23": {
+  "instruction": {
+   "type of food": "fried chicken",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "a38507fa50": {
+  "instruction": {
+   "type of food": "American",
+   "ANSWER": "Nazca Kitchen",
+   "city": "Dallas"
+  }
+ },
+ "bc23ec3d8f": {
+  "instruction": {
+   "type of food": "Soups",
+   "ANSWER": "Oceanaire Seafood Room",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "2f43045a0a": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Martha's Vineyard",
+   "type of activity": "bowling alley",
+   "ANSWER": "Ryan Family Amusements"
+  }
+ },
+ "87968a7b80": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": "Cascabel Mexican Patio",
+   "city": "San Antonio, TX"
+  }
+ },
+ "73e4c4b931": {
+  "instruction": {
+   "type of food": "Tamales",
+   "ANSWER": "The Tamale Place",
+   "city": "Indianapolis"
+  }
+ },
+ "6c31efc4fd": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Istanbul",
+   "type of activity": "Turkish bath",
+   "ANSWER": "Ayasofya Hurrem Sultan Hamami"
+  }
+ },
+ "ef4d0184b8": {
+  "instruction": {
+   "type of food": "Italian",
+   "price": "Fine Dining",
+   "location": "Norfolk, VA"
+  }
+ },
+ "5079acb7b5": {
+  "instruction": {
+   "type of food": "breakfast",
+   "ANSWER": "Long's Bakery",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "397e45b1a1": {
+  "instruction": {
+   "type of food": "Indian",
+   "ANSWER": "Cardamom",
+   "city": "Ann Arbor, Michigan"
+  }
+ },
+ "a5674eb862": {
+  "instruction": {
+   "type of food": "mediteranean",
+   "ANSWER": "Cafe Zola",
+   "city": "Ann Arbor, Michigan"
+  }
+ },
+ "f636a4f795": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "Goa",
+   "type of activity": "head massage",
+   "ANSWER": "Shanti Ayurvedic Massage Center"
+  }
+ },
+ "087da6866e": {
+  "instruction": {
+   "age groups": "Grandparents",
+   "geographic location": "Nantucket, MA",
+   "type of activity": "Museum",
+   "ANSWER": "Nantucket Lightship Basket Museum"
+  }
+ },
+ "f268ba7d49": {
+  "instruction": {
+   "type of food": "BBQ",
+   "ANSWER": "Pecan Lodge",
+   "city": "Dallas, TX"
+  }
+ },
+ "6aa895f4e5": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Brozinni Pizzeria",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "16143d28b0": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Italian Express Pizzeria",
+   "city": "Boston"
+  }
+ },
+ "3c70794ee9": {
+  "instruction": {
+   "type of food": "Chinese",
+   "ANSWER": "Din Tai Fung",
+   "city": "Seattle"
+  }
+ },
+ "bcc4b42f39": {
+  "instruction": {
+   "type of food": "cakes",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "9587dadf46": {
+  "instruction": {
+   "type of food": "Chinese",
+   "ANSWER": "China Bistro ",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "74f5f8ccab": {
+  "instruction": {
+   "type of food": "Seafood",
+   "ANSWER": "Eddie V's Prime Seafood",
+   "city": "Orlando"
+  }
+ },
+ "b80492502d": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Orlando, FL",
+   "type of activity": "theme park",
+   "ANSWER": "The Wizarding World of Harry Potter"
+  }
+ },
+ "dd7d0e1bbe": {
+  "instruction": {
+   "type of food": "turkish",
+   "ANSWER": "Bosphorus Istanbul Cafe",
+   "city": "Indianapolis,Indiana"
+  }
+ },
+ "ed13c78a34": {
+  "instruction": {
+   "type of food": "Vegetarian food",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "6ace49ada3": {
+  "instruction": {
+   "age groups": "Adults",
+   "geographic location": "Cleveland, OH",
+   "type of activity": "Museum ",
+   "ANSWER": "Cleveland Museum of Natural History"
+  }
+ },
+ "144364a77c": {
+  "instruction": {
+   "type of food": "indian",
+   "ANSWER": "Saffron Cafe",
+   "city": "Indianapolis,Indiana"
+  }
+ },
+ "ad55b4b1eb": {
+  "instruction": {
+   "type of food": "lamb",
+   "ANSWER": "Fogo de Chao Brazilian Steakhouse",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "f675a64dac": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Mani Osteria",
+   "city": "Ann Arbor, Michigan"
+  }
+ },
+ "13ed0ad72c": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Kuta Indonesia",
+   "type of activity": "shopping mall"
+  }
+ },
+ "359b88bc2b": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "clearwater",
+   "type of activity": "beach"
+  }
+ },
+ "59e9e93add": {
+  "instruction": {
+   "type of food": "Thai food",
+   "ANSWER": "Thai Paradise",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "aa251d5af1": {
+  "instruction": {
+   "age groups": "Adults",
+   "geographic location": "Rehoboth Beach, Delaware",
+   "type of activity": "Kayak Rental",
+   "ANSWER": "Delmarva Board Sport Adventures"
+  }
+ },
+ "a8454452c7": {
+  "instruction": {
+   "type of food": "vegan",
+   "ANSWER": "Cafe Patachou ",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "85aade396e": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "vero beach",
+   "type of activity": "spring training baseball"
+  }
+ },
+ "3fe2c828a4": {
+  "instruction": {
+   "type of food": "Cuban",
+   "ANSWER": "Frita Batidos",
+   "city": "Ann Arbor, Michigan"
+  }
+ },
+ "23d508db42": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "philadelphia, pennsylvania",
+   "type of activity": "wine tasting"
+  }
+ },
+ "923c9b8824": {
+  "instruction": {
+   "age groups": "adults",
+   "geographic location": "paris",
+   "type of activity": "shopping"
+  }
+ },
+ "d71913f547": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Las Vegas",
+   "type of activity": "Art Gallery",
+   "ANSWER": "The Gallery at Aria"
+  }
+ },
+ "c99839cec2": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "biloxi, mississippi",
+   "type of activity": "hotels"
+  }
+ },
+ "84ad9f184a": {
+  "instruction": {
+   "age groups": "Adults",
+   "geographic location": "Wilmington, NC",
+   "type of activity": "Mini Golf",
+   "ANSWER": "Jungle Rapids Family Fun Park"
+  }
+ },
+ "a071e4c2dd": {
+  "instruction": {
+   "type of food": "Indian food",
+   "ANSWER": "Saffron Cafe",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "7f5d0a0e7b": {
+  "instruction": {
+   "type of food": "japanese",
+   "ANSWER": "The Journey",
+   "city": "Indianapolis,Indiana"
+  }
+ },
+ "5641be3d9d": {
+  "instruction": {
+   "type of food": "ribs",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "11c8ae9c34": {
+  "instruction": {
+   "age groups": "family",
+   "geographic location": "Koh Samui Thailand",
+   "type of activity": "beach"
+  }
+ },
+ "91d2a6f65b": {
+  "instruction": {
+   "type of food": "French food",
+   "city": "Indianapolis, Indiana"
+  }
+ }
+}

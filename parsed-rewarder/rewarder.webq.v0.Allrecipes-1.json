@@ -1,0 +1,670 @@
+{
+ "b915ad1e6b": {
+  "spans": [
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=pasta&ingExcl=beef&sort=re",
+    "text": "Peppered Shrimp Alfredo ",
+    "xpath": "//*[@id=\"grid\"]/div/article/h3/a",
+    "html": "\r\n            Peppered Shrimp Alfredo\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/recipe/133128/peppered-shrimp-alfredo/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201",
+    "text": "Peppered Shrimp Alfredo",
+    "xpath": "/html/body/div/div[2]/div/div[3]/section/div/div/section[2]/h1",
+    "html": "Peppered Shrimp Alfredo"
+   },
+   {
+    "url": "http://allrecipes.com/recipe/26257/bow-ties-with-sausage-tomatoes-and-cream/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%202",
+    "text": "Bow Ties with Sausage, Tomatoes and Cream",
+    "xpath": "/html/body/div/div[2]/div/div[3]/section/div/div/section[2]/h1",
+    "html": "Bow Ties with Sausage, Tomatoes and Cream"
+   },
+   {
+    "url": "http://allrecipes.com/recipe/13333/jamies-minestrone/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%203",
+    "text": "Jamie's Minestrone",
+    "xpath": "/html/body/div/div[2]/div/div[3]/section/div/div/section[2]/h1",
+    "html": "Jamie's Minestrone"
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=pasta%20recipe&ingIncl=pasta&ingExcl=beef&sort=re",
+    "text": "Sausage Pasta ",
+    "xpath": "//*[@id=\"grid\"]/div/article[2]/h3/a",
+    "html": "\r\n            Sausage Pasta\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=pasta%20recipe&ingIncl=pasta&ingExcl=beef&sort=re",
+    "text": "Pasta Salad",
+    "xpath": "//*[@id=\"grid\"]/div/article[4]/a[2]/h3",
+    "html": "\r\n            Pasta Salad\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=pasta%20recipe&ingIncl=pasta&ingExcl=beef&sort=re",
+    "text": "Halloween Pasta",
+    "xpath": "//*[@id=\"grid\"]/div/article[11]/a[2]/h3",
+    "html": "\r\n            Halloween Pasta\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=pasta&ingExcl=beef&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=pasta&ingExcl=beef&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=pasta&ingExcl=beef&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article[4]/a[2]/img",
+    "html": ""
+   }
+  ],
+  "instruction": {
+   "ingredient 1": "pasta",
+   "ingredient 2": "beef"
+  }
+ },
+ "6b658546b5": {
+  "spans": [
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=asapargus&ingExcl=brocolli&sort=re",
+    "text": "How to Cook Salmon",
+    "xpath": "//*[@id=\"grid\"]/div/article/a/h3",
+    "html": "\r\n                How to Cook Salmon\r\n            "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=asparagus&ingExcl=broccoli&sort=re",
+    "text": "Oven-Roasted Asparagus ",
+    "xpath": "//*[@id=\"grid\"]/div/article/h3/a",
+    "html": "\r\n            Oven-Roasted Asparagus\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=asparagus&ingExcl=broccoli&sort=re",
+    "text": "Pan-Fried Asparagus ",
+    "xpath": "//*[@id=\"grid\"]/div/article[5]/h3/a",
+    "html": "\r\n            Pan-Fried Asparagus\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=asparagus&ingExcl=broccoli&sort=re",
+    "text": "Baked Asparagus with Balsamic Butter Sauce ",
+    "xpath": "//*[@id=\"grid\"]/div/article[2]/h3/a",
+    "html": "\r\n            Baked Asparagus with Balsamic Butter Sauce\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=asparagus%20recipe&ingIncl=asparagus&ingExcl=brocolli&sort=re",
+    "text": "Grilled Asparagus ",
+    "xpath": "//*[@id=\"grid\"]/div/article[3]/h3/a",
+    "html": "\r\n            Grilled Asparagus\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=asparagus%20recipe&ingIncl=asparagus&ingExcl=brocolli&sort=re",
+    "text": "Asparagus Parmesan",
+    "xpath": "//*[@id=\"grid\"]/div/article[4]/a[2]/h3",
+    "html": "\r\n            Asparagus Parmesan\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=asparagus%20recipe&ingIncl=asparagus&ingExcl=brocolli&sort=re",
+    "text": "Asparagus, Prosciutto and Fontina Tart",
+    "xpath": "//*[@id=\"grid\"]/div/article[14]/a/h3",
+    "html": "\r\n                Asparagus, Prosciutto and Fontina Tart  \r\n            "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=asparagus&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article[3]/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/recipe/246132/yellow-rice-with-asparagus-and-mushrooms/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201",
+    "text": "Yellow Rice with Asparagus and Mushrooms",
+    "xpath": "/html/body/div/div[2]/div/div[3]/section/div/div/section[2]/h1",
+    "html": "Yellow Rice with Asparagus and Mushrooms"
+   }
+  ],
+  "instruction": {
+   "ingredient 1": "asapargus",
+   "ingredient 2": "brocolli"
+  }
+ },
+ "66e538c769": {
+  "spans": [
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=lettuce&ingExcl=tomatoes&sort=re",
+    "text": "0 recipe results",
+    "xpath": "//*[@id=\"searchResultsApp\"]/div/p/span",
+    "html": "0 recipe results"
+   },
+   {
+    "url": "http://allrecipes.com/recipe/18544/twenty-four-hour-salad/?internalSource=recipe%20hub&referringContentType=search%20results&clickId=cardslot%2021",
+    "text": "Twenty-Four Hour Salad",
+    "xpath": "/html/body/div/div[2]/div/div[3]/section/div/div/section[2]/h1",
+    "html": "Twenty-Four Hour Salad"
+   },
+   {
+    "url": "http://allrecipes.com/recipe/34613/roquefort-pear-salad/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201",
+    "text": "Roquefort Pear Salad",
+    "xpath": "/html/body/div/div[2]/div/div[3]/section/div/div/section[2]/h1",
+    "html": "Roquefort Pear Salad"
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=lettuce&ingExcl=tomato&sort=re",
+    "text": "Caesar Salad Supreme ",
+    "xpath": "//*[@id=\"grid\"]/div/article[3]/h3/a",
+    "html": "\r\n            Caesar Salad Supreme\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=recipe%20of%20lettuce&ingIncl=lettuce&ingExcl=tomattoes&sort=re",
+    "text": "Crunchy Lettuce",
+    "xpath": "//*[@id=\"grid\"]/div/article[2]/a[2]/h3",
+    "html": "\r\n            Crunchy Lettuce\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=lettuce%20recipe&ingIncl=lettuce&ingExcl=tomatoes&sort=re&page=2",
+    "text": "Slow Cooker Buffalo Chicken Lettuce Wraps",
+    "xpath": "//*[@id=\"grid\"]/div/article[2]/a/h3",
+    "html": "\r\n                Slow Cooker Buffalo Chicken Lettuce Wraps\r\n            "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=lettuce%20recipe&ingIncl=lettuce&ingExcl=tomatoes&sort=re&page=2",
+    "text": "Lettuce Leaf Tacos",
+    "xpath": "//*[@id=\"grid\"]/div/article[6]/a/h3",
+    "html": "\r\n                Lettuce Leaf Tacos\r\n            "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=lettuce&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=lettuce&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=lettuce&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article/a[2]/img",
+    "html": ""
+   }
+  ],
+  "instruction": {
+   "ingredient 1": "lettuce",
+   "ingredient 2": "tomatoes"
+  }
+ },
+ "984d7a959d": {
+  "spans": [
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=vodka&ingExcl=gin&sort=re",
+    "text": "Penne with Spicy Vodka Tomato Cream Sauce ",
+    "xpath": "//*[@id=\"grid\"]/div/article/h3/a",
+    "html": "\r\n            Penne with Spicy Vodka Tomato Cream Sauce\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=vodka&ingExcl=gin&sort=re",
+    "text": "White Peach Sangria",
+    "xpath": "//*[@id=\"grid\"]/div/article[2]/a[2]/h3",
+    "html": "\r\n            White Peach Sangria\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=vodka&ingExcl=gin&sort=re",
+    "text": "Bikini Martini",
+    "xpath": "//*[@id=\"grid\"]/div/article[9]/a[2]/h3",
+    "html": "\r\n            Bikini Martini\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/recipe/218330/grandmas-apple-pie-ala-mode-moonshine/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%209",
+    "text": "Grandma's Apple Pie 'Ala Mode' Moonshine",
+    "xpath": "/html/body/div/div[2]/div/div[3]/section/div/div/section[2]/h1",
+    "html": "Grandma's Apple Pie 'Ala Mode' Moonshine"
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=recipe%20contains%20vodka&ingIncl=vodka&ingExcl=gin&sort=re",
+    "text": "Best Vodka Gummies",
+    "xpath": "//*[@id=\"grid\"]/div/article[2]/a[2]/h3",
+    "html": "\r\n            Best Vodka Gummies\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=vodka%20recipe&ingIncl=vodka&ingExcl=gin&sort=re",
+    "text": "Vodka Rigatoni",
+    "xpath": "//*[@id=\"grid\"]/div/article[2]/a[2]/h3",
+    "html": "\r\n            Vodka Rigatoni\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=vodka%20recipe&ingIncl=vodka&ingExcl=gin&sort=re",
+    "text": "Voodoo Vodka",
+    "xpath": "//*[@id=\"grid\"]/div/article[9]/a[2]/h3",
+    "html": "\r\n            Voodoo Vodka\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=vodka&ingExcl=gin&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=vodka&ingExcl=gin&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=vodka&ingExcl=gin&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article[5]/a[2]/img",
+    "html": ""
+   }
+  ],
+  "instruction": {
+   "ingredient 1": "vodka",
+   "ingredient 2": "gin"
+  }
+ },
+ "48210abe4e": {
+  "spans": [
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=salmon&ingExcl=tuna&sort=re",
+    "text": "Grilled Salmon I ",
+    "xpath": "//*[@id=\"grid\"]/div/article/h3/a",
+    "html": "\r\n            Grilled Salmon I\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=salmon&ingExcl=tuna&sort=re",
+    "text": "Maple Salmon ",
+    "xpath": "//*[@id=\"grid\"]/div/article[3]/h3/a",
+    "html": "\r\n            Maple Salmon\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=salmon&ingExcl=tuna&sort=re",
+    "text": "Baked Salmon II ",
+    "xpath": "//*[@id=\"grid\"]/div/article[4]/h3/a",
+    "html": "\r\n            Baked Salmon II\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=salmon&ingExcl=tuna&sort=re",
+    "text": "Firecracker Grilled Alaska Salmon ",
+    "xpath": "//*[@id=\"grid\"]/div/article[5]/h3/a",
+    "html": "\r\n            Firecracker Grilled Alaska Salmon\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=salmon%20recipe&ingIncl=salmon&ingExcl=tuna&sort=re",
+    "text": "Maple Salmon ",
+    "xpath": "//*[@id=\"grid\"]/div/article[3]/h3/a",
+    "html": "\r\n            Maple Salmon\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=salmon%20recipe&ingIncl=salmon&ingExcl=tuna&sort=re",
+    "text": "Salmon Chowder",
+    "xpath": "//*[@id=\"grid\"]/div/article[5]/a[2]/h3",
+    "html": "\r\n            Salmon Chowder\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=salmon%20recipe&ingIncl=salmon&ingExcl=tuna&sort=re",
+    "text": "Salmon with Dill",
+    "xpath": "//*[@id=\"grid\"]/div/article[10]/a[2]/h3",
+    "html": "\r\n            Salmon with Dill\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=salmon&ingExcl=tuna&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=salmon&ingExcl=tuna&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=salmon&ingExcl=tuna&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article[4]/a[2]/img",
+    "html": ""
+   }
+  ],
+  "instruction": {
+   "ingredient 1": "salmon",
+   "ingredient 2": "tuna"
+  }
+ },
+ "e92b6ccf5c": {
+  "spans": [
+   {
+    "url": "http://allrecipes.com/",
+    "text": "Charred Broccoli Beef ",
+    "xpath": "//*[@id=\"grid\"]/div/article/h3/a",
+    "html": "\r\n            Charred Broccoli Beef\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/recipe/23600/worlds-best-lasagna/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201",
+    "text": "World's Best Lasagna",
+    "xpath": "/html/body/div/div[2]/div/div[3]/section/div/div/section[2]/h1",
+    "html": "World's Best Lasagna"
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=beef&ingExcl=rice&sort=re",
+    "text": "Boilermaker Tailgate Chili ",
+    "xpath": "//*[@id=\"grid\"]/div/article[2]/h3/a",
+    "html": "\r\n            Boilermaker Tailgate Chili\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/recipe/256889/charred-broccoli-beef/?internalSource=rotd&referringContentType=home%20page&clickId=cardslot%201",
+    "text": "Watch\r\n",
+    "xpath": "//*[@id=\"btn_RecipeVideo\"]",
+    "html": "<span class=\"icon--videoplay\" style=\"outline: none;\"><span class=\"watch-video-txt\" style=\"outline: none;\">Watch</span></span>"
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=beef%20recipe&ingIncl=beef&ingExcl=rice&sort=re",
+    "text": "Pepperoncini Beef",
+    "xpath": "//*[@id=\"grid\"]/div/article[2]/a[2]/h3",
+    "html": "\r\n            Pepperoncini Beef\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=beef%20recipe&ingIncl=beef&ingExcl=rice&sort=re",
+    "text": "Beef Wellington ",
+    "xpath": "//*[@id=\"grid\"]/div/article[3]/h3/a",
+    "html": "\r\n            Beef Wellington\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=beef%20recipe&ingIncl=beef&ingExcl=rice&sort=re",
+    "text": "Beef on Weck",
+    "xpath": "//*[@id=\"grid\"]/div/article[10]/a[2]/h3",
+    "html": "\r\n            Beef on Weck\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=beef&ingExcl=rice&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=beef&ingExcl=rice&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article[2]/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=beef&ingExcl=rice&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article[5]/a[2]/img",
+    "html": ""
+   }
+  ],
+  "instruction": {
+   "ingredient 1": "beef",
+   "ingredient 2": "rice"
+  }
+ },
+ "cd94da9320": {
+  "spans": [
+   {
+    "url": "http://allrecipes.com/search/results/?wt=apple&ingExcl=orange&sort=re",
+    "text": "Apple Recipes",
+    "xpath": "//*[@id=\"grid\"]/div/article/a/h3",
+    "html": "\r\n                Apple Recipes\r\n            "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=apples&ingExcl=oranges&sort=re",
+    "text": "Apple Pie by Grandma Ople ",
+    "xpath": "//*[@id=\"grid\"]/div/article/h3/a",
+    "html": "\r\n            Apple Pie by Grandma Ople\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=apple&ingExcl=orange&sort=re",
+    "text": "Apple Crisp II ",
+    "xpath": "//*[@id=\"grid\"]/div/article[4]/h3/a",
+    "html": "\r\n            Apple Crisp II\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=recipe%20out%20of%20apples&ingIncl=apples&ingExcl=oranges&sort=re",
+    "text": "Apple Half Moons",
+    "xpath": "//*[@id=\"grid\"]/div/article[3]/a[2]/h3",
+    "html": "\r\n            Apple Half Moons\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=apple%20recipe&ingIncl=apple&ingExcl=oranges&sort=re",
+    "text": "Apple Pie by Grandma Ople ",
+    "xpath": "//*[@id=\"grid\"]/div/article[2]/h3/a",
+    "html": "\r\n            Apple Pie by Grandma Ople\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=apples%20recipe&ingIncl=apples&ingExcl=oranges&sort=re",
+    "text": "Country Apple Dumplings ",
+    "xpath": "//*[@id=\"grid\"]/div/article[6]/h3/a",
+    "html": "\r\n            Country Apple Dumplings\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=apple%20recipe&ingIncl=apples&ingExcl=oranges&sort=re",
+    "text": "Apple Pie by Grandma Ople ",
+    "xpath": "//*[@id=\"grid\"]/div/article/h3/a",
+    "html": "\r\n            Apple Pie by Grandma Ople\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=apples&ingExcl=oranges&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=apples&ingExcl=oranges&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article[4]/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=apples&ingExcl=oranges&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article[5]/a[2]/img",
+    "html": ""
+   }
+  ],
+  "instruction": {
+   "ingredient 1": "apples",
+   "ingredient 2": "oranges"
+  }
+ },
+ "8025c619f8": {
+  "spans": [
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=fish&ingExcl=vegetables&sort=re",
+    "text": "How to Cook Salmon",
+    "xpath": "//*[@id=\"grid\"]/div/article/a/h3",
+    "html": "\r\n                How to Cook Salmon\r\n            "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=fish&ingExcl=vegetables&sort=re&page=2",
+    "text": "How to Broil Lobster Tails",
+    "xpath": "//*[@id=\"grid\"]/div/article[3]/a/h3",
+    "html": "\r\n                How to Broil Lobster Tails\r\n            "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=fish&ingExcl=vegetable&sort=re",
+    "text": "Seasoned Swai Fish Fillet",
+    "xpath": "//*[@id=\"grid\"]/div/article[5]/a[2]/h3",
+    "html": "\r\n            Seasoned Swai Fish Fillet\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=recipe%20of%20fish&ingIncl=fish&ingExcl=vegetables&sort=re",
+    "text": "Seasoned Swai Fish Fillet",
+    "xpath": "//*[@id=\"grid\"]/div/article/a[2]/h3",
+    "html": "\r\n            Seasoned Swai Fish Fillet\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=fish%20recipe&ingIncl=fish&ingExcl=vegetable&sort=re",
+    "text": "Seasoned Swai Fish Fillet",
+    "xpath": "//*[@id=\"grid\"]/div/article[3]/a[2]/h3",
+    "html": "\r\n            Seasoned Swai Fish Fillet\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=fish%20recipe&ingIncl=fish&ingExcl=vegetable&sort=re",
+    "text": "Easy Elegant Baked Fish",
+    "xpath": "//*[@id=\"grid\"]/div/article[5]/a[2]/h3",
+    "html": "\r\n            Easy Elegant Baked Fish\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=fish%20recipe&ingIncl=fish&ingExcl=vegetables&sort=re",
+    "text": "Russell's Fish Stew",
+    "xpath": "//*[@id=\"grid\"]/div/article[3]/a[2]/h3",
+    "html": "\r\n            Russell's Fish Stew\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=fish&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article[11]/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/recipes/416/seafood/fish/salmon/",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article[9]/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/recipe/220121/accidental-fish/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%204",
+    "text": "Accidental Fish",
+    "xpath": "/html/body/div/div[2]/div/div[3]/section/div/div/section[2]/h1",
+    "html": "Accidental Fish"
+   }
+  ],
+  "instruction": {
+   "ingredient 1": "fish",
+   "ingredient 2": "vegetables"
+  }
+ },
+ "c742085dbb": {
+  "spans": [
+   {
+    "url": "http://allrecipes.com/recipe/23852/creamy-chicken-and-wild-rice-soup/?internalSource=hub%20recipe&referringId=172&referringContentType=recipe%20hub&clickId=cardslot%206",
+    "text": "Creamy Chicken and Wild Rice Soup",
+    "xpath": "/html/body/div/div[2]/div/div[3]/section/div/div/section[2]/h1",
+    "html": "Creamy Chicken and Wild Rice Soup"
+   },
+   {
+    "url": "http://allrecipes.com/recipe/26317/chicken-pot-pie-ix/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%202",
+    "text": "Chicken Pot Pie IX",
+    "xpath": "/html/body/div/div[2]/div/div[3]/section/div/div/section[2]/h1",
+    "html": "Chicken Pot Pie IX"
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=chicken&ingExcl=beef&sort=re",
+    "text": "Chicken Cordon Bleu II ",
+    "xpath": "//*[@id=\"grid\"]/div/article[3]/h3/a",
+    "html": "\r\n            Chicken Cordon Bleu II\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/recipes/659/meat-and-poultry/chicken/chicken-breasts/?internalSource=hub%20nav&referringId=201&referringContentType=recipe%20hub&linkName=hub%20nav%20daughter&clickId=hub%20nav%202",
+    "text": "Grandma's Chicken Chardon",
+    "xpath": "/html/body/div/div[2]/div/section/div[2]/section/article/a/div/h3",
+    "html": "Grandma's Chicken Chardon"
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=chicken%20recipe&ingIncl=chicken&ingExcl=beef&sort=re",
+    "text": "Chicken Cordon Bleu II ",
+    "xpath": "//*[@id=\"grid\"]/div/article[4]/h3/a",
+    "html": "\r\n            Chicken Cordon Bleu II\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=chicken%20recipe&ingIncl=chicken&ingExcl=beef&sort=re",
+    "text": "Roasting Chicken",
+    "xpath": "//*[@id=\"grid\"]/div/article[8]/div/a/div[2]/h3",
+    "html": "\r\nRoasting Chicken\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article[3]/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=chicken&ingExcl=beef&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article[2]/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=chicken&ingExcl=beef&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article[5]/a[2]/img",
+    "html": ""
+   }
+  ],
+  "instruction": {
+   "ingredient 1": "chicken",
+   "ingredient 2": "beef"
+  }
+ },
+ "5960a5697c": {
+  "spans": [
+   {
+    "url": "http://allrecipes.com/recipe/8932/fruity-curry-chicken-salad/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201",
+    "text": "Fruity Curry Chicken Salad",
+    "xpath": "/html/body/div/div[2]/div/div[3]/section/div/div/section[2]/h1",
+    "html": "Fruity Curry Chicken Salad"
+   },
+   {
+    "url": "http://allrecipes.com/recipe/24378/green-grape-salad/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%202",
+    "text": "Green Grape Salad",
+    "xpath": "/html/body/div/div[2]/div/div[3]/section/div/div/section[2]/h1",
+    "html": "Green Grape Salad"
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=grape&ingExcl=peach&sort=re",
+    "text": "Becky's Chicken Salad ",
+    "xpath": "//*[@id=\"grid\"]/div/article[3]/h3/a",
+    "html": "\r\n            Becky's Chicken Salad\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/recipes/16966/fruits-and-vegetables/fruits/grapes/?internalSource=hubcard&referringContentType=search%20results&clickId=cardslot%201",
+    "text": "Green Grape Salad ",
+    "xpath": "//*[@id=\"grid\"]/div/article[3]/h3/a",
+    "html": "\r\n            Green Grape Salad\r\n                "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=grapes%20recipe&ingIncl=grapes&ingExcl=peaches&sort=re",
+    "text": "Grape Sherbet",
+    "xpath": "//*[@id=\"grid\"]/div/article[5]/a[2]/h3",
+    "html": "\r\n            Grape Sherbet\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?wt=grapes%20recipe&ingIncl=grapes&ingExcl=peaches&sort=re",
+    "text": "Spiced Grapes",
+    "xpath": "//*[@id=\"grid\"]/div/article[10]/a[2]/h3",
+    "html": "\r\n            Spiced Grapes\r\n        "
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=grapes&ingExcl=peaches&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=grapes&ingExcl=peaches&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article/a[2]/img",
+    "html": ""
+   },
+   {
+    "url": "http://allrecipes.com/search/results/?ingIncl=grapes&ingExcl=peaches&sort=re",
+    "text": "",
+    "xpath": "//*[@id=\"grid\"]/div/article[4]/a[2]/img",
+    "html": ""
+   }
+  ],
+  "instruction": {
+   "ingredient 1": "grapes",
+   "ingredient 2": "peaches"
+  }
+ }
+}

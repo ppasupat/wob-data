@@ -1,0 +1,72 @@
+{
+ "e74b737779": {
+  "instruction": {
+   "check-in date": "2/8/2017",
+   "check-out date": "2/11/2017",
+   "Location": "Cincinnati, OH"
+  }
+ },
+ "41b8c6b30b": {
+  "instruction": {
+   "check-in date": "2/10/2017",
+   "check-out date": "2/12/2017",
+   "Location": "Dover, DE"
+  }
+ },
+ "ab07fb3fc7": {
+  "instruction": {
+   "check-in date": "2/8/2017",
+   "check-out date": "2/10/2017",
+   "Location": "Denver, CO"
+  }
+ },
+ "7362ec992b": {
+  "instruction": {
+   "check-in date": "2/11/2017",
+   "check-out date": "2/12/2017",
+   "Location": "Saint Louis, MO"
+  }
+ },
+ "36cb41bc1b": {
+  "instruction": {
+   "check-in date": "2/8/2017",
+   "check-out date": "2/11/2017",
+   "Location": "Trenton, NJ"
+  }
+ },
+ "40f94a4118": {
+  "instruction": {
+   "check-in date": "2/12/2017",
+   "check-out date": "2/15/2017",
+   "Location": "Lexington, KY"
+  }
+ },
+ "934774f252": {
+  "instruction": {
+   "check-in date": "2/11/2017",
+   "check-out date": "2/12/2017",
+   "Location": "Buffalo, NY"
+  }
+ },
+ "16ee02d36e": {
+  "instruction": {
+   "check-in date": "2/10/2017",
+   "check-out date": "2/12/2017",
+   "Location": "Kansas City, MO"
+  }
+ },
+ "f59073ae89": {
+  "instruction": {
+   "check-in date": "2/11/2017",
+   "check-out date": "2/12/2017",
+   "Location": "New York, NY"
+  }
+ },
+ "7f0162e6f4": {
+  "instruction": {
+   "check-in date": "2/8/2017",
+   "check-out date": "2/10/2017",
+   "Location": "Detroit, MI"
+  }
+ }
+}

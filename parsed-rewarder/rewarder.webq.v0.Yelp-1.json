@@ -1,0 +1,1302 @@
+{
+ "aa4ee15314": {
+  "instruction": {
+   "korean": "Taiwan",
+   "ANSWER": "Pho Kim",
+   "chula vista": "Springfield, MO"
+  }
+ },
+ "c5c7a5b4de": {
+  "instruction": {
+   "type of food": "Tacos",
+   "ANSWER": "Se\u00f1or Ramon Taqueria",
+   "geographic location": "Leesburg, VA"
+  }
+ },
+ "209f52ddb7": {
+  "instruction": {
+   "korean": " Korean BBQ",
+   "ANSWER": "Mesa de Otay Blvd Centro Comercial Centenario S/N 22457 Tijuana, Baja California Mexico ",
+   "chula vista": "Chula Vista"
+  }
+ },
+ "e0814ea834": {
+  "instruction": {
+   "geographic location": "Fresno, CA",
+   "type of food": "Indian Food"
+  }
+ },
+ "86a2e3f63a": {
+  "instruction": {
+   "type of food": "Brunch",
+   "geographic location": "Vegas Strip"
+  }
+ },
+ "570b9a4d34": {
+  "instruction": {
+   "type of food": "chicken pasta",
+   "ANSWER": "BRIO Tuscan Grille",
+   "geographic location": "west palm beach"
+  }
+ },
+ "fc5e4b166c": {
+  "instruction": {
+   "type of food": "Sandwiches",
+   "ANSWER": "Raxakoul Wine & Cheese",
+   "geographic location": "Hayes Valley"
+  }
+ },
+ "cac1b568d2": {
+  "instruction": {
+   "type of food": "Ice Cream",
+   "ANSWER": "Frosty Parrot",
+   "geographic location": "Blacksburg, VA"
+  }
+ },
+ "75e194c4b0": {
+  "instruction": {
+   "korean": "Thai",
+   "ANSWER": " Thai Fresh",
+   "chula vista": "chula vista"
+  }
+ },
+ "0862f3240b": {
+  "instruction": {
+   "type of food": "lobster roll",
+   "ANSWER": "Son of a Gun,Beverly Grove 8370 W 3rd St Los Angeles, CA 90048 Phone number (323) 782-9033",
+   "geographic location": "near Beverly Grove, Los Angeles, CA"
+  }
+ },
+ "1edca78310": {
+  "instruction": {
+   "korean": "Barbeque",
+   "ANSWER": "Black Sheep BBQ",
+   "chula vista": "Mace St"
+  }
+ },
+ "f443ef2cb2": {
+  "instruction": {
+   "type of food": "traditional North Indian Food",
+   "ANSWER": "Delhi Indian Cuisine",
+   "geographic location": "Las Vegas"
+  }
+ },
+ "23c5313ba9": {
+  "instruction": {
+   "korean": "Hawaiian",
+   "ANSWER": "Homestyle Hawaiian",
+   "chula vista": "chula vista"
+  }
+ },
+ "1e7e64c05c": {
+  "instruction": {
+   "korean": "Vegan",
+   "ANSWER": "Passage 2 India",
+   "chula vista": "Valdosta, GA"
+  }
+ },
+ "902cc18b1d": {
+  "instruction": {
+   "type of food": "dinner",
+   "ANSWER": "Baptiste & Bottle",
+   "geographic location": "chicago"
+  }
+ },
+ "08d3a4b8fd": {
+  "instruction": {
+   "type of food": "Mexican Food",
+   "ANSWER": "HRD",
+   "geographic location": "San Fransisco"
+  }
+ },
+ "dd9217e1d7": {
+  "instruction": {
+   "korean": "356 BBQ & Bar",
+   "chula vista": "san diego"
+  }
+ },
+ "df1c595792": {
+  "instruction": {
+   "type of food": "sushi",
+   "ANSWER": "Himitsu",
+   "geographic location": "Washington, DC"
+  }
+ },
+ "8c814cc69b": {
+  "instruction": {
+   "type of food": "sushi",
+   "ANSWER": "Kabuki Japanese Restaurant",
+   "geographic location": "dallas"
+  }
+ },
+ "134f6f3b2b": {
+  "instruction": {
+   "korean": "Chinese",
+   "ANSWER": "Hai Ky Mi Gia ",
+   "chula vista": "San Francisco"
+  }
+ },
+ "14348e49d0": {
+  "instruction": {
+   "type of food": "pasta",
+   "ANSWER": "Fiorella ,Outer Richmond 2339 Clement St San Francisco, CA 94121 Phone number (415) 340-3049",
+   "geographic location": "Outer Richmond, San Francisco, CA"
+  }
+ },
+ "c0040f6a3c": {
+  "instruction": {
+   "korean": " Greenpea",
+   "ANSWER": " Mesa de Otay Calzada Tecnol\u00f3gico, Altabrisa, delegaci\u00f3n mesa de otay Tijuana, Baja California Mexico Phone number",
+   "chula vista": "Chula Vista"
+  }
+ },
+ "e8ae5e417a": {
+  "instruction": {
+   "type of food": "Ethiopian Food",
+   "ANSWER": "Almaz Cafe",
+   "geographic location": "Philadelphia, PA"
+  }
+ },
+ "ff31dc2b64": {
+  "instruction": {
+   "korean": "burger",
+   "ANSWER": "canada steak burger",
+   "chula vista": "chula vista"
+  }
+ },
+ "11510567c1": {
+  "instruction": {
+   "korean": " Kimchimix",
+   "ANSWER": " Calzada Tecnol\u00f3gico 14487 23310 Internacional, Baja California Mexico Phone number 66 362 49500 ",
+   "chula vista": "Chula Vista"
+  }
+ },
+ "595efc7cb2": {
+  "instruction": {
+   "type of food": "healthy",
+   "ANSWER": "divyas kitchen ",
+   "geographic location": "new york"
+  }
+ },
+ "1668ffd43c": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Casa Flores",
+   "geographic location": "Pacific Heights"
+  }
+ },
+ "8c9d9ff542": {
+  "instruction": {
+   "korean": "sushi",
+   "ANSWER": "izakaya naruto",
+   "chula vista": "chula vista"
+  }
+ },
+ "cebd125b91": {
+  "instruction": {
+   "korean": "Northern Italian",
+   "ANSWER": "Davio\u2019s Northern Italian Steakhouse",
+   "chula vista": "Juno, GA"
+  }
+ },
+ "4c21f4faa3": {
+  "instruction": {
+   "type of food": "steak",
+   "ANSWER": "Gibby's Restaurant",
+   "geographic location": "Montreal, Quebec, Canada"
+  }
+ },
+ "629533096e": {
+  "instruction": {
+   "geographic location": "Ketchikan, AK",
+   "type of food": "Low Carb Desserts"
+  }
+ },
+ "4e5f2990ff": {
+  "instruction": {
+   "korean": "Korean BBQ",
+   "chula vista": "Tijuana"
+  }
+ },
+ "c33fe49837": {
+  "instruction": {
+   "type of food": "dessert",
+   "ANSWER": "Sucre",
+   "geographic location": "New Orleans, LA"
+  }
+ },
+ "dfb95a751f": {
+  "instruction": {
+   "korean": "Chinese",
+   "ANSWER": "China Town",
+   "chula vista": "Greenville, AL"
+  }
+ },
+ "3d389c368f": {
+  "instruction": {
+   "korean": "BBQ",
+   "ANSWER": "Ong Ga Nae Korean BBQ ",
+   "chula vista": "Los Angeles"
+  }
+ },
+ "3fadaa5900": {
+  "instruction": {
+   "type of food": "tacos",
+   "ANSWER": " Mezcalero,Downtown 510 S Broadway Los Angeles, CA 90013 Phone number (213) 628-3337",
+   "geographic location": "near Downtown, Los Angeles, CA"
+  }
+ },
+ "5f43a649c3": {
+  "instruction": {
+   "korean": "Mediterranean",
+   "ANSWER": "Savoie Eatery",
+   "chula vista": "chula vista"
+  }
+ },
+ "c07c7654d0": {
+  "instruction": {
+   "korean": "Korean Kitchen Tofu & Galbi",
+   "chula vista": "chula vista"
+  }
+ },
+ "ff4bf38f62": {
+  "instruction": {
+   "korean": "Sushi bars",
+   "ANSWER": "Sushi Base",
+   "chula vista": "Broadway Ave"
+  }
+ },
+ "c9a8da5ff9": {
+  "instruction": {
+   "korean": "Korean Kitchen Tofu & Galbi Claimed",
+   "ANSWER": "Answered ",
+   "chula vista": "509 Telegraph Canyon Rd"
+  }
+ },
+ "748b844100": {
+  "instruction": {
+   "korean": "Seafood",
+   "ANSWER": "Gary Danko ",
+   "chula vista": "San Francisco"
+  }
+ },
+ "1188c301f1": {
+  "instruction": {
+   "type of food": "Mexican Food",
+   "ANSWER": "Los Tres Magueyes",
+   "geographic location": "Raleigh, NC"
+  }
+ },
+ "27ddfbc536": {
+  "instruction": {
+   "type of food": "Soul Food",
+   "geographic location": "downtown Sacramento"
+  }
+ },
+ "cb6080bc5f": {
+  "instruction": {
+   "type of food": "Authentic Szechuan",
+   "ANSWER": "Han Dynasty",
+   "geographic location": "New York"
+  }
+ },
+ "bef3c11c5f": {
+  "instruction": {
+   "type of food": "masala dosa",
+   "ANSWER": "  Priyaa Indian Cuisine,Maryland Heights 1910 McKelvey Rd Maryland Heights, MO 63043 Phone number (314) 542-6148",
+   "geographic location": "Maryland Heights Township, MO "
+  }
+ },
+ "fe07bd0498": {
+  "instruction": {
+   "korean": "mexican",
+   "ANSWER": "tacos el gordo",
+   "chula vista": "chula vista"
+  }
+ },
+ "aaa51e1bda": {
+  "instruction": {
+   "type of food": "rendang",
+   "ANSWER": " Rice Bowl Chinese Restaurant,Fondren Southwest 11324 Fondren Rd Houston, TX 77035 Phone number (713) 721-9660",
+   "geographic location": "near Fondren Southwest, Houston, TX "
+  }
+ },
+ "e1f8873ab1": {
+  "instruction": {
+   "type of food": "Lebanese",
+   "ANSWER": " Bowery Bungalow",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "d70517d3a0": {
+  "instruction": {
+   "type of food": "ankimo",
+   "ANSWER": " Asanebo,Studio City 11941 Ventura Blvd Studio City, CA 91604 Phone number (818) 760-3348",
+   "geographic location": "near Studio City, Los Angeles, CA "
+  }
+ },
+ "49316992ee": {
+  "instruction": {
+   "type of food": "Vegan",
+   "ANSWER": "The Flying Falafel",
+   "geographic location": "SoMa"
+  }
+ },
+ "aaefa55c3e": {
+  "instruction": {
+   "type of food": "Mexican Food",
+   "ANSWER": "Mariscos Mar Azul",
+   "geographic location": "Yuma, Az"
+  }
+ },
+ "d434bb471e": {
+  "instruction": {
+   "korean": "Manna BBQ Chula Vista",
+   "chula vista": "chula vista"
+  }
+ },
+ "60a1af7e65": {
+  "instruction": {
+   "type of food": "pizza",
+   "ANSWER": "Pizza Bruno",
+   "geographic location": "Orlando, FL"
+  }
+ },
+ "6c5d5502be": {
+  "instruction": {
+   "korean": "Mexican",
+   "ANSWER": "El Huevo Estrellado",
+   "chula vista": "Broadway Ave"
+  }
+ },
+ "dae67f1df8": {
+  "instruction": {
+   "korean": "vietnamese",
+   "ANSWER": "pho hung cali",
+   "chula vista": "chula vista"
+  }
+ },
+ "73936b098d": {
+  "instruction": {
+   "type of food": "Steaks",
+   "geographic location": "95621"
+  }
+ },
+ "724563e1e1": {
+  "instruction": {
+   "type of food": "Ethiopian",
+   "ANSWER": "Tadu Ethiopian Kitchen",
+   "geographic location": "Tenderloin"
+  }
+ },
+ "8697ef4914": {
+  "instruction": {
+   "type of food": "Chinese Food",
+   "ANSWER": "Fu Kee Express",
+   "geographic location": "Raleigh, NC"
+  }
+ },
+ "8d73a1dd03": {
+  "instruction": {
+   "type of food": "Fine dining ",
+   "ANSWER": "The Capital Grille",
+   "geographic location": "Memphis, TN "
+  }
+ },
+ "a730b452c1": {
+  "instruction": {
+   "type of food": "Indian ",
+   "ANSWER": "Curry Up Indian Grill",
+   "geographic location": "Columbus, OH"
+  }
+ },
+ "3d1c8c8764": {
+  "instruction": {
+   "korean": "Barbeque",
+   "ANSWER": "Smitty\u2019s Taste of the Bayou",
+   "chula vista": "Lane Ave"
+  }
+ },
+ "cffdb13f83": {
+  "instruction": {
+   "type of food": "Vegan",
+   "geographic location": "Portland airport"
+  }
+ },
+ "6164e1a65b": {
+  "instruction": {
+   "korean": "Garlic Shack",
+   "ANSWER": "Answered ",
+   "chula vista": "549 25th St San Diego, CA 92102"
+  }
+ },
+ "bae6152472": {
+  "instruction": {
+   "type of food": "Lebanese ",
+   "ANSWER": "Sidon Lebanese Grille & Bakery",
+   "geographic location": "Toledo, OH "
+  }
+ },
+ "ad7bc95191": {
+  "instruction": {
+   "type of food": "Gastropub ",
+   "ANSWER": "Tremont Taphouse",
+   "geographic location": "Cleveland, OH "
+  }
+ },
+ "facda60b01": {
+  "instruction": {
+   "korean": "Italian",
+   "ANSWER": "Italianissimo Trattoria",
+   "chula vista": "Chula Vista, CA"
+  }
+ },
+ "bfe7c74ce1": {
+  "instruction": {
+   "korean": "Tabe BBQ Fusion Truck ",
+   "ANSWER": "Answered ",
+   "chula vista": "4637 Market St San Diego, CA 92111"
+  }
+ },
+ "b77ef34e2d": {
+  "instruction": {
+   "korean": "Fast food",
+   "ANSWER": "The Flame Broiler",
+   "chula vista": "Otay Lakes Rd"
+  }
+ },
+ "a5bce945c6": {
+  "instruction": {
+   "type of food": "Vietnamese Food",
+   "ANSWER": "Loving Hut",
+   "geographic location": "Alexandria, VA"
+  }
+ },
+ "b93c21a6a4": {
+  "instruction": {
+   "korean": "Hang a Ri Tijuana",
+   "chula vista": "Tijuana"
+  }
+ },
+ "a56c8346d9": {
+  "instruction": {
+   "type of food": "burger",
+   "ANSWER": "curbside burgers",
+   "geographic location": "70808"
+  }
+ },
+ "c20c4907e8": {
+  "instruction": {
+   "type of food": "French cuisine",
+   "ANSWER": "Bistrot La Minette",
+   "geographic location": "Philadelphia, PA"
+  }
+ },
+ "a17c889635": {
+  "instruction": {
+   "geographic location": "Bourbon Street in New Orleans",
+   "type of food": "Barbecue"
+  }
+ },
+ "1bb3f0017e": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": " Lemon Tree Kids and Family Restaurant",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "9973c5f34c": {
+  "instruction": {
+   "korean": "French",
+   "ANSWER": "Savoie Eatery",
+   "chula vista": "Birch Rd"
+  }
+ },
+ "391e68f939": {
+  "instruction": {
+   "korean": "Tastea Grill Hawaiian BBQ & Grill",
+   "ANSWER": "Answered ",
+   "chula vista": "1392 E Palomar St Ste 305 Chula Vista, CA 91913"
+  }
+ },
+ "481c4c97ca": {
+  "instruction": {
+   "korean": "Teriyaki Grill ",
+   "ANSWER": "Answered ",
+   "chula vista": "380 3rd Ave Ste B Chula Vista, CA 91910"
+  }
+ },
+ "367bb8071a": {
+  "instruction": {
+   "type of food": " Sushi",
+   "ANSWER": "Shizen Vegan Sushi Bar & Izakaya",
+   "geographic location": "Mission"
+  }
+ },
+ "9529962266": {
+  "instruction": {
+   "geographic location": "95621",
+   "type of food": "Steaks"
+  }
+ },
+ "b8654236b1": {
+  "instruction": {
+   "korean": "Mexican",
+   "ANSWER": "Tacos El Gordo",
+   "chula vista": "H St"
+  }
+ },
+ "af037d4786": {
+  "instruction": {
+   "geographic location": "Roseville, CA",
+   "type of food": "Buffet"
+  }
+ },
+ "701d51c309": {
+  "instruction": {
+   "korean": "Cajun",
+   "ANSWER": "Smitty\u2019s Taste of the Bayou",
+   "chula vista": "chula vista"
+  }
+ },
+ "e8e6074062": {
+  "instruction": {
+   "korean": "Smitty\u2019s Taste of the Bayou",
+   "chula vista": "chula vista"
+  }
+ },
+ "8c886fed5c": {
+  "instruction": {
+   "type of food": "American (new)",
+   "ANSWER": "Crossing Restaurant ",
+   "geographic location": "Yuma, AZ"
+  }
+ },
+ "965dcb47c9": {
+  "instruction": {
+   "geographic location": "downtown Sacramento",
+   "type of food": "Soul Food"
+  }
+ },
+ "bffa1c4443": {
+  "instruction": {
+   "type of food": " Sandwiches",
+   "ANSWER": "Limoncello",
+   "geographic location": "Lower Pacific Heights"
+  }
+ },
+ "4d97aa5cca": {
+  "instruction": {
+   "korean": "thai",
+   "ANSWER": "tuktan thai food",
+   "chula vista": "chula vista"
+  }
+ },
+ "7756fa738b": {
+  "instruction": {
+   "type of food": "Seafood",
+   "ANSWER": "Anchor Oyster Bar",
+   "geographic location": "Castro"
+  }
+ },
+ "6fb8107e19": {
+  "instruction": {
+   "korean": "Sushi",
+   "ANSWER": "KUSAKABE ",
+   "chula vista": "San Francisco"
+  }
+ },
+ "b361d004de": {
+  "instruction": {
+   "korean": "Seafood",
+   "ANSWER": "Claw Shack ",
+   "chula vista": "San Jose"
+  }
+ },
+ "c5b5d8de51": {
+  "instruction": {
+   "geographic location": "Fishermans Wharf in San Franciscon",
+   "type of food": "Korean Food"
+  }
+ },
+ "d2304e2fa8": {
+  "instruction": {
+   "type of food": "Chinese Food",
+   "ANSWER": "Asian Star",
+   "geographic location": "Yuma, AZ"
+  }
+ },
+ "db8633b30e": {
+  "instruction": {
+   "type of food": "biryani",
+   "ANSWER": " Hyderabad Dum Biryani, 55 Dempsey Rd Milpitas, CA 95035 Phone number (408) 493-6133",
+   "geographic location": " Marina District, San Francisco, CA"
+  }
+ },
+ "5bedba62f9": {
+  "instruction": {
+   "type of food": "shawarma",
+   "ANSWER": "Yafa Grille,Dupont Circle 1205 19th St NW Washington, DC 20036 Phone number (202) 750-6689",
+   "geographic location": "near Dupont Circle, Washington, DC "
+  }
+ },
+ "aaf1afbfa5": {
+  "instruction": {
+   "korean": " Seoul Man Food Truck",
+   "ANSWER": " Serving La Jolla and the Surrounding Area Phone number (844) 986-5227 ",
+   "chula vista": "Chula Vista"
+  }
+ },
+ "760b85857c": {
+  "instruction": {
+   "korean": "Homestyle Hawaiian ",
+   "ANSWER": "Answered ",
+   "chula vista": "1558 E H St Ste A Chula Vista, CA 91913"
+  }
+ },
+ "562d687819": {
+  "instruction": {
+   "korean": " iWok Chinese Restaurant",
+   "chula vista": "chula vista"
+  }
+ },
+ "39b79f3527": {
+  "instruction": {
+   "geographic location": "near Disneyland",
+   "type of food": "Pizza"
+  }
+ },
+ "c06a5b2a69": {
+  "instruction": {
+   "korean": "Filipino",
+   "ANSWER": "Halo Halo Cafe & Ice Cream Parlor",
+   "chula vista": "chula vista"
+  }
+ },
+ "bf0828b809": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Ronnie's Pizza",
+   "geographic location": "Yuma, Az"
+  }
+ },
+ "ca974c6271": {
+  "instruction": {
+   "korean": "italian",
+   "ANSWER": "Italianissimo Trattoria",
+   "chula vista": "chula vista"
+  }
+ },
+ "f58725b013": {
+  "instruction": {
+   "korean": "Mexican",
+   "ANSWER": "La Fiesta Mexican Grill",
+   "chula vista": "Orlando, FL"
+  }
+ },
+ "cdb3c9708a": {
+  "instruction": {
+   "type of food": "seafood",
+   "ANSWER": "Hooked",
+   "geographic location": "Ocean City, MD"
+  }
+ },
+ "43b45c17e3": {
+  "instruction": {
+   "korean": "Italian",
+   "ANSWER": "Italianissimo Trattoria",
+   "chula vista": "3rd Ave"
+  }
+ },
+ "e80b99f372": {
+  "instruction": {
+   "type of food": "Barbecue",
+   "geographic location": "Bourbon Street in New Orleans"
+  }
+ },
+ "9ea075960a": {
+  "instruction": {
+   "type of food": "continental breakfast",
+   "ANSWER": "Casablanca hotel",
+   "geographic location": "New York, NY"
+  }
+ },
+ "85213a28f0": {
+  "instruction": {
+   "korean": "tapas",
+   "ANSWER": "romesco",
+   "chula vista": "chula vista"
+  }
+ },
+ "af21f080e8": {
+  "instruction": {
+   "korean": "The Great Steak and Potato Company",
+   "ANSWER": "Answered ",
+   "chula vista": "The Shops at San Miguel Ranch 2322 Proctor Valley Rd, Ste 103 Chula Vista, CA 91914"
+  }
+ },
+ "ae2f6810bc": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Little Star Pizza",
+   "geographic location": "Alamo Square"
+  }
+ },
+ "0f28082187": {
+  "instruction": {
+   "type of food": "barbeque",
+   "ANSWER": "Central Barbeque",
+   "geographic location": "Memphis, TN"
+  }
+ },
+ "27f5818136": {
+  "instruction": {
+   "korean": "Thai",
+   "ANSWER": "Thai Fresh",
+   "chula vista": "Tierra Del Rey"
+  }
+ },
+ "78cadb886c": {
+  "instruction": {
+   "korean": "mexican",
+   "ANSWER": "Californios ",
+   "chula vista": "San francisco"
+  }
+ },
+ "13de1bc43a": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Minute Maid Park, Stadiums & Arenas, Baseball Fields",
+   "geographic location": "Houstan,Tx"
+  }
+ },
+ "d92224cc17": {
+  "instruction": {
+   "korean": " Korean Kitchen Tofu & Galbi",
+   "ANSWER": "509 Telegraph Canyon Rd Chula Vista, CA 91910 ",
+   "chula vista": "Chula Vista"
+  }
+ },
+ "d182c39708": {
+  "instruction": {
+   "type of food": "Chinese Food",
+   "ANSWER": "Q Restaurant",
+   "geographic location": "Boston,MA"
+  }
+ },
+ "85a73a38ee": {
+  "instruction": {
+   "geographic location": "Vegas Strip",
+   "type of food": "Brunch"
+  }
+ },
+ "11b4dd4c0f": {
+  "instruction": {
+   "korean": "BBQ",
+   "ANSWER": "Bart Grocery & BBQ ",
+   "chula vista": "San Francisco"
+  }
+ },
+ "18b860efe4": {
+  "instruction": {
+   "type of food": "Indian Food",
+   "geographic location": "Fresno, CA"
+  }
+ },
+ "d351ea6edb": {
+  "instruction": {
+   "type of food": "Vegan Food",
+   "ANSWER": "Hummus House",
+   "geographic location": "Allentown, PA"
+  }
+ },
+ "89ca1bf899": {
+  "instruction": {
+   "type of food": "traditional japanese breakfast",
+   "ANSWER": "Ootoya Chelsea",
+   "geographic location": "New York, NY"
+  }
+ },
+ "f4fec28f51": {
+  "instruction": {
+   "type of food": "breakfast",
+   "ANSWER": "the rolling pin",
+   "geographic location": "colorado"
+  }
+ },
+ "4e6cae6019": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Louisville Mega Cavern, Tours, Challenge Courses, Ziplining",
+   "geographic location": "Louisville, KY"
+  }
+ },
+ "3314d0e67c": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Mission Dolores Park, Parks, Playgrounds, Basketball Courts",
+   "geographic location": "San Francisco"
+  }
+ },
+ "d7f739d830": {
+  "instruction": {
+   "korean": "pizza",
+   "ANSWER": "pizzo's",
+   "chula vista": "chula vista"
+  }
+ },
+ "23df31759c": {
+  "instruction": {
+   "korean": " Roboto Tokyo Grill",
+   "ANSWER": " 6061 El Cajon Blvd San Diego, CA 92115 Phone number (619) 582-1013 ",
+   "chula vista": "Chula Vista"
+  }
+ },
+ "96a58151ef": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Arizmendi Bakery",
+   "geographic location": "Inner Sunset"
+  }
+ },
+ "cf15561b5e": {
+  "instruction": {
+   "type of food": "Italian ",
+   "ANSWER": "La Terrazza Ristorante Italiano",
+   "geographic location": "Tampa, FL "
+  }
+ },
+ "79385ca4da": {
+  "instruction": {
+   "type of food": "Sushi",
+   "ANSWER": "Akai Hana",
+   "geographic location": "Columbus, OH "
+  }
+ },
+ "be1af9b609": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Peri Brothers Pizza",
+   "geographic location": "Raleigh, NC"
+  }
+ },
+ "337ab8adc1": {
+  "instruction": {
+   "korean": "Mexican",
+   "ANSWER": "Taqueria Revolucion",
+   "chula vista": "chula vista"
+  }
+ },
+ "b4a890cfaa": {
+  "instruction": {
+   "korean": "Sandwich",
+   "ANSWER": "David\u2019s New Orleans Style Sno-Balls",
+   "chula vista": "Panama City Beach, FL"
+  }
+ },
+ "2ad648f560": {
+  "instruction": {
+   "korean": "greek",
+   "ANSWER": "zorba's greek cuisine",
+   "chula vista": "chula vista"
+  }
+ },
+ "1f219cec01": {
+  "instruction": {
+   "type of food": "chinese skewer",
+   "ANSWER": "fanti bbq",
+   "geographic location": "75093"
+  }
+ },
+ "3755f89a79": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": "Los Guachos Taqueria",
+   "geographic location": "Columbus, OH "
+  }
+ },
+ "f3786a19f9": {
+  "instruction": {
+   "korean": "Homestyle Hawaiian",
+   "chula vista": "chula vista"
+  }
+ },
+ "82ad96da70": {
+  "instruction": {
+   "type of food": "Italian Food",
+   "ANSWER": "Bella Monica",
+   "geographic location": "Raleigh, NC"
+  }
+ },
+ "153c5aacd8": {
+  "instruction": {
+   "korean": "Cuban",
+   "ANSWER": "Los Pollos Rotisserie & Cuban Bakery",
+   "chula vista": "chula vista"
+  }
+ },
+ "a3fb47fdb3": {
+  "instruction": {
+   "korean": "Sushi",
+   "ANSWER": "Sushi Base",
+   "chula vista": "chula vista"
+  }
+ },
+ "fdf1415fa3": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": " My Gym, Gyms, Kids Activities, Party & Event Planning",
+   "geographic location": "Palo Alto, CA"
+  }
+ },
+ "31b101fa19": {
+  "instruction": {
+   "type of food": "vegetarian",
+   "ANSWER": "Govinda's Vegetarian",
+   "geographic location": "Brooklyn, NY"
+  }
+ },
+ "a5392512d4": {
+  "instruction": {
+   "korean": "Sushiya",
+   "chula vista": "chula vista"
+  }
+ },
+ "80c4cc240e": {
+  "instruction": {
+   "korean": "Open Bar",
+   "ANSWER": "Liquid Gold ",
+   "chula vista": "San Francisco"
+  }
+ },
+ "e7fc0f3075": {
+  "instruction": {
+   "type of food": "Low Carb Desserts",
+   "geographic location": "Ketchikan, AK"
+  }
+ },
+ "75184089b2": {
+  "instruction": {
+   "korean": "Seafood",
+   "ANSWER": "Mariscos Los Cuates",
+   "chula vista": "chula vista"
+  }
+ },
+ "9e50a598a2": {
+  "instruction": {
+   "korean": " 356 BBQ & Bar 356 BBQ & Bar",
+   "ANSWER": " 1640 Camino Del Rio North FS12 San Diego, CA 92108 Phone number (619) 720-6347 ",
+   "chula vista": "Chula Vista"
+  }
+ },
+ "d6157db9cc": {
+  "instruction": {
+   "korean": "Soul Food",
+   "ANSWER": "Big Nick\u2019s On Baytree",
+   "chula vista": "Valdosta, GA"
+  }
+ },
+ "fb9082cebf": {
+  "instruction": {
+   "type of food": "salmon",
+   "ANSWER": "Seafood R\u2019evolution",
+   "geographic location": "mississippi"
+  }
+ },
+ "48759150f1": {
+  "instruction": {
+   "korean": "Rice King",
+   "ANSWER": "1550 E H St Chula Vista, CA 91913 ",
+   "chula vista": "Chula Vista"
+  }
+ },
+ "f9f7f765c2": {
+  "instruction": {
+   "type of food": "Pizza",
+   "geographic location": "near Disneyland"
+  }
+ },
+ "a2b1246c86": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": " Tag and Target, Party & Event Planning, Airsoft",
+   "geographic location": "Lakewood, CA"
+  }
+ },
+ "ff93fdad33": {
+  "instruction": {
+   "geographic location": "Portland airport",
+   "type of food": "Vegan"
+  }
+ },
+ "349ed6d89d": {
+  "instruction": {
+   "korean": "Ono\u2019s Cafe Claimed 3.5 star rating",
+   "ANSWER": "Answered ",
+   "chula vista": "4154 Bonita Rd Bonita, CA 91902"
+  }
+ },
+ "4047f252d1": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Pacific Archery Sales, Sporting Goods, Archery",
+   "geographic location": "Las Vegas, NV"
+  }
+ },
+ "d92ffa113f": {
+  "instruction": {
+   "type of food": "French Food",
+   "ANSWER": "L\u2019Atelier de Jo\u00ebl Robuchon",
+   "geographic location": "LasVegas"
+  }
+ },
+ "071c5fe605": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Zoo Knoxville, Zoos",
+   "geographic location": "Knoxville, TN"
+  }
+ },
+ "2389ea5eec": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Pedal Bike Tours, Bike Rentals, Tours",
+   "geographic location": "Portland,Qr"
+  }
+ },
+ "2bb189b0cb": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Chef Vola's",
+   "geographic location": "Atlantic City, NJ"
+  }
+ },
+ "fbd5c8a5b6": {
+  "instruction": {
+   "type of food": "Korean Barbeque",
+   "ANSWER": "Oz Korean BBQ",
+   "geographic location": "Sacramento, CA"
+  }
+ },
+ "5febe2df52": {
+  "instruction": {
+   "korean": "J Wok ",
+   "ANSWER": "Answered ",
+   "chula vista": "744 Market St San Diego, CA 92101"
+  }
+ },
+ "76c4b26b38": {
+  "instruction": {
+   "type of food": "Buffet",
+   "geographic location": "Roseville, CA"
+  }
+ },
+ "7ba9617c07": {
+  "instruction": {
+   "type of food": "Arabic food",
+   "ANSWER": "Original Kabob Factory",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "77183ab03d": {
+  "instruction": {
+   "type of food": "Mediterranean ",
+   "ANSWER": "Rivers Edge Bistro",
+   "geographic location": "12589"
+  }
+ },
+ "29694838ac": {
+  "instruction": {
+   "type of food": "sushi",
+   "ANSWER": ". The Bento Place,Harvard Heights 1110 S Western Ave Los Angeles, CA 90006 Phone number (323) 643-4919",
+   "geographic location": " near Harvard Heights, Los Angeles, CA"
+  }
+ },
+ "79c4a329ec": {
+  "instruction": {
+   "type of food": "French",
+   "ANSWER": "Saveurs 209",
+   "geographic location": "San Antonio, TX "
+  }
+ },
+ "2105b71672": {
+  "instruction": {
+   "korean": "Manna Restaurant",
+   "chula vista": "chula vista"
+  }
+ },
+ "6da7b4cdaf": {
+  "instruction": {
+   "type of food": "ramen noodles",
+   "ANSWER": " Sobo Ramen,Oakland Chinatown 988 Franklin St Oakland, CA 94607 Phone number (510) 832-7626",
+   "geographic location": " near Oakland Chinatown, Oakland, CA"
+  }
+ },
+ "cc8cdc9731": {
+  "instruction": {
+   "korean": "Mexican",
+   "ANSWER": "Las Delicias Del Mero, Mero Mexican Grill ",
+   "chula vista": "San Jose"
+  }
+ },
+ "c4b7b73e16": {
+  "instruction": {
+   "korean": "Manna BBQ Chulavista ",
+   "ANSWER": "Answered ",
+   "chula vista": "724 Otay Lakes Rd Chula Vista, CA 91910"
+  }
+ },
+ "8073b918d5": {
+  "instruction": {
+   "korean": "Country",
+   "ANSWER": "Michael\u2019s Restaurant",
+   "chula vista": "Niagara Falls, NY"
+  }
+ },
+ "07b7517e60": {
+  "instruction": {
+   "type of food": "Chinese Takeout",
+   "ANSWER": "Mints Euro Asian Cuisine",
+   "geographic location": "95683"
+  }
+ },
+ "14790699d2": {
+  "instruction": {
+   "korean": "Greek",
+   "ANSWER": "Canada Steak Burger",
+   "chula vista": "chula vista"
+  }
+ },
+ "e5dbd03af0": {
+  "instruction": {
+   "korean": " Hang a Ri Tijuana",
+   "ANSWER": "La Chapu (Chapultepec) Blvd. Agua Caliente 11300 22014 Tijuana, Baja California Mexico Phone number 664 686 1815 La Chapu (Chapultepec) Blvd. Agua Caliente 11300 22014 Tijuana, Baja California Mexico Phone number 664 686 1815 ",
+   "chula vista": "Chula Vista"
+  }
+ },
+ "e27fbb3700": {
+  "instruction": {
+   "korean": "chinese ",
+   "ANSWER": "Dragon Express ",
+   "chula vista": "Chula Vista"
+  }
+ },
+ "7348fba916": {
+  "instruction": {
+   "korean": " Manna BBQ Chula Vista",
+   "ANSWER": "724 Otay Lakes Rd Chula Vista, CA 91910 ",
+   "chula vista": "Chula Vista"
+  }
+ },
+ "9a14f257aa": {
+  "instruction": {
+   "type of food": "Indian Food",
+   "ANSWER": "Kadhai the Indian Wok",
+   "geographic location": "Raleigh,NC"
+  }
+ },
+ "d0a17ab9d4": {
+  "instruction": {
+   "type of food": "Gluten-Free",
+   "ANSWER": "Amazing Cafe",
+   "geographic location": "Pittsburgh, PA"
+  }
+ },
+ "1158d7e719": {
+  "instruction": {
+   "type of food": "Indian Buffet",
+   "ANSWER": "Clove, Fine Indian Dining",
+   "geographic location": "Bethlehem, PA"
+  }
+ },
+ "ef9e011599": {
+  "instruction": {
+   "type of food": "Taiwanese Food",
+   "ANSWER": "Pine & Crane",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "f063c3d7b6": {
+  "instruction": {
+   "type of food": "Japanese Food",
+   "ANSWER": "Ajisai Japanese Fusion",
+   "geographic location": "Raleigh, NC"
+  }
+ },
+ "88b112e4ad": {
+  "instruction": {
+   "type of food": "Carribbean Food",
+   "ANSWER": "Kaya",
+   "geographic location": "15201"
+  }
+ },
+ "f2f7faa92c": {
+  "instruction": {
+   "type of food": "baked potatoes ",
+   "ANSWER": "Hot Spud",
+   "geographic location": "san fransico"
+  }
+ },
+ "a349dc55e7": {
+  "instruction": {
+   "type of food": "ramen",
+   "ANSWER": "jinya ramen bar",
+   "geographic location": "houston"
+  }
+ },
+ "a822264451": {
+  "instruction": {
+   "korean": "Greek",
+   "ANSWER": "Canada Steak Burger",
+   "chula vista": "Telegraph Canyon Rd"
+  }
+ },
+ "8d5271b431": {
+  "instruction": {
+   "korean": "BBQ",
+   "ANSWER": "Outlaws BBQ",
+   "chula vista": "Panama City, FL"
+  }
+ },
+ "cf47d62541": {
+  "instruction": {
+   "type of food": "Seafood ",
+   "ANSWER": "Zoe\u2019s Kitchen",
+   "geographic location": "43232"
+  }
+ },
+ "bc5b24f8a2": {
+  "instruction": {
+   "type of food": "creperies",
+   "ANSWER": "Little Heaven Deli",
+   "geographic location": "Mission"
+  }
+ },
+ "5529c45fc1": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Edgewater Park, cleveland memorial shoreway",
+   "geographic location": "Cleveland,Oh"
+  }
+ },
+ "7e21c474e8": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Lers Ros",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "4303103da2": {
+  "instruction": {
+   "korean": "chinese",
+   "ANSWER": "mandarin chinese restaurant",
+   "chula vista": "chula vista"
+  }
+ },
+ "470d21b35a": {
+  "instruction": {
+   "type of food": "Korean Food",
+   "geographic location": "Fishermans Wharf in San Franciscon"
+  }
+ }
+}

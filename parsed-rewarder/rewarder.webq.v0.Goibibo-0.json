@@ -1,0 +1,1492 @@
+{
+ "ab2add67f8": {
+  "instruction": {
+   "destination": "Paris",
+   "place of departure": "New Delhi",
+   "date": "Mar 6 2017",
+   "ANSWER": "Kuwait Airlines"
+  }
+ },
+ "84af88c7ad": {
+  "instruction": {
+   "destination": "Leipzig",
+   "place of departure": "London",
+   "date": "Feb 28 2017",
+   "ANSWER": "97,836"
+  }
+ },
+ "d7b0214174": {
+  "instruction": {
+   "destination": "Moscow",
+   "place of departure": "Prague",
+   "date": "May 31 2017",
+   "ANSWER": "10282"
+  }
+ },
+ "52d53156d0": {
+  "instruction": {
+   "destination": " Bangkok ",
+   "place of departure": "Paris ",
+   "date": "Feb 24 2017",
+   "ANSWER": "24,913"
+  }
+ },
+ "40477d7469": {
+  "instruction": {
+   "destination": "Melbourne",
+   "place of departure": "Darwin",
+   "date": "Mar 16 2017",
+   "ANSWER": "Rs 15,454"
+  }
+ },
+ "984217bb69": {
+  "instruction": {
+   "place of departure": "Delhi",
+   "date": "Feb 23 2017",
+   "destination": "Kolkata"
+  }
+ },
+ "993e103a67": {
+  "instruction": {
+   "date": "2-23-2017",
+   "place of departure": "New York, New York",
+   "destination": "Buffalo, New York",
+   "ANSWER": "$253.00"
+  }
+ },
+ "035073b567": {
+  "instruction": {
+   "destination": "Los Angeles",
+   "place of departure": "Birmingham",
+   "date": "Feb 28 2017",
+   "ANSWER": "75,276"
+  }
+ },
+ "4f1eb0aecb": {
+  "instruction": {
+   "destination": "Detroit",
+   "place of departure": "Green Bay",
+   "date": "Mar 08 2017",
+   "ANSWER": "16,829"
+  }
+ },
+ "2bdbe6a2b2": {
+  "instruction": {
+   "destination": "MIlan",
+   "place of departure": "Viena",
+   "date": "Mar 22 2017",
+   "ANSWER": "7471"
+  }
+ },
+ "425dfb7054": {
+  "instruction": {
+   "destination": "Miami, Florida",
+   "place of departure": "Milwaukee, Wisconsin",
+   "date": "2-20-2017 ",
+   "ANSWER": "$392.00"
+  }
+ },
+ "93ee2c63bb": {
+  "instruction": {
+   "destination": "Hyderabad",
+   "place of departure": "Johannesburg",
+   "date": "Feb 23 2017",
+   "ANSWER": "28,598"
+  }
+ },
+ "0440f32872": {
+  "instruction": {
+   "destination": "Milwaukee, Wisconsin",
+   "place of departure": "Columbus, Ohio",
+   "date": "02/19/2017",
+   "ANSWER": "$690.00"
+  }
+ },
+ "af394b3d41": {
+  "instruction": {
+   "destination": "Boston",
+   "place of departure": "Dublin",
+   "date": "Mar 17 2017",
+   "ANSWER": "33,819"
+  }
+ },
+ "f3a0fbf7f5": {
+  "instruction": {
+   "date": "2-21-2017",
+   "place of departure": "Juneau, Alaska",
+   "destination": "Washington, DC",
+   "ANSWER": "$1662.00"
+  }
+ },
+ "c0ed2ce415": {
+  "instruction": {
+   "destination": "Prague",
+   "place of departure": "Brussels",
+   "date": "Apr 20 2017",
+   "ANSWER": "8957"
+  }
+ },
+ "ab5a79fe24": {
+  "instruction": {
+   "destination": "Milan",
+   "place of departure": "Belgrade",
+   "date": "Feb 25 2017",
+   "ANSWER": "Turkish Airlines TK1084 , TK1895"
+  }
+ },
+ "156dc44732": {
+  "instruction": {
+   "destination": "Spokane",
+   "place of departure": "Miami",
+   "date": "Mar 17 2017",
+   "ANSWER": "20,451"
+  }
+ },
+ "0c2ba4c4b6": {
+  "instruction": {
+   "date": "02/19/2017",
+   "place of departure": "Columbus, Ohio",
+   "destination": "Milwaukee, Wisconsin",
+   "ANSWER": "$690.00"
+  }
+ },
+ "fec6970af4": {
+  "instruction": {
+   "destination": "Los Angels",
+   "place of departure": "New Delhi",
+   "date": "Mar 6 2017",
+   "ANSWER": "Jet Airways"
+  }
+ },
+ "cab79bc181": {
+  "instruction": {
+   "place of departure": "Daipur",
+   "date": "Feb 9 2017",
+   "destination": "Mumbai"
+  }
+ },
+ "33bb1fe7c0": {
+  "instruction": {
+   "date": "Feb 26 2017",
+   "place of departure": "Delhi",
+   "destination": "Pune",
+   "ANSWER": "GoAir"
+  }
+ },
+ "968fc87b56": {
+  "instruction": {
+   "destination": "Chennai",
+   "place of departure": "Delhi",
+   "date": "Feb 26 2017",
+   "ANSWER": "Spicejet"
+  }
+ },
+ "6459e0e3fe": {
+  "instruction": {
+   "destination": "Kolkata",
+   "place of departure": "Delhi",
+   "date": "Feb 23 2017"
+  }
+ },
+ "f9e632914f": {
+  "instruction": {
+   "destination": "Madrid",
+   "place of departure": "London",
+   "date": "Feb 28 2017",
+   "ANSWER": "15,403"
+  }
+ },
+ "a36ee8dc7b": {
+  "instruction": {
+   "date": "Feb 24 2017",
+   "place of departure": "Sofia",
+   "destination": "Hamburg",
+   "ANSWER": "Deutsche Lufthansa LH1429 , LH14"
+  }
+ },
+ "5e6fa0e46e": {
+  "instruction": {
+   "date": "Mar 18 2017",
+   "place of departure": "Houston",
+   "destination": "Providence",
+   "ANSWER": "9,846"
+  }
+ },
+ "876ff6d8b8": {
+  "instruction": {
+   "date": "Mar 29 2017",
+   "place of departure": "Mumbai",
+   "destination": "Kathmandu",
+   "ANSWER": "Rs 8,888"
+  }
+ },
+ "a29f6e04e2": {
+  "instruction": {
+   "destination": "New York",
+   "place of departure": "London",
+   "date": "Feb 28 2017",
+   "ANSWER": "31,995"
+  }
+ },
+ "91f8464fff": {
+  "instruction": {
+   "destination": "Tokyo ",
+   "place of departure": "Orlando",
+   "date": "Apr 06 2017",
+   "ANSWER": "58,968"
+  }
+ },
+ "ff87e77870": {
+  "instruction": {
+   "date": "Feb 24 2017",
+   "place of departure": "Zagreb",
+   "destination": "Rome ",
+   "ANSWER": "Turkish Airlines TK1054 , TK1863"
+  }
+ },
+ "559fbd7066": {
+  "instruction": {
+   "destination": "Paris",
+   "place of departure": "Skopje",
+   "date": "Feb 24 2017",
+   "ANSWER": "Turkish Airlines TK1004 , TK1827"
+  }
+ },
+ "0568abe2e3": {
+  "instruction": {
+   "place of departure": "Mumbai",
+   "date": "Feb 10 2017",
+   "destination": "Kolkata"
+  }
+ },
+ "1d4cbd456d": {
+  "instruction": {
+   "place of departure": "Pune",
+   "date": "Feb 15 2017",
+   "destination": "Hyderabad"
+  }
+ },
+ "d88930aca6": {
+  "instruction": {
+   "date": "Mar 6 2017",
+   "place of departure": "New Delhi",
+   "destination": "Tokyo",
+   "ANSWER": "Jet Airways"
+  }
+ },
+ "2ed672508b": {
+  "instruction": {
+   "destination": "Chennai",
+   "place of departure": "Mumbai",
+   "date": "Feb 13 2017"
+  }
+ },
+ "5376ae06f1": {
+  "instruction": {
+   "date": "May 26 2017",
+   "place of departure": "Goa",
+   "destination": "Colombo",
+   "ANSWER": "Rs 14,704"
+  }
+ },
+ "c7af43985a": {
+  "instruction": {
+   "date": "Feb 25 2017",
+   "place of departure": "Sofia,",
+   "destination": "Madrid",
+   "ANSWER": "Turkish Airlines TK1030 , TK1857"
+  }
+ },
+ "a28a58f789": {
+  "instruction": {
+   "date": "Mar 01 2017",
+   "place of departure": "Philadelphia ",
+   "destination": "Cairo",
+   "ANSWER": "48,240"
+  }
+ },
+ "2c337cfe0d": {
+  "instruction": {
+   "destination": "Mumbai",
+   "place of departure": "Delhi",
+   "date": "Feb 24 2017"
+  }
+ },
+ "c3c67c8094": {
+  "instruction": {
+   "destination": "Madrid",
+   "place of departure": "Sofia,",
+   "date": "Feb 25 2017",
+   "ANSWER": "Turkish Airlines TK1030 , TK1857"
+  }
+ },
+ "d0ecf1d43f": {
+  "instruction": {
+   "date": "Mar 16 2017",
+   "place of departure": "Darwin",
+   "destination": "Melbourne",
+   "ANSWER": "Rs 15,454"
+  }
+ },
+ "1d3dfa54b5": {
+  "instruction": {
+   "destination": "Tel Aviv Yafo",
+   "place of departure": "Bangkok",
+   "date": "Feb 21 2017",
+   "ANSWER": "47,215"
+  }
+ },
+ "1fea10ae5a": {
+  "instruction": {
+   "date": "Feb 22 2017",
+   "place of departure": "Boston",
+   "destination": "Seattle",
+   "ANSWER": "11,189"
+  }
+ },
+ "1065815f3f": {
+  "instruction": {
+   "destination": "Rome",
+   "place of departure": "Birmingham",
+   "date": "Feb 28 2017",
+   "ANSWER": "9,551"
+  }
+ },
+ "c27bad7318": {
+  "instruction": {
+   "place of departure": "Chennai",
+   "date": "Feb 14 2017",
+   "destination": "Hyderabad"
+  }
+ },
+ "89dbdd56ef": {
+  "instruction": {
+   "date": "Mar 29 2017",
+   "place of departure": "Berlin",
+   "destination": "Paris",
+   "ANSWER": "6,051"
+  }
+ },
+ "993ba0d676": {
+  "instruction": {
+   "destination": "Columbus, Ohio",
+   "place of departure": "Lexington, Kentucky",
+   "date": "2-24-2017",
+   "ANSWER": "$1108.00"
+  }
+ },
+ "0bb6fe64da": {
+  "instruction": {
+   "destination": "Providence",
+   "place of departure": "Houston",
+   "date": "Mar 18 2017",
+   "ANSWER": "9,846"
+  }
+ },
+ "78091fa1f5": {
+  "instruction": {
+   "destination": "Athens",
+   "place of departure": "London",
+   "date": "Jun 17 2017 ",
+   "ANSWER": "9821"
+  }
+ },
+ "a7d2fd238d": {
+  "instruction": {
+   "destination": "Colombo",
+   "place of departure": "Goa",
+   "date": "May 26 2017",
+   "ANSWER": "Rs 14,704"
+  }
+ },
+ "2b65194097": {
+  "instruction": {
+   "destination": "Memphis",
+   "place of departure": "Helsinki ",
+   "date": "Feb 28 2017",
+   "ANSWER": "97,011"
+  }
+ },
+ "f54b735ad1": {
+  "instruction": {
+   "date": "Mar 6 2017",
+   "place of departure": "New Delhi",
+   "destination": "Manila",
+   "ANSWER": "Air India"
+  }
+ },
+ "ecb78a0300": {
+  "instruction": {
+   "date": "Feb 28 2017",
+   "place of departure": "London",
+   "destination": "Madrid",
+   "ANSWER": "15,403"
+  }
+ },
+ "4530514e22": {
+  "instruction": {
+   "destination": "Paris",
+   "place of departure": "Birmingham",
+   "date": "Feb 28 2017",
+   "ANSWER": "65,425"
+  }
+ },
+ "5208e7cf38": {
+  "instruction": {
+   "date": "Mar 03 2017",
+   "place of departure": "Seattle",
+   "destination": "San Francisco",
+   "ANSWER": "7,905"
+  }
+ },
+ "d537a9f5a4": {
+  "instruction": {
+   "destination": "Nagpur",
+   "place of departure": "Beijing",
+   "date": "Apr 1 2017",
+   "ANSWER": "Rs 22,829"
+  }
+ },
+ "d24ff81977": {
+  "instruction": {
+   "destination": "Rome ",
+   "place of departure": "Zagreb",
+   "date": "Feb 24 2017",
+   "ANSWER": "Turkish Airlines TK1054 , TK1863"
+  }
+ },
+ "7bc66ece93": {
+  "instruction": {
+   "destination": "Cairo",
+   "place of departure": "Philadelphia ",
+   "date": "Mar 01 2017",
+   "ANSWER": "48,240"
+  }
+ },
+ "11e4b7c5c0": {
+  "instruction": {
+   "destination": "Kulu",
+   "place of departure": "Delhi",
+   "date": "Feb 21 2017",
+   "ANSWER": "Air India"
+  }
+ },
+ "84e20044a4": {
+  "instruction": {
+   "date": "Mar 03 2017",
+   "place of departure": "Paris",
+   "destination": "Boston",
+   "ANSWER": "25,917"
+  }
+ },
+ "a7e71df3c5": {
+  "instruction": {
+   "date": "Feb 14 2017",
+   "place of departure": "Chennai",
+   "destination": "Hyderabad"
+  }
+ },
+ "f3f08c0e87": {
+  "instruction": {
+   "date": "Feb 28 2017",
+   "place of departure": "Birmingham",
+   "destination": "Rome",
+   "ANSWER": "9,551"
+  }
+ },
+ "63fe515e56": {
+  "instruction": {
+   "destination": "Paris",
+   "place of departure": " Hampton ",
+   "date": "Feb 27 2017",
+   "ANSWER": "200,723"
+  }
+ },
+ "1f9e4a4791": {
+  "instruction": {
+   "destination": "Detriot, Michigan",
+   "place of departure": "Cleveland, Ohio",
+   "date": "2-23-2017",
+   "ANSWER": "$827.00"
+  }
+ },
+ "51269e6117": {
+  "instruction": {
+   "date": "Feb 28 2017",
+   "place of departure": "London",
+   "destination": "New York",
+   "ANSWER": "31,995"
+  }
+ },
+ "507abb2e8a": {
+  "instruction": {
+   "date": "2-24-2017",
+   "place of departure": "Lexington, Kentucky",
+   "destination": "Columbus, Ohio",
+   "ANSWER": "$1108.00"
+  }
+ },
+ "7c4a57416f": {
+  "instruction": {
+   "destination": "Hyderabad",
+   "place of departure": "Chennai",
+   "date": "Feb 14 2017"
+  }
+ },
+ "4bd11ea1ff": {
+  "instruction": {
+   "destination": "Paris",
+   "place of departure": "Berlin",
+   "date": "Mar 22 2017",
+   "ANSWER": "15885"
+  }
+ },
+ "dddfcc27c9": {
+  "instruction": {
+   "date": "Feb 24 2017",
+   "place of departure": "Skopje",
+   "destination": "Munih",
+   "ANSWER": "Adria Airways JP827 , JP102"
+  }
+ },
+ "40e11e7473": {
+  "instruction": {
+   "destination": "Delhi",
+   "place of departure": "Bangkok",
+   "date": "Feb 19 2017",
+   "ANSWER": "Rs 22,718"
+  }
+ },
+ "96506cbdb4": {
+  "instruction": {
+   "destination": "Moscow",
+   "place of departure": "New Delhi",
+   "date": "Mar 6 2017",
+   "ANSWER": "Air Astana"
+  }
+ },
+ "d4f1f8d82c": {
+  "instruction": {
+   "destination": "Washington, DC",
+   "place of departure": "Juneau, Alaska",
+   "date": "2-21-2017",
+   "ANSWER": "$1662.00"
+  }
+ },
+ "1b49f99bb1": {
+  "instruction": {
+   "destination": "Juneau, Alaska",
+   "place of departure": "Miami, Florida",
+   "date": "2-19-2017",
+   "ANSWER": "$1093.00"
+  }
+ },
+ "4e4c57ef81": {
+  "instruction": {
+   "place of departure": "Delhi",
+   "date": "Feb 17 2017",
+   "destination": "Jaipur"
+  }
+ },
+ "eaed5b36f3": {
+  "instruction": {
+   "place of departure": "Chennai",
+   "date": "Feb 18 2017",
+   "destination": "Delhi"
+  }
+ },
+ "9cfc8e3885": {
+  "instruction": {
+   "date": "Sep 16 2017",
+   "place of departure": "Moscow",
+   "destination": "London",
+   "ANSWER": "8,625"
+  }
+ },
+ "49e78a22b7": {
+  "instruction": {
+   "date": "Mar 16 2017",
+   "place of departure": "Amritsar ",
+   "destination": "Mumbai",
+   "ANSWER": "3,299"
+  }
+ },
+ "3fc5160b40": {
+  "instruction": {
+   "destination": "Paris",
+   "place of departure": "London",
+   "date": "May 17 2017",
+   "ANSWER": "10051"
+  }
+ },
+ "8ddefd9868": {
+  "instruction": {
+   "destination": "Kolkata",
+   "place of departure": "Phuket",
+   "date": "Mar 23 2017",
+   "ANSWER": "Rs 20,775"
+  }
+ },
+ "2a9ba98b0d": {
+  "instruction": {
+   "date": "Feb 24 2017",
+   "place of departure": "Delhi",
+   "destination": "Mumbai"
+  }
+ },
+ "12a48c99ea": {
+  "instruction": {
+   "destination": "Belgrade",
+   "place of departure": "Skopje",
+   "date": "Feb 24 2017",
+   "ANSWER": "Air Serbia JU163"
+  }
+ },
+ "94e73146d8": {
+  "instruction": {
+   "destination": "San Franciso ",
+   "place of departure": "Anchorage",
+   "date": "Feb 28 2017",
+   "ANSWER": "58,437"
+  }
+ },
+ "f33b6d7bcc": {
+  "instruction": {
+   "destination": "Berlin",
+   "place of departure": "Singapore",
+   "date": "April 1 2017",
+   "ANSWER": "50,366"
+  }
+ },
+ "2aac800425": {
+  "instruction": {
+   "destination": "Houston",
+   "place of departure": "Moscow",
+   "date": "Feb 21 2017",
+   "ANSWER": " 88,704 "
+  }
+ },
+ "4d1ed97e9e": {
+  "instruction": {
+   "date": "Feb 15 2017",
+   "place of departure": "Pune",
+   "destination": "Hyderabad"
+  }
+ },
+ "defedae181": {
+  "instruction": {
+   "date": "Feb 23 2017",
+   "place of departure": "Delhi",
+   "destination": "Kolkata"
+  }
+ },
+ "10522b0dc1": {
+  "instruction": {
+   "destination": "Jaipur",
+   "place of departure": "Delhi",
+   "date": "Feb 17 2017"
+  }
+ },
+ "b898b1eab2": {
+  "instruction": {
+   "date": "Feb 23 2017",
+   "place of departure": "Johannesburg",
+   "destination": "Hyderabad",
+   "ANSWER": "28,598"
+  }
+ },
+ "1e7b66ae60": {
+  "instruction": {
+   "destination": "Bogota",
+   "place of departure": "Toronto, ON ",
+   "date": "Aug 21 2017 ",
+   "ANSWER": "19,199"
+  }
+ },
+ "8eb620789e": {
+  "instruction": {
+   "date": "Mar 23 2017",
+   "place of departure": "Phuket",
+   "destination": "Kolkata",
+   "ANSWER": "Rs 20,775"
+  }
+ },
+ "ec7552365a": {
+  "instruction": {
+   "destination": "Boston",
+   "place of departure": "Paris",
+   "date": "Mar 03 2017",
+   "ANSWER": "25,917"
+  }
+ },
+ "74725f2d80": {
+  "instruction": {
+   "destination": "Buffalo, New York",
+   "place of departure": "New York, New York",
+   "date": "2-23-2017",
+   "ANSWER": "$253.00"
+  }
+ },
+ "845f1b63c0": {
+  "instruction": {
+   "destination": "Bangalore",
+   "place of departure": "Jodhpur",
+   "date": "Apr 18 2017",
+   "ANSWER": "Rs 5,032"
+  }
+ },
+ "9cd9ce4e3a": {
+  "instruction": {
+   "destination": "Miami",
+   "place of departure": "New Orleans",
+   "date": "Mar 21 2017",
+   "ANSWER": "3,103"
+  }
+ },
+ "5f743c5e02": {
+  "instruction": {
+   "date": "Mar 17 2017",
+   "place of departure": "Miami",
+   "destination": "Spokane",
+   "ANSWER": "20,451"
+  }
+ },
+ "1cb07fc7d5": {
+  "instruction": {
+   "date": "Jun 09 2017",
+   "place of departure": "New York",
+   "destination": "Oslo",
+   "ANSWER": "63,604"
+  }
+ },
+ "2389fd986a": {
+  "instruction": {
+   "destination": "Delhi",
+   "place of departure": "Chennai",
+   "date": "Feb 18 2017"
+  }
+ },
+ "a331c70663": {
+  "instruction": {
+   "destination": "Mumbai",
+   "place of departure": "Amritsar ",
+   "date": "Mar 16 2017",
+   "ANSWER": "3,299"
+  }
+ },
+ "0a87ca1375": {
+  "instruction": {
+   "destination": "Hamburg",
+   "place of departure": "Sofia",
+   "date": "Feb 24 2017",
+   "ANSWER": "Deutsche Lufthansa LH1429 , LH14"
+  }
+ },
+ "71a44cf55c": {
+  "instruction": {
+   "date": "Feb 13 2017",
+   "place of departure": "Mumbai",
+   "destination": "Chennai"
+  }
+ },
+ "b2fd5bbb83": {
+  "instruction": {
+   "date": "Feb 28 2017",
+   "place of departure": "Helsinki ",
+   "destination": "Memphis",
+   "ANSWER": "97,011"
+  }
+ },
+ "356950d144": {
+  "instruction": {
+   "destination": "Dublin",
+   "place of departure": "London",
+   "date": "Feb 24 2017",
+   "ANSWER": "19,647"
+  }
+ },
+ "e36d51d0b6": {
+  "instruction": {
+   "date": "Feb 17 2017",
+   "place of departure": "Delhi",
+   "destination": "Jaipur"
+  }
+ },
+ "b109b681a6": {
+  "instruction": {
+   "date": "2-19-2017",
+   "place of departure": "Washington, DC",
+   "destination": "New York, New York",
+   "ANSWER": "$263.00"
+  }
+ },
+ "6034d36169": {
+  "instruction": {
+   "destination": "Cleveland, Ohio",
+   "place of departure": "Columbus, Ohio",
+   "date": "2-22-2017",
+   "ANSWER": "$984.00"
+  }
+ },
+ "7b29c30171": {
+  "instruction": {
+   "destination": "Chennai",
+   "place of departure": "Delhi",
+   "date": "Feb 22 2017"
+  }
+ },
+ "70e5d3df39": {
+  "instruction": {
+   "date": "Mar 17 2017",
+   "place of departure": "Dublin",
+   "destination": "Boston",
+   "ANSWER": "33,819"
+  }
+ },
+ "180c6592ad": {
+  "instruction": {
+   "date": "Feb 28 2017",
+   "place of departure": "London",
+   "destination": "Leipzig",
+   "ANSWER": "97,836"
+  }
+ },
+ "04da9f5c75": {
+  "instruction": {
+   "destination": "Hyderabad",
+   "place of departure": "Pune",
+   "date": "Feb 15 2017"
+  }
+ },
+ "7dc19a63a9": {
+  "instruction": {
+   "destination": "San Francisco",
+   "place of departure": "Seattle",
+   "date": "Mar 03 2017",
+   "ANSWER": "7,905"
+  }
+ },
+ "d156af4aed": {
+  "instruction": {
+   "date": "Feb 24 2017",
+   "place of departure": "Zagreb ",
+   "destination": "Moskow",
+   "ANSWER": "Turkish Airlines TK1054 , TK415"
+  }
+ },
+ "50c62195d2": {
+  "instruction": {
+   "date": "Mar 21 2017",
+   "place of departure": "New Orleans",
+   "destination": "Miami",
+   "ANSWER": "3,103"
+  }
+ },
+ "865f54f01e": {
+  "instruction": {
+   "date": "Mar 6 2017",
+   "place of departure": "New Delhi",
+   "destination": "New York",
+   "ANSWER": "Kuwait Airways"
+  }
+ },
+ "6d89eecefd": {
+  "instruction": {
+   "destination": "Munih",
+   "place of departure": "Skopje",
+   "date": "Feb 24 2017",
+   "ANSWER": "Adria Airways JP827 , JP102"
+  }
+ },
+ "3165c1bf6e": {
+  "instruction": {
+   "date": "Feb 24 2017",
+   "place of departure": "Zagreb",
+   "destination": "Berlin",
+   "ANSWER": "Brussels Airlines SN3356 , SN2581"
+  }
+ },
+ "bb633ffbe0": {
+  "instruction": {
+   "date": "Mar 6 2017",
+   "place of departure": "New Delhi",
+   "destination": "Paris",
+   "ANSWER": "Kuwait Airlines"
+  }
+ },
+ "3cf94fc54d": {
+  "instruction": {
+   "destination": "Tokyo",
+   "place of departure": "New Delhi",
+   "date": "Mar 6 2017",
+   "ANSWER": "Jet Airways"
+  }
+ },
+ "0c66550e8e": {
+  "instruction": {
+   "destination": "Phoenix",
+   "place of departure": "Bangor",
+   "date": "Mar 14 2017",
+   "ANSWER": "24,208"
+  }
+ },
+ "9a6eccc7af": {
+  "instruction": {
+   "date": "Feb 25 2017",
+   "place of departure": "Belgrade",
+   "destination": "Milan",
+   "ANSWER": "Turkish Airlines TK1084 , TK1895"
+  }
+ },
+ "ee63721ee2": {
+  "instruction": {
+   "date": "Feb 28 2017",
+   "place of departure": "Birmingham",
+   "destination": "Los Angeles",
+   "ANSWER": "75,276"
+  }
+ },
+ "0e5ef17fdb": {
+  "instruction": {
+   "destination": "Mumbai",
+   "place of departure": "Daipur",
+   "date": "Feb 9 2017"
+  }
+ },
+ "4997b14ab4": {
+  "instruction": {
+   "destination": "Tirana",
+   "place of departure": "Prague",
+   "date": "Feb 21 2017",
+   "ANSWER": "57893"
+  }
+ },
+ "d2c824222c": {
+  "instruction": {
+   "destination": "Frankfurt",
+   "place of departure": "Zagreb",
+   "date": "Feb 24 2017",
+   "ANSWER": "Air France AF1561 , AF1018"
+  }
+ },
+ "f616af88f9": {
+  "instruction": {
+   "date": "Feb 19 2017",
+   "place of departure": "Bangkok",
+   "destination": "Delhi",
+   "ANSWER": "Rs 22,718"
+  }
+ },
+ "45f8aeae22": {
+  "instruction": {
+   "destination": "New York, New York",
+   "place of departure": "Washington, DC",
+   "date": "2-19-2017",
+   "ANSWER": "$263.00"
+  }
+ },
+ "8fcce1ae4f": {
+  "instruction": {
+   "destination": "Maui, HI",
+   "place of departure": "Reykjavik",
+   "date": "Jul 01 2017",
+   "ANSWER": "171,969"
+  }
+ },
+ "098e96143f": {
+  "instruction": {
+   "destination": "Oslo",
+   "place of departure": "New York",
+   "date": "Jun 09 2017",
+   "ANSWER": "63,604"
+  }
+ },
+ "3baac372c8": {
+  "instruction": {
+   "date": "Feb 26 2017",
+   "place of departure": "Delhi",
+   "destination": "Chennai",
+   "ANSWER": "Spicejet"
+  }
+ },
+ "1d8f38e514": {
+  "instruction": {
+   "destination": "St.Louis",
+   "place of departure": "Athens",
+   "date": "April 21 2017",
+   "ANSWER": "78,801"
+  }
+ },
+ "7fc076ef68": {
+  "instruction": {
+   "destination": "Manchester",
+   "place of departure": "Helsinki",
+   "date": "Feb 28 2017",
+   "ANSWER": "28,223"
+  }
+ },
+ "c1d8f0e32a": {
+  "instruction": {
+   "date": "Feb 9 2017",
+   "place of departure": "Daipur",
+   "destination": "Mumbai"
+  }
+ },
+ "ba9eb04c05": {
+  "instruction": {
+   "date": "Feb 10 2017",
+   "place of departure": "Mumbai",
+   "destination": "Kolkata"
+  }
+ },
+ "033dd006ff": {
+  "instruction": {
+   "destination": "Milan",
+   "place of departure": "Tokyo",
+   "date": "March 1 2017",
+   "ANSWER": "42,843"
+  }
+ },
+ "bfc692fa2c": {
+  "instruction": {
+   "destination": "Pune",
+   "place of departure": "Delhi",
+   "date": "Feb 26 2017",
+   "ANSWER": "GoAir"
+  }
+ },
+ "f1b3b5f5d5": {
+  "instruction": {
+   "date": "Feb 28 2017",
+   "place of departure": "London",
+   "destination": "Helsinki",
+   "ANSWER": "10,594"
+  }
+ },
+ "b22ad6f520": {
+  "instruction": {
+   "date": "Apr 06 2017",
+   "place of departure": "Orlando",
+   "destination": "Tokyo ",
+   "ANSWER": "58,968"
+  }
+ },
+ "730839133d": {
+  "instruction": {
+   "destination": "Manila",
+   "place of departure": "New Delhi",
+   "date": "Mar 6 2017",
+   "ANSWER": "Air India"
+  }
+ },
+ "b52ed5cd04": {
+  "instruction": {
+   "destination": "London",
+   "place of departure": "New York ",
+   "date": "March, 30 2017",
+   "ANSWER": "22,978"
+  }
+ },
+ "74788a6abf": {
+  "instruction": {
+   "destination": "Miami",
+   "place of departure": "London",
+   "date": "Feb 28 2017",
+   "ANSWER": "73,556"
+  }
+ },
+ "9ccfcabaed": {
+  "instruction": {
+   "date": "Mar 6 2017",
+   "place of departure": "New Delhi",
+   "destination": "Los Angels",
+   "ANSWER": "Jet Airways"
+  }
+ },
+ "abe712334c": {
+  "instruction": {
+   "destination": "Macau",
+   "place of departure": "Hong Kong",
+   "date": "Mar 31 2017",
+   "ANSWER": "Rs 12,032"
+  }
+ },
+ "8ba94750b4": {
+  "instruction": {
+   "date": "2-20-2017 ",
+   "place of departure": "Milwaukee, Wisconsin",
+   "destination": "Miami, Florida",
+   "ANSWER": "$392.00"
+  }
+ },
+ "65df75a356": {
+  "instruction": {
+   "destination": "Kathmandu",
+   "place of departure": "Mumbai",
+   "date": "Mar 29 2017",
+   "ANSWER": "Rs 8,888"
+  }
+ },
+ "b7174c2a40": {
+  "instruction": {
+   "date": "Feb 23 2017",
+   "place of departure": "Sydney",
+   "destination": "Paris",
+   "ANSWER": "Rs 48,173"
+  }
+ },
+ "f137769f86": {
+  "instruction": {
+   "date": "Apr 1 2017",
+   "place of departure": "Beijing",
+   "destination": "Nagpur",
+   "ANSWER": "Rs 22,829"
+  }
+ },
+ "eea9b45315": {
+  "instruction": {
+   "destination": "Helsinki",
+   "place of departure": "London",
+   "date": "Feb 28 2017",
+   "ANSWER": "10,594"
+  }
+ },
+ "2f9d7fdb0a": {
+  "instruction": {
+   "destination": "London",
+   "place of departure": "Dublin",
+   "date": "Feb 22 2017",
+   "ANSWER": "16,479"
+  }
+ },
+ "a431d23c0d": {
+  "instruction": {
+   "destination": "Los Angeles",
+   "place of departure": "Pittsburgh",
+   "date": "Feb, 20 2017",
+   "ANSWER": " 33,487 "
+  }
+ },
+ "70d8885caa": {
+  "instruction": {
+   "date": "2-19-2017",
+   "place of departure": "Miami, Florida",
+   "destination": "Juneau, Alaska",
+   "ANSWER": "$1093.00"
+  }
+ },
+ "6ea6285c71": {
+  "instruction": {
+   "date": "2-23-2017",
+   "place of departure": "Cleveland, Ohio",
+   "destination": "Detriot, Michigan",
+   "ANSWER": "$827.00"
+  }
+ },
+ "ecff6c3586": {
+  "instruction": {
+   "place of departure": "Mumbai",
+   "date": "Feb 13 2017",
+   "destination": "Chennai"
+  }
+ },
+ "d1735bb253": {
+  "instruction": {
+   "date": "2-22-2017",
+   "place of departure": "Columbus, Ohio",
+   "destination": "Cleveland, Ohio",
+   "ANSWER": "$984.00"
+  }
+ },
+ "420ef9f8fe": {
+  "instruction": {
+   "destination": "Paris",
+   "place of departure": "Berlin",
+   "date": "Mar 29 2017",
+   "ANSWER": "6,051"
+  }
+ },
+ "364b1c2460": {
+  "instruction": {
+   "destination": "Prague",
+   "place of departure": "Rome",
+   "date": "Apr 07 2017",
+   "ANSWER": "9669"
+  }
+ },
+ "5c9fa10a0c": {
+  "instruction": {
+   "destination": "Paris",
+   "place of departure": "Prague",
+   "date": "Mar 08 2017",
+   "ANSWER": "44730"
+  }
+ },
+ "255afd0c6a": {
+  "instruction": {
+   "date": "Feb 24 2017",
+   "place of departure": "Skopje",
+   "destination": "Paris",
+   "ANSWER": "Turkish Airlines TK1004 , TK1827"
+  }
+ },
+ "3a2cd6992c": {
+  "instruction": {
+   "destination": "New York ",
+   "place of departure": "Bali",
+   "date": "Mar 1 2017",
+   "ANSWER": "Rs 90,518"
+  }
+ },
+ "3c9f5416e6": {
+  "instruction": {
+   "destination": "New York",
+   "place of departure": "New Delhi",
+   "date": "Mar 6 2017",
+   "ANSWER": "Kuwait Airways"
+  }
+ },
+ "6de09e9054": {
+  "instruction": {
+   "date": "2-23-2017",
+   "place of departure": "Buffalo, New York",
+   "destination": "Lexington, Kentucky",
+   "ANSWER": "$733.00"
+  }
+ },
+ "79f59b1805": {
+  "instruction": {
+   "date": "Feb 24 2017",
+   "place of departure": "Skopje",
+   "destination": "Belgrade",
+   "ANSWER": "Air Serbia JU163"
+  }
+ },
+ "d3b452d190": {
+  "instruction": {
+   "date": "Feb 24 2017",
+   "place of departure": "Zagreb",
+   "destination": "Frankfurt",
+   "ANSWER": "Air France AF1561 , AF1018"
+  }
+ },
+ "4c445c319f": {
+  "instruction": {
+   "date": "Mar 31 2017",
+   "place of departure": "Hong Kong",
+   "destination": "Macau",
+   "ANSWER": "Rs 12,032"
+  }
+ },
+ "6fcd05b6dc": {
+  "instruction": {
+   "destination": "London",
+   "place of departure": "Moscow",
+   "date": "Sep 16 2017",
+   "ANSWER": "8,625"
+  }
+ },
+ "76bf01996a": {
+  "instruction": {
+   "destination": "Lexington, Kentucky",
+   "place of departure": "Buffalo, New York",
+   "date": "2-23-2017",
+   "ANSWER": "$733.00"
+  }
+ },
+ "8c289c72cc": {
+  "instruction": {
+   "destination": "Seattle",
+   "place of departure": "Boston",
+   "date": "Feb 22 2017",
+   "ANSWER": "11,189"
+  }
+ },
+ "d7178eb1be": {
+  "instruction": {
+   "date": "Mar 14 2017",
+   "place of departure": "Bangor",
+   "destination": "Phoenix",
+   "ANSWER": "24,208"
+  }
+ },
+ "83a1b5f4f0": {
+  "instruction": {
+   "date": "Feb 24 2017",
+   "place of departure": "London",
+   "destination": "Dublin",
+   "ANSWER": "19,647"
+  }
+ },
+ "53a3ab0981": {
+  "instruction": {
+   "destination": "London",
+   "place of departure": "New Delhi",
+   "date": "Mar 6 2017",
+   "ANSWER": "Kuwait Airways"
+  }
+ },
+ "84ad924183": {
+  "instruction": {
+   "place of departure": "Delhi",
+   "date": "Feb 24 2017",
+   "destination": "Mumbai"
+  }
+ },
+ "206b211aea": {
+  "instruction": {
+   "date": "Feb 22 2017",
+   "place of departure": "Delhi",
+   "destination": "Chennai"
+  }
+ },
+ "cd3cbd4c55": {
+  "instruction": {
+   "date": "Mar 1 2017",
+   "place of departure": "Bali",
+   "destination": "New York ",
+   "ANSWER": "Rs 90,518"
+  }
+ },
+ "604ec45230": {
+  "instruction": {
+   "destination": "Moskow",
+   "place of departure": "Zagreb ",
+   "date": "Feb 24 2017",
+   "ANSWER": "Turkish Airlines TK1054 , TK415"
+  }
+ },
+ "a1a5775580": {
+  "instruction": {
+   "date": "Mar 08 2017",
+   "place of departure": "Green Bay",
+   "destination": "Detroit",
+   "ANSWER": "16,829"
+  }
+ },
+ "fafd7c4639": {
+  "instruction": {
+   "date": "Feb 21 2017",
+   "place of departure": "Bangkok",
+   "destination": "Tel Aviv Yafo",
+   "ANSWER": "47,215"
+  }
+ },
+ "f9567997e6": {
+  "instruction": {
+   "date": "Mar 6 2017",
+   "place of departure": "New Delhi",
+   "destination": "Moscow",
+   "ANSWER": "Air Astana"
+  }
+ },
+ "c0d37cc8cd": {
+  "instruction": {
+   "date": "Aug 21 2017 ",
+   "place of departure": "Toronto, ON ",
+   "destination": "Bogota",
+   "ANSWER": "19,199"
+  }
+ },
+ "a05ca74b93": {
+  "instruction": {
+   "destination": "Paris",
+   "place of departure": "Sydney",
+   "date": "Feb 23 2017",
+   "ANSWER": "Rs 48,173"
+  }
+ },
+ "16e4299732": {
+  "instruction": {
+   "date": "Feb 28 2017",
+   "place of departure": "Helsinki",
+   "destination": "Manchester",
+   "ANSWER": "28,223"
+  }
+ },
+ "450d023789": {
+  "instruction": {
+   "destination": "Berlin",
+   "place of departure": "Zagreb",
+   "date": "Feb 24 2017",
+   "ANSWER": "Brussels Airlines SN3356 , SN2581"
+  }
+ },
+ "9351375672": {
+  "instruction": {
+   "destination": "Moscow",
+   "place of departure": "Vilnus",
+   "date": "May 24 2017",
+   "ANSWER": "11773"
+  }
+ },
+ "1f9f038d42": {
+  "instruction": {
+   "date": "Feb 28 2017",
+   "place of departure": "London",
+   "destination": "Miami",
+   "ANSWER": "73,556"
+  }
+ },
+ "e54d7f3568": {
+  "instruction": {
+   "date": "Feb 18 2017",
+   "place of departure": "Chennai",
+   "destination": "Delhi"
+  }
+ },
+ "35e8c86257": {
+  "instruction": {
+   "date": "Jul 01 2017",
+   "place of departure": "Reykjavik",
+   "destination": "Maui, HI",
+   "ANSWER": "171,969"
+  }
+ },
+ "73feea687d": {
+  "instruction": {
+   "date": "Mar 6 2017",
+   "place of departure": "New Delhi",
+   "destination": "London",
+   "ANSWER": "Kuwait Airways"
+  }
+ },
+ "696a6b2286": {
+  "instruction": {
+   "date": "Feb 28 2017",
+   "place of departure": "Birmingham",
+   "destination": "Paris",
+   "ANSWER": "65,425"
+  }
+ },
+ "64d97dc13b": {
+  "instruction": {
+   "destination": "Kolkata",
+   "place of departure": "Mumbai",
+   "date": "Feb 10 2017"
+  }
+ },
+ "9e56bd598b": {
+  "instruction": {
+   "date": "Apr 18 2017",
+   "place of departure": "Jodhpur",
+   "destination": "Bangalore",
+   "ANSWER": "Rs 5,032"
+  }
+ },
+ "1d11890f4e": {
+  "instruction": {
+   "place of departure": "Delhi",
+   "date": "Feb 22 2017",
+   "destination": "Chennai"
+  }
+ },
+ "ad65d6c33a": {
+  "instruction": {
+   "date": "Feb 21 2017",
+   "place of departure": "Delhi",
+   "destination": "Kulu",
+   "ANSWER": "Air India"
+  }
+ }
+}

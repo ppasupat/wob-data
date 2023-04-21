@@ -1,0 +1,1672 @@
+{
+ "b194a830f5": {
+  "instruction": {
+   "start date": "02/18/2017",
+   "geographic location": "Boston, MA, United States",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "end date": "02/19/2017"
+  }
+ },
+ "12fd8bc3b5": {
+  "instruction": {
+   "start date": "03/03/2017",
+   "geographic location": "Billings, MT, United States",
+   "end date": "03/04/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "ANSWER": " Holiday Inn Express & Suites : Billings West"
+  }
+ },
+ "eab3e2bace": {
+  "instruction": {
+   "end date": "02/18/2017",
+   "geographic location": "New York City, NY, United States",
+   "start date": "02/17/2017",
+   "number of guests": "4",
+   "number of rooms": "2"
+  }
+ },
+ "77cd7c7c20": {
+  "instruction": {
+   "start date": "04/10/2017",
+   "geographic location": "Charlotte, North Carolina",
+   "end date": "04/13/2017",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express and Suites: Huntersville-Birkdale"
+  }
+ },
+ "35e18a8ef3": {
+  "instruction": {
+   "end date": "03/19/17",
+   "ANSWER": "Holiday Inn Express & Suites : Los Angeles Downtown West",
+   "geographic location": "Los Angeles, CA",
+   "start date": "03/17/17",
+   "number of rooms": "3",
+   "number of guests": "5"
+  }
+ },
+ "dbd4e662f1": {
+  "instruction": {
+   "end date": "Feb-28-2017",
+   "ANSWER": "1",
+   "geographic location": "Lowa, IA, United States",
+   "start date": "Feb-25-2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "d038a42c1e": {
+  "instruction": {
+   "end date": "02/29/2017",
+   "geographic location": "Atlanta, GA, United States",
+   "start date": "02/28/2017",
+   "number of guests": "4",
+   "number of rooms": "2"
+  }
+ },
+ "8496d92c9f": {
+  "instruction": {
+   "end date": "3/21/2017",
+   "ANSWER": "Holiday Inn Express : Las Vegas - South",
+   "geographic location": "Las Vegas, NV",
+   "start date": "3/15/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "bd632dc45b": {
+  "instruction": {
+   "start date": "02/22/2017",
+   "geographic location": "St Louis, MO, United States",
+   "end date": "02/25/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn : St. Louis - Forest Park"
+  }
+ },
+ "eac0577e24": {
+  "instruction": {
+   "start date": "03/06/2017",
+   "geographic location": "San Jose, California",
+   "end date": "03/10/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express and Suites: San Jose-Morgan Hill"
+  }
+ },
+ "5b2bee9450": {
+  "instruction": {
+   "start date": "02/25/2017",
+   "geographic location": "Canton, OH, USA",
+   "end date": "02/26/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Candlewood Suites : Carrollton"
+  }
+ },
+ "e281d7468a": {
+  "instruction": {
+   "start date": "02/20/17",
+   "geographic location": "Little Rock, AK",
+   "end date": "02/25/17",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express : Little Rock-Airport"
+  }
+ },
+ "8d79139491": {
+  "instruction": {
+   "start date": "2/20/2017",
+   "geographic location": " San Jose, California, United States",
+   "end date": "2/25/2017",
+   "number of rooms": "2",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express & Suites : San Jose-Morgan Hill"
+  }
+ },
+ "ac0587a6b0": {
+  "instruction": {
+   "end date": "02/21/2017",
+   "ANSWER": "Holiday Inn Express : New York-Brooklyn",
+   "geographic location": " New York City, NY, United States",
+   "start date": "02/19/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "5acfe5b1e0": {
+  "instruction": {
+   "end date": "03/02/2017",
+   "ANSWER": "Holiday Inn Express & Suites : Galveston West-Seawall",
+   "geographic location": "Texas City, Texas, United States",
+   "start date": "03/01/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "fcd38f23e4": {
+  "instruction": {
+   "start date": "03/03/2017",
+   "geographic location": "Chicago, IL, United States",
+   "end date": "03/07/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express : Chicago - Magnificent Mile"
+  }
+ },
+ "8d41615d62": {
+  "instruction": {
+   "start date": "Feb-21-2017",
+   "geographic location": "New Jersy, NJ, United States",
+   "end date": "Feb-25-2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "2"
+  }
+ },
+ "dd3523613f": {
+  "instruction": {
+   "end date": "Feb-28-2017",
+   "ANSWER": "0",
+   "geographic location": "Houston, TX, United States",
+   "start date": "Feb-22-2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "c0435b8b5e": {
+  "instruction": {
+   "end date": "Feb-27-2017",
+   "ANSWER": "0",
+   "geographic location": "Indiana, IN, United States",
+   "start date": "Feb-24-2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "36e05b6dfa": {
+  "instruction": {
+   "start date": "Mar-01-2017",
+   "geographic location": "Denver, CO, United States",
+   "end date": "Mar-02-2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express & Suites : Denver South - Castle Rock"
+  }
+ },
+ "81de5b5b91": {
+  "instruction": {
+   "start date": "02/25/17",
+   "geographic location": "Phenix City, AL",
+   "end date": "02/27/17",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express & Suites : Columbus-Fort Benning"
+  }
+ },
+ "90fd70a0c4": {
+  "instruction": {
+   "start date": "6/18/2017",
+   "geographic location": "New Orleans, LA",
+   "end date": "6/19/2017",
+   "number of rooms": "1",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express : New Orleans Downtown"
+  }
+ },
+ "516dcc278d": {
+  "instruction": {
+   "end date": "6/24/2017",
+   "ANSWER": "Holiday Inn : Denver East - Stapleton",
+   "geographic location": "Denver, CO",
+   "start date": "6/18/2017",
+   "number of rooms": "1",
+   "number of guests": "3"
+  }
+ },
+ "0470d76d8f": {
+  "instruction": {
+   "start date": "2/23/2017 ",
+   "geographic location": "Portland, OR, United States",
+   "end date": "3/5/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express : Portland East - Troutdale"
+  }
+ },
+ "0b4e21d43f": {
+  "instruction": {
+   "start date": "03/06/2017 ",
+   "geographic location": "Philadelphia, PA, United States",
+   "end date": "03/07/2017",
+   "number of rooms": "1",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express : Philadelphia-Midtown"
+  }
+ },
+ "6243b2000f": {
+  "instruction": {
+   "start date": "02/21/2017",
+   "end date": "02/22/2017",
+   "geographic location": "Chicago, IL, United States",
+   "number of guests": "2",
+   "number of rooms": "1"
+  }
+ },
+ "6b2a70204e": {
+  "instruction": {
+   "start date": "2/21/2017",
+   "geographic location": "Baton Rouge, LA",
+   "end date": "2/28/2017",
+   "number of rooms": "1",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn : Baton Rouge College Drive I-10"
+  }
+ },
+ "0c2fad544d": {
+  "instruction": {
+   "start date": "Feb-24-2017",
+   "geographic location": "Indiana, IN, United States",
+   "end date": "Feb-27-2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "0"
+  }
+ },
+ "7fea26749b": {
+  "instruction": {
+   "start date": "Feb-22-2017",
+   "geographic location": "Houston, TX, United States",
+   "end date": "Feb-28-2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "0"
+  }
+ },
+ "e2bca68d04": {
+  "instruction": {
+   "start date": "02/21/2017",
+   "geographic location": "Dallas, Texas",
+   "end date": "02/24/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn: Dallas Market Center"
+  }
+ },
+ "a41d6713af": {
+  "instruction": {
+   "start date": "03/03/2017",
+   "end date": "03/04/2017",
+   "geographic location": "San Diego, CA, United States",
+   "number of guests": "2",
+   "number of rooms": "1"
+  }
+ },
+ "ed291639a2": {
+  "instruction": {
+   "end date": "2/23/2017",
+   "ANSWER": "Holiday Inn Express & Suites : Baton Rouge North",
+   "geographic location": "Baker, LA",
+   "start date": "2/21/2017",
+   "number of rooms": "1",
+   "number of guests": "4"
+  }
+ },
+ "8da97bd309": {
+  "instruction": {
+   "end date": "Feb-28-2017",
+   "ANSWER": "2",
+   "geographic location": "Maryland, MD, United States",
+   "start date": "Feb-27-2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "e3b552eb7a": {
+  "instruction": {
+   "end date": "Mar-4-2017",
+   "ANSWER": "5",
+   "geographic location": "Washington,DC United States",
+   "start date": "Mar-2-2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "f446b394a1": {
+  "instruction": {
+   "end date": "2/23/2017",
+   "ANSWER": "Holiday Inn : Hazlet",
+   "geographic location": "Hazlet, NJ",
+   "start date": "2/21/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "0c6c959f83": {
+  "instruction": {
+   "end date": "Feb-25-2017",
+   "ANSWER": "3",
+   "geographic location": "Texas.TX, United States",
+   "start date": "Feb-23-2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "77ed710bd1": {
+  "instruction": {
+   "end date": "03/02/2017 ",
+   "ANSWER": "Holiday Inn Express & Suites : Hays",
+   "geographic location": "Hays, Kansas. United States",
+   "start date": "03/01/2017",
+   "number of rooms": "1",
+   "number of guests": "4"
+  }
+ },
+ "2cd617e7ed": {
+  "instruction": {
+   "end date": "3/21/2017",
+   "ANSWER": "Holiday Inn Express : Saugus (Logan Airport)",
+   "geographic location": "Boston, MA",
+   "start date": "3/15/2017",
+   "number of rooms": "1",
+   "number of guests": "3"
+  }
+ },
+ "963f0b716c": {
+  "instruction": {
+   "start date": "2/24/2017",
+   "geographic location": "New York City, NY, United States",
+   "end date": "3/2/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn : Carteret Rahway"
+  }
+ },
+ "7e18e1a103": {
+  "instruction": {
+   "start date": "02/21/17",
+   "geographic location": "Austin, TX",
+   "end date": "02/28/17",
+   "number of rooms": "3",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express & Suites : Austin Downtown - University"
+  }
+ },
+ "2677a1c37a": {
+  "instruction": {
+   "start date": "04/14/2017",
+   "geographic location": "Seattle, Washington",
+   "end date": "04/17/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express and Suites: Seattle-Sea-Tac Airport"
+  }
+ },
+ "f6949ad7d4": {
+  "instruction": {
+   "start date": "2/28/2017",
+   "geographic location": "Charleston, SC",
+   "end date": "3/7/2017",
+   "number of rooms": "1",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express & Suites : Charleston-North"
+  }
+ },
+ "0d45963ae5": {
+  "instruction": {
+   "start date": "02/25/2017",
+   "geographic location": "Mobile, AL, USA",
+   "end date": "02/26/2017",
+   "number of rooms": "3",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express : Fairhope-Point Clear"
+  }
+ },
+ "182fef3fe0": {
+  "instruction": {
+   "start date": "02/25/2017",
+   "geographic location": "Miami, FL, USA",
+   "end date": "02/26/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express & Suites : Miami-Kendall"
+  }
+ },
+ "7acf150485": {
+  "instruction": {
+   "start date": "02/25/2017",
+   "geographic location": "Wichita, KS, USA",
+   "end date": "02/26/2017",
+   "number of rooms": "2",
+   "number of guests": "2",
+   "ANSWER": "Candlewood Suites : Wichita-Airport"
+  }
+ },
+ "e8638d104d": {
+  "instruction": {
+   "start date": "03/03/2017",
+   "geographic location": "Chicago, Illinois",
+   "end date": "03/04/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express: Chicago- Magnificent Mile"
+  }
+ },
+ "fbc7d356a4": {
+  "instruction": {
+   "start date": "2/28/2017",
+   "geographic location": "Boston, MA",
+   "end date": "3/7/2017",
+   "number of rooms": "1",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express : Brockton - Boston"
+  }
+ },
+ "577cc46855": {
+  "instruction": {
+   "start date": "02/17/2017",
+   "end date": "02/18/2017",
+   "geographic location": "New York City, NY, United States",
+   "number of guests": "4",
+   "number of rooms": "2"
+  }
+ },
+ "451d82c041": {
+  "instruction": {
+   "end date": "Feb-25-2017",
+   "ANSWER": "2",
+   "geographic location": "New Jersy, NJ, United States",
+   "start date": "Feb-21-2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "300b1bd385": {
+  "instruction": {
+   "start date": "2/21/2017",
+   "geographic location": "Hartford, CT",
+   "end date": "2/28/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express & Suites : Meriden"
+  }
+ },
+ "ec4006cc1d": {
+  "instruction": {
+   "start date": "02/25/2017",
+   "geographic location": "Kansas City, KS, United States",
+   "end date": "02/27/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn : Kansas City-Ne-I-435 North"
+  }
+ },
+ "7a4fa654fb": {
+  "instruction": {
+   "end date": "02/25/2017",
+   "ANSWER": "Holiday Inn Express & Suites : North Seattle - Shoreline",
+   "geographic location": "Seattle, Washington, United States",
+   "start date": "02/22/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "5d6066c804": {
+  "instruction": {
+   "start date": "3/21/2017",
+   "geographic location": "Gatlinburg, TN",
+   "end date": "3/28/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express & Suites : Newport South"
+  }
+ },
+ "583b671a33": {
+  "instruction": {
+   "end date": "03/02/2017",
+   "geographic location": "Philadelphia, PA, United States",
+   "start date": "03/01/2017",
+   "number of guests": "3",
+   "number of rooms": "2"
+  }
+ },
+ "65301ccbe2": {
+  "instruction": {
+   "end date": "03/29/2017",
+   "ANSWER": "Holiday Inn Express & Suites : El Centro",
+   "geographic location": "Calipatria Airport, CA, United States",
+   "start date": "03/28/2017",
+   "number of rooms": "1",
+   "number of guests": "1"
+  }
+ },
+ "a53ddcb44e": {
+  "instruction": {
+   "start date": "03/11/2017",
+   "geographic location": "Phoenix, AZ, United States",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "end date": "03/12/2017"
+  }
+ },
+ "d3e37f6bdc": {
+  "instruction": {
+   "end date": "3/22/2017",
+   "ANSWER": "Holiday Inn : Houston-Intercontinental Arpt",
+   "geographic location": "Houston, TX",
+   "start date": "3/15/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "070eb76ff6": {
+  "instruction": {
+   "start date": "Feb-21-2017",
+   "geographic location": "California, CA, United States",
+   "end date": "Feb-25-2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "2"
+  }
+ },
+ "36cc1218db": {
+  "instruction": {
+   "end date": "Feb-26-2017",
+   "ANSWER": "1",
+   "geographic location": "Ohio, OH, United States",
+   "start date": "Feb-22-2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "2d1c8ffc20": {
+  "instruction": {
+   "start date": "03/24/2017",
+   "geographic location": "Cincinnatti, Ohio",
+   "end date": "03/28/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "ANSWER": "Holiday Inn Express and Suites: Cincinnati-Blue Ash"
+  }
+ },
+ "43046788cd": {
+  "instruction": {
+   "end date": "03/18/17",
+   "ANSWER": "Holiday Inn Express : San Francisco-Airport South",
+   "geographic location": "San Francisco, CA",
+   "start date": "03/16/17",
+   "number of rooms": "2",
+   "number of guests": "3"
+  }
+ },
+ "5916067c42": {
+  "instruction": {
+   "start date": "02/28/2017",
+   "geographic location": "Atlanta, GA, United States",
+   "end date": "03/02/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express : Atlanta-Stone Mountain"
+  }
+ },
+ "a328475493": {
+  "instruction": {
+   "start date": "03/06/2017",
+   "geographic location": "Houston, Texas",
+   "end date": "03/10/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express and Suites: Houston NW- Hwy 290 Cypress"
+  }
+ },
+ "34aea5bc9b": {
+  "instruction": {
+   "start date": "2/21/2017 ",
+   "geographic location": "Tallahassee, Florida, United States",
+   "end date": "2/23/2017",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express & Suites : Quincy I-10"
+  }
+ },
+ "49e87fb9e1": {
+  "instruction": {
+   "start date": "6/18/2017",
+   "geographic location": "Morristown, TN",
+   "end date": "6/20/2017",
+   "number of rooms": "1",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express & Suites : Morristown"
+  }
+ },
+ "7ba3fcbea9": {
+  "instruction": {
+   "end date": "02/22/2017",
+   "geographic location": "Chicago, IL, United States",
+   "start date": "02/21/2017",
+   "number of guests": "2",
+   "number of rooms": "1"
+  }
+ },
+ "6c8fdefc76": {
+  "instruction": {
+   "start date": "03/19/17",
+   "geographic location": "Nashville, TN",
+   "end date": "03/21/17",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express : Nashville-Downtown"
+  }
+ },
+ "b74374c7bc": {
+  "instruction": {
+   "start date": "3/15/2017",
+   "geographic location": "Houston, TX",
+   "end date": "3/22/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn : Houston-Intercontinental Arpt"
+  }
+ },
+ "5942981556": {
+  "instruction": {
+   "start date": "3/7/2017",
+   "geographic location": "Wilmington, NC ",
+   "end date": "3/14/2017",
+   "number of rooms": "2",
+   "number of guests": "1",
+   "ANSWER": "Holiday Inn Express & Suites : Wilmington-University Ctr"
+  }
+ },
+ "1e9a60eba0": {
+  "instruction": {
+   "start date": "2/25/2017 ",
+   "geographic location": "Seattle, Washington, United States",
+   "end date": "3/1/2017",
+   "number of rooms": "1",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express : Bothell"
+  }
+ },
+ "1c87e75340": {
+  "instruction": {
+   "end date": "02/20/2017",
+   "geographic location": "Austin,TX, United States",
+   "start date": "02/19/2017",
+   "number of guests": "1",
+   "number of rooms": "1"
+  }
+ },
+ "34b0ab095b": {
+  "instruction": {
+   "start date": "6/18/2017",
+   "geographic location": "Dallas, TX",
+   "end date": "6/27/2017",
+   "number of rooms": "1",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express & Suites : Dallas/Stemmons Fwy(I-35 E)"
+  }
+ },
+ "9aa653442b": {
+  "instruction": {
+   "start date": "2/21/2017",
+   "geographic location": "Las Vegas, NV, United States",
+   "end date": "2/27/2017",
+   "number of rooms": "1",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express & Suites : Seattle North - Lynnwood"
+  }
+ },
+ "dc7a30d70f": {
+  "instruction": {
+   "start date": "Feb-22-2017",
+   "geographic location": "Ohio, OH, United States",
+   "end date": "Feb-26-2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "1"
+  }
+ },
+ "2c6e6f6b7e": {
+  "instruction": {
+   "start date": "02/26/2017",
+   "geographic location": "Seattle, WA, United States",
+   "number of rooms": "2",
+   "number of guests": "2",
+   "end date": "02/27/2017"
+  }
+ },
+ "aa970db58e": {
+  "instruction": {
+   "end date": "Mar-02-2017",
+   "ANSWER": "Holiday Inn Express & Suites : Denver South - Castle Rock",
+   "geographic location": "Denver, CO, United States",
+   "start date": "Mar-01-2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "433f5e8d91": {
+  "instruction": {
+   "start date": "03/01/2017",
+   "geographic location": "Hays, Kansas. United States",
+   "end date": "03/02/2017 ",
+   "number of rooms": "1",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express & Suites : Hays"
+  }
+ },
+ "90a37fe5b8": {
+  "instruction": {
+   "start date": "03/13/17",
+   "geographic location": "Houston, TX",
+   "end date": "03/17/17",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn : Houston Downtown"
+  }
+ },
+ "0e3217347b": {
+  "instruction": {
+   "end date": "02/24/2017",
+   "ANSWER": "Holiday Inn Express & Suites : Cedar Rapids-I-380 @ 33rd Ave",
+   "geographic location": "Iowa City, IA, United States",
+   "start date": "02/22/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "53c60133fd": {
+  "instruction": {
+   "start date": "03/06/2017",
+   "end date": "03/07/2017",
+   "geographic location": "Los Angeles, CA, United States",
+   "number of guests": "2",
+   "number of rooms": "2"
+  }
+ },
+ "736a3ebf7f": {
+  "instruction": {
+   "end date": "03/04/2017",
+   "ANSWER": " Holiday Inn Express & Suites : Billings West",
+   "geographic location": "Billings, MT, United States",
+   "start date": "03/03/2017",
+   "number of rooms": "1",
+   "number of guests": "1"
+  }
+ },
+ "6dae5b1443": {
+  "instruction": {
+   "start date": "2/21/2017",
+   "geographic location": "Atlanta, GA",
+   "end date": "2/28/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express : Atlanta-Stone Mountain"
+  }
+ },
+ "22e3f0053d": {
+  "instruction": {
+   "start date": "03/01/2017",
+   "geographic location": "Texas City, Texas, United States",
+   "end date": "03/02/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express & Suites : Galveston West-Seawall"
+  }
+ },
+ "a3b8df5a12": {
+  "instruction": {
+   "end date": "02/28/17",
+   "ANSWER": "Holiday Inn Express & Suites : Austin Downtown - University",
+   "geographic location": "Austin, TX",
+   "start date": "02/21/17",
+   "number of rooms": "3",
+   "number of guests": "4"
+  }
+ },
+ "dc8c16a272": {
+  "instruction": {
+   "end date": "6/19/2017",
+   "ANSWER": "Holiday Inn Express : New Orleans Downtown",
+   "geographic location": "New Orleans, LA",
+   "start date": "6/18/2017",
+   "number of rooms": "1",
+   "number of guests": "3"
+  }
+ },
+ "cbf9c27c05": {
+  "instruction": {
+   "start date": "02/19/2017",
+   "geographic location": "Orlando, FL, United States",
+   "end date": "02/21/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express & Suites : Orlando - Apopka"
+  }
+ },
+ "71ba1fcc76": {
+  "instruction": {
+   "end date": "03/21/17",
+   "ANSWER": "Holiday Inn Express : Miami Airport Doral Area",
+   "geographic location": "Miami, FL",
+   "start date": "03/17/17",
+   "number of rooms": "4",
+   "number of guests": "5"
+  }
+ },
+ "e9dff91cdd": {
+  "instruction": {
+   "start date": "03/17/17",
+   "geographic location": "Miami, FL",
+   "end date": "03/21/17",
+   "number of rooms": "4",
+   "number of guests": "5",
+   "ANSWER": "Holiday Inn Express : Miami Airport Doral Area"
+  }
+ },
+ "b4cac09818": {
+  "instruction": {
+   "end date": "03/02/2017",
+   "ANSWER": "Holiday Inn : Diamond Bar",
+   "geographic location": "Los Angeles, CA, United States",
+   "start date": "02/28/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "696a97aa74": {
+  "instruction": {
+   "start date": "2/28 2017",
+   "geographic location": " Flagstaff, AZ, United States",
+   "end date": "3/4//2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express : Flagstaff"
+  }
+ },
+ "582ac2043e": {
+  "instruction": {
+   "start date": "02/28/2017",
+   "end date": "02/29/2017",
+   "geographic location": "Atlanta, GA, United States",
+   "number of guests": "4",
+   "number of rooms": "2"
+  }
+ },
+ "4547a6fb45": {
+  "instruction": {
+   "end date": "Feb-25-2017",
+   "ANSWER": "2",
+   "geographic location": "California, CA, United States",
+   "start date": "Feb-21-2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "00adf58501": {
+  "instruction": {
+   "end date": "03/07/2017",
+   "ANSWER": "Holiday Inn Express : Chicago - Magnificent Mile",
+   "geographic location": "Chicago, IL, United States",
+   "start date": "03/03/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "cc837182a4": {
+  "instruction": {
+   "end date": "Feb-25-2017",
+   "ANSWER": "0",
+   "geographic location": "Florida, FL. United States",
+   "start date": "Feb-23-2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "51494d0e7f": {
+  "instruction": {
+   "start date": "03/01/2017",
+   "geographic location": "Philadelphia, PA, United States",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "end date": "03/02/2017"
+  }
+ },
+ "b602d2d790": {
+  "instruction": {
+   "start date": "6/18/2017",
+   "geographic location": "Denver, CO",
+   "end date": "6/24/2017",
+   "number of rooms": "1",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn : Denver East - Stapleton"
+  }
+ },
+ "0fb708d33d": {
+  "instruction": {
+   "start date": "3/14/2017",
+   "geographic location": "Orlando, FL",
+   "end date": "3/21/2017",
+   "number of rooms": "3",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express & Suites : Orlando South-Davenport"
+  }
+ },
+ "84bc0c0cab": {
+  "instruction": {
+   "end date": "03/05/2017",
+   "ANSWER": "Candlewood Suites : Oklahoma City",
+   "geographic location": "Oklahoma City, Oklahoma, United States,",
+   "start date": "03/03/2017",
+   "number of rooms": "1",
+   "number of guests": "4"
+  }
+ },
+ "ba67920032": {
+  "instruction": {
+   "start date": "02/19/2017",
+   "end date": "02/20/2017",
+   "geographic location": "Austin,TX, United States",
+   "number of guests": "1",
+   "number of rooms": "1"
+  }
+ },
+ "5a6e191441": {
+  "instruction": {
+   "start date": "02/17/2017",
+   "geographic location": "New York City, NY, United States",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "end date": "02/18/2017"
+  }
+ },
+ "e2349b9686": {
+  "instruction": {
+   "start date": "Feb-27-2017",
+   "geographic location": "Maryland, MD, United States",
+   "end date": "Feb-28-2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "2"
+  }
+ },
+ "3821b92e51": {
+  "instruction": {
+   "start date": "Feb-25-2017",
+   "geographic location": "Lowa, IA, United States",
+   "end date": "Feb-28-2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "1"
+  }
+ },
+ "66edc41fd1": {
+  "instruction": {
+   "start date": "03/28/2017",
+   "geographic location": "Calipatria Airport, CA, United States",
+   "end date": "03/29/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "ANSWER": "Holiday Inn Express & Suites : El Centro"
+  }
+ },
+ "15aa448a93": {
+  "instruction": {
+   "end date": "6/27/2017",
+   "ANSWER": "Holiday Inn Express & Suites : Dallas/Stemmons Fwy(I-35 E)",
+   "geographic location": "Dallas, TX",
+   "start date": "6/18/2017",
+   "number of rooms": "1",
+   "number of guests": "3"
+  }
+ },
+ "116d63b281": {
+  "instruction": {
+   "start date": "3/15/2017",
+   "geographic location": "Boston, MA",
+   "end date": "3/21/2017",
+   "number of rooms": "1",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express : Saugus (Logan Airport)"
+  }
+ },
+ "89324062a3": {
+  "instruction": {
+   "end date": "02/27/17",
+   "ANSWER": "Holiday Inn Express & Suites : Columbus-Fort Benning",
+   "geographic location": "Phenix City, AL",
+   "start date": "02/25/17",
+   "number of rooms": "2",
+   "number of guests": "3"
+  }
+ },
+ "d783677fef": {
+  "instruction": {
+   "start date": "Feb-23-2017",
+   "geographic location": "Florida, FL. United States",
+   "end date": "Feb-25-2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "0"
+  }
+ },
+ "8dcf6db956": {
+  "instruction": {
+   "end date": "03/12/2017",
+   "geographic location": "Phoenix, AZ, United States",
+   "start date": "03/11/2017",
+   "number of guests": "3",
+   "number of rooms": "2"
+  }
+ },
+ "2e05c50dbd": {
+  "instruction": {
+   "start date": "03/16/17",
+   "geographic location": "San Francisco, CA",
+   "end date": "03/18/17",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express : San Francisco-Airport South"
+  }
+ },
+ "68297395de": {
+  "instruction": {
+   "start date": "03/17/17",
+   "geographic location": "Los Angeles, CA",
+   "end date": "03/19/17",
+   "number of rooms": "3",
+   "number of guests": "5",
+   "ANSWER": "Holiday Inn Express & Suites : Los Angeles Downtown West"
+  }
+ },
+ "78164f96b1": {
+  "instruction": {
+   "end date": "02/27/2017",
+   "ANSWER": "Holiday Inn : Kansas City-Ne-I-435 North",
+   "geographic location": "Kansas City, KS, United States",
+   "start date": "02/25/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "feb8906109": {
+  "instruction": {
+   "start date": "02/25/2017",
+   "geographic location": "Savannah, GA, USA",
+   "end date": "02/26/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "ANSWER": "Candlewood Suites : Bluffton-Hilton Head"
+  }
+ },
+ "016c001ed4": {
+  "instruction": {
+   "start date": "02/25/2017",
+   "geographic location": "Mesa, AZ, USA",
+   "end date": "02/26/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "ANSWER": "Crowne Plaza : Phoenix Airport - PHX"
+  }
+ },
+ "ff7231b060": {
+  "instruction": {
+   "start date": "02/25/2017",
+   "geographic location": "Panama City, FL, USA",
+   "end date": "02/26/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "ANSWER": "Holiday Inn Express & Suites : Panama City-Tyndall"
+  }
+ },
+ "9c485ea031": {
+  "instruction": {
+   "end date": "03/02/2017",
+   "ANSWER": "Holiday Inn Express : Atlanta-Stone Mountain",
+   "geographic location": "Atlanta, GA, United States",
+   "start date": "02/28/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "f3112fb105": {
+  "instruction": {
+   "end date": "03/07/2017",
+   "geographic location": "Los Angeles, CA, United States",
+   "start date": "03/06/2017",
+   "number of guests": "2",
+   "number of rooms": "2"
+  }
+ },
+ "c85e5651d7": {
+  "instruction": {
+   "start date": "02/26/2017",
+   "end date": "02/27/2017",
+   "geographic location": "Seattle, WA, United States",
+   "number of guests": "2",
+   "number of rooms": "2"
+  }
+ },
+ "ac483206dd": {
+  "instruction": {
+   "start date": "02/25/2017",
+   "geographic location": "Birmingham, AL, USA",
+   "end date": "02/26/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "ANSWER": "Candlewood Suites : Birmingham - Hoover"
+  }
+ },
+ "97989ef570": {
+  "instruction": {
+   "start date": "2/21/2017",
+   "geographic location": "Baker, LA",
+   "end date": "2/23/2017",
+   "number of rooms": "1",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express & Suites : Baton Rouge North"
+  }
+ },
+ "54434c1362": {
+  "instruction": {
+   "end date": "02/27/2017",
+   "geographic location": "Seattle, WA, United States",
+   "start date": "02/26/2017",
+   "number of guests": "2",
+   "number of rooms": "2"
+  }
+ },
+ "7bb2bf3dc6": {
+  "instruction": {
+   "start date": "02/19/2017",
+   "geographic location": " New York City, NY, United States",
+   "end date": "02/21/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express : New York-Brooklyn"
+  }
+ },
+ "2c8cd8342f": {
+  "instruction": {
+   "start date": "02/22/2017",
+   "geographic location": "Iowa City, IA, United States",
+   "end date": "02/24/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express & Suites : Cedar Rapids-I-380 @ 33rd Ave"
+  }
+ },
+ "5c199a1578": {
+  "instruction": {
+   "end date": "03/21/17",
+   "ANSWER": "Holiday Inn Express : Nashville-Downtown",
+   "geographic location": "Nashville, TN",
+   "start date": "03/19/17",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "1f05f38088": {
+  "instruction": {
+   "end date": "6/20/2017",
+   "ANSWER": "Holiday Inn Express & Suites : Morristown",
+   "geographic location": "Morristown, TN",
+   "start date": "6/18/2017",
+   "number of rooms": "1",
+   "number of guests": "4"
+  }
+ },
+ "6b5e857b02": {
+  "instruction": {
+   "end date": "03/07/2017",
+   "ANSWER": "Holiday Inn Express : Philadelphia-Midtown",
+   "geographic location": "Philadelphia, PA, United States",
+   "start date": "03/06/2017 ",
+   "number of rooms": "1",
+   "number of guests": "3"
+  }
+ },
+ "8709a1f123": {
+  "instruction": {
+   "start date": "03/06/2017",
+   "geographic location": "Los Angeles, CA, United States",
+   "number of rooms": "2",
+   "number of guests": "2",
+   "end date": "03/07/2017"
+  }
+ },
+ "f3abec51d8": {
+  "instruction": {
+   "start date": "03/29/2017",
+   "geographic location": "Fort Worth, Texas",
+   "end date": "04/01/2017",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express and Suites: Alvarado"
+  }
+ },
+ "7feebe084a": {
+  "instruction": {
+   "end date": "03/27/17",
+   "ANSWER": "Holiday Inn Express : Colorado Springs Airport",
+   "geographic location": "Colorado Springs, CO",
+   "start date": "03/21/17",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "be38eb580f": {
+  "instruction": {
+   "start date": "Mar-2-2017",
+   "geographic location": "Washington,DC United States",
+   "end date": "Mar-4-2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "5"
+  }
+ },
+ "46dcf7f6c7": {
+  "instruction": {
+   "end date": "03/17/17",
+   "ANSWER": "Holiday Inn : Houston Downtown",
+   "geographic location": "Houston, TX",
+   "start date": "03/13/17",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "a0c86d263c": {
+  "instruction": {
+   "start date": "03/03/2017",
+   "geographic location": "Oklahoma City, Oklahoma, United States,",
+   "end date": "03/05/2017",
+   "number of rooms": "1",
+   "number of guests": "4",
+   "ANSWER": "Candlewood Suites : Oklahoma City"
+  }
+ },
+ "0295cb0f74": {
+  "instruction": {
+   "start date": "2/22/2017",
+   "geographic location": "Denver, CO, United States",
+   "end date": "2/28/2017",
+   "number of rooms": "1",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express & Suites : Denver Tech Center-Englewood"
+  }
+ },
+ "f99dbd5258": {
+  "instruction": {
+   "start date": "02/25/2017",
+   "geographic location": "Louisville, KY, USA",
+   "end date": "02/26/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn : Louisville East - Hurstbourne"
+  }
+ },
+ "aa1323bf2c": {
+  "instruction": {
+   "end date": "03/01/2017",
+   "ANSWER": "Crowne Plaza : Columbus - Dublin Ohio",
+   "geographic location": "Ohio State University, Ohio, United States",
+   "start date": "03/01/2017 ",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "d0145c53ae": {
+  "instruction": {
+   "start date": "02/28/2017",
+   "geographic location": "Los Angeles, CA, United States",
+   "end date": "03/02/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn : Diamond Bar"
+  }
+ },
+ "c68f46f83f": {
+  "instruction": {
+   "start date": "02/28/2017",
+   "geographic location": "Atlanta, GA, United States",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "end date": "02/29/2017"
+  }
+ },
+ "67ad5a2e28": {
+  "instruction": {
+   "start date": "3/15/2017",
+   "geographic location": "Las Vegas, NV",
+   "end date": "3/21/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Express : Las Vegas - South"
+  }
+ },
+ "9f0f4eff68": {
+  "instruction": {
+   "start date": "3/14/2017",
+   "geographic location": "Houston, TX",
+   "end date": "3/21/2017",
+   "number of rooms": "3",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express & Suites : Houston NW - Hwy 290 Cypress"
+  }
+ },
+ "6307c052b0": {
+  "instruction": {
+   "start date": "03/21/17",
+   "geographic location": "Colorado Springs, CO",
+   "end date": "03/27/17",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express : Colorado Springs Airport"
+  }
+ },
+ "25ace7a994": {
+  "instruction": {
+   "end date": "03/29/2017",
+   "ANSWER": "Holiday Inn : Tijuana Zona Rio",
+   "geographic location": "San Diego, CA, United States",
+   "start date": "03/28/2017",
+   "number of rooms": "1",
+   "number of guests": "1"
+  }
+ },
+ "4ccaddbbcb": {
+  "instruction": {
+   "start date": "02/22/2017",
+   "geographic location": "Columbus, GA, United States",
+   "end date": "02/24/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express & Suites : Columbus-Fort Benning"
+  }
+ },
+ "daecaac0f2": {
+  "instruction": {
+   "start date": "02/22/2017",
+   "geographic location": "Seattle, Washington, United States",
+   "end date": "02/25/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express & Suites : North Seattle - Shoreline"
+  }
+ },
+ "ca513cb165": {
+  "instruction": {
+   "end date": "02/19/2017",
+   "geographic location": "Boston, MA, United States",
+   "start date": "02/18/2017",
+   "number of guests": "2",
+   "number of rooms": "1"
+  }
+ },
+ "f7cdc57b3c": {
+  "instruction": {
+   "end date": "02/24/2017",
+   "ANSWER": "Holiday Inn Express & Suites : Columbus-Fort Benning",
+   "geographic location": "Columbus, GA, United States",
+   "start date": "02/22/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "2594a61377": {
+  "instruction": {
+   "start date": "02/18/2017",
+   "end date": "02/19/2017",
+   "geographic location": "Boston, MA, United States",
+   "number of guests": "2",
+   "number of rooms": "1"
+  }
+ },
+ "66a732b065": {
+  "instruction": {
+   "end date": "02/25/17",
+   "ANSWER": "Holiday Inn Express : Little Rock-Airport",
+   "geographic location": "Little Rock, AK",
+   "start date": "02/20/17",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "93c55ddf3c": {
+  "instruction": {
+   "end date": "02/25/2017",
+   "ANSWER": "Candlewood Suites : Las Vegas",
+   "geographic location": "Las Vegas, NV, United States",
+   "start date": "02/22/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "bf1fbfac11": {
+  "instruction": {
+   "start date": "03/11/2017",
+   "end date": "03/12/2017",
+   "geographic location": "Phoenix, AZ, United States",
+   "number of guests": "3",
+   "number of rooms": "2"
+  }
+ },
+ "fb3db98e30": {
+  "instruction": {
+   "start date": "03/28/2017",
+   "geographic location": "San Diego, CA, United States",
+   "end date": "03/29/2017",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "ANSWER": "Holiday Inn : Tijuana Zona Rio"
+  }
+ },
+ "9693074c54": {
+  "instruction": {
+   "start date": "02/22/2017",
+   "geographic location": "Las Vegas, NV, United States",
+   "end date": "02/25/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Candlewood Suites : Las Vegas"
+  }
+ },
+ "5d4e85d10a": {
+  "instruction": {
+   "start date": "2/20/2017",
+   "geographic location": "Texas City, Texas, United States",
+   "end date": "2/25/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn Club Vacations : Galveston Seaside Resort"
+  }
+ },
+ "9a5850d7bf": {
+  "instruction": {
+   "start date": "3/7/2017",
+   "geographic location": "San Francisco, CA",
+   "end date": "3/14/2017",
+   "number of rooms": "2",
+   "number of guests": "1",
+   "ANSWER": "Holiday Inn Express & Suites : Oakland-Airport"
+  }
+ },
+ "c4ab18719c": {
+  "instruction": {
+   "start date": "03/03/2017",
+   "geographic location": "San Diego, CA, United States",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "end date": "03/04/2017"
+  }
+ },
+ "9d1d3a6acc": {
+  "instruction": {
+   "start date": "03/1/17",
+   "geographic location": "Harrisburg, PA",
+   "end date": "03/7/17",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express : Harrisburg East - Hershey Area"
+  }
+ },
+ "e65be60cf3": {
+  "instruction": {
+   "start date": "03/01/2017",
+   "end date": "03/02/2017",
+   "geographic location": "Philadelphia, PA, United States",
+   "number of guests": "3",
+   "number of rooms": "2"
+  }
+ },
+ "66e4cc9c43": {
+  "instruction": {
+   "start date": "03/01/2017 ",
+   "geographic location": "Ohio State University, Ohio, United States",
+   "end date": "03/01/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Crowne Plaza : Columbus - Dublin Ohio"
+  }
+ },
+ "3c46775126": {
+  "instruction": {
+   "start date": "02/19/2017",
+   "geographic location": "Austin,TX, United States",
+   "number of rooms": "1",
+   "number of guests": "1",
+   "end date": "02/20/2017"
+  }
+ },
+ "81c3f36a5a": {
+  "instruction": {
+   "start date": "03/18/2017",
+   "geographic location": "Columbus, Ohio",
+   "end date": "03/22/2017",
+   "number of rooms": "2",
+   "number of guests": "4",
+   "ANSWER": "Holiday Inn Express: Columbus- Dublin"
+  }
+ },
+ "352cb1a476": {
+  "instruction": {
+   "start date": "2/25/2017",
+   "geographic location": "Springfield, MO, United States",
+   "end date": "3/3/2017",
+   "number of rooms": "2",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express & Suites : Springfield"
+  }
+ },
+ "f31296aa2c": {
+  "instruction": {
+   "end date": "03/7/17",
+   "ANSWER": "Holiday Inn Express : Harrisburg East - Hershey Area",
+   "geographic location": "Harrisburg, PA",
+   "start date": "03/1/17",
+   "number of rooms": "2",
+   "number of guests": "3"
+  }
+ },
+ "6855c5b26e": {
+  "instruction": {
+   "start date": "2/21/2017",
+   "geographic location": "Hazlet, NJ",
+   "end date": "2/23/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Holiday Inn : Hazlet"
+  }
+ },
+ "293e24ac17": {
+  "instruction": {
+   "start date": "Feb-23-2017",
+   "geographic location": "Texas.TX, United States",
+   "end date": "Feb-25-2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "3"
+  }
+ },
+ "dea6b5ab8e": {
+  "instruction": {
+   "start date": "3/21/2017",
+   "geographic location": "Louisville, KY",
+   "end date": "3/28/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Staybridge Suites : Louisville-East"
+  }
+ },
+ "9cc5eaa15f": {
+  "instruction": {
+   "end date": "03/04/2017",
+   "geographic location": "San Diego, CA, United States",
+   "start date": "03/03/2017",
+   "number of guests": "2",
+   "number of rooms": "1"
+  }
+ },
+ "46a7e16d4a": {
+  "instruction": {
+   "start date": "02/21/2017",
+   "geographic location": "Chicago, IL, United States",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "end date": "02/22/2017"
+  }
+ },
+ "fb278a5c86": {
+  "instruction": {
+   "end date": "02/21/2017",
+   "ANSWER": "Holiday Inn Express & Suites : Orlando - Apopka",
+   "geographic location": "Orlando, FL, United States",
+   "start date": "02/19/2017",
+   "number of rooms": "1",
+   "number of guests": "2"
+  }
+ },
+ "7491760a13": {
+  "instruction": {
+   "end date": "2/28/2017",
+   "ANSWER": "Holiday Inn : Baton Rouge College Drive I-10",
+   "geographic location": "Baton Rouge, LA",
+   "start date": "2/21/2017",
+   "number of rooms": "1",
+   "number of guests": "4"
+  }
+ },
+ "b7cd04fb15": {
+  "instruction": {
+   "end date": "02/25/2017",
+   "ANSWER": "Holiday Inn : St. Louis - Forest Park",
+   "geographic location": "St Louis, MO, United States",
+   "start date": "02/22/2017",
+   "number of rooms": "2",
+   "number of guests": "4"
+  }
+ },
+ "25fadbbb56": {
+  "instruction": {
+   "start date": "02/25/2017",
+   "geographic location": "Knoxville, TN, USA",
+   "end date": "02/26/2017",
+   "number of rooms": "1",
+   "number of guests": "2",
+   "ANSWER": "Candlewood Suites : Knoxville Airport-Alcoa"
+  }
+ },
+ "d6ef55b38d": {
+  "instruction": {
+   "start date": "03/18/2017",
+   "geographic location": "Indianapolis, Indiana",
+   "end date": "03/22/2017",
+   "number of rooms": "1",
+   "number of guests": "3",
+   "ANSWER": "Holiday Inn Express: Lebanon"
+  }
+ }
+}

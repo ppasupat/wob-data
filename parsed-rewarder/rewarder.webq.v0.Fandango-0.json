@@ -1,0 +1,1242 @@
+{
+ "2bb0775f42": {
+  "instruction": {
+   "name of movie": "The Lego Batman movie",
+   "location": "New York city"
+  }
+ },
+ "1bc5e5ce4e": {
+  "instruction": {
+   "ANSWER": "Regency Fontana 8 16741 Valley Blvd.  Fontana, CA 92335",
+   "location": "Fontana, CA ",
+   "name of movie": "Fifty shades darker "
+  }
+ },
+ "034a404294": {
+  "instruction": {
+   "name of movie": "Fist Fight",
+   "location": "Adelphi, NY",
+   "ANSWER": "$15.70"
+  }
+ },
+ "82889ba1d0": {
+  "instruction": {
+   "location": "40601",
+   "name of movie": "Lion"
+  }
+ },
+ "55f3626613": {
+  "instruction": {
+   "name of movie": "A Dog's purpose",
+   "location": "Denve,rCo",
+   "ANSWER": "$9.04"
+  }
+ },
+ "7156cc3876": {
+  "instruction": {
+   "location": "Seattle",
+   "name of movie": "John Wick 2"
+  }
+ },
+ "7104552eed": {
+  "instruction": {
+   "ANSWER": "$11.03",
+   "location": "Boulder, CO",
+   "name of movie": "Fist Fight"
+  }
+ },
+ "8deb40cfcb": {
+  "instruction": {
+   "ANSWER": "Cinemark Jess Ranch 18935 Bear Valley Road  Apple Valley, CA 92308",
+   "location": "Applevalley,CA ",
+   "name of movie": "La la land"
+  }
+ },
+ "affe697b62": {
+  "instruction": {
+   "location": "Washington, DC",
+   "name of movie": "Rings"
+  }
+ },
+ "f0e94edac1": {
+  "instruction": {
+   "ANSWER": "Regency Fontana 8 16741 Valley Blvd.  Fontana, CA 92335",
+   "location": "Colton,CA ",
+   "name of movie": "Everybody loves somebody "
+  }
+ },
+ "3f2c602f4c": {
+  "instruction": {
+   "name of movie": "The Great Wall",
+   "location": "Honolulu, HI",
+   "ANSWER": "NO RESULTS FOR \"WHAT IS THE CHEAPEST TICKET PRICE TO SEE THE GREAT WALL NEAR HONOLULU, HI?\""
+  }
+ },
+ "ec3fd59df3": {
+  "instruction": {
+   "name of movie": "A cure for wellness",
+   "location": "Rialto, CA ",
+   "ANSWER": "Regency Fontana 8 16741 Valley Blvd.  Fontana, CA 92335"
+  }
+ },
+ "c88c1a1997": {
+  "instruction": {
+   "name of movie": "A Cure for Wellness",
+   "location": "Hot Springs, AK",
+   "ANSWER": "NO RESULTS FOR \"WHAT IS THE CHEAPEST TICKET PRICE TO SEE A CURE FOR WELLNESS NEAR HOT SPRINGS, AK?\""
+  }
+ },
+ "9afa67b0c8": {
+  "instruction": {
+   "ANSWER": "6.50",
+   "location": "45419",
+   "name of movie": "The Great Wall"
+  }
+ },
+ "b46ed8f60a": {
+  "instruction": {
+   "name of movie": "A Cure for Wellness",
+   "location": "33101",
+   "ANSWER": "$5.75"
+  }
+ },
+ "ca79d12cd8": {
+  "instruction": {
+   "ANSWER": "9.99",
+   "location": "Indianapolis, IN",
+   "name of movie": "THE LEGO BATMAN MOVIE 3D"
+  }
+ },
+ "10dcf537c1": {
+  "instruction": {
+   "name of movie": "A Dog's Purpose",
+   "location": "San Diego",
+   "ANSWER": "$6.25"
+  }
+ },
+ "03adc51b76": {
+  "instruction": {
+   "ANSWER": "$6.50",
+   "location": "Peoria, IL",
+   "name of movie": "La La Land"
+  }
+ },
+ "9b67aa39db": {
+  "instruction": {
+   "ANSWER": "$8.87",
+   "location": "30507",
+   "name of movie": "The Space between US"
+  }
+ },
+ "293df41680": {
+  "instruction": {
+   "name of movie": "A Cure for Wellness",
+   "location": "Denver, CO",
+   "ANSWER": "$12.04"
+  }
+ },
+ "1cfc9ffdbd": {
+  "instruction": {
+   "name of movie": "Everybody Lloves somebody",
+   "location": "Boston, MA",
+   "ANSWER": "$6.99"
+  }
+ },
+ "6b11a23360": {
+  "instruction": {
+   "name of movie": "Hidden Figures",
+   "location": "45419",
+   "ANSWER": "6.15"
+  }
+ },
+ "ef68033ed5": {
+  "instruction": {
+   "name of movie": "THE LEGO BATMAN MOVIE 3D",
+   "location": "Indianapolis, IN",
+   "ANSWER": "9.99"
+  }
+ },
+ "cb8e64ca27": {
+  "instruction": {
+   "name of movie": "A Cure For Wellness",
+   "location": "Brooklyn, New York",
+   "ANSWER": "$15.70"
+  }
+ },
+ "768a1b0932": {
+  "instruction": {
+   "ANSWER": "6.15",
+   "location": "45419",
+   "name of movie": "Lion"
+  }
+ },
+ "1487b1c943": {
+  "instruction": {
+   "ANSWER": "$5.75",
+   "location": "33101",
+   "name of movie": "A Cure for Wellness"
+  }
+ },
+ "10d7e61f8b": {
+  "instruction": {
+   "name of movie": "La La Land",
+   "location": "Indianapolis, IN",
+   "ANSWER": "7.99"
+  }
+ },
+ "92979eff35": {
+  "instruction": {
+   "name of movie": "Fist Fight",
+   "location": "98101",
+   "ANSWER": "$6.81"
+  }
+ },
+ "73f080091c": {
+  "instruction": {
+   "ANSWER": "6.15",
+   "location": "45419",
+   "name of movie": "Lego Batman Movie"
+  }
+ },
+ "798eb72049": {
+  "instruction": {
+   "name of movie": "The Space Between Us",
+   "location": "Grand Canyon Village, AZ",
+   "ANSWER": "NO RESULTS FOR \"WHAT IS THE CHEAPEST TICKET PRICE TO SEE THE SPACE BETWEEN US NEAR GRAND CANYON VILLAGE, AZ?\""
+  }
+ },
+ "bc894edb3f": {
+  "instruction": {
+   "name of movie": "John Wick: Chapter 2",
+   "location": "Colorado Springs, CO",
+   "ANSWER": "$10.46"
+  }
+ },
+ "f43d87b0f6": {
+  "instruction": {
+   "name of movie": "RINGS",
+   "location": "CINEMARK STONERIDGE PLAZA",
+   "ANSWER": "43230"
+  }
+ },
+ "2513c252e0": {
+  "instruction": {
+   "ANSWER": "$12.04",
+   "location": "Denver, CO",
+   "name of movie": "The Lego Batman Movie"
+  }
+ },
+ "fd8509ed9c": {
+  "instruction": {
+   "name of movie": "The Great Wall",
+   "location": "45419",
+   "ANSWER": "6.50"
+  }
+ },
+ "c1ac3f4a54": {
+  "instruction": {
+   "location": "New York city",
+   "name of movie": "The Lego Batman movie"
+  }
+ },
+ "d54debe1bd": {
+  "instruction": {
+   "name of movie": "The Lego Batman Movie",
+   "location": "Denver, CO",
+   "ANSWER": "$12.04"
+  }
+ },
+ "a509e9c51f": {
+  "instruction": {
+   "name of movie": "La La Land",
+   "location": "Dallas"
+  }
+ },
+ "b447e3a65d": {
+  "instruction": {
+   "ANSWER": "$8.51",
+   "location": "Orlando, Fl",
+   "name of movie": "Passengers"
+  }
+ },
+ "5741637660": {
+  "instruction": {
+   "name of movie": "Lion",
+   "location": "Gainesville, FL",
+   "ANSWER": "NO RESULTS FOR \"WHAT IS THE CHEAPEST TICKET PRICE TO SEE LION NEAR GAINESVILLE, FL?\""
+  }
+ },
+ "3d9d719d4c": {
+  "instruction": {
+   "ANSWER": "7.50",
+   "location": "Indianapolis, IN",
+   "name of movie": "John Wick: Chapter 2"
+  }
+ },
+ "64c1c0a096": {
+  "instruction": {
+   "name of movie": "La la Land",
+   "location": "45419",
+   "ANSWER": "6.15"
+  }
+ },
+ "dc0fc04f8c": {
+  "instruction": {
+   "ANSWER": "Cinemark Jess Ranch 18935 Bear Valley Road  Apple Valley, CA 92308",
+   "location": "Victorville, CA ",
+   "name of movie": "A dog's purpose "
+  }
+ },
+ "dc78d48a7d": {
+  "instruction": {
+   "name of movie": "Split",
+   "location": "22408",
+   "ANSWER": "$5.50"
+  }
+ },
+ "31e71c029b": {
+  "instruction": {
+   "name of movie": "Fist Fight ",
+   "location": "45419",
+   "ANSWER": "6.15"
+  }
+ },
+ "d5dfde93aa": {
+  "instruction": {
+   "name of movie": "La La Land",
+   "location": "Colorado Springs, CO",
+   "ANSWER": "$7.50"
+  }
+ },
+ "39cdec1230": {
+  "instruction": {
+   "name of movie": "Hidden Figures",
+   "location": "22408",
+   "ANSWER": "$08.50"
+  }
+ },
+ "c1a7f42537": {
+  "instruction": {
+   "name of movie": "FIST FIGHT",
+   "location": "CINEMARK POLARIS 18 & XD",
+   "ANSWER": "43240"
+  }
+ },
+ "8f390f8377": {
+  "instruction": {
+   "name of movie": "Moana",
+   "location": "Fort Collins, CO",
+   "ANSWER": "$1.99"
+  }
+ },
+ "7961b64b5c": {
+  "instruction": {
+   "ANSWER": "Regal L.A. Live A Barco Innovation Center 1000 W. Olympic Blvd. Los Angeles, CA 90015",
+   "location": "Los Angeles, CA ",
+   "name of movie": "John Wick chapter 2"
+  }
+ },
+ "b36f86d613": {
+  "instruction": {
+   "name of movie": "Rings",
+   "location": "Bloomington, CA ",
+   "ANSWER": "Regency Fontana 8 16741 Valley Blvd.  Fontana, CA 92335"
+  }
+ },
+ "ee85abe465": {
+  "instruction": {
+   "ANSWER": "8.55",
+   "location": "Cleveland, OH",
+   "name of movie": "Fifty Shades Darker"
+  }
+ },
+ "9a1a80d2af": {
+  "instruction": {
+   "ANSWER": "43230",
+   "location": "CINEMARK STONERIDGE PLAZA",
+   "name of movie": "RING"
+  }
+ },
+ "d223fad7d4": {
+  "instruction": {
+   "name of movie": "JOHN WICK CHAPTER 2",
+   "location": "EASTON TOWN CENTER ",
+   "ANSWER": "43219"
+  }
+ },
+ "e8113b60d1": {
+  "instruction": {
+   "name of movie": "A dog's purpose ",
+   "location": "Victorville, CA ",
+   "ANSWER": "Cinemark Jess Ranch 18935 Bear Valley Road  Apple Valley, CA 92308"
+  }
+ },
+ "77cb14c8da": {
+  "instruction": {
+   "name of movie": "The Lego Batman movie",
+   "location": "New York City",
+   "ANSWER": "$09.39"
+  }
+ },
+ "490901a204": {
+  "instruction": {
+   "name of movie": "Gold",
+   "location": "Fort Collins, CO",
+   "ANSWER": "$1.99"
+  }
+ },
+ "3c81a6ef3e": {
+  "instruction": {
+   "name of movie": "Rings",
+   "location": "Washington, DC"
+  }
+ },
+ "7adb2ccbd5": {
+  "instruction": {
+   "name of movie": "A Dog's Purpose",
+   "location": "Boulder, CO",
+   "ANSWER": "$11.03"
+  }
+ },
+ "59c9e0b31c": {
+  "instruction": {
+   "name of movie": "The Founder",
+   "location": "Peoria, IN",
+   "ANSWER": "NO RESULTS FOR \"WHAT IS THE CHEAPEST TICKET PRICE TO SEE THE FOUNDER NEAR PEORIA, IN?\""
+  }
+ },
+ "03674b3df5": {
+  "instruction": {
+   "name of movie": "SPLIT (2017)",
+   "location": "Indianapolis, IN",
+   "ANSWER": "7.99"
+  }
+ },
+ "fd33cf673e": {
+  "instruction": {
+   "name of movie": "Beauty and the Beast",
+   "location": "San Fran"
+  }
+ },
+ "c9e2f36f06": {
+  "instruction": {
+   "name of movie": "The Great Wall",
+   "location": "Ontario, CA ",
+   "ANSWER": "Edwards Ontario Mountain Village Stadium 14 1575 N. Mountain Ave.  Ontario, CA 91762"
+  }
+ },
+ "12f3e4e2e1": {
+  "instruction": {
+   "name of movie": "The Great Wall",
+   "location": "Colorado Springs, CO",
+   "ANSWER": "$10.46"
+  }
+ },
+ "e65502eb9f": {
+  "instruction": {
+   "name of movie": "SPLIT (2017)",
+   "location": "Cleveland, OH",
+   "ANSWER": "7.50"
+  }
+ },
+ "cdf05abd4f": {
+  "instruction": {
+   "ANSWER": "6.15",
+   "location": "45419",
+   "name of movie": "Fist Fight "
+  }
+ },
+ "cc09b09b4e": {
+  "instruction": {
+   "name of movie": "THE GREAT WALL",
+   "location": "CINEMARK POLARIS 18 & XD",
+   "ANSWER": "43240"
+  }
+ },
+ "d416a60e55": {
+  "instruction": {
+   "name of movie": "THE LEGO BATMAN MOVIE 3D",
+   "location": "Cleveland, OH",
+   "ANSWER": "9.55"
+  }
+ },
+ "38a2d3f385": {
+  "instruction": {
+   "name of movie": "A Dog's Purpose",
+   "location": "Buffalo, NY"
+  }
+ },
+ "fe145b807e": {
+  "instruction": {
+   "ANSWER": "43240",
+   "location": "CINEMARK POLARIS 18 & XD",
+   "name of movie": "FIST FIGHT"
+  }
+ },
+ "5ffdb4e931": {
+  "instruction": {
+   "location": "San Fran",
+   "name of movie": "Beauty and the Beast"
+  }
+ },
+ "f2ecece598": {
+  "instruction": {
+   "name of movie": "THE LEGO BATMAN MOVIE",
+   "location": "61550",
+   "ANSWER": "$6.25"
+  }
+ },
+ "2b9e6eebe8": {
+  "instruction": {
+   "name of movie": "Resident Evil: Final Chapter",
+   "location": "22507"
+  }
+ },
+ "e0f742eac5": {
+  "instruction": {
+   "name of movie": "Lion",
+   "location": "45419",
+   "ANSWER": "6.15"
+  }
+ },
+ "d6ccb95171": {
+  "instruction": {
+   "name of movie": "A DOGS PURPOSE",
+   "location": "CINEMARK POLARIS 18 & XD",
+   "ANSWER": "43240"
+  }
+ },
+ "08ad6cd60f": {
+  "instruction": {
+   "ANSWER": "6.15",
+   "location": "45419",
+   "name of movie": "Hidden Figures"
+  }
+ },
+ "be438ee52b": {
+  "instruction": {
+   "ANSWER": "$6.81",
+   "location": "98101",
+   "name of movie": "Fist Fight"
+  }
+ },
+ "22008df724": {
+  "instruction": {
+   "name of movie": "RING",
+   "location": "CINEMARK STONERIDGE PLAZA",
+   "ANSWER": "43230"
+  }
+ },
+ "2fcec2742e": {
+  "instruction": {
+   "ANSWER": "43240",
+   "location": "CINEMARK POLARIS 18 & XD",
+   "name of movie": "THE GREAT WALL"
+  }
+ },
+ "d945678fb4": {
+  "instruction": {
+   "name of movie": "Split",
+   "location": "Beaufort, SC",
+   "ANSWER": "NO RESULTS FOR \"WHAT IS THE CHEAPEST TICKET PRICE TO SEE SPLIT NEAR BEAUFORT, SC?\""
+  }
+ },
+ "0c847c8fc3": {
+  "instruction": {
+   "ANSWER": "$10.46",
+   "location": "Colorado Springs, CO",
+   "name of movie": "John Wick: Chapter 2"
+  }
+ },
+ "f6f1762695": {
+  "instruction": {
+   "name of movie": "John Wick : Chapter 2",
+   "location": "Kissimmee, FL",
+   "ANSWER": "$8.91"
+  }
+ },
+ "4c287f8d70": {
+  "instruction": {
+   "name of movie": "Fist Fight",
+   "location": "Boulder, CO",
+   "ANSWER": "$11.03"
+  }
+ },
+ "d56bd54867": {
+  "instruction": {
+   "ANSWER": "$12.04",
+   "location": "Denver, CO",
+   "name of movie": "A Cure for Wellness"
+  }
+ },
+ "1d7bb7c100": {
+  "instruction": {
+   "name of movie": "SPLIT (2017)",
+   "location": "Las Angeles, CA",
+   "ANSWER": "$13.00"
+  }
+ },
+ "0bcc47fac3": {
+  "instruction": {
+   "ANSWER": "43240",
+   "location": "CINEMARK POLARIS 18 & XD",
+   "name of movie": "50 SHADES DARKER"
+  }
+ },
+ "72bf67b299": {
+  "instruction": {
+   "name of movie": "The Lego Batman Movie",
+   "location": "34758",
+   "ANSWER": "$8.25"
+  }
+ },
+ "2a27fb8a97": {
+  "instruction": {
+   "ANSWER": "6.15",
+   "location": "45419",
+   "name of movie": "Fifty Shades Darker"
+  }
+ },
+ "43bb04c015": {
+  "instruction": {
+   "name of movie": "John Wick chapter 2",
+   "location": "Los Angeles, CA ",
+   "ANSWER": "Regal L.A. Live A Barco Innovation Center 1000 W. Olympic Blvd. Los Angeles, CA 90015"
+  }
+ },
+ "7ee20efa10": {
+  "instruction": {
+   "ANSWER": "$9.60",
+   "location": "Fort Collins, CO",
+   "name of movie": "Split"
+  }
+ },
+ "1ae42eb1ec": {
+  "instruction": {
+   "name of movie": "Rings",
+   "location": "45419",
+   "ANSWER": "6.15"
+  }
+ },
+ "8eccc4bfc5": {
+  "instruction": {
+   "ANSWER": "7.90",
+   "location": "45419",
+   "name of movie": "Split"
+  }
+ },
+ "ab508063b6": {
+  "instruction": {
+   "ANSWER": "$7.50",
+   "location": "Colorado Springs, CO",
+   "name of movie": "La La Land"
+  }
+ },
+ "5f9b223a03": {
+  "instruction": {
+   "name of movie": "Fifty Shades Darker",
+   "location": "45419",
+   "ANSWER": "6.15"
+  }
+ },
+ "9d90f34c60": {
+  "instruction": {
+   "name of movie": "Rings",
+   "location": "Douglaston, NY",
+   "ANSWER": "$14.49"
+  }
+ },
+ "f0bfcafa95": {
+  "instruction": {
+   "ANSWER": "43229",
+   "location": "SCREEN AT THE CONTINENT ",
+   "name of movie": "THE LEGO BATMAN MOVIE"
+  }
+ },
+ "0d56d5925b": {
+  "instruction": {
+   "name of movie": "John Wick 2",
+   "location": "Seattle"
+  }
+ },
+ "a0dc893992": {
+  "instruction": {
+   "ANSWER": "7.99",
+   "location": "Indianapolis, IN",
+   "name of movie": "La La Land"
+  }
+ },
+ "7f637f7053": {
+  "instruction": {
+   "ANSWER": "$9.04",
+   "location": "80202",
+   "name of movie": "A cure for wellness"
+  }
+ },
+ "321069d917": {
+  "instruction": {
+   "name of movie": "Fifty Shades Darker",
+   "location": "Richmond, VA",
+   "ANSWER": "$08.15"
+  }
+ },
+ "cfdfdde59d": {
+  "instruction": {
+   "ANSWER": "6.15",
+   "location": "45419",
+   "name of movie": "A Cure for Wellness"
+  }
+ },
+ "a0b1145ce0": {
+  "instruction": {
+   "name of movie": "Beauty and the Beast",
+   "location": "Bloomington, IL",
+   "ANSWER": "$6.25"
+  }
+ },
+ "6837970e45": {
+  "instruction": {
+   "ANSWER": "6.75",
+   "location": "Cleveland, OH",
+   "name of movie": "John Wick: Chapter 2"
+  }
+ },
+ "f7840e4cf7": {
+  "instruction": {
+   "ANSWER": "Regency Fontana 8 16741 Valley Blvd.  Fontana, CA 92335",
+   "location": "Bloomington, CA ",
+   "name of movie": "Rings"
+  }
+ },
+ "01c8240b07": {
+  "instruction": {
+   "ANSWER": "$6.25",
+   "location": "61550",
+   "name of movie": "THE LEGO BATMAN MOVIE"
+  }
+ },
+ "4014fd70b5": {
+  "instruction": {
+   "ANSWER": "$1.99",
+   "location": "Fort Collins, CO",
+   "name of movie": "Gold"
+  }
+ },
+ "0161f7e11c": {
+  "instruction": {
+   "name of movie": "John Wick: Chapter 2",
+   "location": "Cleveland, OH",
+   "ANSWER": "6.75"
+  }
+ },
+ "9ad64f1db6": {
+  "instruction": {
+   "ANSWER": "43240",
+   "location": "CINEMARK POLARIS 18 & XD",
+   "name of movie": "SPLIT"
+  }
+ },
+ "169948cf1d": {
+  "instruction": {
+   "name of movie": "A Cure for Wellness",
+   "location": "45419",
+   "ANSWER": "6.15"
+  }
+ },
+ "b1f2e9b8e5": {
+  "instruction": {
+   "ANSWER": "$13.00",
+   "location": "Las Angeles, CA",
+   "name of movie": "SPLIT (2017)"
+  }
+ },
+ "7c12f156a4": {
+  "instruction": {
+   "ANSWER": "7.50",
+   "location": "Cleveland, OH",
+   "name of movie": "SPLIT (2017)"
+  }
+ },
+ "5ed6515b7c": {
+  "instruction": {
+   "location": "Buffalo, NY",
+   "name of movie": "A Dog's Purpose"
+  }
+ },
+ "57e1b9de48": {
+  "instruction": {
+   "ANSWER": "6.99",
+   "location": "Cleveland, OH",
+   "name of movie": "La La Land"
+  }
+ },
+ "99d4f5a68a": {
+  "instruction": {
+   "location": "22408",
+   "name of movie": "Hidden Figures"
+  }
+ },
+ "33c0a8e456": {
+  "instruction": {
+   "name of movie": "Fifty shades darker ",
+   "location": "Fontana, CA ",
+   "ANSWER": "Regency Fontana 8 16741 Valley Blvd.  Fontana, CA 92335"
+  }
+ },
+ "7a0200cf09": {
+  "instruction": {
+   "ANSWER": "6.75",
+   "location": "Indianapolis, IN",
+   "name of movie": "Fifty Shades Darker"
+  }
+ },
+ "aa673a3b56": {
+  "instruction": {
+   "name of movie": "Hidden Figures",
+   "location": "22408"
+  }
+ },
+ "b4c920c561": {
+  "instruction": {
+   "name of movie": "La la land",
+   "location": "Applevalley,CA ",
+   "ANSWER": "Cinemark Jess Ranch 18935 Bear Valley Road  Apple Valley, CA 92308"
+  }
+ },
+ "9a978cf797": {
+  "instruction": {
+   "name of movie": "FIST FIGHT",
+   "location": "Las Vegas",
+   "ANSWER": "$6.25"
+  }
+ },
+ "490ce5d91f": {
+  "instruction": {
+   "ANSWER": "$6.99",
+   "location": "Boston, MA",
+   "name of movie": "Everybody Lloves somebody"
+  }
+ },
+ "beb987aecd": {
+  "instruction": {
+   "ANSWER": "$9.04",
+   "location": "Denve,rCo",
+   "name of movie": "A Dog's purpose"
+  }
+ },
+ "b11d0ae5c8": {
+  "instruction": {
+   "ANSWER": "43230",
+   "location": "CINEMARK STONERIDGE PLAZA",
+   "name of movie": "RINGS"
+  }
+ },
+ "1f1df2d14b": {
+  "instruction": {
+   "ANSWER": "$5.50",
+   "location": "22408",
+   "name of movie": "Split"
+  }
+ },
+ "474839add6": {
+  "instruction": {
+   "name of movie": "Split",
+   "location": "Fort Collins, CO",
+   "ANSWER": "$9.60"
+  }
+ },
+ "9b65a36188": {
+  "instruction": {
+   "ANSWER": "43240",
+   "location": "CINEMARK POLARIS 18 & XD",
+   "name of movie": "A DOGS PURPOSE"
+  }
+ },
+ "be572b72e3": {
+  "instruction": {
+   "name of movie": "THE LEGO BATMAN MOVIE",
+   "location": "SCREEN AT THE CONTINENT ",
+   "ANSWER": "43229"
+  }
+ },
+ "7285ec08c1": {
+  "instruction": {
+   "name of movie": "Fifty Shades Darker",
+   "location": "Richmond, VA"
+  }
+ },
+ "851cb1c8c2": {
+  "instruction": {
+   "ANSWER": "$6.25",
+   "location": "54102",
+   "name of movie": "John Wick: Chapter 2"
+  }
+ },
+ "43b9ce287a": {
+  "instruction": {
+   "name of movie": "John Wick: Chapter 2",
+   "location": "Indianapolis, IN",
+   "ANSWER": "7.50"
+  }
+ },
+ "3dd1866564": {
+  "instruction": {
+   "name of movie": "Split",
+   "location": "45419",
+   "ANSWER": "7.90"
+  }
+ },
+ "2e4f48acf8": {
+  "instruction": {
+   "name of movie": "Fifty Shades Darker",
+   "location": "Indianapolis, IN",
+   "ANSWER": "6.75"
+  }
+ },
+ "0bcada3146": {
+  "instruction": {
+   "location": "Dallas",
+   "name of movie": "La La Land"
+  }
+ },
+ "6036f1bf12": {
+  "instruction": {
+   "name of movie": "A CURE FOR WELLNESS",
+   "location": "CINEMARK POLARIS 18 & XD",
+   "ANSWER": "43240"
+  }
+ },
+ "e362d5d9c8": {
+  "instruction": {
+   "name of movie": "John Wick: Chapter 2",
+   "location": "Cypress Hills, NY",
+   "ANSWER": "$11.65"
+  }
+ },
+ "be67ea25db": {
+  "instruction": {
+   "ANSWER": "7.99",
+   "location": "Indianapolis, IN",
+   "name of movie": "SPLIT (2017)"
+  }
+ },
+ "3cbac30d56": {
+  "instruction": {
+   "name of movie": "SPLIT",
+   "location": "CINEMARK POLARIS 18 & XD",
+   "ANSWER": "43240"
+  }
+ },
+ "a9b7d44e47": {
+  "instruction": {
+   "name of movie": "The Great Wall",
+   "location": "Peoria, IL",
+   "ANSWER": "$5.50"
+  }
+ },
+ "b42f40d757": {
+  "instruction": {
+   "name of movie": "Lion",
+   "location": "40601"
+  }
+ },
+ "fd9db210f9": {
+  "instruction": {
+   "name of movie": "The Lego Batman movie ",
+   "location": "Fontana, CA ",
+   "ANSWER": "Regency Fontana 8 16741 Valley Blvd.  Fontana, CA 92335"
+  }
+ },
+ "815b22c0ec": {
+  "instruction": {
+   "ANSWER": "$1.99",
+   "location": "Fort Collins, CO",
+   "name of movie": "Moana"
+  }
+ },
+ "19385e4a01": {
+  "instruction": {
+   "ANSWER": "Edwards Ontario Mountain Village Stadium 14 1575 N. Mountain Ave.  Ontario, CA 91762",
+   "location": "Ontario, CA ",
+   "name of movie": "The Great Wall"
+  }
+ },
+ "f0cc690c65": {
+  "instruction": {
+   "name of movie": "The Great Wall 2017",
+   "location": "Atlanta, GA",
+   "ANSWER": "$10.35"
+  }
+ },
+ "42ff051a23": {
+  "instruction": {
+   "ANSWER": "$6.25",
+   "location": "San Diego",
+   "name of movie": "A Dog's Purpose"
+  }
+ },
+ "b517344ec4": {
+  "instruction": {
+   "ANSWER": "$11.03",
+   "location": "Boulder, CO",
+   "name of movie": "A Dog's Purpose"
+  }
+ },
+ "8af37be009": {
+  "instruction": {
+   "name of movie": "Everybody loves somebody ",
+   "location": "Colton,CA ",
+   "ANSWER": "Regency Fontana 8 16741 Valley Blvd.  Fontana, CA 92335"
+  }
+ },
+ "4619acbd62": {
+  "instruction": {
+   "name of movie": "Lego Batman Movie",
+   "location": "45419",
+   "ANSWER": "6.15"
+  }
+ },
+ "eb0324fe47": {
+  "instruction": {
+   "ANSWER": "$10.35",
+   "location": "Atlanta, GA",
+   "name of movie": "The Great Wall 2017"
+  }
+ },
+ "f27013b14b": {
+  "instruction": {
+   "name of movie": "50 SHADES DARKER",
+   "location": "CINEMARK POLARIS 18 & XD",
+   "ANSWER": "43240"
+  }
+ },
+ "b4d729e8e9": {
+  "instruction": {
+   "ANSWER": "Regency Fontana 8 16741 Valley Blvd.  Fontana, CA 92335",
+   "location": "Rialto, CA ",
+   "name of movie": "A cure for wellness"
+  }
+ },
+ "b55b98e348": {
+  "instruction": {
+   "ANSWER": "$10.46",
+   "location": "Colorado Springs, CO",
+   "name of movie": "The Great Wall"
+  }
+ },
+ "8e98ef1b97": {
+  "instruction": {
+   "name of movie": "A cure for wellness",
+   "location": "80202",
+   "ANSWER": "$9.04"
+  }
+ },
+ "ed4502b719": {
+  "instruction": {
+   "name of movie": "Fifty Shades Darker",
+   "location": "Cleveland, OH",
+   "ANSWER": "8.55"
+  }
+ },
+ "0c3aa38802": {
+  "instruction": {
+   "ANSWER": "9.55",
+   "location": "Cleveland, OH",
+   "name of movie": "THE LEGO BATMAN MOVIE 3D"
+  }
+ },
+ "ad01988c16": {
+  "instruction": {
+   "ANSWER": "$6.25",
+   "location": "Bloomington, IL",
+   "name of movie": "Beauty and the Beast"
+  }
+ },
+ "bfe2fd602a": {
+  "instruction": {
+   "location": "22507",
+   "name of movie": "Resident Evil: Final Chapter"
+  }
+ },
+ "2649d30bbc": {
+  "instruction": {
+   "name of movie": "I'm Not Your Negro",
+   "location": "Baltimore, MD",
+   "ANSWER": "NO RESULTS FOR \"WHAT IS THE CHEAPEST TICKET PRICE TO SEE IM NOT YOUR NEGRO NEAR BALTIMORE, MD?\""
+  }
+ },
+ "a563c14254": {
+  "instruction": {
+   "ANSWER": "UA Arden Fair 6 1739 Arden Way  Sacramento, CA 95815",
+   "location": "Sacramento, CA ",
+   "name of movie": "Fist fight"
+  }
+ },
+ "1d81ae141d": {
+  "instruction": {
+   "ANSWER": "43240",
+   "location": "CINEMARK POLARIS 18 & XD",
+   "name of movie": "A CURE FOR WELLNESS"
+  }
+ },
+ "e47b11f32a": {
+  "instruction": {
+   "ANSWER": "$6.25",
+   "location": "Las Vegas",
+   "name of movie": "FIST FIGHT"
+  }
+ },
+ "804f4542fe": {
+  "instruction": {
+   "name of movie": "La La Land",
+   "location": "Peoria, IL",
+   "ANSWER": "$6.50"
+  }
+ },
+ "3e3eb4eb24": {
+  "instruction": {
+   "ANSWER": "6.15",
+   "location": "45419",
+   "name of movie": "La la Land"
+  }
+ },
+ "db54e3cc83": {
+  "instruction": {
+   "ANSWER": "$8.25",
+   "location": "34758",
+   "name of movie": "The Lego Batman Movie"
+  }
+ },
+ "334e2cb678": {
+  "instruction": {
+   "name of movie": "The Space between US",
+   "location": "30507",
+   "ANSWER": "$8.87"
+  }
+ },
+ "3d4a5d905e": {
+  "instruction": {
+   "ANSWER": "43219",
+   "location": "EASTON TOWN CENTER ",
+   "name of movie": "JOHN WICK CHAPTER 2"
+  }
+ },
+ "75bdc9fe97": {
+  "instruction": {
+   "ANSWER": "Regency Fontana 8 16741 Valley Blvd.  Fontana, CA 92335",
+   "location": "Fontana, CA ",
+   "name of movie": "The Lego Batman movie "
+  }
+ },
+ "2eaab476d3": {
+  "instruction": {
+   "ANSWER": "$5.50",
+   "location": "Peoria, IL",
+   "name of movie": "The Great Wall"
+  }
+ },
+ "eacd64e5c2": {
+  "instruction": {
+   "location": "Richmond, VA",
+   "name of movie": "Fifty Shades Darker"
+  }
+ },
+ "9caeb6185d": {
+  "instruction": {
+   "name of movie": "La La Land",
+   "location": "Cleveland, OH",
+   "ANSWER": "6.99"
+  }
+ },
+ "496d3e2beb": {
+  "instruction": {
+   "ANSWER": "$8.91",
+   "location": "Kissimmee, FL",
+   "name of movie": "John Wick : Chapter 2"
+  }
+ },
+ "bc8ef6004f": {
+  "instruction": {
+   "name of movie": "A Dog's Purpose",
+   "location": "Buffalo, New York",
+   "ANSWER": "$08.35"
+  }
+ },
+ "46b4cd4be7": {
+  "instruction": {
+   "name of movie": "La La Land",
+   "location": "Hollywood, CA",
+   "ANSWER": "NO RESULTS FOR \"WHAT IS THE CHEAPEST TICKET PRICE TO SEE LA LA LAND NEAR HOLLYWOOD, CA?\""
+  }
+ },
+ "ecc1e03238": {
+  "instruction": {
+   "name of movie": "Hidden Figures",
+   "location": "Atlanta, GA",
+   "ANSWER": "NO RESULTS FOR \"WHAT IS THE CHEAPEST TICKET PRICE TO SEE HIDDEN FIGURES NEAR ATLANTA, GA?\""
+  }
+ },
+ "a8628caf81": {
+  "instruction": {
+   "name of movie": "The Great Wall",
+   "location": "Bushwick, NY",
+   "ANSWER": "$11.65"
+  }
+ },
+ "a537750402": {
+  "instruction": {
+   "name of movie": "Resident Evil: Final Chapter",
+   "location": "49501",
+   "ANSWER": "$10.29"
+  }
+ },
+ "deb0185f83": {
+  "instruction": {
+   "name of movie": "Sing",
+   "location": "New York, NY",
+   "ANSWER": "NO RESULTS FOR \"WHAT IS THE CHEAPEST TICKET PRICE TO SEE SING NEAR NEW YORK, NY?\""
+  }
+ },
+ "1b649de7ec": {
+  "instruction": {
+   "ANSWER": "6.15",
+   "location": "45419",
+   "name of movie": "Rings"
+  }
+ },
+ "6378d0e509": {
+  "instruction": {
+   "name of movie": "John Wick: Chapter 2",
+   "location": "54102",
+   "ANSWER": "$6.25"
+  }
+ },
+ "d823fce907": {
+  "instruction": {
+   "name of movie": "Passengers",
+   "location": "Orlando, Fl",
+   "ANSWER": "$8.51"
+  }
+ },
+ "9eb489ec6a": {
+  "instruction": {
+   "name of movie": "Fifty Shades Darker",
+   "location": "New York City",
+   "ANSWER": "$7.00"
+  }
+ },
+ "ff2b0ed3b5": {
+  "instruction": {
+   "ANSWER": "$7.00",
+   "location": "New York City",
+   "name of movie": "Fifty Shades Darker"
+  }
+ },
+ "9ad696f6b5": {
+  "instruction": {
+   "name of movie": "Fist fight",
+   "location": "Sacramento, CA ",
+   "ANSWER": "UA Arden Fair 6 1739 Arden Way  Sacramento, CA 95815"
+  }
+ }
+}

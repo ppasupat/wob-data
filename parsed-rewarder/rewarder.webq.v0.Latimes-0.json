@@ -1,0 +1,62 @@
+{
+ "e022d5040f": {
+  "instruction": {
+   "year": "1961",
+   "Oscar Type": "Best Picture"
+  }
+ },
+ "87181c2841": {
+  "instruction": {
+   "year": "1959",
+   "Oscar Type": "Best Director"
+  }
+ },
+ "faeb8280a3": {
+  "instruction": {
+   "year": "2015",
+   "Oscar Type": "Best Picture"
+  }
+ },
+ "b3d9907ef7": {
+  "instruction": {
+   "year": "1970",
+   "Oscar Type": "Best Supporting Actor"
+  }
+ },
+ "53ddf2d282": {
+  "instruction": {
+   "year": "2010",
+   "Oscar Type": "Best Supporting Actor"
+  }
+ },
+ "6f3c014142": {
+  "instruction": {
+   "year": "1990",
+   "Oscar Type": "Best Supporting Actress"
+  }
+ },
+ "30f3dc01ea": {
+  "instruction": {
+   "year": "1997",
+   "Oscar Type": "Best Director"
+  }
+ },
+ "062503846f": {
+  "instruction": {
+   "year": "1948",
+   "Oscar Type": "Best Supporting Actress"
+  }
+ },
+ "8e960c8c07": {
+  "instruction": {
+   "year": "1930",
+   "Oscar Type": "Best Picture"
+  }
+ },
+ "8f90754ef2": {
+  "instruction": {
+   "year": "1979",
+   "Oscar Type": "Best Actress"
+  }
+ }
+}

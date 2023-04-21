@@ -1,0 +1,1362 @@
+{
+ "89abdb3e1c": {
+  "instruction": {
+   "returning date": "8/15/17",
+   "departing date": "8/12/17",
+   "ANSWER": "134.40 Jet Blue"
+  }
+ },
+ "e72bc14133": {
+  "instruction": {
+   "returning date": "8/16/17",
+   "departing date": "8/13/17",
+   "ANSWER": "Flight 880, JetBlue Airways"
+  }
+ },
+ "c01feeed66": {
+  "instruction": {
+   "returning date": "8/6/17",
+   "departing date": "8/2/17"
+  }
+ },
+ "f95238a989": {
+  "instruction": {
+   "departing date": "4/1/17",
+   "returning date": "4/5/17"
+  }
+ },
+ "2c12664f78": {
+  "instruction": {
+   "departing date": "2/21/17",
+   "returning date": "2/23/17",
+   "ANSWER": "Spirit Airlines 139.44"
+  }
+ },
+ "b04f164363": {
+  "instruction": {
+   "departing date": "10/7/17",
+   "returning date": "10/9/17",
+   "ANSWER": "124.40"
+  }
+ },
+ "cf3ee4bcaa": {
+  "instruction": {
+   "departing date": "4/12/17",
+   "returning date": "4/20/17",
+   "ANSWER": "116.40"
+  }
+ },
+ "3b22a6ece5": {
+  "instruction": {
+   "returning date": "7/26/17",
+   "departing date": "7/19/17",
+   "ANSWER": "160.40"
+  }
+ },
+ "2dae932490": {
+  "instruction": {
+   "returning date": "6/6/17",
+   "departing date": "6/1/17",
+   "ANSWER": "$148.40"
+  }
+ },
+ "876452b182": {
+  "instruction": {
+   "departing date": "2/20/17",
+   "returning date": "2/22/17",
+   "ANSWER": "Flight 132, Spirit Airlines"
+  }
+ },
+ "c93486a465": {
+  "instruction": {
+   "departing date": "8/12/17",
+   "returning date": "8/15/17",
+   "ANSWER": "134.40 Jet Blue"
+  }
+ },
+ "752345b7c1": {
+  "instruction": {
+   "returning date": "12/31/17",
+   "departing date": "12/28/17",
+   "ANSWER": "Flight 325, United Airlines"
+  }
+ },
+ "c7c54efea2": {
+  "instruction": {
+   "departing date": "12/7/17",
+   "returning date": "20/9/17",
+   "ANSWER": "JetBlue Airways"
+  }
+ },
+ "12223140b2": {
+  "instruction": {
+   "departing date": "3/24/17",
+   "returning date": "04/5/17",
+   "ANSWER": "Spirit Airlines 102.38"
+  }
+ },
+ "fc16b94a0b": {
+  "instruction": {
+   "departing date": "4/5/17",
+   "returning date": "4/27/17",
+   "ANSWER": "120.40"
+  }
+ },
+ "9b19fe4e3a": {
+  "instruction": {
+   "returning date": "1/5/18",
+   "departing date": "1/1/18"
+  }
+ },
+ "e47a3ed678": {
+  "instruction": {
+   "departing date": "5/1/17",
+   "returning date": "5/8/17",
+   "ANSWER": "126.40"
+  }
+ },
+ "c3552fc1d7": {
+  "instruction": {
+   "returning date": "4/20/17",
+   "departing date": "4/12/17",
+   "ANSWER": "116.40"
+  }
+ },
+ "39934fbf49": {
+  "instruction": {
+   "departing date": "6/28/17",
+   "returning date": "7/2/17",
+   "ANSWER": "173.40 United"
+  }
+ },
+ "0cebb939c3": {
+  "instruction": {
+   "departing date": "1/17/18",
+   "returning date": "1/18/18",
+   "ANSWER": "158.40"
+  }
+ },
+ "b00dddbc16": {
+  "instruction": {
+   "departing date": "9/5/17",
+   "returning date": "6/11/17",
+   "ANSWER": "American Airlines"
+  }
+ },
+ "45fd1a0509": {
+  "instruction": {
+   "departing date": "6/16/17",
+   "returning date": "6/24/17",
+   "ANSWER": "141.40"
+  }
+ },
+ "6f7ec92604": {
+  "instruction": {
+   "departing date": "6/4/17",
+   "returning date": "6/11/17",
+   "ANSWER": "160.40"
+  }
+ },
+ "0d8900e43d": {
+  "instruction": {
+   "returning date": "12/13/17",
+   "departing date": "12/6/17"
+  }
+ },
+ "852d2653e4": {
+  "instruction": {
+   "departing date": "1/1/18",
+   "returning date": "1/5/18"
+  }
+ },
+ "1513b029c6": {
+  "instruction": {
+   "returning date": "9/4/17",
+   "departing date": "8/31/17",
+   "ANSWER": "167.40"
+  }
+ },
+ "4aa54a448a": {
+  "instruction": {
+   "returning date": "20/5/17",
+   "departing date": "20/4/17",
+   "ANSWER": "JetBlue Airways"
+  }
+ },
+ "715995b735": {
+  "instruction": {
+   "departing date": "10/28/17",
+   "returning date": "11/1/17",
+   "ANSWER": "158.40 American Airlines"
+  }
+ },
+ "689de779fc": {
+  "instruction": {
+   "departing date": "9/14/17",
+   "returning date": "9/17/17",
+   "ANSWER": "Flight 354,  American Airlines"
+  }
+ },
+ "924f7ad67c": {
+  "instruction": {
+   "departing date": "2/23/17",
+   "returning date": "3/8/17",
+   "ANSWER": "120.90"
+  }
+ },
+ "a58451ff14": {
+  "instruction": {
+   "returning date": "5/20/17",
+   "departing date": "5/18/17",
+   "ANSWER": "119.40"
+  }
+ },
+ "8d15686fb4": {
+  "instruction": {
+   "returning date": "28/12/17",
+   "departing date": "5/11/17",
+   "ANSWER": "American Airlines"
+  }
+ },
+ "ee1ead38fc": {
+  "instruction": {
+   "returning date": "11/25/17",
+   "departing date": "11/19/17",
+   "ANSWER": "158.40 American Airlines"
+  }
+ },
+ "8a942e88ee": {
+  "instruction": {
+   "returning date": "4/27/17",
+   "departing date": "4/20/17",
+   "ANSWER": "Alaska Airlines 118.40"
+  }
+ },
+ "c7e75583e4": {
+  "instruction": {
+   "returning date": "7/4/17",
+   "departing date": "7/1/17",
+   "ANSWER": "149.40"
+  }
+ },
+ "220d69da78": {
+  "instruction": {
+   "returning date": "30/9/17",
+   "departing date": "23/3/17",
+   "ANSWER": "JetBlue Airways"
+  }
+ },
+ "6772777005": {
+  "instruction": {
+   "departing date": "4/28/17",
+   "returning date": "5/1/17",
+   "ANSWER": "$125.40"
+  }
+ },
+ "ad3edff587": {
+  "instruction": {
+   "returning date": "3/9/17",
+   "departing date": "2/28/17",
+   "ANSWER": "JetBlue Airways 89.40"
+  }
+ },
+ "2117eff26f": {
+  "instruction": {
+   "returning date": "5/1/17",
+   "departing date": "4/28/17",
+   "ANSWER": "$125.40"
+  }
+ },
+ "c35fe1d894": {
+  "instruction": {
+   "departing date": "4/7/17",
+   "returning date": "4/10/17",
+   "ANSWER": "125.40 Alaska Airlines"
+  }
+ },
+ "a8f50a9872": {
+  "instruction": {
+   "departing date": "5/18/17",
+   "returning date": "5/25/17",
+   "ANSWER": "Flight 1480, Alaska Airlines"
+  }
+ },
+ "baf7dbe469": {
+  "instruction": {
+   "returning date": "2/19/17",
+   "departing date": "2/19/17",
+   "ANSWER": "152.38"
+  }
+ },
+ "e24e86bf32": {
+  "instruction": {
+   "returning date": "7/9/17",
+   "departing date": "7/1/17",
+   "ANSWER": "116.40"
+  }
+ },
+ "26b22ceac5": {
+  "instruction": {
+   "departing date": "7/5/17",
+   "returning date": "7/7/17",
+   "ANSWER": "Flight 880, JetBlue Airways"
+  }
+ },
+ "f9cf8edd0c": {
+  "instruction": {
+   "returning date": "9/5/17",
+   "departing date": "9/1/17",
+   "ANSWER": "167.40 American Airlines"
+  }
+ },
+ "b9e02d80be": {
+  "instruction": {
+   "returning date": "3/19/17",
+   "departing date": "3/12/17",
+   "ANSWER": "102.38"
+  }
+ },
+ "97da757bd4": {
+  "instruction": {
+   "departing date": "5/11/17",
+   "returning date": "28/12/17",
+   "ANSWER": "American Airlines"
+  }
+ },
+ "2b7942cd67": {
+  "instruction": {
+   "returning date": "6/19/17",
+   "departing date": "6/15/17",
+   "ANSWER": "165.39 United"
+  }
+ },
+ "743c530d2a": {
+  "instruction": {
+   "departing date": "10/3/17",
+   "returning date": "10/6/17"
+  }
+ },
+ "83d9fa21aa": {
+  "instruction": {
+   "returning date": "2/23/17",
+   "departing date": "2/20/17",
+   "ANSWER": "151.38"
+  }
+ },
+ "2eb813ccc3": {
+  "instruction": {
+   "departing date": "7/4/17",
+   "returning date": "7/11/17"
+  }
+ },
+ "2dc06b7b77": {
+  "instruction": {
+   "returning date": "3/29/17",
+   "departing date": "3/22/17",
+   "ANSWER": "$96.40"
+  }
+ },
+ "3c0fb66862": {
+  "instruction": {
+   "departing date": "4/29/17",
+   "returning date": "5/17/17",
+   "ANSWER": "JetBlue Airways 116.40"
+  }
+ },
+ "a8cb57f97e": {
+  "instruction": {
+   "departing date": "8/4/17",
+   "returning date": "8/7/17",
+   "ANSWER": "$155.40"
+  }
+ },
+ "c5310d7052": {
+  "instruction": {
+   "returning date": "3/10/17",
+   "departing date": "3/9/17",
+   "ANSWER": "Spirit Airlines 102.36"
+  }
+ },
+ "43444f60f4": {
+  "instruction": {
+   "departing date": "11/22/17",
+   "returning date": "11/26/17",
+   "ANSWER": "168.40"
+  }
+ },
+ "f632a2a0fa": {
+  "instruction": {
+   "returning date": "3/8/17",
+   "departing date": "2/23/17",
+   "ANSWER": "120.90"
+  }
+ },
+ "23139bf946": {
+  "instruction": {
+   "returning date": "1/3/18",
+   "departing date": "1/1/18",
+   "ANSWER": "167.40"
+  }
+ },
+ "f8ab9dff21": {
+  "instruction": {
+   "departing date": "3/16/17",
+   "returning date": "3/20/17",
+   "ANSWER": "102.38 Spirit Airlines"
+  }
+ },
+ "97a467ad0e": {
+  "instruction": {
+   "returning date": "18/4/17",
+   "departing date": "28/2/17",
+   "ANSWER": "JetBlue Airways"
+  }
+ },
+ "642870c2d1": {
+  "instruction": {
+   "departing date": "5/5/17",
+   "returning date": "5/9/17"
+  }
+ },
+ "75f5160ffe": {
+  "instruction": {
+   "returning date": "9/24/17",
+   "departing date": "9/17/17"
+  }
+ },
+ "57e010f736": {
+  "instruction": {
+   "returning date": "3/20/17",
+   "departing date": "3/16/17",
+   "ANSWER": "102.38 Spirit Airlines"
+  }
+ },
+ "c7c7aeb1f4": {
+  "instruction": {
+   "departing date": "6/20/17",
+   "returning date": "6/25/17"
+  }
+ },
+ "5b46bca153": {
+  "instruction": {
+   "departing date": "25/2/17",
+   "returning date": "1/8/17",
+   "ANSWER": "United Airlines"
+  }
+ },
+ "1a214fb187": {
+  "instruction": {
+   "returning date": "7/6/17",
+   "departing date": "7/3/17",
+   "ANSWER": "124.40 Jet Blue"
+  }
+ },
+ "7a39d8dc60": {
+  "instruction": {
+   "departing date": "23/3/17",
+   "returning date": "30/9/17",
+   "ANSWER": "JetBlue Airways"
+  }
+ },
+ "d4d650b08c": {
+  "instruction": {
+   "returning date": "5/13/17",
+   "departing date": "5/7/17",
+   "ANSWER": "$119.40"
+  }
+ },
+ "15bd695fac": {
+  "instruction": {
+   "departing date": "12/6/17",
+   "returning date": "12/13/17"
+  }
+ },
+ "1d447595f8": {
+  "instruction": {
+   "returning date": "6/17/17",
+   "departing date": "5/17/17",
+   "ANSWER": "JetBlue Airways 116.40"
+  }
+ },
+ "7cb1c5061e": {
+  "instruction": {
+   "departing date": "2/28/17",
+   "returning date": "3/7/17",
+   "ANSWER": "$89.40"
+  }
+ },
+ "ba963e09b9": {
+  "instruction": {
+   "departing date": "5/17/17",
+   "returning date": "5/20/17",
+   "ANSWER": "109.40"
+  }
+ },
+ "448d2fce74": {
+  "instruction": {
+   "departing date": "4/20/17",
+   "returning date": "4/21/17",
+   "ANSWER": "Virgin America 118.40"
+  }
+ },
+ "881a07576e": {
+  "instruction": {
+   "returning date": "6/6/17",
+   "departing date": "5/30/17"
+  }
+ },
+ "8147b85197": {
+  "instruction": {
+   "returning date": "5/20/17",
+   "departing date": "5/17/17",
+   "ANSWER": "109.40"
+  }
+ },
+ "33323f58b9": {
+  "instruction": {
+   "returning date": "6/25/17",
+   "departing date": "6/20/17"
+  }
+ },
+ "3d516aa443": {
+  "instruction": {
+   "returning date": "3/7/17",
+   "departing date": "2/28/17",
+   "ANSWER": "$89.40"
+  }
+ },
+ "eb2e9303ed": {
+  "instruction": {
+   "departing date": "21/11/17",
+   "returning date": "13/1/18",
+   "ANSWER": "American Airlines"
+  }
+ },
+ "c4e655690c": {
+  "instruction": {
+   "departing date": "1/1/18",
+   "returning date": "1/3/18",
+   "ANSWER": "167.40"
+  }
+ },
+ "1361679247": {
+  "instruction": {
+   "departing date": "7/1/17",
+   "returning date": "7/4/17",
+   "ANSWER": "149.40"
+  }
+ },
+ "3a1ece0aa2": {
+  "instruction": {
+   "departing date": "4/14/17",
+   "returning date": "4/21/17",
+   "ANSWER": "130.40"
+  }
+ },
+ "c981150df4": {
+  "instruction": {
+   "returning date": "5/12/17",
+   "departing date": "5/9/17",
+   "ANSWER": "109.40"
+  }
+ },
+ "a504bb869c": {
+  "instruction": {
+   "departing date": "5/7/17",
+   "returning date": "5/13/17",
+   "ANSWER": "$119.40"
+  }
+ },
+ "0130ca8fd5": {
+  "instruction": {
+   "departing date": "3/22/17",
+   "returning date": "3/29/17",
+   "ANSWER": "$96.40"
+  }
+ },
+ "65ac0f62b0": {
+  "instruction": {
+   "returning date": "2/23/17",
+   "departing date": "2/21/17",
+   "ANSWER": "Spirit Airlines 139.44"
+  }
+ },
+ "804ac38662": {
+  "instruction": {
+   "returning date": "17/11/17",
+   "departing date": "2/7/17",
+   "ANSWER": "American Airlines"
+  }
+ },
+ "510d7ed11e": {
+  "instruction": {
+   "departing date": "7/2/17",
+   "returning date": "7/4/17",
+   "ANSWER": "134.40"
+  }
+ },
+ "af8ff5a17d": {
+  "instruction": {
+   "departing date": "4/7/17",
+   "returning date": "4/20/17",
+   "ANSWER": "Alaska Airlines 125.40"
+  }
+ },
+ "bce8a38157": {
+  "instruction": {
+   "returning date": "3/3/17",
+   "departing date": "23/2/17",
+   "ANSWER": "Spirit Airlines"
+  }
+ },
+ "841b5fd5e3": {
+  "instruction": {
+   "returning date": "9/1/17",
+   "departing date": "9/1/17",
+   "ANSWER": "168.40"
+  }
+ },
+ "1da3a996b0": {
+  "instruction": {
+   "departing date": "9/17/17",
+   "returning date": "9/24/17"
+  }
+ },
+ "a8eb4cf889": {
+  "instruction": {
+   "returning date": "4/9/17",
+   "departing date": "4/5/17"
+  }
+ },
+ "1a18543a30": {
+  "instruction": {
+   "returning date": "4/5/17",
+   "departing date": "4/1/17"
+  }
+ },
+ "72bdbc91a9": {
+  "instruction": {
+   "returning date": "8/19/17",
+   "departing date": "8/15/17",
+   "ANSWER": "124.40"
+  }
+ },
+ "47f41292b7": {
+  "instruction": {
+   "departing date": "6/15/17",
+   "returning date": "6/23/17",
+   "ANSWER": "$159.40"
+  }
+ },
+ "6078157057": {
+  "instruction": {
+   "departing date": "6/19/17",
+   "returning date": "6/23/17",
+   "ANSWER": "Flight 880, JetBlue Airways"
+  }
+ },
+ "2511de35c3": {
+  "instruction": {
+   "returning date": "8/7/17",
+   "departing date": "8/4/17",
+   "ANSWER": "$155.40"
+  }
+ },
+ "34788ed401": {
+  "instruction": {
+   "departing date": "3/12/17",
+   "returning date": "3/19/17",
+   "ANSWER": "102.38"
+  }
+ },
+ "576933bfc2": {
+  "instruction": {
+   "departing date": "8/2/17",
+   "returning date": "8/6/17"
+  }
+ },
+ "8bb0ecf24d": {
+  "instruction": {
+   "returning date": "2/5/18",
+   "departing date": "2/5/18"
+  }
+ },
+ "7f02e35b34": {
+  "instruction": {
+   "departing date": "12/28/17",
+   "returning date": "12/31/17",
+   "ANSWER": "Flight 325, United Airlines"
+  }
+ },
+ "bc3707b79e": {
+  "instruction": {
+   "departing date": "3/9/17",
+   "returning date": "3/10/17",
+   "ANSWER": "Spirit Airlines 102.36"
+  }
+ },
+ "b955b6b483": {
+  "instruction": {
+   "returning date": "7/11/17",
+   "departing date": "7/4/17"
+  }
+ },
+ "c35ec40543": {
+  "instruction": {
+   "returning date": "5/9/17",
+   "departing date": "5/5/17"
+  }
+ },
+ "8c931a9f95": {
+  "instruction": {
+   "departing date": "2/19/17",
+   "returning date": "2/19/17",
+   "ANSWER": "152.38"
+  }
+ },
+ "36b4c68966": {
+  "instruction": {
+   "departing date": "7/1/17",
+   "returning date": "7/5/17",
+   "ANSWER": "154.40"
+  }
+ },
+ "a13b7554c0": {
+  "instruction": {
+   "departing date": "2/22/17",
+   "returning date": "2/25/17",
+   "ANSWER": "$102.38"
+  }
+ },
+ "305c061359": {
+  "instruction": {
+   "departing date": "2/20/17",
+   "returning date": "2/23/17",
+   "ANSWER": "151.38"
+  }
+ },
+ "2a61b8ddfc": {
+  "instruction": {
+   "departing date": "7/1/17",
+   "returning date": "7/9/17",
+   "ANSWER": "116.40"
+  }
+ },
+ "aa37cbe167": {
+  "instruction": {
+   "returning date": "10/9/17",
+   "departing date": "10/7/17",
+   "ANSWER": "124.40"
+  }
+ },
+ "72d8d9950a": {
+  "instruction": {
+   "returning date": "10/15/17",
+   "departing date": "10/8/17"
+  }
+ },
+ "b04fb45954": {
+  "instruction": {
+   "returning date": "9/7/17",
+   "departing date": "8/22/17",
+   "ANSWER": "106.40"
+  }
+ },
+ "6951136425": {
+  "instruction": {
+   "returning date": "10/6/17",
+   "departing date": "10/3/17"
+  }
+ },
+ "ae082ccdad": {
+  "instruction": {
+   "departing date": "7/2/17",
+   "returning date": "7/8/17",
+   "ANSWER": "$124.40"
+  }
+ },
+ "e611613237": {
+  "instruction": {
+   "departing date": "11/19/17",
+   "returning date": "11/25/17",
+   "ANSWER": "158.40 American Airlines"
+  }
+ },
+ "0145821bb0": {
+  "instruction": {
+   "returning date": "6/23/17",
+   "departing date": "6/15/17",
+   "ANSWER": "$159.40"
+  }
+ },
+ "6dfb9f7e8f": {
+  "instruction": {
+   "returning date": "4/28/17",
+   "departing date": "4/23/17",
+   "ANSWER": "$118.40"
+  }
+ },
+ "5d196a7d2b": {
+  "instruction": {
+   "returning date": "5/25/17",
+   "departing date": "5/18/17",
+   "ANSWER": "Flight 1480, Alaska Airlines"
+  }
+ },
+ "a0a6bc441a": {
+  "instruction": {
+   "returning date": "6/11/17",
+   "departing date": "9/5/17",
+   "ANSWER": "American Airlines"
+  }
+ },
+ "5e398c8788": {
+  "instruction": {
+   "departing date": "3/14/17",
+   "returning date": "3/21/17"
+  }
+ },
+ "cd161a6d30": {
+  "instruction": {
+   "returning date": "2/25/17",
+   "departing date": "2/22/17",
+   "ANSWER": "$102.38"
+  }
+ },
+ "d172760201": {
+  "instruction": {
+   "returning date": "6/11/17",
+   "departing date": "6/4/17",
+   "ANSWER": "160.40"
+  }
+ },
+ "fbba27d2d2": {
+  "instruction": {
+   "returning date": "1/8/17",
+   "departing date": "25/2/17",
+   "ANSWER": "United Airlines"
+  }
+ },
+ "786e0ceaaf": {
+  "instruction": {
+   "departing date": "8/31/17",
+   "returning date": "9/4/17",
+   "ANSWER": "167.40"
+  }
+ },
+ "f4fe27bdb7": {
+  "instruction": {
+   "departing date": "4/20/17",
+   "returning date": "4/27/17",
+   "ANSWER": "Alaska Airlines 118.40"
+  }
+ },
+ "103ea3d85a": {
+  "instruction": {
+   "returning date": "7/5/17",
+   "departing date": "7/1/17",
+   "ANSWER": "154.40"
+  }
+ },
+ "7a6931a7ac": {
+  "instruction": {
+   "departing date": "6/15/17",
+   "returning date": "6/19/17",
+   "ANSWER": "165.39 United"
+  }
+ },
+ "655f44d615": {
+  "instruction": {
+   "departing date": "8/15/17",
+   "returning date": "8/19/17",
+   "ANSWER": "124.40"
+  }
+ },
+ "c72ca87bb7": {
+  "instruction": {
+   "returning date": "3/8/17",
+   "departing date": "3/2/17",
+   "ANSWER": "Flight 720, Spirit Airlines"
+  }
+ },
+ "1195074370": {
+  "instruction": {
+   "returning date": "6/23/17",
+   "departing date": "6/19/17",
+   "ANSWER": "Flight 880, JetBlue Airways"
+  }
+ },
+ "e00541afdf": {
+  "instruction": {
+   "departing date": "8/14/17",
+   "returning date": "8/21/17"
+  }
+ },
+ "51ab7de4bd": {
+  "instruction": {
+   "returning date": "5/18/17",
+   "departing date": "5/9/17",
+   "ANSWER": "109.40"
+  }
+ },
+ "209e7f859a": {
+  "instruction": {
+   "returning date": "5/8/17",
+   "departing date": "5/1/17",
+   "ANSWER": "126.40"
+  }
+ },
+ "9a288aeeda": {
+  "instruction": {
+   "departing date": "7/3/17",
+   "returning date": "7/6/17",
+   "ANSWER": "124.40 Jet Blue"
+  }
+ },
+ "04e28aebab": {
+  "instruction": {
+   "departing date": "3/17/1",
+   "returning date": "3/25/17",
+   "ANSWER": "Spirit Airlines 102.38"
+  }
+ },
+ "1c4feba000": {
+  "instruction": {
+   "departing date": "5/9/17",
+   "returning date": "5/18/17",
+   "ANSWER": "109.40"
+  }
+ },
+ "bcee840773": {
+  "instruction": {
+   "returning date": "9/5/17",
+   "departing date": "9/3/17"
+  }
+ },
+ "995f2f9530": {
+  "instruction": {
+   "returning date": "11/16/17",
+   "departing date": "11/11/17",
+   "ANSWER": "Flight 354, American Airlines"
+  }
+ },
+ "610521a6f0": {
+  "instruction": {
+   "departing date": "2/22/17",
+   "returning date": "3/15/17",
+   "ANSWER": "102.38"
+  }
+ },
+ "dc41a3fb41": {
+  "instruction": {
+   "departing date": "8/24/17",
+   "returning date": "9/2/17"
+  }
+ },
+ "b61ef49e82": {
+  "instruction": {
+   "departing date": "23/2/17",
+   "returning date": "3/3/17",
+   "ANSWER": "Spirit Airlines"
+  }
+ },
+ "c6d02c3d4b": {
+  "instruction": {
+   "returning date": "2/22/17",
+   "departing date": "2/20/17",
+   "ANSWER": "Flight 132, Spirit Airlines"
+  }
+ },
+ "b152ddc7a5": {
+  "instruction": {
+   "departing date": "9/1/17",
+   "returning date": "9/1/17",
+   "ANSWER": "168.40"
+  }
+ },
+ "d6bb7796e3": {
+  "instruction": {
+   "returning date": "7/7/17",
+   "departing date": "7/5/17",
+   "ANSWER": "Flight 880, JetBlue Airways"
+  }
+ },
+ "7cf015918b": {
+  "instruction": {
+   "departing date": "4/23/17",
+   "returning date": "4/28/17",
+   "ANSWER": "$118.40"
+  }
+ },
+ "b217ba8a52": {
+  "instruction": {
+   "returning date": "7/4/17",
+   "departing date": "7/2/17",
+   "ANSWER": "134.40"
+  }
+ },
+ "9f422314c7": {
+  "instruction": {
+   "returning date": "7/8/17",
+   "departing date": "7/2/17",
+   "ANSWER": "$124.40"
+  }
+ },
+ "1e2758302d": {
+  "instruction": {
+   "returning date": "8/31/17",
+   "departing date": "8/24/17",
+   "ANSWER": "131.40"
+  }
+ },
+ "9699e6f800": {
+  "instruction": {
+   "returning date": "11/1/17",
+   "departing date": "10/28/17",
+   "ANSWER": "158.40 American Airlines"
+  }
+ },
+ "66e72125f4": {
+  "instruction": {
+   "returning date": "04/5/17",
+   "departing date": "3/24/17",
+   "ANSWER": "Spirit Airlines 102.38"
+  }
+ },
+ "7be0c5a5cd": {
+  "instruction": {
+   "returning date": "8/21/17",
+   "departing date": "8/14/17"
+  }
+ },
+ "ee692562f9": {
+  "instruction": {
+   "departing date": "3/3/17",
+   "returning date": "3/6/17"
+  }
+ },
+ "bbef0c3a10": {
+  "instruction": {
+   "returning date": "9/2/17",
+   "departing date": "8/24/17"
+  }
+ },
+ "44772f6101": {
+  "instruction": {
+   "returning date": "4/20/17",
+   "departing date": "4/7/17",
+   "ANSWER": "Alaska Airlines 125.40"
+  }
+ },
+ "42fd86badd": {
+  "instruction": {
+   "returning date": "11/10/17",
+   "departing date": "11/8/17"
+  }
+ },
+ "2fc48b01ed": {
+  "instruction": {
+   "departing date": "8/24/17",
+   "returning date": "8/31/17",
+   "ANSWER": "131.40"
+  }
+ },
+ "5710d47880": {
+  "instruction": {
+   "departing date": "5/17/17",
+   "returning date": "6/17/17",
+   "ANSWER": "JetBlue Airways 116.40"
+  }
+ },
+ "e765b4ae74": {
+  "instruction": {
+   "departing date": "11/11/17",
+   "returning date": "11/16/17",
+   "ANSWER": "Flight 354, American Airlines"
+  }
+ },
+ "31a1b164a1": {
+  "instruction": {
+   "returning date": "7/25/17",
+   "departing date": "7/10/17",
+   "ANSWER": "116.10"
+  }
+ },
+ "1554bda9f6": {
+  "instruction": {
+   "returning date": "5/18/17",
+   "departing date": "5/14/17",
+   "ANSWER": "138.40 Alaska Airlines or Virgin"
+  }
+ },
+ "29cf4015e6": {
+  "instruction": {
+   "returning date": "4/21/17",
+   "departing date": "4/20/17",
+   "ANSWER": "Virgin America 118.40"
+  }
+ },
+ "b9d995af98": {
+  "instruction": {
+   "departing date": "6/1/17",
+   "returning date": "6/6/17",
+   "ANSWER": "$148.40"
+  }
+ },
+ "336ae51a7e": {
+  "instruction": {
+   "returning date": "3/21/17",
+   "departing date": "3/14/17"
+  }
+ },
+ "7fe469f442": {
+  "instruction": {
+   "returning date": "6/8/17",
+   "departing date": "6/5/17"
+  }
+ },
+ "9b43c9c984": {
+  "instruction": {
+   "departing date": "8/13/17",
+   "returning date": "8/16/17",
+   "ANSWER": "Flight 880, JetBlue Airways"
+  }
+ },
+ "a33fcdf676": {
+  "instruction": {
+   "returning date": "4/12/17",
+   "departing date": "4/4/17",
+   "ANSWER": "Flight 580, JetBlue Airways"
+  }
+ },
+ "06982030e2": {
+  "instruction": {
+   "returning date": "9/17/17",
+   "departing date": "9/14/17",
+   "ANSWER": "Flight 354,  American Airlines"
+  }
+ },
+ "2e78f90cf8": {
+  "instruction": {
+   "departing date": "5/9/17",
+   "returning date": "5/12/17",
+   "ANSWER": "109.40"
+  }
+ },
+ "acba25aa9c": {
+  "instruction": {
+   "departing date": "9/1/17",
+   "returning date": "9/5/17",
+   "ANSWER": "167.40 American Airlines"
+  }
+ },
+ "d5fa53a3e8": {
+  "instruction": {
+   "returning date": "13/1/18",
+   "departing date": "21/11/17",
+   "ANSWER": "American Airlines"
+  }
+ },
+ "184ecbc4bb": {
+  "instruction": {
+   "returning date": "11/26/17",
+   "departing date": "11/22/17",
+   "ANSWER": "168.40"
+  }
+ },
+ "826aadeea3": {
+  "instruction": {
+   "departing date": "11/8/17",
+   "returning date": "11/10/17"
+  }
+ },
+ "29fe39e0d1": {
+  "instruction": {
+   "returning date": "3/15/17",
+   "departing date": "2/22/17",
+   "ANSWER": "102.38"
+  }
+ },
+ "dfdff92ee5": {
+  "instruction": {
+   "departing date": "7/10/17",
+   "returning date": "7/25/17",
+   "ANSWER": "116.10"
+  }
+ },
+ "cebabae96a": {
+  "instruction": {
+   "returning date": "4/21/17",
+   "departing date": "4/14/17",
+   "ANSWER": "130.40"
+  }
+ },
+ "b3b109b548": {
+  "instruction": {
+   "departing date": "9/3/17",
+   "returning date": "9/5/17"
+  }
+ },
+ "2a717a9ef6": {
+  "instruction": {
+   "returning date": "1/18/18",
+   "departing date": "1/17/18",
+   "ANSWER": "158.40"
+  }
+ },
+ "98342b4b57": {
+  "instruction": {
+   "departing date": "28/2/17",
+   "returning date": "18/4/17",
+   "ANSWER": "JetBlue Airways"
+  }
+ },
+ "e1a343b69c": {
+  "instruction": {
+   "returning date": "4/10/17",
+   "departing date": "4/7/17",
+   "ANSWER": "125.40 Alaska Airlines"
+  }
+ },
+ "2e34876335": {
+  "instruction": {
+   "departing date": "3/2/17",
+   "returning date": "3/8/17",
+   "ANSWER": "Flight 720, Spirit Airlines"
+  }
+ },
+ "1c46faf744": {
+  "instruction": {
+   "departing date": "6/5/17",
+   "returning date": "6/8/17"
+  }
+ },
+ "726166b824": {
+  "instruction": {
+   "returning date": "3/25/17",
+   "departing date": "3/17/1",
+   "ANSWER": "Spirit Airlines 102.38"
+  }
+ },
+ "f78354a44d": {
+  "instruction": {
+   "returning date": "6/24/17",
+   "departing date": "6/16/17",
+   "ANSWER": "141.40"
+  }
+ },
+ "f74cebf7d5": {
+  "instruction": {
+   "departing date": "5/14/17",
+   "returning date": "5/18/17",
+   "ANSWER": "138.40 Alaska Airlines or Virgin"
+  }
+ },
+ "1fe43db343": {
+  "instruction": {
+   "returning date": "3/6/17",
+   "departing date": "3/3/17"
+  }
+ },
+ "d0a2c70895": {
+  "instruction": {
+   "departing date": "2/28/17",
+   "returning date": "3/9/17",
+   "ANSWER": "JetBlue Airways 89.40"
+  }
+ },
+ "844808046a": {
+  "instruction": {
+   "returning date": "5/17/17",
+   "departing date": "4/29/17",
+   "ANSWER": "JetBlue Airways 116.40"
+  }
+ },
+ "31492526ad": {
+  "instruction": {
+   "departing date": "8/22/17",
+   "returning date": "9/7/17",
+   "ANSWER": "106.40"
+  }
+ },
+ "05200ffdc0": {
+  "instruction": {
+   "departing date": "7/19/17",
+   "returning date": "7/26/17",
+   "ANSWER": "160.40"
+  }
+ },
+ "4e4162e38c": {
+  "instruction": {
+   "departing date": "4/5/17",
+   "returning date": "4/9/17"
+  }
+ },
+ "4c92268a61": {
+  "instruction": {
+   "departing date": "5/18/17",
+   "returning date": "5/20/17",
+   "ANSWER": "119.40"
+  }
+ },
+ "963576deef": {
+  "instruction": {
+   "departing date": "10/8/17",
+   "returning date": "10/15/17"
+  }
+ },
+ "130cad2ee9": {
+  "instruction": {
+   "departing date": "4/4/17",
+   "returning date": "4/12/17",
+   "ANSWER": "Flight 580, JetBlue Airways"
+  }
+ },
+ "b17598c852": {
+  "instruction": {
+   "departing date": "2/5/18",
+   "returning date": "2/5/18"
+  }
+ },
+ "f37a34bde0": {
+  "instruction": {
+   "departing date": "20/4/17",
+   "returning date": "20/5/17",
+   "ANSWER": "JetBlue Airways"
+  }
+ },
+ "e9f0843a20": {
+  "instruction": {
+   "returning date": "20/9/17",
+   "departing date": "12/7/17",
+   "ANSWER": "JetBlue Airways"
+  }
+ },
+ "717121a002": {
+  "instruction": {
+   "returning date": "4/27/17",
+   "departing date": "4/5/17",
+   "ANSWER": "120.40"
+  }
+ },
+ "26539f2821": {
+  "instruction": {
+   "departing date": "2/7/17",
+   "returning date": "17/11/17",
+   "ANSWER": "American Airlines"
+  }
+ },
+ "add9507f07": {
+  "instruction": {
+   "departing date": "5/30/17",
+   "returning date": "6/6/17"
+  }
+ },
+ "5e1191a7e6": {
+  "instruction": {
+   "returning date": "7/2/17",
+   "departing date": "6/28/17",
+   "ANSWER": "173.40 United"
+  }
+ }
+}

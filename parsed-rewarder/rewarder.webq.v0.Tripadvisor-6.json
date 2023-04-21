@@ -1,0 +1,1152 @@
+{
+ "a551654cc5": {
+  "instruction": {
+   "number of bedroom": "1",
+   "$ rates per day": "100",
+   "location": "chicago",
+   "ANSWER": "Listing #FKN6944110 "
+  }
+ },
+ "59df36f2bc": {
+  "instruction": {
+   "type of food": "Mexican ",
+   "ANSWER": "Velvet Taco Chicago",
+   "location": "Chicago, IL",
+   "price": "Cheap Eats"
+  }
+ },
+ "ec5168dd7b": {
+  "instruction": {
+   "$ rates per day": "$250",
+   "location": "Miami Beach",
+   "number of bedroom": "1 bedroom"
+  }
+ },
+ "3dd064cf74": {
+  "instruction": {
+   "type of food": "Chinese",
+   "location": "Stillwater, OK",
+   "price": "cheap"
+  }
+ },
+ "1e7520cbf3": {
+  "instruction": {
+   "type of food": "Japanese",
+   "ANSWER": "Saison",
+   "location": "San Francisco",
+   "price": "expensive"
+  }
+ },
+ "890d6b36c1": {
+  "instruction": {
+   "type of food": "Barbeque",
+   "location": "Sherman, TX",
+   "price": "expensive"
+  }
+ },
+ "9272d5ab6d": {
+  "instruction": {
+   "type of food": "Fast Food",
+   "location": "Los Angeles, CA",
+   "price": "cheap"
+  }
+ },
+ "89050b4f20": {
+  "instruction": {
+   "type of food": "Pizza",
+   "location": "Allen, TX",
+   "price": "cheap"
+  }
+ },
+ "a287c30f3f": {
+  "instruction": {
+   "type of food": "Thai",
+   "location": "Henrico,VA",
+   "price": "mid-range"
+  }
+ },
+ "67eb7c35a8": {
+  "instruction": {
+   "type of food": "American",
+   "location": "Plano, TX",
+   "price": "expensive"
+  }
+ },
+ "34fce7ba46": {
+  "instruction": {
+   "number of bedroom": "2",
+   "$ rates per day": "150",
+   "location": "Los Angeles",
+   "ANSWER": "LOVELY 2+2 APT WITH POOL+BBQ+2PKGS+-WALK-OF-FAME"
+  }
+ },
+ "095f6654fa": {
+  "instruction": {
+   "type of food": "Fusion",
+   "ANSWER": "Zenshin",
+   "location": "Las Vegas, NV",
+   "price": "Mid-Range"
+  }
+ },
+ "dd6a498a30": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Thai Spice",
+   "location": "Corpus Christi, TX",
+   "price": "Mid Range"
+  }
+ },
+ "e47079717c": {
+  "instruction": {
+   "number of bedroom": "1 bedroom",
+   "location": "Gatlinburg",
+   "$ rates per day": "$250"
+  }
+ },
+ "1eddd0696c": {
+  "instruction": {
+   "number of bedroom": "2 bedroom",
+   "location": "Siesta Key",
+   "$ rates per day": "$350"
+  }
+ },
+ "ec307aaacf": {
+  "instruction": {
+   "type of food": "Vietnamese",
+   "ANSWER": "Miss Saigon",
+   "location": "San Francisco",
+   "price": "cheap"
+  }
+ },
+ "63d6b1cb4d": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Juliana's Pizza ",
+   "location": "New York, NY",
+   "price": "mid-range"
+  }
+ },
+ "ddf74d3c2a": {
+  "instruction": {
+   "type of food": "Lebanese",
+   "ANSWER": "Kuzina Lebanese Grill",
+   "location": "Corpus Christi, TX",
+   "price": "Mid Range"
+  }
+ },
+ "258f8c2df1": {
+  "instruction": {
+   "number of bedroom": "1 bedroom",
+   "location": "Miami Beach",
+   "$ rates per day": "$250"
+  }
+ },
+ "61fb2bce76": {
+  "instruction": {
+   "number of bedroom": "1",
+   "$ rates per day": "100",
+   "location": "Paris",
+   "ANSWER": "Central Paris genuine apartment rental Paris"
+  }
+ },
+ "579ae73558": {
+  "instruction": {
+   "type of food": "Sushi",
+   "ANSWER": "Sushi Takatsu",
+   "location": "Minneapolis, MN",
+   "price": "Cheap Eats"
+  }
+ },
+ "8c07ad86f3": {
+  "instruction": {
+   "number of bedroom": "2 bedroom",
+   "location": "Gatlinburg",
+   "$ rates per day": "$300"
+  }
+ },
+ "bfb0183ff8": {
+  "instruction": {
+   "type of food": "French",
+   "ANSWER": "Les Apotres de Pigalle",
+   "location": "Paris, France",
+   "price": "mid-range"
+  }
+ },
+ "7df20ceb10": {
+  "instruction": {
+   "number of bedroom": "1",
+   "$ rates per day": "150",
+   "location": "Las Vegas",
+   "ANSWER": "Vdara Suite"
+  }
+ },
+ "247e451f44": {
+  "instruction": {
+   "type of food": "American",
+   "ANSWER": "The Brook",
+   "location": "Brockton, MA",
+   "price": "mid-range"
+  }
+ },
+ "ba1fd2b2a5": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Thai Pepper",
+   "location": "Las Vegas, NV",
+   "price": "Cheap Eats"
+  }
+ },
+ "cc26df09e7": {
+  "instruction": {
+   "number of bedroom": "1 bedroom",
+   "$ rates per day": "$190",
+   "location": "Las Vegas",
+   "ANSWER": "Venetian Resort Hotel"
+  }
+ },
+ "7fe5060316": {
+  "instruction": {
+   "type of food": "Korean",
+   "ANSWER": "Big Bowl Korean BBQ",
+   "location": "Corpus Christi, TX",
+   "price": "Cheap"
+  }
+ },
+ "77a7152e70": {
+  "instruction": {
+   "type of food": "brunch",
+   "ANSWER": "The Farmer's Daughter",
+   "location": "Easton, MA",
+   "price": "mid-range"
+  }
+ },
+ "34abc3f888": {
+  "instruction": {
+   "$ rates per day": "$250",
+   "location": "Siesta Key",
+   "number of bedroom": "1 bedroom"
+  }
+ },
+ "bc03b408d5": {
+  "instruction": {
+   "number of bedroom": "2",
+   "$ rates per day": "100",
+   "location": "Tokyo",
+   "ANSWER": "Awesome 2 Japanese Gardens by walk, Yamanote-line"
+  }
+ },
+ "fc7a9b53c7": {
+  "instruction": {
+   "type of food": "Peruvian",
+   "ANSWER": "Flor de Mayo",
+   "location": "NYC",
+   "price": "cheap"
+  }
+ },
+ "ca893e05bc": {
+  "instruction": {
+   "number of bedroom": "3",
+   "$ rates per day": "150",
+   "location": "Jamaica",
+   "ANSWER": "Island Treasure Villas"
+  }
+ },
+ "90da06eb9c": {
+  "instruction": {
+   "type of food": "Chinese",
+   "location": "Cleveland, OH",
+   "price": "mid-range"
+  }
+ },
+ "e9a83ba6b9": {
+  "instruction": {
+   "type of food": "Sushi",
+   "location": "Jacksonville, FL",
+   "price": "cheap"
+  }
+ },
+ "c61c79d965": {
+  "instruction": {
+   "type of food": "Asian",
+   "ANSWER": "Arawan Thai Bistro and Dessert",
+   "location": "Las Vegas, NV",
+   "price": "mid-range"
+  }
+ },
+ "dbe7e58dde": {
+  "instruction": {
+   "number of bedroom": "3 bedroom",
+   "$ rates per day": "$122",
+   "location": "Las Vegas",
+   "ANSWER": "SLS Las Vegas Hotel & Casino"
+  }
+ },
+ "1a7e640f10": {
+  "instruction": {
+   "type of food": "Ethiopian",
+   "location": "Colorado Springs, CO",
+   "price": "mid-range"
+  }
+ },
+ "76730b8f4a": {
+  "instruction": {
+   "number of bedroom": "1 bedroom",
+   "location": "Siesta Key",
+   "$ rates per day": "$250"
+  }
+ },
+ "22c382bccc": {
+  "instruction": {
+   "number of bedroom": "1",
+   "$ rates per day": "200",
+   "location": "red lodge",
+   "ANSWER": "Listing #FKN8579199 "
+  }
+ },
+ "571a56882e": {
+  "instruction": {
+   "number of bedroom": "2 bedroom",
+   "$ rates per day": "$239",
+   "location": "Los Angeles",
+   "ANSWER": "The Redbury Hollywood"
+  }
+ },
+ "5e85f75147": {
+  "instruction": {
+   "number of bedroom": "5",
+   "$ rates per day": "100",
+   "location": "Austin",
+   "ANSWER": "Guest Home Getaways"
+  }
+ },
+ "3d3a828088": {
+  "instruction": {
+   "type of food": "Indian",
+   "location": "Las Vegas, NV",
+   "price": "mid-range"
+  }
+ },
+ "78113cdf64": {
+  "instruction": {
+   "type of food": "Tex-Mex",
+   "location": "Virginia Beach , VA",
+   "price": "mid-range"
+  }
+ },
+ "d84dd29f58": {
+  "instruction": {
+   "type of food": "Mexican",
+   "location": "Pitman, NJ",
+   "price": "cheap"
+  }
+ },
+ "ac590dec06": {
+  "instruction": {
+   "type of food": "Fried Chicken",
+   "ANSWER": "Popeye's",
+   "location": "Brockton, MA",
+   "price": "cheap"
+  }
+ },
+ "2d3d4e5335": {
+  "instruction": {
+   "number of bedroom": "2 bedroom",
+   "$ rates per day": "$259",
+   "location": "Boston, Massachusetts",
+   "ANSWER": "Seaport Boston Hotel"
+  }
+ },
+ "00f9ab803f": {
+  "instruction": {
+   "type of food": "banh mi",
+   "ANSWER": "N&H Subs",
+   "location": "Randolph, MA",
+   "price": "cheap"
+  }
+ },
+ "a43cad6506": {
+  "instruction": {
+   "number of bedroom": "1 bedroom",
+   "$ rates per day": "$413",
+   "location": "Los Angeles",
+   "ANSWER": "Shore Hotel"
+  }
+ },
+ "6bddbbe5a9": {
+  "instruction": {
+   "type of food": "Italian",
+   "location": "McKinney, TX",
+   "price": "mid-range"
+  }
+ },
+ "92b57d8510": {
+  "instruction": {
+   "type of food": "French",
+   "ANSWER": "Perch",
+   "location": "Los Angeles, CA",
+   "price": "mid-range"
+  }
+ },
+ "20370d078f": {
+  "instruction": {
+   "type of food": "Italian",
+   "location": "Madison, WI",
+   "price": "fine dining"
+  }
+ },
+ "0b25d4e883": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": "Fuego Bistro",
+   "location": "Phoenix, AZ",
+   "price": "mid-range"
+  }
+ },
+ "bc563ec669": {
+  "instruction": {
+   "number of bedroom": "2 bedroom",
+   "$ rates per day": "$91",
+   "location": "Newark Liberty Intl Airport, Newark",
+   "ANSWER": "Holiday Inn Newark Airport"
+  }
+ },
+ "98f13c8ae1": {
+  "instruction": {
+   "type of food": "Sushi",
+   "ANSWER": "Takeniwa Asian Fusion Bistro",
+   "location": "Corpus Christi, TX",
+   "price": "Fine Dining"
+  }
+ },
+ "dba1d3e63f": {
+  "instruction": {
+   "number of bedroom": "2",
+   "$ rates per day": "75",
+   "location": "myrtle beach",
+   "ANSWER": "Listing #FKN7226083 "
+  }
+ },
+ "4829bdae1c": {
+  "instruction": {
+   "type of food": "Tex-Mex",
+   "ANSWER": "Kiko's Mexican Food",
+   "location": "Corpus Christi, TX",
+   "price": "Mid Range"
+  }
+ },
+ "76d886a967": {
+  "instruction": {
+   "type of food": "Chinese",
+   "ANSWER": "The Pearl Chinese and Thai",
+   "location": "Alpharetta, GA",
+   "price": "cheap"
+  }
+ },
+ "117f3c7a14": {
+  "instruction": {
+   "type of food": "Greek",
+   "location": "Atlanta, GA",
+   "price": "fine dining"
+  }
+ },
+ "bca848bea1": {
+  "instruction": {
+   "number of bedroom": "1",
+   "$ rates per day": "50",
+   "location": "st louis",
+   "ANSWER": "Listing #HA7606670 "
+  }
+ },
+ "10a1aa69eb": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Bongiorno's Italian Deli and Pizzeria",
+   "location": "Chicago",
+   "price": "cheap"
+  }
+ },
+ "e301849816": {
+  "instruction": {
+   "type of food": "American",
+   "ANSWER": "Pappas Bros. Steakhouse",
+   "location": "Dallas, Tx",
+   "price": "fine dining"
+  }
+ },
+ "aab527ea98": {
+  "instruction": {
+   "type of food": "Tex-Mex",
+   "ANSWER": "Primo's Tex-Mex Bar and Grille",
+   "location": "Garland, TX",
+   "price": "mid-range"
+  }
+ },
+ "47e96d3d4a": {
+  "instruction": {
+   "number of bedroom": "2 bedroom",
+   "location": "Daytona Beach",
+   "$ rates per day": "$300"
+  }
+ },
+ "fb55b1f358": {
+  "instruction": {
+   "type of food": "Pho",
+   "location": "Virginia Beach,VA",
+   "price": "cheap"
+  }
+ },
+ "418a2812c3": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "The Italian Homemade Company",
+   "location": "San Francisco, Ca",
+   "price": "mid-range"
+  }
+ },
+ "4a3a4869f2": {
+  "instruction": {
+   "type of food": "Korean",
+   "ANSWER": "Kang Seo Restaurant",
+   "location": "Suwanee, GA",
+   "price": "mid-range"
+  }
+ },
+ "d6830f8068": {
+  "instruction": {
+   "$ rates per day": "$300",
+   "location": "Gatlinburg",
+   "number of bedroom": "2 bedroom"
+  }
+ },
+ "19ea82880b": {
+  "instruction": {
+   "number of bedroom": "4",
+   "$ rates per day": "325",
+   "location": "atlanta",
+   "ANSWER": "Listing #FKN6942591 "
+  }
+ },
+ "3579fabd35": {
+  "instruction": {
+   "number of bedroom": "3 bedroom",
+   "location": "Puerto Rico",
+   "$ rates per day": "$400"
+  }
+ },
+ "9f65e499f5": {
+  "instruction": {
+   "$ rates per day": "$400",
+   "location": "Puerto Rico",
+   "number of bedroom": "3 bedroom"
+  }
+ },
+ "9f267d6cda": {
+  "instruction": {
+   "type of food": "Greek",
+   "ANSWER": "Cous Cous Mediterranean Cafe",
+   "location": "Las Vegas, NV",
+   "price": "cheap"
+  }
+ },
+ "06f7d7c60e": {
+  "instruction": {
+   "type of food": "Wine Bar",
+   "ANSWER": "MAX's Wine Dive",
+   "location": "Dallas, TX",
+   "price": "mid-range"
+  }
+ },
+ "2d9c11324d": {
+  "instruction": {
+   "type of food": "Pizza",
+   "location": "Henrico,VA",
+   "price": "cheap"
+  }
+ },
+ "206ed00c6d": {
+  "instruction": {
+   "number of bedroom": "2 bedroom",
+   "$ rates per day": "$52",
+   "location": "New Jersey, United States",
+   "ANSWER": "Knights Inn Wrightstown"
+  }
+ },
+ "9d1cd36eea": {
+  "instruction": {
+   "type of food": "Greek",
+   "ANSWER": "Greek Marina",
+   "location": "Honolulu, HI",
+   "price": "Mid-Range"
+  }
+ },
+ "539211a66d": {
+  "instruction": {
+   "type of food": "Brazilian",
+   "ANSWER": "Mainha",
+   "location": "Avon, MA",
+   "price": "cheap"
+  }
+ },
+ "c302dc3e0f": {
+  "instruction": {
+   "type of food": "Seafood",
+   "location": "Albany, NY",
+   "price": "cheap"
+  }
+ },
+ "dbdb9e4686": {
+  "instruction": {
+   "number of bedroom": "2",
+   "$ rates per day": "215",
+   "location": "savannah",
+   "ANSWER": "Listing #FKN7497266 "
+  }
+ },
+ "6019acfa70": {
+  "instruction": {
+   "type of food": "Steakhouse",
+   "ANSWER": "Greystone Prime SteakHouse & Seafood",
+   "location": "San Diego, CA",
+   "price": "Fine Dining"
+  }
+ },
+ "dec7b8d0df": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Spiral",
+   "location": "Manila, Philippines",
+   "price": "fine dining"
+  }
+ },
+ "cec7a351bd": {
+  "instruction": {
+   "number of bedroom": "4",
+   "$ rates per day": "425",
+   "location": "nashville",
+   "ANSWER": "Listing #FKN7421610 "
+  }
+ },
+ "a185792478": {
+  "instruction": {
+   "number of bedroom": "3 bedroom",
+   "location": "Maui",
+   "$ rates per day": "$500"
+  }
+ },
+ "9edbc00530": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Bellino's Ristorante Italiano",
+   "location": "Corpus Christi, TX",
+   "price": "Fine Dining"
+  }
+ },
+ "9be1894932": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": "Bella Luna",
+   "location": "Boston",
+   "price": "mid-range"
+  }
+ },
+ "7a6a172a9b": {
+  "instruction": {
+   "$ rates per day": "$600",
+   "location": "San Francisco",
+   "number of bedroom": "3 bedroom"
+  }
+ },
+ "5514a355e1": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": "Velvet Taco Chicago",
+   "location": "Chicago, Il",
+   "price": "cheap eats"
+  }
+ },
+ "eff45d018b": {
+  "instruction": {
+   "type of food": "Seafood",
+   "ANSWER": "Bohemian House",
+   "location": "Chicago",
+   "price": "cheap"
+  }
+ },
+ "b3d1ec8677": {
+  "instruction": {
+   "number of bedroom": "4",
+   "$ rates per day": "100",
+   "location": "Austin",
+   "ANSWER": "Allandale Rentals"
+  }
+ },
+ "bc73d12b10": {
+  "instruction": {
+   "type of food": "French",
+   "location": "Tyler, TX",
+   "price": "mid-range"
+  }
+ },
+ "985b5e85c2": {
+  "instruction": {
+   "number of bedroom": "2 bedroom",
+   "$ rates per day": "$162",
+   "location": "Narragansett, Rhode Island",
+   "ANSWER": "The Break"
+  }
+ },
+ "2e4cd864bd": {
+  "instruction": {
+   "type of food": "Tex-Mex",
+   "ANSWER": "56 Kitchen",
+   "location": "Solon, OH",
+   "price": "cheap"
+  }
+ },
+ "5d7b9d5782": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": "Joe's Bakery & Mexican Food",
+   "location": "Austin",
+   "price": "mid-range"
+  }
+ },
+ "00efd4697d": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Penguin Pizza",
+   "location": "Boston, MA",
+   "price": "mid-range"
+  }
+ },
+ "14b60045f8": {
+  "instruction": {
+   "type of food": "Italian",
+   "location": "Norfolk, VA",
+   "price": "Fine Dining"
+  }
+ },
+ "d78b1e08bc": {
+  "instruction": {
+   "number of bedroom": "2",
+   "$ rates per day": "100",
+   "location": "New York",
+   "ANSWER": "Nice 2 Bedrooms fits 6 people"
+  }
+ },
+ "94f8e69ca5": {
+  "instruction": {
+   "number of bedroom": "3",
+   "$ rates per day": "200",
+   "location": "Rome",
+   "ANSWER": "Rosy's dream al Vaticano"
+  }
+ },
+ "cb3df3e8e7": {
+  "instruction": {
+   "$ rates per day": "$500",
+   "location": "Maui",
+   "number of bedroom": "3 bedroom"
+  }
+ },
+ "2688380f12": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Numero 28 Pizzeria",
+   "location": "New York City, NY",
+   "price": "Mid-Range"
+  }
+ },
+ "b414fa711c": {
+  "instruction": {
+   "number of bedroom": "5",
+   "$ rates per day": "300",
+   "location": "celebration",
+   "ANSWER": "Listing #FKN7483691 "
+  }
+ },
+ "315a38f204": {
+  "instruction": {
+   "type of food": "Steak",
+   "ANSWER": "The Roswell Teahouse",
+   "location": "Roswell, GA",
+   "price": "high-end"
+  }
+ },
+ "d54d3c3b4c": {
+  "instruction": {
+   "type of food": "Barbecue",
+   "ANSWER": "Me B-B-Q",
+   "location": "Honolulu, HI",
+   "price": "Cheap Eats"
+  }
+ },
+ "7fd865282b": {
+  "instruction": {
+   "type of food": "Seafood",
+   "ANSWER": "Hank's Seafood Restaurant",
+   "location": "Charleston, S.C.",
+   "price": "fine dining"
+  }
+ },
+ "db1d23d161": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": "Meso Maya",
+   "location": "Dallas, Tx",
+   "price": "mid-range"
+  }
+ },
+ "178ecdf1b3": {
+  "instruction": {
+   "number of bedroom": "3 bedroom",
+   "location": "Big Bear Region",
+   "$ rates per day": "$500"
+  }
+ },
+ "45d5f241c0": {
+  "instruction": {
+   "$ rates per day": "$300",
+   "location": "Daytona Beach",
+   "number of bedroom": "2 bedroom"
+  }
+ },
+ "bf4a4312ac": {
+  "instruction": {
+   "type of food": "Japanese",
+   "ANSWER": "Dojima-Ann",
+   "location": "San Francisco",
+   "price": "cheap"
+  }
+ },
+ "05ecb696f2": {
+  "instruction": {
+   "number of bedroom": "3 bedroom",
+   "location": "San Francisco",
+   "$ rates per day": "$600"
+  }
+ },
+ "aef7dfa878": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Ginos New York Pizza",
+   "location": "Norcross, GA",
+   "price": "mid-range"
+  }
+ },
+ "8789468ba4": {
+  "instruction": {
+   "type of food": "Indian",
+   "location": "Gainesville, TX",
+   "price": "mid-range"
+  }
+ },
+ "6477c3151c": {
+  "instruction": {
+   "type of food": "Mexican",
+   "location": "Indianapolis, IN",
+   "price": "cheap"
+  }
+ },
+ "a1d3816dd6": {
+  "instruction": {
+   "type of food": "Southern",
+   "ANSWER": "Nolan's Restaurant ",
+   "location": "Corpus Christi, TX",
+   "price": "Cheap"
+  }
+ },
+ "b70cd313c4": {
+  "instruction": {
+   "type of food": "Cajun",
+   "location": "Houston, TX",
+   "price": "mid-range"
+  }
+ },
+ "f0eaaffca0": {
+  "instruction": {
+   "type of food": "Spanish",
+   "ANSWER": "Toro Toro Restaurant & Bar",
+   "location": "Miami, Fl",
+   "price": "mid-range"
+  }
+ },
+ "c73f2d2730": {
+  "instruction": {
+   "type of food": "Steak",
+   "ANSWER": "Hunan By the Falls",
+   "location": "Chagrin Falls, OH",
+   "price": "mid-range"
+  }
+ },
+ "af543e7b9d": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Easy Pie",
+   "location": "Braintree, MA",
+   "price": "mid-range"
+  }
+ },
+ "374335b39b": {
+  "instruction": {
+   "type of food": "Malaysian",
+   "ANSWER": "Rasa Sayang Restaurant",
+   "location": "Roswell, GA",
+   "price": "mid-range"
+  }
+ },
+ "873e5751dd": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Bricca",
+   "location": "Boston, MA",
+   "price": "expensive"
+  }
+ },
+ "11f361d58c": {
+  "instruction": {
+   "type of food": "Indian",
+   "ANSWER": "The Drunken Munkey",
+   "location": "NYC",
+   "price": "mid-range"
+  }
+ },
+ "423797e457": {
+  "instruction": {
+   "type of food": "International",
+   "ANSWER": "Alinea",
+   "location": "Chicago, IL",
+   "price": "Fine Dining"
+  }
+ },
+ "f50dcd4c90": {
+  "instruction": {
+   "number of bedroom": "3",
+   "$ rates per day": "150",
+   "location": "kiawah island",
+   "ANSWER": "Listing #HA8534765 "
+  }
+ },
+ "d6c6c7ab41": {
+  "instruction": {
+   "$ rates per day": "$250",
+   "location": "Gatlinburg",
+   "number of bedroom": "1 bedroom"
+  }
+ },
+ "e769dfee8b": {
+  "instruction": {
+   "number of bedroom": "2",
+   "$ rates per day": "150",
+   "location": "Barcelona",
+   "ANSWER": "MONTABER"
+  }
+ },
+ "6f223d79da": {
+  "instruction": {
+   "number of bedroom": "4",
+   "$ rates per day": "575",
+   "location": "hilton head",
+   "ANSWER": "Listing #FKN5767106 "
+  }
+ },
+ "7b1964b94f": {
+  "instruction": {
+   "type of food": "French",
+   "ANSWER": "Bon A Petit",
+   "location": "Corpus Christi, TX",
+   "price": "Fine Dining"
+  }
+ },
+ "af6674a562": {
+  "instruction": {
+   "type of food": "Pub",
+   "ANSWER": "Ballast Point Tasting Room and Kitchen",
+   "location": "San Diego, CA",
+   "price": "Mid-Range"
+  }
+ },
+ "a285819c70": {
+  "instruction": {
+   "type of food": "Korean",
+   "ANSWER": "Kaju Tofu House",
+   "location": "Boston, MA",
+   "price": "cheap"
+  }
+ },
+ "08b82219a7": {
+  "instruction": {
+   "type of food": "Seafood",
+   "location": "Richmond,VA",
+   "price": "mid-range"
+  }
+ },
+ "8747acca44": {
+  "instruction": {
+   "type of food": "American",
+   "ANSWER": "The Capital Grille ",
+   "location": "Miami, Fl",
+   "price": "fine dining"
+  }
+ },
+ "7f43847a86": {
+  "instruction": {
+   "type of food": "Pub",
+   "location": "Norfolk,VA",
+   "price": "cheap"
+  }
+ },
+ "49ede75cc6": {
+  "instruction": {
+   "type of food": "poutine",
+   "ANSWER": "Grub",
+   "location": "Boston, MA",
+   "price": "cheap"
+  }
+ },
+ "4fb1cffa8e": {
+  "instruction": {
+   "type of food": "Viatnamese",
+   "ANSWER": "Hu-Dat House of Noodles",
+   "location": "Corpus Christi, TX",
+   "price": "Mid Range"
+  }
+ },
+ "6518a8b142": {
+  "instruction": {
+   "type of food": "Cafe",
+   "ANSWER": "Les Ba'get Vietnamese Cafe",
+   "location": "Houston, TX",
+   "price": "cheap"
+  }
+ },
+ "9776da2a33": {
+  "instruction": {
+   "type of food": "Chinese",
+   "ANSWER": "Z Counter",
+   "location": "Corpus Christi, TX",
+   "price": "Cheap"
+  }
+ },
+ "ce26b5dbf4": {
+  "instruction": {
+   "type of food": "Turkish",
+   "ANSWER": "Rumi Turkish Grill",
+   "location": "NYC",
+   "price": "mid-range"
+  }
+ },
+ "94faaefcf8": {
+  "instruction": {
+   "type of food": "Thai",
+   "location": "Oklahoma City, OK",
+   "price": "cheap"
+  }
+ },
+ "e16a2f9b46": {
+  "instruction": {
+   "$ rates per day": "$500",
+   "location": "Big Bear Region",
+   "number of bedroom": "3 bedroom"
+  }
+ },
+ "26066f0f33": {
+  "instruction": {
+   "type of food": "mexican",
+   "location": "Richmond,VA",
+   "price": "cheap"
+  }
+ },
+ "e1e922a4c3": {
+  "instruction": {
+   "type of food": "American",
+   "ANSWER": "Lincoln Square Steak",
+   "location": "New York, NY ",
+   "price": "fine dining"
+  }
+ },
+ "c2bcbd31bc": {
+  "instruction": {
+   "type of food": "Japanese",
+   "location": "Oklahoma City, OK",
+   "price": "mid-range"
+  }
+ },
+ "e50b95f51b": {
+  "instruction": {
+   "type of food": "Barbeque",
+   "location": "Arlington, VA",
+   "price": "Mid-range"
+  }
+ },
+ "110bd708bf": {
+  "instruction": {
+   "type of food": "Jamacian",
+   "location": "Richmond,VA",
+   "price": "cheap"
+  }
+ },
+ "9463a4a51d": {
+  "instruction": {
+   "$ rates per day": "$350",
+   "location": "Siesta Key",
+   "number of bedroom": "2 bedroom"
+  }
+ },
+ "15d824f99f": {
+  "instruction": {
+   "number of bedroom": "1 bedroom",
+   "$ rates per day": "$149",
+   "location": "Calistoga, California",
+   "ANSWER": "EuroSpa & Inn"
+  }
+ },
+ "df50b94f23": {
+  "instruction": {
+   "number of bedroom": "2 bedroom",
+   "$ rates per day": "$70",
+   "location": "Catskill, New York",
+   "ANSWER": "B&B Lounge of Catskill"
+  }
+ },
+ "59d4b0f63a": {
+  "instruction": {
+   "type of food": "American",
+   "ANSWER": "Bone's Restaurant",
+   "location": "Atlanta, Ga",
+   "price": "fine dining"
+  }
+ },
+ "b76f7087ba": {
+  "instruction": {
+   "type of food": "Amreican",
+   "ANSWER": "Smoque BBQ",
+   "location": "Chicago, Il",
+   "price": "mid-range"
+  }
+ },
+ "470b8fd773": {
+  "instruction": {
+   "type of food": "Asian",
+   "ANSWER": "Chabaa Thai Cuisine",
+   "location": "San Francisco, Ca",
+   "price": "cheap eats"
+  }
+ },
+ "6ce93bcf64": {
+  "instruction": {
+   "type of food": "burgers",
+   "ANSWER": "Heff's Burgers",
+   "location": "Mesquite, TX",
+   "price": "cheap"
+  }
+ },
+ "bd4c850ad1": {
+  "instruction": {
+   "type of food": "Seafood",
+   "ANSWER": "This Is It BBQ & Seafood",
+   "location": "Atlanta, GA",
+   "price": "mid-range"
+  }
+ }
+}

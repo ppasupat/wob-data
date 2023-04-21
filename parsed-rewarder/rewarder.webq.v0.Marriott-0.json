@@ -1,0 +1,1562 @@
+{
+ "7c3addc1a5": {
+  "instruction": {
+   "location": "Tallahassee",
+   "amount of rooms": "1",
+   "end date": "02/26",
+   "number of people": "2",
+   "ANSWER": "Residence Inn Tallahassee Universities at the Capitol",
+   "begin date": "02/19"
+  }
+ },
+ "fb86d6cb2d": {
+  "instruction": {
+   "location": "Dallas, Tx",
+   "amount of rooms": "3",
+   "end date": "April 16, 2017",
+   "number of people": "6",
+   "ANSWER": "Fairfield Inn & Suites Dallas Park Central",
+   "begin date": "April 14, 2017"
+  }
+ },
+ "d356472884": {
+  "instruction": {
+   "begin date": "02/19",
+   "amount of rooms": "2",
+   "number of people": "4",
+   "end date": "02/20",
+   "location": "Pensacola",
+   "ANSWER": "Residence Inn Pensacola Downtown"
+  }
+ },
+ "a147634c8b": {
+  "instruction": {
+   "location": "San Francisco, CA",
+   "amount of rooms": "1",
+   "end date": "July 5, 2017",
+   "number of people": "2",
+   "ANSWER": "San Francisco Airport Marriott Waterfront ",
+   "begin date": "July 1, 2017"
+  }
+ },
+ "7dd1094deb": {
+  "instruction": {
+   "geographic location": "Phoenix, AZ",
+   "number of rooms": "3",
+   "ending date": "2/15/2017",
+   "beginning date": "2/14/2017"
+  }
+ },
+ "46573fce54": {
+  "instruction": {
+   "location": "Boston",
+   "amount of rooms": "1",
+   "end date": "02/24",
+   "number of people": "1",
+   "ANSWER": "Boston Marriott Long Wharf",
+   "begin date": "02/20"
+  }
+ },
+ "10b29f88f0": {
+  "instruction": {
+   "location": "Toledo",
+   "amount of rooms": "1",
+   "end date": "02/28",
+   "number of people": "1",
+   "ANSWER": "Fairfield Inn & Suites Toledo North",
+   "begin date": "02/23"
+  }
+ },
+ "17dacf8950": {
+  "instruction": {
+   "end date": "02/04",
+   "number of people": "3",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "amount of rooms": "1"
+  }
+ },
+ "ee7d53e763": {
+  "instruction": {
+   "location": "seattle",
+   "amount of rooms": "2",
+   "end date": "2/23",
+   "number of people": "2",
+   "ANSWER": "Courtyard Seattle Downtown/Pioneer Square ",
+   "begin date": "2/21"
+  }
+ },
+ "8171408298": {
+  "instruction": {
+   "location": "Boise",
+   "amount of rooms": "1",
+   "end date": "03/13",
+   "number of people": "1",
+   "ANSWER": "Courtyard Boise Downtown",
+   "begin date": "03/8"
+  }
+ },
+ "f1a7cfc3a5": {
+  "instruction": {
+   "begin date": "Mar 17,2017",
+   "amount of rooms": "1",
+   "number of people": "1",
+   "end date": "Mar 18,2017",
+   "location": "Mexico City, Mexico",
+   "ANSWER": "  JW Marriott Hotel Mexico City JW Marriott Hotel Mexico City"
+  }
+ },
+ "60b8271fd4": {
+  "instruction": {
+   "geographic location": "Kansas City, KS",
+   "number of rooms": "3",
+   "ending date": "2/14/2017",
+   "beginning date": "2/9/2017"
+  }
+ },
+ "4d2a99ba80": {
+  "instruction": {
+   "begin date": "April 5, 2017",
+   "amount of rooms": "1",
+   "number of people": "2",
+   "end date": "April 7, 2017",
+   "location": "Billings, MN",
+   "ANSWER": "  TownePlace Suites Billings TownePlace Suites Billings"
+  }
+ },
+ "b7f441138a": {
+  "instruction": {
+   "location": "Cleveland",
+   "amount of rooms": "1",
+   "end date": "02/25",
+   "number of people": "2",
+   "ANSWER": "Cleveland Marriott Downtown at Key Center",
+   "begin date": "02/21"
+  }
+ },
+ "eb39c02a87": {
+  "instruction": {
+   "begin date": "June 15, 2017",
+   "amount of rooms": "3",
+   "number of people": "8",
+   "end date": "June 21, 2017",
+   "location": "Tucson, AZ",
+   "ANSWER": "TownePlace Suites Tucson"
+  }
+ },
+ "aa81ebe016": {
+  "instruction": {
+   "begin date": "July 1, 2017",
+   "amount of rooms": "1",
+   "number of people": "2",
+   "end date": "July 5, 2017",
+   "location": "San Francisco, CA",
+   "ANSWER": "San Francisco Airport Marriott Waterfront "
+  }
+ },
+ "bb49fa8871": {
+  "instruction": {
+   "begin date": "02/19",
+   "amount of rooms": "1",
+   "number of people": "4",
+   "end date": "03/05",
+   "location": "Tallahassee",
+   "ANSWER": "Residence Inn Tallahassee Universities at the Capitol"
+  }
+ },
+ "c9b125c358": {
+  "instruction": {
+   "location": "Pittsburgh, PA",
+   "amount of rooms": "2",
+   "end date": "06/03",
+   "number of people": "6",
+   "ANSWER": "Residence Inn Pittsburgh University/Medical Center",
+   "begin date": "06/01"
+  }
+ },
+ "cbd6e6fe83": {
+  "instruction": {
+   "begin date": "April 28, 2017",
+   "amount of rooms": "2",
+   "number of people": "4",
+   "end date": "May 2, 2017",
+   "location": "Albuquerque, NM",
+   "ANSWER": "Residence Inn, Albuquerque North"
+  }
+ },
+ "7e652989a2": {
+  "instruction": {
+   "location": "Frankfurt, Germany",
+   "amount of rooms": "1",
+   "end date": "08/03",
+   "number of people": "1",
+   "ANSWER": "Frankfurt Marriott Hotel",
+   "begin date": "08/02"
+  }
+ },
+ "2539fae37c": {
+  "instruction": {
+   "location": "seattle",
+   "amount of rooms": "2",
+   "end date": "2/22",
+   "number of people": "1",
+   "ANSWER": "Courtyard Seattle Downtown/Pioneer Square ",
+   "begin date": "2/21"
+  }
+ },
+ "832bd6cf47": {
+  "instruction": {
+   "location": "Pensacola",
+   "amount of rooms": "1",
+   "end date": "02/20",
+   "number of people": "2",
+   "ANSWER": "Residence Inn Pensacola Downtown",
+   "begin date": "02/19"
+  }
+ },
+ "82eaa0372f": {
+  "instruction": {
+   "location": "Chicago",
+   "amount of rooms": "2",
+   "end date": "03/04",
+   "number of people": "2",
+   "ANSWER": "Residence Inn Chicago Downtown/Loop",
+   "begin date": "02/27"
+  }
+ },
+ "f5ed25c4c0": {
+  "instruction": {
+   "begin date": "02/19",
+   "amount of rooms": "1",
+   "number of people": "2",
+   "end date": "02/20",
+   "location": "Pensacola",
+   "ANSWER": "Residence Inn Pensacola Downtown"
+  }
+ },
+ "e6aa6e6207": {
+  "instruction": {
+   "location": "Northwest Florida Beaches International Airport (ECP) Panama City, Panama City, FL, USA",
+   "amount of rooms": "1",
+   "end date": "Mar 18,2017",
+   "number of people": "1",
+   "ANSWER": "Fairfield Inn & Suites Panama City Beach",
+   "begin date": "Mar 17,2017"
+  }
+ },
+ "a5502a9045": {
+  "instruction": {
+   "begin date": "02/27",
+   "amount of rooms": "1",
+   "number of people": "1",
+   "end date": "03/06",
+   "location": "Billings",
+   "ANSWER": "Residence Inn Billings"
+  }
+ },
+ "8493287330": {
+  "instruction": {
+   "location": "seattle",
+   "amount of rooms": "1",
+   "end date": "3/3",
+   "number of people": "6",
+   "ANSWER": "Residence Inn Seattle Downtown/Lake Union ",
+   "begin date": "2/25"
+  }
+ },
+ "ad4150ad99": {
+  "instruction": {
+   "end date": "02/03",
+   "number of people": "3",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "amount of rooms": "3"
+  }
+ },
+ "04d72ce702": {
+  "instruction": {
+   "location": "Albuquerque, NM",
+   "amount of rooms": "2",
+   "end date": "May 2, 2017",
+   "number of people": "4",
+   "ANSWER": "Residence Inn, Albuquerque North",
+   "begin date": "April 28, 2017"
+  }
+ },
+ "e3d6504965": {
+  "instruction": {
+   "location": "Marietta, GA",
+   "amount of rooms": "2",
+   "end date": "07/16",
+   "number of people": "2",
+   "ANSWER": "Courtyard Atlanta Marietta/I-75 North",
+   "begin date": "07/15"
+  }
+ },
+ "606e0823a9": {
+  "instruction": {
+   "end date": "02/04",
+   "number of people": "4",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "amount of rooms": "2"
+  }
+ },
+ "2a97b43fe0": {
+  "instruction": {
+   "begin date": "June 30, 2017",
+   "amount of rooms": "2",
+   "number of people": "3",
+   "end date": "July 9, 2017",
+   "location": "Portland, OR",
+   "ANSWER": "  Courtyard Portland Tigard Courtyard Portland Tigard"
+  }
+ },
+ "b1d3865925": {
+  "instruction": {
+   "geographic location": "San Francisco, CA",
+   "number of rooms": "2",
+   "ending date": "2/21/2017",
+   "beginning date": "2/14/2017"
+  }
+ },
+ "97eff2ae43": {
+  "instruction": {
+   "begin date": "Sept 1, 2017",
+   "amount of rooms": "1",
+   "number of people": "4",
+   "end date": "Sept 5, 2017",
+   "location": "Liberty, IL",
+   "ANSWER": "  Fairfield Inn & Suites Quincy Fairfield Inn & Suites Quincy"
+  }
+ },
+ "f29fb33a4f": {
+  "instruction": {
+   "location": "Tallahassee",
+   "amount of rooms": "1",
+   "end date": "03/05",
+   "number of people": "4",
+   "ANSWER": "Residence Inn Tallahassee Universities at the Capitol",
+   "begin date": "02/19"
+  }
+ },
+ "b3e99e1218": {
+  "instruction": {
+   "begin date": "02/20",
+   "amount of rooms": "1",
+   "number of people": "1",
+   "end date": "02/24",
+   "location": "Boston",
+   "ANSWER": "Boston Marriott Long Wharf"
+  }
+ },
+ "bb471e471d": {
+  "instruction": {
+   "end date": "02/04",
+   "amount of rooms": "1",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "number of people": "3"
+  }
+ },
+ "22da86f0c4": {
+  "instruction": {
+   "begin date": "02/19",
+   "amount of rooms": "1",
+   "number of people": "5",
+   "end date": "02/22",
+   "location": "Orlando",
+   "ANSWER": "Residence Inn Cape Canaveral Cocoa Beach"
+  }
+ },
+ "b8a9d9ec5f": {
+  "instruction": {
+   "location": "Colorado",
+   "amount of rooms": "1",
+   "end date": "Feb 27 ,2017",
+   "number of people": "1",
+   "ANSWER": "Residence Inn Colorado Springs South",
+   "begin date": "Feb 25 ,2017"
+  }
+ },
+ "2f45b1f908": {
+  "instruction": {
+   "location": "Pensacola",
+   "amount of rooms": "2",
+   "end date": "02/20",
+   "number of people": "4",
+   "ANSWER": "Residence Inn Pensacola Downtown",
+   "begin date": "02/19"
+  }
+ },
+ "99de1ea921": {
+  "instruction": {
+   "location": "Seattle, WA",
+   "amount of rooms": "1",
+   "end date": "April 23, 2017",
+   "number of people": "1",
+   "ANSWER": "  Residence Inn Seattle University District Residence Inn Seattle University District",
+   "begin date": "April 15, 2017"
+  }
+ },
+ "792fb4631d": {
+  "instruction": {
+   "location": "Miami, FL, USA",
+   "amount of rooms": "2",
+   "end date": "Mar 11,2017",
+   "number of people": "4",
+   "ANSWER": "JW Marriott Marquis Miami",
+   "begin date": "Mar 10,2017"
+  }
+ },
+ "dbaa53a1cb": {
+  "instruction": {
+   "begin date": "Mar 10,2017",
+   "amount of rooms": "2",
+   "number of people": "4",
+   "end date": "Mar 11,2017",
+   "location": "Miami, FL, USA",
+   "ANSWER": "JW Marriott Marquis Miami"
+  }
+ },
+ "3ec8f0bd45": {
+  "instruction": {
+   "location": "St Louis",
+   "amount of rooms": "1",
+   "end date": "03/08",
+   "number of people": "3",
+   "ANSWER": "Courtyard St. Louis Downtown/Convention Center",
+   "begin date": "03/03"
+  }
+ },
+ "d4f8e60835": {
+  "instruction": {
+   "end date": "02/04",
+   "number of people": "3",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "amount of rooms": "2"
+  }
+ },
+ "fdaa9d2026": {
+  "instruction": {
+   "location": "Grosvenor Square London",
+   "amount of rooms": "2",
+   "end date": "03/14",
+   "number of people": "4",
+   "ANSWER": "250 GBP/ night ",
+   "begin date": "03/13"
+  }
+ },
+ "13cddc0869": {
+  "instruction": {
+   "end date": "02/04",
+   "amount of rooms": "1",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "number of people": "1"
+  }
+ },
+ "ab31dbf77e": {
+  "instruction": {
+   "geographic location": "Dallas, TX",
+   "number of rooms": "1",
+   "ending date": "3/5/2017",
+   "beginning date": "3/3/2017"
+  }
+ },
+ "85402c3b1c": {
+  "instruction": {
+   "location": "Chicago, IL",
+   "amount of rooms": "3",
+   "end date": "07/26",
+   "number of people": "2",
+   "ANSWER": "Residence Inn Chicago Downtown/Loop",
+   "begin date": "07/23"
+  }
+ },
+ "fbec3859b1": {
+  "instruction": {
+   "begin date": "02/19",
+   "amount of rooms": "2",
+   "number of people": "2",
+   "end date": "02/26",
+   "location": "Orlando",
+   "ANSWER": "Fairfield Inn & Suites Orlando at SeaWorld"
+  }
+ },
+ "59cd84ec40": {
+  "instruction": {
+   "location": "paris",
+   "amount of rooms": "1",
+   "end date": "05/19",
+   "number of people": "2",
+   "ANSWER": "314 Euro/ night ",
+   "begin date": "05/15"
+  }
+ },
+ "e9751a17e3": {
+  "instruction": {
+   "geographic location": "Atlanta, GA",
+   "number of rooms": "1",
+   "ending date": "2/11/2017",
+   "beginning date": "2/10/2017"
+  }
+ },
+ "315f88facb": {
+  "instruction": {
+   "begin date": "02/19",
+   "amount of rooms": "3",
+   "number of people": "6",
+   "end date": "02/22",
+   "location": "Mobile",
+   "ANSWER": "TownePlace Suites Mobile"
+  }
+ },
+ "0411f5a833": {
+  "instruction": {
+   "location": "seattle",
+   "amount of rooms": "1",
+   "end date": "2/22",
+   "number of people": "1",
+   "ANSWER": "Courtyard Seattle Downtown/Pioneer Square ",
+   "begin date": "2/21"
+  }
+ },
+ "c445858e53": {
+  "instruction": {
+   "location": "New york",
+   "amount of rooms": "1",
+   "end date": "Feb 27 ,2017",
+   "number of people": "2",
+   "ANSWER": "Courtyard New York Manhattan/Fifth Avenue",
+   "begin date": "Feb 26 ,2017"
+  }
+ },
+ "ed24b2ec4f": {
+  "instruction": {
+   "begin date": "02/21",
+   "amount of rooms": "1",
+   "number of people": "1",
+   "end date": "02/27",
+   "location": "Vandalia",
+   "ANSWER": "Fairfield Inn & Suites Mount Vernon Rend Lake"
+  }
+ },
+ "9975d7e700": {
+  "instruction": {
+   "end date": "02/04",
+   "number of people": "2",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "amount of rooms": "1"
+  }
+ },
+ "79b330abb4": {
+  "instruction": {
+   "location": "Houston",
+   "amount of rooms": "3",
+   "end date": "Feb 21 ,2017",
+   "number of people": "2",
+   "ANSWER": "Residence Inn Houston Downtown/Convention Center",
+   "begin date": "Feb 20 ,2017"
+  }
+ },
+ "460e42e450": {
+  "instruction": {
+   "location": "Newark, NJ, USA",
+   "amount of rooms": "1",
+   "end date": "Mar 01,2017",
+   "number of people": "1",
+   "ANSWER": "Courtyard Newark Downtown ",
+   "begin date": "Feb 28,2017"
+  }
+ },
+ "5f6525bcb1": {
+  "instruction": {
+   "location": "Dallas",
+   "amount of rooms": "1",
+   "end date": "03/06/2017",
+   "number of people": "2",
+   "ANSWER": "Dallas Marriott City Center ",
+   "begin date": "03/05/2017"
+  }
+ },
+ "a9971f06c4": {
+  "instruction": {
+   "location": "seattle",
+   "amount of rooms": "1",
+   "end date": "2/23",
+   "number of people": "3",
+   "ANSWER": "Courtyard Seattle Downtown/Pioneer Square ",
+   "begin date": "2/21"
+  }
+ },
+ "9cb8884eb4": {
+  "instruction": {
+   "end date": "02/03",
+   "amount of rooms": "3",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "number of people": "3"
+  }
+ },
+ "012bba4f6d": {
+  "instruction": {
+   "location": "Arizona, turkey",
+   "amount of rooms": "3",
+   "end date": "04/19",
+   "number of people": "6",
+   "ANSWER": "155 USD / night ",
+   "begin date": "04/17"
+  }
+ },
+ "38b12a1006": {
+  "instruction": {
+   "begin date": "02/19",
+   "amount of rooms": "1",
+   "number of people": "2",
+   "end date": "02/26",
+   "location": "Tallahassee",
+   "ANSWER": "Residence Inn Tallahassee Universities at the Capitol"
+  }
+ },
+ "aaf378882e": {
+  "instruction": {
+   "location": "miami",
+   "amount of rooms": "1",
+   "end date": "04/16",
+   "number of people": "2",
+   "ANSWER": "180 USD/ night ",
+   "begin date": "04/13"
+  }
+ },
+ "d2652f2c17": {
+  "instruction": {
+   "begin date": "02/20",
+   "amount of rooms": "1",
+   "number of people": "1",
+   "end date": "02/24",
+   "location": "Buffalo",
+   "ANSWER": "Courtyard Buffalo Downtown/Canalside"
+  }
+ },
+ "fe26dec1ce": {
+  "instruction": {
+   "begin date": "April 14, 2017",
+   "amount of rooms": "3",
+   "number of people": "6",
+   "end date": "April 16, 2017",
+   "location": "Dallas, Tx",
+   "ANSWER": "Fairfield Inn & Suites Dallas Park Central"
+  }
+ },
+ "b724d24fa4": {
+  "instruction": {
+   "location": "Billings, MN",
+   "amount of rooms": "1",
+   "end date": "April 7, 2017",
+   "number of people": "2",
+   "ANSWER": "  TownePlace Suites Billings TownePlace Suites Billings",
+   "begin date": "April 5, 2017"
+  }
+ },
+ "4cb47d3b1a": {
+  "instruction": {
+   "location": "seattle",
+   "amount of rooms": "1",
+   "end date": "2/26",
+   "number of people": "4",
+   "ANSWER": "Courtyard Seattle Downtown/Pioneer Square ",
+   "begin date": "2/25"
+  }
+ },
+ "1aa93466de": {
+  "instruction": {
+   "end date": "02/03",
+   "amount of rooms": "3",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "number of people": "5"
+  }
+ },
+ "e1bc0a94ed": {
+  "instruction": {
+   "location": "Mobile",
+   "amount of rooms": "3",
+   "end date": "02/22",
+   "number of people": "6",
+   "ANSWER": "TownePlace Suites Mobile",
+   "begin date": "02/19"
+  }
+ },
+ "0c9da3aa3d": {
+  "instruction": {
+   "location": "Dayton",
+   "amount of rooms": "1",
+   "end date": "02/25",
+   "number of people": "1",
+   "ANSWER": "Marriott at the University of Dayton",
+   "begin date": "02/21"
+  }
+ },
+ "ed256f1188": {
+  "instruction": {
+   "location": "seattle",
+   "amount of rooms": "1",
+   "end date": "2/26",
+   "number of people": "3",
+   "ANSWER": "Courtyard Seattle Downtown/Pioneer Square ",
+   "begin date": "2/25"
+  }
+ },
+ "df7d54ef80": {
+  "instruction": {
+   "begin date": "03/8",
+   "amount of rooms": "1",
+   "number of people": "1",
+   "end date": "03/13",
+   "location": "Boise",
+   "ANSWER": "Courtyard Boise Downtown"
+  }
+ },
+ "6ef60f08d8": {
+  "instruction": {
+   "geographic location": "Houston, TX",
+   "number of rooms": "3",
+   "ending date": "2/17/2017",
+   "beginning date": "2/14/2017"
+  }
+ },
+ "caf0577e58": {
+  "instruction": {
+   "location": "Vandalia",
+   "amount of rooms": "1",
+   "end date": "02/27",
+   "number of people": "1",
+   "ANSWER": "Fairfield Inn & Suites Mount Vernon Rend Lake",
+   "begin date": "02/21"
+  }
+ },
+ "ac7a57ee05": {
+  "instruction": {
+   "begin date": "April 15, 2017",
+   "amount of rooms": "1",
+   "number of people": "1",
+   "end date": "April 23, 2017",
+   "location": "Seattle, WA",
+   "ANSWER": "  Residence Inn Seattle University District Residence Inn Seattle University District"
+  }
+ },
+ "1a519afc9c": {
+  "instruction": {
+   "geographic location": "Los Angeles, CA",
+   "number of rooms": "1",
+   "ending date": "2/11/2017",
+   "beginning date": "2/9/2017"
+  }
+ },
+ "5fbf8e6e8f": {
+  "instruction": {
+   "end date": "02/04",
+   "number of people": "4",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "amount of rooms": "1"
+  }
+ },
+ "902bbc6f04": {
+  "instruction": {
+   "begin date": "Mar 17,2017",
+   "amount of rooms": "2",
+   "number of people": "4",
+   "end date": "Mar 18,2017",
+   "location": "Indianapolis, IN, USA",
+   "ANSWER": "Indianapolis Marriott Downtown"
+  }
+ },
+ "2a82606c30": {
+  "instruction": {
+   "location": "Chicago",
+   "amount of rooms": "1",
+   "end date": "03/05/2017",
+   "number of people": "2",
+   "ANSWER": "JW Marriott Chicago",
+   "begin date": "03/02/2017"
+  }
+ },
+ "3202b17866": {
+  "instruction": {
+   "location": "Chicago",
+   "amount of rooms": "1",
+   "end date": "Feb 28 ,2017",
+   "number of people": "1",
+   "ANSWER": "Residence Inn Chicago Downtown/Loop",
+   "begin date": "Feb 24 ,2017"
+  }
+ },
+ "b6118ab766": {
+  "instruction": {
+   "location": "Mobile",
+   "amount of rooms": "1",
+   "end date": "02/26",
+   "number of people": "4",
+   "ANSWER": "Courtyard Mobile",
+   "begin date": "02/19"
+  }
+ },
+ "5c508ff30c": {
+  "instruction": {
+   "location": "Kansas City, MO",
+   "amount of rooms": "1",
+   "end date": "08/04",
+   "number of people": "4",
+   "ANSWER": "Kansas City Marriott Downtown",
+   "begin date": "08/01"
+  }
+ },
+ "11db2aea77": {
+  "instruction": {
+   "begin date": "Mar 9, 2017",
+   "amount of rooms": "2",
+   "number of people": "4",
+   "end date": "Mar 15, 2017",
+   "location": "Santa Fe, NM",
+   "ANSWER": "  Residence Inn Santa Fe Residence Inn Santa Fe"
+  }
+ },
+ "0dc0ce01fc": {
+  "instruction": {
+   "location": "Indianapolis, IN, USA",
+   "amount of rooms": "2",
+   "end date": "Mar 18,2017",
+   "number of people": "4",
+   "ANSWER": "Indianapolis Marriott Downtown",
+   "begin date": "Mar 17,2017"
+  }
+ },
+ "dbe0da5904": {
+  "instruction": {
+   "location": "california",
+   "amount of rooms": "1",
+   "end date": "02/21/2017",
+   "number of people": "2",
+   "ANSWER": "fair field inn and suites Napa american canyon ",
+   "begin date": "02/20/2017"
+  }
+ },
+ "742327bb93": {
+  "instruction": {
+   "begin date": "Mar 08,2017",
+   "amount of rooms": "2",
+   "number of people": "4",
+   "end date": "Mar 11,2017",
+   "location": "Philadelphia, PA, USA",
+   "ANSWER": "Philadelphia Marriott Downtown "
+  }
+ },
+ "bc56c4169b": {
+  "instruction": {
+   "location": "Paris, France",
+   "amount of rooms": "1",
+   "end date": "07/26",
+   "number of people": "3",
+   "ANSWER": "Renaissance Paris Vendome Hotel",
+   "begin date": "07/23"
+  }
+ },
+ "31d603b249": {
+  "instruction": {
+   "location": "Washington, DC, USA",
+   "amount of rooms": "2",
+   "end date": "Mar 11,2017",
+   "number of people": "4",
+   "ANSWER": "JW Marriott Washington, DC",
+   "begin date": "Mar 10,2017"
+  }
+ },
+ "25cd27625e": {
+  "instruction": {
+   "end date": "02/04",
+   "amount of rooms": "2",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "number of people": "2"
+  }
+ },
+ "f0ad1f4942": {
+  "instruction": {
+   "location": "seattle",
+   "amount of rooms": "1",
+   "end date": "2/26",
+   "number of people": "1",
+   "ANSWER": "Courtyard Seattle Downtown/Pioneer Square ",
+   "begin date": "2/25"
+  }
+ },
+ "17f0435cc2": {
+  "instruction": {
+   "location": "Franklin, MA",
+   "amount of rooms": "2",
+   "end date": "08/14",
+   "number of people": "2",
+   "ANSWER": "Residence Inn Boston Franklin",
+   "begin date": "08/13"
+  }
+ },
+ "d20d126f27": {
+  "instruction": {
+   "end date": "02/04",
+   "amount of rooms": "1",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "number of people": "4"
+  }
+ },
+ "b00c91a7b2": {
+  "instruction": {
+   "geographic location": "New York, NY",
+   "number of rooms": "2",
+   "ending date": "2/17/2017",
+   "beginning date": "2/10/2017"
+  }
+ },
+ "8b0da3beff": {
+  "instruction": {
+   "begin date": "Mar 17,2017",
+   "amount of rooms": "1",
+   "number of people": "1",
+   "end date": "Mar 18,2017",
+   "location": "Northwest Florida Beaches International Airport (ECP) Panama City, Panama City, FL, USA",
+   "ANSWER": "Fairfield Inn & Suites Panama City Beach"
+  }
+ },
+ "2a000a79c0": {
+  "instruction": {
+   "location": "Alamosa, CO",
+   "amount of rooms": "3",
+   "end date": "08/18",
+   "number of people": "3",
+   "ANSWER": "Fairfield Inn & Suites Alamosa",
+   "begin date": "08/14"
+  }
+ },
+ "9dd717964e": {
+  "instruction": {
+   "location": "Boise",
+   "amount of rooms": "1",
+   "end date": "03/02/2017",
+   "number of people": "2",
+   "ANSWER": "Courtyard Boise Downtown ",
+   "begin date": "03/01/2017"
+  }
+ },
+ "e690131431": {
+  "instruction": {
+   "geographic location": "Monroe, LA",
+   "number of rooms": "3",
+   "ending date": "5/2/2017",
+   "beginning date": "4/29/2017"
+  }
+ },
+ "6eafeff7f0": {
+  "instruction": {
+   "location": "Columbus",
+   "amount of rooms": "3",
+   "end date": "03/05/2017",
+   "number of people": "6",
+   "ANSWER": "SpringHill Suites Columbus OSU",
+   "begin date": "03/02/2017"
+  }
+ },
+ "d29a30bc9b": {
+  "instruction": {
+   "location": "Kansas City, MO",
+   "amount of rooms": "1",
+   "end date": "Aug 26, 2017",
+   "number of people": "1",
+   "ANSWER": "Fairfield Inn & Suites Kansas City Liberty ",
+   "begin date": "Aug 21, 2017"
+  }
+ },
+ "3544132e9f": {
+  "instruction": {
+   "location": "seattle",
+   "amount of rooms": "2",
+   "end date": "2/23",
+   "number of people": "1",
+   "ANSWER": "Courtyard Seattle Downtown/Pioneer Square ",
+   "begin date": "2/21"
+  }
+ },
+ "316665f024": {
+  "instruction": {
+   "location": "Austin",
+   "amount of rooms": "2",
+   "end date": "Feb 27 ,2017",
+   "number of people": "3",
+   "ANSWER": "JW Marriott Austin",
+   "begin date": "Feb 23 ,2017"
+  }
+ },
+ "dbca82fe6b": {
+  "instruction": {
+   "begin date": "02/26",
+   "amount of rooms": "2",
+   "number of people": "2",
+   "end date": "03/01",
+   "location": "New Orleans",
+   "ANSWER": "MOXY New Orleans Downtown/French Quarter Area"
+  }
+ },
+ "e8317431de": {
+  "instruction": {
+   "location": "Liberty, IL",
+   "amount of rooms": "1",
+   "end date": "Sept 5, 2017",
+   "number of people": "4",
+   "ANSWER": "  Fairfield Inn & Suites Quincy Fairfield Inn & Suites Quincy",
+   "begin date": "Sept 1, 2017"
+  }
+ },
+ "c2b69722c0": {
+  "instruction": {
+   "location": "san jose, california",
+   "amount of rooms": "1",
+   "end date": "04/30",
+   "number of people": "2",
+   "ANSWER": "199 USD / night ",
+   "begin date": "04/29"
+  }
+ },
+ "373e9d87e1": {
+  "instruction": {
+   "begin date": "02/23",
+   "amount of rooms": "1",
+   "number of people": "1",
+   "end date": "02/28",
+   "location": "Toledo",
+   "ANSWER": "Fairfield Inn & Suites Toledo North"
+  }
+ },
+ "059e4ab9c2": {
+  "instruction": {
+   "location": "Ontario, CA",
+   "amount of rooms": "1",
+   "end date": "06/23",
+   "number of people": "4",
+   "ANSWER": "Fairfield Inn Ontario",
+   "begin date": "06/15"
+  }
+ },
+ "8224203c5c": {
+  "instruction": {
+   "begin date": "Mar 10,2017",
+   "amount of rooms": "2",
+   "number of people": "4",
+   "end date": "Mar 11,2017",
+   "location": "Washington, DC, USA",
+   "ANSWER": "JW Marriott Washington, DC"
+  }
+ },
+ "db3b6dec47": {
+  "instruction": {
+   "location": "Los Angeles",
+   "amount of rooms": "2",
+   "end date": "Feb 21,2017",
+   "number of people": "2",
+   "ANSWER": "JW Marriott Los Angeles L.A. LIVE",
+   "begin date": "Feb 20 ,2017"
+  }
+ },
+ "86801d5fad": {
+  "instruction": {
+   "location": "New York, NY, USA",
+   "amount of rooms": "2",
+   "end date": "Mar 03,2017",
+   "number of people": "4",
+   "ANSWER": "Courtyard New York Manhattan/Fifth Avenue",
+   "begin date": "Mar 02,2017"
+  }
+ },
+ "fac6a831f9": {
+  "instruction": {
+   "location": "Boston",
+   "amount of rooms": "3",
+   "end date": "Feb 28 ,2017",
+   "number of people": "2",
+   "ANSWER": "Marriott Vacation Club Pulse at Custom House, Boston",
+   "begin date": "Feb 25 ,2017"
+  }
+ },
+ "088b836d01": {
+  "instruction": {
+   "location": "Orlando",
+   "amount of rooms": "2",
+   "end date": "02/26",
+   "number of people": "2",
+   "ANSWER": "Fairfield Inn & Suites Orlando at SeaWorld",
+   "begin date": "02/19"
+  }
+ },
+ "8088fdf76e": {
+  "instruction": {
+   "location": "Toronto, Canada",
+   "amount of rooms": "1",
+   "end date": "Mar 18,2017",
+   "number of people": "1",
+   "ANSWER": "Toronto Marriott Downtown Eaton Centre Hotel",
+   "begin date": "Mar 17,2017"
+  }
+ },
+ "8b11e0d26f": {
+  "instruction": {
+   "begin date": "Aug 21, 2017",
+   "amount of rooms": "1",
+   "number of people": "1",
+   "end date": "Aug 26, 2017",
+   "location": "Kansas City, MO",
+   "ANSWER": "Fairfield Inn & Suites Kansas City Liberty "
+  }
+ },
+ "07c01c122d": {
+  "instruction": {
+   "end date": "02/03",
+   "number of people": "4",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "amount of rooms": "3"
+  }
+ },
+ "187326bf9f": {
+  "instruction": {
+   "location": "Portland, OR",
+   "amount of rooms": "2",
+   "end date": "July 9, 2017",
+   "number of people": "3",
+   "ANSWER": "  Courtyard Portland Tigard Courtyard Portland Tigard",
+   "begin date": "June 30, 2017"
+  }
+ },
+ "7f7ed3cb97": {
+  "instruction": {
+   "end date": "02/03",
+   "number of people": "5",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "amount of rooms": "3"
+  }
+ },
+ "44bacd43ef": {
+  "instruction": {
+   "begin date": "02/21",
+   "amount of rooms": "1",
+   "number of people": "1",
+   "end date": "02/25",
+   "location": "Dayton",
+   "ANSWER": "Marriott at the University of Dayton"
+  }
+ },
+ "802f12d6d8": {
+  "instruction": {
+   "end date": "02/04",
+   "number of people": "1",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "amount of rooms": "1"
+  }
+ },
+ "6783fd6449": {
+  "instruction": {
+   "end date": "02/04",
+   "amount of rooms": "2",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "number of people": "3"
+  }
+ },
+ "5195a9f2c6": {
+  "instruction": {
+   "end date": "02/04",
+   "number of people": "2",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "amount of rooms": "2"
+  }
+ },
+ "193082ba6d": {
+  "instruction": {
+   "end date": "02/04",
+   "amount of rooms": "1",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "number of people": "2"
+  }
+ },
+ "60289ea21d": {
+  "instruction": {
+   "location": "Sugarloaf",
+   "amount of rooms": "6",
+   "end date": "04/26/2017",
+   "number of people": "3",
+   "ANSWER": "Courtyard Key West Waterfront",
+   "begin date": "04/23/2017"
+  }
+ },
+ "1655e0dc99": {
+  "instruction": {
+   "begin date": "Feb 28,2017",
+   "amount of rooms": "1",
+   "number of people": "1",
+   "end date": "Mar 01,2017",
+   "location": "Newark, NJ, USA",
+   "ANSWER": "Courtyard Newark Downtown "
+  }
+ },
+ "98805db777": {
+  "instruction": {
+   "location": "indian head, canada",
+   "amount of rooms": "2",
+   "end date": "04/28",
+   "number of people": "3",
+   "ANSWER": "119 USD / night ",
+   "begin date": "04/25"
+  }
+ },
+ "ed4b2c2fc8": {
+  "instruction": {
+   "begin date": "Mar 17,2017",
+   "amount of rooms": "1",
+   "number of people": "1",
+   "end date": "Mar 18,2017",
+   "location": "Las Vegas, NV, USA",
+   "ANSWER": "  Las Vegas Marriott Las Vegas Marriott"
+  }
+ },
+ "dd6d1f4294": {
+  "instruction": {
+   "location": "Raleigh",
+   "amount of rooms": "5",
+   "end date": "04/22/2017",
+   "number of people": "2",
+   "ANSWER": "Courtyard Raleigh Midtown",
+   "begin date": "04/21/2017"
+  }
+ },
+ "13e9942861": {
+  "instruction": {
+   "location": "Tucson, AZ",
+   "amount of rooms": "3",
+   "end date": "June 21, 2017",
+   "number of people": "8",
+   "ANSWER": "TownePlace Suites Tucson",
+   "begin date": "June 15, 2017"
+  }
+ },
+ "015fe0efe3": {
+  "instruction": {
+   "end date": "02/04",
+   "amount of rooms": "2",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "number of people": "4"
+  }
+ },
+ "45beb9f924": {
+  "instruction": {
+   "location": "New Orleans",
+   "amount of rooms": "1",
+   "end date": "03/01",
+   "number of people": "3",
+   "ANSWER": "Fairfield Inn & Suites New Orleans Downtown/French Quarter Area",
+   "begin date": "02/26"
+  }
+ },
+ "236f1206fc": {
+  "instruction": {
+   "begin date": "02/26",
+   "amount of rooms": "1",
+   "number of people": "3",
+   "end date": "03/01",
+   "location": "New Orleans",
+   "ANSWER": "Fairfield Inn & Suites New Orleans Downtown/French Quarter Area"
+  }
+ },
+ "ffa6633548": {
+  "instruction": {
+   "location": "Albany",
+   "amount of rooms": "2",
+   "end date": "02/28/2017",
+   "number of people": "5",
+   "ANSWER": "Spring Hill Suites Albany-Colonie",
+   "begin date": "02/25/2017"
+  }
+ },
+ "c95f41e139": {
+  "instruction": {
+   "location": "Santa Fe, NM",
+   "amount of rooms": "2",
+   "end date": "Mar 15, 2017",
+   "number of people": "4",
+   "ANSWER": "  Residence Inn Santa Fe Residence Inn Santa Fe",
+   "begin date": "Mar 9, 2017"
+  }
+ },
+ "0332094f23": {
+  "instruction": {
+   "location": "Mexico City, Mexico",
+   "amount of rooms": "1",
+   "end date": "Mar 18,2017",
+   "number of people": "1",
+   "ANSWER": "  JW Marriott Hotel Mexico City JW Marriott Hotel Mexico City",
+   "begin date": "Mar 17,2017"
+  }
+ },
+ "1748bba086": {
+  "instruction": {
+   "location": "Pollard",
+   "amount of rooms": "1",
+   "end date": "05/19",
+   "number of people": "2",
+   "ANSWER": "89 USD/ night",
+   "begin date": "05/17"
+  }
+ },
+ "b698a52d68": {
+  "instruction": {
+   "location": "New Orleans",
+   "amount of rooms": "2",
+   "end date": "03/01",
+   "number of people": "2",
+   "ANSWER": "MOXY New Orleans Downtown/French Quarter Area",
+   "begin date": "02/26"
+  }
+ },
+ "cca8afe31a": {
+  "instruction": {
+   "begin date": "02/21",
+   "amount of rooms": "1",
+   "number of people": "2",
+   "end date": "02/25",
+   "location": "Cleveland",
+   "ANSWER": "Cleveland Marriott Downtown at Key Center"
+  }
+ },
+ "85f025316f": {
+  "instruction": {
+   "geographic location": "Seattle, WA",
+   "number of rooms": "2",
+   "ending date": "4/4/2017",
+   "beginning date": "4/1/2017"
+  }
+ },
+ "311f07d713": {
+  "instruction": {
+   "begin date": "02/19",
+   "amount of rooms": "1",
+   "number of people": "4",
+   "end date": "02/26",
+   "location": "Mobile",
+   "ANSWER": "Courtyard Mobile"
+  }
+ },
+ "6cc5279d69": {
+  "instruction": {
+   "location": "New Orleans",
+   "amount of rooms": "2",
+   "end date": "Feb 25 ,2017",
+   "number of people": "2",
+   "ANSWER": "Fairfield Inn & Suites New Orleans Downtown/French Quarter Area",
+   "begin date": "Feb 22 ,2017"
+  }
+ },
+ "a24b1a5299": {
+  "instruction": {
+   "location": "seattle",
+   "amount of rooms": "1",
+   "end date": "2/28",
+   "number of people": "6",
+   "ANSWER": "Courtyard Seattle Downtown/Pioneer Square ",
+   "begin date": "2/25"
+  }
+ },
+ "44e5b48ce9": {
+  "instruction": {
+   "location": "Las Vegas, NV, USA",
+   "amount of rooms": "1",
+   "end date": "Mar 18,2017",
+   "number of people": "1",
+   "ANSWER": "  Las Vegas Marriott Las Vegas Marriott",
+   "begin date": "Mar 17,2017"
+  }
+ },
+ "f19b7de024": {
+  "instruction": {
+   "location": "Orlando",
+   "amount of rooms": "1",
+   "end date": "02/22",
+   "number of people": "5",
+   "ANSWER": "Residence Inn Cape Canaveral Cocoa Beach",
+   "begin date": "02/19"
+  }
+ },
+ "d5008e8417": {
+  "instruction": {
+   "location": "Jacksonville, FL",
+   "amount of rooms": "3",
+   "end date": "07/30",
+   "number of people": "4",
+   "ANSWER": "Fairfield Inn & Suites Jacksonville Butler Boulevard",
+   "begin date": "07/29"
+  }
+ },
+ "08fb31f2f8": {
+  "instruction": {
+   "location": "Denver",
+   "amount of rooms": "1",
+   "end date": "04/21/2017",
+   "number of people": "2",
+   "ANSWER": "Fairfield inn &Suites Quincy",
+   "begin date": "04/20/2017"
+  }
+ },
+ "5e9bfeda7b": {
+  "instruction": {
+   "begin date": "02/27",
+   "amount of rooms": "2",
+   "number of people": "2",
+   "end date": "03/04",
+   "location": "Chicago",
+   "ANSWER": "Residence Inn Chicago Downtown/Loop"
+  }
+ },
+ "365a9a83a8": {
+  "instruction": {
+   "begin date": "Mar 17,2017",
+   "amount of rooms": "1",
+   "number of people": "1",
+   "end date": "Mar 18,2017",
+   "location": "Toronto, Canada",
+   "ANSWER": "Toronto Marriott Downtown Eaton Centre Hotel"
+  }
+ },
+ "2d13fe7611": {
+  "instruction": {
+   "begin date": "Mar 02,2017",
+   "amount of rooms": "2",
+   "number of people": "4",
+   "end date": "Mar 03,2017",
+   "location": "New York, NY, USA",
+   "ANSWER": "Courtyard New York Manhattan/Fifth Avenue"
+  }
+ },
+ "ef9c02048b": {
+  "instruction": {
+   "location": "Philadelphia, PA, USA",
+   "amount of rooms": "2",
+   "end date": "Mar 11,2017",
+   "number of people": "4",
+   "ANSWER": "Philadelphia Marriott Downtown ",
+   "begin date": "Mar 08,2017"
+  }
+ },
+ "1b4d844402": {
+  "instruction": {
+   "location": "Indianapolis airport ",
+   "amount of rooms": "2",
+   "end date": "02/04",
+   "number of people": "4",
+   "ANSWER": "129 USD/ night",
+   "begin date": "02/03"
+  }
+ },
+ "aa9fea504e": {
+  "instruction": {
+   "begin date": "03/03",
+   "amount of rooms": "1",
+   "number of people": "3",
+   "end date": "03/08",
+   "location": "St Louis",
+   "ANSWER": "Courtyard St. Louis Downtown/Convention Center"
+  }
+ },
+ "0fe1bfef3c": {
+  "instruction": {
+   "location": "Buffalo",
+   "amount of rooms": "1",
+   "end date": "02/24",
+   "number of people": "1",
+   "ANSWER": "Courtyard Buffalo Downtown/Canalside",
+   "begin date": "02/20"
+  }
+ },
+ "42e95cbbd4": {
+  "instruction": {
+   "end date": "02/03",
+   "amount of rooms": "3",
+   "location": "Indianapolis",
+   "begin date": "02/02",
+   "number of people": "4"
+  }
+ },
+ "f0cbd69d78": {
+  "instruction": {
+   "location": "Billings",
+   "amount of rooms": "1",
+   "end date": "03/06",
+   "number of people": "1",
+   "ANSWER": "Residence Inn Billings",
+   "begin date": "02/27"
+  }
+ },
+ "1077aaf161": {
+  "instruction": {
+   "location": "san jose",
+   "amount of rooms": "2",
+   "end date": "02/23/2017",
+   "number of people": "5",
+   "ANSWER": "courtyard San Jose Campbell ",
+   "begin date": "02/21/2017"
+  }
+ },
+ "57808392e7": {
+  "instruction": {
+   "location": "Dallas",
+   "amount of rooms": "2",
+   "end date": "Feb 23 ,2017",
+   "number of people": "3",
+   "ANSWER": "Dallas Marriott City Center",
+   "begin date": "Feb 21 ,2017"
+  }
+ },
+ "5f9afcf0b0": {
+  "instruction": {
+   "location": "los angeles ",
+   "amount of rooms": "3",
+   "end date": "04/23",
+   "number of people": "6",
+   "ANSWER": "179 USD / night ",
+   "begin date": "04/20"
+  }
+ },
+ "3c7a5dc459": {
+  "instruction": {
+   "location": "San Fransisco",
+   "amount of rooms": "3",
+   "end date": "Feb 24 ,2017",
+   "number of people": "2",
+   "ANSWER": "Courtyard San Francisco Union Square",
+   "begin date": "Feb 20, 2017"
+  }
+ },
+ "4649478401": {
+  "instruction": {
+   "location": "South Jordan",
+   "amount of rooms": "3",
+   "end date": "03/20",
+   "number of people": "6",
+   "ANSWER": "132 USD/ night",
+   "begin date": "03/17"
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "71559d395a": {
+  "instruction": {
+   "deposit term": "5 years",
+   "minimum deposit": "5000",
+   "zip code": "60050"
+  }
+ },
+ "aaa3cf78f4": {
+  "instruction": {
+   "deposit term": "4 years",
+   "minimum deposit": "25000",
+   "zip code": "90650"
+  }
+ },
+ "324d01ab52": {
+  "instruction": {
+   "deposit term": "1 year",
+   "minimum deposit": "100000",
+   "zip code": "90650"
+  }
+ },
+ "42a53e6df5": {
+  "instruction": {
+   "deposit term": "5 years",
+   "minimum deposit": "10000",
+   "zip code": "10010"
+  }
+ },
+ "dbf1171db1": {
+  "instruction": {
+   "deposit term": "1 year",
+   "minimum deposit": "0",
+   "zip code": "60051"
+  }
+ },
+ "61c6c230fd": {
+  "instruction": {
+   "deposit term": "3 years",
+   "minimum deposit": "1000",
+   "zip code": "90017"
+  }
+ },
+ "1be36f7306": {
+  "instruction": {
+   "deposit term": "2 years",
+   "minimum deposit": "0",
+   "zip code": "79936"
+  }
+ },
+ "a4fe5c5df4": {
+  "instruction": {
+   "deposit term": "4 years",
+   "minimum deposit": "0",
+   "zip code": "60629"
+  }
+ },
+ "437cffb438": {
+  "instruction": {
+   "deposit term": "5 years",
+   "minimum deposit": "5000",
+   "zip code": "10010"
+  }
+ },
+ "75c55dbc2a": {
+  "instruction": {
+   "deposit term": "6 months",
+   "minimum deposit": "50000",
+   "zip code": "79936"
+  }
+ }
+}

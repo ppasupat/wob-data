@@ -1,0 +1,82 @@
+{
+ "62fc5ffec4": {
+  "instruction": {
+   "Geographic location": "Jacksonville",
+   "Car Model": "Santa Fe",
+   "Used or New": "New",
+   "Car Make": "Hyundai"
+  }
+ },
+ "d4a0c2a6c9": {
+  "instruction": {
+   "Geographic location": "Denver, CO",
+   "Car Model": "Optima",
+   "Used or New": "New",
+   "Car Make": "Kia"
+  }
+ },
+ "a1fb0d848c": {
+  "instruction": {
+   "Geographic location": "Philly",
+   "Car Model": "Accord",
+   "Used or New": "New",
+   "Car Make": "Honda"
+  }
+ },
+ "c538d4c224": {
+  "instruction": {
+   "Geographic location": "Manhattan",
+   "Car Model": "Patriot",
+   "Used or New": "Used",
+   "Car Make": "Jeep"
+  }
+ },
+ "a35536bdcd": {
+  "instruction": {
+   "Geographic location": "Los Angeles metro",
+   "Car Model": "Escalade",
+   "Used or New": "Used",
+   "Car Make": "Cadillac"
+  }
+ },
+ "1ebbaedeb2": {
+  "instruction": {
+   "Geographic location": "29302",
+   "Car Model": "Rogue",
+   "Used or New": "New",
+   "Car Make": "Nissan"
+  }
+ },
+ "937bb7df04": {
+  "instruction": {
+   "Geographic location": "Harrisburg, PA",
+   "Car Model": "Corolla",
+   "Used or New": "New",
+   "Car Make": "Toyota"
+  }
+ },
+ "ee8883c5f4": {
+  "instruction": {
+   "Geographic location": "DC metro ",
+   "Car Model": "Impreza",
+   "Used or New": "Used",
+   "Car Make": "Subaru"
+  }
+ },
+ "415958bfd3": {
+  "instruction": {
+   "Geographic location": "greater Omaha",
+   "Car Model": "Odyssey",
+   "Used or New": "New",
+   "Car Make": "Honda"
+  }
+ },
+ "cc1c8e097f": {
+  "instruction": {
+   "Geographic location": "Chicago, Illinois",
+   "Car Model": "Navigator",
+   "Used or New": "Used ",
+   "Car Make": "Lincoln"
+  }
+ }
+}

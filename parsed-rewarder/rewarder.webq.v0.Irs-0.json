@@ -1,0 +1,62 @@
+{
+ "fc4cd1ea67": {
+  "instruction": {
+   "taxable income": "$151,901\u2014$231,450",
+   "filer status": "married filing jointly or qualifying widow(er)"
+  }
+ },
+ "8da0470af8": {
+  "instruction": {
+   "taxable income": "$415,051 or more",
+   "filer status": "single"
+  }
+ },
+ "ade71ee95a": {
+  "instruction": {
+   "taxable income": "$190,151\u2014$ 413,350",
+   "filer status": "single"
+  }
+ },
+ "deea7be87c": {
+  "instruction": {
+   "taxable income": "$0\u2014$9,275",
+   "filer status": "single"
+  }
+ },
+ "9fe106b876": {
+  "instruction": {
+   "taxable income": "$37,651\u2014$91,150",
+   "filer status": "single"
+  }
+ },
+ "bb8b3b85ca": {
+  "instruction": {
+   "taxable income": "$91,151\u2014$190,150",
+   "filer status": "single"
+  }
+ },
+ "ec05d0f323": {
+  "instruction": {
+   "taxable income": "$9,276\u2014$37,650",
+   "filer status": "single"
+  }
+ },
+ "67bd79e430": {
+  "instruction": {
+   "taxable income": "$210,801\u2014$413,350",
+   "filer status": "head of household"
+  }
+ },
+ "7f257fc9a2": {
+  "instruction": {
+   "taxable income": "$413,351\u2014$415,050",
+   "filer status": "single"
+  }
+ },
+ "0e57590800": {
+  "instruction": {
+   "taxable income": "$37,651\u2014$75,950",
+   "filer status": "married filing separately"
+  }
+ }
+}

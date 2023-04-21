@@ -1,0 +1,685 @@
+{
+ "87afe83be9": {
+  "instruction": {
+   "amount of loan": "3000",
+   "term length": "3",
+   "ANSWER": "89.24"
+  }
+ },
+ "d14410c6d6": {
+  "instruction": {
+   "amount of loan": "$5000",
+   "term length": "5 years",
+   "ANSWER": "$93.22"
+  }
+ },
+ "fd0cb08b15": {
+  "instruction": {
+   "amount of loan": "6500",
+   "term length": "2 years ",
+   "ANSWER": " $283.71 monthly payment at today's rates 4.50 "
+  }
+ },
+ "309ea0d6fa": {
+  "instruction": {
+   "amount of loan": "15000",
+   "term length": "5",
+   "ANSWER": "279.65"
+  }
+ },
+ "cf0dead047": {
+  "instruction": {
+   "amount of loan": "$20000",
+   "term length": "10 years",
+   "ANSWER": "$207.28"
+  }
+ },
+ "358cf39e8d": {
+  "instruction": {
+   "amount of loan": "14000",
+   "term length": "4 years",
+   "ANSWER": "319.25"
+  }
+ },
+ "0f98d7349c": {
+  "instruction": {
+   "amount of loan": "25500",
+   "term length": "2 years"
+  }
+ },
+ "8c0112eb0c": {
+  "instruction": {
+   "amount of loan": "100000",
+   "term length": "20 years",
+   "ANSWER": "$632.65"
+  }
+ },
+ "4b008de300": {
+  "instruction": {
+   "amount of loan": "1000",
+   "term length": "5 years",
+   "ANSWER": "18.64"
+  }
+ },
+ "8a2acb5b48": {
+  "instruction": {
+   "amount of loan": "$6000",
+   "term length": "3 years",
+   "ANSWER": "$178.48"
+  }
+ },
+ "ca0264b9ae": {
+  "instruction": {
+   "amount of loan": "4000",
+   "term length": "2 years",
+   "ANSWER": "$174.59"
+  }
+ },
+ "696bf21a59": {
+  "instruction": {
+   "amount of loan": "39500",
+   "term length": "30 years",
+   "ANSWER": "200.14"
+  }
+ },
+ "904a2da5ba": {
+  "instruction": {
+   "amount of loan": "4000",
+   "term length": "4",
+   "ANSWER": "91.21"
+  }
+ },
+ "b45400ed3d": {
+  "instruction": {
+   "amount of loan": "8150",
+   "term length": "5 years",
+   "ANSWER": " $151.94 monthly payment at today's rates 4.50 "
+  }
+ },
+ "792f83758e": {
+  "instruction": {
+   "amount of loan": "$8000",
+   "term length": "2 years",
+   "ANSWER": "$349.18"
+  }
+ },
+ "0d9db342ab": {
+  "instruction": {
+   "amount of loan": "125000",
+   "term length": "10 years",
+   "ANSWER": "1295.48"
+  }
+ },
+ "189c6b20e9": {
+  "instruction": {
+   "amount of loan": "5000",
+   "term length": "5",
+   "ANSWER": "93.22"
+  }
+ },
+ "f7a577e184": {
+  "instruction": {
+   "amount of loan": "7120",
+   "term length": "3 years",
+   "ANSWER": "$211.80 monthly payment at today's rates 4.50 "
+  }
+ },
+ "270ec55be9": {
+  "instruction": {
+   "amount of loan": "30000",
+   "term length": "5",
+   "ANSWER": "559.29"
+  }
+ },
+ "7968e6ea0e": {
+  "instruction": {
+   "amount of loan": "6500",
+   "term length": "1 years ",
+   "ANSWER": "$512.27 monthly payment at today's rates 4.50 "
+  }
+ },
+ "81e37d2cc5": {
+  "instruction": {
+   "amount of loan": "3630",
+   "term length": "4 years",
+   "ANSWER": " $82.78 monthly payment at today's rates 4.50 "
+  }
+ },
+ "502e574e62": {
+  "instruction": {
+   "amount of loan": "12000",
+   "term length": "7",
+   "ANSWER": "166.80"
+  }
+ },
+ "e8f21f2025": {
+  "instruction": {
+   "amount of loan": "35000",
+   "term length": "5",
+   "ANSWER": "652.51"
+  }
+ },
+ "0a5fa0ec92": {
+  "instruction": {
+   "amount of loan": "22500",
+   "term length": "6 years",
+   "ANSWER": "357.17"
+  }
+ },
+ "db9d31b3b3": {
+  "instruction": {
+   "amount of loan": "15000",
+   "term length": "10",
+   "ANSWER": "155.46"
+  }
+ },
+ "be7e797dd0": {
+  "instruction": {
+   "amount of loan": "105000",
+   "term length": "13 years",
+   "ANSWER": "890.26"
+  }
+ },
+ "d586888335": {
+  "instruction": {
+   "amount of loan": "200000",
+   "term length": "4",
+   "ANSWER": "4,560.70"
+  }
+ },
+ "ae316596c7": {
+  "instruction": {
+   "amount of loan": "65500",
+   "term length": "8 years",
+   "ANSWER": "$813.72"
+  }
+ },
+ "a6c6a74c99": {
+  "instruction": {
+   "amount of loan": "35,000",
+   "term length": "72 months",
+   "ANSWER": "555.59"
+  }
+ },
+ "bc74709f51": {
+  "instruction": {
+   "amount of loan": "9000",
+   "term length": "20 years"
+  }
+ },
+ "9d85485f0a": {
+  "instruction": {
+   "amount of loan": "8000",
+   "term length": "6",
+   "ANSWER": "126.99"
+  }
+ },
+ "81e31580cf": {
+  "instruction": {
+   "amount of loan": "35000",
+   "term length": "10 years",
+   "ANSWER": "$362.73"
+  }
+ },
+ "f329122e38": {
+  "instruction": {
+   "amount of loan": "50000",
+   "term length": "5 years",
+   "ANSWER": "$932.15"
+  }
+ },
+ "512321dc30": {
+  "instruction": {
+   "amount of loan": "275000",
+   "term length": "6",
+   "ANSWER": "4,365.36"
+  }
+ },
+ "959b8e70b2": {
+  "instruction": {
+   "amount of loan": "1000",
+   "term length": "1",
+   "ANSWER": "85.38"
+  }
+ },
+ "0272594a12": {
+  "instruction": {
+   "amount of loan": "15500",
+   "term length": "10 years"
+  }
+ },
+ "6ecdc6addf": {
+  "instruction": {
+   "amount of loan": "9500",
+   "term length": "3 years",
+   "ANSWER": "$282.60 monthly payment at today's rates 4.50 "
+  }
+ },
+ "461c056250": {
+  "instruction": {
+   "amount of loan": "25000",
+   "term length": "5",
+   "ANSWER": "466.08"
+  }
+ },
+ "c746b49c54": {
+  "instruction": {
+   "amount of loan": "8000",
+   "term length": "2 years",
+   "ANSWER": "349.18"
+  }
+ },
+ "46bea630e7": {
+  "instruction": {
+   "amount of loan": "3300",
+   "term length": "2 years",
+   "ANSWER": "144.04"
+  }
+ },
+ "0da26202fd": {
+  "instruction": {
+   "amount of loan": "9000",
+   "term length": "11",
+   "ANSWER": "86.57"
+  }
+ },
+ "6a04a892a1": {
+  "instruction": {
+   "amount of loan": "5000",
+   "term length": "4 years"
+  }
+ },
+ "ce8d142b75": {
+  "instruction": {
+   "amount of loan": "1000",
+   "term length": "1 year",
+   "ANSWER": "85.38"
+  }
+ },
+ "5047bcc05e": {
+  "instruction": {
+   "amount of loan": "5500",
+   "term length": "2 years",
+   "ANSWER": "240.06"
+  }
+ },
+ "2e85faea1a": {
+  "instruction": {
+   "amount of loan": "75000",
+   "term length": "30 years",
+   "ANSWER": "380.01"
+  }
+ },
+ "c866d25d7d": {
+  "instruction": {
+   "amount of loan": "5000",
+   "term length": "6",
+   "ANSWER": "79.37"
+  }
+ },
+ "2442bf04f1": {
+  "instruction": {
+   "amount of loan": "40000",
+   "term length": "5",
+   "ANSWER": "745.72"
+  }
+ },
+ "e3c275d81e": {
+  "instruction": {
+   "amount of loan": "4500",
+   "term length": "5",
+   "ANSWER": "83.89"
+  }
+ },
+ "411859b438": {
+  "instruction": {
+   "amount of loan": "700000",
+   "term length": "5",
+   "ANSWER": "13,050.11"
+  }
+ },
+ "cf0fbdbfe2": {
+  "instruction": {
+   "amount of loan": "7500",
+   "term length": "6 years",
+   "ANSWER": "$119.06"
+  }
+ },
+ "2e173284c8": {
+  "instruction": {
+   "amount of loan": "10000",
+   "term length": "5",
+   "ANSWER": "186.43"
+  }
+ },
+ "259f298a47": {
+  "instruction": {
+   "amount of loan": "5000",
+   "term length": "10",
+   "ANSWER": "51.82"
+  }
+ },
+ "39ba4c152e": {
+  "instruction": {
+   "amount of loan": "$1000",
+   "term length": "1 year",
+   "ANSWER": "$85.38"
+  }
+ },
+ "eae6699170": {
+  "instruction": {
+   "amount of loan": "2000",
+   "term length": "3",
+   "ANSWER": "59.49"
+  }
+ },
+ "0a7102dd27": {
+  "instruction": {
+   "amount of loan": "7000",
+   "term length": "15",
+   "ANSWER": "53.55"
+  }
+ },
+ "8a61a78e63": {
+  "instruction": {
+   "amount of loan": "2000",
+   "term length": "2 years"
+  }
+ },
+ "c382739756": {
+  "instruction": {
+   "amount of loan": "1000",
+   "term length": "10 years"
+  }
+ },
+ "f64c5fe191": {
+  "instruction": {
+   "amount of loan": "1800",
+   "term length": "18 months",
+   "ANSWER": "103.60"
+  }
+ },
+ "311b1429eb": {
+  "instruction": {
+   "amount of loan": "1500",
+   "term length": "2",
+   "ANSWER": "65.47"
+  }
+ },
+ "11321e68dd": {
+  "instruction": {
+   "amount of loan": "7000",
+   "term length": "5 years ",
+   "ANSWER": " $130.50 monthly payment at today's rates 4.50 "
+  }
+ },
+ "7ea4a326b4": {
+  "instruction": {
+   "amount of loan": "5500",
+   "term length": "10",
+   "ANSWER": "57.00"
+  }
+ },
+ "bd2f7d6c61": {
+  "instruction": {
+   "amount of loan": "15000",
+   "term length": "15 years",
+   "ANSWER": "$114.75"
+  }
+ },
+ "bec2d745ba": {
+  "instruction": {
+   "amount of loan": "$15000",
+   "term length": "10 years",
+   "ANSWER": "$155.46"
+  }
+ },
+ "efc4663998": {
+  "instruction": {
+   "amount of loan": "2500",
+   "term length": "2",
+   "ANSWER": "109.12"
+  }
+ },
+ "37ccb722f2": {
+  "instruction": {
+   "amount of loan": "2050",
+   "term length": "6 years"
+  }
+ },
+ "b8100bc96c": {
+  "instruction": {
+   "amount of loan": "250000",
+   "term length": "4 years",
+   "ANSWER": "$5,700.87"
+  }
+ },
+ "4d892a80ba": {
+  "instruction": {
+   "amount of loan": "25",
+   "term length": "1",
+   "ANSWER": "2.13"
+  }
+ },
+ "97f7c170fe": {
+  "instruction": {
+   "amount of loan": "72000",
+   "term length": "12 years",
+   "ANSWER": "648.01"
+  }
+ },
+ "39f9c28adc": {
+  "instruction": {
+   "amount of loan": "50000",
+   "term length": "5",
+   "ANSWER": "932.15"
+  }
+ },
+ "6994f21a7e": {
+  "instruction": {
+   "amount of loan": "3500",
+   "term length": "3",
+   "ANSWER": "104.11"
+  }
+ },
+ "43ad9d1e26": {
+  "instruction": {
+   "amount of loan": "5000",
+   "term length": "5 years ",
+   "ANSWER": " $93.22 monthly payment at today's rates 4.50 "
+  }
+ },
+ "a3ea9733bd": {
+  "instruction": {
+   "amount of loan": "8000",
+   "term length": "10",
+   "ANSWER": "82.91"
+  }
+ },
+ "9cadb52593": {
+  "instruction": {
+   "amount of loan": "123450",
+   "term length": "16 years",
+   "ANSWER": "$903.13"
+  }
+ },
+ "f0758d3b8a": {
+  "instruction": {
+   "amount of loan": "1050",
+   "term length": "12 years",
+   "ANSWER": "$9.45"
+  }
+ },
+ "273ce9b43e": {
+  "instruction": {
+   "amount of loan": "$2000",
+   "term length": "1 year",
+   "ANSWER": "$170.76"
+  }
+ },
+ "544cbbe649": {
+  "instruction": {
+   "amount of loan": "11000",
+   "term length": "3 years",
+   "ANSWER": "$327.22 monthly payment at today's rates 4.50 "
+  }
+ },
+ "2aec1db2c8": {
+  "instruction": {
+   "amount of loan": "$12000",
+   "term length": "4 years",
+   "ANSWER": "$273.64"
+  }
+ },
+ "d23129dc2a": {
+  "instruction": {
+   "amount of loan": "$7500",
+   "term length": "6 years",
+   "ANSWER": "$119.06"
+  }
+ },
+ "51324ddaf5": {
+  "instruction": {
+   "amount of loan": "15000",
+   "term length": "8 years",
+   "ANSWER": "186.35"
+  }
+ },
+ "7ed80bcfad": {
+  "instruction": {
+   "amount of loan": "7500",
+   "term length": "5 years",
+   "ANSWER": "139.82"
+  }
+ },
+ "968c00585f": {
+  "instruction": {
+   "amount of loan": "120,000",
+   "term length": "30 years",
+   "ANSWER": "608.02"
+  }
+ },
+ "cc9fb91e1c": {
+  "instruction": {
+   "amount of loan": "6000",
+   "term length": "2 years",
+   "ANSWER": "261.89"
+  }
+ },
+ "3919edd1df": {
+  "instruction": {
+   "amount of loan": "2017",
+   "term length": "4",
+   "ANSWER": "45.99"
+  }
+ },
+ "f4ddba22ca": {
+  "instruction": {
+   "amount of loan": "$9000",
+   "term length": "7 years",
+   "ANSWER": "$125.10"
+  }
+ },
+ "fa3d65f984": {
+  "instruction": {
+   "amount of loan": "333333",
+   "term length": "11",
+   "ANSWER": "3,206.24"
+  }
+ },
+ "bb620cd9d6": {
+  "instruction": {
+   "amount of loan": "2000",
+   "term length": "5",
+   "ANSWER": "37.29"
+  }
+ },
+ "60bf9875c9": {
+  "instruction": {
+   "amount of loan": "6530",
+   "term length": "1 years",
+   "ANSWER": " $557.52 monthly payment at today's rates 4.50 "
+  }
+ },
+ "bed8ceedfc": {
+  "instruction": {
+   "amount of loan": "456000",
+   "term length": "14",
+   "ANSWER": "3,663.39"
+  }
+ },
+ "d424294595": {
+  "instruction": {
+   "amount of loan": "120000",
+   "term length": "5",
+   "ANSWER": "2,237.16"
+  }
+ },
+ "7c38c0b2be": {
+  "instruction": {
+   "amount of loan": "3000",
+   "term length": "15 years"
+  }
+ },
+ "18a71bbb9d": {
+  "instruction": {
+   "amount of loan": "45000",
+   "term length": "5",
+   "ANSWER": "838.94"
+  }
+ },
+ "349946aada": {
+  "instruction": {
+   "amount of loan": "28800",
+   "term length": "3 years",
+   "ANSWER": "856.71"
+  }
+ },
+ "8be014c4c4": {
+  "instruction": {
+   "amount of loan": "8500",
+   "term length": "3 years"
+  }
+ },
+ "da58471609": {
+  "instruction": {
+   "amount of loan": "20000",
+   "term length": "5",
+   "ANSWER": "372.86"
+  }
+ },
+ "44b40dcf2b": {
+  "instruction": {
+   "amount of loan": "2000",
+   "term length": "10 years"
+  }
+ },
+ "17a87309c0": {
+  "instruction": {
+   "amount of loan": "4000",
+   "term length": "5",
+   "ANSWER": "74.57"
+  }
+ },
+ "4813f6399b": {
+  "instruction": {
+   "amount of loan": "244000",
+   "term length": "15 years",
+   "ANSWER": "1866.58"
+  }
+ },
+ "c5c768c715": {
+  "instruction": {
+   "amount of loan": "4500",
+   "term length": "2 years",
+   "ANSWER": "196.42"
+  }
+ },
+ "025185ce5e": {
+  "instruction": {
+   "amount of loan": "7000",
+   "term length": "2",
+   "ANSWER": "305.53"
+  }
+ }
+}

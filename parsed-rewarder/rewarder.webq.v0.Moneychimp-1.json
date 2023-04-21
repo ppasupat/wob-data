@@ -1,0 +1,82 @@
+{
+ "75aae0badd": {
+  "instruction": {
+   "annual addition": "700",
+   "interest rate": "3",
+   "Current Principal": "8800",
+   "Years to grow": "6"
+  }
+ },
+ "0be34f5613": {
+  "instruction": {
+   "annual addition": "10",
+   "interest rate": "20",
+   "Current Principal": "100",
+   "Years to grow": "20"
+  }
+ },
+ "7eaa5f726f": {
+  "instruction": {
+   "annual addition": "300",
+   "interest rate": "30",
+   "Current Principal": "300",
+   "Years to grow": "30"
+  }
+ },
+ "fdd72f129f": {
+  "instruction": {
+   "annual addition": "200",
+   "interest rate": "6.3",
+   "Current Principal": "10000",
+   "Years to grow": "5"
+  }
+ },
+ "223c082f34": {
+  "instruction": {
+   "annual addition": "20",
+   "interest rate": "2",
+   "Current Principal": "5000",
+   "Years to grow": "30"
+  }
+ },
+ "e507846a43": {
+  "instruction": {
+   "annual addition": "200",
+   "interest rate": "2",
+   "Current Principal": "9000",
+   "Years to grow": "35"
+  }
+ },
+ "eecf872730": {
+  "instruction": {
+   "annual addition": "100",
+   "interest rate": "5",
+   "Current Principal": "1000",
+   "Years to grow": "10"
+  }
+ },
+ "36013c7883": {
+  "instruction": {
+   "annual addition": "100000",
+   "interest rate": "9",
+   "Current Principal": "900000",
+   "Years to grow": "20"
+  }
+ },
+ "b88700e470": {
+  "instruction": {
+   "annual addition": "389",
+   "interest rate": "5.5",
+   "Current Principal": "1334",
+   "Years to grow": "24"
+  }
+ },
+ "108b977ca2": {
+  "instruction": {
+   "annual addition": "399",
+   "interest rate": "10.2",
+   "Current Principal": "9000",
+   "Years to grow": "38"
+  }
+ }
+}

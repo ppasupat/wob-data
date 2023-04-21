@@ -1,0 +1,1214 @@
+{
+ "2a6677e161": {
+  "instruction": {
+   "year": "2012",
+   "ANSWER": "208",
+   "player": "Anthony Tolliver"
+  }
+ },
+ "3bcdc5f2b9": {
+  "instruction": {
+   "year": "2014",
+   "ANSWER": "16.9",
+   "player": "Andrew Wiggins"
+  }
+ },
+ "153fed1543": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "535",
+   "player": "Tony Allen"
+  }
+ },
+ "1f6a9402c9": {
+  "instruction": {
+   "year": "2014",
+   "player": "Cody Zeller",
+   "ANSWER": "472"
+  }
+ },
+ "31788634a9": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "307",
+   "player": "Quincy Acy"
+  }
+ },
+ "cef7a0c22c": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "636",
+   "player": "Steven Adams"
+  }
+ },
+ "bd04273147": {
+  "instruction": {
+   "year": "2000",
+   "ANSWER": "2344",
+   "player": "Shaquille O'Neal"
+  }
+ },
+ "fcf8ec63bb": {
+  "instruction": {
+   "year": "2009",
+   "player": "LeBron James",
+   "ANSWER": "2304"
+  }
+ },
+ "0299905713": {
+  "instruction": {
+   "year": "2011",
+   "player": "Andrew Bogut"
+  }
+ },
+ "9335ad5319": {
+  "instruction": {
+   "year": "1994",
+   "player": "Matt Bullard",
+   "ANSWER": "226"
+  }
+ },
+ "553b643822": {
+  "instruction": {
+   "year": "2007",
+   "player": "Dan Gadzuric"
+  }
+ },
+ "80ff9b75b6": {
+  "instruction": {
+   "year": "1974",
+   "ANSWER": "2299",
+   "player": "Julius Erving"
+  }
+ },
+ "7329d051a6": {
+  "instruction": {
+   "year": "1992",
+   "ANSWER": "1970",
+   "player": "Patrick Ewing"
+  }
+ },
+ "28404dab53": {
+  "instruction": {
+   "year": "2016",
+   "player": "Lavoy Allen",
+   "ANSWER": "428"
+  }
+ },
+ "9a8ef07fe2": {
+  "instruction": {
+   "year": "2016",
+   "player": "Nikola Jokic",
+   "ANSWER": "16.3"
+  }
+ },
+ "b63c2c2340": {
+  "instruction": {
+   "year": "2008",
+   "player": "Damon Jones",
+   "ANSWER": "437"
+  }
+ },
+ "d660aaa1a3": {
+  "instruction": {
+   "year": "2013",
+   "player": "Paul Pierce",
+   "ANSWER": "1430"
+  }
+ },
+ "cdfe6d6c5f": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "29.2",
+   "player": "James Harden"
+  }
+ },
+ "a2c02c3272": {
+  "instruction": {
+   "year": "1992",
+   "ANSWER": "512",
+   "player": "Matt Bullard"
+  }
+ },
+ "83b98e735d": {
+  "instruction": {
+   "year": "2002",
+   "ANSWER": "910",
+   "player": "Antonio Davis"
+  }
+ },
+ "d3374c5d27": {
+  "instruction": {
+   "year": "1994",
+   "ANSWER": "2383",
+   "player": "David Robinson"
+  }
+ },
+ "604351dfd9": {
+  "instruction": {
+   "year": "2002",
+   "player": "Antonio Davis",
+   "ANSWER": "910"
+  }
+ },
+ "3ea4a7959a": {
+  "instruction": {
+   "year": "2003",
+   "ANSWER": "2461",
+   "player": "Kobe Bryant"
+  }
+ },
+ "9d3f1dc4fe": {
+  "instruction": {
+   "year": "2016",
+   "player": "James Harden",
+   "ANSWER": "2376"
+  }
+ },
+ "ecc04c5606": {
+  "instruction": {
+   "year": "2012",
+   "player": "Anthony Tolliver",
+   "ANSWER": "208"
+  }
+ },
+ "b462d6e85a": {
+  "instruction": {
+   "year": "2015",
+   "player": "Willie Cauley-Stein"
+  }
+ },
+ "760c2a4c7e": {
+  "instruction": {
+   "year": "2002",
+   "player": "Paul Pierce",
+   "ANSWER": "2144"
+  }
+ },
+ "93f801b6cc": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "428",
+   "player": "Lavoy Allen"
+  }
+ },
+ "396c1fab66": {
+  "instruction": {
+   "year": "1968",
+   "player": "Billy Cunningham",
+   "ANSWER": "2034"
+  }
+ },
+ "67cda9516f": {
+  "instruction": {
+   "year": "2009",
+   "ANSWER": "2304",
+   "player": "LeBron James"
+  }
+ },
+ "990a4d1f2e": {
+  "instruction": {
+   "year": "2009",
+   "player": "Sundiata Gaines"
+  }
+ },
+ "d58f0f9efa": {
+  "instruction": {
+   "year": "2016",
+   "player": "Steph Curry"
+  }
+ },
+ "06c14a6aba": {
+  "instruction": {
+   "year": "2016",
+   "player": "Stephen Curry",
+   "ANSWER": "24.7"
+  }
+ },
+ "3ccfc97f34": {
+  "instruction": {
+   "year": "2016",
+   "player": "Serge Ibaka",
+   "ANSWER": "15.1"
+  }
+ },
+ "9e0019c7d5": {
+  "instruction": {
+   "year": "2016",
+   "player": "LaMarcus Aldridge",
+   "ANSWER": "1331"
+  }
+ },
+ "048642ecc9": {
+  "instruction": {
+   "year": "2009",
+   "ANSWER": "30.01",
+   "player": "Kevin Durant"
+  }
+ },
+ "2af1483299": {
+  "instruction": {
+   "year": "1992",
+   "player": "Matt Bullard",
+   "ANSWER": "512"
+  }
+ },
+ "d378c19d1b": {
+  "instruction": {
+   "year": "2009",
+   "ANSWER": "2386",
+   "player": "Dwyane Wade"
+  }
+ },
+ "f0897d007e": {
+  "instruction": {
+   "year": "2013",
+   "player": "Russell Westbrook",
+   "ANSWER": "1002"
+  }
+ },
+ "fc4ba93169": {
+  "instruction": {
+   "year": "2013",
+   "ANSWER": "1455",
+   "player": "Kemba Walker"
+  }
+ },
+ "8b4f7eba2e": {
+  "instruction": {
+   "year": "2016",
+   "player": "Quincy Acy",
+   "ANSWER": "307"
+  }
+ },
+ "aed9fa4279": {
+  "instruction": {
+   "year": "2001",
+   "ANSWER": "1898",
+   "player": "Chris Webber"
+  }
+ },
+ "486d015c7e": {
+  "instruction": {
+   "year": "1988",
+   "player": "Charles Barkey"
+  }
+ },
+ "5a6aac1c0b": {
+  "instruction": {
+   "year": "2016",
+   "player": "Mason Plumlee",
+   "ANSWER": "11.1"
+  }
+ },
+ "3cbe6331cf": {
+  "instruction": {
+   "year": "2013",
+   "player": "Kemba Walker",
+   "ANSWER": "1455"
+  }
+ },
+ "d4277f6175": {
+  "instruction": {
+   "year": "2012",
+   "player": "Nate Robinson"
+  }
+ },
+ "21b170b84d": {
+  "instruction": {
+   "year": "2011",
+   "player": "Dwight Howard",
+   "ANSWER": "20.6"
+  }
+ },
+ "ceb91c51a4": {
+  "instruction": {
+   "year": "1981",
+   "player": "Kareem Abdul-Jabbar",
+   "ANSWER": "2095"
+  }
+ },
+ "237e0f10f2": {
+  "instruction": {
+   "year": "1983",
+   "player": "Kyle Macy"
+  }
+ },
+ "e274f8bce9": {
+  "instruction": {
+   "year": "2004",
+   "ANSWER": "27.12",
+   "player": "LeBron James"
+  }
+ },
+ "20afba1e59": {
+  "instruction": {
+   "year": "2010",
+   "ANSWER": "473",
+   "player": "Eddie House"
+  }
+ },
+ "ead4225709": {
+  "instruction": {
+   "year": "2009",
+   "player": "Thaddeus Young",
+   "ANSWER": "1145"
+  }
+ },
+ "87dc6d46a7": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "7",
+   "player": "Jordan Adams"
+  }
+ },
+ "fff58b6c1e": {
+  "instruction": {
+   "year": "2012",
+   "ANSWER": "106",
+   "player": "Dexter Pittman"
+  }
+ },
+ "49353d9ed7": {
+  "instruction": {
+   "year": "2016",
+   "player": "Russell Westbrook",
+   "ANSWER": "31.1"
+  }
+ },
+ "bac02c9b62": {
+  "instruction": {
+   "year": "2011",
+   "ANSWER": "573",
+   "player": "Brandon Roy"
+  }
+ },
+ "45e94cedd8": {
+  "instruction": {
+   "year": "2007",
+   "player": "Kobe Bryant",
+   "ANSWER": "2430"
+  }
+ },
+ "b5c3af6bc2": {
+  "instruction": {
+   "year": "2016",
+   "player": "Kevin Durant",
+   "ANSWER": "25.8"
+  }
+ },
+ "072f3633fe": {
+  "instruction": {
+   "year": "2016",
+   "player": "Cole Aldrich",
+   "ANSWER": "328"
+  }
+ },
+ "bdfc390c0f": {
+  "instruction": {
+   "year": "2009",
+   "player": "Kevin Durant",
+   "ANSWER": "30.01"
+  }
+ },
+ "2f256a6bca": {
+  "instruction": {
+   "year": "2003",
+   "player": "Jason Williams",
+   "ANSWER": "782"
+  }
+ },
+ "ab3a3fca31": {
+  "instruction": {
+   "year": "2016",
+   "player": "James Harden",
+   "ANSWER": "29.2"
+  }
+ },
+ "95f4ad65d7": {
+  "instruction": {
+   "year": "2016",
+   "player": "Arron Afflalo",
+   "ANSWER": "909"
+  }
+ },
+ "f8696fa80d": {
+  "instruction": {
+   "year": "2011",
+   "ANSWER": "20.6",
+   "player": "Dwight Howard"
+  }
+ },
+ "5db7637fd3": {
+  "instruction": {
+   "year": "2015",
+   "ANSWER": "1886",
+   "player": "Russell Westbrook"
+  }
+ },
+ "bd8a6c006b": {
+  "instruction": {
+   "year": "2013",
+   "ANSWER": "1002",
+   "player": "Russell Westbrook"
+  }
+ },
+ "a2f17efffd": {
+  "instruction": {
+   "year": "1998",
+   "player": "Bo Outlaw"
+  }
+ },
+ "1da76d9b92": {
+  "instruction": {
+   "year": "2016",
+   "player": "Kristaps Porzingis",
+   "ANSWER": "18.3"
+  }
+ },
+ "ab9a99c32e": {
+  "instruction": {
+   "year": "2009",
+   "ANSWER": "158",
+   "player": "Ramon Sessions"
+  }
+ },
+ "a06c71d8d1": {
+  "instruction": {
+   "year": "2011",
+   "player": "Brandon Roy",
+   "ANSWER": "573"
+  }
+ },
+ "987d4be8a1": {
+  "instruction": {
+   "year": "2001",
+   "ANSWER": "616",
+   "player": "Arvydas Sabonis"
+  }
+ },
+ "6a74a6b192": {
+  "instruction": {
+   "year": "1977",
+   "player": "Fred Saunders"
+  }
+ },
+ "731ee96a3d": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "31.1",
+   "player": "Russell Westbrook"
+  }
+ },
+ "08c5579246": {
+  "instruction": {
+   "year": "2016",
+   "player": "Charles Barkley",
+   "ANSWER": "22.1"
+  }
+ },
+ "7df60dbaef": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "1331",
+   "player": "LaMarcus Aldridge"
+  }
+ },
+ "4ee456bbff": {
+  "instruction": {
+   "year": "2006",
+   "player": "Yao Ming",
+   "ANSWER": "1202"
+  }
+ },
+ "e82e205d23": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "909",
+   "player": "Arron Afflalo"
+  }
+ },
+ "e37b7d1c4c": {
+  "instruction": {
+   "year": "2013",
+   "player": "Kyrie Irving",
+   "ANSWER": "1478"
+  }
+ },
+ "6a5579ce3e": {
+  "instruction": {
+   "year": "1994",
+   "player": "David Robinson",
+   "ANSWER": "2383"
+  }
+ },
+ "83a58aa155": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "23.7",
+   "player": "Karl-Anthony Towns"
+  }
+ },
+ "da439e056b": {
+  "instruction": {
+   "year": "1982",
+   "ANSWER": "2551",
+   "player": "George Gervin"
+  }
+ },
+ "a1c3b48367": {
+  "instruction": {
+   "year": "2015",
+   "ANSWER": "1463",
+   "player": "Gordon Hayward"
+  }
+ },
+ "c032ff03f8": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "2376",
+   "player": "James Harden"
+  }
+ },
+ "499f21ddcc": {
+  "instruction": {
+   "year": "2011",
+   "player": "Serge Ibaka",
+   "ANSWER": "808"
+  }
+ },
+ "18bd6b2fcc": {
+  "instruction": {
+   "year": "2014",
+   "player": "Andrew Wiggins",
+   "ANSWER": "16.9"
+  }
+ },
+ "8097920054": {
+  "instruction": {
+   "year": "2013",
+   "player": "DeAndre Jordan",
+   "ANSWER": "10.4"
+  }
+ },
+ "c1532974a9": {
+  "instruction": {
+   "year": "2003",
+   "ANSWER": "782",
+   "player": "Jason Williams"
+  }
+ },
+ "ae8bc87762": {
+  "instruction": {
+   "year": "1992",
+   "player": "Clyde Drexler",
+   "ANSWER": "1903"
+  }
+ },
+ "72dd725703": {
+  "instruction": {
+   "year": "2012",
+   "ANSWER": "1558",
+   "player": "Russell Westbrook"
+  }
+ },
+ "29bc831f47": {
+  "instruction": {
+   "year": "2014",
+   "player": "Zach Randolph",
+   "ANSWER": "1372"
+  }
+ },
+ "c22ff27cdf": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "16.3",
+   "player": "Nikola Jokic"
+  }
+ },
+ "1f8830ebb0": {
+  "instruction": {
+   "year": "2014",
+   "player": "Lebron James"
+  }
+ },
+ "f035a73d30": {
+  "instruction": {
+   "year": "2004",
+   "player": "LeBron James",
+   "ANSWER": "27.12"
+  }
+ },
+ "499d0be6aa": {
+  "instruction": {
+   "year": "2016",
+   "player": "Alexis Ajinca",
+   "ANSWER": "352"
+  }
+ },
+ "5fb086158e": {
+  "instruction": {
+   "year": "2016",
+   "player": "Joel Embiid",
+   "ANSWER": "20.2"
+  }
+ },
+ "1f2d11a3bc": {
+  "instruction": {
+   "year": "2014",
+   "player": "Wesley Matthews"
+  }
+ },
+ "63029f0471": {
+  "instruction": {
+   "year": "1992",
+   "player": "Gerald Paddio"
+  }
+ },
+ "e2dfd84d5a": {
+  "instruction": {
+   "year": "2012",
+   "player": "Russell Westbrook",
+   "ANSWER": "1558"
+  }
+ },
+ "2baeec7cb7": {
+  "instruction": {
+   "year": "2014",
+   "player": "Kevin Durant",
+   "ANSWER": "2593"
+  }
+ },
+ "2893463675": {
+  "instruction": {
+   "year": "2005",
+   "player": "Beno Udrih",
+   "ANSWER": "471"
+  }
+ },
+ "78c4bbbc67": {
+  "instruction": {
+   "year": "1981",
+   "ANSWER": "2095",
+   "player": "Kareem Abdul-Jabbar"
+  }
+ },
+ "f1a4c3dff0": {
+  "instruction": {
+   "year": "2012",
+   "player": "Dexter Pittman",
+   "ANSWER": "106"
+  }
+ },
+ "a2b08fb9ca": {
+  "instruction": {
+   "year": "2009",
+   "player": "Dwyane Wade",
+   "ANSWER": "2386"
+  }
+ },
+ "3356080b3c": {
+  "instruction": {
+   "year": "2016",
+   "player": "Steven Adams",
+   "ANSWER": "636"
+  }
+ },
+ "d77a10ec4a": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "23.4",
+   "player": "Carmelo Anthony"
+  }
+ },
+ "06259b04f0": {
+  "instruction": {
+   "year": "2008",
+   "ANSWER": "437",
+   "player": "Damon Jones"
+  }
+ },
+ "634ab8c88a": {
+  "instruction": {
+   "year": "2011",
+   "ANSWER": "106",
+   "player": "Dexter Pittman"
+  }
+ },
+ "f4adb46d8e": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "18.3",
+   "player": "Kristaps Porzingis"
+  }
+ },
+ "2792fc05be": {
+  "instruction": {
+   "year": "2011",
+   "player": "Dexter Pittman",
+   "ANSWER": "106"
+  }
+ },
+ "27ecc0a2f1": {
+  "instruction": {
+   "year": "1994",
+   "ANSWER": "226",
+   "player": "Matt Bullard"
+  }
+ },
+ "b0c572b456": {
+  "instruction": {
+   "year": "2014",
+   "player": "Stephen Curry",
+   "ANSWER": "1873"
+  }
+ },
+ "f7421b1357": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "328",
+   "player": "Cole Aldrich"
+  }
+ },
+ "42cfc0ca8e": {
+  "instruction": {
+   "year": "2016",
+   "player": "Karl-Anthony Towns",
+   "ANSWER": "23.7"
+  }
+ },
+ "e7ff947d93": {
+  "instruction": {
+   "year": "2005",
+   "ANSWER": "471",
+   "player": "Beno Udrih"
+  }
+ },
+ "81a45bb002": {
+  "instruction": {
+   "year": "2016",
+   "player": "Carmelo Anthony",
+   "ANSWER": "23.4"
+  }
+ },
+ "087aa2a94e": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "352",
+   "player": "Alexis Ajinca"
+  }
+ },
+ "1cfec8ff44": {
+  "instruction": {
+   "year": "2011",
+   "ANSWER": "808",
+   "player": "Serge Ibaka"
+  }
+ },
+ "373d4e6108": {
+  "instruction": {
+   "year": "2016",
+   "player": "Tony Allen",
+   "ANSWER": "535"
+  }
+ },
+ "002d86e259": {
+  "instruction": {
+   "year": "2015",
+   "ANSWER": "2217",
+   "player": "James Harden"
+  }
+ },
+ "0c7350eb7a": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "15.1",
+   "player": "Serge Ibaka"
+  }
+ },
+ "be265adf28": {
+  "instruction": {
+   "year": "2000",
+   "player": "Shaquille O'Neal",
+   "ANSWER": "2344"
+  }
+ },
+ "4c55ff5255": {
+  "instruction": {
+   "year": "2013",
+   "ANSWER": "10.4",
+   "player": "DeAndre Jordan"
+  }
+ },
+ "dc385bf6db": {
+  "instruction": {
+   "year": "1992",
+   "ANSWER": "1903",
+   "player": "Clyde Drexler"
+  }
+ },
+ "6aa955b595": {
+  "instruction": {
+   "year": "1977",
+   "player": "Dave Cowens",
+   "ANSWER": "1435"
+  }
+ },
+ "03ef8e2be2": {
+  "instruction": {
+   "year": "2013",
+   "ANSWER": "1430",
+   "player": "Paul Pierce"
+  }
+ },
+ "396e5975dc": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "24.7",
+   "player": "Stephen Curry"
+  }
+ },
+ "2b7345b5c4": {
+  "instruction": {
+   "year": "2002",
+   "ANSWER": "2144",
+   "player": "Paul Pierce"
+  }
+ },
+ "42610ed210": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "20.2",
+   "player": "Joel Embiid"
+  }
+ },
+ "9eeed467ca": {
+  "instruction": {
+   "year": "2016",
+   "player": "Jordan Adams",
+   "ANSWER": "7"
+  }
+ },
+ "78619779c7": {
+  "instruction": {
+   "year": "2016",
+   "player": "Jahlil Okafor",
+   "ANSWER": "11.4"
+  }
+ },
+ "5cf10854da": {
+  "instruction": {
+   "year": "1999",
+   "player": "Cory Alexander"
+  }
+ },
+ "eac6ed8429": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "11.1",
+   "player": "Mason Plumlee"
+  }
+ },
+ "c14ccb8cc2": {
+  "instruction": {
+   "year": "2009",
+   "ANSWER": "1145",
+   "player": "Thaddeus Young"
+  }
+ },
+ "c64a17e0f8": {
+  "instruction": {
+   "year": "2003",
+   "player": "Kobe Bryant",
+   "ANSWER": "1557"
+  }
+ },
+ "2cb819f5d8": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "1041",
+   "player": "Kyrie Irving"
+  }
+ },
+ "f886345dff": {
+  "instruction": {
+   "year": "2013",
+   "ANSWER": "1478",
+   "player": "Kyrie Irving"
+  }
+ },
+ "e8f3fca907": {
+  "instruction": {
+   "year": "2004",
+   "player": "Kevin Garnett",
+   "ANSWER": "1987"
+  }
+ },
+ "b0ad2af451": {
+  "instruction": {
+   "year": "1982",
+   "player": "George Gervin",
+   "ANSWER": "2551"
+  }
+ },
+ "d39286c2a7": {
+  "instruction": {
+   "year": "1992",
+   "player": "Patrick Ewing",
+   "ANSWER": "1970"
+  }
+ },
+ "333d3cecdf": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "25.9",
+   "player": "LeBron James"
+  }
+ },
+ "83696e6729": {
+  "instruction": {
+   "year": "1988",
+   "player": "Charles Davis"
+  }
+ },
+ "cbf2399a82": {
+  "instruction": {
+   "year": "2014",
+   "ANSWER": "1372",
+   "player": "Zach Randolph"
+  }
+ },
+ "fc075c6158": {
+  "instruction": {
+   "year": "2016",
+   "player": "LeBron James",
+   "ANSWER": "25.9"
+  }
+ },
+ "58481e9ae2": {
+  "instruction": {
+   "year": "2006",
+   "ANSWER": "1202",
+   "player": "Yao Ming"
+  }
+ },
+ "2a4a0f70a7": {
+  "instruction": {
+   "year": "2001",
+   "player": "Chris Webber",
+   "ANSWER": "1898"
+  }
+ },
+ "cd62581c87": {
+  "instruction": {
+   "year": "2015",
+   "player": "James Harden",
+   "ANSWER": "2217"
+  }
+ },
+ "461ff8d1a7": {
+  "instruction": {
+   "year": "2001",
+   "player": "Arvydas Sabonis",
+   "ANSWER": "616"
+  }
+ },
+ "9b53b2bb21": {
+  "instruction": {
+   "year": "2003",
+   "ANSWER": "1557",
+   "player": "Kobe Bryant"
+  }
+ },
+ "399bb055e6": {
+  "instruction": {
+   "year": "1977",
+   "ANSWER": "1435",
+   "player": "Dave Cowens"
+  }
+ },
+ "e5802261b6": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "25.8",
+   "player": "Kevin Durant"
+  }
+ },
+ "df9357eedd": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "839",
+   "player": "Al-Farouq Aminu"
+  }
+ },
+ "097ca04281": {
+  "instruction": {
+   "year": "2014",
+   "ANSWER": "472",
+   "player": "Cody Zeller"
+  }
+ },
+ "ab186f41cc": {
+  "instruction": {
+   "year": "2007",
+   "ANSWER": "2430",
+   "player": "Kobe Bryant"
+  }
+ },
+ "75c9c09286": {
+  "instruction": {
+   "year": "2016",
+   "player": "Al-Farouq Aminu",
+   "ANSWER": "839"
+  }
+ },
+ "237e94c376": {
+  "instruction": {
+   "year": "2013",
+   "player": "Joe Johnson"
+  }
+ },
+ "fe004201c8": {
+  "instruction": {
+   "year": "1974",
+   "player": "Julius Erving",
+   "ANSWER": "2299"
+  }
+ },
+ "42b12e26b9": {
+  "instruction": {
+   "year": "2003",
+   "player": "Kobe Bryant",
+   "ANSWER": "2461"
+  }
+ },
+ "61dfa06b11": {
+  "instruction": {
+   "year": "1968",
+   "ANSWER": "2034",
+   "player": "Billy Cunningham"
+  }
+ },
+ "d52ba50975": {
+  "instruction": {
+   "year": "2015",
+   "player": "Russell Westbrook",
+   "ANSWER": "1886"
+  }
+ },
+ "ea60200567": {
+  "instruction": {
+   "year": "2004",
+   "ANSWER": "1987",
+   "player": "Kevin Garnett"
+  }
+ },
+ "1333427749": {
+  "instruction": {
+   "year": "2009",
+   "player": "Ramon Sessions",
+   "ANSWER": "158"
+  }
+ },
+ "e674deb105": {
+  "instruction": {
+   "year": "2015",
+   "player": "Carmelo Anthony"
+  }
+ },
+ "6f600edcee": {
+  "instruction": {
+   "year": "2010",
+   "player": "Eddie House",
+   "ANSWER": "473"
+  }
+ },
+ "23f350cb23": {
+  "instruction": {
+   "year": "2016",
+   "player": "Serge Ibaka",
+   "ANSWER": "983"
+  }
+ },
+ "e623722440": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "14.6",
+   "player": "Andre Drummond"
+  }
+ },
+ "4dde5a8081": {
+  "instruction": {
+   "year": "2014",
+   "ANSWER": "1873",
+   "player": "Stephen Curry"
+  }
+ },
+ "6b2834e0fa": {
+  "instruction": {
+   "year": "1990",
+   "player": "Michael Jordan"
+  }
+ },
+ "08f1e633da": {
+  "instruction": {
+   "year": "2006",
+   "player": "Royal Ivey"
+  }
+ },
+ "edf44b3117": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "22.1",
+   "player": "Charles Barkley"
+  }
+ },
+ "6c7749f143": {
+  "instruction": {
+   "year": "2014",
+   "ANSWER": "2593",
+   "player": "Kevin Durant"
+  }
+ },
+ "bc03e4df60": {
+  "instruction": {
+   "year": "2014",
+   "player": "Shelvin Mack"
+  }
+ },
+ "80a453c61c": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "983",
+   "player": "Serge Ibaka"
+  }
+ },
+ "447a9ab66e": {
+  "instruction": {
+   "year": "2016",
+   "player": "Kyrie Irving",
+   "ANSWER": "1041"
+  }
+ },
+ "cb8ceb39f9": {
+  "instruction": {
+   "year": "2016",
+   "player": "Andre Drummond",
+   "ANSWER": "14.6"
+  }
+ },
+ "851fc65104": {
+  "instruction": {
+   "year": "2015",
+   "player": "Gordon Hayward",
+   "ANSWER": "1463"
+  }
+ },
+ "7bab81222f": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "11.4",
+   "player": "Jahlil Okafor"
+  }
+ }
+}

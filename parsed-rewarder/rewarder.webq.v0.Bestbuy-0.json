@@ -1,0 +1,928 @@
+{
+ "3d78dbb7fb": {
+  "instruction": {
+   "ANSWER": "$279.99",
+   "TV": "Westinghouse - 50\" Class (49.5\" Diag.) - LED - 1080p - Smart - HDTV"
+  }
+ },
+ "396693b1b3": {
+  "instruction": {
+   "ANSWER": "$379.99",
+   "TV": "Sony - 40\" class (39.5\" Diag.) - LED - 1080p - Smart - HDTV"
+  }
+ },
+ "3b9a5c8bca": {
+  "instruction": {
+   "TV": "Sony - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD",
+   "ANSWER": "899.99"
+  }
+ },
+ "0d576b374e": {
+  "instruction": {
+   "TV": "Sony - 55\" Class (54.6\" Diag.) - 2160p - Smart - 4K Ultra HD",
+   "ANSWER": "1099.99"
+  }
+ },
+ "b6d5595aee": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 55\"- LED - 1080p - HDTV ",
+   "ANSWER": "$349.99"
+  }
+ },
+ "8be9b3a950": {
+  "instruction": {
+   "TV": "LG - 43\" Class (42.5\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+   "ANSWER": "$279.99"
+  }
+ },
+ "f951a14692": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 24\" Class (23.6\" Diag.) - LED - 720p - HDTV - Black",
+   "ANSWER": "$69.99"
+  }
+ },
+ "c20e137086": {
+  "instruction": {
+   "ANSWER": "499.99",
+   "TV": "LG - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD"
+  }
+ },
+ "6352688a4d": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 24\"- LED - 720p - HDTV ",
+   "ANSWER": "$69.99"
+  }
+ },
+ "c1853ccb09": {
+  "instruction": {
+   "TV": "Sharp - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Gray",
+   "ANSWER": "$449.99"
+  }
+ },
+ "37bbd24287": {
+  "instruction": {
+   "TV": "LG - 55\" Class (54.6\" Diag.) - LED - 1080p - Smart - HDTV",
+   "ANSWER": "$399.99"
+  }
+ },
+ "3567815bf3": {
+  "instruction": {
+   "ANSWER": "$449.99",
+   "TV": "Sharp - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Gray"
+  }
+ },
+ "f046e01776": {
+  "instruction": {
+   "ANSWER": "$179.99",
+   "TV": "Westinghouse - 40\" Class (39.5\" Diag.) - LED - 1080p - Smart - HDTV"
+  }
+ },
+ "005623361b": {
+  "instruction": {
+   "TV": "Sharp - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD ",
+   "ANSWER": "449.99"
+  }
+ },
+ "2983242fc0": {
+  "instruction": {
+   "TV": "Toshiba - 50\" Class (49.5\" Diag.) - LED - 1080p - HDTV - Black",
+   "ANSWER": "$269.99"
+  }
+ },
+ "6c5ac2aca6": {
+  "instruction": {
+   "ANSWER": "499.99",
+   "TV": "Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD"
+  }
+ },
+ "6fc6026b5a": {
+  "instruction": {
+   "TV": "Samsung - 55\" Class - (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD",
+   "ANSWER": "1199.99"
+  }
+ },
+ "f426d812b5": {
+  "instruction": {
+   "TV": "Hisense - 32\" Class (31.5\" Diag.) - LED - 720p - HDTV",
+   "ANSWER": "$99.99"
+  }
+ },
+ "3a22fdec68": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 55\" Class - (54.6\" Diag.) - LED - 1080p - HDTV",
+   "ANSWER": "349.99"
+  }
+ },
+ "f7d4da7c03": {
+  "instruction": {
+   "TV": "Sharp - 50\" Class (49.5\" Diag.) - LED - 1080p - Smart - HDTV Roku TV - Black",
+   "ANSWER": "$329.99"
+  }
+ },
+ "c08b9b92a2": {
+  "instruction": {
+   "TV": "Toshiba - 55\" - LED - 1080p - HDTV ",
+   "ANSWER": "$299.99"
+  }
+ },
+ "a6c1ed0c23": {
+  "instruction": {
+   "TV": "Samsung - 40\" - LED - 2160p - Smart - 4K Ultra HD TV "
+  }
+ },
+ "989c546872": {
+  "instruction": {
+   "ANSWER": "799.99",
+   "TV": "Samsung - 55\" Class - (54.6\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD"
+  }
+ },
+ "d2d051bf54": {
+  "instruction": {
+   "TV": "Hisense - 32\" - LED - 720p - HDTV"
+  }
+ },
+ "646df2aecd": {
+  "instruction": {
+   "TV": "LG - 55\"- LED - 1080p - Smart - HDTV ",
+   "ANSWER": "$399.99"
+  }
+ },
+ "a482fdaa39": {
+  "instruction": {
+   "ANSWER": "$1,999.99",
+   "TV": "Samsung - 65\" Class (64.5\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV"
+  }
+ },
+ "1c15eba487": {
+  "instruction": {
+   "ANSWER": "$779.99",
+   "TV": "VIZIO - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD Home Theater Display - Black"
+  }
+ },
+ "9c0f8a9800": {
+  "instruction": {
+   "TV": "Samsung - 70\" Class (69.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV",
+   "ANSWER": "$1,499.99"
+  }
+ },
+ "52777eb07f": {
+  "instruction": {
+   "ANSWER": "399.99",
+   "TV": "Toshiba - 55\" Class (54.6\" Diag.) - LED - 2160p - with Chromecast Built-in - 4K Ultra HD"
+  }
+ },
+ "3ef46c93e5": {
+  "instruction": {
+   "TV": "LG - 60\" - LED - 2160p - Smart - 4K Ultra HD TV"
+  }
+ },
+ "35c6156887": {
+  "instruction": {
+   "ANSWER": "$279.99",
+   "TV": "LG - 43\"- LED - 1080p - Smart - HDTV "
+  }
+ },
+ "b9397251be": {
+  "instruction": {
+   "ANSWER": "349.99",
+   "TV": "Insignia\u2122 - 55\" Class - (54.6\" Diag.) - LED - 1080p - HDTV"
+  }
+ },
+ "656fa89d1e": {
+  "instruction": {
+   "ANSWER": "$299.99",
+   "TV": "Toshiba - 43\" Class (42.5\" Diag.) - LED - 2160p - with Chromecast Built-in - 4K Ultra HD TV - Black"
+  }
+ },
+ "ef80de383f": {
+  "instruction": {
+   "ANSWER": "1099.99",
+   "TV": "Sony - 55\" Class (54.6\" Diag.) - 2160p - Smart - 4K Ultra HD"
+  }
+ },
+ "c4d6c53ed6": {
+  "instruction": {
+   "TV": "Samsung - 55\" Class (54.6\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV - with High Dynamic Range",
+   "ANSWER": "1299.99"
+  }
+ },
+ "2ffab5d336": {
+  "instruction": {
+   "TV": "Hisense - 50\" - 2160p - Smart - 4K Ultra HD TV"
+  }
+ },
+ "0b923fd8fb": {
+  "instruction": {
+   "TV": "Samsung - 65\" Class (64.5\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV - with High Dynamic Range - Black",
+   "ANSWER": "$1,599.99"
+  }
+ },
+ "00f5fea338": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 32\" - LED - 720p - HDTV"
+  }
+ },
+ "9a4a0b98ab": {
+  "instruction": {
+   "TV": "Toshiba - 50\" Class (49.5\" Diag.) - LED - 1080p - HDTV",
+   "ANSWER": "$269.99"
+  }
+ },
+ "2cc9ccb081": {
+  "instruction": {
+   "ANSWER": "$329.99",
+   "TV": "Insignia\u2122 - 55\" Class - (54.6\" Diag.) - LED - 1080p - HDTV - Black"
+  }
+ },
+ "47abffdaa8": {
+  "instruction": {
+   "TV": "Samsung - 55\" - LED - 2160p - Smart - 4K Ultra HD TV"
+  }
+ },
+ "ade88d1be0": {
+  "instruction": {
+   "ANSWER": "$99.99",
+   "TV": "Insignia\u2122 - 32\" Class - (31.5\" Diag.) - LED - 720p - HDTV - Black"
+  }
+ },
+ "4188172dec": {
+  "instruction": {
+   "TV": "Samsung - 65\" Class (64.5\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV",
+   "ANSWER": "$1,999.99"
+  }
+ },
+ "541ae141ae": {
+  "instruction": {
+   "ANSWER": "799.99",
+   "TV": "Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD"
+  }
+ },
+ "5202b613c9": {
+  "instruction": {
+   "ANSWER": "$1,299.99",
+   "TV": "Samsung - 55\" Class (54.6\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV - with High Dynamic Range - Black"
+  }
+ },
+ "459516456d": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 32\" Class (31.5\" Diag.) - LED - 720p - Smart - Roku TV - Black",
+   "ANSWER": "$149.99"
+  }
+ },
+ "f23f1c9510": {
+  "instruction": {
+   "ANSWER": "$1,199.99",
+   "TV": "Samsung - 65\" Class - (64.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV with High Dynamic Range - Black"
+  }
+ },
+ "aee275b2b5": {
+  "instruction": {
+   "ANSWER": "$279.99",
+   "TV": "Samsung - 40\" Class (39-1/2\" Diag.) - LED - 1080p - HDTV - Black"
+  }
+ },
+ "c4fa99fd03": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 39\" Class (38.5\" Diag.) - LED - 720p - HDTV - Black",
+   "ANSWER": "$149.99"
+  }
+ },
+ "eff355eb2e": {
+  "instruction": {
+   "TV": "Westinghouse - 40\" Class (39.5\" Diag.) - LED - 1080p - Smart - HDTV",
+   "ANSWER": "179.99"
+  }
+ },
+ "68348b4757": {
+  "instruction": {
+   "TV": "Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD",
+   "ANSWER": "799.99"
+  }
+ },
+ "2f03355ac7": {
+  "instruction": {
+   "TV": "Hisense - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV with High Dynamic Range",
+   "ANSWER": "$749.99"
+  }
+ },
+ "522000b63f": {
+  "instruction": {
+   "TV": "Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD",
+   "ANSWER": "499.99"
+  }
+ },
+ "f87de09400": {
+  "instruction": {
+   "TV": "Samsung - 65\" Class - (64.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV with High Dynamic Range - Black",
+   "ANSWER": "$1,199.99"
+  }
+ },
+ "3da4055a9d": {
+  "instruction": {
+   "ANSWER": "$329.99",
+   "TV": "Samsung - 40\" Class (40\" Diag.) - LED - 1080p - Smart - HDTV - Black"
+  }
+ },
+ "4739431aa1": {
+  "instruction": {
+   "TV": "Samsung - 65\" Class (64.5\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV - with High Dynamic Range",
+   "ANSWER": "1599.99"
+  }
+ },
+ "77e772524d": {
+  "instruction": {
+   "TV": "Sharp - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV",
+   "ANSWER": " $449.99"
+  }
+ },
+ "81465405d2": {
+  "instruction": {
+   "TV": "Sharp - 50\" - LED - 1080p - Smart - HDTV Roku TV"
+  }
+ },
+ "01eb8d49c6": {
+  "instruction": {
+   "TV": "LG - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV with High Dynamic Range - Silver",
+   "ANSWER": "$1,099.99"
+  }
+ },
+ "e25f167cae": {
+  "instruction": {
+   "ANSWER": "$99.99",
+   "TV": "Hisense - 32\" Class (31.5\" Diag.) - LED - 720p - HDTV"
+  }
+ },
+ "09c6239aeb": {
+  "instruction": {
+   "ANSWER": "$179.99",
+   "TV": "Westinghouse - 40\" Class (39.5\" Diag.) - LED - 1080p - Smart - HDTV - Black"
+  }
+ },
+ "137d71b38b": {
+  "instruction": {
+   "ANSWER": "$499.99",
+   "TV": "Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black"
+  }
+ },
+ "b7c7e806c0": {
+  "instruction": {
+   "ANSWER": "$69.99",
+   "TV": "Insignia\u2122 - 24\"- LED - 720p - HDTV "
+  }
+ },
+ "4413084589": {
+  "instruction": {
+   "TV": "Toshiba - 49\" Class (48.5\" Diag.) - LED - 2160p - with Chromecast Built-in - 4K Ultra HD TV",
+   "ANSWER": "$349.99"
+  }
+ },
+ "9c5ea6347e": {
+  "instruction": {
+   "ANSWER": "$399.99",
+   "TV": "LG - 55\" Class (54.6\" Diag.) - LED - 1080p - Smart - HDTV - Black"
+  }
+ },
+ "db90615c97": {
+  "instruction": {
+   "ANSWER": "$299.99",
+   "TV": "Toshiba - 55\" - LED - 1080p - HDTV "
+  }
+ },
+ "66c0c20e59": {
+  "instruction": {
+   "ANSWER": "$1,599.99",
+   "TV": "Samsung - 65\" Class (64.5\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV"
+  }
+ },
+ "5de51fcf87": {
+  "instruction": {
+   "ANSWER": "449.99",
+   "TV": "Sharp - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD "
+  }
+ },
+ "cfbd4492b5": {
+  "instruction": {
+   "ANSWER": "528.99",
+   "TV": "VIZIO - 55\" Class (54.5\" Diag.) - LED - 2160p - with Chromecast Built-in - 4K Ultra HD"
+  }
+ },
+ "b80c03702c": {
+  "instruction": {
+   "ANSWER": "$1,099.99",
+   "TV": "LG - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV with High Dynamic Range - Silver"
+  }
+ },
+ "9462173210": {
+  "instruction": {
+   "TV": "Hisense - 32\" Class (31.5\" Diag.) - LED - 720p - HDTV",
+   "ANSWER": "99.99"
+  }
+ },
+ "1c68eac085": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 55\" Class - (54.6\" Diag.) - LED - 1080p - HDTV - Black",
+   "ANSWER": "$329.99"
+  }
+ },
+ "1c46284351": {
+  "instruction": {
+   "ANSWER": "$1,599.99",
+   "TV": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - with High Dynamic Range - Silver"
+  }
+ },
+ "445282d0ce": {
+  "instruction": {
+   "ANSWER": "$299.99",
+   "TV": "Toshiba - 55\" Class (54.6\" Diag.) - LED - 1080p - with Chromecast Built-in - HDTV - Black"
+  }
+ },
+ "e18bdd19e1": {
+  "instruction": {
+   "TV": "LG - 24\" - LED - 720p - HDTV"
+  }
+ },
+ "8b41001776": {
+  "instruction": {
+   "TV": "Samsung - 40\" Class (39-1/2\" Diag.) - LED - 1080p - HDTV - Black",
+   "ANSWER": "$279.99"
+  }
+ },
+ "050ae01cb8": {
+  "instruction": {
+   "TV": "Westinghouse - 40\" Class (39.5\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+   "ANSWER": "$179.99"
+  }
+ },
+ "3918b7e8ad": {
+  "instruction": {
+   "TV": "LG - 43\"- LED - 1080p - Smart - HDTV ",
+   "ANSWER": "$279.99"
+  }
+ },
+ "311af19c27": {
+  "instruction": {
+   "TV": "Sony - 65\" Class (64.5\" Diag.) - 2160p - Smart - 4K Ultra HD TV",
+   "ANSWER": "$1,399.99"
+  }
+ },
+ "27896e2e40": {
+  "instruction": {
+   "ANSWER": "1299.99",
+   "TV": "Samsung - 55\" Class (54.6\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV - with High Dynamic Range"
+  }
+ },
+ "3ab541c1bd": {
+  "instruction": {
+   "TV": "Westinghouse - 50\" Class (49.5\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+   "ANSWER": "$279.99"
+  }
+ },
+ "c5aa3d044d": {
+  "instruction": {
+   "TV": "Toshiba - 55\" Class (54.6\" Diag.) - LED - 1080p - with Chromecast Built-in - HDTV",
+   "ANSWER": "299.99"
+  }
+ },
+ "4a41043aa4": {
+  "instruction": {
+   "ANSWER": "$349.99",
+   "TV": "Insignia\u2122 - 55\" Class - (54.6\" Diag.) - LED - 1080p - HDTV"
+  }
+ },
+ "2c5edc56a5": {
+  "instruction": {
+   "TV": "Toshiba - 55\" Class (54.6\" Diag.) - LED - 1080p - with Chromecast Built-in - HDTV - Black",
+   "ANSWER": "$299.99"
+  }
+ },
+ "e7d9c09d0b": {
+  "instruction": {
+   "ANSWER": "$99.99",
+   "TV": "Insignia\u2122 - 32\" - LED - 720p - HDTV "
+  }
+ },
+ "7bd09f54df": {
+  "instruction": {
+   "ANSWER": "299.99",
+   "TV": "Toshiba - 55\" Class (54.6\" Diag.) - LED - 1080p - with Chromecast Built-in - HDTV"
+  }
+ },
+ "3b899268f0": {
+  "instruction": {
+   "TV": "LG - 55\" Class (54.6\" Diag.) - LED - 1080p - Smart - HDTV",
+   "ANSWER": "399.99"
+  }
+ },
+ "058c6d30fc": {
+  "instruction": {
+   "TV": "Samsung - 65\" - LED - Curved - 2160p - Smart - 4K Ultra HD TV ",
+   "ANSWER": "$1,599.99"
+  }
+ },
+ "822dbbe875": {
+  "instruction": {
+   "ANSWER": "$279.99",
+   "TV": "LG - 43\" Class (42.5\" Diag.) - LED - 1080p - Smart - HDTV - Black"
+  }
+ },
+ "9e2c1fc62a": {
+  "instruction": {
+   "ANSWER": "99.99",
+   "TV": "Hisense - 32\" Class (31.5\" Diag.) - LED - 720p - HDTV"
+  }
+ },
+ "1967285117": {
+  "instruction": {
+   "TV": "LG - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD",
+   "ANSWER": "499.99"
+  }
+ },
+ "23105a1a0d": {
+  "instruction": {
+   "TV": "Westinghouse - 50\" Class (49.5\" Diag.) - LED - 1080p - Smart - HDTV",
+   "ANSWER": "$279.99"
+  }
+ },
+ "10af1ba868": {
+  "instruction": {
+   "ANSWER": "1599.99",
+   "TV": "Samsung - 65\" Class (64.5\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV - with High Dynamic Range"
+  }
+ },
+ "1bc534b64e": {
+  "instruction": {
+   "ANSWER": "399.99",
+   "TV": "LG - 55\" Class (54.6\" Diag.) - LED - 1080p - Smart - HDTV"
+  }
+ },
+ "dbc7a1b724": {
+  "instruction": {
+   "ANSWER": "$79.99",
+   "TV": "LG - 24\" - LED - 720p - HDTV"
+  }
+ },
+ "42c7f8c18e": {
+  "instruction": {
+   "ANSWER": "$99.99",
+   "TV": "Insignia\u2122 - 32\" Class - (31.5\" Diag.) - LED - 720p - HDTV"
+  }
+ },
+ "9ae3b433dd": {
+  "instruction": {
+   "ANSWER": "279.99",
+   "TV": "LG - 43\" Class (42.5\" Diag.) - LED - 1080p - Smart - HDTV"
+  }
+ },
+ "9d3eebb81a": {
+  "instruction": {
+   "ANSWER": "$1,299.99",
+   "TV": "Samsung - 55\" Class - LED - Curved - 2160p - Smart - 4K Ultra HD TV"
+  }
+ },
+ "00068f1343": {
+  "instruction": {
+   "TV": "LG - 55\" Class (54.6\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+   "ANSWER": "$399.99"
+  }
+ },
+ "19cea7d249": {
+  "instruction": {
+   "ANSWER": "$349.99",
+   "TV": "Insignia\u2122 - 55\" Class - (54.6\" Diag.) - LED - 1080p - HDTV - Black"
+  }
+ },
+ "a3ab0d732c": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 55\" Class - (54.6\" Diag.) - LED - 1080p - HDTV",
+   "ANSWER": "$349.99"
+  }
+ },
+ "374f4d123c": {
+  "instruction": {
+   "ANSWER": "$279.99",
+   "TV": "Westinghouse - 50\" Class (49.5\" Diag.) - LED - 1080p - Smart - HDTV - Black"
+  }
+ },
+ "983197365b": {
+  "instruction": {
+   "ANSWER": "$1,399.99",
+   "TV": "Sony - 65\" Class (64.5\" Diag.) - 2160p - Smart - 4K Ultra HD TV"
+  }
+ },
+ "bde014c08e": {
+  "instruction": {
+   "TV": "Samsung - 55\" Class - (54.6\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD",
+   "ANSWER": "799.99"
+  }
+ },
+ "f1f831896b": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 32\" Class - (31.5\" Diag.) - LED - 720p - HDTV",
+   "ANSWER": "$99.99"
+  }
+ },
+ "4fae1d5c31": {
+  "instruction": {
+   "ANSWER": "$499.99",
+   "TV": "VIZIO - 60\" Class (60\" Diag.) - LED - 1080p - Smart - HDTV"
+  }
+ },
+ "fd0f8cae53": {
+  "instruction": {
+   "TV": "Sony - 55\" - 2160p - Smart - 4K Ultra HD TV with High Dynamic Range"
+  }
+ },
+ "a8466002a6": {
+  "instruction": {
+   "TV": "Sony - 40\" class (39.5\" Diag.) - LED - 1080p - Smart - HDTV",
+   "ANSWER": "$379.99"
+  }
+ },
+ "f876469198": {
+  "instruction": {
+   "TV": "Samsung - 55\" Class - LED - Curved - 2160p - Smart - 4K Ultra HD TV",
+   "ANSWER": "$1,299.99"
+  }
+ },
+ "78f96623b3": {
+  "instruction": {
+   "TV": "Sony - 65\" Class (64.5\" Diag.) - 2160p - Smart - 4K Ultra HD TV with High Dynamic Range - Black",
+   "ANSWER": "$1,599.99"
+  }
+ },
+ "2bdbd6db11": {
+  "instruction": {
+   "ANSWER": "$349.99",
+   "TV": "Toshiba - 49\" Class (48.5\" Diag.) - LED - 2160p - with Chromecast Built-in - 4K Ultra HD TV"
+  }
+ },
+ "ac08ef902e": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 32\" Class - (31.5\" Diag.) - LED - 720p - HDTV",
+   "ANSWER": "99.99"
+  }
+ },
+ "533e6b6c15": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 32\" Class - (31.5\" Diag.) - LED - 720p - HDTV - Black",
+   "ANSWER": "$99.99"
+  }
+ },
+ "3098af4d23": {
+  "instruction": {
+   "TV": "LG - 24\" Class (23.6\" Diag.) - LED - 720p - HDTV",
+   "ANSWER": "79.99"
+  }
+ },
+ "6c8e6151ff": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 55\" Class - (54.6\" Diag.) - LED - 1080p - HDTV - Black",
+   "ANSWER": "$349.99"
+  }
+ },
+ "981fcae691": {
+  "instruction": {
+   "ANSWER": "$1,599.99",
+   "TV": "Samsung - 65\" Class (64.5\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV - with High Dynamic Range - Black"
+  }
+ },
+ "daf52c1a36": {
+  "instruction": {
+   "ANSWER": "$479.99",
+   "TV": "Sony - 48\" Class (47.6\" Diag.) - LED - 1080p - Smart - HDTV"
+  }
+ },
+ "56e6635acf": {
+  "instruction": {
+   "TV": "VIZIO - 55\" Class (54.5\" Diag.) - LED - 2160p - with Chromecast Built-in - 4K Ultra HD",
+   "ANSWER": "528.99"
+  }
+ },
+ "1213f7a1d7": {
+  "instruction": {
+   "ANSWER": "$329.99",
+   "TV": "Sharp - 50\" Class (49.5\" Diag.) - LED - 1080p - Smart - HDTV Roku TV - Black"
+  }
+ },
+ "ca5665452a": {
+  "instruction": {
+   "ANSWER": "$1,599.99",
+   "TV": "Sony - 65\" Class (64.5\" Diag.) - 2160p - Smart - 4K Ultra HD TV with High Dynamic Range - Black"
+  }
+ },
+ "6be1855bc3": {
+  "instruction": {
+   "TV": "Samsung - 55\" Class (54.6\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV - with High Dynamic Range - Black",
+   "ANSWER": "$1,299.99"
+  }
+ },
+ "535812d15a": {
+  "instruction": {
+   "ANSWER": "$269.99",
+   "TV": "Toshiba - 50\" Class (49.5\" Diag.) - LED - 1080p - HDTV - Black"
+  }
+ },
+ "23ee5da420": {
+  "instruction": {
+   "TV": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - with High Dynamic Range - Silver",
+   "ANSWER": "$1,599.99"
+  }
+ },
+ "5bbfd3ee86": {
+  "instruction": {
+   "TV": "Samsung - 65\" Class (64.5\" Diag.) - LED - Curved - 2160p - Smart - 4K Ultra HD TV",
+   "ANSWER": "$1,599.99"
+  }
+ },
+ "e68dab787a": {
+  "instruction": {
+   "TV": "LG - 24\" - LED - 720p - HDTV",
+   "ANSWER": "$79.99"
+  }
+ },
+ "2780ed90db": {
+  "instruction": {
+   "ANSWER": "1199.99",
+   "TV": "Samsung - 55\" Class - (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD"
+  }
+ },
+ "f4276fbd79": {
+  "instruction": {
+   "ANSWER": "$269.99",
+   "TV": "Toshiba - 50\" Class (49.5\" Diag.) - LED - 1080p - HDTV"
+  }
+ },
+ "e4ca4961d4": {
+  "instruction": {
+   "TV": "VIZIO - 60\" Class (60\" Diag.) - LED - 1080p - Smart - HDTV",
+   "ANSWER": "$499.99"
+  }
+ },
+ "53a68623d8": {
+  "instruction": {
+   "TV": "Toshiba - 43\" Class (42.5\" Diag.) - LED - 2160p - with Chromecast Built-in - 4K Ultra HD TV - Black",
+   "ANSWER": "$299.99"
+  }
+ },
+ "d9219aca08": {
+  "instruction": {
+   "TV": "Samsung - 40\" Class (40\" Diag.) - LED - 1080p - Smart - HDTV - Black",
+   "ANSWER": "$329.99"
+  }
+ },
+ "524808c0ce": {
+  "instruction": {
+   "TV": "Sony - 48\" Class (47.6\" Diag.) - LED - 1080p - Smart - HDTV",
+   "ANSWER": "$479.99"
+  }
+ },
+ "70ccb965b3": {
+  "instruction": {
+   "ANSWER": "$399.99",
+   "TV": "LG - 55\"- LED - 1080p - Smart - HDTV "
+  }
+ },
+ "43d3ca087e": {
+  "instruction": {
+   "TV": "Toshiba - 55\" Class (54.6\" Diag.) - LED - 2160p - with Chromecast Built-in - 4K Ultra HD",
+   "ANSWER": "399.99"
+  }
+ },
+ "ed695f934b": {
+  "instruction": {
+   "ANSWER": "$149.99",
+   "TV": "Insignia\u2122 - 32\" Class (31.5\" Diag.) - LED - 720p - Smart - Roku TV - Black"
+  }
+ },
+ "c256b9988d": {
+  "instruction": {
+   "ANSWER": "$349.99",
+   "TV": "Insignia\u2122 - 55\"- LED - 1080p - HDTV "
+  }
+ },
+ "eab5fa0291": {
+  "instruction": {
+   "ANSWER": "899.99",
+   "TV": "Sony - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD"
+  }
+ },
+ "5c40243212": {
+  "instruction": {
+   "ANSWER": "$749.99",
+   "TV": "Hisense - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV with High Dynamic Range"
+  }
+ },
+ "b73c83af2e": {
+  "instruction": {
+   "TV": "LG - 43\" Class (42.5\" Diag.) - LED - 1080p - Smart - HDTV",
+   "ANSWER": "279.99"
+  }
+ },
+ "f96fd42c94": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 32\" - LED - 720p - HDTV ",
+   "ANSWER": "$99.99"
+  }
+ },
+ "744ce66d0f": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 19\" LED - 720p - HDTV"
+  }
+ },
+ "da99832eb2": {
+  "instruction": {
+   "ANSWER": " $449.99",
+   "TV": "Sharp - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV"
+  }
+ },
+ "e5438d6be5": {
+  "instruction": {
+   "ANSWER": "$149.99",
+   "TV": "Insignia\u2122 - 39\" Class (38.5\" Diag.) - LED - 720p - HDTV - Black"
+  }
+ },
+ "5c1a558625": {
+  "instruction": {
+   "ANSWER": "$99.99",
+   "TV": "Hisense - 32\" Class (31.5\" Diag.) - LED - 720p - HDTV - Black"
+  }
+ },
+ "d461a58650": {
+  "instruction": {
+   "ANSWER": "$1,599.99",
+   "TV": "Samsung - 65\" - LED - Curved - 2160p - Smart - 4K Ultra HD TV "
+  }
+ },
+ "45934e8c6b": {
+  "instruction": {
+   "ANSWER": "$69.99",
+   "TV": "Insignia\u2122 - 24\" Class (23.6\" Diag.) - LED - 720p - HDTV - Black"
+  }
+ },
+ "d7370759c4": {
+  "instruction": {
+   "TV": "VIZIO - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD Home Theater Display - Black",
+   "ANSWER": "$779.99"
+  }
+ },
+ "ac073d19f2": {
+  "instruction": {
+   "TV": "Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+   "ANSWER": "$499.99"
+  }
+ },
+ "9e052ead7b": {
+  "instruction": {
+   "TV": "Westinghouse - 40\" Class (39.5\" Diag.) - LED - 1080p - Smart - HDTV",
+   "ANSWER": "$179.99"
+  }
+ },
+ "c45d6b11fc": {
+  "instruction": {
+   "TV": "Insignia\u2122 - 39\" - LED - 720p - HDTV",
+   "ANSWER": "$179.99"
+  }
+ },
+ "9e05ccf4f5": {
+  "instruction": {
+   "TV": "Hisense - 32\" Class (31.5\" Diag.) - LED - 720p - HDTV - Black",
+   "ANSWER": "$99.99"
+  }
+ },
+ "1119ef1c2f": {
+  "instruction": {
+   "ANSWER": "$179.99",
+   "TV": "Insignia\u2122 - 39\" - LED - 720p - HDTV"
+  }
+ },
+ "2809882da0": {
+  "instruction": {
+   "ANSWER": "$399.99",
+   "TV": "LG - 55\" Class (54.6\" Diag.) - LED - 1080p - Smart - HDTV"
+  }
+ },
+ "4a042a59ca": {
+  "instruction": {
+   "ANSWER": "99.99",
+   "TV": "Insignia\u2122 - 32\" Class - (31.5\" Diag.) - LED - 720p - HDTV"
+  }
+ },
+ "479e7feeb5": {
+  "instruction": {
+   "ANSWER": "179.99",
+   "TV": "Westinghouse - 40\" Class (39.5\" Diag.) - LED - 1080p - Smart - HDTV"
+  }
+ },
+ "d789213b1b": {
+  "instruction": {
+   "ANSWER": "$1,499.99",
+   "TV": "Samsung - 70\" Class (69.5\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV"
+  }
+ },
+ "d2bddaa3c7": {
+  "instruction": {
+   "ANSWER": "79.99",
+   "TV": "LG - 24\" Class (23.6\" Diag.) - LED - 720p - HDTV"
+  }
+ }
+}

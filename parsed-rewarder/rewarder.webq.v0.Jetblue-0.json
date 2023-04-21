@@ -1,0 +1,1382 @@
+{
+ "dd1f0c94f8": {
+  "instruction": {
+   "date": "3/31/17",
+   "ANSWER": "$67",
+   "geographic location": "Buffalo"
+  }
+ },
+ "cb3532fd89": {
+  "instruction": {
+   "geographic location": "Florida",
+   "date": "1/1/2016"
+  }
+ },
+ "8e8812074f": {
+  "instruction": {
+   "date": "2/28/2017",
+   "ANSWER": "$241",
+   "geographic location": "Las Vegas"
+  }
+ },
+ "f2967fb935": {
+  "instruction": {
+   "date": "August 5th",
+   "geographic location": "Las Vegas",
+   "ANSWER": "$326"
+  }
+ },
+ "3f3f2fd040": {
+  "instruction": {
+   "date": "next Sunday",
+   "ANSWER": "$1,079",
+   "geographic location": "Las Vegas"
+  }
+ },
+ "e78e1c9e5f": {
+  "instruction": {
+   "date": "in three weeks",
+   "ANSWER": "$369",
+   "geographic location": "Chicago"
+  }
+ },
+ "396979eec9": {
+  "instruction": {
+   "date": "today",
+   "geographic location": "Portland, OR",
+   "ANSWER": "$579"
+  }
+ },
+ "0fe7a14127": {
+  "instruction": {
+   "date": "May 1st",
+   "ANSWER": "$196",
+   "geographic location": "Austin"
+  }
+ },
+ "96ec1fc24a": {
+  "instruction": {
+   "date": "2121",
+   "ANSWER": "44",
+   "geographic location": "121"
+  }
+ },
+ "24ae6a0766": {
+  "instruction": {
+   "date": "2/26/2017",
+   "geographic location": "Washington DC",
+   "ANSWER": "$644"
+  }
+ },
+ "2ce7b5d027": {
+  "instruction": {
+   "date": "today ",
+   "geographic location": "New Orleans",
+   "ANSWER": "513"
+  }
+ },
+ "a7a53459a0": {
+  "instruction": {
+   "date": "tomorrow",
+   "ANSWER": "$385",
+   "geographic location": "Hartford"
+  }
+ },
+ "9a893147ee": {
+  "instruction": {
+   "date": "next week",
+   "ANSWER": "$86",
+   "geographic location": "Chicago"
+  }
+ },
+ "f66e17f934": {
+  "instruction": {
+   "date": "next Wednesday",
+   "ANSWER": "232",
+   "geographic location": "Ft. Lauderdale, FL"
+  }
+ },
+ "85f437ce1b": {
+  "instruction": {
+   "geographic location": "Puerto Rico",
+   "date": "today"
+  }
+ },
+ "cb523eecb3": {
+  "instruction": {
+   "date": "3/8/2017",
+   "geographic location": "Nashville",
+   "ANSWER": "$174"
+  }
+ },
+ "ce45f6aefb": {
+  "instruction": {
+   "date": "today",
+   "geographic location": "Puerto Rico"
+  }
+ },
+ "7c0110fc3c": {
+  "instruction": {
+   "date": "next Thursday",
+   "geographic location": "Los Angeles",
+   "ANSWER": "$668"
+  }
+ },
+ "b1a00e8f4e": {
+  "instruction": {
+   "date": "tomorrow",
+   "ANSWER": "$619",
+   "geographic location": "Texas"
+  }
+ },
+ "63164fa875": {
+  "instruction": {
+   "date": "next week",
+   "geographic location": "Virginia",
+   "ANSWER": "$380"
+  }
+ },
+ "fe8d297fd8": {
+  "instruction": {
+   "date": "in two weeks",
+   "geographic location": "Italy",
+   "ANSWER": "$2,916"
+  }
+ },
+ "72b806d4b1": {
+  "instruction": {
+   "date": "05/25/2017",
+   "geographic location": "Athens Greece",
+   "ANSWER": "3436"
+  }
+ },
+ "1b01723430": {
+  "instruction": {
+   "date": "8",
+   "ANSWER": "8",
+   "geographic location": "8"
+  }
+ },
+ "a82067fe6a": {
+  "instruction": {
+   "date": "in two weeks",
+   "ANSWER": "$2,916",
+   "geographic location": "Italy"
+  }
+ },
+ "3d7fd30b3b": {
+  "instruction": {
+   "geographic location": "Worcester",
+   "date": "now"
+  }
+ },
+ "44aa40d1f1": {
+  "instruction": {
+   "date": "10/1/2017",
+   "geographic location": "Cancun",
+   "ANSWER": "$169"
+  }
+ },
+ "783bcddd52": {
+  "instruction": {
+   "date": "02/28/2017",
+   "ANSWER": "600",
+   "geographic location": "Dublin"
+  }
+ },
+ "e763312731": {
+  "instruction": {
+   "date": "2/22/2017",
+   "geographic location": "Dallas",
+   "ANSWER": "$354"
+  }
+ },
+ "52453f8cd6": {
+  "instruction": {
+   "date": "a Friday",
+   "ANSWER": "304",
+   "geographic location": "Las Vegas"
+  }
+ },
+ "cfd419a766": {
+  "instruction": {
+   "date": "3/1/2017",
+   "ANSWER": "$94",
+   "geographic location": "Boston"
+  }
+ },
+ "fb46aa9ae2": {
+  "instruction": {
+   "date": "in three weeks",
+   "ANSWER": "$969",
+   "geographic location": "Belgium"
+  }
+ },
+ "ff1948fdcc": {
+  "instruction": {
+   "date": "in two weeks",
+   "geographic location": "Denver",
+   "ANSWER": "$740"
+  }
+ },
+ "b9180fe26c": {
+  "instruction": {
+   "date": "tomorrow",
+   "geographic location": "Puerto Rico",
+   "ANSWER": "407"
+  }
+ },
+ "df904bbedf": {
+  "instruction": {
+   "date": "next wednesday",
+   "geographic location": "Israel"
+  }
+ },
+ "374ce86d35": {
+  "instruction": {
+   "date": "today ",
+   "ANSWER": "513",
+   "geographic location": "New Orleans"
+  }
+ },
+ "2c7b1ad0a4": {
+  "instruction": {
+   "date": "04/01/2017",
+   "ANSWER": "3396",
+   "geographic location": "Cairo Egypt"
+  }
+ },
+ "f12e790fec": {
+  "instruction": {
+   "date": "2/21/2017",
+   "ANSWER": "$623",
+   "geographic location": "San Diego "
+  }
+ },
+ "9d6c3613d6": {
+  "instruction": {
+   "date": "next week",
+   "geographic location": "Bermuda"
+  }
+ },
+ "431906d51c": {
+  "instruction": {
+   "date": "in two weeks",
+   "geographic location": "California",
+   "ANSWER": "$129"
+  }
+ },
+ "057bdfd284": {
+  "instruction": {
+   "date": "9/1/2017",
+   "geographic location": "Boston",
+   "ANSWER": "$59"
+  }
+ },
+ "8337b5150c": {
+  "instruction": {
+   "date": "next Wednesday",
+   "geographic location": "Ft. Lauderdale, FL",
+   "ANSWER": "232"
+  }
+ },
+ "a0e49688f1": {
+  "instruction": {
+   "date": "313",
+   "ANSWER": "13",
+   "geographic location": "131"
+  }
+ },
+ "e32893d9b7": {
+  "instruction": {
+   "date": "next week",
+   "ANSWER": "$114",
+   "geographic location": "Florida"
+  }
+ },
+ "143fd2ff14": {
+  "instruction": {
+   "date": "Friday",
+   "geographic location": "Baltimore",
+   "ANSWER": "$451"
+  }
+ },
+ "9fc9259a76": {
+  "instruction": {
+   "date": "Wednesday",
+   "geographic location": "Newark",
+   "ANSWER": "$306"
+  }
+ },
+ "5ab7a64cac": {
+  "instruction": {
+   "date": "a Tuesday ",
+   "geographic location": "Dallas"
+  }
+ },
+ "0f5a4bf5a4": {
+  "instruction": {
+   "date": "2/25/2017",
+   "geographic location": "San Francisco  ",
+   "ANSWER": "$422"
+  }
+ },
+ "b5ebeab73f": {
+  "instruction": {
+   "date": "next Thursday",
+   "geographic location": "Phoenix, AZ",
+   "ANSWER": "400"
+  }
+ },
+ "0b4a760554": {
+  "instruction": {
+   "date": "Thursday",
+   "geographic location": "Pittsburg",
+   "ANSWER": "$522"
+  }
+ },
+ "74ddcd3547": {
+  "instruction": {
+   "date": "02/19/2017",
+   "ANSWER": "179",
+   "geographic location": "Boston MA"
+  }
+ },
+ "1bcb71c797": {
+  "instruction": {
+   "date": "3131",
+   "ANSWER": "1",
+   "geographic location": "131"
+  }
+ },
+ "2fceb2d5f9": {
+  "instruction": {
+   "date": "2/28/2017",
+   "geographic location": "Seattle",
+   "ANSWER": "$149"
+  }
+ },
+ "b8a4c0ff8b": {
+  "instruction": {
+   "date": "6/9/2017",
+   "geographic location": "Manchester, UK",
+   "ANSWER": "$839"
+  }
+ },
+ "411f50df37": {
+  "instruction": {
+   "date": "tomorrow",
+   "geographic location": "Texas",
+   "ANSWER": "$619"
+  }
+ },
+ "9fb5a01c9f": {
+  "instruction": {
+   "date": "a Monday",
+   "geographic location": "Nashville",
+   "ANSWER": "687"
+  }
+ },
+ "c5930fc1e8": {
+  "instruction": {
+   "date": "13",
+   "geographic location": "64646411",
+   "ANSWER": "13"
+  }
+ },
+ "b4381e0c41": {
+  "instruction": {
+   "date": "5/11/2017",
+   "geographic location": "Cuba",
+   "ANSWER": "$181"
+  }
+ },
+ "70f773147a": {
+  "instruction": {
+   "date": "02/24/2017",
+   "ANSWER": "509",
+   "geographic location": "Lima Peru"
+  }
+ },
+ "1687820dda": {
+  "instruction": {
+   "date": "next Saturday",
+   "ANSWER": "$592",
+   "geographic location": "Portland, ME"
+  }
+ },
+ "512bbc5ab0": {
+  "instruction": {
+   "date": "next week",
+   "geographic location": "Chicago",
+   "ANSWER": "$86"
+  }
+ },
+ "e430af333c": {
+  "instruction": {
+   "date": "2/21/2017",
+   "geographic location": "San Diego ",
+   "ANSWER": "$623"
+  }
+ },
+ "b4b53540bc": {
+  "instruction": {
+   "date": "today",
+   "geographic location": "Newark",
+   "ANSWER": "$324"
+  }
+ },
+ "bdec200c3c": {
+  "instruction": {
+   "date": "next Tuesday",
+   "geographic location": "Washington D.C",
+   "ANSWER": "449"
+  }
+ },
+ "b3249f3bdb": {
+  "instruction": {
+   "date": "next Thursday",
+   "ANSWER": "$668",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "54d8016136": {
+  "instruction": {
+   "date": "tomorrow",
+   "ANSWER": "407",
+   "geographic location": "Puerto Rico"
+  }
+ },
+ "0faa65b8ae": {
+  "instruction": {
+   "date": "next week",
+   "ANSWER": "$380",
+   "geographic location": "Virginia"
+  }
+ },
+ "e4d9c80cef": {
+  "instruction": {
+   "date": "Next Week",
+   "geographic location": "Long Beach",
+   "ANSWER": "$526"
+  }
+ },
+ "001056629f": {
+  "instruction": {
+   "date": "02/20/2017",
+   "ANSWER": "310",
+   "geographic location": "Phoenix Arizona"
+  }
+ },
+ "2142f562a5": {
+  "instruction": {
+   "date": "7/4/2017",
+   "geographic location": "Atlanta",
+   "ANSWER": "$136"
+  }
+ },
+ "1f6e752583": {
+  "instruction": {
+   "date": "3/22/17",
+   "geographic location": "Nashville",
+   "ANSWER": "$117"
+  }
+ },
+ "ad6430e22c": {
+  "instruction": {
+   "date": "446",
+   "geographic location": "8",
+   "ANSWER": "8"
+  }
+ },
+ "2daead551c": {
+  "instruction": {
+   "date": "10/01/2017",
+   "geographic location": "Zurich Switzerland",
+   "ANSWER": "920"
+  }
+ },
+ "309013d120": {
+  "instruction": {
+   "date": "6/9/2017",
+   "ANSWER": "$839",
+   "geographic location": "Manchester, UK"
+  }
+ },
+ "fa0c3100ce": {
+  "instruction": {
+   "date": "3/22/17",
+   "ANSWER": "$117",
+   "geographic location": "Nashville"
+  }
+ },
+ "cfeea07317": {
+  "instruction": {
+   "date": "next Tuesday",
+   "ANSWER": "449",
+   "geographic location": "Washington D.C"
+  }
+ },
+ "315c714c8a": {
+  "instruction": {
+   "date": "446",
+   "ANSWER": "8",
+   "geographic location": "8"
+  }
+ },
+ "6b795cf8e3": {
+  "instruction": {
+   "date": "03-01-2017",
+   "ANSWER": "871",
+   "geographic location": "Paris"
+  }
+ },
+ "22f6491471": {
+  "instruction": {
+   "date": "02/21/2017",
+   "ANSWER": "272",
+   "geographic location": "Tampa FL"
+  }
+ },
+ "d7ade784b5": {
+  "instruction": {
+   "date": "in two weeks",
+   "geographic location": "Bahamas"
+  }
+ },
+ "c1b7434222": {
+  "instruction": {
+   "date": "313",
+   "geographic location": "131",
+   "ANSWER": "13"
+  }
+ },
+ "5e7c243bb3": {
+  "instruction": {
+   "date": "13",
+   "ANSWER": "13",
+   "geographic location": "64646411"
+  }
+ },
+ "d5fd86afe5": {
+  "instruction": {
+   "date": "02/28/2017",
+   "geographic location": "Dublin",
+   "ANSWER": "600"
+  }
+ },
+ "23a8c3d9a1": {
+  "instruction": {
+   "date": "tomorrow",
+   "geographic location": "Hartford",
+   "ANSWER": "$385"
+  }
+ },
+ "dc114c3ae4": {
+  "instruction": {
+   "date": "3/21/17",
+   "geographic location": "Buffalo",
+   "ANSWER": "$62"
+  }
+ },
+ "02d5cf1881": {
+  "instruction": {
+   "date": "next Friday",
+   "ANSWER": "$661",
+   "geographic location": "Phoenix"
+  }
+ },
+ "3e0ab7de41": {
+  "instruction": {
+   "date": "9/11/2017",
+   "ANSWER": "$157",
+   "geographic location": "Nashville"
+  }
+ },
+ "effe0f2a0e": {
+  "instruction": {
+   "date": "06/03/2017",
+   "ANSWER": "1266",
+   "geographic location": "Sydney Australia"
+  }
+ },
+ "6eceb139d3": {
+  "instruction": {
+   "date": "in three weeks",
+   "geographic location": "Belgium",
+   "ANSWER": "$969"
+  }
+ },
+ "750aa16a12": {
+  "instruction": {
+   "date": "214",
+   "ANSWER": "46",
+   "geographic location": "2121"
+  }
+ },
+ "5dba7f3d89": {
+  "instruction": {
+   "date": "3/31/17",
+   "geographic location": "Buffalo",
+   "ANSWER": "$67"
+  }
+ },
+ "94a850921f": {
+  "instruction": {
+   "date": "2/21/2017",
+   "ANSWER": "$434",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "a5afafed1f": {
+  "instruction": {
+   "date": "2/25/2017",
+   "ANSWER": "$422",
+   "geographic location": "San Francisco  "
+  }
+ },
+ "7fa9a0d041": {
+  "instruction": {
+   "date": "next Saturday",
+   "geographic location": "Long Beach, CA",
+   "ANSWER": "379"
+  }
+ },
+ "07e302cd54": {
+  "instruction": {
+   "date": "21",
+   "ANSWER": "12",
+   "geographic location": "4873212121"
+  }
+ },
+ "4261000234": {
+  "instruction": {
+   "date": "06/03/2017",
+   "geographic location": "Sydney Australia",
+   "ANSWER": "1266"
+  }
+ },
+ "af0e4d6b98": {
+  "instruction": {
+   "date": "next week",
+   "ANSWER": "$466",
+   "geographic location": "Ohio"
+  }
+ },
+ "fa3415a90f": {
+  "instruction": {
+   "date": "9/11/2017",
+   "geographic location": "Nashville",
+   "ANSWER": "$157"
+  }
+ },
+ "0868a2f156": {
+  "instruction": {
+   "date": "next Saturday",
+   "geographic location": "Miami",
+   "ANSWER": "$362"
+  }
+ },
+ "024777cb79": {
+  "instruction": {
+   "date": "3/02/2017",
+   "geographic location": "South Florida Area",
+   "ANSWER": "$197"
+  }
+ },
+ "642ba4e4da": {
+  "instruction": {
+   "date": "2/28/17",
+   "ANSWER": "$220",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "a070269776": {
+  "instruction": {
+   "date": "next Thursday",
+   "ANSWER": "400",
+   "geographic location": "Phoenix, AZ"
+  }
+ },
+ "3375875e0c": {
+  "instruction": {
+   "date": "12/12/17",
+   "geographic location": "China"
+  }
+ },
+ "a4532f6cc5": {
+  "instruction": {
+   "date": "3",
+   "geographic location": "82",
+   "ANSWER": "8"
+  }
+ },
+ "6d23c6329e": {
+  "instruction": {
+   "date": "21",
+   "geographic location": "4873212121",
+   "ANSWER": "12"
+  }
+ },
+ "f650fff7be": {
+  "instruction": {
+   "date": "June 30th",
+   "geographic location": "Phoenix",
+   "ANSWER": "$443"
+  }
+ },
+ "7bf1686336": {
+  "instruction": {
+   "date": "04/01/2017",
+   "geographic location": "Cairo Egypt",
+   "ANSWER": "3396"
+  }
+ },
+ "9a92254d7f": {
+  "instruction": {
+   "date": "Next Week",
+   "ANSWER": "$526",
+   "geographic location": "Long Beach"
+  }
+ },
+ "3bbf59615d": {
+  "instruction": {
+   "date": "7/5/2017",
+   "geographic location": "Sydney",
+   "ANSWER": "$2517"
+  }
+ },
+ "a1daca1f46": {
+  "instruction": {
+   "date": "next Saturday",
+   "geographic location": "Portland, ME",
+   "ANSWER": "$592"
+  }
+ },
+ "2c3c789e86": {
+  "instruction": {
+   "date": "02/24/2017",
+   "geographic location": "Lima Peru",
+   "ANSWER": "509"
+  }
+ },
+ "55248d2fc2": {
+  "instruction": {
+   "date": "2/28/17",
+   "geographic location": "Chicago",
+   "ANSWER": "$86"
+  }
+ },
+ "ce66b68516": {
+  "instruction": {
+   "date": "in two weeks",
+   "ANSWER": "$740",
+   "geographic location": "Denver"
+  }
+ },
+ "7fb68cc4c7": {
+  "instruction": {
+   "date": "Next Month",
+   "geographic location": "Rochester",
+   "ANSWER": "$337"
+  }
+ },
+ "cf6c7bb975": {
+  "instruction": {
+   "date": "10/1/2017",
+   "ANSWER": "$169",
+   "geographic location": "Cancun"
+  }
+ },
+ "c191ea4a97": {
+  "instruction": {
+   "geographic location": "Washington",
+   "date": "tomorrow"
+  }
+ },
+ "8b692bde2e": {
+  "instruction": {
+   "date": "2/21/2017",
+   "geographic location": "Los Angeles",
+   "ANSWER": "$434"
+  }
+ },
+ "11a7ed53d2": {
+  "instruction": {
+   "date": "today",
+   "ANSWER": "$324",
+   "geographic location": "Newark"
+  }
+ },
+ "cee1fc4315": {
+  "instruction": {
+   "date": "5/11/2017",
+   "ANSWER": "$181",
+   "geographic location": "Cuba"
+  }
+ },
+ "7211c1822f": {
+  "instruction": {
+   "date": "03-01-2017",
+   "geographic location": "Paris",
+   "ANSWER": "871"
+  }
+ },
+ "401c287451": {
+  "instruction": {
+   "date": "8",
+   "geographic location": "8",
+   "ANSWER": "8"
+  }
+ },
+ "1997f4b309": {
+  "instruction": {
+   "date": "next Sunday",
+   "geographic location": "Las Vegas",
+   "ANSWER": "$1,079"
+  }
+ },
+ "8a577fca7a": {
+  "instruction": {
+   "date": "a Sunday",
+   "ANSWER": "118",
+   "geographic location": "Chicago"
+  }
+ },
+ "6311fad2bf": {
+  "instruction": {
+   "date": "9/1/2017",
+   "ANSWER": "$59",
+   "geographic location": "Boston"
+  }
+ },
+ "d5ea61ec7c": {
+  "instruction": {
+   "date": "today",
+   "ANSWER": "$579",
+   "geographic location": "Portland, OR"
+  }
+ },
+ "c9c36bd9ef": {
+  "instruction": {
+   "date": "02/19/2017",
+   "geographic location": "Boston MA",
+   "ANSWER": "179"
+  }
+ },
+ "9514e3cb0e": {
+  "instruction": {
+   "date": "next week",
+   "geographic location": "Florida",
+   "ANSWER": "$114"
+  }
+ },
+ "8d93ed3c07": {
+  "instruction": {
+   "date": "June 30th",
+   "ANSWER": "$443",
+   "geographic location": "Phoenix"
+  }
+ },
+ "9e787f00b8": {
+  "instruction": {
+   "date": "3/21/17",
+   "ANSWER": "$62",
+   "geographic location": "Buffalo"
+  }
+ },
+ "f97e708e87": {
+  "instruction": {
+   "geographic location": "Bahamas",
+   "date": "in two weeks"
+  }
+ },
+ "cafb0d297e": {
+  "instruction": {
+   "date": "next Friday",
+   "geographic location": "Phoenix",
+   "ANSWER": "$661"
+  }
+ },
+ "d5900a0a56": {
+  "instruction": {
+   "date": "212",
+   "ANSWER": "11",
+   "geographic location": "121"
+  }
+ },
+ "81b5740e2a": {
+  "instruction": {
+   "date": "today",
+   "ANSWER": "$250",
+   "geographic location": "Washington area, DC"
+  }
+ },
+ "d2e99409dd": {
+  "instruction": {
+   "date": "02/20/2017",
+   "geographic location": "Phoenix Arizona",
+   "ANSWER": "310"
+  }
+ },
+ "25f9dae335": {
+  "instruction": {
+   "date": "in two weeks",
+   "ANSWER": "$304",
+   "geographic location": "Oregon"
+  }
+ },
+ "9859d81ea8": {
+  "instruction": {
+   "date": "2/27/2017",
+   "ANSWER": "$220",
+   "geographic location": "Los Angeles "
+  }
+ },
+ "c845260aaa": {
+  "instruction": {
+   "date": "next friday",
+   "geographic location": "Chicago"
+  }
+ },
+ "2c4dc3a172": {
+  "instruction": {
+   "geographic location": "Dallas",
+   "date": "a Tuesday "
+  }
+ },
+ "a73d509c47": {
+  "instruction": {
+   "date": "May 1st",
+   "geographic location": "Austin",
+   "ANSWER": "$196"
+  }
+ },
+ "711affd490": {
+  "instruction": {
+   "date": "a Sunday",
+   "geographic location": "Chicago",
+   "ANSWER": "118"
+  }
+ },
+ "06ccce9330": {
+  "instruction": {
+   "date": "2/24/2017",
+   "geographic location": "Phoenix",
+   "ANSWER": "$310"
+  }
+ },
+ "925d08be19": {
+  "instruction": {
+   "date": "Friday",
+   "ANSWER": "$451",
+   "geographic location": "Baltimore"
+  }
+ },
+ "ae58b73caf": {
+  "instruction": {
+   "date": "2/20/2017",
+   "ANSWER": "$481",
+   "geographic location": "Denver"
+  }
+ },
+ "244a5ecfb9": {
+  "instruction": {
+   "date": "next week",
+   "geographic location": "Ohio",
+   "ANSWER": "$466"
+  }
+ },
+ "e1643213c4": {
+  "instruction": {
+   "date": "Tomorrow",
+   "geographic location": "Atlanta",
+   "ANSWER": "$272"
+  }
+ },
+ "e9905621b1": {
+  "instruction": {
+   "date": "10/01/2017",
+   "ANSWER": "920",
+   "geographic location": "Zurich Switzerland"
+  }
+ },
+ "e8f9e79149": {
+  "instruction": {
+   "date": "2/20/2017",
+   "geographic location": "Denver",
+   "ANSWER": "$481"
+  }
+ },
+ "5c3d1f0689": {
+  "instruction": {
+   "date": "Next Month",
+   "ANSWER": "$337",
+   "geographic location": "Rochester"
+  }
+ },
+ "b3f0cfb3dc": {
+  "instruction": {
+   "date": "7/4/2017",
+   "ANSWER": "$136",
+   "geographic location": "Atlanta"
+  }
+ },
+ "ba3e3e5943": {
+  "instruction": {
+   "date": "6/1/2017",
+   "geographic location": "London",
+   "ANSWER": "$4819"
+  }
+ },
+ "ae1e9aa4ce": {
+  "instruction": {
+   "date": "April 9",
+   "ANSWER": "$291",
+   "geographic location": "Detroit"
+  }
+ },
+ "f59494a399": {
+  "instruction": {
+   "date": "3/29/17",
+   "ANSWER": "$134",
+   "geographic location": "Cleveland"
+  }
+ },
+ "c8b650862e": {
+  "instruction": {
+   "date": "1/1/2016",
+   "geographic location": "Florida"
+  }
+ },
+ "f17ffe2b8c": {
+  "instruction": {
+   "date": "3",
+   "ANSWER": "8",
+   "geographic location": "82"
+  }
+ },
+ "a010bf1e7b": {
+  "instruction": {
+   "date": "2/28/17",
+   "ANSWER": "$86",
+   "geographic location": "Chicago"
+  }
+ },
+ "e31e50b145": {
+  "instruction": {
+   "date": "02/21/2017",
+   "geographic location": "Tampa FL",
+   "ANSWER": "272"
+  }
+ },
+ "8d7daf752e": {
+  "instruction": {
+   "geographic location": "Israel",
+   "date": "next wednesday"
+  }
+ },
+ "29b1c7f03e": {
+  "instruction": {
+   "date": "in three weeks",
+   "geographic location": "Chicago",
+   "ANSWER": "$369"
+  }
+ },
+ "bc4dee6472": {
+  "instruction": {
+   "date": "today",
+   "geographic location": "Washington area, DC",
+   "ANSWER": "$250"
+  }
+ },
+ "fba76d4d57": {
+  "instruction": {
+   "date": "Tomorrow",
+   "ANSWER": "$272",
+   "geographic location": "Atlanta"
+  }
+ },
+ "ea06140a0e": {
+  "instruction": {
+   "geographic location": "Bermuda",
+   "date": "next week"
+  }
+ },
+ "ebdb03b07f": {
+  "instruction": {
+   "date": "05/25/2017",
+   "ANSWER": "3436",
+   "geographic location": "Athens Greece"
+  }
+ },
+ "0bb537850b": {
+  "instruction": {
+   "date": "next week",
+   "geographic location": "Denver",
+   "ANSWER": "127"
+  }
+ },
+ "09d218be2f": {
+  "instruction": {
+   "geographic location": "Chicago",
+   "date": "next friday"
+  }
+ },
+ "f9d79bf7af": {
+  "instruction": {
+   "date": "7/5/2017",
+   "ANSWER": "$2517",
+   "geographic location": "Sydney"
+  }
+ },
+ "2ece1133aa": {
+  "instruction": {
+   "date": "2/28/17",
+   "geographic location": "Los Angeles",
+   "ANSWER": "$220"
+  }
+ },
+ "45ceb9b9eb": {
+  "instruction": {
+   "date": "Wednesday",
+   "ANSWER": "$306",
+   "geographic location": "Newark"
+  }
+ },
+ "20a70ffcfc": {
+  "instruction": {
+   "date": "6/1/2017",
+   "ANSWER": "$4819",
+   "geographic location": "London"
+  }
+ },
+ "8e3734ec1d": {
+  "instruction": {
+   "date": "a Friday",
+   "geographic location": "Las Vegas",
+   "ANSWER": "304"
+  }
+ },
+ "8fb0eaaa51": {
+  "instruction": {
+   "date": "2121",
+   "geographic location": "121",
+   "ANSWER": "44"
+  }
+ },
+ "47ef87581b": {
+  "instruction": {
+   "geographic location": "China",
+   "date": "12/12/17"
+  }
+ },
+ "f282dcb6cf": {
+  "instruction": {
+   "date": "in two weeks",
+   "geographic location": "Oregon",
+   "ANSWER": "$304"
+  }
+ },
+ "7bd9578ff8": {
+  "instruction": {
+   "date": "2/22/2017",
+   "ANSWER": "$354",
+   "geographic location": "Dallas"
+  }
+ },
+ "8c6cc568c9": {
+  "instruction": {
+   "date": "2/24/2017",
+   "ANSWER": "$310",
+   "geographic location": "Phoenix"
+  }
+ },
+ "a844003e7e": {
+  "instruction": {
+   "date": "a Monday",
+   "ANSWER": "687",
+   "geographic location": "Nashville"
+  }
+ },
+ "1254dbca9d": {
+  "instruction": {
+   "date": "3/8/2017",
+   "ANSWER": "$174",
+   "geographic location": "Nashville"
+  }
+ },
+ "5692401606": {
+  "instruction": {
+   "date": "now",
+   "geographic location": "Worcester"
+  }
+ },
+ "163ea7fc66": {
+  "instruction": {
+   "date": "214",
+   "geographic location": "2121",
+   "ANSWER": "46"
+  }
+ },
+ "861c8aeebb": {
+  "instruction": {
+   "date": "tomorrow",
+   "geographic location": "Washington"
+  }
+ },
+ "073dc96619": {
+  "instruction": {
+   "date": "in two weeks",
+   "ANSWER": "$129",
+   "geographic location": "California"
+  }
+ },
+ "467cc27c5c": {
+  "instruction": {
+   "date": "next Saturday",
+   "ANSWER": "379",
+   "geographic location": "Long Beach, CA"
+  }
+ },
+ "06c9df1d2c": {
+  "instruction": {
+   "date": "212",
+   "geographic location": "121",
+   "ANSWER": "11"
+  }
+ },
+ "8d6428d23c": {
+  "instruction": {
+   "date": "Thursday",
+   "ANSWER": "$522",
+   "geographic location": "Pittsburg"
+  }
+ },
+ "ba04189ac5": {
+  "instruction": {
+   "date": "2/23/2017",
+   "geographic location": "Buffalo",
+   "ANSWER": "$152"
+  }
+ },
+ "c9c6d6b6be": {
+  "instruction": {
+   "date": "next week",
+   "ANSWER": "127",
+   "geographic location": "Denver"
+  }
+ },
+ "eba1d95d91": {
+  "instruction": {
+   "date": "3/1/2017",
+   "geographic location": "Boston",
+   "ANSWER": "$94"
+  }
+ },
+ "6aadd933a1": {
+  "instruction": {
+   "date": "2/21/2017",
+   "ANSWER": "$135",
+   "geographic location": "Chicago"
+  }
+ },
+ "bf57ed3c7a": {
+  "instruction": {
+   "date": "3131",
+   "geographic location": "131",
+   "ANSWER": "1"
+  }
+ },
+ "c1531e2426": {
+  "instruction": {
+   "date": "2/23/2017",
+   "ANSWER": "$152",
+   "geographic location": "Buffalo"
+  }
+ },
+ "42e8b27480": {
+  "instruction": {
+   "date": "August 5th",
+   "ANSWER": "$326",
+   "geographic location": "Las Vegas"
+  }
+ },
+ "a26da908c2": {
+  "instruction": {
+   "date": "2/21/2017",
+   "geographic location": "Chicago",
+   "ANSWER": "$135"
+  }
+ },
+ "d7d9c74de9": {
+  "instruction": {
+   "date": "2/28/2017",
+   "ANSWER": "$149",
+   "geographic location": "Seattle"
+  }
+ },
+ "a6c66e85f2": {
+  "instruction": {
+   "date": "April 9",
+   "geographic location": "Detroit",
+   "ANSWER": "$291"
+  }
+ },
+ "407a115279": {
+  "instruction": {
+   "date": "next Tuesday",
+   "ANSWER": "$362",
+   "geographic location": "Boston"
+  }
+ },
+ "9845d51dd7": {
+  "instruction": {
+   "date": "2/27/2017",
+   "geographic location": "Los Angeles ",
+   "ANSWER": "$220"
+  }
+ },
+ "2d9bb204da": {
+  "instruction": {
+   "date": "2/28/2017",
+   "geographic location": "Las Vegas",
+   "ANSWER": "$241"
+  }
+ },
+ "52a1968e7d": {
+  "instruction": {
+   "date": "2/26/2017",
+   "ANSWER": "$644",
+   "geographic location": "Washington DC"
+  }
+ },
+ "0d4e64f595": {
+  "instruction": {
+   "date": "next Tuesday",
+   "geographic location": "Boston",
+   "ANSWER": "$362"
+  }
+ },
+ "968030e5a2": {
+  "instruction": {
+   "date": "3/02/2017",
+   "ANSWER": "$197",
+   "geographic location": "South Florida Area"
+  }
+ },
+ "d4c575676e": {
+  "instruction": {
+   "date": "3/29/17",
+   "geographic location": "Cleveland",
+   "ANSWER": "$134"
+  }
+ },
+ "857e4e8844": {
+  "instruction": {
+   "date": "next Saturday",
+   "ANSWER": "$362",
+   "geographic location": "Miami"
+  }
+ }
+}

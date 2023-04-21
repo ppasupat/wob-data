@@ -1,0 +1,72 @@
+{
+ "f4a8a2f4ba": {
+  "instruction": {
+   "Terms": "12",
+   "Interest rate": "3",
+   "Loan amount": "160000"
+  }
+ },
+ "f20c09e180": {
+  "instruction": {
+   "Terms": "12",
+   "Interest rate": "1",
+   "Loan amount": "100000"
+  }
+ },
+ "5b88d2a8f1": {
+  "instruction": {
+   "Terms": "24",
+   "Interest rate": "4",
+   "Loan amount": "240000"
+  }
+ },
+ "acb8a80f19": {
+  "instruction": {
+   "Terms": "12",
+   "Interest rate": "2",
+   "Loan amount": "140000"
+  }
+ },
+ "42895e87ca": {
+  "instruction": {
+   "Terms": "36",
+   "Interest rate": "4",
+   "Loan amount": "250000"
+  }
+ },
+ "94c8f08893": {
+  "instruction": {
+   "Terms": "12",
+   "Interest rate": "1",
+   "Loan amount": "120000"
+  }
+ },
+ "38f86a40db": {
+  "instruction": {
+   "Terms": "24",
+   "Interest rate": "3",
+   "Loan amount": "200000"
+  }
+ },
+ "b22621e23d": {
+  "instruction": {
+   "Terms": "24",
+   "Interest rate": "3",
+   "Loan amount": "225000"
+  }
+ },
+ "2d0a800472": {
+  "instruction": {
+   "Terms": "48",
+   "Interest rate": "4.5",
+   "Loan amount": "300000"
+  }
+ },
+ "9ba5768c68": {
+  "instruction": {
+   "Terms": "48",
+   "Interest rate": "5",
+   "Loan amount": "320000"
+  }
+ }
+}

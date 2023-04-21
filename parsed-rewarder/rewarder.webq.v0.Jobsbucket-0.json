@@ -1,0 +1,62 @@
+{
+ "dc9a95c26f": {
+  "instruction": {
+   "Job Title": "Sports Authority",
+   "Job Location": "Newark, NJ"
+  }
+ },
+ "0334cd2c0b": {
+  "instruction": {
+   "Job Title": "Healthcare",
+   "Job Location": "St Columbans, NE"
+  }
+ },
+ "05450bbefc": {
+  "instruction": {
+   "Job Title": "Custodian",
+   "Job Location": "Round Lake, IL"
+  }
+ },
+ "84d964ca62": {
+  "instruction": {
+   "Job Title": "General Manager",
+   "Job Location": "Chicago, IL"
+  }
+ },
+ "b03e9b464c": {
+  "instruction": {
+   "Job Title": "McDonalds",
+   "Job Location": "Portland, OR"
+  }
+ },
+ "78b0574c68": {
+  "instruction": {
+   "Job Title": "John Deere",
+   "Job Location": "Illinois"
+  }
+ },
+ "db05e97e66": {
+  "instruction": {
+   "Job Title": "Burger King",
+   "Job Location": "New York City, NY"
+  }
+ },
+ "2a83f3d95e": {
+  "instruction": {
+   "Job Title": "Assistant Manager",
+   "Job Location": "Milwaukee, WI"
+  }
+ },
+ "c68bd95de0": {
+  "instruction": {
+   "Job Title": "Porter",
+   "Job Location": "Waukegan, IL"
+  }
+ },
+ "bb5acd6f38": {
+  "instruction": {
+   "Job Title": "Automobile",
+   "Job Location": "Zion, IL"
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "915d1b47c8": {
+  "instruction": {
+   "food places": "Chinese Food places",
+   "location": "Philadelphia, PA"
+  }
+ },
+ "ddeb2fda69": {
+  "instruction": {
+   "food places": "Pizza places",
+   "location": "Westchester, PA"
+  }
+ },
+ "f8be83bc3a": {
+  "instruction": {
+   "food places": "Italian places",
+   "location": "Altoona, PA"
+  }
+ },
+ "10afa20efc": {
+  "instruction": {
+   "food places": "Burrito joints",
+   "location": "San Francisco"
+  }
+ },
+ "5afe77a8af": {
+  "instruction": {
+   "food places": "bakeries",
+   "location": "Harrisburg, PA"
+  }
+ },
+ "85a64d4a02": {
+  "instruction": {
+   "food places": "sub shops",
+   "location": "Camp Hill, PA"
+  }
+ },
+ "45a4c45947": {
+  "instruction": {
+   "food places": "Seafood restaurants",
+   "location": "Hershey, PA"
+  }
+ },
+ "54b9461289": {
+  "instruction": {
+   "food places": "Grocery stores",
+   "location": "Queens, NY"
+  }
+ },
+ "0a3e277dae": {
+  "instruction": {
+   "food places": "Ice cream shops",
+   "location": "Harrisburg, PA"
+  }
+ },
+ "2546af5529": {
+  "instruction": {
+   "food places": "Taco places",
+   "location": "Houston, TX"
+  }
+ }
+}

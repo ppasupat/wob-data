@@ -1,0 +1,72 @@
+{
+ "9d6078369d": {
+  "instruction": {
+   "Type of holiday package": "Domestic",
+   "place of departure": "Delhi",
+   "Destination": "Kolkata"
+  }
+ },
+ "02ba924f65": {
+  "instruction": {
+   "Type of holiday package": "Domestic",
+   "place of departure": "Delhi",
+   "Destination": "Jaipur"
+  }
+ },
+ "497f5b8edb": {
+  "instruction": {
+   "Type of holiday package": "International",
+   "place of departure": "Mumbai",
+   "Destination": "London"
+  }
+ },
+ "c77d488af3": {
+  "instruction": {
+   "Type of holiday package": "Domestic",
+   "place of departure": "Delhi",
+   "Destination": "Kashmir"
+  }
+ },
+ "b2788c4d6a": {
+  "instruction": {
+   "Type of holiday package": "International",
+   "place of departure": "Mumbai",
+   "Destination": "Dubai"
+  }
+ },
+ "50d2a6a92f": {
+  "instruction": {
+   "Type of holiday package": "Domestic",
+   "place of departure": "Delhi",
+   "Destination": "Surat"
+  }
+ },
+ "62efba0d24": {
+  "instruction": {
+   "Type of holiday package": "International",
+   "place of departure": "Mumbai",
+   "Destination": "New York"
+  }
+ },
+ "cd171a7447": {
+  "instruction": {
+   "Type of holiday package": "Domestic",
+   "place of departure": "Delhi",
+   "Destination": "Goa"
+  }
+ },
+ "9e456ccfc7": {
+  "instruction": {
+   "Type of holiday package": "International",
+   "place of departure": "Mumbai",
+   "Destination": "Paris"
+  }
+ },
+ "b45774a72a": {
+  "instruction": {
+   "Type of holiday package": "International",
+   "place of departure": "Mumbai",
+   "Destination": "Rome"
+  }
+ }
+}

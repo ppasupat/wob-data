@@ -1,0 +1,82 @@
+{
+ "b00b5e6876": {
+  "instruction": {
+   "Intel processor": "Intel Core i7 6500U",
+   "less than $1000": "$759.99",
+   "laptops": "Lenovo Laptop ThinkPad E560 ",
+   "new": "yes"
+  }
+ },
+ "8ed2aa00c2": {
+  "instruction": {
+   "Intel processor": "Intel Core i7 6500U",
+   "less than $1000": "$749.99",
+   "laptops": "ASUS Laptop X556UQ-NH71",
+   "new": "yes"
+  }
+ },
+ "a8f806fbde": {
+  "instruction": {
+   "Intel processor": "Intel Core i7 6500U",
+   "less than $1000": "$769.99",
+   "laptops": "Dell Precision M6600",
+   "new": "yes"
+  }
+ },
+ "8ee72809df": {
+  "instruction": {
+   "Intel processor": "Intel Core i7 6500U",
+   "less than $1000": "$829.99",
+   "laptops": "Dell Precision M6500T",
+   "new": "yes"
+  }
+ },
+ "e3b380737a": {
+  "instruction": {
+   "Intel processor": "Intel Core i7 7th Gen 7500U ",
+   "less than $1000": "$899.99",
+   "laptops": "Lenovo ThinkPad E560 20EV002JUS-16G",
+   "new": "yes"
+  }
+ },
+ "fd3b7f02af": {
+  "instruction": {
+   "Intel processor": "Intel Core i7 6500U",
+   "less than $1000": "$699.99",
+   "laptops": "HP B Grade Laptop EliteBook 2540P ",
+   "new": "yes"
+  }
+ },
+ "d1cdd98b50": {
+  "instruction": {
+   "Intel processor": "Intel Core i7 7th Gen 7500U ",
+   "less than $1000": "$899.99",
+   "laptops": "DELL Laptop Inspiron 17-5767",
+   "new": "yes"
+  }
+ },
+ "651e727545": {
+  "instruction": {
+   "Intel processor": "Intel Core i7 7th Gen 7500U ",
+   "less than $1000": "$729.99",
+   "laptops": "Lenovo Laptop IdeaPad 510 ",
+   "new": "yes"
+  }
+ },
+ "d98569db15": {
+  "instruction": {
+   "Intel processor": "Intel Core i7 7th Gen 7500U ",
+   "less than $1000": "$699.99",
+   "laptops": "DELL Laptop Precision XT6667",
+   "new": "yes"
+  }
+ },
+ "6c4d3ee4d1": {
+  "instruction": {
+   "Intel processor": "Intel Core i7 7th Gen 7500U ",
+   "less than $1000": "$789.99",
+   "laptops": "DELL Laptop Inspiron 17-678",
+   "new": "yes"
+  }
+ }
+}

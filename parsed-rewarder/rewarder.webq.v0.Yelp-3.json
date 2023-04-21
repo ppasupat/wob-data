@@ -1,0 +1,1272 @@
+{
+ "a1bcf15bae": {
+  "instruction": {
+   "type of food": "Tacos",
+   "location": "Ckevekand, OH",
+   "ANSWER": "La Plaza Supermarket"
+  }
+ },
+ "92a9bc1917": {
+  "instruction": {
+   "type of food": "Jamaican",
+   "location": "Ann Arbor, MI",
+   "ANSWER": "Jamaican Jerk Pit"
+  }
+ },
+ "c8a4627611": {
+  "instruction": {
+   "geographic location": "Scottsdale, AZ",
+   "type of food": "Ice Cream",
+   "ANSWER": "Sweet Republic"
+  }
+ },
+ "3d66a606a6": {
+  "instruction": {
+   "type of food": "American (Traditional)",
+   "location": "New York, NY",
+   "ANSWER": "Knickerbocker Bar & Grill 3.5 star rating 247 reviews $$$  American (Traditional) Greenwich Village 33 University Pl New York, NY 10003 Phone number (212) 228-8490"
+  }
+ },
+ "ee26d87ed9": {
+  "instruction": {
+   "type of food": "crab cake",
+   "location": "Baltimore, MD"
+  }
+ },
+ "2402e3b41a": {
+  "instruction": {
+   "type of food": "Chicken wings",
+   "location": "Akron, OH",
+   "ANSWER": "Pammie\u2019s Ribs Chicken & Fish"
+  }
+ },
+ "f59e5ba36b": {
+  "instruction": {
+   "geographic location": "Riverside, California",
+   "type of food": "Thai",
+   "ANSWER": "Riverside Thai Kitchen"
+  }
+ },
+ "605431650a": {
+  "instruction": {
+   "type of food": "sushi",
+   "location": "Houston, TX"
+  }
+ },
+ "571b26ba74": {
+  "instruction": {
+   "type of food": "Thai",
+   "location": "San Francisco, CA",
+   "ANSWER": "One Waan"
+  }
+ },
+ "939a3a2ba5": {
+  "instruction": {
+   "geographic location": "San Francisco, CA 94122",
+   "type of food": "Marnee Thai ",
+   "ANSWER": "marneethaisf.com"
+  }
+ },
+ "e7851d0c03": {
+  "instruction": {
+   "type of food": " Italian Restaurant",
+   "location": "New York, NY",
+   "ANSWER": "L\u2019Artusi 4.5 star rating 1228 reviews $$$  Italian West Village 228 W 10th St New York, NY 10014 Phone number (212) 255-5757"
+  }
+ },
+ "bcbc97825d": {
+  "instruction": {
+   "geographic location": "Indian",
+   "type of food": "Vedas Indian Restaurant ",
+   "ANSWER": "vedas-sanmateo.com"
+  }
+ },
+ "de9b3990d6": {
+  "instruction": {
+   "geographic location": "Atlanta, GA",
+   "type of food": "english breakfast",
+   "ANSWER": "Revelator Coffee Company, Midtown 848 Spring St Atlanta, GA 30308 Phone number (205) 224-5900"
+  }
+ },
+ "0298ee25f2": {
+  "instruction": {
+   "type of food": "American/ burgers",
+   "location": "Ypsilanti, MI",
+   "ANSWER": "Sidetrack"
+  }
+ },
+ "caf770994a": {
+  "instruction": {
+   "geographic location": "Seattle, WA",
+   "type of food": "Chinese",
+   "ANSWER": "A + Hong Kong Kitchen"
+  }
+ },
+ "34aff5e626": {
+  "instruction": {
+   "type of food": "Cobb salad",
+   "location": "Seattle, WA",
+   "ANSWER": "Skillet Capitol Hill"
+  }
+ },
+ "428ffac388": {
+  "instruction": {
+   "geographic location": "Atlanta, GA",
+   "type of food": "best sushi",
+   "ANSWER": "Taki Japanese Sushi & Hibachi, 4711 Ashford Dunwoody Rd Dunwoody, GA 30338 Phone number (770) 522-8888"
+  }
+ },
+ "bd7bae11ee": {
+  "instruction": {
+   "type of food": "Indian",
+   "location": "Chicago, IL",
+   "ANSWER": "Rangoli"
+  }
+ },
+ "997e2c58cc": {
+  "instruction": {
+   "type of food": "Pizza",
+   "location": "Asheville, NC",
+   "ANSWER": "Asheville Pizza & Brewing Company"
+  }
+ },
+ "8b7720229f": {
+  "instruction": {
+   "geographic location": "Santa Clarita, California",
+   "type of food": "Thai",
+   "ANSWER": "Life Thai Fusion"
+  }
+ },
+ "42f390cd60": {
+  "instruction": {
+   "geographic location": "Bourbon Street, New Orleans",
+   "type of food": "alcoholic beverages"
+  }
+ },
+ "9887b1f98f": {
+  "instruction": {
+   "geographic location": "Austin, TX",
+   "type of food": "BBQ",
+   "ANSWER": "Franklin Barbecue"
+  }
+ },
+ "2c6afff4e9": {
+  "instruction": {
+   "type of food": "Burgers",
+   "location": "Miami, FL"
+  }
+ },
+ "0f2e8beecb": {
+  "instruction": {
+   "geographic location": "San Diego, CA",
+   "type of food": "Mexican",
+   "ANSWER": "El Zarape Mexican Eatery"
+  }
+ },
+ "9b31c1f4bf": {
+  "instruction": {
+   "geographic location": "Salt Lake City, UT",
+   "type of food": "diner"
+  }
+ },
+ "f7f95f21c9": {
+  "instruction": {
+   "type of food": "Mexican",
+   "location": "Cincinnati, OH"
+  }
+ },
+ "9a5909f025": {
+  "instruction": {
+   "geographic location": "Atlanta, GA",
+   "type of food": "Indian restuarant",
+   "ANSWER": "Subras Indian Grill, 2900 Delk Rd SE Marietta, GA 30067 Phone number (678) 834-1778"
+  }
+ },
+ "f709b40b8e": {
+  "instruction": {
+   "type of food": "indian food",
+   "location": "Los Angeles, CA",
+   "ANSWER": "Maharaja Cuisine of India"
+  }
+ },
+ "64e600c97e": {
+  "instruction": {
+   "type of food": "Chinese",
+   "location": "Boston, MA"
+  }
+ },
+ "05bfb21ce5": {
+  "instruction": {
+   "geographic location": "Binghamton, NY",
+   "type of food": "Italian"
+  }
+ },
+ "48146161dc": {
+  "instruction": {
+   "geographic location": "Korean, Asian Fusion, Chinese ",
+   "type of food": "SO ",
+   "ANSWER": "nil"
+  }
+ },
+ "a43ed58a09": {
+  "instruction": {
+   "geographic location": "New York, NY",
+   "type of food": "Sushi",
+   "ANSWER": "Gaijin"
+  }
+ },
+ "00b98ff59c": {
+  "instruction": {
+   "geographic location": "Atlanta, GA",
+   "type of food": "Korean",
+   "ANSWER": "Char Korean Bar & Grill"
+  }
+ },
+ "4f0efd750e": {
+  "instruction": {
+   "type of food": "ramen",
+   "location": "Dallas, TX"
+  }
+ },
+ "d4f7ab9106": {
+  "instruction": {
+   "geographic location": "Nashville, TN",
+   "type of food": "Burger",
+   "ANSWER": "The Pharmacy"
+  }
+ },
+ "fff28f673c": {
+  "instruction": {
+   "geographic location": "Miami",
+   "type of food": "All AMerican"
+  }
+ },
+ "7822b4cd4f": {
+  "instruction": {
+   "type of food": "Pastrami Sandwich",
+   "location": "Columbus, OH",
+   "ANSWER": "Neighbor\u2019s Deli"
+  }
+ },
+ "0175062cb6": {
+  "instruction": {
+   "type of food": "Italian",
+   "location": "San Francisco, CA",
+   "ANSWER": "Spiazzo Ristorante"
+  }
+ },
+ "46818ecca9": {
+  "instruction": {
+   "type of food": "American (Traditional)",
+   "location": "New York, NY",
+   "ANSWER": " Jane 4.0 star rating 2541 reviews $$  American (Traditional), Modern European Greenwich Village 100 W Houston St New York, NY 10012 Phone number (212) 254-7000"
+  }
+ },
+ "d6725e9bd9": {
+  "instruction": {
+   "geographic location": "Eureka Springs, AR",
+   "type of food": "ribs"
+  }
+ },
+ "dcb2834892": {
+  "instruction": {
+   "type of food": "seafood",
+   "location": "Los Angeles, CA",
+   "ANSWER": "Bottlefish"
+  }
+ },
+ "6030f4b8a6": {
+  "instruction": {
+   "type of food": "noodles",
+   "location": "Greenville, SC"
+  }
+ },
+ "1ef1137411": {
+  "instruction": {
+   "type of food": "Mexican",
+   "location": "Chicago, IL",
+   "ANSWER": "El Habanero"
+  }
+ },
+ "68593a83d5": {
+  "instruction": {
+   "type of food": "Fried chicken",
+   "location": "New York City, NY",
+   "ANSWER": "51 Mott Street Restaurant"
+  }
+ },
+ "9097461035": {
+  "instruction": {
+   "geographic location": "Atlanta, GA",
+   "type of food": "seefood",
+   "ANSWER": "Meehan\u2019s Public House, Buckhead 322 E Paces Ferry Rd NE Atlanta, GA 30305 Phone number (470) 355-5116"
+  }
+ },
+ "8e4424f442": {
+  "instruction": {
+   "geographic location": "Denver",
+   "type of food": "Seafood"
+  }
+ },
+ "90095e6e7e": {
+  "instruction": {
+   "type of food": "pho",
+   "location": "Los Angeles, CA",
+   "ANSWER": "Let\u2019s Pho"
+  }
+ },
+ "3c7fffa69d": {
+  "instruction": {
+   "geographic location": "Atlanta",
+   "type of food": "Homestyle"
+  }
+ },
+ "f613dea3e2": {
+  "instruction": {
+   "geographic location": "San Francisco, CA 94110",
+   "type of food": "Blue Plate",
+   "ANSWER": "blueplatesf.com"
+  }
+ },
+ "cd8065debd": {
+  "instruction": {
+   "type of food": "brunch",
+   "location": "San Francisco, CA"
+  }
+ },
+ "ce987c2efd": {
+  "instruction": {
+   "type of food": "street tacos",
+   "location": "Los Angeles, CA",
+   "ANSWER": "Ave 26 Taco Stand"
+  }
+ },
+ "47e263e481": {
+  "instruction": {
+   "geographic location": "Pizza, Italian ",
+   "type of food": "Mozzeria ",
+   "ANSWER": "mozzeria.com"
+  }
+ },
+ "e89c40eed2": {
+  "instruction": {
+   "geographic location": "Tulsa, OK",
+   "type of food": "Chinese",
+   "ANSWER": "China Garden Restaurant"
+  }
+ },
+ "b3d1ea837c": {
+  "instruction": {
+   "geographic location": "Tulsa, OK",
+   "type of food": "Steakhouses",
+   "ANSWER": "Mahogany Prime Steakhouse"
+  }
+ },
+ "0ef7e1535a": {
+  "instruction": {
+   "type of food": "Chinese",
+   "location": "Cleveland Heights, OH",
+   "ANSWER": "Hunan Coventry"
+  }
+ },
+ "c9533ed04f": {
+  "instruction": {
+   "geographic location": "Anaheim, California",
+   "type of food": "Thai",
+   "ANSWER": "E-San Rod-Sap"
+  }
+ },
+ "c55564d671": {
+  "instruction": {
+   "type of food": "Seafood",
+   "location": "Charleston, SC",
+   "ANSWER": "167 Raw"
+  }
+ },
+ "799df9d880": {
+  "instruction": {
+   "type of food": "sushi",
+   "location": "San Diego, CA",
+   "ANSWER": "FishPit Sushi"
+  }
+ },
+ "762adeec69": {
+  "instruction": {
+   "type of food": "lebanese food",
+   "location": "Los Angeles, CA",
+   "ANSWER": "Sunnin Lebanese Cafe"
+  }
+ },
+ "d4b185f136": {
+  "instruction": {
+   "geographic location": "Hickory, NC",
+   "type of food": "buffet"
+  }
+ },
+ "e6e46fe1ab": {
+  "instruction": {
+   "type of food": "steak",
+   "location": "Ann Arbor, MI",
+   "ANSWER": "The Chop House"
+  }
+ },
+ "31283ef34a": {
+  "instruction": {
+   "type of food": "mexican",
+   "location": "Los Angeles, CA"
+  }
+ },
+ "13a2e8835e": {
+  "instruction": {
+   "type of food": " Italian Restaurant",
+   "location": "New York, NY",
+   "ANSWER": "Aunt Jake\u2019s 4.0 star rating 226 reviews $$  Italian Little Italy 151 Mulberry Street New York, NY 10013 Phone number (646) 858-0470"
+  }
+ },
+ "2ffea50edd": {
+  "instruction": {
+   "geographic location": "Phoenix, AZ",
+   "type of food": "Sushi",
+   "ANSWER": " Harumi Sushi"
+  }
+ },
+ "00eec7bec3": {
+  "instruction": {
+   "type of food": "BBQ",
+   "location": "Houston, TX"
+  }
+ },
+ "aeb89037fa": {
+  "instruction": {
+   "geographic location": "Tulsa, OK",
+   "type of food": "Japanese",
+   "ANSWER": "Sushi Hana"
+  }
+ },
+ "4c22e83d00": {
+  "instruction": {
+   "geographic location": "Ithaca, NY",
+   "type of food": "Ice Cream",
+   "ANSWER": "Purity Ice Cream"
+  }
+ },
+ "fbdf7c692f": {
+  "instruction": {
+   "type of food": "steaks",
+   "location": "Beaufort, SC"
+  }
+ },
+ "060699716a": {
+  "instruction": {
+   "geographic location": "Mesa,AZ",
+   "type of food": "Sushi",
+   "ANSWER": "Sakana Sushi & Grill"
+  }
+ },
+ "be05ba85d3": {
+  "instruction": {
+   "geographic location": "Atlanta, GA",
+   "type of food": "Crepes restaurant",
+   "ANSWER": "Copeland\u2019s, 3101 Cobb Pkwy Atlanta, GA 30339 Phone number (770) 612-3311"
+  }
+ },
+ "398f63e793": {
+  "instruction": {
+   "type of food": "Soup",
+   "location": "Cleveland, OH",
+   "ANSWER": "Souper Market"
+  }
+ },
+ "6e5033895d": {
+  "instruction": {
+   "geographic location": "Mesa, AZ",
+   "type of food": "Cajun",
+   "ANSWER": "Baby Kay's Cajun Kitchen"
+  }
+ },
+ "2cfc947e58": {
+  "instruction": {
+   "type of food": "BBQ",
+   "location": "Easley, SC"
+  }
+ },
+ "ae754e8d62": {
+  "instruction": {
+   "geographic location": "St Louis, MO",
+   "type of food": "sushi"
+  }
+ },
+ "c2fa129b3e": {
+  "instruction": {
+   "type of food": "American (Traditional)",
+   "location": "New York, NY",
+   "ANSWER": "Planet Hollywood $$  Comfort Food, Delis, American (Traditional) Theater District, Midtown West 1540 Broadway New York, NY 10036 Phone number (212) 333-7827"
+  }
+ },
+ "b8c1755432": {
+  "instruction": {
+   "geographic location": "Cincinnati, OH",
+   "type of food": "BBQ",
+   "ANSWER": "Eli\u2019s BBQ"
+  }
+ },
+ "296f13de1a": {
+  "instruction": {
+   "geographic location": "Little Rock, AR",
+   "type of food": "Italian",
+   "ANSWER": "Bruno\u2019s Little Italy"
+  }
+ },
+ "53a34e6086": {
+  "instruction": {
+   "type of food": "pizza",
+   "location": "Denver, CO"
+  }
+ },
+ "2198011ffd": {
+  "instruction": {
+   "geographic location": "Tulsa, OK",
+   "type of food": "American",
+   "ANSWER": " Atlas Grill"
+  }
+ },
+ "3724eb36ce": {
+  "instruction": {
+   "geographic location": " Japanese, Vegetarian, Vegan ",
+   "type of food": "Cha-Ya ",
+   "ANSWER": "nil"
+  }
+ },
+ "50e7db7f4e": {
+  "instruction": {
+   "geographic location": "Phoenix, AZ",
+   "type of food": "Tacos",
+   "ANSWER": "CRUjiente Tacos"
+  }
+ },
+ "fb33fb01a7": {
+  "instruction": {
+   "geographic location": "Mesa, AZ",
+   "type of food": "Italian",
+   "ANSWER": "Alessia\u2019s Ristorante Italiano"
+  }
+ },
+ "e37dbedda7": {
+  "instruction": {
+   "geographic location": "Los angeles, California",
+   "type of food": "Thai",
+   "ANSWER": "Araya\u2019s Place - Thai Vegan Restaurant"
+  }
+ },
+ "647d137113": {
+  "instruction": {
+   "type of food": " Italian Restaurant",
+   "location": "New York, NY",
+   "ANSWER": "Italienne 4.5 star rating 29 reviews $$$  French, Italian Flatiron 19 W 24th St New York, NY 10010 Phone number (646) 396-5466"
+  }
+ },
+ "2f69cd9621": {
+  "instruction": {
+   "geographic location": "Arkansas",
+   "type of food": "Doe's Steak"
+  }
+ },
+ "b9397df246": {
+  "instruction": {
+   "type of food": "sandwiches",
+   "location": "San Diego, CA",
+   "ANSWER": "Mendocino Farms"
+  }
+ },
+ "64ab3f1c1d": {
+  "instruction": {
+   "type of food": "Sushi",
+   "location": "Los Angeles, CA"
+  }
+ },
+ "13c5e5687c": {
+  "instruction": {
+   "geographic location": "Santa Monica, California",
+   "type of food": "Thai",
+   "ANSWER": "Satdha Plant-Based Thai Kitchen"
+  }
+ },
+ "5aae3f8d58": {
+  "instruction": {
+   "geographic location": "Pomona, California",
+   "type of food": "Thai",
+   "ANSWER": "Thai Orchid Garden"
+  }
+ },
+ "5ae24990f4": {
+  "instruction": {
+   "geographic location": "San Francisco, CA 94110",
+   "type of food": "Firepie ",
+   "ANSWER": "firepie.com"
+  }
+ },
+ "e04e3773d3": {
+  "instruction": {
+   "type of food": "Italian",
+   "location": "Los Angeles, CA",
+   "ANSWER": "TOMGEORGE"
+  }
+ },
+ "8d8f4aadee": {
+  "instruction": {
+   "type of food": "Thai",
+   "location": "Los Angeles, CA",
+   "ANSWER": "Ayara Thai Cuisine"
+  }
+ },
+ "8fb38627dc": {
+  "instruction": {
+   "type of food": "sushi",
+   "location": "Greenville, SC"
+  }
+ },
+ "ae9d3deed1": {
+  "instruction": {
+   "type of food": "Moroccan",
+   "location": "Sacramento, CA"
+  }
+ },
+ "ad89ad68b9": {
+  "instruction": {
+   "geographic location": "Atlanta, GA",
+   "type of food": "real greek",
+   "ANSWER": "Tannour Grill, Westside / Home Park, Georgia Tech 398 14th St NW Atlanta, GA 30318 Phone number (404) 873-1500"
+  }
+ },
+ "134cf19bfb": {
+  "instruction": {
+   "type of food": "BBQ",
+   "location": "Grand Rapids, MI",
+   "ANSWER": "Two Scotts Barbecue"
+  }
+ },
+ "a06026a3d6": {
+  "instruction": {
+   "type of food": "Lobster rolls",
+   "location": "Boston, MA",
+   "ANSWER": "Luke\u2019s Lobster Downtown Crossing"
+  }
+ },
+ "3e79fe4ce8": {
+  "instruction": {
+   "type of food": "Corn dogs",
+   "location": "Austin, TX",
+   "ANSWER": "Phil\u2019s Icehouse"
+  }
+ },
+ "bc433c36d0": {
+  "instruction": {
+   "type of food": "ramen",
+   "location": "San Diego, CA",
+   "ANSWER": "Tajima Ramen North Park"
+  }
+ },
+ "35d36e8b5d": {
+  "instruction": {
+   "geographic location": "Altlanta, Ga",
+   "type of food": "hungarian",
+   "ANSWER": "Tannour Grill, Westside / Home Park, Georgia Tech 398 14th St NW Atlanta, GA 30318 Phone number (404) 873-1500"
+  }
+ },
+ "c74b6d7421": {
+  "instruction": {
+   "type of food": "BBQ",
+   "location": "Cincinnati, OH",
+   "ANSWER": "Eli\u2019s BBQ"
+  }
+ },
+ "1a354781a2": {
+  "instruction": {
+   "type of food": "Twinkies",
+   "location": "Denver, CO",
+   "ANSWER": "Rocky Mountain Chocolate Factory"
+  }
+ },
+ "cc8e76f2ae": {
+  "instruction": {
+   "type of food": "Greek",
+   "location": "Los Angeles, CA",
+   "ANSWER": "Good Greek Grill-Hollywood"
+  }
+ },
+ "e250846a15": {
+  "instruction": {
+   "type of food": " Italian Restaurant",
+   "location": "New York, NY",
+   "ANSWER": "Sauce & Barrel 4.5 star rating 49 reviews $$  Cocktail Bars, Italian, Pizza Financial District 97 Washington St New York, NY 10006 Phone number (212) 480-6800"
+  }
+ },
+ "6293700edf": {
+  "instruction": {
+   "geographic location": "Tulsa, OK",
+   "type of food": "Seafood",
+   "ANSWER": "White River Fish Market"
+  }
+ },
+ "0efc0ed7d5": {
+  "instruction": {
+   "geographic location": "Fort Lauderdale",
+   "type of food": "Jamaican"
+  }
+ },
+ "707f066baa": {
+  "instruction": {
+   "type of food": "Thai",
+   "location": "New York, NY"
+  }
+ },
+ "c74f9596e4": {
+  "instruction": {
+   "geographic location": "San Francisco, CA 94103",
+   "type of food": "Montesacro Pinseria-Enoteca",
+   "ANSWER": "montesacrosf.com"
+  }
+ },
+ "80688d1563": {
+  "instruction": {
+   "type of food": "barbeque",
+   "location": "Austin, TX"
+  }
+ },
+ "01090e6cd2": {
+  "instruction": {
+   "type of food": "American (New)",
+   "location": "New York, NY",
+   "ANSWER": "Thursday Kitchen 4.5 star rating 281 reviews $$  Korean, American (New), Tapas/Small Plates East Village, Alphabet City 424 E 9th St New York, NY 10009 Phone number (646) 755-8088"
+  }
+ },
+ "f6445354f5": {
+  "instruction": {
+   "type of food": "Cajun",
+   "location": "Miami, FL"
+  }
+ },
+ "4bd083ef7f": {
+  "instruction": {
+   "type of food": "Buffalo wings",
+   "location": "San Jose, CA",
+   "ANSWER": "Buffalo Wild Wings, West San Jose"
+  }
+ },
+ "6f5f273217": {
+  "instruction": {
+   "type of food": "Mexican",
+   "location": "Ann Arbor, MI",
+   "ANSWER": "Chela\u2019s"
+  }
+ },
+ "75c74d3701": {
+  "instruction": {
+   "type of food": "Dumplings",
+   "location": "Los Angeles, CA"
+  }
+ },
+ "b681a968cd": {
+  "instruction": {
+   "type of food": "Ribs",
+   "location": "Toledo, OH",
+   "ANSWER": "Shorty\u2019s True American Roadhouse"
+  }
+ },
+ "2bade4bc4b": {
+  "instruction": {
+   "type of food": "Sushi",
+   "location": "Champaign, IL",
+   "ANSWER": "Sakanaya Restaurant"
+  }
+ },
+ "3ba73d95a4": {
+  "instruction": {
+   "geographic location": "Santa Ana, California",
+   "type of food": "Thai",
+   "ANSWER": "Bangkok Taste"
+  }
+ },
+ "070c197baf": {
+  "instruction": {
+   "type of food": "Japanese",
+   "location": "New York, NY"
+  }
+ },
+ "13bf76660f": {
+  "instruction": {
+   "type of food": "Vegetarian",
+   "location": "Los Angeles, CA",
+   "ANSWER": "PYT"
+  }
+ },
+ "80508e2d77": {
+  "instruction": {
+   "geographic location": "Los Angles",
+   "type of food": "French cuisine"
+  }
+ },
+ "3dbaafafe8": {
+  "instruction": {
+   "geographic location": "Austin, TX",
+   "type of food": "Tacos",
+   "ANSWER": "Las Trancas"
+  }
+ },
+ "7a7d32ac10": {
+  "instruction": {
+   "type of food": "Japanese",
+   "location": "Mesa, AZ"
+  }
+ },
+ "eba055a650": {
+  "instruction": {
+   "geographic location": "Tulsa, OK",
+   "type of food": "Mexican",
+   "ANSWER": "Calaveras"
+  }
+ },
+ "bb67258366": {
+  "instruction": {
+   "geographic location": "Atlanta, GA",
+   "type of food": "BBQ",
+   "ANSWER": "Fox Bros. Bar-B-Q"
+  }
+ },
+ "b69df05b2e": {
+  "instruction": {
+   "geographic location": "Little Rock, AR",
+   "type of food": "hamburgers"
+  }
+ },
+ "c134df2708": {
+  "instruction": {
+   "geographic location": "Charleston, SC",
+   "type of food": "Chinese",
+   "ANSWER": " Xiao Bao Biscuit"
+  }
+ },
+ "d893f6c3ee": {
+  "instruction": {
+   "type of food": "mexican food",
+   "location": "San Diego, CA",
+   "ANSWER": "My Rancho Viejo"
+  }
+ },
+ "0e35f36558": {
+  "instruction": {
+   "type of food": "French",
+   "location": "San Francisco, CA"
+  }
+ },
+ "7f3f07e0e1": {
+  "instruction": {
+   "geographic location": "Tulsa Zoo, Tulsa OK",
+   "type of food": "Japanese Hibachi"
+  }
+ },
+ "b952a01d64": {
+  "instruction": {
+   "type of food": "Apple pie",
+   "location": "Dallas, TX",
+   "ANSWER": "Emporium Pies"
+  }
+ },
+ "d6f78ad67f": {
+  "instruction": {
+   "type of food": "American (New)",
+   "location": "New York, NY",
+   "ANSWER": "Bea 4.0 star rating 1122 reviews $$  American (New), Cocktail Bars Theater District, Hell's Kitchen, Midtown West 403 W 43rd St New York, NY 10036 Phone number (212) 602-1910"
+  }
+ },
+ "9e6844166c": {
+  "instruction": {
+   "geographic location": "Boone, NC",
+   "type of food": "Chinese"
+  }
+ },
+ "5a00df1e8f": {
+  "instruction": {
+   "type of food": "seafood",
+   "location": "Seattle, WA"
+  }
+ },
+ "be167cafb8": {
+  "instruction": {
+   "geographic location": " Mexican, Korean, Latin American ",
+   "type of food": "Tacorea",
+   "ANSWER": "https://www.yelp.com/biz/tacorea-san-francisco?osq=Food"
+  }
+ },
+ "3770e435b6": {
+  "instruction": {
+   "type of food": "Peanut butter sandwich",
+   "location": "Detroit, MI",
+   "ANSWER": "Avalon International Breads"
+  }
+ },
+ "bd2ccfd419": {
+  "instruction": {
+   "type of food": "Greek",
+   "location": "Colorado, CO"
+  }
+ },
+ "0771305ed5": {
+  "instruction": {
+   "geographic location": "Tulsa, OK",
+   "type of food": "French",
+   "ANSWER": "French Hen"
+  }
+ },
+ "23a4882e0d": {
+  "instruction": {
+   "type of food": "sushi",
+   "location": "Las Vegas, NV",
+   "ANSWER": "Kabuto"
+  }
+ },
+ "5f1d42d372": {
+  "instruction": {
+   "geographic location": "Tulsa, OK",
+   "type of food": "Tex-Mex",
+   "ANSWER": "El Rio Verde"
+  }
+ },
+ "b6f4406746": {
+  "instruction": {
+   "type of food": "Indian",
+   "location": "Arlington, TX"
+  }
+ },
+ "c0df4b31e3": {
+  "instruction": {
+   "geographic location": "San Diego, CA",
+   "type of food": "Spanish",
+   "ANSWER": "Costa Brava"
+  }
+ },
+ "3b38ee62d0": {
+  "instruction": {
+   "type of food": "chicken",
+   "location": "Washington, DC"
+  }
+ },
+ "0ac8894d4e": {
+  "instruction": {
+   "geographic location": "Harrison, AR",
+   "type of food": "Italian food"
+  }
+ },
+ "3b82290ba3": {
+  "instruction": {
+   "type of food": "Italian",
+   "location": "Lexington, KY"
+  }
+ },
+ "5928d65052": {
+  "instruction": {
+   "geographic location": "Potrero Hill San Francisco, CA 94107",
+   "type of food": "Extreme Pizza",
+   "ANSWER": "extremepizza.com"
+  }
+ },
+ "4687a14a88": {
+  "instruction": {
+   "geographic location": "Mesa, AZ",
+   "type of food": "French",
+   "ANSWER": "Bistro A La Mode"
+  }
+ },
+ "e327c7ae23": {
+  "instruction": {
+   "type of food": "Thai",
+   "location": "Chicago, IL",
+   "ANSWER": "C\u2019est Bien Thai"
+  }
+ },
+ "62c5e68b0a": {
+  "instruction": {
+   "geographic location": "San Diego, California",
+   "type of food": "Thai",
+   "ANSWER": "Plumeria Vegetarian"
+  }
+ },
+ "04f8b85608": {
+  "instruction": {
+   "type of food": "thai food",
+   "location": "Greenville, SC"
+  }
+ },
+ "87c8008910": {
+  "instruction": {
+   "type of food": "burgers",
+   "location": "Miami, FL"
+  }
+ },
+ "10d0f0b2a6": {
+  "instruction": {
+   "type of food": "American (New)",
+   "location": "New York, NY",
+   "ANSWER": "urant 3.5 star rating 110 reviews $$  Wine Bars, American (New) Midtown East 1091 2nd Ave New York, NY 10022 Phone number (646) 741-8178"
+  }
+ },
+ "edbe65f4a8": {
+  "instruction": {
+   "type of food": "seafood",
+   "location": "Charleston,SC"
+  }
+ },
+ "3c081c44e1": {
+  "instruction": {
+   "type of food": "Chinese",
+   "location": "Pickens, SC"
+  }
+ },
+ "15680db771": {
+  "instruction": {
+   "type of food": "Greek",
+   "location": "San Francisco, CA",
+   "ANSWER": "Kokkari Estiatorio"
+  }
+ },
+ "ea248aeec6": {
+  "instruction": {
+   "geographic location": "San Francisco, CA",
+   "type of food": "Seafood",
+   "ANSWER": "Hog Island Oyster Co"
+  }
+ },
+ "65b4cf5c60": {
+  "instruction": {
+   "type of food": "South Indian",
+   "location": "Charleston, SC",
+   "ANSWER": "Nirlep Indian Restaurant"
+  }
+ },
+ "4dec29cbb9": {
+  "instruction": {
+   "geographic location": "Branson, Mo",
+   "type of food": "tacos"
+  }
+ },
+ "e135db5e0e": {
+  "instruction": {
+   "type of food": "steaks",
+   "location": "New York, NY"
+  }
+ },
+ "12411b1ae9": {
+  "instruction": {
+   "geographic location": "Nashville, TN",
+   "type of food": "Southern",
+   "ANSWER": "The Farm House"
+  }
+ },
+ "13b688b5a7": {
+  "instruction": {
+   "type of food": "Cheeseburger",
+   "location": "San Francisco, CA",
+   "ANSWER": "WesBurger \u2018N\u2019 More"
+  }
+ },
+ "51f4b5b329": {
+  "instruction": {
+   "geographic location": "Brea, California",
+   "type of food": "Mexican"
+  }
+ },
+ "c4d6ef2fd9": {
+  "instruction": {
+   "geographic location": "Syracuse, NY",
+   "type of food": "BBQ",
+   "ANSWER": "Dinosaur Bar-B-Que"
+  }
+ },
+ "2491ffe7a5": {
+  "instruction": {
+   "geographic location": "Tulsa, OK",
+   "type of food": "Italian",
+   "ANSWER": "Mondo\u2019s Ristorante Italiano"
+  }
+ },
+ "9b41786e13": {
+  "instruction": {
+   "type of food": "dumplings",
+   "location": "Greenville, SC"
+  }
+ },
+ "f95efbf374": {
+  "instruction": {
+   "type of food": "Soul Food",
+   "location": "Omaha, NE"
+  }
+ },
+ "3525881ea7": {
+  "instruction": {
+   "type of food": "sushi",
+   "location": "Ann Arbor, MI",
+   "ANSWER": "Sushi Town"
+  }
+ },
+ "31288ca50b": {
+  "instruction": {
+   "geographic location": "Atlanta, Ga",
+   "type of food": "italian",
+   "ANSWER": "Ribalta, 1080 Peachtree St NE Atlanta, GA 30309 Phone number (404) 249-7019"
+  }
+ },
+ "88dda890d7": {
+  "instruction": {
+   "type of food": "Vegetarian",
+   "location": "San Francisco, CA",
+   "ANSWER": "Sugarhill Kitchen"
+  }
+ },
+ "f775d31f94": {
+  "instruction": {
+   "type of food": "Lebanese",
+   "location": "Atlanta, GE"
+  }
+ },
+ "8777311dd5": {
+  "instruction": {
+   "geographic location": "Pittsburgh, PA",
+   "type of food": "Taiwanese",
+   "ANSWER": "Taiwanese Bistro Cafe 33"
+  }
+ },
+ "b1ba61ac0f": {
+  "instruction": {
+   "geographic location": "Austin, TX",
+   "type of food": "Cajun",
+   "ANSWER": "Baton Creole"
+  }
+ },
+ "669ce4ab9b": {
+  "instruction": {
+   "type of food": "Steak",
+   "location": "San Francisco, CA"
+  }
+ },
+ "997c840d08": {
+  "instruction": {
+   "geographic location": "Flagstaff, AZ",
+   "type of food": "Burgers",
+   "ANSWER": "Diablo Burger"
+  }
+ },
+ "de0291dd4e": {
+  "instruction": {
+   "type of food": "Chicken Wings",
+   "location": "Seattle, WA"
+  }
+ },
+ "c361324c1d": {
+  "instruction": {
+   "geographic location": "Marshall, AR",
+   "type of food": "pizza"
+  }
+ },
+ "ee9444b23e": {
+  "instruction": {
+   "geographic location": "Philadelphia, PA",
+   "type of food": "Mexican",
+   "ANSWER": "Los Gallos Mexican Taqueria"
+  }
+ },
+ "6e33a7e972": {
+  "instruction": {
+   "geographic location": "Atlanta, GA",
+   "type of food": "cheap mexican ",
+   "ANSWER": "El Bandido Mex Mex Grill, Little Five Points 1083 Euclid Ave NE Atlanta, GA 30307 Phone number (404) 476-3150"
+  }
+ },
+ "8a0ceedf1b": {
+  "instruction": {
+   "geographic location": "San Bernardino, California",
+   "type of food": "Thai",
+   "ANSWER": "Rose Apple"
+  }
+ },
+ "2b814c842b": {
+  "instruction": {
+   "geographic location": "Tulsa, OK",
+   "type of food": "Barbeque",
+   "ANSWER": " Knotty Pig BBQ, Burger & Chili House"
+  }
+ },
+ "f459ceb430": {
+  "instruction": {
+   "geographic location": "Phoenix, AZ",
+   "type of food": "Cajun ",
+   "ANSWER": "Angry Crab Shack"
+  }
+ },
+ "a042fecc84": {
+  "instruction": {
+   "type of food": "American",
+   "location": "Kansas City, MO"
+  }
+ },
+ "e0ae0a7af8": {
+  "instruction": {
+   "type of food": "beef",
+   "location": "Houston, TX"
+  }
+ },
+ "6db1e1f7cf": {
+  "instruction": {
+   "geographic location": "Detroit, MI",
+   "type of food": "American (Traditional)",
+   "ANSWER": "Wala"
+  }
+ },
+ "7bd6580df7": {
+  "instruction": {
+   "geographic location": "Burbank, California",
+   "type of food": "Thai",
+   "ANSWER": "Summer Buffalo"
+  }
+ },
+ "ca6fb91f3e": {
+  "instruction": {
+   "geographic location": "Atlanta, GA",
+   "type of food": "Asian all you can eat",
+   "ANSWER": "Poor Calvin\u2019s, Downtown 510 Piedmont Ave NE Atlanta, GA 30308 Phone number (404) 254-4051"
+  }
+ },
+ "3b4ad44612": {
+  "instruction": {
+   "type of food": "Chinese",
+   "location": "San Francisco, CA",
+   "ANSWER": "Tang Collection"
+  }
+ },
+ "8814635edd": {
+  "instruction": {
+   "type of food": "Chinese",
+   "location": "Los Angeles, CA",
+   "ANSWER": "Fat Dragon"
+  }
+ },
+ "73e2d72dd0": {
+  "instruction": {
+   "geographic location": "Austin, TX",
+   "type of food": "Sushi",
+   "ANSWER": "Dawa Sushi"
+  }
+ },
+ "041b8575bd": {
+  "instruction": {
+   "geographic location": "Lake Worth, Florida",
+   "type of food": "Japanese"
+  }
+ },
+ "788be9f12d": {
+  "instruction": {
+   "type of food": "fish tacos",
+   "location": "San Diego, CA",
+   "ANSWER": "Oscar\u2019s Mexican Seafood"
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "030d184795": {
+  "instruction": {
+   "Dollar Amount": "$957.6 Million",
+   "Nominee": "Donald Trump"
+  }
+ },
+ "a5099e7fa2": {
+  "instruction": {
+   "Dollar Amount": "$34.7 Million",
+   "Nominee": "Jeb Bush"
+  }
+ },
+ "b1a934d052": {
+  "instruction": {
+   "Dollar Amount": "$1.4 Billion",
+   "Nominee": "Hillary Clinton"
+  }
+ },
+ "b1622f641c": {
+  "instruction": {
+   "Dollar Amount": "$93.2 Million",
+   "Nominee": "Ted Cruz"
+  }
+ },
+ "cd6bc848b8": {
+  "instruction": {
+   "Dollar Amount": "$8.6 Million",
+   "Nominee": "Chris Christie"
+  }
+ },
+ "bbb2c6ed91": {
+  "instruction": {
+   "Dollar Amount": "$4.2 Million",
+   "Nominee": "Mike Huckabee"
+  }
+ },
+ "9e4d99c379": {
+  "instruction": {
+   "Dollar Amount": "$50.9 Million",
+   "Nominee": "Marco Rubio"
+  }
+ },
+ "9e1ca2362a": {
+  "instruction": {
+   "Dollar Amount": "$389.6 Thousand",
+   "Nominee": "James Gilmore"
+  }
+ },
+ "596447de66": {
+  "instruction": {
+   "Dollar Amount": "$529. Thousand",
+   "Nominee": "George Pataki"
+  }
+ },
+ "d41330f0b3": {
+  "instruction": {
+   "Dollar Amount": "$59.5 Million",
+   "Nominee": "Ben Carson"
+  }
+ }
+}

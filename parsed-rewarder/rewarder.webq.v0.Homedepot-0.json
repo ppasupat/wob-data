@@ -1,0 +1,62 @@
+{
+ "4bc6848b18": {
+  "instruction": {
+   "room type": "study",
+   "color": "green"
+  }
+ },
+ "f5406e0bf2": {
+  "instruction": {
+   "room type": "hallway",
+   "color": "violet"
+  }
+ },
+ "b629c66416": {
+  "instruction": {
+   "room type": "Den",
+   "color": "red"
+  }
+ },
+ "ace3b42777": {
+  "instruction": {
+   "room type": "living room",
+   "color": "yellow"
+  }
+ },
+ "c11a60ed2a": {
+  "instruction": {
+   "room type": "dining room",
+   "color": "blue"
+  }
+ },
+ "d1542166ba": {
+  "instruction": {
+   "room type": "pantry",
+   "color": "sage"
+  }
+ },
+ "a4d741c98f": {
+  "instruction": {
+   "room type": "bedroom",
+   "color": "fuscia"
+  }
+ },
+ "f25307f66f": {
+  "instruction": {
+   "room type": "foyer",
+   "color": "slate"
+  }
+ },
+ "e7af8fd5e8": {
+  "instruction": {
+   "room type": "kitchen",
+   "color": "orange"
+  }
+ },
+ "5168dc6f67": {
+  "instruction": {
+   "room type": "breezeway",
+   "color": "black"
+  }
+ }
+}

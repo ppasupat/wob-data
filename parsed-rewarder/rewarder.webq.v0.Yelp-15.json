@@ -1,0 +1,62 @@
+{
+ "54595f2492": {
+  "instruction": {
+   "drink special": "happy hour",
+   "bar": "Valentino\u2019s Lounge"
+  }
+ },
+ "8b97926b61": {
+  "instruction": {
+   "drink special": "happy hour",
+   "bar": "Caffe Tazza Coffee House & Wine Bar"
+  }
+ },
+ "751f0d1c51": {
+  "instruction": {
+   "drink special": "happy hour",
+   "bar": " Izakaya Naruto"
+  }
+ },
+ "a783751793": {
+  "instruction": {
+   "drink special": "happy hour",
+   "bar": "The Canyon Sports Pub & Grill"
+  }
+ },
+ "bd1f1cedf8": {
+  "instruction": {
+   "drink special": "special",
+   "bar": "Third Avenue Alehouse"
+  }
+ },
+ "527acac377": {
+  "instruction": {
+   "drink special": "happy hour",
+   "bar": "Chili\u2019s"
+  }
+ },
+ "87f16ffc6d": {
+  "instruction": {
+   "drink special": "happy hour",
+   "bar": "Diamond Jim\u2019s"
+  }
+ },
+ "9510891181": {
+  "instruction": {
+   "drink special": "special",
+   "bar": "Black Angus Steakhouse"
+  }
+ },
+ "97a3af7853": {
+  "instruction": {
+   "drink special": "special",
+   "bar": "Archway Lounge"
+  }
+ },
+ "b6dca0dfb8": {
+  "instruction": {
+   "drink special": "happy hour",
+   "bar": "Islands Restaurant"
+  }
+ }
+}

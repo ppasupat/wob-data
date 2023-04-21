@@ -1,0 +1,52 @@
+{
+ "52aab310a6": {
+  "instruction": {
+   "city": "Los Angeles"
+  }
+ },
+ "59e8c6a455": {
+  "instruction": {
+   "city": "San Diego"
+  }
+ },
+ "6e39724667": {
+  "instruction": {
+   "city": "Cancun"
+  }
+ },
+ "c796cf3ebf": {
+  "instruction": {
+   "city": "Los Cabos"
+  }
+ },
+ "b3f0152010": {
+  "instruction": {
+   "city": "Maui"
+  }
+ },
+ "7276a38331": {
+  "instruction": {
+   "city": "Portland"
+  }
+ },
+ "cc7ab25082": {
+  "instruction": {
+   "city": "Puerto Vallarta"
+  }
+ },
+ "fb21a0163c": {
+  "instruction": {
+   "city": "Seattle"
+  }
+ },
+ "96298aab8f": {
+  "instruction": {
+   "city": "San Francisco"
+  }
+ },
+ "9d498579bb": {
+  "instruction": {
+   "city": "Palm Springs"
+  }
+ }
+}

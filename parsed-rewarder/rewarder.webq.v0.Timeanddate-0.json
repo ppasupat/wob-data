@@ -1,0 +1,1652 @@
+{
+ "123436ddce": {
+  "instruction": {
+   "month": "July",
+   "year": "2026",
+   "day": "21",
+   "ANSWER": "Tuesday"
+  }
+ },
+ "53fa953ac5": {
+  "instruction": {
+   "year": "2018",
+   "day": "13",
+   "month": "March "
+  }
+ },
+ "59d1c117c0": {
+  "instruction": {
+   "year": "2030",
+   "ANSWER": "Tuesday",
+   "day": "10",
+   "month": "December"
+  }
+ },
+ "4db2d314d0": {
+  "instruction": {
+   "day": "25",
+   "year": "2023",
+   "month": "January"
+  }
+ },
+ "53e113de36": {
+  "instruction": {
+   "month": "June",
+   "year": "2038",
+   "day": "12",
+   "ANSWER": "Saturday"
+  }
+ },
+ "4006783ac4": {
+  "instruction": {
+   "month": "November",
+   "year": "2017",
+   "day": "28",
+   "ANSWER": "Tuesday"
+  }
+ },
+ "ac78a8b0a8": {
+  "instruction": {
+   "month": "December",
+   "year": "2060",
+   "day": "25",
+   "ANSWER": "Saturday"
+  }
+ },
+ "91cb99a9bb": {
+  "instruction": {
+   "month": "February",
+   "year": "2026",
+   "day": "13",
+   "ANSWER": "Friday"
+  }
+ },
+ "57a6127759": {
+  "instruction": {
+   "month": "July",
+   "year": "2025",
+   "day": "16",
+   "ANSWER": "Wednesday"
+  }
+ },
+ "1f3f197a55": {
+  "instruction": {
+   "year": "2024",
+   "ANSWER": "Friday",
+   "day": "13",
+   "month": "September"
+  }
+ },
+ "29eab17491": {
+  "instruction": {
+   "year": "2027",
+   "ANSWER": "Friday",
+   "day": "19",
+   "month": "February"
+  }
+ },
+ "aec604c514": {
+  "instruction": {
+   "month": "March",
+   "year": "2020",
+   "day": "03",
+   "ANSWER": "Tuesday"
+  }
+ },
+ "26bf2bd4bc": {
+  "instruction": {
+   "month": "July",
+   "year": "2024",
+   "day": "21",
+   "ANSWER": "Sunday"
+  }
+ },
+ "acd6ea000d": {
+  "instruction": {
+   "year": "2020",
+   "ANSWER": "Thursday",
+   "day": "31",
+   "month": "December"
+  }
+ },
+ "404d20a6d0": {
+  "instruction": {
+   "month": "May",
+   "year": "2063",
+   "day": "13",
+   "ANSWER": "Sunday"
+  }
+ },
+ "8ebda97470": {
+  "instruction": {
+   "month": "November",
+   "year": "2029 ",
+   "day": "04",
+   "ANSWER": "Sunday"
+  }
+ },
+ "bf5825751a": {
+  "instruction": {
+   "month": "Spetember",
+   "year": "2021",
+   "day": "12",
+   "ANSWER": "Sunday"
+  }
+ },
+ "e34d1702cd": {
+  "instruction": {
+   "month": "May",
+   "year": "2021",
+   "day": "3",
+   "ANSWER": "Monday"
+  }
+ },
+ "353d1ae96e": {
+  "instruction": {
+   "year": "2017",
+   "ANSWER": "Tuesday",
+   "day": "31",
+   "month": "October "
+  }
+ },
+ "46e3f09a62": {
+  "instruction": {
+   "year": "2021",
+   "ANSWER": "Friday",
+   "day": "16",
+   "month": "April"
+  }
+ },
+ "5cd1a549aa": {
+  "instruction": {
+   "year": "2022",
+   "day": "17",
+   "month": "June"
+  }
+ },
+ "aaad0acfcb": {
+  "instruction": {
+   "month": "June ",
+   "year": "1878",
+   "day": "26",
+   "ANSWER": "Wednesday"
+  }
+ },
+ "5395acb59d": {
+  "instruction": {
+   "month": "April",
+   "year": "2021",
+   "day": "16",
+   "ANSWER": "Friday"
+  }
+ },
+ "c6178ea5ae": {
+  "instruction": {
+   "month": "August",
+   "year": "2018",
+   "day": "16",
+   "ANSWER": "Thursday"
+  }
+ },
+ "2b3fb8eec1": {
+  "instruction": {
+   "month": "July",
+   "year": "2027",
+   "day": "17",
+   "ANSWER": "Saturday"
+  }
+ },
+ "4e320dfcce": {
+  "instruction": {
+   "year": "2016",
+   "ANSWER": "Monday",
+   "day": "24",
+   "month": "December"
+  }
+ },
+ "fe85e10c05": {
+  "instruction": {
+   "year": "2020",
+   "day": "5",
+   "month": "January"
+  }
+ },
+ "c36423b9ca": {
+  "instruction": {
+   "month": "October",
+   "year": "2030",
+   "day": "11",
+   "ANSWER": "Friday"
+  }
+ },
+ "bd69f77de0": {
+  "instruction": {
+   "month": "July",
+   "year": "2020",
+   "day": "14",
+   "ANSWER": "Tuesday"
+  }
+ },
+ "45edc7a582": {
+  "instruction": {
+   "month": "March",
+   "year": "2030",
+   "day": "29",
+   "ANSWER": "Friday"
+  }
+ },
+ "b64366b2df": {
+  "instruction": {
+   "month": "February ",
+   "year": "2021",
+   "day": "21",
+   "ANSWER": "Sunday"
+  }
+ },
+ "bec00ea57a": {
+  "instruction": {
+   "month": "September",
+   "year": "2001",
+   "day": "11",
+   "ANSWER": "Tuesday"
+  }
+ },
+ "aeb00f3a76": {
+  "instruction": {
+   "day": "11",
+   "year": "2017",
+   "month": "November"
+  }
+ },
+ "323a9d652e": {
+  "instruction": {
+   "year": "2025",
+   "ANSWER": "Sunday",
+   "day": "06",
+   "month": "April"
+  }
+ },
+ "9811d00a0b": {
+  "instruction": {
+   "month": "January",
+   "year": "2021",
+   "day": "4",
+   "ANSWER": "Monday"
+  }
+ },
+ "cad3e4eefb": {
+  "instruction": {
+   "month": "January",
+   "year": "2029",
+   "day": "18",
+   "ANSWER": "Thursday"
+  }
+ },
+ "f06d89615b": {
+  "instruction": {
+   "year": "2017",
+   "ANSWER": "Tuesday",
+   "day": "28",
+   "month": "November"
+  }
+ },
+ "3d5d2c9f54": {
+  "instruction": {
+   "month": "April ",
+   "year": "1864",
+   "day": "20",
+   "ANSWER": "Wednesday"
+  }
+ },
+ "cb383009f0": {
+  "instruction": {
+   "month": "August",
+   "year": "2050",
+   "day": "31",
+   "ANSWER": "Wednesday"
+  }
+ },
+ "c95730895a": {
+  "instruction": {
+   "month": "May",
+   "year": "2021",
+   "day": "19"
+  }
+ },
+ "0961322f70": {
+  "instruction": {
+   "month": "March",
+   "year": "2028",
+   "day": "15",
+   "ANSWER": "Wednesday"
+  }
+ },
+ "73e58cbf80": {
+  "instruction": {
+   "year": "2024",
+   "ANSWER": "Sunday",
+   "day": "14",
+   "month": "July"
+  }
+ },
+ "3a3890832d": {
+  "instruction": {
+   "year": "2023",
+   "day": "20",
+   "month": "February"
+  }
+ },
+ "f789b372f0": {
+  "instruction": {
+   "month": "May",
+   "year": "2035",
+   "day": "24",
+   "ANSWER": "Thursday"
+  }
+ },
+ "26beff49d6": {
+  "instruction": {
+   "day": "28",
+   "year": "2020",
+   "month": "September"
+  }
+ },
+ "3942e18f5d": {
+  "instruction": {
+   "year": "2036 ",
+   "ANSWER": "Tuesday",
+   "day": "15",
+   "month": "July"
+  }
+ },
+ "761fcfa8e2": {
+  "instruction": {
+   "month": "June",
+   "year": "2021",
+   "day": "21",
+   "ANSWER": "Monday"
+  }
+ },
+ "624852bcab": {
+  "instruction": {
+   "day": "20",
+   "year": "2023",
+   "month": "February"
+  }
+ },
+ "f69553fe32": {
+  "instruction": {
+   "month": "July",
+   "year": "2020",
+   "day": "31",
+   "ANSWER": "Saturday"
+  }
+ },
+ "17b12fdabd": {
+  "instruction": {
+   "year": "2021",
+   "ANSWER": "Friday",
+   "day": "22",
+   "month": "January"
+  }
+ },
+ "6c97554e58": {
+  "instruction": {
+   "day": "13",
+   "year": "2018",
+   "month": "March "
+  }
+ },
+ "19c1603f26": {
+  "instruction": {
+   "year": "2019",
+   "ANSWER": "Monday",
+   "day": "11",
+   "month": "November"
+  }
+ },
+ "42d150e381": {
+  "instruction": {
+   "day": "01",
+   "year": "2019",
+   "month": "April"
+  }
+ },
+ "de186653a4": {
+  "instruction": {
+   "year": "2026",
+   "ANSWER": "Thursday",
+   "day": "22",
+   "month": "January"
+  }
+ },
+ "baec13cf7c": {
+  "instruction": {
+   "year": "2028",
+   "ANSWER": "Wednesday",
+   "day": "15",
+   "month": "March"
+  }
+ },
+ "7ef0740c29": {
+  "instruction": {
+   "year": "2022",
+   "ANSWER": "Friday",
+   "day": "28",
+   "month": "October"
+  }
+ },
+ "db061e33dc": {
+  "instruction": {
+   "month": "September",
+   "year": "2024",
+   "day": "13",
+   "ANSWER": "Friday"
+  }
+ },
+ "bfcf926a99": {
+  "instruction": {
+   "year": "1864",
+   "ANSWER": "Wednesday",
+   "day": "20",
+   "month": "April "
+  }
+ },
+ "3c77df1bea": {
+  "instruction": {
+   "year": "2030",
+   "ANSWER": "Friday",
+   "day": "11",
+   "month": "October"
+  }
+ },
+ "2993506530": {
+  "instruction": {
+   "year": "2026",
+   "ANSWER": "Friday",
+   "day": "13",
+   "month": "February"
+  }
+ },
+ "7d5d191b91": {
+  "instruction": {
+   "month": "June",
+   "year": "2023",
+   "day": "28",
+   "ANSWER": "Wednesday"
+  }
+ },
+ "afa62d7a15": {
+  "instruction": {
+   "month": "August",
+   "year": "2035",
+   "day": "19",
+   "ANSWER": "Sunday"
+  }
+ },
+ "d9a1efa45b": {
+  "instruction": {
+   "month": "July",
+   "year": "2036 ",
+   "day": "15",
+   "ANSWER": "Tuesday"
+  }
+ },
+ "84e2fcaef1": {
+  "instruction": {
+   "year": "2018",
+   "ANSWER": "Saturday",
+   "day": "24",
+   "month": "February"
+  }
+ },
+ "7d799f3b5a": {
+  "instruction": {
+   "month": "June",
+   "year": "2036",
+   "day": "22",
+   "ANSWER": "Sunday"
+  }
+ },
+ "7c329ccabc": {
+  "instruction": {
+   "year": "2052",
+   "ANSWER": "Saturday",
+   "day": "27",
+   "month": "July 27"
+  }
+ },
+ "7719c425d6": {
+  "instruction": {
+   "month": "February",
+   "year": "2045",
+   "day": "12",
+   "ANSWER": "Sunday"
+  }
+ },
+ "d611e82c25": {
+  "instruction": {
+   "month": "July",
+   "year": "2024",
+   "day": "14",
+   "ANSWER": "Sunday"
+  }
+ },
+ "ce88c61a38": {
+  "instruction": {
+   "month": "January",
+   "year": "2021",
+   "day": "22",
+   "ANSWER": "Friday"
+  }
+ },
+ "aa243380c5": {
+  "instruction": {
+   "month": "January",
+   "year": "2020",
+   "day": "5"
+  }
+ },
+ "b1d42cf842": {
+  "instruction": {
+   "month": "February",
+   "year": "2019",
+   "day": "28",
+   "ANSWER": "Thursday"
+  }
+ },
+ "e2f3f471d8": {
+  "instruction": {
+   "month": "June",
+   "year": "2018",
+   "day": "07",
+   "ANSWER": "Thursday"
+  }
+ },
+ "0169848462": {
+  "instruction": {
+   "year": "2036",
+   "ANSWER": "Thursday",
+   "day": "26",
+   "month": "June"
+  }
+ },
+ "3b635e959a": {
+  "instruction": {
+   "year": "2005",
+   "ANSWER": "Thursday",
+   "day": "5",
+   "month": "May"
+  }
+ },
+ "c14ef77fea": {
+  "instruction": {
+   "year": "2032",
+   "ANSWER": "Thursday",
+   "day": "1",
+   "month": "January"
+  }
+ },
+ "02fa2158dc": {
+  "instruction": {
+   "month": "October",
+   "year": "2027",
+   "day": "26",
+   "ANSWER": "Tuesday"
+  }
+ },
+ "b4c4d60c5f": {
+  "instruction": {
+   "month": "January",
+   "year": "2023",
+   "day": "01",
+   "ANSWER": "Sunday"
+  }
+ },
+ "432f1dd883": {
+  "instruction": {
+   "month": "May",
+   "year": "2019",
+   "day": "11",
+   "ANSWER": "Saturday"
+  }
+ },
+ "6b2dbba875": {
+  "instruction": {
+   "year": "2021",
+   "day": "19",
+   "month": "May"
+  }
+ },
+ "bd4337b8a7": {
+  "instruction": {
+   "year": "2018",
+   "ANSWER": "Wednesday",
+   "day": "04",
+   "month": "July "
+  }
+ },
+ "5c5c7c38d9": {
+  "instruction": {
+   "year": "2030",
+   "ANSWER": "Wednesday",
+   "day": "20",
+   "month": "March"
+  }
+ },
+ "98b963bb6e": {
+  "instruction": {
+   "month": "April",
+   "year": "2019",
+   "day": "01"
+  }
+ },
+ "7bcc136733": {
+  "instruction": {
+   "year": "2021",
+   "ANSWER": "Thursday",
+   "day": "24",
+   "month": "June"
+  }
+ },
+ "26285d72ae": {
+  "instruction": {
+   "year": "2027",
+   "ANSWER": "Saturday",
+   "day": "17",
+   "month": "July"
+  }
+ },
+ "7bf72a494c": {
+  "instruction": {
+   "month": "July 27",
+   "year": "2052",
+   "day": "27",
+   "ANSWER": "Saturday"
+  }
+ },
+ "b42f75f228": {
+  "instruction": {
+   "year": "2036",
+   "ANSWER": "Sunday",
+   "day": "22",
+   "month": "June"
+  }
+ },
+ "73f46f23e5": {
+  "instruction": {
+   "year": "2017",
+   "ANSWER": "Thursday",
+   "day": "20",
+   "month": "April"
+  }
+ },
+ "1e81e68aec": {
+  "instruction": {
+   "month": "July",
+   "year": "2029",
+   "day": "1",
+   "ANSWER": "Sunday"
+  }
+ },
+ "82fa381903": {
+  "instruction": {
+   "year": "2023",
+   "ANSWER": "Wednesday",
+   "day": "28",
+   "month": "June"
+  }
+ },
+ "eda8fded71": {
+  "instruction": {
+   "month": "December",
+   "year": "2019",
+   "day": "14"
+  }
+ },
+ "a5318941d0": {
+  "instruction": {
+   "month": "January",
+   "year": "2019",
+   "day": "25",
+   "ANSWER": "Friday"
+  }
+ },
+ "de1df32054": {
+  "instruction": {
+   "month": "January",
+   "year": "2023",
+   "day": "25"
+  }
+ },
+ "0c2033d69e": {
+  "instruction": {
+   "year": "2026",
+   "ANSWER": "Thursday",
+   "day": "30",
+   "month": "April"
+  }
+ },
+ "354c01d618": {
+  "instruction": {
+   "year": "2020",
+   "ANSWER": "Tuesday",
+   "day": "03",
+   "month": "March"
+  }
+ },
+ "34422d28f9": {
+  "instruction": {
+   "month": "June",
+   "year": "2024",
+   "day": "27",
+   "ANSWER": "Thursday"
+  }
+ },
+ "eefc72f2fe": {
+  "instruction": {
+   "year": "2025",
+   "ANSWER": "Wednesday",
+   "day": "16",
+   "month": "July"
+  }
+ },
+ "cbbddbbf33": {
+  "instruction": {
+   "month": "December",
+   "year": "2025",
+   "day": "25",
+   "ANSWER": "Thursday"
+  }
+ },
+ "40e12f3d04": {
+  "instruction": {
+   "year": "2030",
+   "ANSWER": "Friday",
+   "day": "29",
+   "month": "March"
+  }
+ },
+ "31baaaf27e": {
+  "instruction": {
+   "month": "May",
+   "year": "2022",
+   "day": "2",
+   "ANSWER": "Wednesday"
+  }
+ },
+ "c169daaf0d": {
+  "instruction": {
+   "year": "2100",
+   "ANSWER": "Friday",
+   "day": "01",
+   "month": "January "
+  }
+ },
+ "e766f80e0e": {
+  "instruction": {
+   "month": "October",
+   "year": "2032",
+   "day": "31",
+   "ANSWER": "Sunday"
+  }
+ },
+ "74518ab1d3": {
+  "instruction": {
+   "year": "2001",
+   "ANSWER": "Tuesday",
+   "day": "11",
+   "month": "September"
+  }
+ },
+ "1a0e689c5e": {
+  "instruction": {
+   "month": "December",
+   "year": "2017",
+   "day": "04",
+   "ANSWER": "Monday"
+  }
+ },
+ "0b42f817e5": {
+  "instruction": {
+   "day": "14",
+   "year": "2019",
+   "month": "December"
+  }
+ },
+ "001ad83ccf": {
+  "instruction": {
+   "month": "October",
+   "year": "2022",
+   "day": "28",
+   "ANSWER": "Friday"
+  }
+ },
+ "69a2ac2db2": {
+  "instruction": {
+   "month": "April",
+   "year": "2025",
+   "day": "06",
+   "ANSWER": "Sunday"
+  }
+ },
+ "edd52af621": {
+  "instruction": {
+   "year": "2020",
+   "day": "28",
+   "month": "September"
+  }
+ },
+ "4be3aec709": {
+  "instruction": {
+   "year": "2029",
+   "ANSWER": "Sunday",
+   "day": "1",
+   "month": "July"
+  }
+ },
+ "73e7c43d64": {
+  "instruction": {
+   "day": "17",
+   "year": "2022",
+   "month": "June"
+  }
+ },
+ "feb96551a7": {
+  "instruction": {
+   "day": "19",
+   "year": "2021",
+   "month": "May"
+  }
+ },
+ "180696ef71": {
+  "instruction": {
+   "year": "2019",
+   "day": "01",
+   "month": "April"
+  }
+ },
+ "b940dfe18e": {
+  "instruction": {
+   "month": "December",
+   "year": "2027",
+   "day": "31",
+   "ANSWER": "Friday"
+  }
+ },
+ "48bee7d868": {
+  "instruction": {
+   "year": "2027",
+   "ANSWER": "Friday",
+   "day": "31",
+   "month": "December"
+  }
+ },
+ "427ec05e43": {
+  "instruction": {
+   "month": "September",
+   "year": "2024",
+   "day": "19",
+   "ANSWER": "Thursday"
+  }
+ },
+ "7c6b61137a": {
+  "instruction": {
+   "year": "2020",
+   "ANSWER": "Saturday",
+   "day": "04",
+   "month": "April"
+  }
+ },
+ "2313da031e": {
+  "instruction": {
+   "month": "April",
+   "year": "2026",
+   "day": "30",
+   "ANSWER": "Thursday"
+  }
+ },
+ "3f72dc604f": {
+  "instruction": {
+   "year": "2019",
+   "ANSWER": "Friday",
+   "day": "25",
+   "month": "January"
+  }
+ },
+ "b02ba0c12c": {
+  "instruction": {
+   "month": "December",
+   "year": "2016",
+   "day": "24",
+   "ANSWER": "Monday"
+  }
+ },
+ "d4fcdff22c": {
+  "instruction": {
+   "month": "July",
+   "year": "1987",
+   "day": "27",
+   "ANSWER": "Monday"
+  }
+ },
+ "2f31361c4f": {
+  "instruction": {
+   "year": "2026",
+   "ANSWER": "Tuesday",
+   "day": "21",
+   "month": "July"
+  }
+ },
+ "d8cc677fb3": {
+  "instruction": {
+   "year": "2017",
+   "day": "11",
+   "month": "November"
+  }
+ },
+ "3093d58e2d": {
+  "instruction": {
+   "month": "October",
+   "year": "2019",
+   "day": "25",
+   "ANSWER": "Friday"
+  }
+ },
+ "a5f139f94e": {
+  "instruction": {
+   "month": "March ",
+   "year": "2018",
+   "day": "13"
+  }
+ },
+ "13ac2b8837": {
+  "instruction": {
+   "month": "February",
+   "year": "2018",
+   "day": "24",
+   "ANSWER": "Saturday"
+  }
+ },
+ "d551deadb9": {
+  "instruction": {
+   "month": "August",
+   "year": "2022",
+   "day": "15",
+   "ANSWER": "Monday"
+  }
+ },
+ "52e6688928": {
+  "instruction": {
+   "month": "February",
+   "year": "2027",
+   "day": "19",
+   "ANSWER": "Friday"
+  }
+ },
+ "ca3bae72f1": {
+  "instruction": {
+   "month": "May",
+   "year": "2026",
+   "day": "01",
+   "ANSWER": "Friday"
+  }
+ },
+ "90ab5b4f39": {
+  "instruction": {
+   "year": "2038",
+   "ANSWER": "Saturday",
+   "day": "12",
+   "month": "June"
+  }
+ },
+ "371f73ad2f": {
+  "instruction": {
+   "year": "2023",
+   "ANSWER": "Sunday",
+   "day": "01",
+   "month": "January"
+  }
+ },
+ "bec2242e5b": {
+  "instruction": {
+   "month": "February",
+   "year": "2023",
+   "day": "20"
+  }
+ },
+ "a04bb94351": {
+  "instruction": {
+   "year": "2082",
+   "ANSWER": "Sunday",
+   "day": "22",
+   "month": "March"
+  }
+ },
+ "7abc246083": {
+  "instruction": {
+   "year": "2019",
+   "ANSWER": "Friday",
+   "day": "25",
+   "month": "October"
+  }
+ },
+ "dd2e342646": {
+  "instruction": {
+   "year": "2050",
+   "ANSWER": "Wednesday",
+   "day": "31",
+   "month": "August"
+  }
+ },
+ "af7ad09af1": {
+  "instruction": {
+   "year": "2045",
+   "ANSWER": "Sunday",
+   "day": "12",
+   "month": "February"
+  }
+ },
+ "7e984614b8": {
+  "instruction": {
+   "month": "September",
+   "year": "2027",
+   "day": "2",
+   "ANSWER": "Thursday"
+  }
+ },
+ "a87ff8020e": {
+  "instruction": {
+   "year": "2035",
+   "ANSWER": "Thursday",
+   "day": "24",
+   "month": "May"
+  }
+ },
+ "b6c9ffe869": {
+  "instruction": {
+   "year": "2029 ",
+   "ANSWER": "Sunday",
+   "day": "04",
+   "month": "November"
+  }
+ },
+ "b1e54ac4a8": {
+  "instruction": {
+   "month": "December",
+   "year": "2017",
+   "day": "25",
+   "ANSWER": "Monday"
+  }
+ },
+ "9147d3fb0e": {
+  "instruction": {
+   "year": "2018",
+   "ANSWER": "Tuesday",
+   "day": "25",
+   "month": "December"
+  }
+ },
+ "710fd1d457": {
+  "instruction": {
+   "year": "2022",
+   "ANSWER": "Monday",
+   "day": "15",
+   "month": "August"
+  }
+ },
+ "8d7d8bda09": {
+  "instruction": {
+   "year": "2021",
+   "ANSWER": "Monday",
+   "day": "3",
+   "month": "May"
+  }
+ },
+ "33ee56c562": {
+  "instruction": {
+   "month": "May",
+   "year": "2005",
+   "day": "5",
+   "ANSWER": "Thursday"
+  }
+ },
+ "b2952d5704": {
+  "instruction": {
+   "year": "2019",
+   "ANSWER": "Thursday",
+   "day": "28",
+   "month": "February"
+  }
+ },
+ "864bfb17a8": {
+  "instruction": {
+   "year": "2029",
+   "ANSWER": "Thursday",
+   "day": "18",
+   "month": "January"
+  }
+ },
+ "b44f016a1f": {
+  "instruction": {
+   "year": "2019",
+   "ANSWER": "Tuesday",
+   "day": "17",
+   "month": "September"
+  }
+ },
+ "88e8dbbb0c": {
+  "instruction": {
+   "year": "2025",
+   "ANSWER": "Tuesday",
+   "day": "7",
+   "month": "October"
+  }
+ },
+ "ada896c463": {
+  "instruction": {
+   "month": "November",
+   "year": "2028",
+   "day": "29",
+   "ANSWER": "Wednesday"
+  }
+ },
+ "ebe23cb774": {
+  "instruction": {
+   "year": "2022",
+   "ANSWER": "Saturday",
+   "day": "18",
+   "month": "June"
+  }
+ },
+ "babcf5bd1d": {
+  "instruction": {
+   "month": "March",
+   "year": "2030",
+   "day": "20",
+   "ANSWER": "Wednesday"
+  }
+ },
+ "772cd69fa9": {
+  "instruction": {
+   "month": "September",
+   "year": "2018",
+   "day": "12",
+   "ANSWER": "Wednesday"
+  }
+ },
+ "341c2f48fd": {
+  "instruction": {
+   "month": "December",
+   "year": "2020",
+   "day": "31",
+   "ANSWER": "Thursday"
+  }
+ },
+ "61405a189a": {
+  "instruction": {
+   "month": "March",
+   "year": "2018",
+   "day": "05",
+   "ANSWER": "Monday"
+  }
+ },
+ "759b831142": {
+  "instruction": {
+   "year": "2028",
+   "ANSWER": "Wednesday",
+   "day": "29",
+   "month": "November"
+  }
+ },
+ "859d1c3db9": {
+  "instruction": {
+   "year": "2018",
+   "ANSWER": "Monday",
+   "day": "05",
+   "month": "March"
+  }
+ },
+ "49c2b0335b": {
+  "instruction": {
+   "year": "2020",
+   "ANSWER": "Tuesday",
+   "day": "14",
+   "month": "July"
+  }
+ },
+ "88c2925419": {
+  "instruction": {
+   "year": "1987",
+   "ANSWER": "Monday",
+   "day": "27",
+   "month": "July"
+  }
+ },
+ "5f41b30745": {
+  "instruction": {
+   "month": "September",
+   "year": "2020",
+   "day": "28"
+  }
+ },
+ "cc4c2d7f25": {
+  "instruction": {
+   "month": "September",
+   "year": "2019",
+   "day": "17",
+   "ANSWER": "Tuesday"
+  }
+ },
+ "8db7dce3af": {
+  "instruction": {
+   "month": "April",
+   "year": "2020",
+   "day": "04",
+   "ANSWER": "Saturday"
+  }
+ },
+ "2a978cd7dd": {
+  "instruction": {
+   "year": "2023",
+   "ANSWER": "Saturday",
+   "day": "04",
+   "month": "March"
+  }
+ },
+ "ed0b393b22": {
+  "instruction": {
+   "year": "2024",
+   "ANSWER": "Thursday",
+   "day": "19",
+   "month": "September"
+  }
+ },
+ "2efcab116d": {
+  "instruction": {
+   "year": "2023",
+   "day": "25",
+   "month": "January"
+  }
+ },
+ "0da9cfd509": {
+  "instruction": {
+   "month": "March",
+   "year": "2023",
+   "day": "04",
+   "ANSWER": "Saturday"
+  }
+ },
+ "8269673a23": {
+  "instruction": {
+   "month": "February",
+   "year": "2039",
+   "day": "3",
+   "ANSWER": "Thursday"
+  }
+ },
+ "c29bc6d8a9": {
+  "instruction": {
+   "month": "December",
+   "year": "2030",
+   "day": "10",
+   "ANSWER": "Tuesday"
+  }
+ },
+ "2c0fca2fb1": {
+  "instruction": {
+   "year": "2026",
+   "ANSWER": "Friday",
+   "day": "01",
+   "month": "May"
+  }
+ },
+ "9aea5531d6": {
+  "instruction": {
+   "year": "2018",
+   "ANSWER": "Thursday",
+   "day": "16",
+   "month": "August"
+  }
+ },
+ "e87f621892": {
+  "instruction": {
+   "month": "January ",
+   "year": "2100",
+   "day": "01",
+   "ANSWER": "Friday"
+  }
+ },
+ "5be4fc5442": {
+  "instruction": {
+   "year": "2035",
+   "ANSWER": "Sunday",
+   "day": "19",
+   "month": "August"
+  }
+ },
+ "59b4118ce8": {
+  "instruction": {
+   "month": "June",
+   "year": "2022",
+   "day": "18",
+   "ANSWER": "Saturday"
+  }
+ },
+ "e338e4fce4": {
+  "instruction": {
+   "year": "2021",
+   "ANSWER": "Monday",
+   "day": "21",
+   "month": "June"
+  }
+ },
+ "b39e304b5b": {
+  "instruction": {
+   "year": "2032",
+   "ANSWER": "Sunday",
+   "day": "31",
+   "month": "October"
+  }
+ },
+ "e7983566e6": {
+  "instruction": {
+   "day": "5",
+   "year": "2020",
+   "month": "January"
+  }
+ },
+ "337d0fdff0": {
+  "instruction": {
+   "year": "2025",
+   "ANSWER": "Thursday",
+   "day": "25",
+   "month": "December"
+  }
+ },
+ "df5fe0dd8f": {
+  "instruction": {
+   "month": "October ",
+   "year": "2017",
+   "day": "31",
+   "ANSWER": "Tuesday"
+  }
+ },
+ "d1232d1762": {
+  "instruction": {
+   "year": "2060",
+   "ANSWER": "Saturday",
+   "day": "25",
+   "month": "December"
+  }
+ },
+ "86bc288f44": {
+  "instruction": {
+   "month": "July ",
+   "year": "2018",
+   "day": "04",
+   "ANSWER": "Wednesday"
+  }
+ },
+ "a55aac0b5d": {
+  "instruction": {
+   "year": "2017",
+   "ANSWER": "Monday",
+   "day": "25",
+   "month": "December"
+  }
+ },
+ "54a7f735e3": {
+  "instruction": {
+   "year": "2021",
+   "ANSWER": "Sunday",
+   "day": "12",
+   "month": "Spetember"
+  }
+ },
+ "dbb8554565": {
+  "instruction": {
+   "year": "2025",
+   "ANSWER": "Sunday",
+   "day": "25",
+   "month": "May"
+  }
+ },
+ "ee90062635": {
+  "instruction": {
+   "year": "2021",
+   "ANSWER": "Monday",
+   "day": "4",
+   "month": "January"
+  }
+ },
+ "97c1533d8f": {
+  "instruction": {
+   "year": "2017",
+   "ANSWER": "Monday",
+   "day": "04",
+   "month": "December"
+  }
+ },
+ "0872fadd20": {
+  "instruction": {
+   "month": "January",
+   "year": "2026",
+   "day": "22",
+   "ANSWER": "Thursday"
+  }
+ },
+ "6df0776921": {
+  "instruction": {
+   "month": "March",
+   "year": "2082",
+   "day": "22",
+   "ANSWER": "Sunday"
+  }
+ },
+ "21a5055a31": {
+  "instruction": {
+   "year": "1878",
+   "ANSWER": "Wednesday",
+   "day": "26",
+   "month": "June "
+  }
+ },
+ "55784f475b": {
+  "instruction": {
+   "month": "November",
+   "year": "2017",
+   "day": "11"
+  }
+ },
+ "022fdd2b55": {
+  "instruction": {
+   "month": "October",
+   "year": "2025",
+   "day": "7",
+   "ANSWER": "Tuesday"
+  }
+ },
+ "50a26d41e7": {
+  "instruction": {
+   "year": "2021",
+   "ANSWER": "Sunday",
+   "day": "21",
+   "month": "February "
+  }
+ },
+ "72e41c61e7": {
+  "instruction": {
+   "year": "2027",
+   "ANSWER": "Tuesday",
+   "day": "26",
+   "month": "October"
+  }
+ },
+ "5b3655258b": {
+  "instruction": {
+   "month": "April",
+   "year": "2017",
+   "day": "20",
+   "ANSWER": "Thursday"
+  }
+ },
+ "491aa63b96": {
+  "instruction": {
+   "month": "May",
+   "year": "2025",
+   "day": "25",
+   "ANSWER": "Sunday"
+  }
+ },
+ "8849be0f3c": {
+  "instruction": {
+   "year": "2019",
+   "day": "14",
+   "month": "December"
+  }
+ },
+ "4b1cd70195": {
+  "instruction": {
+   "month": "June",
+   "year": "2022",
+   "day": "17"
+  }
+ },
+ "7a02594e42": {
+  "instruction": {
+   "month": "June",
+   "year": "2021",
+   "day": "24",
+   "ANSWER": "Thursday"
+  }
+ },
+ "78fb455eec": {
+  "instruction": {
+   "year": "2024",
+   "ANSWER": "Thursday",
+   "day": "27",
+   "month": "June"
+  }
+ },
+ "1d2a7ae62d": {
+  "instruction": {
+   "month": "January",
+   "year": "2032",
+   "day": "1",
+   "ANSWER": "Thursday"
+  }
+ },
+ "facc537098": {
+  "instruction": {
+   "year": "2021",
+   "ANSWER": "Wednesday",
+   "day": "19",
+   "month": "May"
+  }
+ },
+ "5b834db1c6": {
+  "instruction": {
+   "year": "2020",
+   "ANSWER": "Saturday",
+   "day": "31",
+   "month": "July"
+  }
+ },
+ "2d5a37202e": {
+  "instruction": {
+   "year": "2018",
+   "ANSWER": "Thursday",
+   "day": "07",
+   "month": "June"
+  }
+ },
+ "d0d1767502": {
+  "instruction": {
+   "month": "June",
+   "year": "2036",
+   "day": "26",
+   "ANSWER": "Thursday"
+  }
+ },
+ "f9bef3817e": {
+  "instruction": {
+   "month": "May",
+   "year": "2021",
+   "day": "19",
+   "ANSWER": "Wednesday"
+  }
+ },
+ "5e695c6143": {
+  "instruction": {
+   "year": "2022",
+   "ANSWER": "Wednesday",
+   "day": "2",
+   "month": "May"
+  }
+ },
+ "67b5dddd35": {
+  "instruction": {
+   "year": "2018",
+   "ANSWER": "Wednesday",
+   "day": "12",
+   "month": "September"
+  }
+ },
+ "8264368bd9": {
+  "instruction": {
+   "year": "2024",
+   "ANSWER": "Sunday",
+   "day": "21",
+   "month": "July"
+  }
+ },
+ "c93cf55d8c": {
+  "instruction": {
+   "year": "2039",
+   "ANSWER": "Thursday",
+   "day": "3",
+   "month": "February"
+  }
+ },
+ "f55ec711a9": {
+  "instruction": {
+   "month": "November",
+   "year": "2019",
+   "day": "11",
+   "ANSWER": "Monday"
+  }
+ },
+ "4e533d2633": {
+  "instruction": {
+   "month": "December",
+   "year": "2018",
+   "day": "25",
+   "ANSWER": "Tuesday"
+  }
+ },
+ "7572f113a8": {
+  "instruction": {
+   "year": "2027",
+   "ANSWER": "Thursday",
+   "day": "2",
+   "month": "September"
+  }
+ },
+ "9f9e86c0af": {
+  "instruction": {
+   "year": "2063",
+   "ANSWER": "Sunday",
+   "day": "13",
+   "month": "May"
+  }
+ },
+ "43360f276c": {
+  "instruction": {
+   "year": "2019",
+   "ANSWER": "Saturday",
+   "day": "11",
+   "month": "May"
+  }
+ }
+}

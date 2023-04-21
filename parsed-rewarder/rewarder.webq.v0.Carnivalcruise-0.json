@@ -1,0 +1,72 @@
+{
+ "b5a85ba4eb": {
+  "instruction": {
+   "cheapest rate": "rate",
+   "geographic location": "jamaica",
+   "number of people": "1"
+  }
+ },
+ "10dc942af7": {
+  "instruction": {
+   "cheapest rate": "cost",
+   "geographic location": "key west",
+   "number of people": "1"
+  }
+ },
+ "8f82d97b75": {
+  "instruction": {
+   "cheapest rate": "total price",
+   "geographic location": "bahammas",
+   "number of people": "1"
+  }
+ },
+ "87e6e54162": {
+  "instruction": {
+   "cheapest rate": "subtotal",
+   "geographic location": "cape caneval",
+   "number of people": "2"
+  }
+ },
+ "da09f34556": {
+  "instruction": {
+   "cheapest rate": "price",
+   "geographic location": "dominican republic",
+   "number of people": "2"
+  }
+ },
+ "72b41951cf": {
+  "instruction": {
+   "cheapest rate": "travel fare",
+   "geographic location": "aruba",
+   "number of people": "2"
+  }
+ },
+ "5212f4e244": {
+  "instruction": {
+   "cheapest rate": "cost",
+   "geographic location": "bahammas",
+   "number of people": "1"
+  }
+ },
+ "e3e1eb210f": {
+  "instruction": {
+   "cheapest rate": "price before taxes",
+   "geographic location": "dubai",
+   "number of people": "2"
+  }
+ },
+ "68087fedb8": {
+  "instruction": {
+   "cheapest rate": "fare",
+   "geographic location": "puerto rico",
+   "number of people": "2"
+  }
+ },
+ "ee9f03d43d": {
+  "instruction": {
+   "cheapest rate": "price after taxes",
+   "geographic location": "bahamma island",
+   "number of people": "2"
+  }
+ }
+}

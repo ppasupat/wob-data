@@ -1,0 +1,1242 @@
+{
+ "6596b6b22c": {
+  "instruction": {
+   "geographic location": "Tacoma, WA",
+   "performance": "Lady Gaga Joanne World Tour",
+   "ANSWER": "05/08/2017"
+  }
+ },
+ "96575422b9": {
+  "instruction": {
+   "geographic location": "Greater Orlando Area",
+   "performance": "Dirty Heads",
+   "ANSWER": "Alan Shepard Park Cocoa Beach, FL"
+  }
+ },
+ "c4ffb4372b": {
+  "instruction": {
+   "geographic location": "Columbus, OH",
+   "performance": "Chris Rock",
+   "ANSWER": "Palace Theatre Columbus"
+  }
+ },
+ "c551815558": {
+  "instruction": {
+   "performance": "Florida Everblades",
+   "ANSWER": "Germain Arena Estero, FL",
+   "geographic location": "Greater Tampa Area"
+  }
+ },
+ "1df023cda8": {
+  "instruction": {
+   "geographic location": "San Jose, CA",
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "City National Civic "
+  }
+ },
+ "1e914240f3": {
+  "instruction": {
+   "performance": "Gabriel Iglesias",
+   "ANSWER": "DPAC in Duram, NC",
+   "geographic location": "Raleigh, NC"
+  }
+ },
+ "955e2705a3": {
+  "instruction": {
+   "performance": "Chris Stapleton Live",
+   "ANSWER": "PNC Bank Arts Center, Holmdel, NJ",
+   "geographic location": "Holmdel, NJ"
+  }
+ },
+ "63f82854d3": {
+  "instruction": {
+   "geographic location": "Rutherford, NJ",
+   "performance": "Coldplay",
+   "ANSWER": "MetLife Stadium"
+  }
+ },
+ "1c04a53571": {
+  "instruction": {
+   "geographic location": "Daytona Beach, Fl",
+   "performance": "Daytona International Speedway"
+  }
+ },
+ "3326bd4274": {
+  "instruction": {
+   "performance": "Chris Stapleton",
+   "ANSWER": "30/03/2017",
+   "geographic location": "Las vagas, NV"
+  }
+ },
+ "d9d34721cd": {
+  "instruction": {
+   "performance": "OneRepublic",
+   "ANSWER": "14/06/2017",
+   "geographic location": "Tampa, FL"
+  }
+ },
+ "e318edf325": {
+  "instruction": {
+   "performance": "Vice Ganda",
+   "ANSWER": "San Diego Civic Theater in San Diego, CA",
+   "geographic location": "La Jolla, CA"
+  }
+ },
+ "1ea958b386": {
+  "instruction": {
+   "geographic location": "Grand Rapids, Mi",
+   "performance": "Ghost Town Blues Band"
+  }
+ },
+ "59be3a785e": {
+  "instruction": {
+   "performance": "Columbus Symphony Orchestra",
+   "ANSWER": "Ohio Theatre",
+   "geographic location": "Columbus, OH"
+  }
+ },
+ "48c4c7819d": {
+  "instruction": {
+   "performance": "Game of Thrones Live Concert Experience",
+   "ANSWER": "Xcel Energy Center",
+   "geographic location": "Saint Paul, MN"
+  }
+ },
+ "c5c004d616": {
+  "instruction": {
+   "performance": "WWE Smackdown",
+   "geographic location": "Toledo, Oh"
+  }
+ },
+ "dfd913e8a3": {
+  "instruction": {
+   "geographic location": "Arlington, TX",
+   "performance": "PBR ",
+   "ANSWER": "AT&T Stadium"
+  }
+ },
+ "aa7912e35d": {
+  "instruction": {
+   "performance": "Lady Gaga",
+   "ANSWER": "T-Mobile Arena ",
+   "geographic location": "Las Vegas, NV"
+  }
+ },
+ "36ee381623": {
+  "instruction": {
+   "performance": "DISPATCH",
+   "ANSWER": "23/06/2017",
+   "geographic location": "Charlotte, NC"
+  }
+ },
+ "533bd7e82c": {
+  "instruction": {
+   "performance": "Charlie Wilson",
+   "ANSWER": "Bridgestone Arena",
+   "geographic location": "Nashville, TN"
+  }
+ },
+ "e62c801dba": {
+  "instruction": {
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "Lynn Auditorium",
+   "geographic location": "Lynn, MA"
+  }
+ },
+ "d53b1d039b": {
+  "instruction": {
+   "geographic location": "Newark, NJ",
+   "performance": "WWE",
+   "ANSWER": "Prudential Center, Newark, NJ"
+  }
+ },
+ "60b138e14b": {
+  "instruction": {
+   "geographic location": "Las Vegas, NV",
+   "performance": "Ricky Martin Concert ",
+   "ANSWER": "Park Theater at Monte Carlo Resort and Casino"
+  }
+ },
+ "5d447a3928": {
+  "instruction": {
+   "geographic location": "Hartford, CT",
+   "performance": "Chris Stapleton Live",
+   "ANSWER": "XFINITY Theatre, Hartford, CT"
+  }
+ },
+ "122c9e04ca": {
+  "instruction": {
+   "geographic location": "Santa Ana, CA",
+   "performance": "Teen Daze",
+   "ANSWER": "Constellation Room"
+  }
+ },
+ "8666d17047": {
+  "instruction": {
+   "geographic location": "Miami, Fl",
+   "performance": "John Legend"
+  }
+ },
+ "4a537ebfa4": {
+  "instruction": {
+   "geographic location": "Jacksonville, FL",
+   "performance": "Cirque du Soleil: OVO",
+   "ANSWER": "Jacksonville Veterans Memorial Arena"
+  }
+ },
+ "7b41b12cd9": {
+  "instruction": {
+   "geographic location": "Old Westbury, NY",
+   "performance": "THE NORTHERN TRUST",
+   "ANSWER": "Glen Oaks Club, Old Westbury, NY"
+  }
+ },
+ "e5de4e66a9": {
+  "instruction": {
+   "geographic location": "Columbia, SC",
+   "performance": "Ryan Adams",
+   "ANSWER": "08/03/2017"
+  }
+ },
+ "587eab5671": {
+  "instruction": {
+   "performance": "PBR ",
+   "ANSWER": "AT&T Stadium",
+   "geographic location": "Arlington, TX"
+  }
+ },
+ "94966aa809": {
+  "instruction": {
+   "geographic location": "New York/ Tri-State Area",
+   "performance": "WWE Monday Night Raw",
+   "ANSWER": "Barclays Center Brooklyn, NY"
+  }
+ },
+ "5825882bbf": {
+  "instruction": {
+   "performance": "Los Angeles Lakers",
+   "ANSWER": "American Airlines Center",
+   "geographic location": "Dallas, TX"
+  }
+ },
+ "ff68165cdd": {
+  "instruction": {
+   "geographic location": "Sacramento, CA",
+   "performance": "Disney on Ice World of Enchantment",
+   "ANSWER": "Golden Center"
+  }
+ },
+ "faae8db50d": {
+  "instruction": {
+   "geographic location": "Bloomington, IL",
+   "performance": "Sesame Street Live: Elmo Makes Music",
+   "ANSWER": "US Cellular Coliseum"
+  }
+ },
+ "9393336bb2": {
+  "instruction": {
+   "geographic location": "Uncasville, CT",
+   "performance": "CIAC Basketball",
+   "ANSWER": "Mohegan Sun Arena, 1 Mohegan Sun Blvd, Uncasville, CT"
+  }
+ },
+ "30c75839bb": {
+  "instruction": {
+   "geographic location": "Charlotte, NC",
+   "performance": "Orlando Magic",
+   "ANSWER": "Spectrum Center"
+  }
+ },
+ "25db174200": {
+  "instruction": {
+   "performance": "Sturgill Simpson",
+   "ANSWER": "Charlotte Metro Credit Union Ampitheatre",
+   "geographic location": "Charlotte, NC"
+  }
+ },
+ "5f9ce5fe3b": {
+  "instruction": {
+   "geographic location": "Harrison, NJ",
+   "performance": "CONCACAF Gold Cup Group A Doubleheader",
+   "ANSWER": "Red Bull Arena, Harrison, NJ"
+  }
+ },
+ "f5d1c94c8c": {
+  "instruction": {
+   "performance": "Chris Rock",
+   "ANSWER": "Palace Theatre Columbus",
+   "geographic location": "Columbus, OH"
+  }
+ },
+ "1519f9c104": {
+  "instruction": {
+   "performance": "Celtic Woman",
+   "ANSWER": "Peoria Civic Center",
+   "geographic location": "Peoria, IL"
+  }
+ },
+ "e37e96e62b": {
+  "instruction": {
+   "geographic location": "Seattle, WA",
+   "performance": "RENT",
+   "ANSWER": "Paramount Theater"
+  }
+ },
+ "a8c31a1754": {
+  "instruction": {
+   "geographic location": "Kansas City, MO",
+   "performance": "Chippendales",
+   "ANSWER": "Uptown Theater"
+  }
+ },
+ "c3c94d79aa": {
+  "instruction": {
+   "geographic location": "Cleveland, OH",
+   "performance": "New York Knicks",
+   "ANSWER": "Quicken Loans Arena"
+  }
+ },
+ "41096e4098": {
+  "instruction": {
+   "geographic location": "Greater Miami Area",
+   "performance": "Metallica",
+   "ANSWER": "Hard Rock Stadium Miami, FL"
+  }
+ },
+ "7c180c6713": {
+  "instruction": {
+   "performance": "Sesame Street Live: Elmo Makes Music",
+   "ANSWER": "US Cellular Coliseum",
+   "geographic location": "Bloomington, IL"
+  }
+ },
+ "5d89a9e310": {
+  "instruction": {
+   "performance": "Ali Wong",
+   "ANSWER": "Warner Theater",
+   "geographic location": "Washington, DC"
+  }
+ },
+ "f32271d872": {
+  "instruction": {
+   "performance": "Wicked",
+   "ANSWER": "Gershwin Theater",
+   "geographic location": "New York, NY"
+  }
+ },
+ "5f34a417d2": {
+  "instruction": {
+   "geographic location": "Las Vegas, NV",
+   "performance": " Jennifer Lopez Concert ",
+   "ANSWER": "The AXIS at Planet Hollywood "
+  }
+ },
+ "d166258209": {
+  "instruction": {
+   "performance": "CONCACAF Gold Cup",
+   "ANSWER": "07/07/2017",
+   "geographic location": "Harrison, NJ"
+  }
+ },
+ "64587c4da1": {
+  "instruction": {
+   "performance": "Twenty One Pilots",
+   "ANSWER": "Tuscon Arena",
+   "geographic location": "Tuscon, AZ"
+  }
+ },
+ "7117ecf11f": {
+  "instruction": {
+   "performance": "Rocky Horror",
+   "ANSWER": "Theater of Living Arts",
+   "geographic location": "Philadelphia, PA"
+  }
+ },
+ "72b9ebe5a7": {
+  "instruction": {
+   "geographic location": "Greater Tampa Area",
+   "performance": "Rise Against",
+   "ANSWER": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds Tampa, FL"
+  }
+ },
+ "523e115e93": {
+  "instruction": {
+   "geographic location": "Greater Tampa Area",
+   "performance": "Incubus",
+   "ANSWER": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds Tampa, FL"
+  }
+ },
+ "881813aa04": {
+  "instruction": {
+   "performance": "Daniel Tosh",
+   "ANSWER": "Clemson University in Clemson, SC",
+   "geographic location": "Virginia Beach, VA"
+  }
+ },
+ "2dadb04b1c": {
+  "instruction": {
+   "geographic location": "New York, NY",
+   "performance": "Bruce Springsteen",
+   "ANSWER": "The Jewel"
+  }
+ },
+ "f7ebb34276": {
+  "instruction": {
+   "performance": "Nickleback",
+   "ANSWER": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds",
+   "geographic location": "Greater Tampa Area"
+  }
+ },
+ "7d655a960c": {
+  "instruction": {
+   "performance": "Boston Celtics",
+   "ANSWER": "Pepsi Center",
+   "geographic location": "Denver, CO"
+  }
+ },
+ "4630f50978": {
+  "instruction": {
+   "geographic location": "Boise, ID",
+   "performance": "Dirty Dancing",
+   "ANSWER": "Morrison Center for the Performing Arts"
+  }
+ },
+ "b396e878ed": {
+  "instruction": {
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "Hard Rock Live Orlando",
+   "geographic location": "Orlando, FL"
+  }
+ },
+ "357892c5c4": {
+  "instruction": {
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "City National Civic ",
+   "geographic location": "San Jose, CA"
+  }
+ },
+ "e9eafe7594": {
+  "instruction": {
+   "performance": "WWE Monday Night Raw",
+   "ANSWER": "Barclays Center",
+   "geographic location": "Brooklyn, NY"
+  }
+ },
+ "1b38a420fa": {
+  "instruction": {
+   "performance": "New York Knicks",
+   "ANSWER": "Quicken Loans Arena",
+   "geographic location": "Cleveland, OH"
+  }
+ },
+ "5d615fbd26": {
+  "instruction": {
+   "performance": "Il Volo Tickets",
+   "geographic location": "Bostton, Ma"
+  }
+ },
+ "da6e55e173": {
+  "instruction": {
+   "performance": "Cirque du Soleil: OVO",
+   "ANSWER": "Jacksonville Veterans Memorial Arena",
+   "geographic location": "Jacksonville, FL"
+  }
+ },
+ "fdb5bbdcba": {
+  "instruction": {
+   "performance": " Jennifer Lopez Concert ",
+   "ANSWER": "The AXIS at Planet Hollywood ",
+   "geographic location": "Las Vegas, NV"
+  }
+ },
+ "4226ec448c": {
+  "instruction": {
+   "geographic location": "Holmdel, NJ",
+   "performance": "Chris Stapleton Live",
+   "ANSWER": "PNC Bank Arts Center, Holmdel, NJ"
+  }
+ },
+ "c365d494ca": {
+  "instruction": {
+   "performance": "Jeff Dunham",
+   "ANSWER": "Big Sandy Superstore Arena",
+   "geographic location": "Huntington, WV"
+  }
+ },
+ "e96e7b4593": {
+  "instruction": {
+   "performance": "Cirque du Soleil: La Nouba",
+   "ANSWER": "Downtown Disney",
+   "geographic location": "Orlando, FL"
+  }
+ },
+ "529bdeb3a5": {
+  "instruction": {
+   "performance": "Wicked (NY) ",
+   "ANSWER": "Gershwin Theatre, New York, NY",
+   "geographic location": "New York, NY"
+  }
+ },
+ "0e04f25245": {
+  "instruction": {
+   "geographic location": "Miami, FL",
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "AmericanAirlines Arena"
+  }
+ },
+ "26fbb14997": {
+  "instruction": {
+   "performance": "The Chainsmokers",
+   "ANSWER": "Amalie Arena",
+   "geographic location": "Tampa, FL"
+  }
+ },
+ "130f7bf201": {
+  "instruction": {
+   "performance": "Incubus",
+   "ANSWER": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds Tampa, FL",
+   "geographic location": "Greater Tampa Area"
+  }
+ },
+ "fb14a3bbe3": {
+  "instruction": {
+   "performance": "Hamilton",
+   "ANSWER": "The PrivateBank Theatre",
+   "geographic location": "Chicago, IL"
+  }
+ },
+ "205b0e5444": {
+  "instruction": {
+   "performance": "Mamma Mia",
+   "ANSWER": "Boston Opera House",
+   "geographic location": "Boston, MA"
+  }
+ },
+ "8afc00b3d6": {
+  "instruction": {
+   "performance": "Rise Against",
+   "ANSWER": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds Tampa, FL",
+   "geographic location": "Greater Tampa Area"
+  }
+ },
+ "9f55c47ffb": {
+  "instruction": {
+   "performance": "Andre Rieu",
+   "ANSWER": "Amalie Arena in Tampa, FL",
+   "geographic location": "Miami, FL"
+  }
+ },
+ "814c75768c": {
+  "instruction": {
+   "geographic location": "Tampa, FL",
+   "performance": "OneRepublic",
+   "ANSWER": "14/06/2017"
+  }
+ },
+ "98dcfdf1dc": {
+  "instruction": {
+   "geographic location": "Tampa, FL",
+   "performance": "The Chainsmokers",
+   "ANSWER": "Amalie Arena"
+  }
+ },
+ "c5bbce2dec": {
+  "instruction": {
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "AmericanAirlines Arena",
+   "geographic location": "Miami, FL"
+  }
+ },
+ "c58fd898d6": {
+  "instruction": {
+   "performance": "Katt Williams",
+   "ANSWER": "The Richmond Coliseum in Richmond, VA",
+   "geographic location": "Roanoke, VA"
+  }
+ },
+ "35a28c3e10": {
+  "instruction": {
+   "geographic location": "Dodge City, Ks",
+   "performance": "Harlem Globetrotters"
+  }
+ },
+ "3fb94ee3f7": {
+  "instruction": {
+   "geographic location": "Denver, CO",
+   "performance": "Boston Celtics",
+   "ANSWER": "Pepsi Center"
+  }
+ },
+ "04e11137ed": {
+  "instruction": {
+   "geographic location": "Washington, DC",
+   "performance": "Ali Wong",
+   "ANSWER": "Warner Theater"
+  }
+ },
+ "48a13cd995": {
+  "instruction": {
+   "performance": "Chris Stapleton Live",
+   "ANSWER": "XFINITY Theatre, Hartford, CT",
+   "geographic location": "Hartford, CT"
+  }
+ },
+ "7a09753ab4": {
+  "instruction": {
+   "geographic location": "Greater Orlando Area",
+   "performance": "Orlando Magic",
+   "ANSWER": "Amway Center Orlando, FL"
+  }
+ },
+ "df4d0b0f23": {
+  "instruction": {
+   "geographic location": "Fairfax, VA",
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "EagleBank Arena (formerly Patriot Center) "
+  }
+ },
+ "2339ab7946": {
+  "instruction": {
+   "geographic location": "Flushing, NY",
+   "performance": "Lady Gaga Joanne World Tour",
+   "ANSWER": "Citi Field, Flushinfg, NY"
+  }
+ },
+ "8f5664475c": {
+  "instruction": {
+   "geographic location": "Orlando, FL",
+   "performance": "Cirque du Soleil: La Nouba",
+   "ANSWER": "Downtown Disney"
+  }
+ },
+ "2a8bf93caf": {
+  "instruction": {
+   "performance": "Dirty Heads",
+   "ANSWER": "Alan Shepard Park Cocoa Beach, FL",
+   "geographic location": "Greater Orlando Area"
+  }
+ },
+ "f1b437ffb3": {
+  "instruction": {
+   "performance": "Coldplay",
+   "ANSWER": "MetLife Stadium",
+   "geographic location": "Rutherford, NJ"
+  }
+ },
+ "a9b125d248": {
+  "instruction": {
+   "geographic location": "Tucson, AZ",
+   "performance": "Monster Jam Tripple Threat",
+   "ANSWER": "Tucson Arena"
+  }
+ },
+ "71daab9ab3": {
+  "instruction": {
+   "performance": "Harlem Globetrotters",
+   "geographic location": "Dodge City, Ks"
+  }
+ },
+ "ce683502e0": {
+  "instruction": {
+   "geographic location": "Nashville, TN",
+   "performance": "Charlie Wilson",
+   "ANSWER": "Bridgestone Arena"
+  }
+ },
+ "98e378ec7f": {
+  "instruction": {
+   "geographic location": "Boston, MA",
+   "performance": "Mamma Mia",
+   "ANSWER": "Boston Opera House"
+  }
+ },
+ "ba7bf24e69": {
+  "instruction": {
+   "geographic location": "Greater Tampa Area",
+   "performance": "Bruno Mars",
+   "ANSWER": "Amalie Arena Tampa, FL"
+  }
+ },
+ "634e03546b": {
+  "instruction": {
+   "performance": "REO Speedwagon",
+   "ANSWER": "17/03/2017",
+   "geographic location": "Biloxi, MS"
+  }
+ },
+ "fcf21b6188": {
+  "instruction": {
+   "geographic location": "San Antonio, TX",
+   "performance": "Taking Back Sunday",
+   "ANSWER": "AT&T Center"
+  }
+ },
+ "6e782ac573": {
+  "instruction": {
+   "geographic location": "Toledo, Oh",
+   "performance": "WWE Smackdown"
+  }
+ },
+ "ba6a62ed54": {
+  "instruction": {
+   "performance": "Chippendales",
+   "ANSWER": "Uptown Theater",
+   "geographic location": "Kansas City, MO"
+  }
+ },
+ "aee859141b": {
+  "instruction": {
+   "performance": "Dirty Dancing",
+   "ANSWER": "Morrison Center for the Performing Arts",
+   "geographic location": "Boise, ID"
+  }
+ },
+ "3c7d77d470": {
+  "instruction": {
+   "geographic location": "Hollywood, CA",
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "Dolby Theatre "
+  }
+ },
+ "39d7e2fd84": {
+  "instruction": {
+   "performance": "Kid Rock",
+   "geographic location": "Detroit, Mi"
+  }
+ },
+ "13fce8861f": {
+  "instruction": {
+   "performance": "Lady Gaga",
+   "ANSWER": "T-Mobile Arena",
+   "geographic location": "Las Vegas, NV"
+  }
+ },
+ "197c69d61f": {
+  "instruction": {
+   "performance": "Bruno Mars",
+   "ANSWER": "Amalie Arena Tampa, FL",
+   "geographic location": "Greater Tampa Area"
+  }
+ },
+ "5152e42951": {
+  "instruction": {
+   "performance": "Chris Stapleton",
+   "ANSWER": "Northwell Health at Jones Beach Theatre, Wantagh, NY ",
+   "geographic location": "Wantagh, NY"
+  }
+ },
+ "1078eed7dd": {
+  "instruction": {
+   "performance": "Deftones",
+   "ANSWER": "Michigan Lottery Ampitheatre at Freedom Hill",
+   "geographic location": "Sterling Heights, MI"
+  }
+ },
+ "c2b6b55634": {
+  "instruction": {
+   "geographic location": "New York, NY",
+   "performance": "Wicked (NY) ",
+   "ANSWER": "Gershwin Theatre, New York, NY"
+  }
+ },
+ "f664a70193": {
+  "instruction": {
+   "geographic location": "Lynn, MA",
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "Lynn Auditorium"
+  }
+ },
+ "d6777d9762": {
+  "instruction": {
+   "geographic location": "Greater Tampa Area",
+   "performance": "Nickleback",
+   "ANSWER": "MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds"
+  }
+ },
+ "273f939be3": {
+  "instruction": {
+   "geographic location": "Charlotte, NC",
+   "performance": "DISPATCH",
+   "ANSWER": "23/06/2017"
+  }
+ },
+ "d231c7bb48": {
+  "instruction": {
+   "geographic location": "Philadelphia, PA",
+   "performance": "Ringling Bros",
+   "ANSWER": "Mohegan Sun Arena at Casey Plaza"
+  }
+ },
+ "7b0883e766": {
+  "instruction": {
+   "geographic location": "Huntington, WV",
+   "performance": "Jeff Dunham",
+   "ANSWER": "Big Sandy Superstore Arena"
+  }
+ },
+ "6c87996d8c": {
+  "instruction": {
+   "performance": "New York Knicks",
+   "ANSWER": "Madison Square Garden New York, NY",
+   "geographic location": "New York/ Tri-State Area"
+  }
+ },
+ "98f056b8c6": {
+  "instruction": {
+   "geographic location": "New York, NY",
+   "performance": "Wicked",
+   "ANSWER": "Gershwin Theater"
+  }
+ },
+ "bdcadb6d30": {
+  "instruction": {
+   "performance": "Ryan Adams",
+   "ANSWER": "08/03/2017",
+   "geographic location": "Columbia, SC"
+  }
+ },
+ "ad4b1bc22d": {
+  "instruction": {
+   "geographic location": "Las vagas, NV",
+   "performance": "Chris Stapleton",
+   "ANSWER": "30/03/2017"
+  }
+ },
+ "5c0424c9b6": {
+  "instruction": {
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "Radio City Music Hall ",
+   "geographic location": "New York, NY"
+  }
+ },
+ "df151969af": {
+  "instruction": {
+   "geographic location": "Boise, ID",
+   "performance": "John Mellencamp",
+   "ANSWER": "07/06/2017"
+  }
+ },
+ "cd318f5c93": {
+  "instruction": {
+   "performance": "Incubus",
+   "ANSWER": "Klipsch Music Center",
+   "geographic location": "Noblesville, IN"
+  }
+ },
+ "6d9b29aa41": {
+  "instruction": {
+   "performance": "Monster Jam Tripple Threat",
+   "ANSWER": "Tucson Arena",
+   "geographic location": "Tucson, AZ"
+  }
+ },
+ "900390ad8c": {
+  "instruction": {
+   "geographic location": "Philadelphia, PA",
+   "performance": "Rocky Horror",
+   "ANSWER": "Theater of Living Arts"
+  }
+ },
+ "8085de6e79": {
+  "instruction": {
+   "performance": "Orlando Magic",
+   "ANSWER": "Amway Center Orlando, FL",
+   "geographic location": "Greater Orlando Area"
+  }
+ },
+ "5c6a33b88d": {
+  "instruction": {
+   "geographic location": "Tuscon, AZ",
+   "performance": "Twenty One Pilots",
+   "ANSWER": "Tuscon Arena"
+  }
+ },
+ "2d442e0f5a": {
+  "instruction": {
+   "geographic location": "Atlanta, GA",
+   "performance": "Don Pasquale",
+   "ANSWER": "Cobb Energy Performing Arts Centre"
+  }
+ },
+ "27765642a9": {
+  "instruction": {
+   "performance": "Taking Back Sunday",
+   "ANSWER": "AT&T Center",
+   "geographic location": "San Antonio, TX"
+  }
+ },
+ "68d0dacc8c": {
+  "instruction": {
+   "performance": "WWE Monday Night Raw",
+   "ANSWER": "Barclays Center Brooklyn, NY",
+   "geographic location": "New York/ Tri-State Area"
+  }
+ },
+ "0f88edd293": {
+  "instruction": {
+   "performance": "Lady Gaga Joanne World Tour",
+   "ANSWER": "Citi Field, Flushinfg, NY",
+   "geographic location": "Flushing, NY"
+  }
+ },
+ "0e882169bc": {
+  "instruction": {
+   "geographic location": "Las Vegas, NV",
+   "performance": "Lady Gaga",
+   "ANSWER": "T-Mobile Arena "
+  }
+ },
+ "621c206990": {
+  "instruction": {
+   "performance": "John Legend",
+   "geographic location": "Miami, Fl"
+  }
+ },
+ "0af47b2224": {
+  "instruction": {
+   "geographic location": "Greater Tampa Area",
+   "performance": "Florida Everblades",
+   "ANSWER": "Germain Arena Estero, FL"
+  }
+ },
+ "69e06af4b2": {
+  "instruction": {
+   "performance": "A$AP Rocky",
+   "ANSWER": "Bayfront Park",
+   "geographic location": "Miami, FL"
+  }
+ },
+ "84a70bb189": {
+  "instruction": {
+   "performance": "Mamma Mia!",
+   "ANSWER": "Indiana University in Bloomington, IN",
+   "geographic location": "Indianapolis, IN"
+  }
+ },
+ "524783fd2b": {
+  "instruction": {
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "McAllen Performing Arts Center ",
+   "geographic location": "McAllen, TX"
+  }
+ },
+ "db2596c6bc": {
+  "instruction": {
+   "performance": "CIAC Basketball",
+   "ANSWER": "Mohegan Sun Arena, 1 Mohegan Sun Blvd, Uncasville, CT",
+   "geographic location": "Uncasville, CT"
+  }
+ },
+ "2b43c30927": {
+  "instruction": {
+   "geographic location": "Detroit, Mi",
+   "performance": "Disney Presents The Lion King "
+  }
+ },
+ "e325b1e263": {
+  "instruction": {
+   "performance": "Ghost Town Blues Band",
+   "geographic location": "Grand Rapids, Mi"
+  }
+ },
+ "08626151e6": {
+  "instruction": {
+   "performance": "RENT",
+   "ANSWER": "Paramount Theater",
+   "geographic location": "Seattle, WA"
+  }
+ },
+ "6478cfd564": {
+  "instruction": {
+   "geographic location": "Bostton, Ma",
+   "performance": "Il Volo Tickets"
+  }
+ },
+ "cd193553e7": {
+  "instruction": {
+   "performance": "Daytona International Speedway",
+   "geographic location": "Daytona Beach, Fl"
+  }
+ },
+ "491325e802": {
+  "instruction": {
+   "performance": "John Mellencamp",
+   "ANSWER": "07/06/2017",
+   "geographic location": "Boise, ID"
+  }
+ },
+ "db4392e0c2": {
+  "instruction": {
+   "performance": "Bruce Springsteen",
+   "ANSWER": "The Jewel",
+   "geographic location": "New York, NY"
+  }
+ },
+ "a3618ef716": {
+  "instruction": {
+   "geographic location": "New York, NY",
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "Radio City Music Hall "
+  }
+ },
+ "6da60dfa29": {
+  "instruction": {
+   "performance": "CONCACAF Gold Cup Group A Doubleheader",
+   "ANSWER": "Red Bull Arena, Harrison, NJ",
+   "geographic location": "Harrison, NJ"
+  }
+ },
+ "8f82ed0085": {
+  "instruction": {
+   "performance": "Orlando Magic",
+   "ANSWER": "Amway Center-Orlando",
+   "geographic location": "Orlando, FL"
+  }
+ },
+ "c4766a643e": {
+  "instruction": {
+   "geographic location": "Washington, DC",
+   "performance": "Lady Gaga ",
+   "ANSWER": "Verizon Center"
+  }
+ },
+ "dbf6c6016d": {
+  "instruction": {
+   "performance": "Ringling Bros",
+   "ANSWER": "Mohegan Sun Arena at Casey Plaza",
+   "geographic location": "Philadelphia, PA"
+  }
+ },
+ "6e0b81f8df": {
+  "instruction": {
+   "geographic location": "Wantagh, NY",
+   "performance": "Chris Stapleton",
+   "ANSWER": "Northwell Health at Jones Beach Theatre, Wantagh, NY "
+  }
+ },
+ "523c6a3b64": {
+  "instruction": {
+   "performance": "Incubus",
+   "ANSWER": "06/07/2017",
+   "geographic location": "West Palm Beach, FL"
+  }
+ },
+ "2df7f61a4e": {
+  "instruction": {
+   "performance": "Disney Presents The Lion King ",
+   "geographic location": "Detroit, Mi"
+  }
+ },
+ "1fc963516f": {
+  "instruction": {
+   "geographic location": "Biloxi, MS",
+   "performance": "REO Speedwagon",
+   "ANSWER": "17/03/2017"
+  }
+ },
+ "be83a3b549": {
+  "instruction": {
+   "performance": "The Wild Kratts Live! ",
+   "geographic location": "Louisville, Ky"
+  }
+ },
+ "2a37ce8c9b": {
+  "instruction": {
+   "performance": "Disney on Ice World of Enchantment",
+   "ANSWER": "Golden Center",
+   "geographic location": "Sacramento, CA"
+  }
+ },
+ "daf4c3fe2a": {
+  "instruction": {
+   "performance": "Ricky Martin Concert ",
+   "ANSWER": "Park Theater at Monte Carlo Resort and Casino",
+   "geographic location": "Las Vegas, NV"
+  }
+ },
+ "e7a072acdc": {
+  "instruction": {
+   "performance": "Lady Gaga Joanne World Tour",
+   "ANSWER": "05/08/2017",
+   "geographic location": "Tacoma, WA"
+  }
+ },
+ "6dedc58a33": {
+  "instruction": {
+   "geographic location": "Louisville, Ky",
+   "performance": "The Wild Kratts Live! "
+  }
+ },
+ "72e453c60a": {
+  "instruction": {
+   "performance": "WWE",
+   "ANSWER": "Prudential Center, Newark, NJ",
+   "geographic location": "Newark, NJ"
+  }
+ },
+ "d3a2ec3ecd": {
+  "instruction": {
+   "performance": "WWE ",
+   "ANSWER": "Long Beach Arena Convention Center",
+   "geographic location": "Long Beach, CA"
+  }
+ },
+ "10731cc4a0": {
+  "instruction": {
+   "geographic location": "Houston, Tx",
+   "performance": "Gabriel Iglesias "
+  }
+ },
+ "a9bedb3a91": {
+  "instruction": {
+   "performance": "Gabriel Iglesias ",
+   "geographic location": "Houston, Tx"
+  }
+ },
+ "1a3868a271": {
+  "instruction": {
+   "performance": "Jerry Seinfeld",
+   "ANSWER": "The Homestand Beacon Theatre, New York, NY",
+   "geographic location": "New York, NY"
+  }
+ },
+ "6b9c7d68e9": {
+  "instruction": {
+   "geographic location": "Detroit, Mi",
+   "performance": "Kid Rock"
+  }
+ },
+ "8f3682c3c7": {
+  "instruction": {
+   "performance": "Styx",
+   "ANSWER": "02/03/2017",
+   "geographic location": "Montgomery, AL"
+  }
+ },
+ "18060f97ae": {
+  "instruction": {
+   "geographic location": "New York/ Tri-State Area",
+   "performance": "New York Knicks",
+   "ANSWER": "Madison Square Garden New York, NY"
+  }
+ },
+ "0a3f1ddb1b": {
+  "instruction": {
+   "performance": "Saturday Night Fever",
+   "ANSWER": "Duke Energy Center for the Performing Arts in Raleigh, NC",
+   "geographic location": "Apex, NC"
+  }
+ },
+ "9cddaa2745": {
+  "instruction": {
+   "performance": "THE NORTHERN TRUST",
+   "ANSWER": "Glen Oaks Club, Old Westbury, NY",
+   "geographic location": "Old Westbury, NY"
+  }
+ },
+ "30ec04e1b4": {
+  "instruction": {
+   "performance": "Metallica",
+   "ANSWER": "Hard Rock Stadium Miami, FL",
+   "geographic location": "Greater Miami Area"
+  }
+ },
+ "3c0968bd1f": {
+  "instruction": {
+   "geographic location": "Orlando, FL",
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "Hard Rock Live Orlando"
+  }
+ },
+ "7493338e2c": {
+  "instruction": {
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "Dolby Theatre ",
+   "geographic location": "Hollywood, CA"
+  }
+ },
+ "236bae5d98": {
+  "instruction": {
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "EagleBank Arena (formerly Patriot Center) ",
+   "geographic location": "Fairfax, VA"
+  }
+ },
+ "ce9f5bd568": {
+  "instruction": {
+   "geographic location": "McAllen, TX",
+   "performance": "Franco De Vita Concert ",
+   "ANSWER": "McAllen Performing Arts Center "
+  }
+ },
+ "f45d66f73a": {
+  "instruction": {
+   "geographic location": "Harrison, NJ",
+   "performance": "CONCACAF Gold Cup",
+   "ANSWER": "07/07/2017"
+  }
+ },
+ "cc89cb026a": {
+  "instruction": {
+   "performance": "Lady Gaga ",
+   "ANSWER": "Verizon Center",
+   "geographic location": "Washington, DC"
+  }
+ },
+ "3a322d4baf": {
+  "instruction": {
+   "performance": "Orlando Magic",
+   "ANSWER": "Spectrum Center",
+   "geographic location": "Charlotte, NC"
+  }
+ },
+ "9a239e48eb": {
+  "instruction": {
+   "geographic location": "New York, NY",
+   "performance": "Jerry Seinfeld",
+   "ANSWER": "The Homestand Beacon Theatre, New York, NY"
+  }
+ },
+ "4957c3b277": {
+  "instruction": {
+   "geographic location": "Montgomery, AL",
+   "performance": "Styx",
+   "ANSWER": "02/03/2017"
+  }
+ },
+ "53702e4391": {
+  "instruction": {
+   "performance": "Annie",
+   "ANSWER": "The Peabody in Daytona Beach, FL",
+   "geographic location": "Jacksonville, FL"
+  }
+ },
+ "733e2a3c50": {
+  "instruction": {
+   "geographic location": "Dallas, TX",
+   "performance": "Los Angeles Lakers",
+   "ANSWER": "American Airlines Center"
+  }
+ },
+ "315aaae59b": {
+  "instruction": {
+   "geographic location": "West Palm Beach, FL",
+   "performance": "Incubus",
+   "ANSWER": "06/07/2017"
+  }
+ },
+ "afad2f17b2": {
+  "instruction": {
+   "performance": "Teen Daze",
+   "ANSWER": "Constellation Room",
+   "geographic location": "Santa Ana, CA"
+  }
+ },
+ "2bb39ef4bf": {
+  "instruction": {
+   "performance": "Don Pasquale",
+   "ANSWER": "Cobb Energy Performing Arts Centre",
+   "geographic location": "Atlanta, GA"
+  }
+ }
+}

@@ -1,0 +1,1422 @@
+{
+ "6c682e32a0": {
+  "instruction": {
+   "element": "Sulfur ",
+   "property 2": "Atomic mass",
+   "property 1": "Boiling point"
+  }
+ },
+ "b67f3dd667": {
+  "instruction": {
+   "element": "Lead",
+   "property 1": "Melting point",
+   "property 2": "Electronegativity according to Pauling",
+   "ANSWER": "327 \u00b0C // 1.8"
+  }
+ },
+ "744fd3a210": {
+  "instruction": {
+   "property 1": "Vanderwaals radius",
+   "property 2": "Ionic radius",
+   "ANSWER": "0.098 nm, 0.027 nm",
+   "element": "Boron (B)"
+  }
+ },
+ "f2a1a3ff42": {
+  "instruction": {
+   "property 1": "Standard Potential",
+   "property 2": "Isotopes",
+   "ANSWER": "0.6 V; 9",
+   "element": "Rhodium"
+  }
+ },
+ "c3437e94d4": {
+  "instruction": {
+   "property 1": "Symbol",
+   "property 2": "Boiling point",
+   "ANSWER": "Ne, -246 celsius",
+   "element": "Neon"
+  }
+ },
+ "7cacc3cd0e": {
+  "instruction": {
+   "property 1": "Boiling point",
+   "property 2": "Ionic radius",
+   "element": "Copper"
+  }
+ },
+ "0b9a712b77": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "725 \u00b0C and 1640 \u00b0C",
+   "element": "Barium"
+  }
+ },
+ "34a3978809": {
+  "instruction": {
+   "element": "Copper",
+   "property 2": "Ionic radius",
+   "property 1": "Boiling point"
+  }
+ },
+ "0b875e3522": {
+  "instruction": {
+   "property 1": "Density",
+   "property 2": "Isotopes",
+   "ANSWER": "7.8 g.cm-3 at 20\u00b0C, 8",
+   "element": "Iron"
+  }
+ },
+ "33e8ecbbdb": {
+  "instruction": {
+   "property 1": "Ionic radius",
+   "property 2": "Boiling point",
+   "ANSWER": "0.05 nm // 2467 \u00b0C",
+   "element": "Aluminum"
+  }
+ },
+ "1c73f65249": {
+  "instruction": {
+   "property 1": "Boiling point",
+   "property 2": "Ionic radius",
+   "ANSWER": "2212 \u00b0C // 0.126 nm",
+   "element": "Silver"
+  }
+ },
+ "0fbb343143": {
+  "instruction": {
+   "element": "elements",
+   "property 1": "Rutherfordium",
+   "property 2": "Environmental effects",
+   "ANSWER": "Rutherfordium is a highly radioactive chemical element. His most stable isotope Rf 265 has an half like of approximately 13 hours. Nine of its isotopes are known. Its predominant oxidation in +4 and complexes such as RfCl62- have been confirmed  Read more: http://www.lenntech.com/periodic/elements/rf.htm#ixzz4Z7Yf8cxA"
+  }
+ },
+ "1ca85cb914": {
+  "instruction": {
+   "element": "Strontium",
+   "property 1": "Vanderwaals radius",
+   "property 2": "Boiling point",
+   "ANSWER": "0.215 nm; 1384 \u00b0C"
+  }
+ },
+ "96641bf17c": {
+  "instruction": {
+   "property 1": "Energy of third ionisation",
+   "property 2": "Energy of fourth ionisation",
+   "ANSWER": "3301.2 kJ.mol -1, 4409.4 kJ.mol -1",
+   "element": "Germanium (Ge)"
+  }
+ },
+ "a999c0f6ff": {
+  "instruction": {
+   "property 1": "Isotopes",
+   "property 2": "Electronic shell",
+   "ANSWER": "13, [ Xe ] 4f14 5d9 6s1",
+   "element": "Platinum"
+  }
+ },
+ "4a8ae0d153": {
+  "instruction": {
+   "element": "manganese?",
+   "property 1": "How many isotopes and ",
+   "property 2": "and what density is ",
+   "ANSWER": "7 and 7.43g/mL"
+  }
+ },
+ "06c5464a96": {
+  "instruction": {
+   "property 1": "Holmium",
+   "property 2": "Health effects",
+   "ANSWER": "Holmium has no biological role and it is considered one of the least abundant elements present in human body. It has been noted that holmium stimulates metabolism, even if it appears to have a low acute toxic rating.  Read more: http://www.lenntech.com/periodic/elements/ho.htm#ixzz4Z7aHfIpV",
+   "element": "elements"
+  }
+ },
+ "b4d96ec69a": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Electronegativity according to Pauling",
+   "ANSWER": "2610 \u00b0C; 1.8",
+   "element": "Molybdenum"
+  }
+ },
+ "afb2d1f6c3": {
+  "instruction": {
+   "element": "Tin",
+   "property 1": "Melting point",
+   "property 2": "Vanderwaals radius",
+   "ANSWER": "232 \u00b0C; 0.162 nm"
+  }
+ },
+ "0d39c3999d": {
+  "instruction": {
+   "property 1": "Energy of first ionisation",
+   "property 2": "Energy of second ionisation",
+   "ANSWER": "761 kJ.mol -1 and 1556.5 kJ.mol -1",
+   "element": "Iron"
+  }
+ },
+ "b5d326c7d4": {
+  "instruction": {
+   "property 1": "Density",
+   "property 2": "Electronegativity according to Pauling",
+   "element": "Cobalt"
+  }
+ },
+ "50cd945067": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "1660 \u00b0C ; 3287 \u00b0C",
+   "element": "Titanium"
+  }
+ },
+ "566f7d9c25": {
+  "instruction": {
+   "property 1": "Atomic number",
+   "property 2": "Atomic mass",
+   "ANSWER": "51, 121.75 g.mol -1",
+   "element": "Antimony (Sb)"
+  }
+ },
+ "adbe1f3226": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Energy of first ionisation",
+   "ANSWER": "420 \u00b0C, 904.5 kJ.mol -1",
+   "element": "Zinc "
+  }
+ },
+ "35525a029f": {
+  "instruction": {
+   "property 1": "Melting Point",
+   "property 2": "Electronegativity according to Pauling",
+   "ANSWER": "1495 \u00b0C; 1.8",
+   "element": "Cobalt"
+  }
+ },
+ "38cf6b85f1": {
+  "instruction": {
+   "property 1": "Ionic radius",
+   "property 2": "Atomic mass",
+   "ANSWER": "0.095 (+1) nm, 22.98977 g.mol -1",
+   "element": "Sodium "
+  }
+ },
+ "0bd67741dc": {
+  "instruction": {
+   "element": "Silver",
+   "property 2": "Atomic mass",
+   "property 1": "Boiling point"
+  }
+ },
+ "4c08dd134d": {
+  "instruction": {
+   "element": "Oxygen",
+   "property 2": "Electronegativity according to Pauling",
+   "property 1": "Boiling point"
+  }
+ },
+ "c2c68492d5": {
+  "instruction": {
+   "element": "Copper",
+   "property 1": "Atomic Number",
+   "property 2": "Electronegativity according to Pauling",
+   "ANSWER": "29 // 1.9"
+  }
+ },
+ "0cf5100501": {
+  "instruction": {
+   "property 1": "Electronegativity according to Pauling",
+   "property 2": "Melting point",
+   "ANSWER": "1.5 ; 1247 \u00b0C",
+   "element": "Manganese"
+  }
+ },
+ "0629f9c8c4": {
+  "instruction": {
+   "element": "Zinc ",
+   "property 1": "Melting point",
+   "property 2": "Energy of first ionisation",
+   "ANSWER": "420 \u00b0C, 904.5 kJ.mol -1"
+  }
+ },
+ "0e048feb09": {
+  "instruction": {
+   "element": "Bohrium",
+   "property 1": "Isotope",
+   "property 2": "Atomic mass",
+   "ANSWER": "3; 262 g.mol -1"
+  }
+ },
+ "1fc9d36266": {
+  "instruction": {
+   "element": "carbon?",
+   "property 1": "What is the atomic number",
+   "property 2": "and number of isotopes associated with ",
+   "ANSWER": "6 and 3"
+  }
+ },
+ "48249fe537": {
+  "instruction": {
+   "property 1": "Electronegativity",
+   "property 2": "Isotopes",
+   "ANSWER": "1.6, 6",
+   "element": "Chromium"
+  }
+ },
+ "c6aa86948a": {
+  "instruction": {
+   "property 1": "What is the ionic radius and ",
+   "property 2": "melting point of ",
+   "ANSWER": "0.065nm and 650 degrees Celsius ",
+   "element": "magnesium?"
+  }
+ },
+ "51466bae8e": {
+  "instruction": {
+   "property 1": "Vanderwaals radius",
+   "property 2": "Ionic radius",
+   "ANSWER": "0.222 nm, 0.135",
+   "element": "Barium (Ba)"
+  }
+ },
+ "6011ae4863": {
+  "instruction": {
+   "element": "Sodium ",
+   "property 1": "Ionic radius",
+   "property 2": "Atomic mass",
+   "ANSWER": "0.095 (+1) nm, 22.98977 g.mol -1"
+  }
+ },
+ "e2820d3879": {
+  "instruction": {
+   "property 1": "Vanderwaals radius",
+   "property 2": "Melting point",
+   "ANSWER": "0.091 nm, 3652 celsius",
+   "element": "Carbon"
+  }
+ },
+ "b1cf216b27": {
+  "instruction": {
+   "element": "elements",
+   "property 1": "Holmium",
+   "property 2": "Health effects",
+   "ANSWER": "Holmium has no biological role and it is considered one of the least abundant elements present in human body. It has been noted that holmium stimulates metabolism, even if it appears to have a low acute toxic rating.  Read more: http://www.lenntech.com/periodic/elements/ho.htm#ixzz4Z7aHfIpV"
+  }
+ },
+ "ea7de8ad02": {
+  "instruction": {
+   "property 1": "Boiling point",
+   "property 2": "Atomic Mass",
+   "ANSWER": "-183 \u00b0C // 15.999 g.mol -1",
+   "element": "Oxygen"
+  }
+ },
+ "9b26be6deb": {
+  "instruction": {
+   "property 1": "Electronegativity according to Pauling",
+   "property 2": "Melting point",
+   "ANSWER": "2.0 and 814 \u00b0C (36 atm)",
+   "element": "Arsenic"
+  }
+ },
+ "7c3bd2d266": {
+  "instruction": {
+   "property 1": "Atomic mass",
+   "property 2": "Melting point",
+   "element": "Carbon"
+  }
+ },
+ "55cefa8c86": {
+  "instruction": {
+   "element": "Rhodium",
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "1970 \u00b0C ; 3727 \u00b0C"
+  }
+ },
+ "3524962b06": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "962 celsius, 2212 celsius",
+   "element": "Silver"
+  }
+ },
+ "602a2b1d65": {
+  "instruction": {
+   "property 1": "Chemical properties",
+   "property 2": "compounds",
+   "ANSWER": "Chemical properties Chemical properties of elements and compounds Atomic number - Atomic mass - Electronegativity according to Pauling - Density - Melting point - Boiling point ...  Read more: http://www.lenntech.com/cgi-bin/search.cgi?q=properties&language_id=1&project_id=1&searchmode=bool#ixzz4Z7VgvWlo",
+   "element": " elements"
+  }
+ },
+ "50c0b8ea8e": {
+  "instruction": {
+   "property 1": "Ionic radius",
+   "property 2": "Isotopes",
+   "ANSWER": "0.137 nm (+1) and 7",
+   "element": "Gold"
+  }
+ },
+ "e306db8441": {
+  "instruction": {
+   "property 1": "Electronic configuration",
+   "property 2": "Energy of second ionisation",
+   "ANSWER": "[ Ar ] 4s2, 1145 kJ.mol -1",
+   "element": "Calcium "
+  }
+ },
+ "18be46a8f9": {
+  "instruction": {
+   "property 1": "Electronegativity according to Pauling",
+   "property 2": "Standard potential",
+   "ANSWER": "2.0, - 0.3 V (As3+/ As )",
+   "element": "Arsenic (As)"
+  }
+ },
+ "779427e0f8": {
+  "instruction": {
+   "property 1": "Rhenium",
+   "property 2": "Health effects",
+   "ANSWER": " Little is known about rhenium toxicity.  Potential health effects: May cause eye irritation. May cause skin irritation. Liquid may cause burns to skin and eyes. Ingestion: May cause irritation of the digestive tract. Inhalation: May cause respiratory tract irritation.  Read more: http://www.lenntech.com/periodic/elements/re.htm#ixzz4Z7a8zWMw",
+   "element": "elements"
+  }
+ },
+ "abd277c42a": {
+  "instruction": {
+   "element": "Calcium ",
+   "property 1": "Electronic configuration",
+   "property 2": "Energy of second ionisation",
+   "ANSWER": "[ Ar ] 4s2, 1145 kJ.mol -1"
+  }
+ },
+ "c2d0f44537": {
+  "instruction": {
+   "element": "Tin ",
+   "property 1": "Atomic mass",
+   "property 2": "Density",
+   "ANSWER": "118.69 g.mol -1, 5.77g.cm-3 (alpha) and 7.3 g.cm-3 at 20\u00b0C (beta)    Read more: http://www.lenntech.com/periodic/elements/sn.htm#ixzz4ZAzht6pr"
+  }
+ },
+ "2b0e0c81b2": {
+  "instruction": {
+   "property 1": "Atomic number",
+   "property 2": "Atomic mass",
+   "ANSWER": "13,  26.98154 g.mol -1",
+   "element": "Aluminum (Al)"
+  }
+ },
+ "3b5406751e": {
+  "instruction": {
+   "element": "nitrogen?",
+   "property 1": "What is the electronegativity according to Pauling",
+   "property 2": "and atomic mass of ",
+   "ANSWER": "3.0 and 14.0067g/mol"
+  }
+ },
+ "d6a42bece2": {
+  "instruction": {
+   "property 1": "Isotope",
+   "property 2": "Atomic mass",
+   "ANSWER": "3; 262 g.mol -1",
+   "element": "Bohrium"
+  }
+ },
+ "748218dc53": {
+  "instruction": {
+   "property 1": "properties ",
+   "property 2": "groundwater",
+   "ANSWER": "Composition: The geological nature of the soil determines the chemical composition of the groundwater. Water is constantly in contact with the ground in which it stagnates or circulates, so equilibrium develops between the composition of the soil and that of the water: i.e. water that circulates in a sandy or granitic substratum is acidic and has a few minerals. Water that circulates in limestone contains bicarbonates alkalinity. The following table compares the characteristics of surface water and groundwater based on the major analysis parameters [1].  Read more: http://www.lenntech.com/groundwater/properties.htm#ixzz4Z7Xx294R",
+   "element": "elements"
+  }
+ },
+ "779880bceb": {
+  "instruction": {
+   "element": "elements",
+   "property 1": "Lawrencium",
+   "property 2": "Health effects",
+   "ANSWER": "Lawrencium is the second transferium element with the most stable isotope 262 Lr having a half-life of 216 minutes. It's chemical data are limited to its atomic number, its haf life and isotopes. Atomic weight of known its 11 isotopes range from 252 to 262. It is named after Ernest O. Lawrence, the inventor of the cyclotron, the research instrument with which several new elements havve been first produced  Read more: http://www.lenntech.com/periodic/elements/lr.htm#ixzz4Z7ZbEB00"
+  }
+ },
+ "a3458b499b": {
+  "instruction": {
+   "element": "Molybdenum",
+   "property 1": "Melting point",
+   "property 2": "Electronegativity according to Pauling",
+   "ANSWER": "2610 \u00b0C; 1.8"
+  }
+ },
+ "2410379751": {
+  "instruction": {
+   "property 1": "Boiling point",
+   "property 2": "Atomic mass",
+   "element": "Silver"
+  }
+ },
+ "a4bbfbcae9": {
+  "instruction": {
+   "property 1": "Promethium",
+   "property 2": "Health effects",
+   "ANSWER": "Promethium has no role to play on living things and is slightly dangerous because of its intense radioactivity. Test on animals showed that it become localized on the surface of bones from which it can be only slowly removed.  Read more: http://www.lenntech.com/periodic/elements/pm.htm#ixzz4Z7ZpVs9R",
+   "element": "elements"
+  }
+ },
+ "d03e8dbde6": {
+  "instruction": {
+   "property 1": "Electronegativity according to Pauling",
+   "property 2": "Melting point",
+   "ANSWER": "2.2 and 302 \u00b0C",
+   "element": "Astatine"
+  }
+ },
+ "ae47370332": {
+  "instruction": {
+   "property 1": "Atomic Number",
+   "property 2": "Boiling point",
+   "ANSWER": "19 // 760 \u00b0C",
+   "element": "Potassium"
+  }
+ },
+ "ae4d908368": {
+  "instruction": {
+   "property 1": "Isotopes",
+   "property 2": "Vanderwaals radius",
+   "ANSWER": "13; 0.136 nm",
+   "element": "Osmium"
+  }
+ },
+ "19465080fd": {
+  "instruction": {
+   "element": "Arsenic",
+   "property 1": "Electronegativity according to Pauling",
+   "property 2": "Ionic radius",
+   "ANSWER": "2.0 // 0.222 nm (-2) 0,047 nm (+5) 0,058 (+3)  Read more: http://www.lenntech.com/periodic/elements/as.htm#ixzz4ZAxCwolv"
+  }
+ },
+ "f4b71774d6": {
+  "instruction": {
+   "property 1": "Atomic number",
+   "property 2": "Energy of first ionisation",
+   "ANSWER": "19, 418.6 kJ.mol -1",
+   "element": "Potassium"
+  }
+ },
+ "00be79ae06": {
+  "instruction": {
+   "property 1": "What is the boiling point and ",
+   "property 2": "standard potential of ",
+   "ANSWER": "2970 degrees Celsius and -1.70V",
+   "element": "beryllium?"
+  }
+ },
+ "703b7ce82e": {
+  "instruction": {
+   "property 1": "Energy of first ionisation",
+   "property 2": "Energy of second ionisation",
+   "ANSWER": "761.2 kJ.mol -1, 1537.0 kJ.mol -1",
+   "element": "Germanium (Ge)"
+  }
+ },
+ "e74202e544": {
+  "instruction": {
+   "property 1": "Vanderwaals radius",
+   "property 2": "Ionic radius",
+   "ANSWER": "0.165 nm, 0.195 nm",
+   "element": "Bromine"
+  }
+ },
+ "880fd0a806": {
+  "instruction": {
+   "property 1": "Electronic shell",
+   "property 2": "Boiling point",
+   "ANSWER": "[ Xe ] 4f14 5d10 6s1, 2000 \u00b0C ",
+   "element": "Gold"
+  }
+ },
+ "71b7b39d83": {
+  "instruction": {
+   "element": "Iron",
+   "property 1": "Density",
+   "property 2": "Isotopes",
+   "ANSWER": "7.8 g.cm-3 at 20\u00b0C, 8"
+  }
+ },
+ "db88a07ef4": {
+  "instruction": {
+   "property 1": "Ionic radius",
+   "property 2": "Electronegativity according to Pauling",
+   "element": "Gold"
+  }
+ },
+ "a35d19041a": {
+  "instruction": {
+   "element": "Titanium",
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "1660 \u00b0C ; 3287 \u00b0C"
+  }
+ },
+ "b08556d1ad": {
+  "instruction": {
+   "property 1": "What is the atomic mass and ",
+   "property 2": "melting point of ",
+   "ANSWER": "6.941g/mol and 180.5 degrees Celsius. ",
+   "element": "lithium? "
+  }
+ },
+ "5678d7ac5a": {
+  "instruction": {
+   "property 1": "Melting point ",
+   "property 2": "Boiling point",
+   "ANSWER": "962 \u00b0C and 2212 \u00b0C",
+   "element": "Silver"
+  }
+ },
+ "065e1f41be": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Electronegativity according to Pauling",
+   "ANSWER": "28.4 \u00b0C ; 0.7",
+   "element": "Cesium"
+  }
+ },
+ "f6b323984f": {
+  "instruction": {
+   "property 1": "Atomic number",
+   "property 2": "Density",
+   "ANSWER": "3 and 0.53 g.cm -3 at 20 \u00b0C",
+   "element": "Lithium"
+  }
+ },
+ "ab7703a467": {
+  "instruction": {
+   "element": "magnesium?",
+   "property 1": "What is the ionic radius and ",
+   "property 2": "melting point of ",
+   "ANSWER": "0.065nm and 650 degrees Celsius "
+  }
+ },
+ "bba41c4727": {
+  "instruction": {
+   "element": "Cobalt",
+   "property 2": "Electronegativity according to Pauling",
+   "property 1": "Density"
+  }
+ },
+ "5cabda434a": {
+  "instruction": {
+   "element": "Sodium",
+   "property 1": "Vanderwaals radius",
+   "property 2": "Isotopes",
+   "ANSWER": "0.196 nm; 3"
+  }
+ },
+ "bf3ff297d5": {
+  "instruction": {
+   "property 1": "What is the density",
+   "property 2": "and energy of first ionization of ",
+   "ANSWER": "0.0899g/mL and 1311KJ/mol",
+   "element": "hydrogen?"
+  }
+ },
+ "eb74dd448a": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "1083 \u00b0C and 2595 \u00b0C",
+   "element": "Copper"
+  }
+ },
+ "0785949638": {
+  "instruction": {
+   "element": "elements",
+   "property 1": "Nobelium",
+   "property 2": "Health effects",
+   "ANSWER": "Nobelium doesn\u2019t occur naturally, it has not yet been found in the earth\u2019s crust and it\u2019s so unstable that any amount formed would decompose to other elements very quickly. Therefore, there is no reason to consider its health hazards.  Read more: http://www.lenntech.com/periodic/elements/no.htm#ixzz4Z7ZLyQYp"
+  }
+ },
+ "6f9a26369a": {
+  "instruction": {
+   "property 1": "What is the atomic number ",
+   "property 2": "and atomic mass of ",
+   "ANSWER": "11 and 22.98977g/mol",
+   "element": "sodium? "
+  }
+ },
+ "ea1b196cbd": {
+  "instruction": {
+   "property 1": "Electronegativity according to Pauling",
+   "property 2": "Ionic radius",
+   "ANSWER": "1.1, unknown",
+   "element": "Actinium"
+  }
+ },
+ "838e5e870b": {
+  "instruction": {
+   "property 1": "Atomic number",
+   "property 2": "Electronegativity according to Pauling",
+   "ANSWER": "48 and 1.7",
+   "element": "Cadmium "
+  }
+ },
+ "d9cd13b468": {
+  "instruction": {
+   "element": "Helium",
+   "property 1": "Melting Point",
+   "property 2": "Atomic Number",
+   "ANSWER": "-272.2 (26 atm) \u00b0C // 2"
+  }
+ },
+ "ddf4585fbe": {
+  "instruction": {
+   "element": " elements",
+   "property 1": "Chemical properties",
+   "property 2": "compounds",
+   "ANSWER": "Chemical properties Chemical properties of elements and compounds Atomic number - Atomic mass - Electronegativity according to Pauling - Density - Melting point - Boiling point ...  Read more: http://www.lenntech.com/cgi-bin/search.cgi?q=properties&language_id=1&project_id=1&searchmode=bool#ixzz4Z7VgvWlo"
+  }
+ },
+ "bfedfc54c8": {
+  "instruction": {
+   "property 1": "Density",
+   "property 2": "Boiling point",
+   "ANSWER": "2.3 g.cm-3 at 20\u00b0C and 3927 \u00b0C",
+   "element": "Boron"
+  }
+ },
+ "46b221ad8b": {
+  "instruction": {
+   "element": "Potassium",
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "63.2 \u00b0C ; 760 \u00b0C"
+  }
+ },
+ "b2a88fd0ad": {
+  "instruction": {
+   "element": "Selenium",
+   "property 1": "Atomic Mass",
+   "property 2": "Electronegativity according to Pauling",
+   "ANSWER": "78.96 g.mol -1 // 2.4"
+  }
+ },
+ "6fbee4e0d5": {
+  "instruction": {
+   "element": "elements",
+   "property 1": "properties ",
+   "property 2": "groundwater",
+   "ANSWER": "Composition: The geological nature of the soil determines the chemical composition of the groundwater. Water is constantly in contact with the ground in which it stagnates or circulates, so equilibrium develops between the composition of the soil and that of the water: i.e. water that circulates in a sandy or granitic substratum is acidic and has a few minerals. Water that circulates in limestone contains bicarbonates alkalinity. The following table compares the characteristics of surface water and groundwater based on the major analysis parameters [1].  Read more: http://www.lenntech.com/groundwater/properties.htm#ixzz4Z7Xx294R"
+  }
+ },
+ "9252424052": {
+  "instruction": {
+   "property 1": "What is the atomic number",
+   "property 2": "and number of isotopes associated with ",
+   "ANSWER": "6 and 3",
+   "element": "carbon?"
+  }
+ },
+ "f541111404": {
+  "instruction": {
+   "element": "Rhodium",
+   "property 1": "Standard Potential",
+   "property 2": "Isotopes",
+   "ANSWER": "0.6 V; 9"
+  }
+ },
+ "9cb4df8df8": {
+  "instruction": {
+   "property 1": "Density",
+   "property 2": "Melting point",
+   "ANSWER": "1.78.10 -3 g.cm -3 at 0 \u00b0C and -189 \u00b0C",
+   "element": "Argon"
+  }
+ },
+ "0b50e6b0ad": {
+  "instruction": {
+   "property 1": "Electronegativity",
+   "property 2": "Boiling point",
+   "ANSWER": "1.6 ; 2672 \u00b0C",
+   "element": "Chromium"
+  }
+ },
+ "7b6edd6d55": {
+  "instruction": {
+   "property 1": "Boiling point",
+   "property 2": "Isotopes",
+   "ANSWER": "1755 \u00b0C; 13",
+   "element": "Lead "
+  }
+ },
+ "82e2c0928d": {
+  "instruction": {
+   "property 1": "Nobelium",
+   "property 2": "Health effects",
+   "ANSWER": "Nobelium doesn\u2019t occur naturally, it has not yet been found in the earth\u2019s crust and it\u2019s so unstable that any amount formed would decompose to other elements very quickly. Therefore, there is no reason to consider its health hazards.  Read more: http://www.lenntech.com/periodic/elements/no.htm#ixzz4Z7ZLyQYp",
+   "element": "elements"
+  }
+ },
+ "c21043f845": {
+  "instruction": {
+   "element": "Silver",
+   "property 1": "Atomic number",
+   "property 2": "Vanderwaals radius",
+   "ANSWER": "47, 0.144 nm"
+  }
+ },
+ "218f14060e": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "180.5 \u00b0C and 1342 \u00b0C",
+   "element": "Lithium"
+  }
+ },
+ "596f0a5a36": {
+  "instruction": {
+   "property 1": "Density",
+   "property 2": "Ionic radius",
+   "element": "Iron"
+  }
+ },
+ "9f1e5fc6db": {
+  "instruction": {
+   "property 1": "Boiling point",
+   "property 2": "Vanderwaals radius",
+   "ANSWER": "1420 \u00b0C and 0.152 nm",
+   "element": "Bismuth"
+  }
+ },
+ "7f30c3b0d6": {
+  "instruction": {
+   "property 1": "Boiling point",
+   "property 2": "Ionic radius",
+   "ANSWER": "4790 celsius, 0.110 nm (+4)",
+   "element": "Thorium"
+  }
+ },
+ "50afea7052": {
+  "instruction": {
+   "property 1": "Atomic Mass",
+   "property 2": "Electronegativity according to Pauling",
+   "ANSWER": "78.96 g.mol -1 // 2.4",
+   "element": "Selenium"
+  }
+ },
+ "4ae0ee6cbe": {
+  "instruction": {
+   "element": "Potassium",
+   "property 1": "Atomic Number",
+   "property 2": "Boiling point",
+   "ANSWER": "19 // 760 \u00b0C"
+  }
+ },
+ "463ffa059f": {
+  "instruction": {
+   "property 1": "Energy of fourth ionisation",
+   "property 2": "Energy of third ionisation",
+   "ANSWER": "4175 kJ.mol -1, 2652 kJ.mol -1",
+   "element": "Titanium "
+  }
+ },
+ "649944efda": {
+  "instruction": {
+   "property 1": "Lawrencium",
+   "property 2": "Health effects",
+   "ANSWER": "Lawrencium is the second transferium element with the most stable isotope 262 Lr having a half-life of 216 minutes. It's chemical data are limited to its atomic number, its haf life and isotopes. Atomic weight of known its 11 isotopes range from 252 to 262. It is named after Ernest O. Lawrence, the inventor of the cyclotron, the research instrument with which several new elements havve been first produced  Read more: http://www.lenntech.com/periodic/elements/lr.htm#ixzz4Z7ZbEB00",
+   "element": "elements"
+  }
+ },
+ "fda7768e22": {
+  "instruction": {
+   "property 1": "Boiling point",
+   "property 2": "Electronegativity according to Pauling",
+   "element": "Oxygen"
+  }
+ },
+ "8a062bb0e3": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "1970 \u00b0C ; 3727 \u00b0C",
+   "element": "Rhodium"
+  }
+ },
+ "6f697f2a14": {
+  "instruction": {
+   "property 1": "Atomic number",
+   "property 2": "Symbol",
+   "ANSWER": "26, Fe",
+   "element": "Iron"
+  }
+ },
+ "6154e79412": {
+  "instruction": {
+   "element": "beryllium?",
+   "property 1": "What is the boiling point and ",
+   "property 2": "standard potential of ",
+   "ANSWER": "2970 degrees Celsius and -1.70V"
+  }
+ },
+ "52c0b0f727": {
+  "instruction": {
+   "element": "Nickel",
+   "property 2": "Electronegativity according to Pauling",
+   "property 1": "Melting point"
+  }
+ },
+ "f7c659977c": {
+  "instruction": {
+   "property 1": "Isotopes",
+   "property 2": "Atomic number",
+   "ANSWER": "2, 5",
+   "element": "Boron"
+  }
+ },
+ "272531659b": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Electronegativity according to Pauling",
+   "element": "Nickel"
+  }
+ },
+ "9f12f9087c": {
+  "instruction": {
+   "property 1": "How many isotopes and ",
+   "property 2": "and what density is ",
+   "ANSWER": "7 and 7.43g/mL",
+   "element": "manganese?"
+  }
+ },
+ "139ac760ff": {
+  "instruction": {
+   "property 1": "Properties",
+   "property 2": "structure  ozone",
+   "ANSWER": "Ozone is a blueish, colored gas that has a boiling point of -112 oC. At atmospheric pressure, ozone can partially dissolve in water. At standard pressure and temperature, the solubility of ozone is thirteen times that of oxygen.  Read more: http://www.lenntech.com/ozone/ozone-properties.htm#ixzz4Z7X7ufYp",
+   "element": "elements"
+  }
+ },
+ "121c8f69ea": {
+  "instruction": {
+   "element": "Iron",
+   "property 2": "Ionic radius",
+   "property 1": "Density"
+  }
+ },
+ "613c3198fc": {
+  "instruction": {
+   "property 1": "What is the density and ",
+   "property 2": "atomic mass of ",
+   "ANSWER": "1.78 x 10^(-4) g/mL and 4.00260g/mol",
+   "element": "helium?"
+  }
+ },
+ "96887c56d4": {
+  "instruction": {
+   "property 1": "Atomic Number",
+   "property 2": "Electronegativity according to Pauling",
+   "ANSWER": "29 // 1.9",
+   "element": "Copper"
+  }
+ },
+ "04ed9a3b75": {
+  "instruction": {
+   "element": "Titanium ",
+   "property 1": "Energy of fourth ionisation",
+   "property 2": "Energy of third ionisation",
+   "ANSWER": "4175 kJ.mol -1, 2652 kJ.mol -1"
+  }
+ },
+ "da429b336b": {
+  "instruction": {
+   "element": "elements",
+   "property 1": "Meitnerium",
+   "property 2": "Environmental effects",
+   "ANSWER": "Meitnerium is an artificially produced radioactive element. None of meitnerium's chemistry has been researched, but it should resemble other elements of group 9, like iridium.  Read more: http://www.lenntech.com/periodic/elements/mt.htm#ixzz4Z7Z3122k"
+  }
+ },
+ "fc8cdff8a1": {
+  "instruction": {
+   "element": "Bismuth ",
+   "property 2": "Density",
+   "property 1": "Melting point"
+  }
+ },
+ "2edabf403b": {
+  "instruction": {
+   "element": "Platinum",
+   "property 1": "Isotopes",
+   "property 2": "Electronic shell",
+   "ANSWER": "13, [ Xe ] 4f14 5d9 6s1"
+  }
+ },
+ "fcea79b97c": {
+  "instruction": {
+   "element": "Scandium",
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "1541 \u00b0C ; 2836 \u00b0C"
+  }
+ },
+ "11b943de8b": {
+  "instruction": {
+   "element": "Carbon",
+   "property 2": "Melting point",
+   "property 1": "Atomic mass"
+  }
+ },
+ "f3a3aa05af": {
+  "instruction": {
+   "property 1": "Atomic number",
+   "property 2": "Vanderwaals radius",
+   "ANSWER": "47, 0.144 nm",
+   "element": "Silver"
+  }
+ },
+ "066e65a95a": {
+  "instruction": {
+   "element": "Gold",
+   "property 1": "Electronic shell",
+   "property 2": "Boiling point",
+   "ANSWER": "[ Xe ] 4f14 5d10 6s1, 2000 \u00b0C "
+  }
+ },
+ "0e045d3a5d": {
+  "instruction": {
+   "property 1": "Energy of first ionisation",
+   "property 2": "Energy of second ionisation",
+   "ANSWER": "899.2 kJ.mol -1, 1757 kJ.mol -1",
+   "element": "Beryllium (Be)"
+  }
+ },
+ "dd1750e5c5": {
+  "instruction": {
+   "property 1": "Atomic number",
+   "property 2": "Melting point",
+   "ANSWER": "14 and 1410 \u00b0C",
+   "element": "Silicon"
+  }
+ },
+ "32b44b5488": {
+  "instruction": {
+   "property 1": "Vanderwaals radius",
+   "property 2": "Isotopes",
+   "ANSWER": "0.196 nm; 3",
+   "element": "Sodium"
+  }
+ },
+ "eca8630beb": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "1910 \u00b0C ; 3407 \u00b0C",
+   "element": "Vanadium"
+  }
+ },
+ "845e326c4e": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Density",
+   "element": "Bismuth "
+  }
+ },
+ "1a7cdbd716": {
+  "instruction": {
+   "property 1": "Melting Point",
+   "property 2": "Atomic Number",
+   "ANSWER": "-272.2 (26 atm) \u00b0C // 2",
+   "element": "Helium"
+  }
+ },
+ "36f46e7e2b": {
+  "instruction": {
+   "element": "Oxygen",
+   "property 1": "Boiling point",
+   "property 2": "Atomic Mass",
+   "ANSWER": "-183 \u00b0C // 15.999 g.mol -1"
+  }
+ },
+ "1ed609a810": {
+  "instruction": {
+   "element": "sodium? ",
+   "property 1": "What is the atomic number ",
+   "property 2": "and atomic mass of ",
+   "ANSWER": "11 and 22.98977g/mol"
+  }
+ },
+ "f3db08c3c0": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "840 \u00b0C ; 1484 \u00b0C",
+   "element": "Calcium"
+  }
+ },
+ "4d967b6158": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "-189 \u00b0C and -185.7 \u00b0C",
+   "element": "Argon"
+  }
+ },
+ "844a1643ba": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "1050 \u00b0C, 3250 \u00b0C",
+   "element": "Actinium (Ac)"
+  }
+ },
+ "32d6cb9713": {
+  "instruction": {
+   "element": "boron? ",
+   "property 1": "What is the ionic radius and ",
+   "property 2": "density of ",
+   "ANSWER": "0.027nm and 2.3g/mL"
+  }
+ },
+ "c25817bcac": {
+  "instruction": {
+   "property 1": "Rutherfordium",
+   "property 2": "Environmental effects",
+   "ANSWER": "Rutherfordium is a highly radioactive chemical element. His most stable isotope Rf 265 has an half like of approximately 13 hours. Nine of its isotopes are known. Its predominant oxidation in +4 and complexes such as RfCl62- have been confirmed  Read more: http://www.lenntech.com/periodic/elements/rf.htm#ixzz4Z7Yf8cxA",
+   "element": "elements"
+  }
+ },
+ "10c0373bb7": {
+  "instruction": {
+   "property 1": "Meitnerium",
+   "property 2": "Environmental effects",
+   "ANSWER": "Meitnerium is an artificially produced radioactive element. None of meitnerium's chemistry has been researched, but it should resemble other elements of group 9, like iridium.  Read more: http://www.lenntech.com/periodic/elements/mt.htm#ixzz4Z7Z3122k",
+   "element": "elements"
+  }
+ },
+ "834c74c5d6": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Electronegativity according to Pauling",
+   "ANSWER": "327 \u00b0C // 1.8",
+   "element": "Lead"
+  }
+ },
+ "d7d7ad3686": {
+  "instruction": {
+   "property 1": "Atomic mass",
+   "property 2": "Electronegativity according to Pauling",
+   "ANSWER": "12.011 g.mol -1 and 2.5",
+   "element": "Carbon"
+  }
+ },
+ "1b2d54e9e5": {
+  "instruction": {
+   "element": "hydrogen?",
+   "property 1": "What is the density",
+   "property 2": "and energy of first ionization of ",
+   "ANSWER": "0.0899g/mL and 1311KJ/mol"
+  }
+ },
+ "418663d4da": {
+  "instruction": {
+   "element": "Aluminum",
+   "property 1": "Ionic radius",
+   "property 2": "Boiling point",
+   "ANSWER": "0.05 nm // 2467 \u00b0C"
+  }
+ },
+ "5335dbf47f": {
+  "instruction": {
+   "element": "Lead ",
+   "property 1": "Boiling point",
+   "property 2": "Isotopes",
+   "ANSWER": "1755 \u00b0C; 13"
+  }
+ },
+ "37c2329450": {
+  "instruction": {
+   "element": "Cesium",
+   "property 1": "Melting point",
+   "property 2": "Electronegativity according to Pauling",
+   "ANSWER": "28.4 \u00b0C ; 0.7"
+  }
+ },
+ "e3feff16d3": {
+  "instruction": {
+   "property 1": "What is the electronegativity according to Pauling",
+   "property 2": "and atomic mass of ",
+   "ANSWER": "3.0 and 14.0067g/mol",
+   "element": "nitrogen?"
+  }
+ },
+ "c4ef1e4fc3": {
+  "instruction": {
+   "property 1": "Atomic mass",
+   "property 2": "Density",
+   "ANSWER": "118.69 g.mol -1, 5.77g.cm-3 (alpha) and 7.3 g.cm-3 at 20\u00b0C (beta)    Read more: http://www.lenntech.com/periodic/elements/sn.htm#ixzz4ZAzht6pr",
+   "element": "Tin "
+  }
+ },
+ "369f212cfd": {
+  "instruction": {
+   "property 1": "Vanderwaals radius",
+   "property 2": "Boiling point",
+   "ANSWER": "0.215 nm; 1384 \u00b0C",
+   "element": "Strontium"
+  }
+ },
+ "b7b480a2d1": {
+  "instruction": {
+   "element": "helium?",
+   "property 1": "What is the density and ",
+   "property 2": "atomic mass of ",
+   "ANSWER": "1.78 x 10^(-4) g/mL and 4.00260g/mol"
+  }
+ },
+ "3625736dcd": {
+  "instruction": {
+   "element": "elements",
+   "property 1": "Promethium",
+   "property 2": "Health effects",
+   "ANSWER": "Promethium has no role to play on living things and is slightly dangerous because of its intense radioactivity. Test on animals showed that it become localized on the surface of bones from which it can be only slowly removed.  Read more: http://www.lenntech.com/periodic/elements/pm.htm#ixzz4Z7ZpVs9R"
+  }
+ },
+ "051f6582b1": {
+  "instruction": {
+   "element": "Vanadium",
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "1910 \u00b0C ; 3407 \u00b0C"
+  }
+ },
+ "81fc92c1b1": {
+  "instruction": {
+   "element": "Calcium",
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "840 \u00b0C ; 1484 \u00b0C"
+  }
+ },
+ "b63da6c04e": {
+  "instruction": {
+   "property 1": "Atomic Mass",
+   "property 2": "Ionic Radius",
+   "ANSWER": "12.011 g.mol -1 // 0.26 nm (-4) ; 0.015 nm (+4)",
+   "element": "Carbon"
+  }
+ },
+ "eec3101c3a": {
+  "instruction": {
+   "element": "Potassium",
+   "property 1": "Atomic number",
+   "property 2": "Energy of first ionisation",
+   "ANSWER": "19, 418.6 kJ.mol -1"
+  }
+ },
+ "a3ead8b0f2": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "63.2 \u00b0C ; 760 \u00b0C",
+   "element": "Potassium"
+  }
+ },
+ "3ac45792b9": {
+  "instruction": {
+   "property 1": "Isotope",
+   "property 2": "Density",
+   "ANSWER": "1; 1.86 g.cm-3",
+   "element": "Beryllium"
+  }
+ },
+ "ac55458534": {
+  "instruction": {
+   "property 1": "Electronegativity according to Pauling",
+   "property 2": "Melting point",
+   "ANSWER": "1.8 ; 1536 \u00b0C",
+   "element": "Iron"
+  }
+ },
+ "aaf85cbd97": {
+  "instruction": {
+   "property 1": "Atomic mass",
+   "property 2": "Electronegativity according to Pauling",
+   "ANSWER": "1.007825 g.mol-1, 2.1",
+   "element": "Hydrogen"
+  }
+ },
+ "a23d960da0": {
+  "instruction": {
+   "property 1": "What is the ionic radius and ",
+   "property 2": "density of ",
+   "ANSWER": "0.027nm and 2.3g/mL",
+   "element": "boron? "
+  }
+ },
+ "ac7b3cd898": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "1541 \u00b0C ; 2836 \u00b0C",
+   "element": "Scandium"
+  }
+ },
+ "cfc0359523": {
+  "instruction": {
+   "property 1": "Electronegativity according to Pauling",
+   "property 2": "Melting point",
+   "ANSWER": "2.4 and 1062 \u00b0C",
+   "element": "Gold"
+  }
+ },
+ "a2910b39c8": {
+  "instruction": {
+   "element": "Cobalt",
+   "property 1": "Melting Point",
+   "property 2": "Electronegativity according to Pauling",
+   "ANSWER": "1495 \u00b0C; 1.8"
+  }
+ },
+ "8f8293f787": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "1536 \u00b0C and 2861 \u00b0C",
+   "element": "Iron"
+  }
+ },
+ "c8dc8970ee": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Vanderwaals radius",
+   "ANSWER": "232 \u00b0C; 0.162 nm",
+   "element": "Tin"
+  }
+ },
+ "8762eaa4be": {
+  "instruction": {
+   "property 1": " Atomic number",
+   "property 2": "Atomic mass",
+   "ANSWER": "13 and 26.98154 g.mol -1",
+   "element": "Aluminum "
+  }
+ },
+ "c7f64188c6": {
+  "instruction": {
+   "property 1": "Boiling point",
+   "property 2": "Atomic mass",
+   "element": "Sulfur "
+  }
+ },
+ "f9b4c25d69": {
+  "instruction": {
+   "element": "elements",
+   "property 1": "Properties",
+   "property 2": "structure  ozone",
+   "ANSWER": "Ozone is a blueish, colored gas that has a boiling point of -112 oC. At atmospheric pressure, ozone can partially dissolve in water. At standard pressure and temperature, the solubility of ozone is thirteen times that of oxygen.  Read more: http://www.lenntech.com/ozone/ozone-properties.htm#ixzz4Z7X7ufYp"
+  }
+ },
+ "37512174fa": {
+  "instruction": {
+   "element": "Gold",
+   "property 2": "Electronegativity according to Pauling",
+   "property 1": "Ionic radius"
+  }
+ },
+ "ef39d922d3": {
+  "instruction": {
+   "property 1": "Electronegativity according to Pauling",
+   "property 2": "Ionic radius",
+   "ANSWER": "2.0 // 0.222 nm (-2) 0,047 nm (+5) 0,058 (+3)  Read more: http://www.lenntech.com/periodic/elements/as.htm#ixzz4ZAxCwolv",
+   "element": "Arsenic"
+  }
+ },
+ "06bfac3dd9": {
+  "instruction": {
+   "element": "Beryllium",
+   "property 1": "Isotope",
+   "property 2": "Density",
+   "ANSWER": "1; 1.86 g.cm-3"
+  }
+ },
+ "d3b095f175": {
+  "instruction": {
+   "element": "Chromium",
+   "property 1": "Electronegativity",
+   "property 2": "Boiling point",
+   "ANSWER": "1.6 ; 2672 \u00b0C"
+  }
+ },
+ "c66bc3d6a2": {
+  "instruction": {
+   "property 1": "Atomic number",
+   "property 2": "boiling point",
+   "ANSWER": "56 and 1640 \u00b0C",
+   "element": "Barium"
+  }
+ },
+ "24b89c3b4d": {
+  "instruction": {
+   "element": "lithium? ",
+   "property 1": "What is the atomic mass and ",
+   "property 2": "melting point of ",
+   "ANSWER": "6.941g/mol and 180.5 degrees Celsius. "
+  }
+ },
+ "1a6359e7bf": {
+  "instruction": {
+   "element": "Silver",
+   "property 1": "Boiling point",
+   "property 2": "Ionic radius",
+   "ANSWER": "2212 \u00b0C // 0.126 nm"
+  }
+ },
+ "3afd4774e9": {
+  "instruction": {
+   "element": "Osmium",
+   "property 1": "Isotopes",
+   "property 2": "Vanderwaals radius",
+   "ANSWER": "13; 0.136 nm"
+  }
+ },
+ "ff9288c6f3": {
+  "instruction": {
+   "element": "Manganese",
+   "property 1": "Electronegativity according to Pauling",
+   "property 2": "Melting point",
+   "ANSWER": "1.5 ; 1247 \u00b0C"
+  }
+ },
+ "66bee0c8fc": {
+  "instruction": {
+   "element": "elements",
+   "property 1": "Rhenium",
+   "property 2": "Health effects",
+   "ANSWER": " Little is known about rhenium toxicity.  Potential health effects: May cause eye irritation. May cause skin irritation. Liquid may cause burns to skin and eyes. Ingestion: May cause irritation of the digestive tract. Inhalation: May cause respiratory tract irritation.  Read more: http://www.lenntech.com/periodic/elements/re.htm#ixzz4Z7a8zWMw"
+  }
+ },
+ "1fd3dbe605": {
+  "instruction": {
+   "element": "Iron",
+   "property 1": "Electronegativity according to Pauling",
+   "property 2": "Melting point",
+   "ANSWER": "1.8 ; 1536 \u00b0C"
+  }
+ },
+ "39e0d4f1e4": {
+  "instruction": {
+   "element": "Carbon",
+   "property 1": "Atomic Mass",
+   "property 2": "Ionic Radius",
+   "ANSWER": "12.011 g.mol -1 // 0.26 nm (-4) ; 0.015 nm (+4)"
+  }
+ },
+ "24264bc220": {
+  "instruction": {
+   "property 1": "Melting point",
+   "property 2": "Boiling point",
+   "ANSWER": "302 \u00b0C, 337 \u00b0C (estimation)",
+   "element": "Astatine (At)"
+  }
+ }
+}

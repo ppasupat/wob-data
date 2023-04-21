@@ -1,0 +1,62 @@
+{
+ "fc34aedbec": {
+  "instruction": {
+   "length": "12 mi",
+   "location": "Lassen"
+  }
+ },
+ "5485ca6c74": {
+  "instruction": {
+   "length": "18.4 mi",
+   "location": "Orange"
+  }
+ },
+ "39d5aeb04c": {
+  "instruction": {
+   "length": "1.1 mi",
+   "location": "El Dorado"
+  }
+ },
+ "ee459961e2": {
+  "instruction": {
+   "length": "4.4 mi",
+   "location": "Solano"
+  }
+ },
+ "a1223bfa27": {
+  "instruction": {
+   "length": "0.5 mi",
+   "location": "Santa Clara"
+  }
+ },
+ "d60075b1f1": {
+  "instruction": {
+   "length": "1.8 mi",
+   "location": "Orange"
+  }
+ },
+ "c7038b1147": {
+  "instruction": {
+   "length": "22.1 mi",
+   "location": "Alameda"
+  }
+ },
+ "9ec454b214": {
+  "instruction": {
+   "length": "2.4 mi",
+   "location": "Santa Clara"
+  }
+ },
+ "a3574e5746": {
+  "instruction": {
+   "length": "6 mi",
+   "location": "San Bernadino"
+  }
+ },
+ "83be8cdd64": {
+  "instruction": {
+   "length": "32 mi",
+   "location": "Sacramento"
+  }
+ }
+}

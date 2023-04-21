@@ -1,0 +1,72 @@
+{
+ "649faf85cf": {
+  "instruction": {
+   "amount of loan": "125000",
+   "loan duration in years": "20",
+   "interest rate percent": "5.25"
+  }
+ },
+ "df49d567bd": {
+  "instruction": {
+   "amount of loan": "350000",
+   "loan duration in years": "25",
+   "interest rate percent": "4.5"
+  }
+ },
+ "2a2a34e60d": {
+  "instruction": {
+   "amount of loan": "125000",
+   "loan duration in years": "30",
+   "interest rate percent": "4"
+  }
+ },
+ "e25ff34dad": {
+  "instruction": {
+   "amount of loan": "250000",
+   "loan duration in years": "20",
+   "interest rate percent": "5"
+  }
+ },
+ "8bc43feaa2": {
+  "instruction": {
+   "amount of loan": "250000",
+   "loan duration in years": "15",
+   "interest rate percent": "3.75"
+  }
+ },
+ "ec482ddf57": {
+  "instruction": {
+   "amount of loan": "400000",
+   "loan duration in years": "25",
+   "interest rate percent": "3"
+  }
+ },
+ "7e770a7141": {
+  "instruction": {
+   "amount of loan": "500000",
+   "loan duration in years": "20",
+   "interest rate percent": "2.25"
+  }
+ },
+ "76e1615ee8": {
+  "instruction": {
+   "amount of loan": "275000",
+   "loan duration in years": "30",
+   "interest rate percent": "4.75"
+  }
+ },
+ "544b16b537": {
+  "instruction": {
+   "amount of loan": "395000",
+   "loan duration in years": "25",
+   "interest rate percent": "2.9"
+  }
+ },
+ "79ad7c8ab1": {
+  "instruction": {
+   "amount of loan": "280000",
+   "loan duration in years": "30",
+   "interest rate percent": "6.9"
+  }
+ }
+}

@@ -1,0 +1,742 @@
+{
+ "1eef6e6895": {
+  "instruction": {
+   "zip code": "2500",
+   "type of boat": "PARKER BOATS 2500",
+   "ANSWER": "We found 3 listings"
+  }
+ },
+ "dd884e5057": {
+  "instruction": {
+   "zip code": "55801",
+   "type of boat": " Barker 26 Open",
+   "ANSWER": "No results were found for this search. You can adjust your search parameters by using the Refine Your Search form."
+  }
+ },
+ "341540d648": {
+  "instruction": {
+   "zip code": "79605",
+   "type of boat": "Alumacraft MV 1860",
+   "ANSWER": "19995"
+  }
+ },
+ "ff06196a89": {
+  "instruction": {
+   "zip code": "79605",
+   "type of boat": "Tracker Pro Team 195",
+   "ANSWER": "26045"
+  }
+ },
+ "eff0134eb4": {
+  "instruction": {
+   "zip code": "94087",
+   "type of boat": "Lagoon 440",
+   "ANSWER": "yes"
+  }
+ },
+ "a155447086": {
+  "instruction": {
+   "zip code": "07849",
+   "type of boat": "Bayliner 160 Bowrider",
+   "ANSWER": "http://www.boattrader.com/listing/2016-bayliner-160-bowrider-102603355"
+  }
+ },
+ "c3544f818e": {
+  "instruction": {
+   "zip code": "34240",
+   "type of boat": "Higgins 100",
+   "ANSWER": "http://www.boattrader.com/listing/1953-higgins-100-102862919/"
+  }
+ },
+ "f6639b5a3e": {
+  "instruction": {
+   "type of boat": "Pioneer Sportfish 222",
+   "zip code": "10001"
+  }
+ },
+ "fd09761dc0": {
+  "instruction": {
+   "zip code": "70510",
+   "type of boat": "2015 Prestige Yachts 750",
+   "ANSWER": "Abbeville, LA"
+  }
+ },
+ "4b74a7bd9e": {
+  "instruction": {
+   "zip code": "27806",
+   "type of boat": "1989 Med Yachts MONTECHRISTO - MOTIVATED",
+   "ANSWER": "Aurora, NC"
+  }
+ },
+ "8910355f4b": {
+  "instruction": {
+   "zip code": "60047",
+   "type of boat": "Mastercraft NXT20",
+   "ANSWER": "2017 Mastercraft NXT20 $75,420  Lake Zurich, IL"
+  }
+ },
+ "fe2298825e": {
+  "instruction": {
+   "zip code": "201",
+   "type of boat": "COBIA BOATS 201 CC",
+   "ANSWER": "We found 17 listings"
+  }
+ },
+ "150fd9fc41": {
+  "instruction": {
+   "zip code": "06830",
+   "type of boat": "Hurricane SD2400 OB  ",
+   "ANSWER": "http://www.boattrader.com/listing/2012-hurricane-sd2400-ob-102862392"
+  }
+ },
+ "abee48f4f7": {
+  "instruction": {
+   "zip code": "29036",
+   "type of boat": "2017 Blue wave 1902 evolution ",
+   "ANSWER": "I'd like to find a 2017 blue wave 1902 evolution for sale near 29036"
+  }
+ },
+ "d6ae082eb1": {
+  "instruction": {
+   "zip code": "[78382]",
+   "type of boat": "(2016 NAUTIC STAR 211 Coastal)",
+   "ANSWER": "I'd like to find a  (2016 NAUTIC STAR 211 Coastal)for sale near [78382]."
+  }
+ },
+ "1ea85337b5": {
+  "instruction": {
+   "type of boat": "Contender 24 Sport",
+   "zip code": "68901"
+  }
+ },
+ "098a9f1ab4": {
+  "instruction": {
+   "zip code": "[77356]",
+   "type of boat": "(1997 Mastercraft 225 VRS)",
+   "ANSWER": "I'd like to find a  (1997 Mastercraft 225 VRS)for sale near [77356]"
+  }
+ },
+ "6845c137f1": {
+  "instruction": {
+   "type of boat": "Grady-White Fisherman 236",
+   "zip code": "07039"
+  }
+ },
+ "df7d30dd47": {
+  "instruction": {
+   "zip code": "33040",
+   "type of boat": "Chaparral Sunesta",
+   "ANSWER": "no"
+  }
+ },
+ "a8d034ebf0": {
+  "instruction": {
+   "zip code": "[77554]",
+   "type of boat": "(2017 Cape Horn 32T)",
+   "ANSWER": "I'd like to find a  (2017 Cape Horn 32T)for sale near [77554]."
+  }
+ },
+ "f8db802241": {
+  "instruction": {
+   "zip code": "23669",
+   "type of boat": "1989 Viking 57 Convertible",
+   "ANSWER": "Hampton, VA"
+  }
+ },
+ "50349dc833": {
+  "instruction": {
+   "zip code": "79605",
+   "type of boat": "SeaArk Pro Cat 240",
+   "ANSWER": "43495"
+  }
+ },
+ "55f01e05f4": {
+  "instruction": {
+   "zip code": "49422",
+   "type of boat": "Chris-Craft 28 LAUNCH",
+   "ANSWER": "2015 Chris-Craft 28 LAUNCH Request a Price  Holland, MI"
+  }
+ },
+ "cb9624320f": {
+  "instruction": {
+   "type of boat": "EdgeWater 245cc",
+   "zip code": "89501"
+  }
+ },
+ "01e44dedf9": {
+  "instruction": {
+   "zip code": "[78643]",
+   "type of boat": "(1985 Chriscraft Uniflite Cruiser 31)",
+   "ANSWER": "I'd like to find a  (1985 Chriscraft Uniflite Cruiser 31)for sale near [78643]"
+  }
+ },
+ "b50b20186e": {
+  "instruction": {
+   "zip code": "65074",
+   "type of boat": "2013 Monterey 204FS",
+   "ANSWER": "Russellville, MO"
+  }
+ },
+ "3895a9117a": {
+  "instruction": {
+   "zip code": "2000",
+   "type of boat": "Century Boats 2000",
+   "ANSWER": "We found 9 listings"
+  }
+ },
+ "ff7e049e92": {
+  "instruction": {
+   "zip code": "77840",
+   "type of boat": "Canoe/Kayak",
+   "ANSWER": "yes"
+  }
+ },
+ "c68920dc32": {
+  "instruction": {
+   "zip code": "[77494]",
+   "type of boat": "(2013 Larson All American)",
+   "ANSWER": "I'd like to find a  (2013 Larson All American)for sale near [77494 ]."
+  }
+ },
+ "eb4ea7441a": {
+  "instruction": {
+   "zip code": "79605",
+   "type of boat": "Lund 1875 Pro V",
+   "ANSWER": "45995"
+  }
+ },
+ "770394c5a2": {
+  "instruction": {
+   "zip code": "79605",
+   "type of boat": "Tracker Targa",
+   "ANSWER": "42710"
+  }
+ },
+ "524e84ed71": {
+  "instruction": {
+   "zip code": "[75074]",
+   "type of boat": "(2012 Cruisers Yachts 380 Express)",
+   "ANSWER": "I'd like to find a  (2012 Cruisers Yachts 380 Express)for sale near [75074]"
+  }
+ },
+ "8bd01e3cae": {
+  "instruction": {
+   "zip code": "14218",
+   "type of boat": "Crownline 285SS  ",
+   "ANSWER": "http://www.boattrader.com/listing/2012-crownline-285ss-102959709/"
+  }
+ },
+ "4b28f6f5f6": {
+  "instruction": {
+   "zip code": "03217",
+   "type of boat": " Everglades 230cc",
+   "ANSWER": "No results were found for this search. You can adjust your search parameters by using the Refine Your Search form"
+  }
+ },
+ "cb5d11788e": {
+  "instruction": {
+   "zip code": "14072",
+   "type of boat": "Sea-Doo GTI SE Rotax 900 HO ACE",
+   "ANSWER": "http://www.boattrader.com/listing/2017-sea-doo-gti-se-rotax-900-ho-ace-102873447/"
+  }
+ },
+ "b462341d0c": {
+  "instruction": {
+   "zip code": "77840",
+   "type of boat": "Sea Ray 280",
+   "ANSWER": "yes"
+  }
+ },
+ "4d2926d571": {
+  "instruction": {
+   "zip code": "28411",
+   "type of boat": "Tidewater 320 CC Custom"
+  }
+ },
+ "7cb36144de": {
+  "instruction": {
+   "zip code": "10701",
+   "type of boat": "2008 Wellcraft 360 Coastal  ",
+   "ANSWER": "http://www.boattrader.com/listing/2008-wellcraft-360-coastal-102776701/"
+  }
+ },
+ "ef7064076b": {
+  "instruction": {
+   "zip code": "29036",
+   "type of boat": "Blue Wave 1902 Evolution",
+   "ANSWER": "yes"
+  }
+ },
+ "df64f382f3": {
+  "instruction": {
+   "zip code": "07039",
+   "type of boat": "Grady-White Fisherman 236"
+  }
+ },
+ "3f5f0990ea": {
+  "instruction": {
+   "zip code": "2820",
+   "type of boat": "PARKER BOATS 2820 XLD",
+   "ANSWER": "We found 3 listings"
+  }
+ },
+ "0ebe577ebb": {
+  "instruction": {
+   "zip code": "87500",
+   "type of boat": "Mako 234 CC"
+  }
+ },
+ "6f09b19078": {
+  "instruction": {
+   "zip code": "10701",
+   "type of boat": "2007 Sea Ray 36 Sedan Bridge",
+   "ANSWER": "http://www.boattrader.com/listing/2007-sea-ray-36-sedan-bridge-102838224/"
+  }
+ },
+ "6693234b30": {
+  "instruction": {
+   "zip code": "28557",
+   "type of boat": "Sportsman 282 Open"
+  }
+ },
+ "04f6969d46": {
+  "instruction": {
+   "zip code": "28680",
+   "type of boat": "Tahoe 1950"
+  }
+ },
+ "65e08a2ccf": {
+  "instruction": {
+   "zip code": "29036",
+   "type of boat": "2017 Silver Wave 230 Island LP",
+   "ANSWER": "I'd like to find a 2017 Silver Wave 230 Island LP for sale near 29036"
+  }
+ },
+ "c6978d05d4": {
+  "instruction": {
+   "zip code": "27909",
+   "type of boat": "2002 Fairline Squadron",
+   "ANSWER": "Elizabeth City, NC"
+  }
+ },
+ "78c1852b3d": {
+  "instruction": {
+   "zip code": "59044",
+   "type of boat": "Cobia 237CC",
+   "ANSWER": "We found 25 listings"
+  }
+ },
+ "f9b07d2d8f": {
+  "instruction": {
+   "zip code": "23669",
+   "type of boat": "Regulator 28"
+  }
+ },
+ "82c616b25b": {
+  "instruction": {
+   "type of boat": "Everglades 230cc",
+   "zip code": "03217"
+  }
+ },
+ "76306db15e": {
+  "instruction": {
+   "zip code": "29036",
+   "type of boat": "2017 Silver Wave 230 Island CC",
+   "ANSWER": "I'd like to find a 2017 Silver Wave 230 Island CC for sale near 29036"
+  }
+ },
+ "aa398e580c": {
+  "instruction": {
+   "zip code": "46201",
+   "type of boat": "RANGER 519VX TOUR EDITION",
+   "ANSWER": "2005 Ranger 519VX tour edition $19,500  Indianapolis, IN"
+  }
+ },
+ "2c32663725": {
+  "instruction": {
+   "type of boat": "Century 2200CC",
+   "zip code": "63101"
+  }
+ },
+ "8ab4961190": {
+  "instruction": {
+   "zip code": "79605",
+   "type of boat": "Ranger RT 188",
+   "ANSWER": "24988"
+  }
+ },
+ "2531d6bd8e": {
+  "instruction": {
+   "zip code": "29036",
+   "type of boat": "2016 Blue Wave 2200 Pure Bay",
+   "ANSWER": "I'd like to find a 2016 Blue Wave 2200 Pure Bay for sale near 29036"
+  }
+ },
+ "665eaadf9b": {
+  "instruction": {
+   "zip code": "94087",
+   "type of boat": "Chaparral Sunesta",
+   "ANSWER": "yes"
+  }
+ },
+ "20661720de": {
+  "instruction": {
+   "zip code": "77840",
+   "type of boat": "Inflatables",
+   "ANSWER": "yes"
+  }
+ },
+ "dc6f24a56d": {
+  "instruction": {
+   "zip code": "[77356]",
+   "type of boat": "(2011 NAUTIC STAR 2110  )",
+   "ANSWER": "I'd like to find a  (2011 NAUTIC STAR 2110  )for sale near [77356]"
+  }
+ },
+ "d72d6a80e4": {
+  "instruction": {
+   "zip code": "[78418]",
+   "type of boat": "(2017 Everglades 435 Center Console)",
+   "ANSWER": "I'd like to find a  (2017 Everglades 435 Center Console)for sale near [78418]"
+  }
+ },
+ "4bd04ef5d0": {
+  "instruction": {
+   "zip code": "60201",
+   "type of boat": "AVON 620 ADVENTURE",
+   "ANSWER": "2006 Avon 620 Adventure $19,999  Evanston, IL"
+  }
+ },
+ "0c731be5a0": {
+  "instruction": {
+   "type of boat": "Mako 234 CC",
+   "zip code": "87500"
+  }
+ },
+ "725dbc2901": {
+  "instruction": {
+   "zip code": "28673",
+   "type of boat": "Cobalt R30"
+  }
+ },
+ "41f21e775a": {
+  "instruction": {
+   "zip code": "79605",
+   "type of boat": "Lowe Stinger 175",
+   "ANSWER": "20700"
+  }
+ },
+ "3f8a9dbb62": {
+  "instruction": {
+   "zip code": "[78735]",
+   "type of boat": "(2014 Supra SC 350)",
+   "ANSWER": "I'd like to find a  (2014 Supra SC 350)for sale near [78735] ."
+  }
+ },
+ "48a63f8fe8": {
+  "instruction": {
+   "zip code": "23669",
+   "type of boat": "Regulator 28CC"
+  }
+ },
+ "808ec874d2": {
+  "instruction": {
+   "zip code": "49684",
+   "type of boat": "Hunter 45 Deck Salon",
+   "ANSWER": "2010 Hunter 45 Deck Salon $224,990  Traverse City, MI"
+  }
+ },
+ "8e2a96a5cd": {
+  "instruction": {
+   "zip code": "28680",
+   "type of boat": "Manitou 23 VP Oasis"
+  }
+ },
+ "9a244570e1": {
+  "instruction": {
+   "zip code": "89501",
+   "type of boat": "EdgeWater 245cc"
+  }
+ },
+ "181ff73619": {
+  "instruction": {
+   "zip code": "43440",
+   "type of boat": " Cruisers Yachts 60 Cantius",
+   "ANSWER": "2016 Cruisers Yachts 60 Cantius $2,589,242  Marblehead, OH"
+  }
+ },
+ "0cec067fb9": {
+  "instruction": {
+   "zip code": "28680",
+   "type of boat": "Skeeter FX20 LE"
+  }
+ },
+ "c679de2a44": {
+  "instruction": {
+   "zip code": "03217",
+   "type of boat": "Everglades 230cc"
+  }
+ },
+ "c446b42c11": {
+  "instruction": {
+   "zip code": " 63101",
+   "type of boat": "Century 2200CC",
+   "ANSWER": "We found 3045 listings"
+  }
+ },
+ "397aa8b586": {
+  "instruction": {
+   "zip code": "33701",
+   "type of boat": "Wellcraft 252 Fisherman",
+   "ANSWER": "2013 Wellcraft 252 Fisherman $74,500  St Petersburg, FL"
+  }
+ },
+ "439be46303": {
+  "instruction": {
+   "zip code": "77964",
+   "type of boat": "1947 Nauset Tug",
+   "ANSWER": "Hallettsville, TX"
+  }
+ },
+ "9eceea56fe": {
+  "instruction": {
+   "zip code": "48629",
+   "type of boat": "Bennington 21SL",
+   "ANSWER": "2017 Bennington 21SL Request a Price  Houghton Lake, MI"
+  }
+ },
+ "b753bca8d4": {
+  "instruction": {
+   "zip code": "33106",
+   "type of boat": "2006 Formula Formula 31",
+   "ANSWER": "I'd like to find a 2006 Formula Formula 31 for sale near 33106 "
+  }
+ },
+ "7921abf621": {
+  "instruction": {
+   "zip code": "79605",
+   "type of boat": "Xpress XP20",
+   "ANSWER": "18995"
+  }
+ },
+ "01cdd4bf39": {
+  "instruction": {
+   "zip code": "39530",
+   "type of boat": "Boston Whaler 240 Dauntless"
+  }
+ },
+ "4022cbc1d2": {
+  "instruction": {
+   "zip code": "68901",
+   "type of boat": "Contender 24 Sport"
+  }
+ },
+ "66f98dcbd0": {
+  "instruction": {
+   "type of boat": "Barker 26 Open",
+   "zip code": "55801"
+  }
+ },
+ "788a705a23": {
+  "instruction": {
+   "type of boat": "Boston Whaler 240 Dauntless",
+   "zip code": "39530"
+  }
+ },
+ "0dc3d12bda": {
+  "instruction": {
+   "zip code": "23487",
+   "type of boat": "2006 Neptunus 56'",
+   "ANSWER": "Windsor, VA"
+  }
+ },
+ "ac5eb904f3": {
+  "instruction": {
+   "zip code": "89163",
+   "type of boat": "HUNTER 45 DECK SALON",
+   "ANSWER": "2015 Boston Whaler 150 $24,995  Las Vegas, NV"
+  }
+ },
+ "781e8ff52b": {
+  "instruction": {
+   "zip code": "[ 78643]",
+   "type of boat": "(2016 Manitou Encore 27 Standard SHP)",
+   "ANSWER": "I'd like to find a (2016 Manitou Encore 27 Standard SHP)for sale near [ 78643]"
+  }
+ },
+ "b0536c71e5": {
+  "instruction": {
+   "zip code": "29036",
+   "type of boat": "2017 SeaArk ProCat 240",
+   "ANSWER": "I'd like to find a 2017 SeaArk ProCat 240 for sale near 29036"
+  }
+ },
+ "ee3d4e33fa": {
+  "instruction": {
+   "zip code": "79605",
+   "type of boat": "Tracker Targa V-18",
+   "ANSWER": "32385"
+  }
+ },
+ "f52dbdf184": {
+  "instruction": {
+   "zip code": "11596",
+   "type of boat": "AEROYACHT 6LY",
+   "ANSWER": "http://www.boattrader.com/listing/2013-aeroyacht-6ly-95252584"
+  }
+ },
+ "a84bbf1abe": {
+  "instruction": {
+   "zip code": "63101",
+   "type of boat": "Century 2200CC"
+  }
+ },
+ "29fd8b6ff3": {
+  "instruction": {
+   "zip code": "28680",
+   "type of boat": "Skeeter ZX250"
+  }
+ },
+ "584c8e282e": {
+  "instruction": {
+   "zip code": "04736",
+   "type of boat": "Chaparral Sunesta",
+   "ANSWER": "no"
+  }
+ },
+ "0a9c60b3ce": {
+  "instruction": {
+   "zip code": "33304",
+   "type of boat": "2005 Halimar Shipyard Push Boat / Barge Combo",
+   "ANSWER": "I'd like to find a 2005 Halimar Shipyard Push Boat / Barge Combo for sale near 33304"
+  }
+ },
+ "a730fef111": {
+  "instruction": {
+   "zip code": "28557",
+   "type of boat": "Contender 28 Sport"
+  }
+ },
+ "1dafb91a1b": {
+  "instruction": {
+   "zip code": "55801",
+   "type of boat": "Barker 26 Open"
+  }
+ },
+ "43e28713d4": {
+  "instruction": {
+   "zip code": "210",
+   "type of boat": "Skeeter SX-210",
+   "ANSWER": "We found 41 listings"
+  }
+ },
+ "6f7fb84163": {
+  "instruction": {
+   "zip code": "77840",
+   "type of boat": "Catamaran (Sail)",
+   "ANSWER": "no"
+  }
+ },
+ "62aa2c519d": {
+  "instruction": {
+   "zip code": "87500",
+   "type of boat": " Mako 234 CC",
+   "ANSWER": "We found 3045 listings"
+  }
+ },
+ "9988caea4c": {
+  "instruction": {
+   "zip code": "29036",
+   "type of boat": "2016 Blue wave 2000 pure bay",
+   "ANSWER": "I'd like to find a 2016 blue wave 2000 pure bay for sale near 29036"
+  }
+ },
+ "3bbd0cc9d8": {
+  "instruction": {
+   "zip code": "06830",
+   "type of boat": "Grady-White Fisherman 257",
+   "ANSWER": "http://www.boattrader.com/listing/2016-grady---white-fisherman-257-102682943"
+  }
+ },
+ "83bf46cfc1": {
+  "instruction": {
+   "zip code": "32424",
+   "type of boat": "2017 Viking Yachts 92 Convertible",
+   "ANSWER": "Blountstown, FL"
+  }
+ },
+ "3619969615": {
+  "instruction": {
+   "zip code": "33312",
+   "type of boat": "Stephens Expedition Yacht",
+   "ANSWER": "http://www.boattrader.com/listing/1975-stephens-expedition-yacht-102588814/"
+  }
+ },
+ "48d44e6cd4": {
+  "instruction": {
+   "zip code": "79605",
+   "type of boat": "Ranger VS1780",
+   "ANSWER": "34500"
+  }
+ },
+ "4e138f03df": {
+  "instruction": {
+   "zip code": "29036",
+   "type of boat": "2017 Blue Wave 2400 Pure Bay",
+   "ANSWER": "I'd like to find a 2017 Blue Wave 2400 Pure Bay for sale near 29036"
+  }
+ },
+ "96a57708aa": {
+  "instruction": {
+   "zip code": "10001",
+   "type of boat": "Pioneer Sportfish 222"
+  }
+ },
+ "73bfdebac6": {
+  "instruction": {
+   "zip code": "29036",
+   "type of boat": "2016 Silver Wave 250 Island RL",
+   "ANSWER": "I'd like to find a 2016 Silver Wave 250 Island RL for sale near 29036"
+  }
+ },
+ "aa42412738": {
+  "instruction": {
+   "zip code": "11510",
+   "type of boat": "2007 Crownline 230 LS",
+   "ANSWER": "Baldwin, NY"
+  }
+ },
+ "8df5d217b8": {
+  "instruction": {
+   "zip code": "52806",
+   "type of boat": "LUND 1800 ALASKAN TILLER",
+   "ANSWER": "2017 Lund 1800 Alaskan Tiller Request a Price  Davenport, IA"
+  }
+ },
+ "044230fcae": {
+  "instruction": {
+   "zip code": "11946",
+   "type of boat": "Sea-Doo Sport Boats Islandia SE",
+   "ANSWER": "Hampton Bays, NY"
+  }
+ },
+ "2f71b0454a": {
+  "instruction": {
+   "zip code": "59044",
+   "type of boat": "Cobia 237CC"
+  }
+ },
+ "416cb34e8d": {
+  "instruction": {
+   "zip code": "77840",
+   "type of boat": "Four Winns SL242",
+   "ANSWER": "yes"
+  }
+ },
+ "53a2bdce8b": {
+  "instruction": {
+   "type of boat": "Cobia 237CC",
+   "zip code": "59044"
+  }
+ }
+}

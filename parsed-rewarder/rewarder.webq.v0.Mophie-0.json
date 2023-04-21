@@ -1,0 +1,1288 @@
+{
+ "5b3904a205": {
+  "instruction": {
+   "mophie product": "PRO cable | USB-A to USB-C",
+   "ANSWER": "$24.95"
+  },
+  "spans": [
+   {
+    "xpath": "//*[@id=\"product-price-847\"]/span",
+    "text": "$24.95",
+    "html": "$24.95",
+    "url": "http://www.mophie.com/search?q=pro+cable"
+   },
+   {
+    "text": "$24.95",
+    "url": "http://www.mophie.com/search?q=pro+cable%7Cusb-a+to+usb-c",
+    "xpath": "//*[@id=\"product-price-847\"]/span",
+    "html": "$24.95"
+   }
+  ]
+ },
+ "be8657ed16": {
+  "instruction": {
+   "mophie product": "how much is an InvisibleShield glass?",
+   "ANSWER": "$39.99"
+  },
+  "spans": [
+   {
+    "xpath": "//*[@id=\"product-price-688\"]/span",
+    "text": "$34.99",
+    "html": "$34.99",
+    "url": "http://www.mophie.com/search?q=invisible+shield+glass"
+   },
+   {
+    "text": "$34.99",
+    "url": "http://www.mophie.com/search?q=invisibleshield+glass",
+    "xpath": "//*[@id=\"product-price-688\"]/span",
+    "html": "$34.99"
+   }
+  ]
+ },
+ "0e7d1fb201": {
+  "instruction": {
+   "mophie product": "charge force vent mount"
+  },
+  "spans": [
+   {
+    "xpath": "//*[@id=\"product-price-710\"]/span",
+    "text": "$59.95",
+    "html": "$59.95",
+    "url": "http://www.mophie.com/search?q=charge+force+vent+mount"
+   },
+   {
+    "text": "$59.95",
+    "url": "http://www.mophie.com/search?q=charge+force+vent+mount",
+    "xpath": "//*[@id=\"product-price-708\"]/span",
+    "html": "$59.95"
+   }
+  ]
+ },
+ "8ad2da9bce": {
+  "instruction": {
+   "mophie product": "InvisibleShield\u2122 Glass+",
+   "ANSWER": "39.99"
+  },
+  "spans": [
+   {
+    "text": "$34.99",
+    "xpath": "//*[@id=\"product-price-694\"]/span",
+    "url": "http://www.mophie.com/shop/invisibleshield-glass-galaxy-s6",
+    "html": "$34.99"
+   },
+   {
+    "text": "$34.99",
+    "url": "http://www.mophie.com/search?q=invisibleshield+glass%2B",
+    "xpath": "//*[@id=\"product-price-688\"]/span",
+    "html": "$34.99"
+   }
+  ]
+ },
+ "ee51349a67": {
+  "instruction": {
+   "mophie product": "Galaxy S6 edge juice pack dock",
+   "ANSWER": "$29.95"
+  },
+  "spans": [
+   {
+    "text": "$29.95",
+    "xpath": "//*[@id=\"product-price-521\"]",
+    "url": "http://www.mophie.com/search?q=s6+juice+pack+dock",
+    "html": "$29.95"
+   },
+   {
+    "text": "$79.95",
+    "url": "http://www.mophie.com/search?q=galaxy+s6+edge+juice+pack+dock",
+    "xpath": "//*[@id=\"product-price-457\"]",
+    "html": "$79.95"
+   }
+  ]
+ },
+ "c8fb937fed": {
+  "instruction": {
+   "mophie product": "Powerstation XL",
+   "ANSWER": "$69.95"
+  },
+  "spans": [
+   {
+    "text": "$129.95",
+    "xpath": "//*[@id=\"product-price-237\"]/span",
+    "url": "http://www.mophie.com/search?q=powerstation+XL",
+    "html": "$129.95"
+   },
+   {
+    "text": "$69.95",
+    "url": "http://www.mophie.com/search?q=powerstation+xl",
+    "xpath": "//*[@id=\"product-price-779\"]/span",
+    "html": "$69.95"
+   }
+  ]
+ },
+ "52aade1c97": {
+  "instruction": {
+   "mophie product": "Juice Pack Air iPhone7",
+   "ANSWER": "$99.95"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "xpath": "//*[@id=\"product-price-863\"]/span",
+    "url": "http://www.mophie.com/search?q=juice+pack+air+iphone+7",
+    "html": "$99.95"
+   },
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/search?q=juice+pack+air+iphone7",
+    "xpath": "//*[@id=\"product-price-869\"]/span",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "ae18f28a25": {
+  "instruction": {
+   "mophie product": "InvisibleShield Glass",
+   "ANSWER": "34.99"
+  },
+  "spans": [
+   {
+    "url": "http://www.mophie.com/search?q=invisibleShield+Glass",
+    "html": "$34.99",
+    "xpath": "//*[@id=\"product-price-688\"]/span",
+    "text": "$34.99"
+   }
+  ]
+ },
+ "e098e343fa": {
+  "instruction": {
+   "mophie product": "powerstation XXL"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "xpath": "//*[@id=\"product-price-780\"]/span",
+    "url": "http://www.mophie.com/search?q=powerstation+xxl",
+    "html": "$99.95"
+   },
+   {
+    "text": "$129.95",
+    "url": "http://www.mophie.com/search?q=powerstation+xxl",
+    "xpath": "//*[@id=\"product-price-237\"]/span",
+    "html": "$129.95"
+   }
+  ]
+ },
+ "3801ce9f76": {
+  "instruction": {
+   "mophie product": "juice pack car dock",
+   "ANSWER": "$29.95"
+  },
+  "spans": [
+   {
+    "text": "$29.95",
+    "xpath": "//*[@id=\"product-price-367\"]",
+    "url": "http://www.mophie.com/search?q=juice+pack+car+dock",
+    "html": "$29.95"
+   },
+   {
+    "text": "$29.95",
+    "url": "http://www.mophie.com/search?q=juice+pack+car+dock",
+    "xpath": "//*[@id=\"product-price-367\"]",
+    "html": "$29.95"
+   }
+  ]
+ },
+ "1b62c669a6": {
+  "instruction": {
+   "mophie product": "charge force wireless charging base",
+   "ANSWER": "$39.95"
+  },
+  "spans": [
+   {
+    "text": "$39.95",
+    "xpath": "//*[@id=\"product-price-712\"]/span",
+    "url": "http://www.mophie.com/search?q=charge+force+wireless+charging+base",
+    "html": "$39.95"
+   },
+   {
+    "text": "$39.95",
+    "url": "http://www.mophie.com/search?q=charge+force+wireless+charging+base",
+    "xpath": "//*[@id=\"product-price-712\"]/span",
+    "html": "$39.95"
+   }
+  ]
+ },
+ "7d97846301": {
+  "instruction": {
+   "mophie product": "Premium Flat Cable",
+   "ANSWER": "$19.95"
+  },
+  "spans": [
+   {
+    "url": "http://www.mophie.com/search?q=premium+flat+cable",
+    "html": "$19.95",
+    "xpath": "//*[@id=\"product-price-450\"]/span",
+    "text": "$19.95"
+   },
+   {
+    "url": "http://www.mophie.com/search?q=premium+flat+cable",
+    "html": "$19.95",
+    "xpath": "//*[@id=\"product-price-450\"]/span",
+    "text": "$19.95"
+   }
+  ]
+ },
+ "5dc2dd40fb": {
+  "instruction": {
+   "mophie product": "PRO cable | USB-C to USB-C",
+   "ANSWER": "$29.95"
+  },
+  "spans": [
+   {
+    "text": "$29.95",
+    "url": "http://www.mophie.com/search?q=pro+cable+usb-c+to+usb-c",
+    "xpath": "//*[@id=\"product-price-850\"]/span",
+    "html": "$29.95"
+   }
+  ]
+ },
+ "f24b2f01bd": {
+  "instruction": {
+   "mophie product": "powerstation 1X",
+   "ANSWER": "$24.95"
+  },
+  "spans": [
+   {
+    "text": "$24.95",
+    "url": "http://www.mophie.com/search?q=powerstation+1x",
+    "xpath": "//*[@id=\"product-price-643\"]",
+    "html": "$24.95"
+   }
+  ]
+ },
+ "877d62d0e4": {
+  "instruction": {
+   "mophie product": "powerstand",
+   "ANSWER": "$49.95"
+  },
+  "spans": [
+   {
+    "text": "powerstand",
+    "url": "http://www.mophie.com/search?q=powerstand",
+    "xpath": "//*[@id=\"the-169\"]/h4/a",
+    "html": "powerstand"
+   }
+  ]
+ },
+ "af09363653": {
+  "instruction": {
+   "mophie product": "PRO switch-tip cable | USB-A to USB-C & micro-USB",
+   "ANSWER": "$29.95"
+  },
+  "spans": [
+   {
+    "text": "$29.95",
+    "url": "http://www.mophie.com/shop/pro-cable-switch-tip-usb-c-usb-a",
+    "xpath": "//*[@id=\"product-price-855\"]/span",
+    "html": "$29.95"
+   }
+  ]
+ },
+ "9b968e2320": {
+  "instruction": {
+   "mophie product": "Juice Pack Air",
+   "ANSWER": "$99.95"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/shop/battery-cases",
+    "xpath": "//*[@id=\"product-price-863\"]/span",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "c6fb00a4de": {
+  "instruction": {
+   "mophie product": "Powerstation 8X",
+   "ANSWER": "$149.95"
+  },
+  "spans": [
+   {
+    "text": "$149.95",
+    "url": "http://www.mophie.com/shop/powerstation-8X",
+    "xpath": "//*[@id=\"product-price-636\"]/span",
+    "html": "$149.95"
+   }
+  ]
+ },
+ "4efe88cbfb": {
+  "instruction": {
+   "mophie product": "powerstation mini"
+  },
+  "spans": [
+   {
+    "text": "$29.95",
+    "url": "http://www.mophie.com/search?q=powerstation+mini",
+    "xpath": "//*[@id=\"product-price-771\"]/span",
+    "html": "$29.95"
+   }
+  ]
+ },
+ "de2ec3c6f5": {
+  "instruction": {
+   "mophie product": "how much is a watch dock?",
+   "ANSWER": "$59.95"
+  },
+  "spans": [
+   {
+    "text": "$59.95",
+    "url": "http://www.mophie.com/search?q=watch+dock",
+    "xpath": "//*[@id=\"product-price-505\"]/span",
+    "html": "$59.95"
+   }
+  ]
+ },
+ "c0921ab40b": {
+  "instruction": {
+   "mophie product": "hip holster",
+   "ANSWER": "$39.95"
+  },
+  "spans": [
+   {
+    "text": "",
+    "url": "http://www.mophie.com/search?q=hip+holster",
+    "xpath": "//*[@id=\"the-134\"]/div",
+    "html": ""
+   }
+  ]
+ },
+ "507482e8ed": {
+  "instruction": {
+   "mophie product": "juice pack ultra"
+  },
+  "spans": [
+   {
+    "text": "$119.95",
+    "url": "http://www.mophie.com/search?q=juice+pack+ultra",
+    "xpath": "//*[@id=\"product-price-471\"]",
+    "html": "$119.95"
+   }
+  ]
+ },
+ "d86156ce00": {
+  "instruction": {
+   "mophie product": "15W USB wall charger",
+   "ANSWER": "$24.95"
+  },
+  "spans": [
+   {
+    "text": "$24.95",
+    "url": "http://www.mophie.com/search?q=15w+usb+wall+charger",
+    "xpath": "//*[@id=\"product-price-540\"]/span",
+    "html": "$24.95"
+   }
+  ]
+ },
+ "02d7f99f15": {
+  "instruction": {
+   "mophie product": "juice pack air",
+   "ANSWER": "99.95"
+  }
+ },
+ "069ee93fc1": {
+  "instruction": {
+   "mophie product": "belt clip for juice pack H2PRO",
+   "ANSWER": "$29.95"
+  },
+  "spans": [
+   {
+    "text": "$34.95",
+    "url": "http://www.mophie.com/search?q=belt+clip+juice+pack+h2pro",
+    "xpath": "//*[@id=\"product-price-631\"]/span",
+    "html": "$34.95"
+   }
+  ]
+ },
+ "364cf5e980": {
+  "instruction": {
+   "mophie product": "space pack"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/shop/iphone-5/space-pack-iphone-5s",
+    "xpath": "//*[@id=\"product-price-266\"]",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "208339f657": {
+  "instruction": {
+   "mophie product": "juice pack headphone adapter",
+   "ANSWER": "$9.95"
+  },
+  "spans": [
+   {
+    "text": "$9.95",
+    "url": "http://www.mophie.com/search?q=juice+pack+headphone+adapter",
+    "xpath": "//*[@id=\"product-price-658\"]/span",
+    "html": "$9.95"
+   }
+  ]
+ },
+ "a085d7b86e": {
+  "instruction": {
+   "mophie product": "power capsule",
+   "ANSWER": "$39.95"
+  },
+  "spans": [
+   {
+    "text": "$39.95",
+    "url": "http://www.mophie.com/search?q=power+capsule",
+    "xpath": "//*[@id=\"product-price-798\"]/span",
+    "html": "$39.95"
+   }
+  ]
+ },
+ "8815c14d65": {
+  "instruction": {
+   "mophie product": "InvisibleShield\u2122 Glass+",
+   "ANSWER": "$39.99"
+  },
+  "spans": [
+   {
+    "text": "$34.99",
+    "url": "http://www.mophie.com/shop/invisibleshield-glass-galaxy-s6",
+    "xpath": "//*[@id=\"product-price-694\"]/span",
+    "html": "$34.99"
+   }
+  ]
+ },
+ "1cf955c517": {
+  "instruction": {
+   "mophie product": "charge force vent mount",
+   "ANSWER": "59.95"
+  }
+ },
+ "bcaab599d2": {
+  "instruction": {
+   "mophie product": "base case",
+   "ANSWER": "$39.95"
+  },
+  "spans": [
+   {
+    "text": "$39.95",
+    "url": "http://www.mophie.com/shop/base-case-iphone-7-plus",
+    "xpath": "//*[@id=\"product-price-811\"]/span",
+    "html": "$39.95"
+   }
+  ]
+ },
+ "c0b6503e75": {
+  "instruction": {
+   "mophie product": "powerstation XL"
+  },
+  "spans": [
+   {
+    "text": "$129.95",
+    "url": "http://www.mophie.com/search?q=powerstation+xl",
+    "xpath": "//*[@id=\"product-price-237\"]/span",
+    "html": "$129.95"
+   }
+  ]
+ },
+ "673de2bc8d": {
+  "instruction": {
+   "mophie product": "juice pack air"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/shop/battery-cases",
+    "xpath": "//*[@id=\"product-price-863\"]/span",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "82aef6f334": {
+  "instruction": {
+   "mophie product": "iPhone 6s Plus/6 Plus juice pack wireless & charging base",
+   "ANSWER": "$99.95"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/search?q=iphone+6s+plus+%2F+6+plus+juice+pack+wireless+%26+charging+base",
+    "xpath": "//*[@id=\"product-price-706\"]",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "e88e36643f": {
+  "instruction": {
+   "mophie product": "hip holster 7000 series",
+   "ANSWER": "$9.95"
+  },
+  "spans": [
+   {
+    "text": "",
+    "url": "http://www.mophie.com/search?q=hip+holster+7000+series",
+    "xpath": "//*[@id=\"the-134\"]/a/img",
+    "html": ""
+   }
+  ]
+ },
+ "ed51aa6b11": {
+  "instruction": {
+   "mophie product": "how much is a powerstand?",
+   "ANSWER": "$49.95"
+  },
+  "spans": [
+   {
+    "text": "$49.95",
+    "url": "http://www.mophie.com/shop/powerstand-ipad-30-pin-connector",
+    "xpath": "//*[@id=\"product-price-169\"]",
+    "html": "$49.95"
+   }
+  ]
+ },
+ "4ecd86425b": {
+  "instruction": {
+   "mophie product": "iPhone 6s Plus/6 Plus juice pack dock",
+   "ANSWER": "$34.95"
+  },
+  "spans": [
+   {
+    "text": "$79.95",
+    "url": "http://www.mophie.com/shop/juice-pack-iphone-6-plus",
+    "xpath": "//*[@id=\"product-price-415\"]",
+    "html": "$79.95"
+   }
+  ]
+ },
+ "e4f8b4d2ea": {
+  "instruction": {
+   "mophie product": "powerstation plus XL - Chinese New Year Edition",
+   "ANSWER": "$99.95"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/search?q=powerstation+plus+xl+-+chinese+new+year+edition",
+    "xpath": "//*[@id=\"product-price-884\"]/span",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "73295dc5cb": {
+  "instruction": {
+   "mophie product": "watch dock",
+   "ANSWER": "$59.95"
+  },
+  "spans": [
+   {
+    "text": "$59.95",
+    "url": "http://www.mophie.com/shop/apple-watch-dock",
+    "xpath": "//*[@id=\"product-price-505\"]/span",
+    "html": "$59.95"
+   }
+  ]
+ },
+ "0e3659ed0a": {
+  "instruction": {
+   "mophie product": "Juice Pack Galaxy S6",
+   "ANSWER": "$75.95"
+  },
+  "spans": [
+   {
+    "text": "$79.95",
+    "url": "http://www.mophie.com/search?q=juice+pack+galaxy+s6",
+    "xpath": "//*[@id=\"product-price-457\"]",
+    "html": "$79.95"
+   }
+  ]
+ },
+ "a8a15c1de2": {
+  "instruction": {
+   "mophie product": "iPhone 6s Plus/6 Plus juice pack H2PRO",
+   "ANSWER": "$99.95"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/search?q=iphone+6s%2F6+plus+juice+pack+h2pro",
+    "xpath": "//*[@id=\"product-price-515\"]",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "538ee4a7bf": {
+  "instruction": {
+   "mophie product": "juice pack dock",
+   "ANSWER": "34.95"
+  }
+ },
+ "6a036764a2": {
+  "instruction": {
+   "mophie product": "Universal belt clip",
+   "ANSWER": "$34.95"
+  },
+  "spans": [
+   {
+    "text": "$34.95",
+    "url": "http://www.mophie.com/search?q=universal+belt+clip",
+    "xpath": "//*[@id=\"product-price-631\"]/span",
+    "html": "$34.95"
+   }
+  ]
+ },
+ "f83574382c": {
+  "instruction": {
+   "mophie product": "charge force vent mount",
+   "ANSWER": "$59.95"
+  },
+  "spans": [
+   {
+    "text": "$59.95",
+    "url": "http://www.mophie.com/search?q=charge+force+vent+mount",
+    "xpath": "//*[@id=\"product-price-710\"]/span",
+    "html": "$59.95"
+   }
+  ]
+ },
+ "1ed41d75a2": {
+  "instruction": {
+   "mophie product": "hip holster 8000 series",
+   "ANSWER": "$9.95"
+  },
+  "spans": [
+   {
+    "text": "$9.95",
+    "url": "http://www.mophie.com/shop/hip-holster-8000-made-for-juice-pack",
+    "xpath": "//*[@id=\"product-price-146\"]",
+    "html": "$9.95"
+   }
+  ]
+ },
+ "d5d53255cb": {
+  "instruction": {
+   "mophie product": "Juice Pack Galaxy S5",
+   "ANSWER": "$29.95"
+  },
+  "spans": [
+   {
+    "text": "",
+    "url": "http://www.mophie.com/search?q=juice+pack+galaxy+s5",
+    "xpath": "//*[@id=\"the-156\"]/div",
+    "html": ""
+   }
+  ]
+ },
+ "d8cf3d2a0c": {
+  "instruction": {
+   "mophie product": "powerstation plus mini",
+   "ANSWER": "$69.95"
+  },
+  "spans": [
+   {
+    "text": "$59.95",
+    "url": "http://www.mophie.com/search?q=powerstation+plus+mini",
+    "xpath": "//*[@id=\"product-price-783\"]/span",
+    "html": "$59.95"
+   }
+  ]
+ },
+ "70e327497b": {
+  "instruction": {
+   "mophie product": "iPhone 6s Plus/6 juice pack",
+   "ANSWER": "$79.95"
+  },
+  "spans": [
+   {
+    "text": "$79.95",
+    "url": "http://www.mophie.com/search?q=iphone+6s+plus%2F6+juice+pack",
+    "xpath": "//*[@id=\"product-price-415\"]",
+    "html": "$79.95"
+   }
+  ]
+ },
+ "57a00c4daf": {
+  "instruction": {
+   "mophie product": "Juice Pack Galaxy S7 Edge",
+   "ANSWER": "$99.95"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/search?q=juice+pack+galaxy+s7+edge",
+    "xpath": "//*[@id=\"product-price-678\"]/span",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "5b3bb55feb": {
+  "instruction": {
+   "mophie product": "USB Travel Kit",
+   "ANSWER": "$44.95"
+  },
+  "spans": [
+   {
+    "text": "$44.95",
+    "url": "http://www.mophie.com/search?q=usb+travel+kit",
+    "xpath": "//*[@id=\"product-price-285\"]/span",
+    "html": "$44.95"
+   }
+  ]
+ },
+ "e6d0e3c889": {
+  "instruction": {
+   "mophie product": "iPhone 6s Plus/6 Plus space pack ",
+   "ANSWER": "$159.95"
+  },
+  "spans": [
+   {
+    "text": "$159.95",
+    "url": "http://www.mophie.com/search?q=iphone+6s+plus%2F6+plus+space+pack",
+    "xpath": "//*[@id=\"product-price-490\"]",
+    "html": "$159.95"
+   }
+  ]
+ },
+ "4616958a9a": {
+  "instruction": {
+   "mophie product": "powerstation plus 8X",
+   "ANSWER": "$99.95"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/search?q=powerstation+plus+8x",
+    "xpath": "//*[@id=\"product-price-646\"]",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "ece0b5d1be": {
+  "instruction": {
+   "mophie product": "how much is a hip holster?",
+   "ANSWER": "$39.95"
+  },
+  "spans": [
+   {
+    "text": "",
+    "url": "http://www.mophie.com/search?q=hip+holster",
+    "xpath": "//*[@id=\"the-134\"]/div",
+    "html": ""
+   }
+  ]
+ },
+ "06eafe2ad8": {
+  "instruction": {
+   "mophie product": "Juice Pack Wireless and Charging Base  iPhone 6s/6",
+   "ANSWER": "$79.95"
+  },
+  "spans": [
+   {
+    "text": "$79.95",
+    "url": "http://www.mophie.com/search?q=juice+pack+wireless+and+charging+base+iphone+6s%2F6",
+    "xpath": "//*[@id=\"product-price-704\"]",
+    "html": "$79.95"
+   }
+  ]
+ },
+ "7e9e508898": {
+  "instruction": {
+   "mophie product": "power reserve 1X",
+   "ANSWER": "$29.95"
+  },
+  "spans": [
+   {
+    "text": "",
+    "url": "http://www.mophie.com/search?q=power+reserve+1x",
+    "xpath": "//*[@id=\"the-620\"]/div",
+    "html": ""
+   }
+  ]
+ },
+ "22c691ddd1": {
+  "instruction": {
+   "mophie product": "powerstand",
+   "ANSWER": "49.95"
+  }
+ },
+ "3c53838f34": {
+  "instruction": {
+   "mophie product": "Galaxy S6 edge juice pack",
+   "ANSWER": "$79.95"
+  },
+  "spans": [
+   {
+    "text": "$79.95",
+    "url": "http://www.mophie.com/search?q=galaxy+s6+edge+juice+pack",
+    "xpath": "//*[@id=\"product-price-477\"]",
+    "html": "$79.95"
+   }
+  ]
+ },
+ "6afdb458a9": {
+  "instruction": {
+   "mophie product": "watch dock",
+   "ANSWER": "59.95"
+  }
+ },
+ "3e3fb4750d": {
+  "instruction": {
+   "mophie product": "powerstation plus",
+   "ANSWER": "$79.95"
+  },
+  "spans": [
+   {
+    "text": "$79.95",
+    "url": "http://www.mophie.com/search?q=powerstation+plus",
+    "xpath": "//*[@id=\"product-price-787\"]/span",
+    "html": "$79.95"
+   }
+  ]
+ },
+ "4d6056a516": {
+  "instruction": {
+   "mophie product": "PRO cable USB-A to Lightning",
+   "ANSWER": "$24.95"
+  },
+  "spans": [
+   {
+    "text": "$24.95",
+    "url": "http://www.mophie.com/search?q=pro+cable+usb-a+to+lightning",
+    "xpath": "//*[@id=\"product-price-843\"]/span",
+    "html": "$24.95"
+   }
+  ]
+ },
+ "4f56a539e6": {
+  "instruction": {
+   "mophie product": "how much is a USB-c to USB-a cable?",
+   "ANSWER": "$9.95"
+  },
+  "spans": [
+   {
+    "text": "$9.95",
+    "url": "http://www.mophie.com/search?q=usb-c+to+usb-a+cable",
+    "xpath": "//*[@id=\"product-price-859\"]/span",
+    "html": "$9.95"
+   }
+  ]
+ },
+ "f289a7e7e6": {
+  "instruction": {
+   "mophie product": "powerstation mini",
+   "ANSWER": "$29.95"
+  },
+  "spans": [
+   {
+    "text": "$29.95",
+    "url": "http://www.mophie.com/search?q=powerstation+mini",
+    "xpath": "//*[@id=\"product-price-771\"]/span",
+    "html": "$29.95"
+   }
+  ]
+ },
+ "f192958eb8": {
+  "instruction": {
+   "mophie product": "how much is a juice pack air for iPhone 7?",
+   "ANSWER": "$99.95"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/search?q=juice+pack+air+iphone+7",
+    "xpath": "//*[@id=\"product-price-863\"]/span",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "aed5697d24": {
+  "instruction": {
+   "mophie product": "dual USB wall charger",
+   "ANSWER": "$44.95"
+  },
+  "spans": [
+   {
+    "text": "$39.95",
+    "url": "http://www.mophie.com/search?q=dual+usb+wall+charger",
+    "xpath": "//*[@id=\"product-price-454\"]/span",
+    "html": "$39.95"
+   }
+  ]
+ },
+ "b08e2653fa": {
+  "instruction": {
+   "mophie product": "charge force desk mount"
+  },
+  "spans": [
+   {
+    "text": "$59.95",
+    "url": "http://www.mophie.com/search?q=charge+force+desk+mount",
+    "xpath": "//*[@id=\"product-price-708\"]/span",
+    "html": "$59.95"
+   }
+  ]
+ },
+ "b03da8f086": {
+  "instruction": {
+   "mophie product": "Charge force wireless charging base",
+   "ANSWER": "$39.95"
+  },
+  "spans": [
+   {
+    "text": "$39.95",
+    "url": "http://www.mophie.com/search?q=charge+force+wireless+charging+base",
+    "xpath": "//*[@id=\"product-price-712\"]/span",
+    "html": "$39.95"
+   }
+  ]
+ },
+ "c8c678845c": {
+  "instruction": {
+   "mophie product": "universal belt clip",
+   "ANSWER": "$34.95"
+  },
+  "spans": [
+   {
+    "text": "$34.95",
+    "url": "http://www.mophie.com/search?q=universal+belt+clip",
+    "xpath": "//*[@id=\"product-price-631\"]/span",
+    "html": "$34.95"
+   }
+  ]
+ },
+ "20fca4f169": {
+  "instruction": {
+   "mophie product": "how much is a hold force wallet?",
+   "ANSWER": "$19.95"
+  },
+  "spans": [
+   {
+    "text": "$19.95",
+    "url": "http://www.mophie.com/search?q=hold+force+wallet",
+    "xpath": "//*[@id=\"product-price-830\"]/span",
+    "html": "$19.95"
+   }
+  ]
+ },
+ "08001b1d91": {
+  "instruction": {
+   "mophie product": "how much is a universal belt clip?",
+   "ANSWER": "$34.95"
+  },
+  "spans": [
+   {
+    "text": "",
+    "url": "http://www.mophie.com/",
+    "xpath": "//*[@id=\"the-website\"]/header/nav/div/ul[2]/li[2]/a/i",
+    "html": ""
+   }
+  ]
+ },
+ "664082d09b": {
+  "instruction": {
+   "mophie product": "juice pack air",
+   "ANSWER": "$99.95"
+  },
+  "spans": [
+   {
+    "text": "$59.95",
+    "url": "http://www.mophie.com/search?q=price+of+juice+pack+air%3F",
+    "xpath": "//*[@id=\"product-price-156\"]",
+    "html": "$59.95"
+   }
+  ]
+ },
+ "767d5b217b": {
+  "instruction": {
+   "mophie product": "Charge force vent mount",
+   "ANSWER": "$59.95"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/search?q=charge+force+vent+mount",
+    "xpath": "//*[@id=\"product-price-794\"]/span",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "203c8fb495": {
+  "instruction": {
+   "mophie product": "Charge force desk mount",
+   "ANSWER": "$59.95"
+  },
+  "spans": [
+   {
+    "text": "$59.95",
+    "url": "http://www.mophie.com/search?q=charge+force+desk+mount",
+    "xpath": "//*[@id=\"product-price-708\"]/span",
+    "html": "$59.95"
+   }
+  ]
+ },
+ "4878d18f09": {
+  "instruction": {
+   "mophie product": "powerstation XL",
+   "ANSWER": "$69.95"
+  },
+  "spans": [
+   {
+    "text": "$69.95",
+    "url": "http://www.mophie.com/search?q=power+station+xl",
+    "xpath": "//*[@id=\"product-price-779\"]/span",
+    "html": "$69.95"
+   }
+  ]
+ },
+ "96076e1154": {
+  "instruction": {
+   "mophie product": "Desktop dock",
+   "ANSWER": "$59.95"
+  },
+  "spans": [
+   {
+    "text": "$59.95",
+    "url": "http://www.mophie.com/search?q=desktop+dock",
+    "xpath": "//*[@id=\"product-price-356\"]",
+    "html": "$59.95"
+   }
+  ]
+ },
+ "ce490c75f5": {
+  "instruction": {
+   "mophie product": "Invisible Shield Glass+",
+   "ANSWER": "$39.99"
+  },
+  "spans": [
+   {
+    "text": "$34.99",
+    "url": "http://www.mophie.com/search?q=invisible+shield+glass%2B",
+    "xpath": "//*[@id=\"product-price-688\"]/span",
+    "html": "$34.99"
+   }
+  ]
+ },
+ "1cafaf1862": {
+  "instruction": {
+   "mophie product": "powerstation XXL",
+   "ANSWER": "$99.95"
+  },
+  "spans": [
+   {
+    "text": "$129.95",
+    "url": "http://www.mophie.com/search?q=powerstation+xxl",
+    "xpath": "//*[@id=\"product-price-237\"]/span",
+    "html": "$129.95"
+   }
+  ]
+ },
+ "efab35b7f8": {
+  "instruction": {
+   "mophie product": "USB Wall Charger",
+   "ANSWER": "$24.95"
+  },
+  "spans": [
+   {
+    "text": "$59.95",
+    "url": "http://www.mophie.com/shop/desktop-dock-iphone-5s-5c-5",
+    "xpath": "//*[@id=\"product-price-356\"]",
+    "html": "$59.95"
+   }
+  ]
+ },
+ "b495a3b7da": {
+  "instruction": {
+   "mophie product": "charge force desk mount",
+   "ANSWER": "59.95"
+  }
+ },
+ "b54e7a13f7": {
+  "instruction": {
+   "mophie product": "Juice Pack Reserve iPhone 6s/6",
+   "ANSWER": "$54.95"
+  },
+  "spans": [
+   {
+    "text": "$54.95",
+    "url": "http://www.mophie.com/search?q=juice+pack+reserve+iphone+6s%2F6",
+    "xpath": "//*[@id=\"product-price-622\"]",
+    "html": "$54.95"
+   }
+  ]
+ },
+ "5371d623bd": {
+  "instruction": {
+   "mophie product": "charge force powerstation",
+   "ANSWER": "$99.95"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/search?q=charge+force+powerstation",
+    "xpath": "//*[@id=\"product-price-794\"]/span",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "b9bd1545bd": {
+  "instruction": {
+   "mophie product": "powerstation "
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/shop/universal-batteries",
+    "xpath": "//*[@id=\"product-price-791\"]/span",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "fa6bc49407": {
+  "instruction": {
+   "mophie product": "coiled car charger",
+   "ANSWER": "$29.95"
+  },
+  "spans": [
+   {
+    "text": "$29.95",
+    "url": "http://www.mophie.com/search?q=coiled+car+charger",
+    "xpath": "//*[@id=\"product-price-836\"]/span",
+    "html": "$29.95"
+   }
+  ]
+ },
+ "8008a26f7d": {
+  "instruction": {
+   "mophie product": "Universal belt clip",
+   "ANSWER": "34.95"
+  }
+ },
+ "b82d265854": {
+  "instruction": {
+   "mophie product": "memory-flex USB Cable",
+   "ANSWER": "$24.95"
+  },
+  "spans": [
+   {
+    "text": "$24.95",
+    "url": "http://www.mophie.com/search?q=memory-flex+usb+cable",
+    "xpath": "//*[@id=\"product-price-281\"]/span",
+    "html": "$24.95"
+   }
+  ]
+ },
+ "2aa76563f5": {
+  "instruction": {
+   "mophie product": "Powerstation plus",
+   "ANSWER": "$79.95"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/search?q=powerstation+plus",
+    "xpath": "//*[@id=\"product-price-646\"]",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "e37f68157a": {
+  "instruction": {
+   "mophie product": "Charge Force Powerstaion",
+   "ANSWER": "$99.95"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/search?q=charge+force+powerstation",
+    "xpath": "//*[@id=\"product-price-794\"]/span",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "e74312c57e": {
+  "instruction": {
+   "mophie product": "hip holster",
+   "ANSWER": "39.95"
+  }
+ },
+ "3228c52d23": {
+  "instruction": {
+   "mophie product": "base case",
+   "ANSWER": "39.95"
+  }
+ },
+ "b72dee1d13": {
+  "instruction": {
+   "mophie product": "PRO cable | USB-A to Lightning",
+   "ANSWER": "$24.95"
+  },
+  "spans": [
+   {
+    "text": "$24.95",
+    "url": "http://www.mophie.com/shop/pro-cable-usb-a-lightning",
+    "xpath": "//*[@id=\"product-price-843\"]/span",
+    "html": "$24.95"
+   }
+  ]
+ },
+ "86696aff76": {
+  "instruction": {
+   "mophie product": "how much is a base case for iPhone 7?",
+   "ANSWER": "$39.95"
+  },
+  "spans": [
+   {
+    "text": "$39.95",
+    "url": "http://www.mophie.com/search?q=base+case+for+iphone7",
+    "xpath": "//*[@id=\"product-price-501\"]/span",
+    "html": "$39.95"
+   }
+  ]
+ },
+ "61f1cf04ff": {
+  "instruction": {
+   "mophie product": "juice pack reserve"
+  },
+  "spans": [
+   {
+    "text": "$54.95",
+    "url": "http://www.mophie.com/shop/juice-pack-reserve-iphone-6",
+    "xpath": "//*[@id=\"product-price-622\"]",
+    "html": "$54.95"
+   }
+  ]
+ },
+ "b5706d31d6": {
+  "instruction": {
+   "mophie product": "Powerstation Plus XL",
+   "ANSWER": "$99.95"
+  },
+  "spans": [
+   {
+    "text": "$99.95",
+    "url": "http://www.mophie.com/search?q=powerstation+plus+xl",
+    "xpath": "//*[@id=\"product-price-791\"]/span",
+    "html": "$99.95"
+   }
+  ]
+ },
+ "92c4a36ded": {
+  "instruction": {
+   "mophie product": "how much is a 15W universal wall charger?",
+   "ANSWER": "$24.95"
+  },
+  "spans": [
+   {
+    "text": "$39.95",
+    "url": "http://www.mophie.com/search?q=15w+universal+wall+charger",
+    "xpath": "//*[@id=\"product-price-454\"]/span",
+    "html": "$39.95"
+   }
+  ]
+ }
+}

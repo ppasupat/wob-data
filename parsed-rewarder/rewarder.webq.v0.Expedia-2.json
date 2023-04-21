@@ -1,0 +1,82 @@
+{
+ "701107427f": {
+  "instruction": {
+   "beginning destination": "Los Angeles",
+   "end destination": "Amsterdam",
+   "leaving date": "September 2",
+   "return date": "September 9"
+  }
+ },
+ "374821e909": {
+  "instruction": {
+   "beginning destination": "Dubai",
+   "end destination": "Chicago",
+   "leaving date": "July 10",
+   "return date": "July 22"
+  }
+ },
+ "99e70a5689": {
+  "instruction": {
+   "beginning destination": "Toronto",
+   "end destination": "New York",
+   "leaving date": "March 1",
+   "return date": "March 14"
+  }
+ },
+ "fe0c20e0d9": {
+  "instruction": {
+   "beginning destination": "Chicago",
+   "end destination": "New York",
+   "leaving date": "January 4",
+   "return date": "January 8"
+  }
+ },
+ "44f6a54c07": {
+  "instruction": {
+   "beginning destination": "Los Angeles",
+   "end destination": "Narita",
+   "leaving date": "February 15",
+   "return date": "February 25"
+  }
+ },
+ "ff216b9248": {
+  "instruction": {
+   "beginning destination": "Los Angeles",
+   "end destination": "Seattle",
+   "leaving date": "June 3",
+   "return date": "June 20"
+  }
+ },
+ "2d9d37f29a": {
+  "instruction": {
+   "beginning destination": "Los Angeles",
+   "end destination": "Cancun",
+   "leaving date": "September 23",
+   "return date": "September29"
+  }
+ },
+ "88df17379c": {
+  "instruction": {
+   "beginning destination": "Los Angeles",
+   "end destination": "Toronto",
+   "leaving date": "July 2",
+   "return date": "July 12"
+  }
+ },
+ "05e432a01f": {
+  "instruction": {
+   "beginning destination": "New York",
+   "end destination": "Tampa",
+   "leaving date": "April 2",
+   "return date": "May 4"
+  }
+ },
+ "ee7f613bd1": {
+  "instruction": {
+   "beginning destination": "Hawaii",
+   "end destination": "Tampa",
+   "leaving date": "May 2",
+   "return date": "May 10"
+  }
+ }
+}

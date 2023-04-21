@@ -1,0 +1,1162 @@
+{
+ "86b2a7ac99": {
+  "instruction": {
+   "Mexican food": "Los Dos Portrillos",
+   "Littleton, CO": "Littleton, CO"
+  }
+ },
+ "b049470838": {
+  "instruction": {
+   "type of food": "Southern",
+   "ANSWER": "The Farm House",
+   "geographic location": "Nashville, TN"
+  }
+ },
+ "739ca485f9": {
+  "instruction": {
+   "Mexican food": "Chile relleno",
+   "Littleton, CO": "Littleton, CO 80120",
+   "ANSWER": "La Guatemalteca, 1500 W Littleton Blvd Littleton, CO 80120 Phone number (720) 550-7108"
+  }
+ },
+ "7ad865299f": {
+  "instruction": {
+   "type of food": "Burgers",
+   "ANSWER": "Diablo Burger",
+   "geographic location": "Flagstaff, AZ"
+  }
+ },
+ "27db904370": {
+  "instruction": {
+   "type of food": "Firepie ",
+   "ANSWER": "firepie.com",
+   "geographic location": "San Francisco, CA 94110"
+  }
+ },
+ "3ae99553af": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Summer Buffalo",
+   "geographic location": "Burbank, California"
+  }
+ },
+ "c7823a35ef": {
+  "instruction": {
+   "type of food": "BBQ",
+   "ANSWER": "Franklin Barbecue",
+   "geographic location": "Austin, TX"
+  }
+ },
+ "8a0248de6f": {
+  "instruction": {
+   "Mexican food": "Los Dos Portrillos",
+   "Littleton, CO": "Littleton, CO 80127"
+  }
+ },
+ "651ff1cdd4": {
+  "instruction": {
+   "type of food": "French",
+   "ANSWER": "French Hen",
+   "geographic location": "Tulsa, OK"
+  }
+ },
+ "47fafb49d9": {
+  "instruction": {
+   "Mexican food": "Huevos divorciados",
+   "Littleton, CO": "Littleton, CO 80127",
+   "ANSWER": "Los Dos Portrillos, 10065 W San Juan Way Littleton, CO 80127 Phone number (303) 948-1552"
+  }
+ },
+ "d9e42214c1": {
+  "instruction": {
+   "type of food": "Soul Food",
+   "ANSWER": "Kitchen 713",
+   "geographic location": "Houston, TX"
+  }
+ },
+ "e7b4f1f7a1": {
+  "instruction": {
+   "Mexican food": "Gourmet burger",
+   "Littleton, CO": "Highlands Ranch, CO 80129",
+   "ANSWER": " Crave Real Burgers"
+  }
+ },
+ "0769296eff": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Mondo\u2019s Ristorante Italiano",
+   "geographic location": "Tulsa, OK"
+  }
+ },
+ "ae71c335ef": {
+  "instruction": {
+   "type of food": "German",
+   "ANSWER": "Wirtshaus",
+   "geographic location": "Los Angeles, CA"
+  }
+ },
+ "3586514e21": {
+  "instruction": {
+   "type of food": "Tacos",
+   "ANSWER": "CRUjiente Tacos",
+   "geographic location": "Phoenix, AZ"
+  }
+ },
+ "fe77dccee0": {
+  "instruction": {
+   "type of food": "Spanish",
+   "ANSWER": "Costa Brava",
+   "geographic location": "San Diego, CA"
+  }
+ },
+ "651a150c85": {
+  "instruction": {
+   "Mexican food": "(Seafood)",
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Grillfish"
+  }
+ },
+ "327e0dad80": {
+  "instruction": {
+   "type of food": "Sushi",
+   "ANSWER": "Dawa Sushi",
+   "geographic location": "Austin, TX"
+  }
+ },
+ "34a3e95086": {
+  "instruction": {
+   "Mexican food": "The Alley",
+   "Littleton, CO": "Littleton, CO 80120"
+  }
+ },
+ "4874c3aed5": {
+  "instruction": {
+   "type of food": "buffet",
+   "geographic location": "Hickory, NC"
+  }
+ },
+ "9ab821e370": {
+  "instruction": {
+   "Mexican food": "Platte River Bar & Grill",
+   "Littleton, CO": "Littleton, CO"
+  }
+ },
+ "e969d90611": {
+  "instruction": {
+   "type of food": "Chinese",
+   "ANSWER": "A + Hong Kong Kitchen",
+   "geographic location": "Seattle, WA"
+  }
+ },
+ "94c7fb19b1": {
+  "instruction": {
+   "type of food": "english breakfast",
+   "ANSWER": "Revelator Coffee Company, Midtown 848 Spring St Atlanta, GA 30308 Phone number (205) 224-5900",
+   "geographic location": "Atlanta, GA"
+  }
+ },
+ "fe3965a8a2": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Araya\u2019s Place - Thai Vegan Restaurant",
+   "geographic location": "Los angeles, California"
+  }
+ },
+ "77bf101876": {
+  "instruction": {
+   "type of food": "almanac taproom",
+   "ANSWER": "usa",
+   "geographic location": "Red Robin"
+  }
+ },
+ "69e51818bc": {
+  "instruction": {
+   "type of food": "Chinese",
+   "ANSWER": " Xiao Bao Biscuit",
+   "geographic location": "Charleston, SC"
+  }
+ },
+ "5ea3e10f28": {
+  "instruction": {
+   "Mexican food": " Mexican, Salvadoran",
+   "Littleton, CO": "Denver, CO",
+   "ANSWER": "El Chalate"
+  }
+ },
+ "07c1890060": {
+  "instruction": {
+   "Mexican food": "Hacienda Real",
+   "Littleton, CO": "Littleton, CO 80123"
+  }
+ },
+ "34721dbd26": {
+  "instruction": {
+   "type of food": "Extreme Pizza",
+   "ANSWER": "extremepizza.com",
+   "geographic location": "Potrero Hill San Francisco, CA 94107"
+  }
+ },
+ "bf08a577eb": {
+  "instruction": {
+   "type of food": "Italian",
+   "geographic location": "Binghamton, NY"
+  }
+ },
+ "d0289d095a": {
+  "instruction": {
+   "type of food": "Tex-Mex",
+   "ANSWER": "El Rio Verde",
+   "geographic location": "Tulsa, OK"
+  }
+ },
+ "ba7de01c56": {
+  "instruction": {
+   "Mexican food": "Tex-Mex",
+   "Littleton, CO": "Denver, CO",
+   "ANSWER": "Chili Verde"
+  }
+ },
+ "6e0de2a9ad": {
+  "instruction": {
+   "type of food": "Crepes restaurant",
+   "ANSWER": "Copeland\u2019s, 3101 Cobb Pkwy Atlanta, GA 30339 Phone number (770) 612-3311",
+   "geographic location": "Atlanta, GA"
+  }
+ },
+ "d7e6b24e9e": {
+  "instruction": {
+   "type of food": "best sushi",
+   "ANSWER": "Taki Japanese Sushi & Hibachi, 4711 Ashford Dunwoody Rd Dunwoody, GA 30338 Phone number (770) 522-8888",
+   "geographic location": "Atlanta, GA"
+  }
+ },
+ "8ca377885a": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Bangkok Taste",
+   "geographic location": "Santa Ana, California"
+  }
+ },
+ "f0fa0e30e9": {
+  "instruction": {
+   "type of food": "Barbeque",
+   "ANSWER": " Knotty Pig BBQ, Burger & Chili House",
+   "geographic location": "Tulsa, OK"
+  }
+ },
+ "64aa54fcd7": {
+  "instruction": {
+   "type of food": "Tacorea",
+   "ANSWER": "https://www.yelp.com/biz/tacorea-san-francisco?osq=Food",
+   "geographic location": " Mexican, Korean, Latin American "
+  }
+ },
+ "459b1436d4": {
+  "instruction": {
+   "Mexican food": "Arroz con pollo",
+   "Littleton, CO": "Littleton, CO 80127",
+   "ANSWER": "Agaveros Mexican Restaurant, 10143 W Chatfield Ave Littleton, CO 80127 Phone number (303) 948-8776"
+  }
+ },
+ "f78a050a00": {
+  "instruction": {
+   "type of food": "Tacos",
+   "ANSWER": "Las Trancas",
+   "geographic location": "Austin, TX"
+  }
+ },
+ "ecbb158ea6": {
+  "instruction": {
+   "type of food": "Ice Cream",
+   "ANSWER": "Sweet Republic",
+   "geographic location": "Scottsdale, AZ"
+  }
+ },
+ "05e5c1e3c9": {
+  "instruction": {
+   "type of food": "italian",
+   "ANSWER": "Ribalta, 1080 Peachtree St NE Atlanta, GA 30309 Phone number (404) 249-7019",
+   "geographic location": "Atlanta, Ga"
+  }
+ },
+ "ab4a235b73": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Plumeria Vegetarian",
+   "geographic location": "San Diego, California"
+  }
+ },
+ "2709e0d901": {
+  "instruction": {
+   "Mexican food": "Thai Food",
+   "Littleton, CO": "Vallejo, CA",
+   "ANSWER": "Maya Thai House"
+  }
+ },
+ "00272ac9b9": {
+  "instruction": {
+   "Mexican food": "Garlic Beef Enchiladas",
+   "Littleton, CO": "Littleton, CO 80122",
+   "ANSWER": "El Parral, 6875 S Broadway, Littleton, CO 80122. (303) 798-4586"
+  }
+ },
+ "0930d6261d": {
+  "instruction": {
+   "Mexican food": "Breakfast",
+   "Littleton, CO": "West Palm Beach, FL",
+   "ANSWER": "Cafe L'Europe"
+  }
+ },
+ "55e1fbbd4a": {
+  "instruction": {
+   "type of food": "Japanese",
+   "ANSWER": "Sushi Hana",
+   "geographic location": "Tulsa, OK"
+  }
+ },
+ "0a55fe2a38": {
+  "instruction": {
+   "type of food": "Sushi",
+   "ANSWER": " Harumi Sushi",
+   "geographic location": "Phoenix, AZ"
+  }
+ },
+ "05df458efa": {
+  "instruction": {
+   "Mexican food": "La Guatemalteca",
+   "Littleton, CO": "Littleton, CO 80120"
+  }
+ },
+ "dc96bb372e": {
+  "instruction": {
+   "type of food": "Creole",
+   "ANSWER": "Atchafalaya Restaurant",
+   "geographic location": "New Orlean, LA"
+  }
+ },
+ "885aebe4cb": {
+  "instruction": {
+   "Mexican food": "Tacos",
+   "Littleton, CO": "Denver, CO",
+   "ANSWER": "Moose Hill Cantina"
+  }
+ },
+ "a1b8f0548f": {
+  "instruction": {
+   "type of food": "Jamaican",
+   "geographic location": "Fort Lauderdale"
+  }
+ },
+ "ee456bbb45": {
+  "instruction": {
+   "Mexican food": "Lucha Cantina",
+   "Littleton, CO": "Littleton, CO 80123"
+  }
+ },
+ "bf0d145abc": {
+  "instruction": {
+   "Mexican food": "(Chinese) ",
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "J2C Asian Bistro"
+  }
+ },
+ "ae65b51162": {
+  "instruction": {
+   "Mexican food": "Mexican food",
+   "Littleton, CO": "Denver, CO",
+   "ANSWER": "Scratch Burrito & Happy Tap"
+  }
+ },
+ "3baf395b6c": {
+  "instruction": {
+   "Mexican food": "(Burgers)",
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Bad Wolf Burgers"
+  }
+ },
+ "b699b162fa": {
+  "instruction": {
+   "Mexican food": "Mexican food",
+   "Littleton, CO": "Littletown, CO",
+   "ANSWER": "Hacienda Real"
+  }
+ },
+ "e10ad5327a": {
+  "instruction": {
+   "Mexican food": "Turkey Burritos with Fresh Fruit Salsa",
+   "Littleton, CO": "Littleton, CO 80124",
+   "ANSWER": "California Pizza Kitchen, 8343 S Park Meadow Center Dr Littleton, CO 80124 Phone number (720) 873-0400"
+  }
+ },
+ "42115eb031": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "CUCINA urbana",
+   "geographic location": "San Diego, CA"
+  }
+ },
+ "1fb86c0c20": {
+  "instruction": {
+   "Mexican food": "Hacienda Colorado",
+   "Littleton, CO": "Littleton, CO"
+  }
+ },
+ "f5d57b57fa": {
+  "instruction": {
+   "type of food": "Seafood",
+   "ANSWER": "Hog Island Oyster Co",
+   "geographic location": "San Francisco, CA"
+  }
+ },
+ "df0e283aca": {
+  "instruction": {
+   "Mexican food": "Salvadoran",
+   "Littleton, CO": "Englewood. CO",
+   "ANSWER": "Pupuseria San Salvador"
+  }
+ },
+ "a4a6203334": {
+  "instruction": {
+   "Mexican food": "Mexican Lasagna",
+   "Littleton, CO": "Littleton, CO 80129",
+   "ANSWER": "NoNo\u2019s Cafe, 3005 W County Line Rd Littleton, CO 80129 Phone number (303) 738-8330"
+  }
+ },
+ "84493751be": {
+  "instruction": {
+   "Mexican food": "Great Food",
+   "Littleton, CO": "Littleton, CO 80120",
+   "ANSWER": " GraceFull Community Cafe"
+  }
+ },
+ "37dd69d571": {
+  "instruction": {
+   "type of food": "All AMerican",
+   "geographic location": "Miami"
+  }
+ },
+ "31dba07d6f": {
+  "instruction": {
+   "type of food": "real greek",
+   "ANSWER": "Tannour Grill, Westside / Home Park, Georgia Tech 398 14th St NW Atlanta, GA 30318 Phone number (404) 873-1500",
+   "geographic location": "Atlanta, GA"
+  }
+ },
+ "589fd098f9": {
+  "instruction": {
+   "Mexican food": "(salad)",
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Vinaigrette Salad Kitchen"
+  }
+ },
+ "b14a63b9c3": {
+  "instruction": {
+   "Mexican food": "Sushi",
+   "Littleton, CO": "Binghamton,NY",
+   "ANSWER": "Sake Tumi"
+  }
+ },
+ "009f1f0419": {
+  "instruction": {
+   "type of food": "Taiwanese",
+   "ANSWER": "Taiwanese Bistro Cafe 33",
+   "geographic location": "Pittsburgh, PA"
+  }
+ },
+ "f7b82cc591": {
+  "instruction": {
+   "Mexican food": "Carlos Miguel\u2019s Mexican Bar & Grill",
+   "Littleton, CO": "Littleton, CO"
+  }
+ },
+ "110c1d7c3a": {
+  "instruction": {
+   "type of food": "BBQ",
+   "ANSWER": "Fox Bros. Bar-B-Q",
+   "geographic location": "Atlanta, GA"
+  }
+ },
+ "3459edcc24": {
+  "instruction": {
+   "Mexican food": "Japanese",
+   "Littleton, CO": "Jersey City, NJ",
+   "ANSWER": "Ozu Foods"
+  }
+ },
+ "b988c0ac54": {
+  "instruction": {
+   "type of food": "Chinese",
+   "geographic location": "Boone, NC"
+  }
+ },
+ "49f8969322": {
+  "instruction": {
+   "Mexican food": "3 Potrillos Mexican Restaurant",
+   "Littleton, CO": "Littleton, CO"
+  }
+ },
+ "362d7607db": {
+  "instruction": {
+   "type of food": "American",
+   "ANSWER": "The Peppermill Restaurant & Fireside Lounge",
+   "geographic location": "Las Vegas, NV"
+  }
+ },
+ "bd4f5b68ab": {
+  "instruction": {
+   "Mexican food": "Carlos Miguel\u2019s Mexican Bar & Grill",
+   "Littleton, CO": "Littleton, CO 80127"
+  }
+ },
+ "765f30d0f4": {
+  "instruction": {
+   "type of food": "Cha-Ya ",
+   "ANSWER": "nil",
+   "geographic location": " Japanese, Vegetarian, Vegan "
+  }
+ },
+ "2d602479ff": {
+  "instruction": {
+   "type of food": "French",
+   "ANSWER": "Bistro A La Mode",
+   "geographic location": "Mesa, AZ"
+  }
+ },
+ "8b8dedfb1d": {
+  "instruction": {
+   "type of food": "Mexican",
+   "geographic location": "Brea, California"
+  }
+ },
+ "8d6e569c10": {
+  "instruction": {
+   "type of food": "pizza",
+   "ANSWER": "san francisco",
+   "geographic location": "florida"
+  }
+ },
+ "1865763ae2": {
+  "instruction": {
+   "Mexican food": "Asian Restaurant",
+   "Littleton, CO": "Littleton, CO 80123",
+   "ANSWER": "JP Nori Sushi & Asian Cuisine"
+  }
+ },
+ "a3962e776d": {
+  "instruction": {
+   "type of food": "Seafood",
+   "ANSWER": "White River Fish Market",
+   "geographic location": "Tulsa, OK"
+  }
+ },
+ "4f90fbb1d6": {
+  "instruction": {
+   "Mexican food": ".Pizza Delivery",
+   "Littleton, CO": "Littleton, CO 80121",
+   "ANSWER": " Abo\u2019s Pizza"
+  }
+ },
+ "0ab4b12b18": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Riverside Thai Kitchen",
+   "geographic location": "Riverside, California"
+  }
+ },
+ "1e03f03b4e": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Alessia\u2019s Ristorante Italiano",
+   "geographic location": "Mesa, AZ"
+  }
+ },
+ "39cabd12d0": {
+  "instruction": {
+   "Mexican food": "Guacamole",
+   "Littleton, CO": "Littleton, CO 80120",
+   "ANSWER": "La Guatemalteca, 1500 W Littleton Blvd Littleton, CO 80120 Phone number (720) 550-7108"
+  }
+ },
+ "d4d42caf1f": {
+  "instruction": {
+   "type of food": "grill",
+   "ANSWER": "america",
+   "geographic location": "Claim Jumper"
+  }
+ },
+ "f2791a736b": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": "El Progreso",
+   "geographic location": "Atlanta, GA"
+  }
+ },
+ "babdf6bd3c": {
+  "instruction": {
+   "type of food": "chicken",
+   "ANSWER": "usa",
+   "geographic location": "P.F. Chang's China Bistro"
+  }
+ },
+ "d942ff4da8": {
+  "instruction": {
+   "type of food": "Ethiopian",
+   "ANSWER": "Ghenet Brooklyn",
+   "geographic location": "Brooklyn, NY"
+  }
+ },
+ "726c594028": {
+  "instruction": {
+   "type of food": "Indian restuarant",
+   "ANSWER": "Subras Indian Grill, 2900 Delk Rd SE Marietta, GA 30067 Phone number (678) 834-1778",
+   "geographic location": "Atlanta, GA"
+  }
+ },
+ "83e0ecb608": {
+  "instruction": {
+   "type of food": "Blue Plate",
+   "ANSWER": "blueplatesf.com",
+   "geographic location": "San Francisco, CA 94110"
+  }
+ },
+ "e8bef94841": {
+  "instruction": {
+   "Mexican food": "The Alley",
+   "Littleton, CO": "Littleton, CO"
+  }
+ },
+ "1083c54007": {
+  "instruction": {
+   "Mexican food": "Indian Cuisine",
+   "Littleton, CO": "Littleton, CO 80120",
+   "ANSWER": " Zaika Indian Cuisine"
+  }
+ },
+ "54fafd2c4f": {
+  "instruction": {
+   "type of food": "Burger",
+   "ANSWER": "The Pharmacy",
+   "geographic location": "Nashville, TN"
+  }
+ },
+ "94bae3f46f": {
+  "instruction": {
+   "type of food": "Mozzeria ",
+   "ANSWER": "mozzeria.com",
+   "geographic location": "Pizza, Italian "
+  }
+ },
+ "0d216719f8": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Satdha Plant-Based Thai Kitchen",
+   "geographic location": "Santa Monica, California"
+  }
+ },
+ "8b81b71064": {
+  "instruction": {
+   "Mexican food": "Moose Hill Cantina",
+   "Littleton, CO": "Lakewood, CO 80215"
+  }
+ },
+ "13a00a5ae6": {
+  "instruction": {
+   "type of food": "Cajun",
+   "ANSWER": "Baton Creole",
+   "geographic location": "Austin, TX"
+  }
+ },
+ "91bfb3bc05": {
+  "instruction": {
+   "type of food": "BBQ",
+   "ANSWER": "Dinosaur Bar-B-Que",
+   "geographic location": "Syracuse, NY"
+  }
+ },
+ "3dec0650ca": {
+  "instruction": {
+   "Mexican food": " American (Traditional), Breweries",
+   "Littleton, CO": "Littletown, CO",
+   "ANSWER": "Farmhouse at Breckenridge Brewery"
+  }
+ },
+ "b35e0799af": {
+  "instruction": {
+   "Mexican food": "(Japanese)",
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Osaka Sushi Restaurant"
+  }
+ },
+ "03d49873c1": {
+  "instruction": {
+   "type of food": "Chinese",
+   "ANSWER": "China Garden Restaurant",
+   "geographic location": "Tulsa, OK"
+  }
+ },
+ "24dca88cde": {
+  "instruction": {
+   "type of food": "BBQ",
+   "ANSWER": "Eli\u2019s BBQ",
+   "geographic location": "Cincinnati, OH"
+  }
+ },
+ "f1cc33bc7e": {
+  "instruction": {
+   "Mexican food": "Mexican, Latin American",
+   "Littleton, CO": "Littletown, CO",
+   "ANSWER": " La Guatemalteca"
+  }
+ },
+ "9c49799a64": {
+  "instruction": {
+   "Mexican food": "Tex-Mex",
+   "Littleton, CO": "Denver, CO",
+   "ANSWER": "Tacos Jalisco Mexican Food"
+  }
+ },
+ "319602f234": {
+  "instruction": {
+   "type of food": "noodles",
+   "ANSWER": "usa",
+   "geographic location": "Denny's"
+  }
+ },
+ "80e6b29cc6": {
+  "instruction": {
+   "type of food": "Homestyle",
+   "geographic location": "Atlanta"
+  }
+ },
+ "72c6a4150e": {
+  "instruction": {
+   "type of food": "American (Traditional)",
+   "ANSWER": "Wala",
+   "geographic location": "Detroit, MI"
+  }
+ },
+ "8286e8ed1d": {
+  "instruction": {
+   "type of food": "SO ",
+   "ANSWER": "nil",
+   "geographic location": "Korean, Asian Fusion, Chinese "
+  }
+ },
+ "1d2413705c": {
+  "instruction": {
+   "type of food": "Sushi",
+   "ANSWER": "Sakana Sushi & Grill",
+   "geographic location": "Mesa,AZ"
+  }
+ },
+ "83306c29f8": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Thai Orchid Garden",
+   "geographic location": "Pomona, California"
+  }
+ },
+ "3fa37bf9bf": {
+  "instruction": {
+   "Mexican food": "Agaveros Mexican Restaurant",
+   "Littleton, CO": "Littleton, CO 80127"
+  }
+ },
+ "f614d527f2": {
+  "instruction": {
+   "type of food": "hungarian",
+   "ANSWER": "Tannour Grill, Westside / Home Park, Georgia Tech 398 14th St NW Atlanta, GA 30318 Phone number (404) 873-1500",
+   "geographic location": "Altlanta, Ga"
+  }
+ },
+ "868cf6c58f": {
+  "instruction": {
+   "Mexican food": "(Noodles)",
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Noodles & Company"
+  }
+ },
+ "cd8056ea31": {
+  "instruction": {
+   "Mexican food": "(Pizza)",
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Crust"
+  }
+ },
+ "257d30f46a": {
+  "instruction": {
+   "type of food": "Sushi",
+   "ANSWER": "Gaijin",
+   "geographic location": "New York, NY"
+  }
+ },
+ "ad24664142": {
+  "instruction": {
+   "type of food": "Breakfast Style",
+   "ANSWER": "Filet & Vine",
+   "geographic location": "Montgomery, AL"
+  }
+ },
+ "d695edb7dd": {
+  "instruction": {
+   "type of food": "American",
+   "ANSWER": " Atlas Grill",
+   "geographic location": "Tulsa, OK"
+  }
+ },
+ "ceea1f4dd1": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "E-San Rod-Sap",
+   "geographic location": "Anaheim, California"
+  }
+ },
+ "2e809b7d71": {
+  "instruction": {
+   "Mexican food": "Mama Sol Cocina",
+   "Littleton, CO": "Littleton, CO 80121"
+  }
+ },
+ "e73c6d5c0f": {
+  "instruction": {
+   "type of food": "Cajun ",
+   "ANSWER": "Angry Crab Shack",
+   "geographic location": "Phoenix, AZ"
+  }
+ },
+ "a2ee0a4289": {
+  "instruction": {
+   "Mexican food": "italian",
+   "Littleton, CO": "Boston, MA",
+   "ANSWER": "Pomodoro"
+  }
+ },
+ "10eb2ae65f": {
+  "instruction": {
+   "Mexican food": "Mi Cocina Mexican Restaurant",
+   "Littleton, CO": "Littleton, CO"
+  }
+ },
+ "2a30560d41": {
+  "instruction": {
+   "Mexican food": "Baked Chicken Chimichangas",
+   "Littleton, CO": "Littleton, CO 80128",
+   "ANSWER": "Angie\u2019s Restaurant, 6797 W Ottawa Ave, Littleton, CO 80128. (303) 979-0645"
+  }
+ },
+ "3126a87648": {
+  "instruction": {
+   "type of food": "Japanese",
+   "geographic location": "Lake Worth, Florida"
+  }
+ },
+ "738bd91756": {
+  "instruction": {
+   "Mexican food": "Burgers",
+   "Littleton, CO": "Hickory, NC",
+   "ANSWER": "BurgerFi"
+  }
+ },
+ "54e69ce797": {
+  "instruction": {
+   "Mexican food": "(Chicken Wings)",
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Nat\u2019s"
+  }
+ },
+ "11066f885c": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Bruno\u2019s Little Italy",
+   "geographic location": "Little Rock, AR"
+  }
+ },
+ "e49a44a764": {
+  "instruction": {
+   "type of food": "gardencremeary",
+   "ANSWER": "usa",
+   "geographic location": "Uno Chicago Grill"
+  }
+ },
+ "47b9fbc4ed": {
+  "instruction": {
+   "Mexican food": "Family Restaurant",
+   "Littleton, CO": "Levittown, PA 19055",
+   "ANSWER": " Golden Dawn"
+  }
+ },
+ "12c6e24deb": {
+  "instruction": {
+   "Mexican food": "(Hot Dogs)",
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "Detroit Coney Island"
+  }
+ },
+ "fcaa872788": {
+  "instruction": {
+   "type of food": "Marnee Thai ",
+   "ANSWER": "marneethaisf.com",
+   "geographic location": "San Francisco, CA 94122"
+  }
+ },
+ "2d14d475f2": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": "El Zarape Mexican Eatery",
+   "geographic location": "San Diego, CA"
+  }
+ },
+ "032e3fd332": {
+  "instruction": {
+   "Mexican food": "Seafood",
+   "Littleton, CO": "Denver, CO 80206",
+   "ANSWER": "Blue Island Oyster Bar and Seafood"
+  }
+ },
+ "6fff957ce9": {
+  "instruction": {
+   "Mexican food": "(Barbeque)",
+   "Littleton, CO": "(Lexington, KY)",
+   "ANSWER": "City Barbeque"
+  }
+ },
+ "92a7d44982": {
+  "instruction": {
+   "type of food": "noodles",
+   "ANSWER": "usa",
+   "geographic location": "Mimi's Cafe"
+  }
+ },
+ "f587bef323": {
+  "instruction": {
+   "Mexican food": "Chinese",
+   "Littleton, CO": "Laihaina, HI",
+   "ANSWER": "Ono Kau Kau"
+  }
+ },
+ "b5812b7c1a": {
+  "instruction": {
+   "type of food": "Steakhouses",
+   "ANSWER": "Mahogany Prime Steakhouse",
+   "geographic location": "Tulsa, OK"
+  }
+ },
+ "4e97e3aac6": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Rose Apple",
+   "geographic location": "San Bernardino, California"
+  }
+ },
+ "156f53d65e": {
+  "instruction": {
+   "Mexican food": "Jamaican",
+   "Littleton, CO": "Seattle, WA",
+   "ANSWER": "Pasta Fresca"
+  }
+ },
+ "956c326bec": {
+  "instruction": {
+   "Mexican food": "American Restaurant",
+   "Littleton, CO": "Englewood, CO 80113",
+   "ANSWER": " Acres"
+  }
+ },
+ "80608a269a": {
+  "instruction": {
+   "Mexican food": "Italian Restaurant",
+   "Littleton, CO": "Greenwood Village, CO 80121",
+   "ANSWER": " The Wooden Table"
+  }
+ },
+ "70aa00737e": {
+  "instruction": {
+   "Mexican food": "Mexican food",
+   "Littleton, CO": "Lakewood, CO",
+   "ANSWER": "Moose Hill Cantina"
+  }
+ },
+ "8c72c4aefd": {
+  "instruction": {
+   "Mexican food": "Hacienda Real",
+   "Littleton, CO": "Littleton, CO"
+  }
+ },
+ "fc875d5612": {
+  "instruction": {
+   "type of food": "Asian all you can eat",
+   "ANSWER": "Poor Calvin\u2019s, Downtown 510 Piedmont Ave NE Atlanta, GA 30308 Phone number (404) 254-4051",
+   "geographic location": "Atlanta, GA"
+  }
+ },
+ "9e1a1a805c": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": "Calaveras",
+   "geographic location": "Tulsa, OK"
+  }
+ },
+ "44e7277ae6": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": "Los Gallos Mexican Taqueria",
+   "geographic location": "Philadelphia, PA"
+  }
+ },
+ "6e9cea6146": {
+  "instruction": {
+   "type of food": "French cuisine",
+   "geographic location": "Los Angles"
+  }
+ },
+ "d83ebf0e28": {
+  "instruction": {
+   "Mexican food": "Carne asada",
+   "Littleton, CO": "Littleton, CO 80123",
+   "ANSWER": "Hacienda Real, 8966 W Bowles Ave Littleton, CO 80123 Phone number (303) 948-8172"
+  }
+ },
+ "3f3dc8597b": {
+  "instruction": {
+   "type of food": "Seafood",
+   "geographic location": "Denver"
+  }
+ },
+ "2a8dad6fa9": {
+  "instruction": {
+   "Mexican food": "R Taco",
+   "Littleton, CO": "Littleton, CO"
+  }
+ },
+ "598ea52a19": {
+  "instruction": {
+   "Mexican food": "Bar w/ chicken wings",
+   "Littleton, CO": "Highlands Ranch, CO 80129",
+   "ANSWER": "Indulge Bistro & Wine Bar"
+  }
+ },
+ "2ac322ce88": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Life Thai Fusion",
+   "geographic location": "Santa Clarita, California"
+  }
+ },
+ "4008fb1c99": {
+  "instruction": {
+   "type of food": "Seafood",
+   "ANSWER": "Oyster House",
+   "geographic location": "Pilladelphia, PA"
+  }
+ },
+ "d5c1af5840": {
+  "instruction": {
+   "type of food": "burger",
+   "ANSWER": "america",
+   "geographic location": "california"
+  }
+ },
+ "c831fa8c86": {
+  "instruction": {
+   "type of food": "Ice Cream",
+   "ANSWER": "Purity Ice Cream",
+   "geographic location": "Ithaca, NY"
+  }
+ },
+ "bd39d2f38f": {
+  "instruction": {
+   "type of food": "milkbean",
+   "ANSWER": "usa",
+   "geographic location": "Chili's Grill & Bar"
+  }
+ },
+ "9b6efb843a": {
+  "instruction": {
+   "Mexican food": "French",
+   "Littleton, CO": "Boone, NC",
+   "ANSWER": "Joy Bistro"
+  }
+ },
+ "db7a43e917": {
+  "instruction": {
+   "type of food": "Vegan",
+   "ANSWER": "Seasoned Vegan",
+   "geographic location": "Harlem, NY"
+  }
+ },
+ "753e8b4d8a": {
+  "instruction": {
+   "Mexican food": "Old Sante Fe Express Mexican Grill",
+   "Littleton, CO": "Littleton, CO 80121"
+  }
+ },
+ "d0b89ef6a5": {
+  "instruction": {
+   "type of food": "Montesacro Pinseria-Enoteca",
+   "ANSWER": "montesacrosf.com",
+   "geographic location": "San Francisco, CA 94103"
+  }
+ },
+ "537f4ec0dc": {
+  "instruction": {
+   "type of food": "Korean",
+   "ANSWER": "Char Korean Bar & Grill",
+   "geographic location": "Atlanta, GA"
+  }
+ },
+ "fd24f0aa05": {
+  "instruction": {
+   "Mexican food": "Tex-Mex",
+   "Littleton, CO": "Denver, CO",
+   "ANSWER": "SOL Cocina - Cherry Creek"
+  }
+ },
+ "ab7c539175": {
+  "instruction": {
+   "Mexican food": "Old Sante Fe Express Mexican Grill",
+   "Littleton, CO": "Littleton, CO"
+  }
+ },
+ "7021baa471": {
+  "instruction": {
+   "type of food": "Vedas Indian Restaurant ",
+   "ANSWER": "vedas-sanmateo.com",
+   "geographic location": "Indian"
+  }
+ },
+ "a252906eb6": {
+  "instruction": {
+   "type of food": "Cajun",
+   "ANSWER": "Baby Kay's Cajun Kitchen",
+   "geographic location": "Mesa, AZ"
+  }
+ },
+ "baf2400eb6": {
+  "instruction": {
+   "type of food": "seefood",
+   "ANSWER": "Meehan\u2019s Public House, Buckhead 322 E Paces Ferry Rd NE Atlanta, GA 30305 Phone number (470) 355-5116",
+   "geographic location": "Atlanta, GA"
+  }
+ },
+ "bc462088b7": {
+  "instruction": {
+   "type of food": "cheap mexican ",
+   "ANSWER": "El Bandido Mex Mex Grill, Little Five Points 1083 Euclid Ave NE Atlanta, GA 30307 Phone number (404) 476-3150",
+   "geographic location": "Atlanta, GA"
+  }
+ },
+ "f76552e09e": {
+  "instruction": {
+   "type of food": "fried grill",
+   "ANSWER": "usa",
+   "geographic location": "The Old Spaghetti Factory"
+  }
+ },
+ "96dd5f6f0c": {
+  "instruction": {
+   "Mexican food": "Barbacoa",
+   "Littleton, CO": "Littleton, CO 80121",
+   "ANSWER": "Mama Sol Cocina, 6439 S Broadway Littleton, CO 80121 Phone number (303) 730-2519"
+  }
+ }
+}

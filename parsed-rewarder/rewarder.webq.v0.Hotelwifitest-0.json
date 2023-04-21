@@ -1,0 +1,62 @@
+{
+ "e5221bff63": {
+  "instruction": {
+   "hotel name": "Mariott",
+   "City, State": "Gainesville, FL"
+  }
+ },
+ "514a3d3fc0": {
+  "instruction": {
+   "hotel name": "Travelodge",
+   "City, State": "Peoria, IL"
+  }
+ },
+ "e0a9a5cbcf": {
+  "instruction": {
+   "hotel name": "Days Inn",
+   "City, State": "Dallas, TX"
+  }
+ },
+ "d3b400dc2e": {
+  "instruction": {
+   "hotel name": "Super 8",
+   "City, State": "Nashville, TN"
+  }
+ },
+ "fdc6787fc9": {
+  "instruction": {
+   "hotel name": "Quality Inn",
+   "City, State": "Atlanta, Georgia"
+  }
+ },
+ "79dc28984f": {
+  "instruction": {
+   "hotel name": "La Quinta",
+   "City, State": "Pueblo, Colorado"
+  }
+ },
+ "c680db5f3c": {
+  "instruction": {
+   "hotel name": "Springhill",
+   "City, State": "St. Louis, Missouri"
+  }
+ },
+ "070fb98363": {
+  "instruction": {
+   "hotel name": "Econolodge",
+   "City, State": "Phoenix, AZ"
+  }
+ },
+ "6e9e2bbd44": {
+  "instruction": {
+   "hotel name": "Windhym",
+   "City, State": "Detroit, Michigan"
+  }
+ },
+ "d5f4d7ecfd": {
+  "instruction": {
+   "hotel name": "Ramada Inn",
+   "City, State": "Jackson, Mississippi"
+  }
+ }
+}

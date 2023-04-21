@@ -1,0 +1,1362 @@
+{
+ "688e557d9a": {
+  "instruction": {
+   "type of car": "Chevrolet Equinox",
+   "ANSWER": "20.75 per day",
+   "geographic location": "Miami"
+  }
+ },
+ "84cca26cdf": {
+  "instruction": {
+   "geographic location": "Indianapolis Intl, US (IND)",
+   "type of car": "Chevrolet Cruze Sedan",
+   "ANSWER": "$35.00"
+  }
+ },
+ "56b7e2292a": {
+  "instruction": {
+   "geographic location": "Kaunas",
+   "type of car": "Volkswagen Polo"
+  }
+ },
+ "e472c36094": {
+  "instruction": {
+   "type of car": "Chrysler 200",
+   "ANSWER": "Price for 1 day: US$115.68",
+   "geographic location": "Augusta, Georgia, United States of America"
+  }
+ },
+ "0c7ba96af2": {
+  "instruction": {
+   "type of car": "Hyundai Accent",
+   "ANSWER": "$36",
+   "geographic location": "Oklahoma City"
+  }
+ },
+ "54a1a47c5f": {
+  "instruction": {
+   "type of car": "Ford Fiesta",
+   "ANSWER": "$24.00",
+   "geographic location": "Chicago O'Hare"
+  }
+ },
+ "c6766431c9": {
+  "instruction": {
+   "type of car": "Audi RS 5 Cabriolet",
+   "ANSWER": "75 Pound",
+   "geographic location": "Wellington"
+  }
+ },
+ "9b360d2556": {
+  "instruction": {
+   "geographic location": "Los Angeles",
+   "type of car": "Toyota RAV4 ",
+   "ANSWER": "$55"
+  }
+ },
+ "e23456f12c": {
+  "instruction": {
+   "type of car": "Kia Rio",
+   "ANSWER": "Price for 1 day: US$53.35",
+   "geographic location": "Maui, United States of America"
+  }
+ },
+ "0e2ead88f4": {
+  "instruction": {
+   "type of car": "Chrysler 200 Convertible",
+   "ANSWER": "67.49 per day",
+   "geographic location": "Oakland"
+  }
+ },
+ "4bba8d96ba": {
+  "instruction": {
+   "geographic location": "Berlin",
+   "type of car": "Volkswagen Golf"
+  }
+ },
+ "c43f1aec2e": {
+  "instruction": {
+   "geographic location": "Indianapolis Intl, US (IND)",
+   "type of car": "Ford Fusion Saloon",
+   "ANSWER": "$40.00"
+  }
+ },
+ "01dab04e53": {
+  "instruction": {
+   "type of car": "Dodge Grand Caravan",
+   "ANSWER": "$68",
+   "geographic location": "Butte"
+  }
+ },
+ "21348d4eb4": {
+  "instruction": {
+   "type of car": "Chevrolet Cruze Sedan",
+   "ANSWER": "$35.00",
+   "geographic location": "Indianapolis Intl, US (IND)"
+  }
+ },
+ "d6e322a4ca": {
+  "instruction": {
+   "type of car": "Acura TLX",
+   "ANSWER": "347.73 \u20b1",
+   "geographic location": "Manila"
+  }
+ },
+ "58c8c67693": {
+  "instruction": {
+   "type of car": "Opel Corsa",
+   "geographic location": "Frankfurt"
+  }
+ },
+ "7d6ed8a374": {
+  "instruction": {
+   "type of car": "Chrysler 200",
+   "ANSWER": "$37.00",
+   "geographic location": "Indianapolis Intl, US (IND)"
+  }
+ },
+ "350eaab47e": {
+  "instruction": {
+   "type of car": "Nissan Versa",
+   "ANSWER": "US$29 /Day",
+   "geographic location": "San Diego"
+  }
+ },
+ "f54b96523f": {
+  "instruction": {
+   "type of car": "Ford Fiesta",
+   "ANSWER": "26.91 per day",
+   "geographic location": "Orlando"
+  }
+ },
+ "6e51d8e6b2": {
+  "instruction": {
+   "geographic location": "Macon",
+   "type of car": "Nissan Versa",
+   "ANSWER": "29.99 per day"
+  }
+ },
+ "296b54a0f4": {
+  "instruction": {
+   "geographic location": "Chattanooga",
+   "type of car": "Toyota Corolla",
+   "ANSWER": "$18"
+  }
+ },
+ "e73e319abc": {
+  "instruction": {
+   "type of car": "Megane Renaultsport",
+   "ANSWER": "LBP 170 per day",
+   "geographic location": "Beirut"
+  }
+ },
+ "3822818e4e": {
+  "instruction": {
+   "geographic location": "San Francisco",
+   "type of car": "Nissan Versa",
+   "ANSWER": "\u20ac53.37"
+  }
+ },
+ "78948897ad": {
+  "instruction": {
+   "geographic location": "Covington",
+   "type of car": "Toyota Corolla",
+   "ANSWER": "27.00 per day"
+  }
+ },
+ "f7ade8b64a": {
+  "instruction": {
+   "type of car": "Chevrolet Malibu",
+   "ANSWER": "33.00 per day",
+   "geographic location": "Houston"
+  }
+ },
+ "53cbeec22a": {
+  "instruction": {
+   "geographic location": "Indianapolis Intl, US (IND)",
+   "type of car": "Kia Rio",
+   "ANSWER": "$49.00"
+  }
+ },
+ "e9f64b3a2b": {
+  "instruction": {
+   "geographic location": "Bamberg",
+   "type of car": "Ford Ka",
+   "ANSWER": "$83.29"
+  }
+ },
+ "f8fe9cd176": {
+  "instruction": {
+   "type of car": "Hyundai Accent",
+   "ANSWER": "14.52 per day",
+   "geographic location": "Marietta"
+  }
+ },
+ "9491135990": {
+  "instruction": {
+   "type of car": "Skoda Citigo",
+   "geographic location": "Vilnius"
+  }
+ },
+ "6a95f701c9": {
+  "instruction": {
+   "geographic location": "Orlando",
+   "type of car": "Ford Fiesta",
+   "ANSWER": "26.91 per day"
+  }
+ },
+ "63e3b77e11": {
+  "instruction": {
+   "type of car": "Mercedes C200",
+   "ANSWER": "399.62",
+   "geographic location": "Rome, Italy"
+  }
+ },
+ "73a619bc9b": {
+  "instruction": {
+   "type of car": "Dodge Avenger",
+   "ANSWER": "Price for 1 day: US$74.55",
+   "geographic location": "Lancaster, California, United States of America"
+  }
+ },
+ "5c0000da72": {
+  "instruction": {
+   "type of car": "Hyundai Accent",
+   "ANSWER": "Price for 1 day: US$66.84",
+   "geographic location": "Anaheim - East La Palma Avenue"
+  }
+ },
+ "be3dc30665": {
+  "instruction": {
+   "type of car": "Nissan Sunny",
+   "geographic location": "Dubai"
+  }
+ },
+ "d57ea80aeb": {
+  "instruction": {
+   "geographic location": "San Diego",
+   "type of car": "Kia Rio",
+   "ANSWER": "US$29 /Day"
+  }
+ },
+ "0e5ed6d6e4": {
+  "instruction": {
+   "type of car": "Nissan Versa",
+   "ANSWER": "$50",
+   "geographic location": "Great Falls"
+  }
+ },
+ "c6f7363672": {
+  "instruction": {
+   "type of car": "Toyota Auris",
+   "geographic location": "Oslo"
+  }
+ },
+ "5f2f600c1c": {
+  "instruction": {
+   "geographic location": "Chicago",
+   "type of car": "Toyota Camry",
+   "ANSWER": "$34.68"
+  }
+ },
+ "824ca9ab47": {
+  "instruction": {
+   "type of car": "Ford Fusion Saloon",
+   "ANSWER": "US$34 /Day",
+   "geographic location": "Phoenix"
+  }
+ },
+ "1896295f8f": {
+  "instruction": {
+   "geographic location": "Oslo",
+   "type of car": "Toyota Auris"
+  }
+ },
+ "0c03a0471c": {
+  "instruction": {
+   "geographic location": "Rome, Italy",
+   "type of car": "Mercedes C200",
+   "ANSWER": "399.62"
+  }
+ },
+ "27dc88fbd6": {
+  "instruction": {
+   "geographic location": "Phoenix",
+   "type of car": "Ford Fusion Saloon",
+   "ANSWER": "US$34 /Day"
+  }
+ },
+ "753a2f5976": {
+  "instruction": {
+   "geographic location": "Atlanta",
+   "type of car": "Kia Rio",
+   "ANSWER": "\u20ac46.90"
+  }
+ },
+ "466d668bbc": {
+  "instruction": {
+   "geographic location": "Phoenix",
+   "type of car": "Toyota Yaris",
+   "ANSWER": "US$28 /Da"
+  }
+ },
+ "77333a7b53": {
+  "instruction": {
+   "type of car": "Fiat Panda Crossover",
+   "ANSWER": "20 USD",
+   "geographic location": "Muscat"
+  }
+ },
+ "306e400eac": {
+  "instruction": {
+   "type of car": "Ford Focus",
+   "ANSWER": "$27",
+   "geographic location": "Chicago"
+  }
+ },
+ "53f375d960": {
+  "instruction": {
+   "geographic location": "Oklahoma City",
+   "type of car": "Hyundai Accent",
+   "ANSWER": "$36"
+  }
+ },
+ "7f4aebe3ad": {
+  "instruction": {
+   "type of car": "Volkswagen Golf",
+   "geographic location": "Berlin"
+  }
+ },
+ "ed6db97ffe": {
+  "instruction": {
+   "geographic location": "Denver",
+   "type of car": "Chevy Aveo",
+   "ANSWER": "\u20ac54.30"
+  }
+ },
+ "5bb541ba1b": {
+  "instruction": {
+   "type of car": "Kia Rio",
+   "ANSWER": "$37",
+   "geographic location": "Madison"
+  }
+ },
+ "4472b647fc": {
+  "instruction": {
+   "type of car": "Toyota Aygo",
+   "geographic location": "Klaipeda"
+  }
+ },
+ "b11d37b7bf": {
+  "instruction": {
+   "type of car": "Ford Ka",
+   "ANSWER": "$83.29",
+   "geographic location": "Bamberg"
+  }
+ },
+ "9676ea2e01": {
+  "instruction": {
+   "geographic location": "San Salvador, El Salvador",
+   "type of car": "Hyundai i20",
+   "ANSWER": "Price for 1 day: US$53.55"
+  }
+ },
+ "afc82047c4": {
+  "instruction": {
+   "geographic location": "London",
+   "type of car": "Vauxhall Corsa",
+   "ANSWER": "34.74"
+  }
+ },
+ "b3432d52e9": {
+  "instruction": {
+   "type of car": "Hyundai Santa Fe",
+   "ANSWER": "29",
+   "geographic location": "San Antonio"
+  }
+ },
+ "91869949f2": {
+  "instruction": {
+   "geographic location": "Butte",
+   "type of car": "Dodge Grand Caravan",
+   "ANSWER": "$68"
+  }
+ },
+ "67bd160238": {
+  "instruction": {
+   "type of car": "Fiat 500",
+   "ANSWER": "\u20ac52.08",
+   "geographic location": "Boston"
+  }
+ },
+ "dfdada79ef": {
+  "instruction": {
+   "geographic location": "Reno, Nevada",
+   "type of car": "Dodge Avenger ",
+   "ANSWER": "US$39 /Day"
+  }
+ },
+ "36f6dcf539": {
+  "instruction": {
+   "geographic location": "New York",
+   "type of car": "Mercedes-Benz GL450 4MATIC",
+   "ANSWER": "$104.77"
+  }
+ },
+ "149878f31d": {
+  "instruction": {
+   "type of car": "Dodge Avenger ",
+   "ANSWER": "US$39 /Day",
+   "geographic location": "Reno, Nevada"
+  }
+ },
+ "8f34c0daba": {
+  "instruction": {
+   "geographic location": "Akureyri ",
+   "type of car": "Ford Fiesta"
+  }
+ },
+ "049d566b4f": {
+  "instruction": {
+   "type of car": "Toyota Yaris",
+   "ANSWER": "23.41 per day",
+   "geographic location": "Fort Lauderdale"
+  }
+ },
+ "2f310be283": {
+  "instruction": {
+   "type of car": "Kia Rio",
+   "ANSWER": "80.03",
+   "geographic location": "Sydney Intl"
+  }
+ },
+ "6a1da5806e": {
+  "instruction": {
+   "type of car": "Hyundai Accent",
+   "ANSWER": "US$26 /Day",
+   "geographic location": "Ottawa"
+  }
+ },
+ "8df140cdcb": {
+  "instruction": {
+   "geographic location": "Dublin",
+   "type of car": "Nissan Micra"
+  }
+ },
+ "db95ad3dfa": {
+  "instruction": {
+   "geographic location": "Las Vegas",
+   "type of car": "Ford Focus",
+   "ANSWER": "\u20ac56.18"
+  }
+ },
+ "2ed50d8b1a": {
+  "instruction": {
+   "geographic location": "Beirut",
+   "type of car": "Megane Renaultsport",
+   "ANSWER": "LBP 170 per day"
+  }
+ },
+ "81cd6121b3": {
+  "instruction": {
+   "type of car": "Fiat 500",
+   "ANSWER": "46.31",
+   "geographic location": "Paris, Orly"
+  }
+ },
+ "5dd82220a4": {
+  "instruction": {
+   "geographic location": "Hilton Head",
+   "type of car": "Dodge Ram 1500 Crew",
+   "ANSWER": "$32"
+  }
+ },
+ "c2728ea96e": {
+  "instruction": {
+   "type of car": "Hyundai i20",
+   "ANSWER": "Price for 1 day: US$53.55",
+   "geographic location": "San Salvador, El Salvador"
+  }
+ },
+ "e72b5e8a37": {
+  "instruction": {
+   "geographic location": "Miami",
+   "type of car": "Kia Forte",
+   "ANSWER": "\u20ac48.52"
+  }
+ },
+ "cadedc9f66": {
+  "instruction": {
+   "geographic location": "Augusta, Georgia, United States of America",
+   "type of car": "Chrysler 200",
+   "ANSWER": "Price for 1 day: US$115.68"
+  }
+ },
+ "9f7914ef65": {
+  "instruction": {
+   "type of car": "Chevrolet Spark",
+   "geographic location": "Riga"
+  }
+ },
+ "db34241fff": {
+  "instruction": {
+   "type of car": "Ford Focus",
+   "ANSWER": "US$22 /Day",
+   "geographic location": "Las Vegas"
+  }
+ },
+ "1e3dcd3538": {
+  "instruction": {
+   "geographic location": "Pyongyang",
+   "type of car": "Chevrolet Camaro",
+   "ANSWER": "$20 per hour"
+  }
+ },
+ "bbe00c3ec7": {
+  "instruction": {
+   "type of car": "Nissan Micra",
+   "geographic location": "Dublin"
+  }
+ },
+ "7e729a6477": {
+  "instruction": {
+   "type of car": "Toyota Corolla",
+   "ANSWER": "27.00 per day",
+   "geographic location": "Covington"
+  }
+ },
+ "513b0e360c": {
+  "instruction": {
+   "type of car": "Ford Taurus Limited",
+   "ANSWER": "$44",
+   "geographic location": "Kansas City"
+  }
+ },
+ "0a3fd1a543": {
+  "instruction": {
+   "geographic location": "Oakland",
+   "type of car": "Chrysler 200 Convertible",
+   "ANSWER": "67.49 per day"
+  }
+ },
+ "9a2d6ac7cd": {
+  "instruction": {
+   "type of car": "Ford Fusion Saloon",
+   "ANSWER": "$40.00",
+   "geographic location": "Indianapolis Intl, US (IND)"
+  }
+ },
+ "5f6ab46524": {
+  "instruction": {
+   "type of car": "Chevrolet Cruze Sedan",
+   "ANSWER": "$26.00",
+   "geographic location": "Chicago O'Hare"
+  }
+ },
+ "cd75418e1b": {
+  "instruction": {
+   "type of car": "Acura",
+   "ANSWER": "142 USD",
+   "geographic location": "Vienna"
+  }
+ },
+ "96a0285cdd": {
+  "instruction": {
+   "type of car": "Toyota Corolla",
+   "ANSWER": "\u20ac50.14",
+   "geographic location": "Orlando"
+  }
+ },
+ "6249198eb5": {
+  "instruction": {
+   "geographic location": "Chicago O'Hare",
+   "type of car": "Toyota Yaris",
+   "ANSWER": "$23.00"
+  }
+ },
+ "a06a15cbfb": {
+  "instruction": {
+   "type of car": "Nissan Altima",
+   "ANSWER": "38.00 per day",
+   "geographic location": "Nashville"
+  }
+ },
+ "1aa30245c4": {
+  "instruction": {
+   "geographic location": "Philadelphia, Pennsylvania, United States of America",
+   "type of car": "Mitsubishi Galant",
+   "ANSWER": "Price for 1 day: US$40.27"
+  }
+ },
+ "d0e28e19a4": {
+  "instruction": {
+   "type of car": "Toyota Prius",
+   "ANSWER": "$64 per hour",
+   "geographic location": "Copenhagen"
+  }
+ },
+ "72f795eb5f": {
+  "instruction": {
+   "geographic location": "Great Falls",
+   "type of car": "Nissan Versa",
+   "ANSWER": "$50"
+  }
+ },
+ "f9b8bd297e": {
+  "instruction": {
+   "geographic location": "Talin",
+   "type of car": "Ford Focus"
+  }
+ },
+ "829e4cdf6c": {
+  "instruction": {
+   "geographic location": "New York City",
+   "type of car": "Toyota Yaris",
+   "ANSWER": "US$57 /Day"
+  }
+ },
+ "da3c345724": {
+  "instruction": {
+   "geographic location": "Muscat",
+   "type of car": "Fiat Panda Crossover",
+   "ANSWER": "20 USD"
+  }
+ },
+ "2eda344188": {
+  "instruction": {
+   "type of car": "Kia Rio",
+   "geographic location": "Tucson"
+  }
+ },
+ "b844bb0af5": {
+  "instruction": {
+   "geographic location": "Indianapolis Intl, US (IND)",
+   "type of car": "Toyota Yaris",
+   "ANSWER": "$34.00"
+  }
+ },
+ "a9334f7c4d": {
+  "instruction": {
+   "geographic location": "San Antonio",
+   "type of car": "Hyundai Santa Fe",
+   "ANSWER": "29"
+  }
+ },
+ "3e23c1ba9c": {
+  "instruction": {
+   "type of car": "Lancia Y",
+   "geographic location": "Paris"
+  }
+ },
+ "b2beeb0b08": {
+  "instruction": {
+   "geographic location": "Klaipeda",
+   "type of car": "Toyota Aygo"
+  }
+ },
+ "d4a1aa3507": {
+  "instruction": {
+   "type of car": "Ford Fiesta",
+   "geographic location": "Amsterdam"
+  }
+ },
+ "bcd1bebbbe": {
+  "instruction": {
+   "type of car": "Toyota Corolla",
+   "ANSWER": "US$29 /Day",
+   "geographic location": "Nashville"
+  }
+ },
+ "2c25c6bb89": {
+  "instruction": {
+   "type of car": "Toyota Camry",
+   "ANSWER": "$34.68",
+   "geographic location": "Chicago"
+  }
+ },
+ "7918f47572": {
+  "instruction": {
+   "type of car": "Toyota Yaris",
+   "ANSWER": "US$57 /Day",
+   "geographic location": "New York City"
+  }
+ },
+ "21527956e1": {
+  "instruction": {
+   "geographic location": "Kauai, United States of America",
+   "type of car": "Chrysler Sebring Cabrio",
+   "ANSWER": "Price for 1 day: US$83.50"
+  }
+ },
+ "4ed175121e": {
+  "instruction": {
+   "geographic location": "Manila",
+   "type of car": "Acura TLX",
+   "ANSWER": "347.73 \u20b1"
+  }
+ },
+ "72e137666b": {
+  "instruction": {
+   "geographic location": "Kansas City",
+   "type of car": "Ford Taurus Limited",
+   "ANSWER": "$44"
+  }
+ },
+ "ff8eb003a7": {
+  "instruction": {
+   "geographic location": "Madison",
+   "type of car": "Kia Rio",
+   "ANSWER": "$37"
+  }
+ },
+ "a2e82bb6d2": {
+  "instruction": {
+   "geographic location": "Los Angelos",
+   "type of car": "Dodge Caravan",
+   "ANSWER": "18"
+  }
+ },
+ "2ace8c6123": {
+  "instruction": {
+   "type of car": "Ferrari F430",
+   "ANSWER": "$8 per hour",
+   "geographic location": "Beijing"
+  }
+ },
+ "bb5d7f62ee": {
+  "instruction": {
+   "geographic location": "Beijing",
+   "type of car": "Ferrari F430",
+   "ANSWER": "$8 per hour"
+  }
+ },
+ "db62fe38bf": {
+  "instruction": {
+   "type of car": "Kia Rio",
+   "ANSWER": "$49.00",
+   "geographic location": "Indianapolis Intl, US (IND)"
+  }
+ },
+ "e7af491e3f": {
+  "instruction": {
+   "geographic location": "Miami",
+   "type of car": "Toyota Corolla",
+   "ANSWER": "21"
+  }
+ },
+ "e562c38a23": {
+  "instruction": {
+   "type of car": "Kia Picanto",
+   "geographic location": "London"
+  }
+ },
+ "ec38b8bf81": {
+  "instruction": {
+   "type of car": "Kia Rio",
+   "ANSWER": "US$29 /Day",
+   "geographic location": "San Diego"
+  }
+ },
+ "7c0bcab893": {
+  "instruction": {
+   "type of car": "Chrysler Sebring Cabrio",
+   "ANSWER": "Price for 1 day: US$83.50",
+   "geographic location": "Kauai, United States of America"
+  }
+ },
+ "aea1cf867d": {
+  "instruction": {
+   "type of car": "Hyundai I30",
+   "geographic location": "Venspils"
+  }
+ },
+ "ca8bb85b2d": {
+  "instruction": {
+   "geographic location": "Manama",
+   "type of car": "Dodge",
+   "ANSWER": "129 USD"
+  }
+ },
+ "b7c6fb5cd1": {
+  "instruction": {
+   "geographic location": "Houston",
+   "type of car": "Chevrolet Malibu",
+   "ANSWER": "33.00 per day"
+  }
+ },
+ "c6d3399dbf": {
+  "instruction": {
+   "geographic location": "Nashville",
+   "type of car": "Toyota Corolla",
+   "ANSWER": "US$29 /Day"
+  }
+ },
+ "55f2799df0": {
+  "instruction": {
+   "geographic location": "Paris",
+   "type of car": "Lancia Y"
+  }
+ },
+ "904e357831": {
+  "instruction": {
+   "type of car": "BMW X6 M",
+   "ANSWER": "45 Euro per hour",
+   "geographic location": "Brussels"
+  }
+ },
+ "75fa738b8a": {
+  "instruction": {
+   "type of car": "Kia Rio",
+   "ANSWER": "\u20ac46.90",
+   "geographic location": "Atlanta"
+  }
+ },
+ "c62c555eba": {
+  "instruction": {
+   "geographic location": "Austin, Texas, United States of America",
+   "type of car": "Chrysler 200",
+   "ANSWER": "Price for 1 day: US$115.68"
+  }
+ },
+ "72ba297aec": {
+  "instruction": {
+   "type of car": "Ford Fiesta",
+   "geographic location": "Akureyri "
+  }
+ },
+ "a6d733e4eb": {
+  "instruction": {
+   "geographic location": "Miami",
+   "type of car": "Chevrolet Equinox",
+   "ANSWER": "20.75 per day"
+  }
+ },
+ "5cd529f40a": {
+  "instruction": {
+   "geographic location": "Boston",
+   "type of car": "Fiat 500",
+   "ANSWER": "\u20ac52.08"
+  }
+ },
+ "e7cc203aa4": {
+  "instruction": {
+   "geographic location": "Chicago O'Hare",
+   "type of car": "Chevrolet Cruze Sedan",
+   "ANSWER": "$26.00"
+  }
+ },
+ "0ee9298933": {
+  "instruction": {
+   "type of car": "Dodge",
+   "ANSWER": "129 USD",
+   "geographic location": "Manama"
+  }
+ },
+ "66f9a46e84": {
+  "instruction": {
+   "type of car": "Kia Forte",
+   "ANSWER": "\u20ac48.52",
+   "geographic location": "Miami"
+  }
+ },
+ "e9d3f788b1": {
+  "instruction": {
+   "geographic location": "Indianapolis Intl, US (IND)",
+   "type of car": "Chrysler 200",
+   "ANSWER": "$37.00"
+  }
+ },
+ "4e0bc0263e": {
+  "instruction": {
+   "geographic location": "Reno",
+   "type of car": "Ford Escape",
+   "ANSWER": "$47"
+  }
+ },
+ "1e76ab664d": {
+  "instruction": {
+   "type of car": "Hyundai Sonata ",
+   "ANSWER": "92",
+   "geographic location": "Maui"
+  }
+ },
+ "a5ca06c352": {
+  "instruction": {
+   "type of car": "Dodge Caravan",
+   "ANSWER": "18",
+   "geographic location": "Los Angelos"
+  }
+ },
+ "166743426f": {
+  "instruction": {
+   "type of car": "Ford Focus",
+   "ANSWER": "\u20ac56.18",
+   "geographic location": "Las Vegas"
+  }
+ },
+ "83ddde8a89": {
+  "instruction": {
+   "type of car": "Toyota Yaris",
+   "ANSWER": "US$28 /Da",
+   "geographic location": "Phoenix"
+  }
+ },
+ "f6c2f02d04": {
+  "instruction": {
+   "type of car": "Toyota RAV4 ",
+   "ANSWER": "$55",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "2160141436": {
+  "instruction": {
+   "type of car": "Hyundai Accent",
+   "geographic location": "Las Vegas"
+  }
+ },
+ "f68ebbaf48": {
+  "instruction": {
+   "type of car": "Toyota Yaris",
+   "ANSWER": "$23.00",
+   "geographic location": "Chicago O'Hare"
+  }
+ },
+ "c8488092de": {
+  "instruction": {
+   "geographic location": "Sydney Intl",
+   "type of car": "Kia Rio",
+   "ANSWER": "80.03"
+  }
+ },
+ "32fbcb51c2": {
+  "instruction": {
+   "type of car": "Chrysler 200",
+   "ANSWER": "Price for 1 day: US$115.68",
+   "geographic location": "Austin, Texas, United States of America"
+  }
+ },
+ "dab3b3a876": {
+  "instruction": {
+   "geographic location": "London",
+   "type of car": "Kia Picanto"
+  }
+ },
+ "b1a373b543": {
+  "instruction": {
+   "geographic location": "Houston, Texas, United States of America",
+   "type of car": "Nissan Sentra",
+   "ANSWER": "Price for 1 day: US$40.56"
+  }
+ },
+ "da4e337360": {
+  "instruction": {
+   "geographic location": "Vienna",
+   "type of car": "Acura",
+   "ANSWER": "142 USD"
+  }
+ },
+ "9bd596671f": {
+  "instruction": {
+   "type of car": "Toyota Corolla",
+   "ANSWER": "$18",
+   "geographic location": "Chattanooga"
+  }
+ },
+ "088278a391": {
+  "instruction": {
+   "type of car": "Volkswagen Polo",
+   "geographic location": "Kaunas"
+  }
+ },
+ "c2c63e7d16": {
+  "instruction": {
+   "geographic location": "Copenhagen",
+   "type of car": "Toyota Prius",
+   "ANSWER": "$64 per hour"
+  }
+ },
+ "bc5c9c2d32": {
+  "instruction": {
+   "geographic location": "Ontario, CA",
+   "type of car": "Dodge Charger",
+   "ANSWER": "63"
+  }
+ },
+ "300caf05b9": {
+  "instruction": {
+   "type of car": "Chevrolet Aveo",
+   "geographic location": "Mexico City"
+  }
+ },
+ "8f1f5a90e3": {
+  "instruction": {
+   "type of car": "Ford Escape",
+   "ANSWER": "$47",
+   "geographic location": "Reno"
+  }
+ },
+ "557d938018": {
+  "instruction": {
+   "geographic location": "Lancaster, California, United States of America",
+   "type of car": "Dodge Avenger",
+   "ANSWER": "Price for 1 day: US$74.55"
+  }
+ },
+ "ccf97d862e": {
+  "instruction": {
+   "geographic location": "Chicago",
+   "type of car": "Ford Focus",
+   "ANSWER": "$27"
+  }
+ },
+ "2e2a34198a": {
+  "instruction": {
+   "type of car": "Kia Rio",
+   "ANSWER": "24.00 per day",
+   "geographic location": "Conyers"
+  }
+ },
+ "0ba7c05181": {
+  "instruction": {
+   "type of car": "Ford Focus",
+   "geographic location": "Talin"
+  }
+ },
+ "2f11f2005f": {
+  "instruction": {
+   "geographic location": "Dubai",
+   "type of car": "Nissan Sunny"
+  }
+ },
+ "5492b1b2f4": {
+  "instruction": {
+   "geographic location": "Frankfurt",
+   "type of car": "Opel Corsa"
+  }
+ },
+ "9aa6a9da60": {
+  "instruction": {
+   "type of car": "Chrysler 200",
+   "ANSWER": "$26.00",
+   "geographic location": "Chicago O'Hare"
+  }
+ },
+ "9132184331": {
+  "instruction": {
+   "geographic location": "Chicago O'Hare",
+   "type of car": "Ford Fiesta",
+   "ANSWER": "$24.00"
+  }
+ },
+ "616d726584": {
+  "instruction": {
+   "type of car": "Mitsubishi Galant",
+   "ANSWER": "Price for 1 day: US$40.27",
+   "geographic location": "Philadelphia, Pennsylvania, United States of America"
+  }
+ },
+ "76b5105c59": {
+  "instruction": {
+   "geographic location": "Orlando",
+   "type of car": "Toyota Corolla",
+   "ANSWER": "\u20ac50.14"
+  }
+ },
+ "05e6dfe655": {
+  "instruction": {
+   "geographic location": "Nashville",
+   "type of car": "Nissan Altima",
+   "ANSWER": "38.00 per day"
+  }
+ },
+ "ab99ab1304": {
+  "instruction": {
+   "geographic location": "Chicago O'Hare",
+   "type of car": "Chrysler 200",
+   "ANSWER": "$26.00"
+  }
+ },
+ "0156c5c732": {
+  "instruction": {
+   "geographic location": "Ottawa",
+   "type of car": "Hyundai Accent",
+   "ANSWER": "US$26 /Day"
+  }
+ },
+ "73c74ff876": {
+  "instruction": {
+   "type of car": "Mercedes-Benz GL450 4MATIC",
+   "ANSWER": "$104.77",
+   "geographic location": "New York"
+  }
+ },
+ "af135e646b": {
+  "instruction": {
+   "geographic location": "Mexico City",
+   "type of car": "Chevrolet Aveo"
+  }
+ },
+ "fac97544b2": {
+  "instruction": {
+   "type of car": "Nissan Altima",
+   "ANSWER": "24",
+   "geographic location": "Dallas"
+  }
+ },
+ "41fdf18680": {
+  "instruction": {
+   "geographic location": "Tucson",
+   "type of car": "Kia Rio"
+  }
+ },
+ "3b4365bfa3": {
+  "instruction": {
+   "geographic location": "Madrid",
+   "type of car": "Ford Ka"
+  }
+ },
+ "5c212a4c29": {
+  "instruction": {
+   "geographic location": "Conyers",
+   "type of car": "Kia Rio",
+   "ANSWER": "24.00 per day"
+  }
+ },
+ "7b5889bdc1": {
+  "instruction": {
+   "type of car": "Hyundai i30",
+   "ANSWER": "US$73.60",
+   "geographic location": "London"
+  }
+ },
+ "85758c99e8": {
+  "instruction": {
+   "geographic location": "Venspils",
+   "type of car": "Hyundai I30"
+  }
+ },
+ "30e81ead44": {
+  "instruction": {
+   "geographic location": "Wellington",
+   "type of car": "Audi RS 5 Cabriolet",
+   "ANSWER": "75 Pound"
+  }
+ },
+ "a139335ef6": {
+  "instruction": {
+   "geographic location": "Paris, Orly",
+   "type of car": "Fiat 500",
+   "ANSWER": "46.31"
+  }
+ },
+ "cd0414c064": {
+  "instruction": {
+   "geographic location": "Brussels",
+   "type of car": "BMW X6 M",
+   "ANSWER": "45 Euro per hour"
+  }
+ },
+ "10fa73be54": {
+  "instruction": {
+   "geographic location": "Indianapolis Intl, US (IND)",
+   "type of car": "Ford Fiesta",
+   "ANSWER": "$34.00"
+  }
+ },
+ "d5e5fee98b": {
+  "instruction": {
+   "type of car": "Ford Ka",
+   "geographic location": "Madrid"
+  }
+ },
+ "5a49e90284": {
+  "instruction": {
+   "type of car": "Dodge Ram 1500 Crew",
+   "ANSWER": "$32",
+   "geographic location": "Hilton Head"
+  }
+ },
+ "3ba6d24625": {
+  "instruction": {
+   "geographic location": "Las Vegas",
+   "type of car": "Hyundai Accent"
+  }
+ },
+ "49351f14a4": {
+  "instruction": {
+   "geographic location": "Anaheim - East La Palma Avenue",
+   "type of car": "Hyundai Accent",
+   "ANSWER": "Price for 1 day: US$66.84"
+  }
+ },
+ "041bb7370c": {
+  "instruction": {
+   "geographic location": "San Diego",
+   "type of car": "Nissan Versa",
+   "ANSWER": "US$29 /Day"
+  }
+ },
+ "6c1ac70242": {
+  "instruction": {
+   "geographic location": "London",
+   "type of car": "Hyundai i30",
+   "ANSWER": "US$73.60"
+  }
+ },
+ "65c781ade2": {
+  "instruction": {
+   "type of car": "Nissan Sentra",
+   "ANSWER": "Price for 1 day: US$40.56",
+   "geographic location": "Houston, Texas, United States of America"
+  }
+ },
+ "62ce89b744": {
+  "instruction": {
+   "type of car": "Ford Focus",
+   "ANSWER": "Price for 7 days: US$197.93",
+   "geographic location": "Miami, Florida, United States of America"
+  }
+ },
+ "ccd9482fea": {
+  "instruction": {
+   "type of car": "Chevrolet Camaro",
+   "ANSWER": "$20 per hour",
+   "geographic location": "Pyongyang"
+  }
+ },
+ "db3df47459": {
+  "instruction": {
+   "type of car": "Toyota Corolla",
+   "ANSWER": "21",
+   "geographic location": "Miami"
+  }
+ },
+ "e7ae7b310f": {
+  "instruction": {
+   "type of car": "Chevy Aveo",
+   "ANSWER": "\u20ac54.30",
+   "geographic location": "Denver"
+  }
+ },
+ "5e7257c9cf": {
+  "instruction": {
+   "geographic location": "Marietta",
+   "type of car": "Hyundai Accent",
+   "ANSWER": "14.52 per day"
+  }
+ },
+ "f4af9ed4f3": {
+  "instruction": {
+   "geographic location": "Dallas",
+   "type of car": "Nissan Altima",
+   "ANSWER": "24"
+  }
+ },
+ "cdc2aca350": {
+  "instruction": {
+   "geographic location": "Las Vegas",
+   "type of car": "Ford Focus",
+   "ANSWER": "US$22 /Day"
+  }
+ },
+ "b4ef2419e2": {
+  "instruction": {
+   "geographic location": "Riga",
+   "type of car": "Chevrolet Spark"
+  }
+ },
+ "745d6e40b1": {
+  "instruction": {
+   "geographic location": "Miami, Florida, United States of America",
+   "type of car": "Ford Focus",
+   "ANSWER": "Price for 7 days: US$197.93"
+  }
+ },
+ "0a18442fb4": {
+  "instruction": {
+   "type of car": "Ford Fiesta",
+   "ANSWER": "$34.00",
+   "geographic location": "Indianapolis Intl, US (IND)"
+  }
+ },
+ "07f8cd7631": {
+  "instruction": {
+   "geographic location": "Maui, United States of America",
+   "type of car": "Kia Rio",
+   "ANSWER": "Price for 1 day: US$53.35"
+  }
+ },
+ "d65408766f": {
+  "instruction": {
+   "geographic location": "Vilnius",
+   "type of car": "Skoda Citigo"
+  }
+ },
+ "106932bbeb": {
+  "instruction": {
+   "type of car": "Toyota Yaris",
+   "ANSWER": "$34.00",
+   "geographic location": "Indianapolis Intl, US (IND)"
+  }
+ },
+ "aba89c0600": {
+  "instruction": {
+   "type of car": "Nissan Versa",
+   "ANSWER": "\u20ac53.37",
+   "geographic location": "San Francisco"
+  }
+ },
+ "8f75b5a86b": {
+  "instruction": {
+   "geographic location": "Amsterdam",
+   "type of car": "Ford Fiesta"
+  }
+ },
+ "58866a2f49": {
+  "instruction": {
+   "type of car": "Nissan Versa",
+   "ANSWER": "29.99 per day",
+   "geographic location": "Macon"
+  }
+ },
+ "3c553febc0": {
+  "instruction": {
+   "geographic location": "Maui",
+   "type of car": "Hyundai Sonata ",
+   "ANSWER": "92"
+  }
+ },
+ "1667d6f823": {
+  "instruction": {
+   "geographic location": "Warsaw",
+   "type of car": "Opel Vivaro"
+  }
+ },
+ "ac7fc9a917": {
+  "instruction": {
+   "type of car": "Vauxhall Corsa",
+   "ANSWER": "34.74",
+   "geographic location": "London"
+  }
+ },
+ "c42a528e33": {
+  "instruction": {
+   "type of car": "Dodge Charger",
+   "ANSWER": "63",
+   "geographic location": "Ontario, CA"
+  }
+ },
+ "2e9e18addf": {
+  "instruction": {
+   "geographic location": "Fort Lauderdale",
+   "type of car": "Toyota Yaris",
+   "ANSWER": "23.41 per day"
+  }
+ },
+ "1cb699303d": {
+  "instruction": {
+   "type of car": "Opel Vivaro",
+   "geographic location": "Warsaw"
+  }
+ }
+}

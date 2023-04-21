@@ -1,0 +1,62 @@
+{
+ "9288e23dbe": {
+  "instruction": {
+   "type of food": "Chinese food",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "88c587d8fc": {
+  "instruction": {
+   "type of food": "Coffee",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "91d2a6f65b": {
+  "instruction": {
+   "type of food": "French food",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "26b17ebd3c": {
+  "instruction": {
+   "type of food": "Middle Eastern",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "5e28fe3599": {
+  "instruction": {
+   "type of food": "PIzza",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "674e969d6e": {
+  "instruction": {
+   "type of food": "Steaks",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "e3211b3970": {
+  "instruction": {
+   "type of food": "Dessert",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "d773ad5306": {
+  "instruction": {
+   "type of food": "Hamburgers",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "59660d4bd6": {
+  "instruction": {
+   "type of food": "Deli sandwiches",
+   "city": "Indianapolis, Indiana"
+  }
+ },
+ "79a8a6767f": {
+  "instruction": {
+   "type of food": "Wine bars",
+   "city": "Indianapolis, Indiana"
+  }
+ }
+}

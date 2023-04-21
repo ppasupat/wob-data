@@ -1,0 +1,62 @@
+{
+ "1e2e2ccb83": {
+  "instruction": {
+   "genre": "puzzle",
+   "platform": "Playstation 4"
+  }
+ },
+ "d0a43f5611": {
+  "instruction": {
+   "genre": "action",
+   "platform": "Playstation 4"
+  }
+ },
+ "6d1f9eceb0": {
+  "instruction": {
+   "genre": "adventure",
+   "platform": "Xbox One"
+  }
+ },
+ "349bfccdfe": {
+  "instruction": {
+   "genre": "roleplaying",
+   "platform": "Playstation 4"
+  }
+ },
+ "fdac41ae48": {
+  "instruction": {
+   "genre": "action",
+   "platform": "Xbox One"
+  }
+ },
+ "c479f5b8e0": {
+  "instruction": {
+   "genre": "roleplaying",
+   "platform": "Xbox One"
+  }
+ },
+ "a56e9126e1": {
+  "instruction": {
+   "genre": "puzzle",
+   "platform": "Xbox One"
+  }
+ },
+ "09e33c2c3b": {
+  "instruction": {
+   "genre": "adventure",
+   "platform": "Playstation 4"
+  }
+ },
+ "875a6e2379": {
+  "instruction": {
+   "genre": "action",
+   "platform": "PC"
+  }
+ },
+ "b1ae3cba89": {
+  "instruction": {
+   "genre": "roleplaying",
+   "platform": "PC"
+  }
+ }
+}

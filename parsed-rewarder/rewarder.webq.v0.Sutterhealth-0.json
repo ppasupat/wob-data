@@ -1,0 +1,1242 @@
+{
+ "3213ff184a": {
+  "instruction": {
+   "specialty": "Urology",
+   "language": "English",
+   "zip": "94040",
+   "ANSWER": "Arnold Aigen, M.D., FACS"
+  }
+ },
+ "087560073c": {
+  "instruction": {
+   "language": "Gujarati",
+   "ANSWER": "Avni Amin, M.D.",
+   "specialty": "Internal Medicine",
+   "zip": "95355"
+  }
+ },
+ "615604723d": {
+  "instruction": {
+   "language": "Arabic",
+   "ANSWER": "Lisa M. Guirguis M.D.",
+   "specialty": "Cancer Surgery",
+   "zip": "94249"
+  }
+ },
+ "ea3273929b": {
+  "instruction": {
+   "specialty": "Adolescent Medecine",
+   "language": "Polish",
+   "zip": "94122",
+   "ANSWER": "Anna-Barbara Moscicki, M.D."
+  }
+ },
+ "ed177ed702": {
+  "instruction": {
+   "specialty": "Pediatric Infectious Diseases",
+   "language": "English",
+   "zip": "94609",
+   "ANSWER": "http://www.sutterhealth.org/dr-samantha-h-johnston.html"
+  }
+ },
+ "6b28778415": {
+  "instruction": {
+   "language": "Spanish",
+   "ANSWER": "http://www.sutterhealth.org/dr-rtodd-frederick.html",
+   "specialty": "Gastroenterology",
+   "zip": "94115"
+  }
+ },
+ "7bffcc1840": {
+  "instruction": {
+   "specialty": "oncology",
+   "zip": "94257",
+   "language": "Russian"
+  }
+ },
+ "bdc247a01f": {
+  "instruction": {
+   "specialty": "Anesthesiology ",
+   "language": "English",
+   "zip": "94115 ",
+   "ANSWER": "Orrin Ailloni-Charas, M.D."
+  }
+ },
+ "9c31c5c179": {
+  "instruction": {
+   "specialty": "Obstetrics and Gynecology",
+   "language": "Malayalam ",
+   "zip": "94110",
+   "ANSWER": "Tirun A. Gopal, M.D."
+  }
+ },
+ "6b0166cfcf": {
+  "instruction": {
+   "specialty": "Cardiovascular Disease",
+   "zip": "94109",
+   "language": "Spanish"
+  }
+ },
+ "03cb491a1a": {
+  "instruction": {
+   "specialty": "Aerospace Medicine ",
+   "language": "English",
+   "zip": "95991",
+   "ANSWER": "http://www.sutterhealth.org/dr-harry-j-wander.html"
+  }
+ },
+ "2b57451605": {
+  "instruction": {
+   "specialty": "Internal Medicine",
+   "language": "Farsi",
+   "zip": "94246",
+   "ANSWER": "Ramesh Sinaee, M.D."
+  }
+ },
+ "bc88f5d89f": {
+  "instruction": {
+   "language": "French",
+   "specialty": "Adult Primary Care",
+   "zip": "94040"
+  }
+ },
+ "f698e4a0cb": {
+  "instruction": {
+   "specialty": "Trauma Surgery",
+   "language": "Italian",
+   "zip": "95661",
+   "ANSWER": "Philip Bosco, M.D., FACS"
+  }
+ },
+ "0e5a4c7533": {
+  "instruction": {
+   "specialty": "Cardiovascular Disease\t",
+   "language": "Punjabi",
+   "zip": "95355",
+   "ANSWER": "Syed N. Ahmed, M.D."
+  }
+ },
+ "ed7f885eaa": {
+  "instruction": {
+   "language": "Czech",
+   "ANSWER": "David M. Blende",
+   "specialty": "Dentistry",
+   "zip": "94118"
+  }
+ },
+ "675429c12c": {
+  "instruction": {
+   "language": "French",
+   "specialty": "infertility",
+   "zip": "94211"
+  }
+ },
+ "89ce53eb3f": {
+  "instruction": {
+   "specialty": "Gynecology",
+   "language": "Korean",
+   "zip": "94126",
+   "ANSWER": "Jin K. Moon, M.D."
+  }
+ },
+ "5053701275": {
+  "instruction": {
+   "specialty": "Aerospace Medicine",
+   "language": "English",
+   "zip": "95616",
+   "ANSWER": "http://www.sutterhealth.org/dr-jkraig-katzenmeyer.html"
+  }
+ },
+ "173689fa0c": {
+  "instruction": {
+   "specialty": "Internal Medicine",
+   "language": "Gujarati",
+   "zip": "95355",
+   "ANSWER": "Avni Amin, M.D."
+  }
+ },
+ "081fe3e929": {
+  "instruction": {
+   "language": "Farsi",
+   "ANSWER": "Assad A. Hassoun, M.D., FACS",
+   "specialty": "Kidney Transplant",
+   "zip": "94115"
+  }
+ },
+ "7a6fbbc1f4": {
+  "instruction": {
+   "language": "Mandarin",
+   "specialty": "Obstetrics and Gynecology",
+   "zip": "94501"
+  }
+ },
+ "c548358157": {
+  "instruction": {
+   "specialty": "Obstetrics and Gynecology",
+   "zip": "94501",
+   "language": "Mandarin"
+  }
+ },
+ "3e053cc416": {
+  "instruction": {
+   "specialty": "Dentistry",
+   "zip": "94118",
+   "language": "Russian"
+  }
+ },
+ "701c616d4a": {
+  "instruction": {
+   "language": "Korean",
+   "ANSWER": "Jin K. Moon, M.D.",
+   "specialty": "Gynecology",
+   "zip": "94126"
+  }
+ },
+ "c6f9883d3e": {
+  "instruction": {
+   "specialty": "Podiatry",
+   "language": "Yiddish",
+   "zip": "94903",
+   "ANSWER": "Mark Drucker, DPM"
+  }
+ },
+ "8bb4d565fa": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Arnold Aigen, M.D., FACS",
+   "specialty": "Urology",
+   "zip": "94040"
+  }
+ },
+ "b65e895d77": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "http://www.sutterhealth.org/dr-samantha-h-johnston.html",
+   "specialty": "Pediatric Infectious Diseases",
+   "zip": "94609"
+  }
+ },
+ "9f66a209ce": {
+  "instruction": {
+   "language": "Chinese",
+   "ANSWER": "David S. H. Chang, M.D.",
+   "specialty": "Sports Medicine",
+   "zip": "94609"
+  }
+ },
+ "f24b008a33": {
+  "instruction": {
+   "language": "Japanese",
+   "specialty": "hematology",
+   "zip": "94209"
+  }
+ },
+ "db50395a30": {
+  "instruction": {
+   "specialty": "Nephrology",
+   "language": "Kannada",
+   "zip": "95661",
+   "ANSWER": "Adarsh Bhat, M.D."
+  }
+ },
+ "55b30b38af": {
+  "instruction": {
+   "language": "American Sign Language",
+   "specialty": "endocrinology",
+   "zip": "94203"
+  }
+ },
+ "cff8582dee": {
+  "instruction": {
+   "specialty": "Internal Medicine",
+   "zip": "94563",
+   "language": "German"
+  }
+ },
+ "5276836c9f": {
+  "instruction": {
+   "language": "Russian",
+   "specialty": "oncology",
+   "zip": "94257"
+  }
+ },
+ "d917567517": {
+  "instruction": {
+   "language": "Farsi",
+   "ANSWER": "Ramesh Sinaee, M.D.",
+   "specialty": "Internal Medicine",
+   "zip": "94246"
+  }
+ },
+ "59a02951ab": {
+  "instruction": {
+   "specialty": "Adult Primary Care",
+   "zip": "94040",
+   "language": "French"
+  }
+ },
+ "69a9999477": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Julia E. Adler, M.D.",
+   "specialty": "Psychiatry",
+   "zip": "94115"
+  }
+ },
+ "95956c9526": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "http://www.sutterhealth.org/dr-leonard-j-marks.html",
+   "specialty": "Pediatrics",
+   "zip": "95991"
+  }
+ },
+ "534c45b80a": {
+  "instruction": {
+   "specialty": "Psychiatry",
+   "language": "English",
+   "zip": "94115",
+   "ANSWER": "Julia E. Adler, M.D."
+  }
+ },
+ "328eadb94b": {
+  "instruction": {
+   "language": "Punjabi",
+   "ANSWER": "Syed N. Ahmed, M.D.",
+   "specialty": "Cardiovascular Disease\t",
+   "zip": "95355"
+  }
+ },
+ "fe66477020": {
+  "instruction": {
+   "language": "Filipino",
+   "ANSWER": "Virgilio Ereso, M.D.",
+   "specialty": "Internal Medicine",
+   "zip": "95355"
+  }
+ },
+ "9d48525570": {
+  "instruction": {
+   "specialty": "Pediatrics",
+   "language": "English",
+   "zip": "95991",
+   "ANSWER": "http://www.sutterhealth.org/dr-leonard-j-marks.html"
+  }
+ },
+ "50ccb66b1b": {
+  "instruction": {
+   "specialty": "internal medicine",
+   "zip": "94205",
+   "language": "German"
+  }
+ },
+ "b68d8054c0": {
+  "instruction": {
+   "specialty": "Allergies and Immunology",
+   "language": "Gujarati",
+   "zip": "94240",
+   "ANSWER": "Neil  G. Parikh M.D."
+  }
+ },
+ "809b911e5f": {
+  "instruction": {
+   "language": "Spanish ,English",
+   "ANSWER": "Allergy testing,\tAsthma action plans, Cholesterol management,\tContraception,\tCulturally diverse patients,\tDiabetes,\tHealth maintenance,\tMinor office procedures, Preventive care,\tWell-child and infant care",
+   "specialty": "Family Medicine  ",
+   "zip": "95758 "
+  }
+ },
+ "5d2a6dc3a0": {
+  "instruction": {
+   "specialty": "Internal medicine ",
+   "language": "Burmese",
+   "zip": "95355",
+   "ANSWER": "http://www.sutterhealth.org/dr-khunzawhtet-aung.html"
+  }
+ },
+ "ce0eacaaed": {
+  "instruction": {
+   "language": "German",
+   "specialty": "Internal Medicine",
+   "zip": "94563"
+  }
+ },
+ "242d786cce": {
+  "instruction": {
+   "language": "Chinese",
+   "specialty": "Infertility",
+   "zip": "94133"
+  }
+ },
+ "8bcc6c515e": {
+  "instruction": {
+   "language": "Kannada",
+   "ANSWER": "Adarsh Bhat, M.D.",
+   "specialty": "Nephrology",
+   "zip": "95661"
+  }
+ },
+ "ee435bba19": {
+  "instruction": {
+   "language": "Fukien ",
+   "ANSWER": "Chi K. Co, M.D.",
+   "specialty": "Pediatrics",
+   "zip": "94080"
+  }
+ },
+ "b97c3aac40": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Not Accepting new patients",
+   "specialty": "Family Medicine",
+   "zip": "95678"
+  }
+ },
+ "6594d02faf": {
+  "instruction": {
+   "specialty": "Pediatric Primary Care",
+   "zip": "95356",
+   "language": "Greek"
+  }
+ },
+ "a5555c92c3": {
+  "instruction": {
+   "language": "Japanese",
+   "ANSWER": "Richard H. Hongo",
+   "specialty": "Cardiology",
+   "zip": "94115"
+  }
+ },
+ "97cc74f60c": {
+  "instruction": {
+   "language": "Thai",
+   "specialty": "Family Medicine",
+   "zip": "94541"
+  }
+ },
+ "c92d843870": {
+  "instruction": {
+   "language": "Filipino",
+   "ANSWER": "Pacita R. Aducayen, M.D.",
+   "specialty": "Internal Medicine",
+   "zip": "94509"
+  }
+ },
+ "2e49fb6b04": {
+  "instruction": {
+   "specialty": "Geriatric Medicine",
+   "language": "Russian",
+   "zip": "94120",
+   "ANSWER": "Gary B. Birnbaum, M.D."
+  }
+ },
+ "23a611c13b": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Accepting new patients",
+   "specialty": "Cancer Surgery\t",
+   "zip": "94118"
+  }
+ },
+ "29eb31d14a": {
+  "instruction": {
+   "language": "Greek",
+   "specialty": "Pediatric Primary Care",
+   "zip": "95356"
+  }
+ },
+ "439798ca5b": {
+  "instruction": {
+   "language": "Gujarati",
+   "ANSWER": "Neil  G. Parikh M.D.",
+   "specialty": "Allergies and Immunology",
+   "zip": "94240"
+  }
+ },
+ "5cb3ee3d2c": {
+  "instruction": {
+   "language": "Burmese",
+   "ANSWER": "http://www.sutterhealth.org/dr-khunzawhtet-aung.html",
+   "specialty": "Internal medicine ",
+   "zip": "95355"
+  }
+ },
+ "ec4b331f50": {
+  "instruction": {
+   "specialty": "Nephrology",
+   "language": "Afrikaans",
+   "zip": "94301",
+   "ANSWER": "Toby I. Gottheiner, M.D."
+  }
+ },
+ "dd2eceeaed": {
+  "instruction": {
+   "language": "Filipino",
+   "ANSWER": "Roger Ang, M.D.",
+   "specialty": "Family Medicine",
+   "zip": "95661"
+  }
+ },
+ "8e4be455f8": {
+  "instruction": {
+   "specialty": "Vascular Surgery ",
+   "language": "French",
+   "zip": "94062",
+   "ANSWER": "http://www.sutterhealth.org/dr-jean-gillon.html"
+  }
+ },
+ "f72a79cc28": {
+  "instruction": {
+   "specialty": "Podiatry",
+   "zip": "95403",
+   "language": "Korean"
+  }
+ },
+ "ac7aad290b": {
+  "instruction": {
+   "language": "English",
+   "specialty": "primary care",
+   "zip": "95621"
+  }
+ },
+ "60bce63950": {
+  "instruction": {
+   "specialty": "infertility",
+   "zip": "94211",
+   "language": "French"
+  }
+ },
+ "d21d7c67ea": {
+  "instruction": {
+   "language": "Dutch",
+   "ANSWER": "Andrew F. Calman, M.D.",
+   "specialty": "Ophthalmology",
+   "zip": "94110"
+  }
+ },
+ "0f800ab6a6": {
+  "instruction": {
+   "language": "Filipino",
+   "ANSWER": "Arlaine B. Gutierrez, M.D.",
+   "specialty": "Pediatrics",
+   "zip": "95355"
+  }
+ },
+ "6cd76b18bb": {
+  "instruction": {
+   "language": "Italian",
+   "ANSWER": "Romilda F. Foresti-Lorente, M.D.",
+   "specialty": "Pediatric Primary Care",
+   "zip": "94124"
+  }
+ },
+ "3f4930e990": {
+  "instruction": {
+   "language": "Spanish ,English",
+   "ANSWER": "In her spare time, Dr. Abdin enjoys spending time with family, gardening, cooking and traveling.",
+   "specialty": "Internal Medicine  ",
+   "zip": "95616-6215 "
+  }
+ },
+ "cc2dbd5060": {
+  "instruction": {
+   "language": "Filipino",
+   "ANSWER": "Vivien D. Hernandez, M.D.",
+   "specialty": "Pediatrics",
+   "zip": "94015"
+  }
+ },
+ "f8a54d8b63": {
+  "instruction": {
+   "specialty": "Infertility",
+   "zip": "94133",
+   "language": "Chinese"
+  }
+ },
+ "cbd239cec0": {
+  "instruction": {
+   "specialty": "Sports Medicine",
+   "language": "Chinese",
+   "zip": "94609",
+   "ANSWER": "David S. H. Chang, M.D."
+  }
+ },
+ "b1d8d86e45": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "http://www.sutterhealth.org/dr-harry-j-wander.html",
+   "specialty": "Aerospace Medicine ",
+   "zip": "95991"
+  }
+ },
+ "7d0508db3b": {
+  "instruction": {
+   "specialty": "Dentistry",
+   "language": "English",
+   "zip": "95670",
+   "ANSWER": "Guy E. Acheson, DDS"
+  }
+ },
+ "fb8f52f3b6": {
+  "instruction": {
+   "language": "Italian",
+   "specialty": "pathology",
+   "zip": "94207"
+  }
+ },
+ "f0038aec24": {
+  "instruction": {
+   "specialty": "endocrinology",
+   "zip": "94203",
+   "language": "American Sign Language"
+  }
+ },
+ "3c9f8d8551": {
+  "instruction": {
+   "specialty": "Pediatric Primary Care",
+   "language": "Italian",
+   "zip": "94124",
+   "ANSWER": "Romilda F. Foresti-Lorente, M.D."
+  }
+ },
+ "c1cbb6f37f": {
+  "instruction": {
+   "language": "Filipino",
+   "ANSWER": "Marcelina Ibanez, M.D.",
+   "specialty": "Family Medicine",
+   "zip": "95823"
+  }
+ },
+ "b504ad1cab": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Orrin Ailloni-Charas, M.D.",
+   "specialty": "Anesthesiology ",
+   "zip": "94115 "
+  }
+ },
+ "6adb394049": {
+  "instruction": {
+   "specialty": "Pediatric Infectious Diseases",
+   "language": "English",
+   "zip": "94609",
+   "ANSWER": "http://www.sutterhealth.org/dr-ann-m-petru.html"
+  }
+ },
+ "99f85fc441": {
+  "instruction": {
+   "language": "Filipino",
+   "ANSWER": "Larry R. Feliciano, M.D.",
+   "specialty": "Family Medicine",
+   "zip": "95823"
+  }
+ },
+ "e4fba50526": {
+  "instruction": {
+   "specialty": "Cancer Surgery",
+   "language": "Arabic",
+   "zip": "94249",
+   "ANSWER": "Lisa M. Guirguis M.D."
+  }
+ },
+ "8e43a462ff": {
+  "instruction": {
+   "specialty": "hematology",
+   "zip": "94209",
+   "language": "Japanese"
+  }
+ },
+ "5d8ee48bf1": {
+  "instruction": {
+   "language": "Filipino",
+   "ANSWER": "Clementina L. Manio, M.D.",
+   "specialty": "Pediatrics",
+   "zip": "94080"
+  }
+ },
+ "3324a36087": {
+  "instruction": {
+   "specialty": "Internal Medicine",
+   "language": "Hmong",
+   "zip": "95670",
+   "ANSWER": "Josefina A. Aquino, M.D."
+  }
+ },
+ "07e6ab3a3b": {
+  "instruction": {
+   "language": "Hebrew",
+   "ANSWER": "Ronnie I. Mimran, M.D.",
+   "specialty": "Neurosurgery",
+   "zip": "94526"
+  }
+ },
+ "d13fba8466": {
+  "instruction": {
+   "language": "Spanish",
+   "specialty": "podiatry",
+   "zip": "94235"
+  }
+ },
+ "f22f3af3de": {
+  "instruction": {
+   "language": "Cambodian",
+   "specialty": "cardiology",
+   "zip": "94280"
+  }
+ },
+ "5788db9990": {
+  "instruction": {
+   "language": "Russian",
+   "specialty": "Dentistry",
+   "zip": "94118"
+  }
+ },
+ "e13d8b1d76": {
+  "instruction": {
+   "specialty": "primary care",
+   "zip": "95621",
+   "language": "English"
+  }
+ },
+ "d7f3768ed1": {
+  "instruction": {
+   "language": "German",
+   "specialty": "internal medicine",
+   "zip": "94205"
+  }
+ },
+ "da44f99806": {
+  "instruction": {
+   "language": "Italian",
+   "ANSWER": "Holly L. Christman",
+   "specialty": "Dermatology",
+   "zip": "95404"
+  }
+ },
+ "00c67065e8": {
+  "instruction": {
+   "language": "German",
+   "ANSWER": "Edward J. Collins",
+   "specialty": "Urology",
+   "zip": "94115"
+  }
+ },
+ "1f8172ca34": {
+  "instruction": {
+   "specialty": "pathology",
+   "zip": "94207",
+   "language": "Italian"
+  }
+ },
+ "cd263fd07f": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "http://www.sutterhealth.org/dr-jkraig-katzenmeyer.html",
+   "specialty": "Aerospace Medicine",
+   "zip": "95616"
+  }
+ },
+ "3cbfa925b2": {
+  "instruction": {
+   "specialty": "Family Medicine",
+   "language": "Urdu",
+   "zip": "94247",
+   "ANSWER": "Sadiah Iqbal, M.D."
+  }
+ },
+ "03296befa8": {
+  "instruction": {
+   "language": "Hindi",
+   "ANSWER": "John Karan",
+   "specialty": "Neurology",
+   "zip": "94509"
+  }
+ },
+ "146c0fa168": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Adolescent health,\tCholesterol management,\tChronic disease management,\tDiabetes,\tHealth maintenance,\tMen's health, Preventive care,\tWell-child and infant care,\tWomen's health",
+   "specialty": "Family Medicine",
+   "zip": "95678 "
+  }
+ },
+ "2700ba3e6d": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Kevin X. McKennan, M.D., FACS",
+   "specialty": "Neurotology",
+   "zip": "95815"
+  }
+ },
+ "2dd56ad285": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "he information is submitted by each doctor and we make no guarantee or warranty as to the accuracy of the information. Sutter Health is not responsible for any loss or damage caused by your reliance on this information. You should verify the accuracy of the information directly with the physician's office. ",
+   "specialty": "Internal Medicine  ",
+   "zip": "94117 "
+  }
+ },
+ "ead243869a": {
+  "instruction": {
+   "specialty": "Kidney Transplant",
+   "language": "Farsi",
+   "zip": "94115",
+   "ANSWER": "Assad A. Hassoun, M.D., FACS"
+  }
+ },
+ "6a5815d4fc": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Guy E. Acheson, DDS",
+   "specialty": "Dentistry",
+   "zip": "95670"
+  }
+ },
+ "34b408850b": {
+  "instruction": {
+   "language": "Chinese",
+   "ANSWER": "Kelvin Mark",
+   "specialty": "Anesthesiology",
+   "zip": "95821"
+  }
+ },
+ "b59511b8d9": {
+  "instruction": {
+   "specialty": "Adult Primary Care",
+   "language": "French",
+   "zip": "94249",
+   "ANSWER": "Elias Nicolas Kiwan, M.D."
+  }
+ },
+ "34970214b0": {
+  "instruction": {
+   "language": "Arabic",
+   "ANSWER": "Ashraf S. Ekdawy, M.D., FACS",
+   "specialty": "Cancer surgery",
+   "zip": "95991"
+  }
+ },
+ "f2d0089ee5": {
+  "instruction": {
+   "language": "Urdu",
+   "ANSWER": "Sadiah Iqbal, M.D.",
+   "specialty": "Family Medicine",
+   "zip": "94247"
+  }
+ },
+ "9d9f7e2f58": {
+  "instruction": {
+   "language": "Malayalam ",
+   "ANSWER": "Tirun A. Gopal, M.D.",
+   "specialty": "Obstetrics and Gynecology",
+   "zip": "94110"
+  }
+ },
+ "345b8d5643": {
+  "instruction": {
+   "language": "French",
+   "ANSWER": "Elias Nicolas Kiwan, M.D.",
+   "specialty": "Adult Primary Care",
+   "zip": "94249"
+  }
+ },
+ "36bddf57e2": {
+  "instruction": {
+   "specialty": "podiatry",
+   "zip": "94235",
+   "language": "Spanish"
+  }
+ },
+ "024adae22f": {
+  "instruction": {
+   "language": "Filipino",
+   "ANSWER": "Maria N. Tan, M.D.",
+   "specialty": "Pediatrics",
+   "zip": "95758"
+  }
+ },
+ "a2785a243f": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "http://www.sutterhealth.org/dr-ann-m-petru.html",
+   "specialty": "Pediatric Infectious Diseases",
+   "zip": "94609"
+  }
+ },
+ "7a2e4ec717": {
+  "instruction": {
+   "language": "Urdu",
+   "ANSWER": "http://www.sutterhealth.org/dr-humayan-abbas.html",
+   "specialty": "Internal medicine ",
+   "zip": "95350"
+  }
+ },
+ "96a26657fc": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "http://www.sutterhealth.org/dr-daniel-becker.html",
+   "specialty": "Psychiatry ",
+   "zip": "94010"
+  }
+ },
+ "21e66c33e0": {
+  "instruction": {
+   "language": "Russian",
+   "ANSWER": "Gary B. Birnbaum, M.D.",
+   "specialty": "Geriatric Medicine",
+   "zip": "94120"
+  }
+ },
+ "f4302db2af": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "This physician directory is provided as a convenience to you. It is not intended as a recommendation, referral, or endorsement of any particular provider. Physicians are not employees or agents of Sutter Health or its affiliates.",
+   "specialty": "Internal Medicine  ",
+   "zip": "95403 "
+  }
+ },
+ "4817b0e13d": {
+  "instruction": {
+   "language": "Spanish ,English",
+   "ANSWER": "The information is submitted by each doctor and we make no guarantee or warranty as to the accuracy of the information.",
+   "specialty": "Pediatrics  ",
+   "zip": "94066 "
+  }
+ },
+ "2858c84fa8": {
+  "instruction": {
+   "specialty": "Pediatrics",
+   "language": "Tagalog",
+   "zip": "94245",
+   "ANSWER": "Erlinda D. Manalo, M.D."
+  }
+ },
+ "5f7550aacf": {
+  "instruction": {
+   "language": "Yiddish",
+   "ANSWER": "Mark Drucker, DPM",
+   "specialty": "Podiatry",
+   "zip": "94903"
+  }
+ },
+ "a6852ef7f8": {
+  "instruction": {
+   "specialty": "Psychiatry ",
+   "language": "English",
+   "zip": "94010",
+   "ANSWER": "http://www.sutterhealth.org/dr-daniel-becker.html"
+  }
+ },
+ "3382cef32a": {
+  "instruction": {
+   "specialty": "Family Medicine",
+   "zip": "94541",
+   "language": "Thai"
+  }
+ },
+ "603170dadc": {
+  "instruction": {
+   "specialty": "Urology",
+   "zip": "94010",
+   "language": "Italian"
+  }
+ },
+ "0fd08d8fa1": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Accepting new patients",
+   "specialty": "Internal Medicine",
+   "zip": "95350"
+  }
+ },
+ "9e15a664e5": {
+  "instruction": {
+   "language": "French",
+   "ANSWER": "http://www.sutterhealth.org/dr-jean-gillon.html",
+   "specialty": "Vascular Surgery ",
+   "zip": "94062"
+  }
+ },
+ "2ebb2e076a": {
+  "instruction": {
+   "specialty": "Neurosurgery",
+   "language": "Hebrew",
+   "zip": "94526",
+   "ANSWER": "Ronnie I. Mimran, M.D."
+  }
+ },
+ "45f48402cb": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Accepting new patients",
+   "specialty": "Hospitalist\t",
+   "zip": "94568"
+  }
+ },
+ "8b36f7872b": {
+  "instruction": {
+   "language": "Spanish",
+   "ANSWER": "Nikhil Agarwal",
+   "specialty": "Gastroenterology",
+   "zip": "94115"
+  }
+ },
+ "b5fdabbe01": {
+  "instruction": {
+   "specialty": "Pediatrics",
+   "language": "Fukien ",
+   "zip": "94080",
+   "ANSWER": "Chi K. Co, M.D."
+  }
+ },
+ "d2299bbacc": {
+  "instruction": {
+   "language": "Polish",
+   "ANSWER": "Anna-Barbara Moscicki, M.D.",
+   "specialty": "Adolescent Medecine",
+   "zip": "94122"
+  }
+ },
+ "d659f428c0": {
+  "instruction": {
+   "language": "Korean",
+   "ANSWER": "Brian K. Kim",
+   "specialty": "Hematology",
+   "zip": "95602"
+  }
+ },
+ "9c950bca23": {
+  "instruction": {
+   "specialty": "cardiology",
+   "zip": "94280",
+   "language": "Cambodian"
+  }
+ },
+ "fcda07c2bb": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Accepting new patients",
+   "specialty": "Orthopedic Surgery",
+   "zip": "94014"
+  }
+ },
+ "e19572df8e": {
+  "instruction": {
+   "specialty": "Internal medicine ",
+   "language": "Urdu",
+   "zip": "95350",
+   "ANSWER": "http://www.sutterhealth.org/dr-humayan-abbas.html"
+  }
+ },
+ "c447672952": {
+  "instruction": {
+   "language": "Korean",
+   "ANSWER": "Sunny Hee Jun, M.D., FACOG",
+   "specialty": "Infertility",
+   "zip": "94538"
+  }
+ },
+ "3ba19a75d1": {
+  "instruction": {
+   "specialty": "Infertility",
+   "language": "Korean",
+   "zip": "94538",
+   "ANSWER": "Sunny Hee Jun, M.D., FACOG"
+  }
+ },
+ "9699e2ce1f": {
+  "instruction": {
+   "language": "Tagalog",
+   "ANSWER": "Erlinda D. Manalo, M.D.",
+   "specialty": "Pediatrics",
+   "zip": "94245"
+  }
+ },
+ "83820bb27b": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Accepting new patients",
+   "specialty": "Surgery",
+   "zip": "94608"
+  }
+ },
+ "3e48cb4373": {
+  "instruction": {
+   "specialty": "dermatology",
+   "zip": "94248",
+   "language": "Mandarin"
+  }
+ },
+ "80a0994eed": {
+  "instruction": {
+   "language": "Filipino",
+   "ANSWER": "Jesus Roland M. Gatpolintan, M.D.",
+   "specialty": "Internal Medicine",
+   "zip": "94109"
+  }
+ },
+ "991c21c9e2": {
+  "instruction": {
+   "language": "Spanish ,English",
+   "ANSWER": "Adolescent health,\tAllergy testing,\tArthritis care,\tBone diseases, Cholesterol management,\tComplementary/alternative medicine, Dermatology,\tDiabetes,\tMen's health,\tMigraines,\tMind-body wellness,\tNutrition counseling,\tOsteopathy,\tPreventive care, Thyroid disorders,\tWomen's health,\tWound care",
+   "specialty": "Allergy and Immunology  ",
+   "zip": "95376 "
+  }
+ },
+ "05a7ebfacc": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "This physician directory is provided as a convenience to you. It is not intended as a recommendation, referral, or endorsement of any particular provider. Physicians are not employees or agents of Sutter Health or its affiliates",
+   "specialty": "Pediatrics  ",
+   "zip": "94578 "
+  }
+ },
+ "5825e10fe0": {
+  "instruction": {
+   "specialty": "Gastroenterology",
+   "language": "Spanish",
+   "zip": "94115",
+   "ANSWER": "http://www.sutterhealth.org/dr-rtodd-frederick.html"
+  }
+ },
+ "95f280cb78": {
+  "instruction": {
+   "language": "Spanish ",
+   "ANSWER": "Addiction medicine,\tBehavior counseling,\tBioethics, Cardiovascular disease,\tCholesterol management,\tChronic disease management,\tChronic pain,\tDepression,\tDrug testing and screening,\tGeriatric issues,\tHealth maintenance,\tHouse call medicine,\tInfectious disease,\tIntegrative medicineMen's health, Mental health,\t",
+   "specialty": "Family Medicine",
+   "zip": "94108 "
+  }
+ },
+ "6675eee506": {
+  "instruction": {
+   "specialty": "Cancer surgery",
+   "language": "Arabic",
+   "zip": "95991",
+   "ANSWER": "Ashraf S. Ekdawy, M.D., FACS"
+  }
+ },
+ "1c0ba042b0": {
+  "instruction": {
+   "language": "Spanish",
+   "specialty": "Cardiovascular Disease",
+   "zip": "94109"
+  }
+ },
+ "35879205a5": {
+  "instruction": {
+   "language": "Afrikaans",
+   "ANSWER": "Toby I. Gottheiner, M.D.",
+   "specialty": "Nephrology",
+   "zip": "94301"
+  }
+ },
+ "389517b63a": {
+  "instruction": {
+   "language": "Korean",
+   "specialty": "Podiatry",
+   "zip": "95403"
+  }
+ },
+ "9cd26f807e": {
+  "instruction": {
+   "language": "French",
+   "ANSWER": "Filoteo Alano",
+   "specialty": "Nephrology",
+   "zip": "94015"
+  }
+ },
+ "540dcfdf9f": {
+  "instruction": {
+   "language": "Hmong",
+   "ANSWER": "Josefina A. Aquino, M.D.",
+   "specialty": "Internal Medicine",
+   "zip": "95670"
+  }
+ },
+ "588eadb78e": {
+  "instruction": {
+   "language": "English  ,Arabic, Spanish",
+   "ANSWER": "Adrenal disorders,\tAdvanced care planning,\tAllergy testing, Alzheimer's disease,\tArthritis care,\tAsthma action plans,\tBack and neck disorders,\tBone diseases,\tCAD,\tCardiac CT angiography, Cardiovascular disease,\t",
+   "specialty": "Cardiovascular Disease  ",
+   "zip": "94546 "
+  }
+ },
+ "de1eda4afa": {
+  "instruction": {
+   "language": "Russian",
+   "ANSWER": "Bruce M. McCormack",
+   "specialty": "Neurosurgery",
+   "zip": "94115"
+  }
+ },
+ "e4a5217835": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Accepting new patients",
+   "specialty": "Dermatology",
+   "zip": "95816"
+  }
+ },
+ "b941f8ae10": {
+  "instruction": {
+   "language": "Italian",
+   "ANSWER": "Philip Bosco, M.D., FACS",
+   "specialty": "Trauma Surgery",
+   "zip": "95661"
+  }
+ },
+ "44453999cf": {
+  "instruction": {
+   "language": "Mandarin",
+   "specialty": "dermatology",
+   "zip": "94248"
+  }
+ },
+ "d783794dbd": {
+  "instruction": {
+   "language": "Italian",
+   "specialty": "Urology",
+   "zip": "94010"
+  }
+ },
+ "3be1a63d10": {
+  "instruction": {
+   "specialty": "Ophthalmology",
+   "language": "Dutch",
+   "zip": "94110",
+   "ANSWER": "Andrew F. Calman, M.D."
+  }
+ },
+ "8fc7a376fc": {
+  "instruction": {
+   "specialty": "Neurotology",
+   "language": "English",
+   "zip": "95815",
+   "ANSWER": "Kevin X. McKennan, M.D., FACS"
+  }
+ },
+ "8ec37ab20f": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Accepting new patients",
+   "specialty": "Pediatrics\t",
+   "zip": "95602"
+  }
+ },
+ "99283a8f94": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Accepting new patients",
+   "specialty": "Pediatric Nephrology",
+   "zip": "95355-6131"
+  }
+ },
+ "f5b7465f0a": {
+  "instruction": {
+   "language": "English",
+   "ANSWER": "Accepting new patients",
+   "specialty": "Pathology",
+   "zip": "95826"
+  }
+ }
+}

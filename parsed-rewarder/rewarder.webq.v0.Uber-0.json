@@ -1,0 +1,1342 @@
+{
+ "e2816e5480": {
+  "instruction": {
+   "ending location": "Towson, Maryland",
+   "starting location": "Baltimore, Maryland",
+   "ANSWER": "$19-25"
+  }
+ },
+ "861262fc99": {
+  "instruction": {
+   "ending location": "Warner Bros. Studios, Burbank, CA",
+   "starting location": "LOS ANGELES airport, World Way, Los Angeles, CA",
+   "ANSWER": "124"
+  }
+ },
+ "dad5904f9c": {
+  "instruction": {
+   "starting location": "norwell ma",
+   "ending location": "weymouth ma",
+   "ANSWER": "21-79"
+  }
+ },
+ "750ae37399": {
+  "instruction": {
+   "ending location": "fall river ma",
+   "starting location": "braintree ma",
+   "ANSWER": "73-292"
+  }
+ },
+ "300e56e455": {
+  "instruction": {
+   "ending location": "Annapolis, Maryland",
+   "starting location": "Baltimore, Maryland",
+   "ANSWER": "$115-152"
+  }
+ },
+ "56971c9d06": {
+  "instruction": {
+   "ending location": "abington ma",
+   "starting location": "hingham ma",
+   "ANSWER": "20-89"
+  }
+ },
+ "43fb6cd010": {
+  "instruction": {
+   "ending location": "Newark, New Jersey",
+   "starting location": "Trenton, New Jersey",
+   "ANSWER": "$237-313"
+  }
+ },
+ "50fa18f9b5": {
+  "instruction": {
+   "ending location": "Beverly Hills, California",
+   "starting location": "Los Angeles, California",
+   "ANSWER": "$58-76"
+  }
+ },
+ "0b0c0a9db2": {
+  "instruction": {
+   "ending location": "East Sky Harbor Circle South, Phoenix, AZ",
+   "starting location": "Swift, Phoenix, AZ",
+   "ANSWER": "$39-51"
+  }
+ },
+ "a6d20835bc": {
+  "instruction": {
+   "starting location": "Stadium Place, Occidental Avenue South, Seattle, WA",
+   "ending location": "Pike Place, Seattle, WA",
+   "ANSWER": "16"
+  }
+ },
+ "e5237bd605": {
+  "instruction": {
+   "ending location": "Hermosa Beach, CA",
+   "starting location": "Santa Monica, CA",
+   "ANSWER": "81"
+  }
+ },
+ "03b1711764": {
+  "instruction": {
+   "starting location": "Cary, North Carolina",
+   "ending location": "Atlanta,Georgia"
+  }
+ },
+ "8e40c4946f": {
+  "instruction": {
+   "starting location": "Orlando, Florida",
+   "ending location": "Tampa, Florida"
+  }
+ },
+ "bc8a837b77": {
+  "instruction": {
+   "ending location": "Branson, Missouri",
+   "starting location": "Little Rock, Arkansas"
+  }
+ },
+ "b35690fa43": {
+  "instruction": {
+   "ending location": "Santa Fe, New Mexico",
+   "starting location": "Albuquerque, New Mexico",
+   "ANSWER": "$59-79"
+  }
+ },
+ "79f8471ce3": {
+  "instruction": {
+   "ending location": "brockton ma",
+   "starting location": "weymouth ma",
+   "ANSWER": "41-83"
+  }
+ },
+ "a2d61151ce": {
+  "instruction": {
+   "ending location": "Orlando, Florida",
+   "starting location": "Gainesville, Florida"
+  }
+ },
+ "3c7ab49c87": {
+  "instruction": {
+   "starting location": "Indianapolis, IN",
+   "ending location": "Champaign, IL",
+   "ANSWER": "$ 101-134"
+  }
+ },
+ "b47ac671f5": {
+  "instruction": {
+   "starting location": "Nashville, TN",
+   "ending location": "Glasgow, KY",
+   "ANSWER": "$ 90-121"
+  }
+ },
+ "13a175aec4": {
+  "instruction": {
+   "starting location": "Atlanta, Georgia",
+   "ending location": "Lakeland, Florida"
+  }
+ },
+ "95597a6618": {
+  "instruction": {
+   "starting location": "Chicago, Illinois",
+   "ending location": "Springfield, Illinois",
+   "ANSWER": "$700-933"
+  }
+ },
+ "16c6a3b001": {
+  "instruction": {
+   "starting location": "Hermosa Beach, CA",
+   "ending location": "San Diego, CA",
+   "ANSWER": "444"
+  }
+ },
+ "29f8069d9a": {
+  "instruction": {
+   "starting location": "St. Louis, Missouri",
+   "ending location": "Chicago,Illinois "
+  }
+ },
+ "ad57ee338d": {
+  "instruction": {
+   "ending location": "Flagstaff, Arizona",
+   "starting location": "Phoenix, Arizona"
+  }
+ },
+ "6abadb499c": {
+  "instruction": {
+   "ending location": "Cranston, Rhode Island",
+   "starting location": "Providence, Rhode Island",
+   "ANSWER": "$8-11"
+  }
+ },
+ "11e746a0de": {
+  "instruction": {
+   "starting location": "LOS ANGELES airport, World Way, Los Angeles, CA",
+   "ending location": "Hollywood Sign, Los Angeles, CA",
+   "ANSWER": "112"
+  }
+ },
+ "ee43eed1a9": {
+  "instruction": {
+   "ending location": "burlington ma",
+   "starting location": "worcester ma",
+   "ANSWER": "49-99"
+  }
+ },
+ "7ab55c1d19": {
+  "instruction": {
+   "ending location": "Tuscaloosa, Alabama",
+   "starting location": "Birmingham, Alabama",
+   "ANSWER": "$75-100"
+  }
+ },
+ "e8076ca68f": {
+  "instruction": {
+   "ending location": "Mesa, Arizona",
+   "starting location": "Phoenix, Arizona",
+   "ANSWER": "$20-27"
+  }
+ },
+ "79d5a3e049": {
+  "instruction": {
+   "ending location": "Truth or Consequences, New Mexico",
+   "starting location": "Albuquerque, New Mexico",
+   "ANSWER": "$135-180"
+  }
+ },
+ "1b72192df5": {
+  "instruction": {
+   "ending location": "Orlando, Florida",
+   "starting location": "Tampa, Florida"
+  }
+ },
+ "cb942b053e": {
+  "instruction": {
+   "ending location": "Copenhagen, Denmark",
+   "starting location": "Helsinki, Finland"
+  }
+ },
+ "8b7e041a5d": {
+  "instruction": {
+   "starting location": "Paris, France",
+   "ending location": "Nice, France"
+  }
+ },
+ "27f68a2fb3": {
+  "instruction": {
+   "ending location": "Scottsdale, AZ",
+   "starting location": "West Washington Street, Phoenix, AZ",
+   "ANSWER": "$55-72"
+  }
+ },
+ "3b64352538": {
+  "instruction": {
+   "starting location": "Pearl River, New York",
+   "ending location": "Clifton, New Jersey",
+   "ANSWER": "$46-158"
+  }
+ },
+ "5d9dd23bb4": {
+  "instruction": {
+   "starting location": "Baltimore, Maryland",
+   "ending location": "Annapolis, Maryland",
+   "ANSWER": "$115-152"
+  }
+ },
+ "99ea12ed1d": {
+  "instruction": {
+   "starting location": "Baltimore, Maryland",
+   "ending location": "Towson, Maryland",
+   "ANSWER": "$19-25"
+  }
+ },
+ "7020d6623a": {
+  "instruction": {
+   "ending location": "boston ma",
+   "starting location": "rockland ma",
+   "ANSWER": "34-151"
+  }
+ },
+ "cf9c9241fe": {
+  "instruction": {
+   "ending location": "Denton, TX",
+   "starting location": "Dallas, TX",
+   "ANSWER": "$147-195"
+  }
+ },
+ "b66c893643": {
+  "instruction": {
+   "starting location": "Mahwah, New Jersey",
+   "ending location": "Teterboro, New Jersey",
+   "ANSWER": "$19-128"
+  }
+ },
+ "4ed6a212bb": {
+  "instruction": {
+   "ending location": "Woodcliff Lake, New Jersey",
+   "starting location": "Lafayette, New Jersey",
+   "ANSWER": "$54-363"
+  }
+ },
+ "f8ae1d15f4": {
+  "instruction": {
+   "ending location": "Newark, New Jersey",
+   "starting location": "Jersey City, New Jersey",
+   "ANSWER": "$9-58"
+  }
+ },
+ "55526f02b5": {
+  "instruction": {
+   "starting location": "Lafayette, New Jersey",
+   "ending location": "Woodcliff Lake, New Jersey",
+   "ANSWER": "$54-363"
+  }
+ },
+ "c03d795eae": {
+  "instruction": {
+   "ending location": "Pike Place, Seattle, WA",
+   "starting location": "Stadium Place, Occidental Avenue South, Seattle, WA",
+   "ANSWER": "16"
+  }
+ },
+ "20334a8479": {
+  "instruction": {
+   "starting location": "Omaha, Nebraska",
+   "ending location": "Lincoln, Nebraska",
+   "ANSWER": "$55-74"
+  }
+ },
+ "47811e640c": {
+  "instruction": {
+   "starting location": "Raleigh, North Carolina",
+   "ending location": "Buffalo, New York"
+  }
+ },
+ "d15963f969": {
+  "instruction": {
+   "starting location": "QEC, West McDowell Road, Phoenix, AZ",
+   "ending location": "South 2nd Street, Phoenix, AZ",
+   "ANSWER": "$34-44"
+  }
+ },
+ "716519da83": {
+  "instruction": {
+   "starting location": "White Plains, New York",
+   "ending location": "Hackensack, New Jersey",
+   "ANSWER": "$84-241"
+  }
+ },
+ "f4d5c6e48d": {
+  "instruction": {
+   "starting location": "Lakeland, Florida",
+   "ending location": "Orlando, Florida"
+  }
+ },
+ "1b1a96736c": {
+  "instruction": {
+   "starting location": "Pittsburgh, Pennsylvania",
+   "ending location": "Buffalo, New York"
+  }
+ },
+ "fcc9b62dcb": {
+  "instruction": {
+   "ending location": "Olympia, Washington",
+   "starting location": "Seattle, Washington",
+   "ANSWER": "$232-308"
+  }
+ },
+ "9433ad6d35": {
+  "instruction": {
+   "starting location": "Providence, Rhode Island",
+   "ending location": "Cranston, Rhode Island",
+   "ANSWER": "$8-11"
+  }
+ },
+ "c87a998110": {
+  "instruction": {
+   "ending location": "Lawton, OK",
+   "starting location": "Norman, OK",
+   "ANSWER": "$ 61-82"
+  }
+ },
+ "ea05f55a5b": {
+  "instruction": {
+   "starting location": "canton ma",
+   "ending location": "randolph ma",
+   "ANSWER": "15-66"
+  }
+ },
+ "ba5c0b1e95": {
+  "instruction": {
+   "starting location": "Trenton, New Jersey",
+   "ending location": "Newark, New Jersey",
+   "ANSWER": "$237-313"
+  }
+ },
+ "0d86a4671d": {
+  "instruction": {
+   "ending location": "Tampa, Florida",
+   "starting location": "Orlando, Florida"
+  }
+ },
+ "ca3a98a6b6": {
+  "instruction": {
+   "starting location": "Charleston, West Virginia",
+   "ending location": "Huntington, West Virginia",
+   "ANSWER": "$62-82"
+  }
+ },
+ "57dac63671": {
+  "instruction": {
+   "ending location": "Duisburg, Germany",
+   "starting location": "Munich, Germany"
+  }
+ },
+ "1ba25289c9": {
+  "instruction": {
+   "starting location": "West Washington Street, Phoenix, AZ",
+   "ending location": "Scottsdale, AZ",
+   "ANSWER": "$55-72"
+  }
+ },
+ "578578b89a": {
+  "instruction": {
+   "ending location": "Wichita, KS",
+   "starting location": "Kansas City, MO",
+   "ANSWER": "$ 177-236"
+  }
+ },
+ "b2edcd9e0d": {
+  "instruction": {
+   "starting location": "Glen-Ridge, New Jersey",
+   "ending location": "Montvale, New Jersey",
+   "ANSWER": "$28-184"
+  }
+ },
+ "4c5ad5ca12": {
+  "instruction": {
+   "starting location": "Gainesville, Florida",
+   "ending location": "Orlando, Florida"
+  }
+ },
+ "88385a0a28": {
+  "instruction": {
+   "starting location": "Naperville, IL",
+   "ending location": "Rockford, IL",
+   "ANSWER": "$ 87-116"
+  }
+ },
+ "07a3a8b1e2": {
+  "instruction": {
+   "starting location": "Richmond, Virginia",
+   "ending location": "Petersburg, Virginia",
+   "ANSWER": "$23-31"
+  }
+ },
+ "5ffd24c721": {
+  "instruction": {
+   "starting location": "Roanoke, Virginia",
+   "ending location": "Washington, D.C.",
+   "ANSWER": "$327-436"
+  }
+ },
+ "74d1f5781b": {
+  "instruction": {
+   "ending location": "Atlanta,Georgia",
+   "starting location": "Cary, North Carolina"
+  }
+ },
+ "bef37db6e1": {
+  "instruction": {
+   "ending location": "East Rutherford, New Jersey",
+   "starting location": "Paterson, New Jersey",
+   "ANSWER": "$14-94"
+  }
+ },
+ "9118495166": {
+  "instruction": {
+   "ending location": "Supreme Court of the United States, First Street Northeast, Washington, DC",
+   "starting location": "U.S. Capitol, East Capitol Street Northeast, Washington, DC"
+  }
+ },
+ "4dd14ac716": {
+  "instruction": {
+   "ending location": "Vicksburg, Mississippi",
+   "starting location": "Jackson, Mississippi",
+   "ANSWER": "$54-72"
+  }
+ },
+ "629cf6f479": {
+  "instruction": {
+   "ending location": "Atlanta, Georgia",
+   "starting location": "Miami, Florida"
+  }
+ },
+ "3a83bc87a5": {
+  "instruction": {
+   "starting location": "Stamford, CT",
+   "ending location": "Binghamton, NY",
+   "ANSWER": "$ 185-247"
+  }
+ },
+ "b894c35675": {
+  "instruction": {
+   "starting location": "Mexico City, Mexico",
+   "ending location": "Guadalajara, Mexico"
+  }
+ },
+ "2a4ffb2abb": {
+  "instruction": {
+   "starting location": "worcester ma",
+   "ending location": "burlington ma",
+   "ANSWER": "49-99"
+  }
+ },
+ "7f50401083": {
+  "instruction": {
+   "ending location": "Buffalo, New York",
+   "starting location": "Pittsburgh, Pennsylvania"
+  }
+ },
+ "dd1ac28ec7": {
+  "instruction": {
+   "ending location": "Denver, CO",
+   "starting location": "San Francisco, CA",
+   "ANSWER": "4314"
+  }
+ },
+ "4d977a6a24": {
+  "instruction": {
+   "ending location": "braintree ma",
+   "starting location": "quincy ma",
+   "ANSWER": "9-42"
+  }
+ },
+ "b7021c1494": {
+  "instruction": {
+   "starting location": "Saint Petersburg, Florida",
+   "ending location": "Gainesville, Florida"
+  }
+ },
+ "4c954386e0": {
+  "instruction": {
+   "starting location": "Los Angeles, California",
+   "ending location": "Beverly Hills, California",
+   "ANSWER": "$58-76"
+  }
+ },
+ "beefcfb545": {
+  "instruction": {
+   "starting location": "Phoenix, Arizona",
+   "ending location": "Mesa, Arizona",
+   "ANSWER": "$20-27"
+  }
+ },
+ "aae4a6ba9a": {
+  "instruction": {
+   "ending location": "Rockford, IL",
+   "starting location": "Naperville, IL",
+   "ANSWER": "$ 87-116"
+  }
+ },
+ "061ac4b585": {
+  "instruction": {
+   "starting location": "LOS ANGELES airport, World Way, Los Angeles, CA",
+   "ending location": "Warner Bros. Studios, Burbank, CA",
+   "ANSWER": "124"
+  }
+ },
+ "136a0ecf33": {
+  "instruction": {
+   "ending location": "Gainesville, Florida",
+   "starting location": "Saint Petersburg, Florida"
+  }
+ },
+ "d4706fc5e6": {
+  "instruction": {
+   "starting location": "U.S. Capitol, East Capitol Street Northeast, Washington, DC",
+   "ending location": "Supreme Court of the United States, First Street Northeast, Washington, DC"
+  }
+ },
+ "e4b35b88f3": {
+  "instruction": {
+   "ending location": "Huntington, West Virginia",
+   "starting location": "Charleston, West Virginia",
+   "ANSWER": "$62-82"
+  }
+ },
+ "f2a5c1ecb4": {
+  "instruction": {
+   "starting location": "Stanford, CA",
+   "ending location": "Palo Alto, CA",
+   "ANSWER": "$20-25"
+  }
+ },
+ "0ac5c33568": {
+  "instruction": {
+   "ending location": "Clifton, New Jersey",
+   "starting location": "Pearl River, New York",
+   "ANSWER": "$46-158"
+  }
+ },
+ "33a01161fa": {
+  "instruction": {
+   "ending location": "Tampa, Florida",
+   "starting location": "Jacksonville, Florida"
+  }
+ },
+ "6763448ec4": {
+  "instruction": {
+   "starting location": "rockland ma",
+   "ending location": "boston ma",
+   "ANSWER": "34-151"
+  }
+ },
+ "3860329b2e": {
+  "instruction": {
+   "ending location": "Tucson, Arizona",
+   "starting location": "Phoenix, Arizona"
+  }
+ },
+ "ea92c8e8aa": {
+  "instruction": {
+   "starting location": "Birmingham, Alabama",
+   "ending location": "Tuscaloosa, Alabama",
+   "ANSWER": "$75-100"
+  }
+ },
+ "6c0e2f153e": {
+  "instruction": {
+   "starting location": "Jackson, Mississippi",
+   "ending location": "Vicksburg, Mississippi",
+   "ANSWER": "$54-72"
+  }
+ },
+ "79f46a450e": {
+  "instruction": {
+   "starting location": "Santa Clara, California",
+   "ending location": "San Francisco, California"
+  }
+ },
+ "962231f30b": {
+  "instruction": {
+   "ending location": "Omaha's Henry Doorly Zoo and Aquarium, South 10th Street, Omaha, NE",
+   "starting location": "Xwarrior Xtreme Sports, Omaha, NE",
+   "ANSWER": "$19-26"
+  }
+ },
+ "b55158297e": {
+  "instruction": {
+   "ending location": "Town Hall Seattle, 8th Avenue, S",
+   "starting location": " Space Needle, Seattle, WA",
+   "ANSWER": "15"
+  }
+ },
+ "a1a07b3a79": {
+  "instruction": {
+   "ending location": "STAPLES Center, South Figueroa Street, Los Angeles, CA",
+   "starting location": "LOS ANGELES airport, World Way, Los Angeles, CA",
+   "ANSWER": "76"
+  }
+ },
+ "59748fdacb": {
+  "instruction": {
+   "ending location": "Champaign, IL",
+   "starting location": "Indianapolis, IN",
+   "ANSWER": "$ 101-134"
+  }
+ },
+ "0f01301b56": {
+  "instruction": {
+   "starting location": "Las Vegas, Nevada",
+   "ending location": "Los Angeles, California"
+  }
+ },
+ "57db2e1e32": {
+  "instruction": {
+   "starting location": "Little Rock, Arkansas",
+   "ending location": "Branson, Missouri"
+  }
+ },
+ "4169e65b6c": {
+  "instruction": {
+   "ending location": "Hayes Valley, San Francisco, CA",
+   "starting location": "San Jose, CA",
+   "ANSWER": "$ 209-277 "
+  }
+ },
+ "b397f49096": {
+  "instruction": {
+   "starting location": "San Diego Airport, North Harbor Drive, San Diego, CA",
+   "ending location": "Tijuana, Mexico",
+   "ANSWER": "510"
+  }
+ },
+ "2aa7e1ebb0": {
+  "instruction": {
+   "starting location": "Kansas City, MO",
+   "ending location": "Wichita, KS",
+   "ANSWER": "$ 177-236"
+  }
+ },
+ "d3ec6a0fb3": {
+  "instruction": {
+   "ending location": "Austin, Texas",
+   "starting location": "Dallas, Texas",
+   "ANSWER": "$669-890"
+  }
+ },
+ "91d46adf3e": {
+  "instruction": {
+   "ending location": "Little Rock, Arkansas",
+   "starting location": "St. Louis, Missouri"
+  }
+ },
+ "8fae22581b": {
+  "instruction": {
+   "ending location": "randolph ma",
+   "starting location": "canton ma",
+   "ANSWER": "15-66"
+  }
+ },
+ "c6f3df8001": {
+  "instruction": {
+   "ending location": "Weehawken, New Jersey",
+   "starting location": "Edison, New Jersey",
+   "ANSWER": "$38-229"
+  }
+ },
+ "d58370ee40": {
+  "instruction": {
+   "starting location": "Phoenix, Arizona",
+   "ending location": "Tucson, Arizona"
+  }
+ },
+ "930b3a0096": {
+  "instruction": {
+   "starting location": "Orlando, Florida",
+   "ending location": "Daytona Beach, Florida",
+   "ANSWER": "$41-55"
+  }
+ },
+ "fdc0ac26d2": {
+  "instruction": {
+   "starting location": "braintree ma",
+   "ending location": "fall river ma",
+   "ANSWER": "73-292"
+  }
+ },
+ "fe28780d87": {
+  "instruction": {
+   "ending location": "San Francisco, California",
+   "starting location": "Santa Clara, California"
+  }
+ },
+ "425dcb3583": {
+  "instruction": {
+   "starting location": "boston ma",
+   "ending location": "providence ri",
+   "ANSWER": "69-310"
+  }
+ },
+ "f4f88a2b0d": {
+  "instruction": {
+   "ending location": "St Petersburg, Russia",
+   "starting location": "Moscow, Russia"
+  }
+ },
+ "9e13875893": {
+  "instruction": {
+   "starting location": "hingham ma",
+   "ending location": "abington ma",
+   "ANSWER": "20-89"
+  }
+ },
+ "08091d1658": {
+  "instruction": {
+   "starting location": "San Francisco, California",
+   "ending location": "San Jose, California",
+   "ANSWER": "$64-85"
+  }
+ },
+ "1ccca37d7d": {
+  "instruction": {
+   "starting location": "Paterson, New Jersey",
+   "ending location": "East Rutherford, New Jersey",
+   "ANSWER": "$14-94"
+  }
+ },
+ "0f0a1c57be": {
+  "instruction": {
+   "ending location": "Orlando, Florida",
+   "starting location": "Lakeland, Florida"
+  }
+ },
+ "202195d48c": {
+  "instruction": {
+   "starting location": "quincy ma",
+   "ending location": "braintree ma",
+   "ANSWER": "9-42"
+  }
+ },
+ "a804c4e27d": {
+  "instruction": {
+   "starting location": "Albuquerque, New Mexico",
+   "ending location": "Truth or Consequences, New Mexico",
+   "ANSWER": "$135-180"
+  }
+ },
+ "7b28545f40": {
+  "instruction": {
+   "starting location": "Alamo, CA",
+   "ending location": "Danville, CA",
+   "ANSWER": "$ 22-28"
+  }
+ },
+ "0f3f80e4cb": {
+  "instruction": {
+   "ending location": "South 2nd Street, Phoenix, AZ",
+   "starting location": "QEC, West McDowell Road, Phoenix, AZ",
+   "ANSWER": "$34-44"
+  }
+ },
+ "0961f5284e": {
+  "instruction": {
+   "starting location": "Jersey City, New Jersey",
+   "ending location": "Newark, New Jersey",
+   "ANSWER": "$9-58"
+  }
+ },
+ "8427a928b9": {
+  "instruction": {
+   "ending location": "Lincoln, Nebraska",
+   "starting location": "Omaha, Nebraska",
+   "ANSWER": "$55-74"
+  }
+ },
+ "a05365922c": {
+  "instruction": {
+   "starting location": "Atlanta, Georgia",
+   "ending location": "Macon, Georgia"
+  }
+ },
+ "2defafbc6d": {
+  "instruction": {
+   "starting location": "Tampa, Florida",
+   "ending location": "Orlando, Florida"
+  }
+ },
+ "8d8aad9238": {
+  "instruction": {
+   "ending location": "Binghamton, NY",
+   "starting location": "Stamford, CT",
+   "ANSWER": "$ 185-247"
+  }
+ },
+ "7a79ac2472": {
+  "instruction": {
+   "ending location": "Myrtle Beach, South Carolina",
+   "starting location": "Columbia, South Carolina",
+   "ANSWER": "$155-207"
+  }
+ },
+ "628e2216bf": {
+  "instruction": {
+   "starting location": "Cary, North Carolina",
+   "ending location": "Washington DC"
+  }
+ },
+ "491bf4120e": {
+  "instruction": {
+   "starting location": "Dallas, Texas",
+   "ending location": "Austin, Texas",
+   "ANSWER": "$669-890"
+  }
+ },
+ "3c804aa5a1": {
+  "instruction": {
+   "ending location": "Washington DC",
+   "starting location": "Cary, North Carolina"
+  }
+ },
+ "6fc4fce2cd": {
+  "instruction": {
+   "starting location": "Moscow, Russia",
+   "ending location": "St Petersburg, Russia"
+  }
+ },
+ "b02501dade": {
+  "instruction": {
+   "ending location": "San Diego, CA",
+   "starting location": "Hermosa Beach, CA",
+   "ANSWER": "444"
+  }
+ },
+ "0594ada1d6": {
+  "instruction": {
+   "ending location": "Columbus, OH",
+   "starting location": "Pittsburgh, PA",
+   "ANSWER": "$ 201-268"
+  }
+ },
+ "d608058082": {
+  "instruction": {
+   "starting location": " Space Needle, Seattle, WA",
+   "ending location": "Town Hall Seattle, 8th Avenue, S",
+   "ANSWER": "15"
+  }
+ },
+ "bd0b5a5444": {
+  "instruction": {
+   "ending location": "Guadalajara, Mexico",
+   "starting location": "Mexico City, Mexico"
+  }
+ },
+ "6b09d15e34": {
+  "instruction": {
+   "ending location": "Hollywood, Los Angeles, CA",
+   "starting location": "LOS ANGELES airport, World Way, Los Angeles, CA",
+   "ANSWER": "80"
+  }
+ },
+ "dca9775b03": {
+  "instruction": {
+   "ending location": "Palo Alto, CA",
+   "starting location": "Stanford, CA",
+   "ANSWER": "$20-25"
+  }
+ },
+ "07bdf83372": {
+  "instruction": {
+   "starting location": "McLean, VA",
+   "ending location": "Tysons, VA",
+   "ANSWER": "$ 8-10"
+  }
+ },
+ "b7c41ba606": {
+  "instruction": {
+   "starting location": "Albuquerque, New Mexico",
+   "ending location": "Santa Fe, New Mexico",
+   "ANSWER": "$59-79"
+  }
+ },
+ "a1af50bec3": {
+  "instruction": {
+   "ending location": "Seattle, Washington",
+   "starting location": "Bellevue, Washington"
+  }
+ },
+ "425d61abf9": {
+  "instruction": {
+   "ending location": "Hackensack, New Jersey",
+   "starting location": "White Plains, New York",
+   "ANSWER": "$84-241"
+  }
+ },
+ "53ea1a0580": {
+  "instruction": {
+   "ending location": "Montclair, New Jersey",
+   "starting location": "Wood-Ridge, New Jersey",
+   "ANSWER": "$12-83"
+  }
+ },
+ "17cbbe763a": {
+  "instruction": {
+   "starting location": "Jacksonville, Florida",
+   "ending location": "Tampa, Florida"
+  }
+ },
+ "762815b569": {
+  "instruction": {
+   "ending location": "Hollywood Sign, Los Angeles, CA",
+   "starting location": "LOS ANGELES airport, World Way, Los Angeles, CA",
+   "ANSWER": "112"
+  }
+ },
+ "592e4e0642": {
+  "instruction": {
+   "ending location": "Petersburg, Virginia",
+   "starting location": "Richmond, Virginia",
+   "ANSWER": "$23-31"
+  }
+ },
+ "ca920d2a00": {
+  "instruction": {
+   "starting location": "Toronto, Ontario",
+   "ending location": "London, Ontario"
+  }
+ },
+ "52a0eec314": {
+  "instruction": {
+   "ending location": "Paramus, New Jersey",
+   "starting location": "New York, New York",
+   "ANSWER": "$72-165"
+  }
+ },
+ "afc0f678ac": {
+  "instruction": {
+   "ending location": "Scottsdale, AZ",
+   "starting location": "Arizona Science Center, East Washington Street, Phoenix, AZ",
+   "ANSWER": "$47-61"
+  }
+ },
+ "cad8dc13f8": {
+  "instruction": {
+   "ending location": "weymouth ma",
+   "starting location": "norwell ma",
+   "ANSWER": "21-79"
+  }
+ },
+ "434c2333c0": {
+  "instruction": {
+   "starting location": "Swift, Phoenix, AZ",
+   "ending location": "East Sky Harbor Circle South, Phoenix, AZ",
+   "ANSWER": "$39-51"
+  }
+ },
+ "7581bd411e": {
+  "instruction": {
+   "ending location": "Nice, France",
+   "starting location": "Paris, France"
+  }
+ },
+ "84483fae87": {
+  "instruction": {
+   "ending location": "Philadelphia, PA",
+   "starting location": "Cambridge, MD",
+   "ANSWER": "$ 149-198"
+  }
+ },
+ "398aecad1a": {
+  "instruction": {
+   "ending location": "Teterboro, New Jersey",
+   "starting location": "Mahwah, New Jersey",
+   "ANSWER": "$19-128"
+  }
+ },
+ "8164d0268e": {
+  "instruction": {
+   "ending location": "Montvale, New Jersey",
+   "starting location": "Glen-Ridge, New Jersey",
+   "ANSWER": "$28-184"
+  }
+ },
+ "8427d0bb04": {
+  "instruction": {
+   "ending location": "Macon, Georgia",
+   "starting location": "Atlanta, Georgia"
+  }
+ },
+ "90bf89d829": {
+  "instruction": {
+   "ending location": "Little Rock, Arkansas",
+   "starting location": "Raleigh, North Carolina"
+  }
+ },
+ "529d4c8885": {
+  "instruction": {
+   "ending location": "Tysons, VA",
+   "starting location": "McLean, VA",
+   "ANSWER": "$ 8-10"
+  }
+ },
+ "523dbad148": {
+  "instruction": {
+   "starting location": "Dallas, TX",
+   "ending location": "Denton, TX",
+   "ANSWER": "$147-195"
+  }
+ },
+ "d3c210abd0": {
+  "instruction": {
+   "ending location": "hanover ma",
+   "starting location": "braintree ma",
+   "ANSWER": "21-93"
+  }
+ },
+ "0507ec520a": {
+  "instruction": {
+   "starting location": "LOS ANGELES airport, World Way, Los Angeles, CA",
+   "ending location": "Hollywood, Los Angeles, CA",
+   "ANSWER": "80"
+  }
+ },
+ "c96665e465": {
+  "instruction": {
+   "starting location": "San Francisco, CA",
+   "ending location": "Denver, CO",
+   "ANSWER": "4314"
+  }
+ },
+ "c80ea04a02": {
+  "instruction": {
+   "ending location": "London, Ontario",
+   "starting location": "Toronto, Ontario"
+  }
+ },
+ "b60cafcb70": {
+  "instruction": {
+   "ending location": "Tijuana, Mexico",
+   "starting location": "San Diego Airport, North Harbor Drive, San Diego, CA",
+   "ANSWER": "510"
+  }
+ },
+ "7bf188c95b": {
+  "instruction": {
+   "starting location": "Santa Monica, CA",
+   "ending location": "Hermosa Beach, CA",
+   "ANSWER": "81"
+  }
+ },
+ "9d0a93b703": {
+  "instruction": {
+   "starting location": "Bellevue, Washington",
+   "ending location": "Seattle, Washington"
+  }
+ },
+ "3669e5dd59": {
+  "instruction": {
+   "starting location": "Phoenix, Arizona",
+   "ending location": "Flagstaff, Arizona"
+  }
+ },
+ "abe3d332cc": {
+  "instruction": {
+   "ending location": "Wilmington, North Carolina",
+   "starting location": "Cary, North Carolina "
+  }
+ },
+ "5ab2d4209c": {
+  "instruction": {
+   "starting location": "Edison, New Jersey",
+   "ending location": "Weehawken, New Jersey",
+   "ANSWER": "$38-229"
+  }
+ },
+ "3ea4137e43": {
+  "instruction": {
+   "starting location": "weymouth ma",
+   "ending location": "brockton ma",
+   "ANSWER": "41-83"
+  }
+ },
+ "4ba5dba018": {
+  "instruction": {
+   "ending location": "Danville, CA",
+   "starting location": "Alamo, CA",
+   "ANSWER": "$ 22-28"
+  }
+ },
+ "434f13a46e": {
+  "instruction": {
+   "starting location": "braintree ma",
+   "ending location": "hanover ma",
+   "ANSWER": "21-93"
+  }
+ },
+ "f82c43db62": {
+  "instruction": {
+   "starting location": "Helsinki, Finland",
+   "ending location": "Copenhagen, Denmark"
+  }
+ },
+ "db59ef7706": {
+  "instruction": {
+   "starting location": "Cambridge, MD",
+   "ending location": "Philadelphia, PA",
+   "ANSWER": "$ 149-198"
+  }
+ },
+ "22f5af3ac2": {
+  "instruction": {
+   "starting location": "Pittsburgh, PA",
+   "ending location": "Columbus, OH",
+   "ANSWER": "$ 201-268"
+  }
+ },
+ "249c432b6b": {
+  "instruction": {
+   "starting location": "Cary, North Carolina ",
+   "ending location": "Wilmington, North Carolina"
+  }
+ },
+ "2a43099863": {
+  "instruction": {
+   "starting location": "St. Louis, Missouri",
+   "ending location": "Little Rock, Arkansas"
+  }
+ },
+ "eab78854d4": {
+  "instruction": {
+   "starting location": "Redwood City, CA",
+   "ending location": "Moss Beach, CA",
+   "ANSWER": "$101-134"
+  }
+ },
+ "add955d28b": {
+  "instruction": {
+   "starting location": "Raleigh, North Carolina",
+   "ending location": "Little Rock, Arkansas"
+  }
+ },
+ "a6303806a2": {
+  "instruction": {
+   "ending location": "Los Angeles, California",
+   "starting location": "Las Vegas, Nevada"
+  }
+ },
+ "fd5a78654b": {
+  "instruction": {
+   "starting location": "Wood-Ridge, New Jersey",
+   "ending location": "Montclair, New Jersey",
+   "ANSWER": "$12-83"
+  }
+ },
+ "40579099f9": {
+  "instruction": {
+   "ending location": "Washington, D.C.",
+   "starting location": "Roanoke, Virginia",
+   "ANSWER": "$327-436"
+  }
+ },
+ "75ebea4cf9": {
+  "instruction": {
+   "ending location": "Buffalo, New York",
+   "starting location": "Raleigh, North Carolina"
+  }
+ },
+ "bdbeff18a0": {
+  "instruction": {
+   "ending location": "San Jose, California",
+   "starting location": "San Francisco, California",
+   "ANSWER": "$64-85"
+  }
+ },
+ "503af3b050": {
+  "instruction": {
+   "ending location": "providence ri",
+   "starting location": "boston ma",
+   "ANSWER": "69-310"
+  }
+ },
+ "f6b5a21cc6": {
+  "instruction": {
+   "starting location": "Columbia, South Carolina",
+   "ending location": "Myrtle Beach, South Carolina",
+   "ANSWER": "$155-207"
+  }
+ },
+ "0aabfdf5e7": {
+  "instruction": {
+   "starting location": "LOS ANGELES airport, World Way, Los Angeles, CA",
+   "ending location": "STAPLES Center, South Figueroa Street, Los Angeles, CA",
+   "ANSWER": "76"
+  }
+ },
+ "0359fb8eaf": {
+  "instruction": {
+   "starting location": "San Jose, CA",
+   "ending location": "Hayes Valley, San Francisco, CA",
+   "ANSWER": "$ 209-277 "
+  }
+ },
+ "bd69bef7dd": {
+  "instruction": {
+   "ending location": "Springfield, Illinois",
+   "starting location": "Chicago, Illinois",
+   "ANSWER": "$700-933"
+  }
+ },
+ "af04bbc8f9": {
+  "instruction": {
+   "ending location": "Moss Beach, CA",
+   "starting location": "Redwood City, CA",
+   "ANSWER": "$101-134"
+  }
+ },
+ "a059d1f9c9": {
+  "instruction": {
+   "starting location": "Arizona Science Center, East Washington Street, Phoenix, AZ",
+   "ending location": "Scottsdale, AZ",
+   "ANSWER": "$47-61"
+  }
+ },
+ "590ecf75bc": {
+  "instruction": {
+   "starting location": "New York, New York",
+   "ending location": "Paramus, New Jersey",
+   "ANSWER": "$72-165"
+  }
+ },
+ "075e1c01fa": {
+  "instruction": {
+   "starting location": "Alexandria, VA",
+   "ending location": "Barry Farm, Washington, DC",
+   "ANSWER": "$ 14-19"
+  }
+ },
+ "89b2c09cd4": {
+  "instruction": {
+   "ending location": "Chicago,Illinois ",
+   "starting location": "St. Louis, Missouri"
+  }
+ },
+ "020bfb9c54": {
+  "instruction": {
+   "starting location": "Seattle, Washington",
+   "ending location": "Olympia, Washington",
+   "ANSWER": "$232-308"
+  }
+ },
+ "e5f76a5a1b": {
+  "instruction": {
+   "starting location": "Miami, Florida",
+   "ending location": "Atlanta, Georgia"
+  }
+ },
+ "64c4432c6e": {
+  "instruction": {
+   "starting location": "Munich, Germany",
+   "ending location": "Duisburg, Germany"
+  }
+ },
+ "f82ac4e145": {
+  "instruction": {
+   "starting location": "Norman, OK",
+   "ending location": "Lawton, OK",
+   "ANSWER": "$ 61-82"
+  }
+ },
+ "8e0e47ea75": {
+  "instruction": {
+   "ending location": "Glasgow, KY",
+   "starting location": "Nashville, TN",
+   "ANSWER": "$ 90-121"
+  }
+ },
+ "3b7278ca5a": {
+  "instruction": {
+   "starting location": "Xwarrior Xtreme Sports, Omaha, NE",
+   "ending location": "Omaha's Henry Doorly Zoo and Aquarium, South 10th Street, Omaha, NE",
+   "ANSWER": "$19-26"
+  }
+ },
+ "b575d70eb0": {
+  "instruction": {
+   "ending location": "Lakeland, Florida",
+   "starting location": "Atlanta, Georgia"
+  }
+ },
+ "9f43e4213b": {
+  "instruction": {
+   "ending location": "Barry Farm, Washington, DC",
+   "starting location": "Alexandria, VA",
+   "ANSWER": "$ 14-19"
+  }
+ },
+ "2d5e22d4c7": {
+  "instruction": {
+   "ending location": "Daytona Beach, Florida",
+   "starting location": "Orlando, Florida",
+   "ANSWER": "$41-55"
+  }
+ }
+}

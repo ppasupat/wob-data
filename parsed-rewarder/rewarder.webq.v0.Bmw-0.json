@@ -1,0 +1,62 @@
+{
+ "3ad305765d": {
+  "instruction": {
+   "year": "2012",
+   "series": "M4 Coup"
+  }
+ },
+ "f7273a9480": {
+  "instruction": {
+   "year": "2016",
+   "series": "M6 Grand Coupe"
+  }
+ },
+ "d3caa0d0f2": {
+  "instruction": {
+   "year": "2015",
+   "series": "M6 Convertible"
+  }
+ },
+ "e773bb3fcc": {
+  "instruction": {
+   "year": "2011",
+   "series": "M3"
+  }
+ },
+ "12353d13d1": {
+  "instruction": {
+   "year": "2014",
+   "series": "M5"
+  }
+ },
+ "468c63149a": {
+  "instruction": {
+   "year": "2008",
+   "series": "M2 Coup"
+  }
+ },
+ "0e3ae7b39f": {
+  "instruction": {
+   "year": "2013",
+   "series": "M4 Convertible"
+  }
+ },
+ "fcdfb9e6fe": {
+  "instruction": {
+   "year": "2017",
+   "series": "M6 Coup"
+  }
+ },
+ "e589cc1de2": {
+  "instruction": {
+   "year": "2010",
+   "series": "M3 Coup"
+  }
+ },
+ "723d747554": {
+  "instruction": {
+   "year": "2009",
+   "series": "M2"
+  }
+ }
+}

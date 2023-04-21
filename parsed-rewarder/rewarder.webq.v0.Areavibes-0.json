@@ -1,0 +1,1302 @@
+{
+ "497511ea94": {
+  "instruction": {
+   "2nd city": "Baltimore,MD",
+   "1st city": "New York, NY",
+   "ANSWER": "higher in Baltimore.MD"
+  }
+ },
+ "0135f81362": {
+  "instruction": {
+   "1st city": "Muzaffarpur, IN",
+   "2nd city": "Gaya, IN",
+   "ANSWER": "Gaya, IN"
+  }
+ },
+ "df9b4daed5": {
+  "instruction": {
+   "1st city": "Davie, FL",
+   "2nd city": "Kirkland, WA",
+   "ANSWER": "higher in Davie, FL"
+  }
+ },
+ "1f1bfa06b3": {
+  "instruction": {
+   "2nd city": "Agra, IN",
+   "1st city": "Kanpur, IN",
+   "ANSWER": "Agra, IN"
+  }
+ },
+ "f09b012cbf": {
+  "instruction": {
+   "2nd city": "Trenton, NJ",
+   "1st city": "Tracy, CA",
+   "ANSWER": "670"
+  }
+ },
+ "d143fbb428": {
+  "instruction": {
+   "2nd city": "Austin, TX",
+   "1st city": "Houston, TX",
+   "ANSWER": "1221/100k"
+  }
+ },
+ "78817a1690": {
+  "instruction": {
+   "1st city": "Spokane, WA",
+   "2nd city": "Omaha, NE"
+  }
+ },
+ "a8e7ce5868": {
+  "instruction": {
+   "2nd city": "Detroit, IL",
+   "1st city": "Chicago, IL",
+   "ANSWER": "303/100k"
+  }
+ },
+ "f357679c0b": {
+  "instruction": {
+   "2nd city": "Elk Grove, CA",
+   "1st city": "Tremonton, UT",
+   "ANSWER": "1284"
+  }
+ },
+ "d5b8cf1399": {
+  "instruction": {
+   "1st city": "Jaipur, IN",
+   "2nd city": "Jodhpur, IN",
+   "ANSWER": "Jaipur, IN"
+  }
+ },
+ "e1c303d967": {
+  "instruction": {
+   "1st city": "Chicago, IL",
+   "2nd city": "New York, NY",
+   "ANSWER": "1746"
+  }
+ },
+ "5ffcfbb342": {
+  "instruction": {
+   "2nd city": "Phoenix, AZ",
+   "1st city": "Pittsburgh, PA",
+   "ANSWER": "154"
+  }
+ },
+ "1b498103f0": {
+  "instruction": {
+   "2nd city": "Lincoln, NE",
+   "1st city": "Troy, MI",
+   "ANSWER": "1878"
+  }
+ },
+ "d4416fb44e": {
+  "instruction": {
+   "2nd city": "Hartford, CT",
+   "1st city": "Providence, RI",
+   "ANSWER": "1575"
+  }
+ },
+ "7fa68beb5d": {
+  "instruction": {
+   "2nd city": "Wichita, KS",
+   "1st city": "Swampscott, MA",
+   "ANSWER": "4235"
+  }
+ },
+ "c1301be353": {
+  "instruction": {
+   "2nd city": "Los Angeles, CA",
+   "1st city": "San Francisco, CA",
+   "ANSWER": "3921/100k"
+  }
+ },
+ "87c9241f3a": {
+  "instruction": {
+   "1st city": "Pittsburgh, PA",
+   "2nd city": "Dallas, TX",
+   "ANSWER": "203"
+  }
+ },
+ "6163eec7bf": {
+  "instruction": {
+   "2nd city": "New York, NY",
+   "1st city": "Richmond, VA"
+  }
+ },
+ "98a8425a42": {
+  "instruction": {
+   "1st city": "Denver, CO",
+   "2nd city": "Detroit, MI"
+  }
+ },
+ "2b80c59ded": {
+  "instruction": {
+   "2nd city": "Bhopal, IN",
+   "1st city": "Indore, IN",
+   "ANSWER": "Bhopal, IN"
+  }
+ },
+ "6e4bbe76fc": {
+  "instruction": {
+   "2nd city": "Detroit, MI",
+   "1st city": "Denver, CO"
+  }
+ },
+ "f00bb3139e": {
+  "instruction": {
+   "1st city": "Tampa, FL",
+   "2nd city": "Tallulah, LA",
+   "ANSWER": "796/100k"
+  }
+ },
+ "5bcca89952": {
+  "instruction": {
+   "2nd city": "Charlotte, NC",
+   "1st city": "Baltimore, MD",
+   "ANSWER": "2071"
+  }
+ },
+ "0835df88cb": {
+  "instruction": {
+   "2nd city": "Chicago, IL",
+   "1st city": "Boulder, CO"
+  }
+ },
+ "a8237fd03e": {
+  "instruction": {
+   "2nd city": "Raleigh, NC",
+   "1st city": "Charlotte, NC",
+   "ANSWER": "1420"
+  }
+ },
+ "d20e3f1129": {
+  "instruction": {
+   "2nd city": "Springfield, MA",
+   "1st city": "Boston, MA",
+   "ANSWER": "1404"
+  }
+ },
+ "1921f13cc9": {
+  "instruction": {
+   "1st city": "Swampscott, MA",
+   "2nd city": "Wichita, KS",
+   "ANSWER": "4235"
+  }
+ },
+ "7e52c4a743": {
+  "instruction": {
+   "2nd city": "Chicago, IL",
+   "1st city": "Pittsburgh, PA",
+   "ANSWER": "81"
+  }
+ },
+ "79f56d3e47": {
+  "instruction": {
+   "1st city": "Raleigh, NC",
+   "2nd city": "Atlanta, GA"
+  }
+ },
+ "7c01e19c2e": {
+  "instruction": {
+   "1st city": "Pittsburgh, PA",
+   "2nd city": "Chicago, IL",
+   "ANSWER": "81"
+  }
+ },
+ "ed58abaef7": {
+  "instruction": {
+   "2nd city": "Lexington, KY",
+   "1st city": "Cincinnati, OH"
+  }
+ },
+ "2676358738": {
+  "instruction": {
+   "2nd city": "Atlanta, GA",
+   "1st city": "New Orleans, LA",
+   "ANSWER": "1795"
+  }
+ },
+ "9859b627a3": {
+  "instruction": {
+   "2nd city": "Phoenix, AZ",
+   "1st city": "Lowell, MA",
+   "ANSWER": "1508"
+  }
+ },
+ "04d02b2369": {
+  "instruction": {
+   "2nd city": "Austin, TX",
+   "1st city": "Portland, OR",
+   "ANSWER": "708"
+  }
+ },
+ "f7fdbad0a7": {
+  "instruction": {
+   "1st city": "Los Angeles, CA",
+   "2nd city": "Coeur d'Alene, ID"
+  }
+ },
+ "5a434c9ca4": {
+  "instruction": {
+   "2nd city": "Atlanta, GA",
+   "1st city": "Washinton, DC",
+   "ANSWER": "900"
+  }
+ },
+ "ecd579dd63": {
+  "instruction": {
+   "1st city": "San Francisco, CA",
+   "2nd city": "Los Angeles, CA",
+   "ANSWER": "3921/100k"
+  }
+ },
+ "e224f31daf": {
+  "instruction": {
+   "1st city": "Bikaner, IN",
+   "2nd city": "Jaisalmer, IN",
+   "ANSWER": "Bikaner, IN"
+  }
+ },
+ "45b6d8d176": {
+  "instruction": {
+   "2nd city": "Cincinnati, OH",
+   "1st city": "Columbus, OH",
+   "ANSWER": "1954"
+  }
+ },
+ "bed35ef23e": {
+  "instruction": {
+   "2nd city": "Philadelphia, PA",
+   "1st city": "Pittsburgh,PA",
+   "ANSWER": "245"
+  }
+ },
+ "5ad7bea142": {
+  "instruction": {
+   "2nd city": "Dallas, TX",
+   "1st city": "Pittsburgh, PA",
+   "ANSWER": "203"
+  }
+ },
+ "e01a8f4185": {
+  "instruction": {
+   "2nd city": "Kansas City, MO",
+   "1st city": "Des Moines, IA",
+   "ANSWER": "higher in Kansas City, MO"
+  }
+ },
+ "deaaac9b41": {
+  "instruction": {
+   "2nd city": "Memphis, TN",
+   "1st city": "Portland, OR",
+   "ANSWER": "higher in Memphis, TN"
+  }
+ },
+ "1959e25f2a": {
+  "instruction": {
+   "2nd city": "Omaha, NE",
+   "1st city": "Honolulu, HI",
+   "ANSWER": "756"
+  }
+ },
+ "4776640bb5": {
+  "instruction": {
+   "1st city": "Hartford, CT",
+   "2nd city": "Bridgeport, CT",
+   "ANSWER": "2502"
+  }
+ },
+ "ba4609f26c": {
+  "instruction": {
+   "1st city": "Houston, TX",
+   "2nd city": "Abilene, TX",
+   "ANSWER": "464"
+  }
+ },
+ "8ff2405eaf": {
+  "instruction": {
+   "1st city": "Seattle, WA",
+   "2nd city": "San Francisco, CA"
+  }
+ },
+ "f86049b47d": {
+  "instruction": {
+   "2nd city": "Grand Rapids, MI",
+   "1st city": "St. Paul, MN",
+   "ANSWER": "higher in St. Paul, MN"
+  }
+ },
+ "911070416d": {
+  "instruction": {
+   "1st city": "San Diego, CA",
+   "2nd city": "San Francisco, CA",
+   "ANSWER": "4434"
+  }
+ },
+ "deac287ac3": {
+  "instruction": {
+   "2nd city": "Loleta, CA",
+   "1st city": "Lexington-Fayette, KY",
+   "ANSWER": "269"
+  }
+ },
+ "9be69abce0": {
+  "instruction": {
+   "1st city": "Dallas, TX",
+   "2nd city": "Houston, TX"
+  }
+ },
+ "ebfaf7f6ca": {
+  "instruction": {
+   "1st city": "Denver, CO",
+   "2nd city": "Colorado Springs, CO",
+   "ANSWER": "118"
+  }
+ },
+ "6e58781a5e": {
+  "instruction": {
+   "2nd city": "San Jose, CA",
+   "1st city": "Seattle, WA",
+   "ANSWER": "3364/100k"
+  }
+ },
+ "007075c9af": {
+  "instruction": {
+   "1st city": "Portland, OR",
+   "2nd city": "Austin, TX",
+   "ANSWER": "708"
+  }
+ },
+ "41c7b3fd40": {
+  "instruction": {
+   "1st city": "Tremonton, UT",
+   "2nd city": "Elk Grove, CA",
+   "ANSWER": "1284"
+  }
+ },
+ "113ae5e4d3": {
+  "instruction": {
+   "2nd city": "Sioux Falls, SD",
+   "1st city": "Burlington, VT"
+  }
+ },
+ "42b516ac8e": {
+  "instruction": {
+   "1st city": "Washington, DC",
+   "2nd city": "Winston-Salem, NC",
+   "ANSWER": "higher in Winston-Salem, NC"
+  }
+ },
+ "ccd5e5b7bf": {
+  "instruction": {
+   "2nd city": "Jackson, MS",
+   "1st city": "Birmingham, AL",
+   "ANSWER": "2128"
+  }
+ },
+ "734dafb2ec": {
+  "instruction": {
+   "1st city": "Dallas, TX",
+   "2nd city": "Tulsa, OK"
+  }
+ },
+ "2b62453b7f": {
+  "instruction": {
+   "2nd city": "New London, CT",
+   "1st city": "Groton, CT",
+   "ANSWER": "924"
+  }
+ },
+ "fa30dc530c": {
+  "instruction": {
+   "1st city": "Washingon, DC",
+   "2nd city": "Philadelphia, PA",
+   "ANSWER": "1543"
+  }
+ },
+ "23db8d2833": {
+  "instruction": {
+   "2nd city": "Boise, ID",
+   "1st city": "Chicago, IL",
+   "ANSWER": "1266"
+  }
+ },
+ "6a8f4f6ff2": {
+  "instruction": {
+   "1st city": "New Orleans, LA",
+   "2nd city": "Atlanta, GA",
+   "ANSWER": "1795"
+  }
+ },
+ "777660a05f": {
+  "instruction": {
+   "1st city": "San Fransico, CA",
+   "2nd city": "Los Angeles, CA",
+   "ANSWER": "3921"
+  }
+ },
+ "c606e3bce3": {
+  "instruction": {
+   "1st city": "Omaha, NE",
+   "2nd city": "Spottsville, KY"
+  }
+ },
+ "11dd0e8ad7": {
+  "instruction": {
+   "1st city": "Pittsburgh, PA",
+   "2nd city": "Houston, TX",
+   "ANSWER": "1433"
+  }
+ },
+ "55e61f7a1c": {
+  "instruction": {
+   "1st city": "Houston, TX",
+   "2nd city": "Dallas, TX",
+   "ANSWER": "1231"
+  }
+ },
+ "2ec73618f6": {
+  "instruction": {
+   "1st city": "Houston, TX",
+   "2nd city": "Austin, TX",
+   "ANSWER": "1221/100k"
+  }
+ },
+ "d58ada8b50": {
+  "instruction": {
+   "1st city": "Raleigh, NC",
+   "2nd city": "Tulsa, OK",
+   "ANSWER": "3082"
+  }
+ },
+ "b45aef017a": {
+  "instruction": {
+   "2nd city": "Denver, CO",
+   "1st city": "Pittsburgh, PA",
+   "ANSWER": "273"
+  }
+ },
+ "4439c661e8": {
+  "instruction": {
+   "1st city": "Pittsburgh, PA",
+   "2nd city": "Miami, FL",
+   "ANSWER": "1458"
+  }
+ },
+ "acc1529d5b": {
+  "instruction": {
+   "1st city": "Charlotte, NC",
+   "2nd city": "Raleigh, NC",
+   "ANSWER": "1420"
+  }
+ },
+ "40cad1c1b1": {
+  "instruction": {
+   "2nd city": "Tulsa, OK",
+   "1st city": "Raleigh, NC",
+   "ANSWER": "3082"
+  }
+ },
+ "68f0b00339": {
+  "instruction": {
+   "1st city": "Boulder, CO",
+   "2nd city": "Chicago, IL"
+  }
+ },
+ "ceab82688d": {
+  "instruction": {
+   "2nd city": "Omaha, NE",
+   "1st city": "Houston, TX",
+   "ANSWER": "1253"
+  }
+ },
+ "46dbc79714": {
+  "instruction": {
+   "1st city": "Chicago, IL",
+   "2nd city": "Detroit, IL",
+   "ANSWER": "303/100k"
+  }
+ },
+ "e4c8a9a0b3": {
+  "instruction": {
+   "1st city": "Kanpur, IN",
+   "2nd city": "Agra, IN",
+   "ANSWER": "Agra, IN"
+  }
+ },
+ "f4dcccb527": {
+  "instruction": {
+   "2nd city": "Olathe, KS",
+   "1st city": "Union City, CA",
+   "ANSWER": "868"
+  }
+ },
+ "7a13f56699": {
+  "instruction": {
+   "1st city": "Las Vegas, NV",
+   "2nd city": "Seattle, WA"
+  }
+ },
+ "4e15574119": {
+  "instruction": {
+   "2nd city": "Arlington, VA",
+   "1st city": "Dearborn, MI",
+   "ANSWER": "higher in Dearborn, MI"
+  }
+ },
+ "78cea6a6b9": {
+  "instruction": {
+   "1st city": "New York, NY",
+   "2nd city": "Pittsburgh, PA",
+   "ANSWER": "1827/100k"
+  }
+ },
+ "945c6a1422": {
+  "instruction": {
+   "2nd city": "Kirkland, WA",
+   "1st city": "Davie, FL",
+   "ANSWER": "higher in Davie, FL"
+  }
+ },
+ "a2e34c7b29": {
+  "instruction": {
+   "2nd city": "Jodhpur, IN",
+   "1st city": "Jaipur, IN",
+   "ANSWER": "Jaipur, IN"
+  }
+ },
+ "41320dc229": {
+  "instruction": {
+   "2nd city": "Little Rock, AR",
+   "1st city": "Fontana, CA",
+   "ANSWER": "higher in Little Rock, AR"
+  }
+ },
+ "c76272e02b": {
+  "instruction": {
+   "1st city": "New Haven, CT",
+   "2nd city": "Victoria, TX",
+   "ANSWER": "higher in Victoria, TX"
+  }
+ },
+ "bb55e59c79": {
+  "instruction": {
+   "2nd city": "Varanasi, IN",
+   "1st city": "Lucknow, IN",
+   "ANSWER": "Lucknow, IN"
+  }
+ },
+ "e4fbc781c9": {
+  "instruction": {
+   "2nd city": "Atlanta, GA",
+   "1st city": "Raleigh, NC"
+  }
+ },
+ "2fd8bb2fe6": {
+  "instruction": {
+   "2nd city": "New Orleans, LA",
+   "1st city": "Miami, FL"
+  }
+ },
+ "8f6e141ebd": {
+  "instruction": {
+   "1st city": "Dearborn, MI",
+   "2nd city": "Arlington, VA",
+   "ANSWER": "higher in Dearborn, MI"
+  }
+ },
+ "a9ae103b3c": {
+  "instruction": {
+   "2nd city": "Jaisalmer, IN",
+   "1st city": "Bikaner, IN",
+   "ANSWER": "Bikaner, IN"
+  }
+ },
+ "5b81da977e": {
+  "instruction": {
+   "2nd city": "Detroit, MI",
+   "1st city": "Pittsburgh, PA",
+   "ANSWER": "1922"
+  }
+ },
+ "e8d041e35a": {
+  "instruction": {
+   "1st city": "Sacramento, CA",
+   "2nd city": "Lincoln, NE",
+   "ANSWER": "470"
+  }
+ },
+ "2cec870f7a": {
+  "instruction": {
+   "1st city": "Groton, CT",
+   "2nd city": "New London, CT",
+   "ANSWER": "924"
+  }
+ },
+ "84b41386c9": {
+  "instruction": {
+   "2nd city": "Iowa City, IA",
+   "1st city": "Boise, ID",
+   "ANSWER": "245/100k"
+  }
+ },
+ "2261b3d91a": {
+  "instruction": {
+   "1st city": "Boston, MA",
+   "2nd city": "Springfield, MA",
+   "ANSWER": "1404"
+  }
+ },
+ "4d31725328": {
+  "instruction": {
+   "2nd city": "Irvine, CA",
+   "1st city": "San Diego, CA",
+   "ANSWER": "927/100k"
+  }
+ },
+ "f2ce6a136e": {
+  "instruction": {
+   "1st city": "Orange, CA",
+   "2nd city": "Villa Park, CA",
+   "ANSWER": "783/100k"
+  }
+ },
+ "d44fc2a5c1": {
+  "instruction": {
+   "2nd city": "Miami, FL",
+   "1st city": "Pittsburgh, PA",
+   "ANSWER": "1458"
+  }
+ },
+ "52523280f0": {
+  "instruction": {
+   "1st city": "New York, NY",
+   "2nd city": "Baltimore,MD",
+   "ANSWER": "higher in Baltimore.MD"
+  }
+ },
+ "ab8e80cef5": {
+  "instruction": {
+   "2nd city": "Los Angeles, CA",
+   "1st city": "San Fransico, CA",
+   "ANSWER": "3921"
+  }
+ },
+ "85614695c9": {
+  "instruction": {
+   "1st city": "Spokane, WA",
+   "2nd city": "Santa Fe, NM",
+   "ANSWER": "3201"
+  }
+ },
+ "078bf24466": {
+  "instruction": {
+   "2nd city": "Pittsburgh, PA",
+   "1st city": "New York, NY",
+   "ANSWER": "1827/100k"
+  }
+ },
+ "301aa43b48": {
+  "instruction": {
+   "2nd city": "Tulsa, OK",
+   "1st city": "Dallas, TX"
+  }
+ },
+ "827f2f7883": {
+  "instruction": {
+   "1st city": "Burlington, VT",
+   "2nd city": "Sioux Falls, SD"
+  }
+ },
+ "3ede92a295": {
+  "instruction": {
+   "2nd city": "Los Angeles,CA",
+   "1st city": "Pittsburgh, PA",
+   "ANSWER": "937"
+  }
+ },
+ "b2840c23fe": {
+  "instruction": {
+   "1st city": "Washinton, DC",
+   "2nd city": "Atlanta, GA",
+   "ANSWER": "900"
+  }
+ },
+ "70a14aae03": {
+  "instruction": {
+   "1st city": "Bangor, ME",
+   "2nd city": "Kansas City, MO"
+  }
+ },
+ "5888d76935": {
+  "instruction": {
+   "1st city": "Pittsburgh, PA",
+   "2nd city": "Phoenix, AZ",
+   "ANSWER": "154"
+  }
+ },
+ "9a6ba116bb": {
+  "instruction": {
+   "2nd city": "Noida, IN",
+   "1st city": "Jhansi, IN",
+   "ANSWER": "Jhansi, IN"
+  }
+ },
+ "c20effdb62": {
+  "instruction": {
+   "2nd city": "San Diego, CA",
+   "1st city": "San Fransico, CA",
+   "ANSWER": "4434"
+  }
+ },
+ "361783c521": {
+  "instruction": {
+   "1st city": "Louisville, KY",
+   "2nd city": "Indianapolis, IN",
+   "ANSWER": "1280"
+  }
+ },
+ "1d6f858a76": {
+  "instruction": {
+   "2nd city": "Dallas, TX",
+   "1st city": "Houston, TX",
+   "ANSWER": "1230"
+  }
+ },
+ "09a28e887b": {
+  "instruction": {
+   "2nd city": "Meerut, IN",
+   "1st city": "Allahabad, IN",
+   "ANSWER": "Meerut, IN"
+  }
+ },
+ "fa9be814ee": {
+  "instruction": {
+   "1st city": "Rochester, NY",
+   "2nd city": "Knoxville, TN",
+   "ANSWER": "2115"
+  }
+ },
+ "214c1fa575": {
+  "instruction": {
+   "1st city": "Providence, RI",
+   "2nd city": "Hartford, CT",
+   "ANSWER": "1575"
+  }
+ },
+ "0b740bba88": {
+  "instruction": {
+   "1st city": "Denver, CO",
+   "2nd city": "Billings, MT"
+  }
+ },
+ "2ca6483b8b": {
+  "instruction": {
+   "1st city": "Pittsburgh, PA",
+   "2nd city": "Detroit, MI",
+   "ANSWER": "1922"
+  }
+ },
+ "363f4158b1": {
+  "instruction": {
+   "1st city": "Houston, TX",
+   "2nd city": "Dallas, TX",
+   "ANSWER": "1230"
+  }
+ },
+ "3d687ae493": {
+  "instruction": {
+   "1st city": "Juneau, AK",
+   "2nd city": "Fairbanks, AK",
+   "ANSWER": "511"
+  }
+ },
+ "31ceb4c33c": {
+  "instruction": {
+   "1st city": "Allahabad, IN",
+   "2nd city": "Meerut, IN",
+   "ANSWER": "Meerut, IN"
+  }
+ },
+ "82788db6d6": {
+  "instruction": {
+   "1st city": "Tracy, CA",
+   "2nd city": "Trenton, NJ",
+   "ANSWER": "670"
+  }
+ },
+ "ccc802f192": {
+  "instruction": {
+   "2nd city": "Kansas City, MO",
+   "1st city": "Bangor, ME"
+  }
+ },
+ "010f4eac1a": {
+  "instruction": {
+   "1st city": "Pittsburgh, PA",
+   "2nd city": "Los Angeles,CA",
+   "ANSWER": "937"
+  }
+ },
+ "f5b1383191": {
+  "instruction": {
+   "1st city": "Miami, FL",
+   "2nd city": "New Orleans, LA"
+  }
+ },
+ "c52b0709ec": {
+  "instruction": {
+   "2nd city": "Fort Wayne, IN",
+   "1st city": "Knoxville, TN"
+  }
+ },
+ "dc7628bcf8": {
+  "instruction": {
+   "1st city": "Indore, IN",
+   "2nd city": "Bhopal, IN",
+   "ANSWER": "Bhopal, IN"
+  }
+ },
+ "19df3aa7df": {
+  "instruction": {
+   "2nd city": "Ashburn, VA",
+   "1st city": "Austin, TX",
+   "ANSWER": "3249"
+  }
+ },
+ "54f8bf4312": {
+  "instruction": {
+   "2nd city": "New York, NY",
+   "1st city": "Chicago, IL",
+   "ANSWER": "1746"
+  }
+ },
+ "d1d9730211": {
+  "instruction": {
+   "2nd city": "Motihari, IN",
+   "1st city": "Patna, IN",
+   "ANSWER": "Patna, IN"
+  }
+ },
+ "4565f8c812": {
+  "instruction": {
+   "2nd city": "Fresno, CA",
+   "1st city": "Mendocino, CA",
+   "ANSWER": "3219/100k"
+  }
+ },
+ "d6f3539875": {
+  "instruction": {
+   "2nd city": "Philadelphia, PA",
+   "1st city": "Washingon, DC",
+   "ANSWER": "1543"
+  }
+ },
+ "04197589f3": {
+  "instruction": {
+   "1st city": "San Francisco, CA",
+   "2nd city": "Dallas, TX"
+  }
+ },
+ "903c804f78": {
+  "instruction": {
+   "1st city": "Troy, MI",
+   "2nd city": "Lincoln, NE",
+   "ANSWER": "1878"
+  }
+ },
+ "dfb59c8395": {
+  "instruction": {
+   "1st city": "Chicago, IL",
+   "2nd city": "Boise, ID",
+   "ANSWER": "1266"
+  }
+ },
+ "74350dc809": {
+  "instruction": {
+   "2nd city": "Colorado Springs, CO",
+   "1st city": "Denver, CO",
+   "ANSWER": "118"
+  }
+ },
+ "69bcf8d7f6": {
+  "instruction": {
+   "1st city": "Pittsburgh,PA",
+   "2nd city": "Philadelphia, PA",
+   "ANSWER": "245"
+  }
+ },
+ "4ab212210f": {
+  "instruction": {
+   "1st city": "Bikaner, IN",
+   "2nd city": "Jodhpur, IN",
+   "ANSWER": "Jodhpur, IN"
+  }
+ },
+ "9a8b73bd89": {
+  "instruction": {
+   "2nd city": "Portland, OR",
+   "1st city": "Portland, ME",
+   "ANSWER": "87"
+  }
+ },
+ "1cef2cd63c": {
+  "instruction": {
+   "1st city": "Des Moines, IA",
+   "2nd city": "Kansas City, MO",
+   "ANSWER": "higher in Kansas City, MO"
+  }
+ },
+ "342db84828": {
+  "instruction": {
+   "2nd city": "San Francisco, CA",
+   "1st city": "San Diego, CA",
+   "ANSWER": "4434"
+  }
+ },
+ "14ca61664d": {
+  "instruction": {
+   "1st city": "Birmingham, AL",
+   "2nd city": "Jackson, MS",
+   "ANSWER": "2128"
+  }
+ },
+ "06d9c73c1c": {
+  "instruction": {
+   "1st city": "St. Paul, MN",
+   "2nd city": "Grand Rapids, MI",
+   "ANSWER": "higher in St. Paul, MN"
+  }
+ },
+ "4c4df27c32": {
+  "instruction": {
+   "2nd city": "Victoria, TX",
+   "1st city": "New Haven, CT",
+   "ANSWER": "higher in Victoria, TX"
+  }
+ },
+ "3d10ca1e28": {
+  "instruction": {
+   "1st city": "Houston, TX",
+   "2nd city": "Omaha, NE",
+   "ANSWER": "1253"
+  }
+ },
+ "8267775425": {
+  "instruction": {
+   "2nd city": "Dallas, TX",
+   "1st city": "Houston, TX",
+   "ANSWER": "1231"
+  }
+ },
+ "3879c0b433": {
+  "instruction": {
+   "2nd city": "Saratoga Springs, NY",
+   "1st city": "Albany, NY",
+   "ANSWER": "1866"
+  }
+ },
+ "70addc327b": {
+  "instruction": {
+   "1st city": "Patna, IN",
+   "2nd city": "Motihari, IN",
+   "ANSWER": "Patna, IN"
+  }
+ },
+ "5ca48c46d7": {
+  "instruction": {
+   "1st city": "Lucknow, IN",
+   "2nd city": "Varanasi, IN",
+   "ANSWER": "Lucknow, IN"
+  }
+ },
+ "5cb4cc51b9": {
+  "instruction": {
+   "2nd city": "Fairbanks, AK",
+   "1st city": "Juneau, AK",
+   "ANSWER": "511"
+  }
+ },
+ "9d09a0a7d6": {
+  "instruction": {
+   "1st city": "Pittsburgh, PA",
+   "2nd city": "Denver, CO",
+   "ANSWER": "273"
+  }
+ },
+ "acb344fe9e": {
+  "instruction": {
+   "2nd city": "Santa Fe, NM",
+   "1st city": "Spokane, WA",
+   "ANSWER": "3201"
+  }
+ },
+ "e59b602f09": {
+  "instruction": {
+   "2nd city": "Tallulah, LA",
+   "1st city": "Tampa, FL",
+   "ANSWER": "796/100k"
+  }
+ },
+ "a68496d063": {
+  "instruction": {
+   "1st city": "Portland, OR",
+   "2nd city": "Memphis, TN",
+   "ANSWER": "higher in Memphis, TN"
+  }
+ },
+ "da462c8a10": {
+  "instruction": {
+   "1st city": "Knoxville, TN",
+   "2nd city": "Fort Wayne, IN"
+  }
+ },
+ "65a1f7174a": {
+  "instruction": {
+   "2nd city": "Knoxville, TN",
+   "1st city": "Rochester, NY",
+   "ANSWER": "2115"
+  }
+ },
+ "9507466914": {
+  "instruction": {
+   "2nd city": "Lincoln, NE",
+   "1st city": "Sacramento, CA",
+   "ANSWER": "470"
+  }
+ },
+ "1d214229ba": {
+  "instruction": {
+   "2nd city": "Manchester, CT",
+   "1st city": "Rockville, CT",
+   "ANSWER": "580"
+  }
+ },
+ "cd9010e523": {
+  "instruction": {
+   "1st city": "Bridgeport, CT",
+   "2nd city": "Houston,TX",
+   "ANSWER": "higher in houston,tx"
+  }
+ },
+ "590c9f9782": {
+  "instruction": {
+   "1st city": "Richmond, VA",
+   "2nd city": "New York, NY"
+  }
+ },
+ "7f3f319346": {
+  "instruction": {
+   "1st city": "Pittsburgh, PA",
+   "2nd city": "New York, NY",
+   "ANSWER": "1827"
+  }
+ },
+ "8965f02b5a": {
+  "instruction": {
+   "1st city": "Rockville, CT",
+   "2nd city": "Manchester, CT",
+   "ANSWER": "580"
+  }
+ },
+ "af5b29c237": {
+  "instruction": {
+   "1st city": "Fontana, CA",
+   "2nd city": "Little Rock, AR",
+   "ANSWER": "higher in Little Rock, AR"
+  }
+ },
+ "11c0c52249": {
+  "instruction": {
+   "2nd city": "New York, NY",
+   "1st city": "Pittsburgh, PA",
+   "ANSWER": "1827"
+  }
+ },
+ "75c58c1f00": {
+  "instruction": {
+   "2nd city": "Indianapolis, IN",
+   "1st city": "Louisville, KY",
+   "ANSWER": "1280"
+  }
+ },
+ "8a5327acdb": {
+  "instruction": {
+   "1st city": "Mendocino, CA",
+   "2nd city": "Fresno, CA",
+   "ANSWER": "3219/100k"
+  }
+ },
+ "eb0ff3d6d0": {
+  "instruction": {
+   "1st city": "Lexington-Fayette, KY",
+   "2nd city": "Loleta, CA",
+   "ANSWER": "269"
+  }
+ },
+ "05344d0260": {
+  "instruction": {
+   "1st city": "San Diego, CA",
+   "2nd city": "Irvine, CA",
+   "ANSWER": "927/100k"
+  }
+ },
+ "3d10cb5109": {
+  "instruction": {
+   "1st city": "Portland, ME",
+   "2nd city": "Portland, OR",
+   "ANSWER": "87"
+  }
+ },
+ "a5da89d0af": {
+  "instruction": {
+   "2nd city": "Gaya, IN",
+   "1st city": "Muzaffarpur, IN",
+   "ANSWER": "Gaya, IN"
+  }
+ },
+ "a4d9223818": {
+  "instruction": {
+   "2nd city": "Abilene, TX",
+   "1st city": "Houston, TX",
+   "ANSWER": "464"
+  }
+ },
+ "dcc6dc78d3": {
+  "instruction": {
+   "1st city": "Boise, ID",
+   "2nd city": "Iowa City, IA",
+   "ANSWER": "245/100k"
+  }
+ },
+ "b79f5101d0": {
+  "instruction": {
+   "2nd city": "Villa Park, CA",
+   "1st city": "Orange, CA",
+   "ANSWER": "783/100k"
+  }
+ },
+ "cfb541bbb1": {
+  "instruction": {
+   "1st city": "Jhansi, IN",
+   "2nd city": "Noida, IN",
+   "ANSWER": "Jhansi, IN"
+  }
+ },
+ "445d5094ea": {
+  "instruction": {
+   "1st city": "Seattle, WA",
+   "2nd city": "San Jose, CA",
+   "ANSWER": "3364/100k"
+  }
+ },
+ "e933904c03": {
+  "instruction": {
+   "1st city": "Union City, CA",
+   "2nd city": "Olathe, KS",
+   "ANSWER": "868"
+  }
+ },
+ "4c85b449af": {
+  "instruction": {
+   "1st city": "Honolulu, HI",
+   "2nd city": "Omaha, NE",
+   "ANSWER": "756"
+  }
+ },
+ "7d816a8d23": {
+  "instruction": {
+   "1st city": "Baltimore, MD",
+   "2nd city": "Charlotte, NC",
+   "ANSWER": "2071"
+  }
+ },
+ "fc62fec317": {
+  "instruction": {
+   "2nd city": "Houston,TX",
+   "1st city": "Bridgeport, CT",
+   "ANSWER": "higher in houston,tx"
+  }
+ },
+ "43707c03f0": {
+  "instruction": {
+   "1st city": "Columbus, OH",
+   "2nd city": "Cincinnati, OH",
+   "ANSWER": "1954"
+  }
+ },
+ "1859704eb9": {
+  "instruction": {
+   "1st city": "Albany, NY",
+   "2nd city": "Saratoga Springs, NY",
+   "ANSWER": "1866"
+  }
+ },
+ "83fc0abfac": {
+  "instruction": {
+   "1st city": "Cincinnati, OH",
+   "2nd city": "Lexington, KY"
+  }
+ },
+ "1157b0976e": {
+  "instruction": {
+   "1st city": "San Fransico, CA",
+   "2nd city": "San Diego, CA",
+   "ANSWER": "4434"
+  }
+ },
+ "018257f3f2": {
+  "instruction": {
+   "2nd city": "Bridgeport, CT",
+   "1st city": "Hartford, CT",
+   "ANSWER": "2502"
+  }
+ },
+ "4820671c0f": {
+  "instruction": {
+   "1st city": "Reno, NV",
+   "2nd city": "Las Vegas, NV"
+  }
+ },
+ "6b06904228": {
+  "instruction": {
+   "1st city": "Lowell, MA",
+   "2nd city": "Phoenix, AZ",
+   "ANSWER": "1508"
+  }
+ },
+ "5a217887bd": {
+  "instruction": {
+   "2nd city": "Houston, TX",
+   "1st city": "Pittsburgh, PA",
+   "ANSWER": "1433"
+  }
+ },
+ "b34838b50d": {
+  "instruction": {
+   "1st city": "Austin, TX",
+   "2nd city": "Ashburn, VA",
+   "ANSWER": "3249"
+  }
+ },
+ "44e50fc308": {
+  "instruction": {
+   "2nd city": "Winston-Salem, NC",
+   "1st city": "Washington, DC",
+   "ANSWER": "higher in Winston-Salem, NC"
+  }
+ },
+ "33619b36a5": {
+  "instruction": {
+   "1st city": "Coeur d'Alene, ID",
+   "2nd city": "Spokane, WA"
+  }
+ },
+ "4dce87fe51": {
+  "instruction": {
+   "2nd city": "Jodhpur, IN",
+   "1st city": "Bikaner, IN",
+   "ANSWER": "Jodhpur, IN"
+  }
+ }
+}

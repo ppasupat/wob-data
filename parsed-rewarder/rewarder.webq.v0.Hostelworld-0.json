@@ -1,0 +1,82 @@
+{
+ "7cc56658a8": {
+  "instruction": {
+   "start date": "02/17/2017",
+   "geographic location": "Paris, France",
+   "number of guests": "1",
+   "end date": "02/20/2017"
+  }
+ },
+ "896803031c": {
+  "instruction": {
+   "start date": "03/21/2017",
+   "geographic location": "Helsinki, Finland",
+   "number of guests": "2",
+   "end date": "03/22/2017"
+  }
+ },
+ "98eb6f9e52": {
+  "instruction": {
+   "start date": "03/07/2017",
+   "geographic location": "Prague, Czech Republic",
+   "number of guests": "4",
+   "end date": "03/08/2017"
+  }
+ },
+ "87dc14d023": {
+  "instruction": {
+   "start date": "04/06/2017",
+   "geographic location": "Seattle, Washington, USA",
+   "number of guests": "5",
+   "end date": "04/21/2017"
+  }
+ },
+ "dca28e42ab": {
+  "instruction": {
+   "start date": "02/10/2017",
+   "geographic location": "Cebu, Philippines",
+   "number of guests": "1",
+   "end date": "02/13/2017"
+  }
+ },
+ "29ab1df90e": {
+  "instruction": {
+   "start date": "05/01/2017",
+   "geographic location": "Vancouver, British Columbia, Canada",
+   "number of guests": "2",
+   "end date": "05/05/2017"
+  }
+ },
+ "18d5abfdd8": {
+  "instruction": {
+   "start date": "03/01/2017",
+   "geographic location": "Seoul, South Korea",
+   "number of guests": "2",
+   "end date": "03/20/2017"
+  }
+ },
+ "58d25c6a6b": {
+  "instruction": {
+   "start date": "04/01/2017",
+   "geographic location": "Stockholm, Sweden",
+   "number of guests": "1",
+   "end date": "04/06/2017"
+  }
+ },
+ "dcf900edfc": {
+  "instruction": {
+   "start date": "02/19/2017",
+   "geographic location": "Osaka, Japan",
+   "number of guests": "3",
+   "end date": "02/23/2017"
+  }
+ },
+ "b894da319f": {
+  "instruction": {
+   "start date": "07/07/2017",
+   "geographic location": "Hong Kong, Hong Kong",
+   "number of guests": "3",
+   "end date": "07/16/2017"
+  }
+ }
+}

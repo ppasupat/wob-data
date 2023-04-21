@@ -1,0 +1,62 @@
+{
+ "11940b7593": {
+  "instruction": {
+   "woman shoes": "flats",
+   "brands": "Aerosoles"
+  }
+ },
+ "ed0fdd1196": {
+  "instruction": {
+   "woman shoes": "boots",
+   "brands": "Tommy Hilfer"
+  }
+ },
+ "836a5218c9": {
+  "instruction": {
+   "woman shoes": "boat shoes",
+   "brands": "Clarks"
+  }
+ },
+ "886d7a2745": {
+  "instruction": {
+   "woman shoes": "sandals",
+   "brands": "Steve Madden"
+  }
+ },
+ "74e594c260": {
+  "instruction": {
+   "woman shoes": "bootie",
+   "brands": "Dolce Vita"
+  }
+ },
+ "fdf25d3403": {
+  "instruction": {
+   "woman shoes": "Heels",
+   "brands": "Lucky"
+  }
+ },
+ "cf8451ad3c": {
+  "instruction": {
+   "woman shoes": "clogs",
+   "brands": "Crocs"
+  }
+ },
+ "2828cedf0c": {
+  "instruction": {
+   "woman shoes": "flats",
+   "brands": "Guess"
+  }
+ },
+ "edbe2ef12d": {
+  "instruction": {
+   "woman shoes": "slippers",
+   "brands": "Toms"
+  }
+ },
+ "e6a0902498": {
+  "instruction": {
+   "woman shoes": "sneakers",
+   "brands": "Adidas"
+  }
+ }
+}

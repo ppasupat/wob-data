@@ -1,0 +1,62 @@
+{
+ "d62c0fbde0": {
+  "instruction": {
+   "President": "George Washington",
+   "party affiliation": "None, Federalist\t"
+  }
+ },
+ "c37bdba516": {
+  "instruction": {
+   "President": "Ulysses S. Grant",
+   "party affiliation": "Republican\t"
+  }
+ },
+ "8fdb335312": {
+  "instruction": {
+   "President": "Andrew Johnson",
+   "party affiliation": "National Union"
+  }
+ },
+ "6e6a3191dd": {
+  "instruction": {
+   "President": "Thomas Jefferson",
+   "party affiliation": "Democratic-Republican\t"
+  }
+ },
+ "5cbed3368b": {
+  "instruction": {
+   "President": "Gerald R. Ford",
+   "party affiliation": "Republican\t"
+  }
+ },
+ "9c27f11adf": {
+  "instruction": {
+   "President": "Richard Milhous Nixon",
+   "party affiliation": "Republican\t"
+  }
+ },
+ "906d3bb139": {
+  "instruction": {
+   "President": "Abraham Lincoln",
+   "party affiliation": "Republican\t"
+  }
+ },
+ "7f32d71af7": {
+  "instruction": {
+   "President": "John Adams",
+   "party affiliation": "Federalist\t"
+  }
+ },
+ "a671b309b3": {
+  "instruction": {
+   "President": "George W. Bush",
+   "party affiliation": "Republican\t"
+  }
+ },
+ "84699ed628": {
+  "instruction": {
+   "President": "William (Bill) Jefferson Clinton",
+   "party affiliation": "Democrat"
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "ab34b1baf1": {
+  "instruction": {
+   "dates": "03-15-2011 to current",
+   "financially": "120,000",
+   "name": "Syrian Civil War",
+   "years": "Ongoing"
+  }
+ },
+ "a062ab8ef2": {
+  "instruction": {
+   "dates": "09-01-1939 to 09-02-1945",
+   "financially": "84.6 Million",
+   "name": "World War II",
+   "years": "6 "
+  }
+ },
+ "a3ff296f4e": {
+  "instruction": {
+   "dates": "07-28-1914 to 11-11-1918",
+   "financially": "16 Million",
+   "name": "World War i",
+   "years": "4"
+  }
+ },
+ "470213e266": {
+  "instruction": {
+   "dates": "03-20-2003 to 12-15-2011",
+   "financially": "189,736",
+   "name": "Iraq War",
+   "years": "8.66"
+  }
+ },
+ "ac40d86c96": {
+  "instruction": {
+   "dates": "10-25-1917 to 10-1922",
+   "financially": "9 Million",
+   "name": "Russian Civil War",
+   "years": "5"
+  }
+ },
+ "798d46d4d2": {
+  "instruction": {
+   "dates": "10-07-2001 to current",
+   "financially": "329,745",
+   "name": "War on Terro",
+   "years": "ongoing"
+  }
+ },
+ "39d95d8712": {
+  "instruction": {
+   "dates": "10-7-2001 to current",
+   "financially": "61,603",
+   "name": "War in Afghanistan",
+   "years": "Ongoin"
+  }
+ },
+ "bc22c21d48": {
+  "instruction": {
+   "dates": "03-16-2004",
+   "financially": "78,946",
+   "name": "Mexican Drug War",
+   "years": "Ongoing"
+  }
+ },
+ "dd537b9c60": {
+  "instruction": {
+   "dates": "09-07-1937 to 09-09-1945",
+   "financially": "27 Million",
+   "name": "Second Sino-Japanese War",
+   "years": "8"
+  }
+ },
+ "09f5bba5d0": {
+  "instruction": {
+   "dates": "1206-1337",
+   "financially": "60 Million",
+   "name": "Mongol Conquests",
+   "years": "131"
+  }
+ }
+}

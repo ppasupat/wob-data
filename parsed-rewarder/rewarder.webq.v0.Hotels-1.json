@@ -1,0 +1,1592 @@
+{
+ "10969cbab9": {
+  "instruction": {
+   "date": "3/25/2017",
+   "geographic location": "Providence, RI",
+   "star rating": "2",
+   "ANSWER": "Motel 6 Providence East, America's Best Value Inn, Super 8 West Greenwich, Knights Inn, Classic Motor Lodge, Econo Lodge, Red Roof Inn, Inns on Bellvue, Regency Inn & Suites, Dartmouth Motor Inn, Pineapple Inn, Howard Johnson Inn, Capri Motel"
+  }
+ },
+ "4ce738e287": {
+  "instruction": {
+   "star rating": "2.7",
+   "date": "2/18/2017",
+   "geographic location": "Upper West Side, NYC"
+  }
+ },
+ "66bb3b22dd": {
+  "instruction": {
+   "date": "7/10/2017",
+   "geographic location": "Billings, MT",
+   "star rating": "4",
+   "ANSWER": "Northern Hotel"
+  }
+ },
+ "6d88b264ed": {
+  "instruction": {
+   "star rating": "5.0",
+   "date": "02/26/2017",
+   "ANSWER": "Battle Lake Inn and Suites",
+   "geographic location": "Battle Lake"
+  }
+ },
+ "b811b48b67": {
+  "instruction": {
+   "date": "6/10/2017",
+   "geographic location": "Branson, MO",
+   "star rating": "3.5",
+   "ANSWER": "Welk Resort Branson Hotel, The Branson Hotel, The Old English Inn, Radisson Inn Branson, Kingsgate, Eagle's Nest Condo Resort, Hilton Branson Convention Center, Branson Condo Resorts"
+  }
+ },
+ "63a4168c0d": {
+  "instruction": {
+   "star rating": "5.0",
+   "date": "04/10/2017",
+   "ANSWER": "Four Seasons Resort Scottsale",
+   "geographic location": "Phoenix"
+  }
+ },
+ "dc0a88a4d6": {
+  "instruction": {
+   "date": "3/25/2017",
+   "geographic location": "Nicholasville, KY",
+   "star rating": "3.0",
+   "ANSWER": "The Corner House Bed and Breakfast"
+  }
+ },
+ "c6e7adcb9d": {
+  "instruction": {
+   "star rating": "4.0",
+   "date": "3/21/2017",
+   "ANSWER": "Cincinnatian Hotel, The Hotel Covington, 21c Museum Hotel Cincinnati, Cincinnatian Hotel, The Westin Cincinnati, Hilton Cincinnati Netherland Plaza, Hyatt Regency Cincinnati",
+   "geographic location": "Cinncinati, OH"
+  }
+ },
+ "62ea77ede7": {
+  "instruction": {
+   "star rating": "5.0",
+   "date": "04/10/2017",
+   "ANSWER": "Boullders Resort & Spa",
+   "geographic location": "Phoenix"
+  }
+ },
+ "504673c994": {
+  "instruction": {
+   "star rating": "3.0",
+   "date": "3/25/2017",
+   "ANSWER": "The Corner House Bed and Breakfast",
+   "geographic location": "Nicholasville, KY"
+  }
+ },
+ "c77bae8b30": {
+  "instruction": {
+   "date": "2/14/2017",
+   "geographic location": "Salt Lake City",
+   "star rating": "4.5"
+  }
+ },
+ "2d93131c9c": {
+  "instruction": {
+   "date": "2/23/2017",
+   "geographic location": "San Antonio, TX",
+   "star rating": "4.7",
+   "ANSWER": "Riverwalk Vista"
+  }
+ },
+ "babcf3b3d4": {
+  "instruction": {
+   "date": "21 February 2017",
+   "geographic location": "Las Vegas, Nevada, USA",
+   "star rating": "2",
+   "ANSWER": "Motel 6 Las Vegas - Tropicana"
+  }
+ },
+ "c42285a516": {
+  "instruction": {
+   "star rating": "(3.5)",
+   "date": "(2/21/2017)",
+   "ANSWER": "The Roosevelt Hotel, New York City",
+   "geographic location": "45 E 45th Street, New York, NY, 10017"
+  }
+ },
+ "32d47a3b7e": {
+  "instruction": {
+   "star rating": "3.5",
+   "date": "3/4/2017",
+   "geographic location": "Bismarck"
+  }
+ },
+ "a8de17b51a": {
+  "instruction": {
+   "date": "4/18/2017",
+   "geographic location": "Racine, WI",
+   "star rating": "3.0",
+   "ANSWER": "Christmas House Bed & Breakfast, Doubletree by Hilton Hotel Racine Harbourwalk"
+  }
+ },
+ "5f78bcac3f": {
+  "instruction": {
+   "date": "21 February 2017",
+   "geographic location": "Las Vegas, Nevada, USA",
+   "star rating": "2",
+   "ANSWER": "The Carriage House"
+  }
+ },
+ "3269b87455": {
+  "instruction": {
+   "star rating": "4.0",
+   "date": "4/22/2017",
+   "ANSWER": "Delamar Southport",
+   "geographic location": "Ronkonkoma, NY"
+  }
+ },
+ "b202c0d2d0": {
+  "instruction": {
+   "date": "3/9/2017",
+   "geographic location": "Chicago, Il",
+   "star rating": "4",
+   "ANSWER": "Hilton Chicago O'Hare Airport"
+  }
+ },
+ "923c658526": {
+  "instruction": {
+   "date": "2/24/2017",
+   "geographic location": "San Antonio",
+   "star rating": "3.5",
+   "ANSWER": "Studio 6 San Antonio Airport"
+  }
+ },
+ "d55e07d43d": {
+  "instruction": {
+   "date": "3/1/2017",
+   "geographic location": "Houston",
+   "star rating": "4.5",
+   "ANSWER": "Hotel ZaZa Houston"
+  }
+ },
+ "8078d9b558": {
+  "instruction": {
+   "star rating": "1.5",
+   "date": "3/19/2017",
+   "ANSWER": "Knights Inn Detroit Area/Farmington Hills, Days Inn Livonia - Detroit, Americas Best Value Inn-Detroit/Dearborn",
+   "geographic location": "Detroit, MI"
+  }
+ },
+ "7c9726d8da": {
+  "instruction": {
+   "date": "3/01/2017",
+   "geographic location": "Salt Lake City, Utah",
+   "star rating": "2",
+   "ANSWER": "Super 8 Salt Lake City Airport"
+  }
+ },
+ "385de8cd44": {
+  "instruction": {
+   "date": "7/4/2017",
+   "geographic location": "Destin, FL",
+   "star rating": "4",
+   "ANSWER": "Watercolor Inn & Resort, Four Points by Sheraton"
+  }
+ },
+ "46e5913d7d": {
+  "instruction": {
+   "date": "4/1/2017",
+   "geographic location": "San Luis Obispo, CA",
+   "star rating": "2.0",
+   "ANSWER": "Days Inn Santa Maria, The Palomar Inn, Edgewater Inn And Suites, Dolphin Cove Motel, Harbor House Inn Morro Bay, San Luis Inn And Suites, Aloha Inn, Motel 6 San Luis Obispo North, Peach Tree Inn, Budget Inn, Travelodge San Luis Obispo, Rockview Inn and Suites, Fireside Inn, Motel 6 San Luis Obispo South, Villa Motel, "
+  }
+ },
+ "61b9c422c8": {
+  "instruction": {
+   "star rating": "3.5",
+   "date": "04/12/2017",
+   "ANSWER": "Vagabond Inn Los Angeles-USC",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "367b96f0f3": {
+  "instruction": {
+   "date": "21 February 2017",
+   "geographic location": "Las Vegas, Nevada, USA",
+   "star rating": "2",
+   "ANSWER": "Arizona Charlie's Decatur - Casino Hotel & Suites"
+  }
+ },
+ "103d3d243e": {
+  "instruction": {
+   "star rating": "4.5",
+   "date": "3/1/2017",
+   "ANSWER": "Hotel ZaZa Houston",
+   "geographic location": "Houston"
+  }
+ },
+ "a0bd87e22a": {
+  "instruction": {
+   "star rating": "3.5",
+   "date": "2/24/2017",
+   "ANSWER": "Studio 6 San Antonio Airport",
+   "geographic location": "San Antonio"
+  }
+ },
+ "e7170c53dd": {
+  "instruction": {
+   "star rating": "(4.3)",
+   "date": "(2/21/2017)",
+   "ANSWER": "Ace Hotel New York",
+   "geographic location": "20 West 29th Street, New York, NY, 10001 "
+  }
+ },
+ "27a63c56db": {
+  "instruction": {
+   "date": "05/01/2017",
+   "geographic location": "Landover",
+   "star rating": "4.0",
+   "ANSWER": "Holiday Inn Express Washington DC - BW Parkway"
+  }
+ },
+ "d5920b91b8": {
+  "instruction": {
+   "date": "(2/21/2017)",
+   "geographic location": "(18 9th Avenue at 13th street, New York, NY, 10018)",
+   "star rating": "(4.4)",
+   "ANSWER": "Gansevoort Meatpacking"
+  }
+ },
+ "690b0e9581": {
+  "instruction": {
+   "date": "4/3/2017",
+   "geographic location": "Bend, OR",
+   "star rating": "1.5",
+   "ANSWER": "Bend Value Inn, Rodeway Inn & Suites"
+  }
+ },
+ "7da62e7edc": {
+  "instruction": {
+   "star rating": "4.5",
+   "date": "2/14/2017",
+   "geographic location": "Salt Lake City"
+  }
+ },
+ "387d6936e4": {
+  "instruction": {
+   "star rating": "3.7",
+   "date": "3/28/2017",
+   "ANSWER": "Ramada San Diego North ",
+   "geographic location": "San Diego"
+  }
+ },
+ "b668e64cd0": {
+  "instruction": {
+   "star rating": "3.9",
+   "date": "3/20/2017",
+   "ANSWER": "Gold Coast Hotel",
+   "geographic location": "Las Vegas, NV"
+  }
+ },
+ "c51c00c5be": {
+  "instruction": {
+   "date": "(2/21/2017)",
+   "geographic location": "(570 Tenth Avenue, New York, NY, 10036)",
+   "star rating": "(4.3)",
+   "ANSWER": "YOTEL New York at Times Square"
+  }
+ },
+ "388826e26f": {
+  "instruction": {
+   "star rating": "3",
+   "date": "21 February 2017",
+   "ANSWER": "Harrah's Hotel and Casino Las Vegas",
+   "geographic location": "Las Vegas, Nevada, USA"
+  }
+ },
+ "716b7b833e": {
+  "instruction": {
+   "date": "03/05/2017",
+   "geographic location": "Miami",
+   "star rating": "4.5",
+   "ANSWER": "InterContinental Miami"
+  }
+ },
+ "26760e5729": {
+  "instruction": {
+   "star rating": "5.0",
+   "date": "04/10/2017",
+   "ANSWER": "Royal Palms Resort & Spa",
+   "geographic location": "Phoenix"
+  }
+ },
+ "121eb236b4": {
+  "instruction": {
+   "star rating": "4.4",
+   "date": "4/5/2017",
+   "ANSWER": "Omni Chicago Hotel",
+   "geographic location": "Chicago"
+  }
+ },
+ "56fdafcf39": {
+  "instruction": {
+   "date": "3/5/2017",
+   "geographic location": "Jackson, Mississippi",
+   "star rating": "3",
+   "ANSWER": "Hilton Garden Inn Jackson/Flowood"
+  }
+ },
+ "e3aa8206cb": {
+  "instruction": {
+   "date": "4/26/2017",
+   "geographic location": "Hershey, PA",
+   "star rating": "1",
+   "ANSWER": "Hershey Travel Inn, Knights Inn, Econolodge, Rodeway Inn"
+  }
+ },
+ "f57712b62b": {
+  "instruction": {
+   "star rating": "4",
+   "date": " 3/1/2017",
+   "ANSWER": "Caesars Palace",
+   "geographic location": "Las Vegas, Nevada"
+  }
+ },
+ "1b03200a5c": {
+  "instruction": {
+   "date": "3/19/2017",
+   "geographic location": "Glen Rose, TX",
+   "star rating": "3.5",
+   "ANSWER": "Inn on the River, Nutt House Historic Hotel, Iron Horse Inn, Manor of Time, River Rock Bed & Breakfast Cottages"
+  }
+ },
+ "1c1e6f42c5": {
+  "instruction": {
+   "date": "02/26/2017",
+   "geographic location": "Battle Lake",
+   "star rating": "5.0",
+   "ANSWER": "Battle Lake Inn and Suites"
+  }
+ },
+ "8afd87875b": {
+  "instruction": {
+   "star rating": "(4.1)",
+   "date": "(2/21/2017)",
+   "ANSWER": "Iberostar 70 Park Avenue",
+   "geographic location": "(70 Park Ave, New York, NY, 10016 United States)"
+  }
+ },
+ "0311379da4": {
+  "instruction": {
+   "star rating": "5",
+   "date": "21 February 2017",
+   "ANSWER": "Trump International Hotel Las Vegas",
+   "geographic location": "Las Vegas, Nevada, USA"
+  }
+ },
+ "d5cfa16578": {
+  "instruction": {
+   "star rating": "4.2",
+   "date": "2/27/2017",
+   "ANSWER": "Holiday Inn Houston Downtown",
+   "geographic location": "Houston, TX"
+  }
+ },
+ "8000374e12": {
+  "instruction": {
+   "star rating": "4.1",
+   "date": "04/04/2017",
+   "ANSWER": "Washington Hilton",
+   "geographic location": "Washington"
+  }
+ },
+ "476a2b8f40": {
+  "instruction": {
+   "star rating": "5.0",
+   "date": "3/15/2017",
+   "ANSWER": "Hotel Crescent Court",
+   "geographic location": "Dallas, TX"
+  }
+ },
+ "115425840c": {
+  "instruction": {
+   "date": "3/5/2017",
+   "geographic location": "Las Vegas",
+   "star rating": "4.1 ",
+   "ANSWER": "Sunset Station Hotel & Casino"
+  }
+ },
+ "976ad29fa1": {
+  "instruction": {
+   "date": "21 February 2017",
+   "geographic location": "Las Vegas, Nevada, USA",
+   "star rating": "2",
+   "ANSWER": "Royal Resort"
+  }
+ },
+ "ec19ffef64": {
+  "instruction": {
+   "date": "2/27/2017",
+   "geographic location": "Houston, TX",
+   "star rating": "4.2",
+   "ANSWER": "Holiday Inn Houston Downtown"
+  }
+ },
+ "e2a8ef0be3": {
+  "instruction": {
+   "date": "3/1/2017",
+   "geographic location": "Dollywood",
+   "star rating": "1"
+  }
+ },
+ "96951fc96a": {
+  "instruction": {
+   "date": "5/2/2017",
+   "geographic location": "North Dayton, Ohio",
+   "star rating": "3.2",
+   "ANSWER": "Extended Stay America - Dayton - North"
+  }
+ },
+ "a0a1d2205d": {
+  "instruction": {
+   "star rating": "3.2",
+   "date": "5/2/2017",
+   "ANSWER": "Extended Stay America - Dayton - North",
+   "geographic location": "North Dayton, Ohio"
+  }
+ },
+ "44da2e5483": {
+  "instruction": {
+   "star rating": "4",
+   "date": "21 February 2017",
+   "ANSWER": "Westgate Las Vegas Resort & Casino",
+   "geographic location": "Las Vegas, Nevada, USA"
+  }
+ },
+ "39749de8b6": {
+  "instruction": {
+   "star rating": "2",
+   "date": "21 February 2017",
+   "ANSWER": "Arizona Charlie's Boulder - Casino Hotel, Suites, & RV Park",
+   "geographic location": "Las Vegas, Nevada, USA"
+  }
+ },
+ "81ebcc6da3": {
+  "instruction": {
+   "star rating": "3.0",
+   "date": "4/18/2017",
+   "ANSWER": "Christmas House Bed & Breakfast, Doubletree by Hilton Hotel Racine Harbourwalk",
+   "geographic location": "Racine, WI"
+  }
+ },
+ "cd67204ae3": {
+  "instruction": {
+   "star rating": "4.9",
+   "date": "3/31/2017",
+   "ANSWER": "21c Museum Hotel Oklahoma City",
+   "geographic location": "Downtown Oklahoma City"
+  }
+ },
+ "77855f665d": {
+  "instruction": {
+   "star rating": "3",
+   "date": "8/12/2017",
+   "ANSWER": "Holiday Inn, Steele Cottage, Corners Mansion Inn, Courtyard Marriott, ",
+   "geographic location": "Vicksburg, MS"
+  }
+ },
+ "1839a94eb3": {
+  "instruction": {
+   "star rating": "4.5",
+   "date": "4/30/2017",
+   "ANSWER": "Margaritaville Resort Casino",
+   "geographic location": "Shreveport, Louisiana"
+  }
+ },
+ "f03b073657": {
+  "instruction": {
+   "date": "02/24/2017",
+   "geographic location": "Las Vegas",
+   "star rating": "4.0",
+   "ANSWER": "TI - Treasure Island Hotel and Casino"
+  }
+ },
+ "9d2098cbd1": {
+  "instruction": {
+   "date": "3/9/2017",
+   "geographic location": "Chicago, Il",
+   "star rating": "5",
+   "ANSWER": "Trump International Hotel & Tower Chicago"
+  }
+ },
+ "a4d551d8b7": {
+  "instruction": {
+   "star rating": "2.3",
+   "date": "3/22/2017",
+   "geographic location": "Beacon Hill, Boston MA"
+  }
+ },
+ "f0a4b7144b": {
+  "instruction": {
+   "star rating": "2.0",
+   "date": "3/17/2017",
+   "ANSWER": "El Rancho Motel, Super 8 - Yuma, Motel 6 Yuma East, Hacienda Motel, Days Inn Yuma AZ, Microtel Inn & Suites by Wyndham Yuma, Howard Johnson Inn Yuma, Motel 6 Yuma - Oldtown, Royal Motor Inn, Yuma 4th Avenue Travelodge, Knights Inn And Suites Yuma, Yuma Cabana Motel",
+   "geographic location": "Yuma, AZ"
+  }
+ },
+ "6df7ffc48e": {
+  "instruction": {
+   "date": "21 February 2017",
+   "geographic location": "Las Vegas, Nevada, USA",
+   "star rating": "4",
+   "ANSWER": "Westgate Las Vegas Resort & Casino"
+  }
+ },
+ "dc2ed26468": {
+  "instruction": {
+   "star rating": "3",
+   "date": "3/5/2017",
+   "ANSWER": "Hilton Garden Inn Jackson/Flowood",
+   "geographic location": "Jackson, Mississippi"
+  }
+ },
+ "6fb8da598b": {
+  "instruction": {
+   "date": "6/26/2017",
+   "geographic location": "San Diego, CA",
+   "star rating": "5",
+   "ANSWER": "Fairmont Grand Del Mar, L'Auberge Del Mar, Rancho Valencia Resort & Spa, the US Grant, The Lodge at Torrey Pines, "
+  }
+ },
+ "57f6b05add": {
+  "instruction": {
+   "star rating": "4.3",
+   "date": "3/01/2017",
+   "ANSWER": "Best Western Club House Inn",
+   "geographic location": "Weatherford, TX"
+  }
+ },
+ "2b3bff825a": {
+  "instruction": {
+   "date": "3/01/2017",
+   "geographic location": "Weatherford, TX",
+   "star rating": "4.3",
+   "ANSWER": "Best Western Club House Inn"
+  }
+ },
+ "35b6f8f428": {
+  "instruction": {
+   "star rating": "3",
+   "date": "3/7/2017",
+   "ANSWER": "Country Inn & Suites By Carlson Goldsboro",
+   "geographic location": "Goldsboro, NC"
+  }
+ },
+ "46542ef70d": {
+  "instruction": {
+   "star rating": "5",
+   "date": "3/4/2017",
+   "ANSWER": "The Umstead Hotel and Spa",
+   "geographic location": "Raleigh, NC"
+  }
+ },
+ "e3fd47524e": {
+  "instruction": {
+   "date": "3/17/2017",
+   "geographic location": "Yuma, AZ",
+   "star rating": "2.0",
+   "ANSWER": "El Rancho Motel, Super 8 - Yuma, Motel 6 Yuma East, Hacienda Motel, Days Inn Yuma AZ, Microtel Inn & Suites by Wyndham Yuma, Howard Johnson Inn Yuma, Motel 6 Yuma - Oldtown, Royal Motor Inn, Yuma 4th Avenue Travelodge, Knights Inn And Suites Yuma, Yuma Cabana Motel"
+  }
+ },
+ "24a71bf931": {
+  "instruction": {
+   "date": "04/04/2017",
+   "geographic location": "Washington",
+   "star rating": "4.1",
+   "ANSWER": "Washington Hilton"
+  }
+ },
+ "fba6522201": {
+  "instruction": {
+   "date": "21 February 2017",
+   "geographic location": "Las Vegas, Nevada, USA",
+   "star rating": "2",
+   "ANSWER": "Arizona Charlie's Boulder - Casino Hotel, Suites, & RV Park"
+  }
+ },
+ "638963e06d": {
+  "instruction": {
+   "date": "4/1/2017",
+   "geographic location": "San Francisco",
+   "star rating": "2"
+  }
+ },
+ "d1063fac5e": {
+  "instruction": {
+   "star rating": "1.5",
+   "date": "4/3/2017",
+   "ANSWER": "Bend Value Inn, Rodeway Inn & Suites",
+   "geographic location": "Bend, OR"
+  }
+ },
+ "adb3fb9bed": {
+  "instruction": {
+   "star rating": "3.9",
+   "date": "2/28/2017",
+   "ANSWER": "La Quinta Inn Austin North",
+   "geographic location": "Austin, TX"
+  }
+ },
+ "a6bfe7af9e": {
+  "instruction": {
+   "date": "2/21/2017",
+   "geographic location": "Lubbock, TX",
+   "star rating": "4.6",
+   "ANSWER": "Embassy Suites Lubbock"
+  }
+ },
+ "abbe68507e": {
+  "instruction": {
+   "date": "(2/21/2017)",
+   "geographic location": "653 11th Avenue, New York, NY, 10036 ",
+   "star rating": "(4.4)",
+   "ANSWER": "Kimpton Ink48 Hotel"
+  }
+ },
+ "688b31a60c": {
+  "instruction": {
+   "date": "(2/21/2017)",
+   "geographic location": "123 W 57th St, New York, NY, 10019",
+   "star rating": "(3.9)",
+   "ANSWER": "Salisbury Hotel"
+  }
+ },
+ "c52f8b333d": {
+  "instruction": {
+   "date": "2/28/2017",
+   "geographic location": "Austin, TX",
+   "star rating": "3.9",
+   "ANSWER": "La Quinta Inn Austin North"
+  }
+ },
+ "900d1bd0f8": {
+  "instruction": {
+   "date": "2/24/2017",
+   "geographic location": "Las Vegas",
+   "star rating": "1.5"
+  }
+ },
+ "4dedc099f3": {
+  "instruction": {
+   "star rating": "(4.2)",
+   "date": "(2/21/2017)",
+   "ANSWER": "The Belvedere Hotel",
+   "geographic location": "319 W 48th St, New York, NY, 10036"
+  }
+ },
+ "538b25c9a5": {
+  "instruction": {
+   "star rating": "1",
+   "date": "3/1/2017",
+   "geographic location": "Dollywood"
+  }
+ },
+ "ff96cda4aa": {
+  "instruction": {
+   "start date": "2/14/17",
+   "number of adults": "4",
+   "number of rooms": "2",
+   "location": "Chicago, IL",
+   "end date": "2/16/17"
+  }
+ },
+ "9831f1543b": {
+  "instruction": {
+   "start date": "2/18/17",
+   "number of adults": "4",
+   "number of rooms": "3",
+   "location": "Orlando, FL",
+   "end date": "2/20/17"
+  }
+ },
+ "b97ac622e7": {
+  "instruction": {
+   "star rating": "4.0",
+   "date": "03/14/2017",
+   "ANSWER": "Club Quarters Hotel, Midtown",
+   "geographic location": "New York"
+  }
+ },
+ "761c05d710": {
+  "instruction": {
+   "date": "2/18/2017",
+   "geographic location": "Upper West Side, NYC",
+   "star rating": "2.7"
+  }
+ },
+ "ccb678f36d": {
+  "instruction": {
+   "date": " 3/1/2017",
+   "geographic location": "Las Vegas, Nevada",
+   "star rating": "4",
+   "ANSWER": "Caesars Palace"
+  }
+ },
+ "b2ce569234": {
+  "instruction": {
+   "star rating": "4",
+   "date": "3/03/2017",
+   "ANSWER": "Charlotte Marriott Southpark",
+   "geographic location": "Charlotte, NC"
+  }
+ },
+ "b553a2ce84": {
+  "instruction": {
+   "start date": "2/13/17",
+   "number of adults": "1",
+   "number of rooms": "1",
+   "location": "Atlantic City, NJ",
+   "end date": "2/15/17"
+  }
+ },
+ "26b2bac02d": {
+  "instruction": {
+   "star rating": "4.0",
+   "date": "02/24/2017",
+   "ANSWER": "TI - Treasure Island Hotel and Casino",
+   "geographic location": "Las Vegas"
+  }
+ },
+ "861d8f478e": {
+  "instruction": {
+   "star rating": "3",
+   "date": "3/02/2017",
+   "ANSWER": "Courtyard by Marriott Birmingham Homewood",
+   "geographic location": "Birmingham, Alabama"
+  }
+ },
+ "f2bdd132ea": {
+  "instruction": {
+   "date": "3/22/2017",
+   "geographic location": "Beacon Hill, Boston MA",
+   "star rating": "2.3"
+  }
+ },
+ "c47e472d29": {
+  "instruction": {
+   "date": "4/22/2017",
+   "geographic location": "Ronkonkoma, NY",
+   "star rating": "4.0",
+   "ANSWER": "Delamar Southport"
+  }
+ },
+ "42513bd6ac": {
+  "instruction": {
+   "date": "3/31/2017",
+   "geographic location": "Nashville, TN",
+   "star rating": "3.5",
+   "ANSWER": "Radisson Hotel Nashville Airport, Germantown Inn, Hotel Preston, Hotel Indigo Nashville, Embassy Suites Hotel Nashville - Airport, Embassy Suites Nashville South/Cool Springs, Franklin Marriott Cool Springs"
+  }
+ },
+ "e062e55f40": {
+  "instruction": {
+   "date": "2/22/2017",
+   "geographic location": "Orlando",
+   "star rating": "3.0"
+  }
+ },
+ "08fa3f093a": {
+  "instruction": {
+   "star rating": "3.0",
+   "date": "2/22/2017",
+   "geographic location": "Orlando"
+  }
+ },
+ "b60dcc5b7e": {
+  "instruction": {
+   "star rating": "5.0",
+   "date": "04/10/2017",
+   "ANSWER": "Omni Scottsdale Resort & Spa Monticia",
+   "geographic location": "Phoenix"
+  }
+ },
+ "f9a8ac29ab": {
+  "instruction": {
+   "date": "3/7/2017",
+   "geographic location": "Goldsboro, NC",
+   "star rating": "3",
+   "ANSWER": "Country Inn & Suites By Carlson Goldsboro"
+  }
+ },
+ "0d9aef8d30": {
+  "instruction": {
+   "star rating": "2",
+   "date": "21 February 2017",
+   "ANSWER": "Arizona Charlie's Decatur - Casino Hotel & Suites",
+   "geographic location": "Las Vegas, Nevada, USA"
+  }
+ },
+ "0896690acb": {
+  "instruction": {
+   "star rating": "3.5",
+   "date": "3/31/2017",
+   "ANSWER": "Radisson Hotel Nashville Airport, Germantown Inn, Hotel Preston, Hotel Indigo Nashville, Embassy Suites Hotel Nashville - Airport, Embassy Suites Nashville South/Cool Springs, Franklin Marriott Cool Springs",
+   "geographic location": "Nashville, TN"
+  }
+ },
+ "48010f09f6": {
+  "instruction": {
+   "star rating": "5.0",
+   "date": "4/25/2017",
+   "ANSWER": "Reunion Resort, A Salamander Golf & Spa Resort, Four Seasons Resort Orlando At Walt Disney World Resort, The Ritz-Carlton Orlando, Grande Lakes, ",
+   "geographic location": "Kissimmee, FL"
+  }
+ },
+ "d3d824c921": {
+  "instruction": {
+   "date": "(2/21/2017)",
+   "geographic location": "20 West 29th Street, New York, NY, 10001 ",
+   "star rating": "(4.3)",
+   "ANSWER": "Ace Hotel New York"
+  }
+ },
+ "2ffb17e0de": {
+  "instruction": {
+   "star rating": "2",
+   "date": "4/1/2017",
+   "geographic location": "San Francisco"
+  }
+ },
+ "260c49f9af": {
+  "instruction": {
+   "star rating": "4.5",
+   "date": "03/05/2017",
+   "ANSWER": "InterContinental Miami",
+   "geographic location": "Miami"
+  }
+ },
+ "4903a3b022": {
+  "instruction": {
+   "date": "(2/21/2017)",
+   "geographic location": "45 E 45th Street, New York, NY, 10017",
+   "star rating": "(3.5)",
+   "ANSWER": "The Roosevelt Hotel, New York City"
+  }
+ },
+ "80ed80bac7": {
+  "instruction": {
+   "date": "21 February 2017",
+   "geographic location": "Las Vegas, Nevada, USA",
+   "star rating": "3",
+   "ANSWER": "Harrah's Hotel and Casino Las Vegas"
+  }
+ },
+ "718afa320b": {
+  "instruction": {
+   "star rating": "3.5",
+   "date": "6/10/2017",
+   "ANSWER": "Welk Resort Branson Hotel, The Branson Hotel, The Old English Inn, Radisson Inn Branson, Kingsgate, Eagle's Nest Condo Resort, Hilton Branson Convention Center, Branson Condo Resorts",
+   "geographic location": "Branson, MO"
+  }
+ },
+ "e558a85f28": {
+  "instruction": {
+   "star rating": "2.0",
+   "date": "4/1/2017",
+   "ANSWER": "Days Inn Santa Maria, The Palomar Inn, Edgewater Inn And Suites, Dolphin Cove Motel, Harbor House Inn Morro Bay, San Luis Inn And Suites, Aloha Inn, Motel 6 San Luis Obispo North, Peach Tree Inn, Budget Inn, Travelodge San Luis Obispo, Rockview Inn and Suites, Fireside Inn, Motel 6 San Luis Obispo South, Villa Motel, ",
+   "geographic location": "San Luis Obispo, CA"
+  }
+ },
+ "58895cbd50": {
+  "instruction": {
+   "star rating": "4.7",
+   "date": "2/23/2017",
+   "ANSWER": "Riverwalk Vista",
+   "geographic location": "San Antonio, TX"
+  }
+ },
+ "303b2296b1": {
+  "instruction": {
+   "date": "2/28/2017",
+   "geographic location": "Fort Worth, TX",
+   "star rating": "4.0",
+   "ANSWER": "The Worthington Renaissance Fort Worth"
+  }
+ },
+ "3d712ce523": {
+  "instruction": {
+   "date": "03/14/2017",
+   "geographic location": "New York",
+   "star rating": "4.0",
+   "ANSWER": "Club Quarters Hotel, Midtown"
+  }
+ },
+ "ca9642aec4": {
+  "instruction": {
+   "date": "3/13/2017",
+   "geographic location": "Foggy Bottom, Washington DC",
+   "star rating": "4.0"
+  }
+ },
+ "1c221c8a9d": {
+  "instruction": {
+   "star rating": "4.0",
+   "date": "05/01/2017",
+   "ANSWER": "Holiday Inn Express Washington DC - BW Parkway",
+   "geographic location": "Landover"
+  }
+ },
+ "bc8ff3ae8c": {
+  "instruction": {
+   "date": "3/19/2017",
+   "geographic location": "Detroit, MI",
+   "star rating": "1.5",
+   "ANSWER": "Knights Inn Detroit Area/Farmington Hills, Days Inn Livonia - Detroit, Americas Best Value Inn-Detroit/Dearborn"
+  }
+ },
+ "93e600efc6": {
+  "instruction": {
+   "star rating": "4.0",
+   "date": "3/13/2017",
+   "geographic location": "Foggy Bottom, Washington DC"
+  }
+ },
+ "d750536bce": {
+  "instruction": {
+   "star rating": "4",
+   "date": "7/10/2017",
+   "ANSWER": "Northern Hotel",
+   "geographic location": "Billings, MT"
+  }
+ },
+ "09b54330cd": {
+  "instruction": {
+   "star rating": "5.0",
+   "date": "04/10/2017",
+   "ANSWER": "Fairmont Scottsale Princess",
+   "geographic location": "Phoenix"
+  }
+ },
+ "6126ea246a": {
+  "instruction": {
+   "date": "3/31/2017",
+   "geographic location": "Downtown Oklahoma City",
+   "star rating": "4.9",
+   "ANSWER": "21c Museum Hotel Oklahoma City"
+  }
+ },
+ "5a851023f8": {
+  "instruction": {
+   "star rating": "3.5",
+   "date": "05/16/2017",
+   "ANSWER": "Inns Of Virginia - Arlington",
+   "geographic location": "Arlington"
+  }
+ },
+ "4e2f27a383": {
+  "instruction": {
+   "star rating": "3.9",
+   "date": "4/23/2017",
+   "ANSWER": "Wyndham Garden Wichita Downtown",
+   "geographic location": "Wichita"
+  }
+ },
+ "971dee4134": {
+  "instruction": {
+   "start date": "2/19/17",
+   "number of adults": "7",
+   "number of rooms": "4",
+   "location": "Miami, FL",
+   "end date": "2/21/17"
+  }
+ },
+ "a493a8a9a5": {
+  "instruction": {
+   "star rating": "4.3",
+   "date": "4/01/2017",
+   "ANSWER": "Holiday Inn Amarillo West",
+   "geographic location": "Amarillo, TX"
+  }
+ },
+ "ee30ab6616": {
+  "instruction": {
+   "date": "21 February 2017",
+   "geographic location": "Las Vegas, Nevada, USA",
+   "star rating": "2",
+   "ANSWER": "Best Western McCarran Inn"
+  }
+ },
+ "5fcd732816": {
+  "instruction": {
+   "date": "7/17/2017",
+   "geographic location": "Galveson, TX ",
+   "star rating": "2.5",
+   "ANSWER": "Fairfield Inn & Suites, La Copa Inn, Baymont Inn & Suites, Best Western Mainland Inn, La Quinta, Palace Inn Alvin, Days Inn, Homewood Suites, Comfort Inn, Motel 6, Country Inn & Suites, Quality Inn, Holiday Inn Express, Towne Place Suites, Hampton Inn, Pearl Inn, Candlewood Suites, "
+  }
+ },
+ "529c7197a6": {
+  "instruction": {
+   "star rating": "4.1 ",
+   "date": "3/5/2017",
+   "ANSWER": "Sunset Station Hotel & Casino",
+   "geographic location": "Las Vegas"
+  }
+ },
+ "286cdba076": {
+  "instruction": {
+   "date": "21 February 2017",
+   "geographic location": "Las Vegas, Nevada, USA",
+   "star rating": "5",
+   "ANSWER": "Trump International Hotel Las Vegas"
+  }
+ },
+ "238533f582": {
+  "instruction": {
+   "star rating": "4.2",
+   "date": "03/20/2017",
+   "ANSWER": "Wingate by Wyndham Springfield",
+   "geographic location": "Springfield"
+  }
+ },
+ "0cbec0a233": {
+  "instruction": {
+   "start date": "2/20/17",
+   "number of adults": "8",
+   "number of rooms": "4",
+   "location": "Los Angeles, CA",
+   "end date": "2/22/17"
+  }
+ },
+ "80b9f38b94": {
+  "instruction": {
+   "star rating": "2",
+   "date": "21 February 2017",
+   "ANSWER": "The Carriage House",
+   "geographic location": "Las Vegas, Nevada, USA"
+  }
+ },
+ "0ef554a1d5": {
+  "instruction": {
+   "date": "3/03/2017",
+   "geographic location": "Charlotte, NC",
+   "star rating": "4",
+   "ANSWER": "Charlotte Marriott Southpark"
+  }
+ },
+ "f018e4fb13": {
+  "instruction": {
+   "start date": "2/18/17",
+   "number of adults": "3",
+   "number of rooms": "2",
+   "location": "Phoenix, AZ",
+   "end date": "2/19/17"
+  }
+ },
+ "389a39888e": {
+  "instruction": {
+   "star rating": "2",
+   "date": "21 February 2017",
+   "ANSWER": "Best Western McCarran Inn",
+   "geographic location": "Las Vegas, Nevada, USA"
+  }
+ },
+ "1443c7266e": {
+  "instruction": {
+   "date": "04/12/2017",
+   "geographic location": "Los Angeles",
+   "star rating": "3.5",
+   "ANSWER": "Vagabond Inn Los Angeles-USC"
+  }
+ },
+ "b8a0a3db15": {
+  "instruction": {
+   "date": "3/20/2017",
+   "geographic location": "Las Vegas, NV",
+   "star rating": "3.9",
+   "ANSWER": "Gold Coast Hotel"
+  }
+ },
+ "f2217aa47c": {
+  "instruction": {
+   "start date": "2/13/17",
+   "number of adults": "5",
+   "number of rooms": "3",
+   "location": "Albany, NY",
+   "end date": "2/15/17"
+  }
+ },
+ "c330643bf0": {
+  "instruction": {
+   "start date": "2/10/17",
+   "number of adults": "1",
+   "number of rooms": "1",
+   "location": "Boston, MA",
+   "end date": "2/11/17"
+  }
+ },
+ "f62d1522a5": {
+  "instruction": {
+   "date": "3/28/2017",
+   "geographic location": "San Diego",
+   "star rating": "3.7",
+   "ANSWER": "Ramada San Diego North "
+  }
+ },
+ "8bf005ac66": {
+  "instruction": {
+   "date": "3/4/2017",
+   "geographic location": "Bismarck",
+   "star rating": "3.5"
+  }
+ },
+ "d1c841ac47": {
+  "instruction": {
+   "date": "4/01/2017",
+   "geographic location": "Amarillo, TX",
+   "star rating": "4.3",
+   "ANSWER": "Holiday Inn Amarillo West"
+  }
+ },
+ "f3c981e230": {
+  "instruction": {
+   "date": "02/27/2017",
+   "geographic location": "College Park",
+   "star rating": "4.4",
+   "ANSWER": "Best Western Plus College Park Hotel"
+  }
+ },
+ "b0ff2c6d62": {
+  "instruction": {
+   "star rating": "(4.2)",
+   "date": "(2/21/2017)",
+   "ANSWER": "Club Quarters Hotel, Wall Street",
+   "geographic location": "319 W 48th St, New York, NY, 10036, "
+  }
+ },
+ "1b8f2fd11d": {
+  "instruction": {
+   "date": "4/23/2017",
+   "geographic location": "Wichita",
+   "star rating": "3.9",
+   "ANSWER": "Wyndham Garden Wichita Downtown"
+  }
+ },
+ "959d23f11c": {
+  "instruction": {
+   "date": "21 February 2017",
+   "geographic location": "Las Vegas, Nevada, USA",
+   "star rating": "2",
+   "ANSWER": "Days Inn Las Vegas At Wild Wild West Gambling Hall"
+  }
+ },
+ "9d94ff4f01": {
+  "instruction": {
+   "star rating": "5.0",
+   "date": "2/24/2017",
+   "ANSWER": "Four Seasons Hotel Dallas",
+   "geographic location": "Irving, TX"
+  }
+ },
+ "fec0483d42": {
+  "instruction": {
+   "date": "8/12/2017",
+   "geographic location": "Vicksburg, MS",
+   "star rating": "3",
+   "ANSWER": "Holiday Inn, Steele Cottage, Corners Mansion Inn, Courtyard Marriott, "
+  }
+ },
+ "5e8ef6b707": {
+  "instruction": {
+   "star rating": "3.0",
+   "date": "02/22/2017",
+   "ANSWER": "Universal's Cabana Bay Beach Resort; Cypres Point Resort by Diamond Resorts; Grand Villia Resort by Diamon Resorts; Floridays Resort Orlando",
+   "geographic location": "Orlando"
+  }
+ },
+ "77ed9d8a13": {
+  "instruction": {
+   "date": "3/02/2017",
+   "geographic location": "Birmingham, Alabama",
+   "star rating": "3",
+   "ANSWER": "Courtyard by Marriott Birmingham Homewood"
+  }
+ },
+ "82d4e54f8e": {
+  "instruction": {
+   "star rating": "1.5",
+   "date": "2/24/2017",
+   "ANSWER": "Travelers Bed and Breakfest Hosstel",
+   "geographic location": "Las Vegas"
+  }
+ },
+ "3ab8610076": {
+  "instruction": {
+   "star rating": "(4.3)",
+   "date": "(2/21/2017)",
+   "ANSWER": "YOTEL New York at Times Square",
+   "geographic location": "(570 Tenth Avenue, New York, NY, 10036)"
+  }
+ },
+ "7654ad628f": {
+  "instruction": {
+   "date": "(2/21/2017)",
+   "geographic location": "(70 Park Ave, New York, NY, 10016 United States)",
+   "star rating": "(4.1)",
+   "ANSWER": "Iberostar 70 Park Avenue"
+  }
+ },
+ "09ec42bc01": {
+  "instruction": {
+   "star rating": "(3.9)",
+   "date": "(2/21/2017)",
+   "ANSWER": "Salisbury Hotel",
+   "geographic location": "123 W 57th St, New York, NY, 10019"
+  }
+ },
+ "e4cca79c96": {
+  "instruction": {
+   "start date": "2/9/17",
+   "number of adults": "2",
+   "number of rooms": "2",
+   "location": "Las Vegas, NV",
+   "end date": "2/11/17"
+  }
+ },
+ "9866e8b113": {
+  "instruction": {
+   "start date": "2/9/17",
+   "number of adults": "1",
+   "number of rooms": "1",
+   "location": "Bonita Springs, FL",
+   "end date": "2/10/17"
+  }
+ },
+ "3cb6ae51c3": {
+  "instruction": {
+   "star rating": "2",
+   "date": "21 February 2017",
+   "ANSWER": "Royal Resort",
+   "geographic location": "Las Vegas, Nevada, USA"
+  }
+ },
+ "608b8411d9": {
+  "instruction": {
+   "star rating": "2",
+   "date": "04/01/2017",
+   "ANSWER": "Hotel Foucs SFO; San Remo Hotel; Hotel Stratford; Bay Bridge Inn, Castle Inn, Jackson Court",
+   "geographic location": "San Francisco"
+  }
+ },
+ "f549f239a8": {
+  "instruction": {
+   "star rating": "1.5",
+   "date": "2/24/2017",
+   "geographic location": "Las Vegas"
+  }
+ },
+ "996220cc32": {
+  "instruction": {
+   "star rating": "3.5",
+   "date": "3/19/2017",
+   "ANSWER": "Inn on the River, Nutt House Historic Hotel, Iron Horse Inn, Manor of Time, River Rock Bed & Breakfast Cottages",
+   "geographic location": "Glen Rose, TX"
+  }
+ },
+ "7be8e29e26": {
+  "instruction": {
+   "star rating": "4.6",
+   "date": "2/21/2017",
+   "ANSWER": "Embassy Suites Lubbock",
+   "geographic location": "Lubbock, TX"
+  }
+ },
+ "a33d96dae9": {
+  "instruction": {
+   "star rating": "4",
+   "date": "7/4/2017",
+   "ANSWER": "Watercolor Inn & Resort, Four Points by Sheraton",
+   "geographic location": "Destin, FL"
+  }
+ },
+ "0332309249": {
+  "instruction": {
+   "star rating": "2.3",
+   "date": "03/22/2017",
+   "ANSWER": "None",
+   "geographic location": "Beacon Hill, Boston, MA"
+  }
+ },
+ "b155a5cb33": {
+  "instruction": {
+   "star rating": "5",
+   "date": "3/9/2017",
+   "ANSWER": "Trump International Hotel & Tower Chicago",
+   "geographic location": "Chicago, Il"
+  }
+ },
+ "0c91a165aa": {
+  "instruction": {
+   "date": "05/16/2017",
+   "geographic location": "Arlington",
+   "star rating": "3.5",
+   "ANSWER": "Inns Of Virginia - Arlington"
+  }
+ },
+ "076488566c": {
+  "instruction": {
+   "star rating": "1.5",
+   "date": "02/24/2017",
+   "ANSWER": "Travelodge Las Vegas Center Strip; Travelodge Las Vegas",
+   "geographic location": "Las Vegas"
+  }
+ },
+ "4773110d24": {
+  "instruction": {
+   "star rating": "5",
+   "date": "6/26/2017",
+   "ANSWER": "Fairmont Grand Del Mar, L'Auberge Del Mar, Rancho Valencia Resort & Spa, the US Grant, The Lodge at Torrey Pines, ",
+   "geographic location": "San Diego, CA"
+  }
+ },
+ "3cb3cccfab": {
+  "instruction": {
+   "date": "4/10/2017",
+   "geographic location": "Phoenix",
+   "star rating": "5.0"
+  }
+ },
+ "6009d6c52d": {
+  "instruction": {
+   "star rating": "1",
+   "date": "4/26/2017",
+   "ANSWER": "Hershey Travel Inn, Knights Inn, Econolodge, Rodeway Inn",
+   "geographic location": "Hershey, PA"
+  }
+ },
+ "2e723bbd25": {
+  "instruction": {
+   "date": "3/21/2017",
+   "geographic location": "Cinncinati, OH",
+   "star rating": "4.0",
+   "ANSWER": "Cincinnatian Hotel, The Hotel Covington, 21c Museum Hotel Cincinnati, Cincinnatian Hotel, The Westin Cincinnati, Hilton Cincinnati Netherland Plaza, Hyatt Regency Cincinnati"
+  }
+ },
+ "054297c259": {
+  "instruction": {
+   "star rating": "4.6",
+   "date": "2/28/2017",
+   "ANSWER": "Hyatt Centric French Quarter",
+   "geographic location": "French Quarter, New Orleans"
+  }
+ },
+ "4a15e439f7": {
+  "instruction": {
+   "star rating": "4",
+   "date": "3/9/2017",
+   "ANSWER": "Hilton Chicago O'Hare Airport",
+   "geographic location": "Chicago, Il"
+  }
+ },
+ "df185e622a": {
+  "instruction": {
+   "date": "2/24/2017",
+   "geographic location": "Irving, TX",
+   "star rating": "5.0",
+   "ANSWER": "Four Seasons Hotel Dallas"
+  }
+ },
+ "06ff60b0dc": {
+  "instruction": {
+   "star rating": "2.5",
+   "date": "7/17/2017",
+   "ANSWER": "Fairfield Inn & Suites, La Copa Inn, Baymont Inn & Suites, Best Western Mainland Inn, La Quinta, Palace Inn Alvin, Days Inn, Homewood Suites, Comfort Inn, Motel 6, Country Inn & Suites, Quality Inn, Holiday Inn Express, Towne Place Suites, Hampton Inn, Pearl Inn, Candlewood Suites, ",
+   "geographic location": "Galveson, TX "
+  }
+ },
+ "573a2dccd4": {
+  "instruction": {
+   "star rating": "2",
+   "date": "21 February 2017",
+   "ANSWER": "Days Inn Las Vegas At Wild Wild West Gambling Hall",
+   "geographic location": "Las Vegas, Nevada, USA"
+  }
+ },
+ "435ede176a": {
+  "instruction": {
+   "star rating": "(4.4)",
+   "date": "(2/21/2017)",
+   "ANSWER": "Kimpton Ink48 Hotel",
+   "geographic location": "653 11th Avenue, New York, NY, 10036 "
+  }
+ },
+ "7e7ded38aa": {
+  "instruction": {
+   "date": "4/5/2017",
+   "geographic location": "Chicago",
+   "star rating": "4.4",
+   "ANSWER": "Omni Chicago Hotel"
+  }
+ },
+ "35dab3758e": {
+  "instruction": {
+   "star rating": "4.4",
+   "date": "02/27/2017",
+   "ANSWER": "Best Western Plus College Park Hotel",
+   "geographic location": "College Park"
+  }
+ },
+ "6d9641cf6c": {
+  "instruction": {
+   "date": "3/15/2017",
+   "geographic location": "Dallas, TX",
+   "star rating": "5.0",
+   "ANSWER": "Hotel Crescent Court"
+  }
+ },
+ "65b722fed6": {
+  "instruction": {
+   "star rating": "2",
+   "date": "3/25/2017",
+   "ANSWER": "Motel 6 Providence East, America's Best Value Inn, Super 8 West Greenwich, Knights Inn, Classic Motor Lodge, Econo Lodge, Red Roof Inn, Inns on Bellvue, Regency Inn & Suites, Dartmouth Motor Inn, Pineapple Inn, Howard Johnson Inn, Capri Motel",
+   "geographic location": "Providence, RI"
+  }
+ },
+ "0cd164ea50": {
+  "instruction": {
+   "date": "9/22/2017",
+   "geographic location": "Nashua, NH",
+   "star rating": "4",
+   "ANSWER": "Fletcher Tavern Bed & Breakfast, The Inn at Hastings Park"
+  }
+ },
+ "7039d2718f": {
+  "instruction": {
+   "date": "3/8/2017",
+   "geographic location": "Williamsburg, NY",
+   "star rating": "3",
+   "ANSWER": "Pointe Plaza Hotel"
+  }
+ },
+ "547c36f828": {
+  "instruction": {
+   "date": "03/20/2017",
+   "geographic location": "Springfield",
+   "star rating": "4.2",
+   "ANSWER": "Wingate by Wyndham Springfield"
+  }
+ },
+ "0f905d9cd7": {
+  "instruction": {
+   "star rating": "3",
+   "date": "3/8/2017",
+   "ANSWER": "Pointe Plaza Hotel",
+   "geographic location": "Williamsburg, NY"
+  }
+ },
+ "be916ffb37": {
+  "instruction": {
+   "date": "(2/21/2017)",
+   "geographic location": "319 W 48th St, New York, NY, 10036",
+   "star rating": "(4.2)",
+   "ANSWER": "The Belvedere Hotel"
+  }
+ },
+ "2d169b7541": {
+  "instruction": {
+   "star rating": "(4.4)",
+   "date": "(2/21/2017)",
+   "ANSWER": "Gansevoort Meatpacking",
+   "geographic location": "(18 9th Avenue at 13th street, New York, NY, 10018)"
+  }
+ },
+ "f57b4bba13": {
+  "instruction": {
+   "star rating": "2",
+   "date": "21 February 2017",
+   "ANSWER": "Motel 6 Las Vegas - Tropicana",
+   "geographic location": "Las Vegas, Nevada, USA"
+  }
+ },
+ "77d3fc0275": {
+  "instruction": {
+   "date": "(2/21/2017)",
+   "geographic location": "(151 W 54th St, New York, NY)",
+   "star rating": "(4.4) ",
+   "ANSWER": "The London NYC"
+  }
+ },
+ "ec49dc3c88": {
+  "instruction": {
+   "date": "4/25/2017",
+   "geographic location": "Kissimmee, FL",
+   "star rating": "5.0",
+   "ANSWER": "Reunion Resort, A Salamander Golf & Spa Resort, Four Seasons Resort Orlando At Walt Disney World Resort, The Ritz-Carlton Orlando, Grande Lakes, "
+  }
+ },
+ "bb2f37773c": {
+  "instruction": {
+   "date": "4/30/2017",
+   "geographic location": "Shreveport, Louisiana",
+   "star rating": "4.5",
+   "ANSWER": "Margaritaville Resort Casino"
+  }
+ },
+ "5ec3d283cf": {
+  "instruction": {
+   "star rating": "4.0",
+   "date": "2/28/2017",
+   "ANSWER": "The Worthington Renaissance Fort Worth",
+   "geographic location": "Fort Worth, TX"
+  }
+ },
+ "d904149b5c": {
+  "instruction": {
+   "star rating": "4",
+   "date": "9/22/2017",
+   "ANSWER": "Fletcher Tavern Bed & Breakfast, The Inn at Hastings Park",
+   "geographic location": "Nashua, NH"
+  }
+ },
+ "fd7bebf43d": {
+  "instruction": {
+   "date": "3/4/2017",
+   "geographic location": "Raleigh, NC",
+   "star rating": "5",
+   "ANSWER": "The Umstead Hotel and Spa"
+  }
+ },
+ "a311be694f": {
+  "instruction": {
+   "date": "(2/21/2017)",
+   "geographic location": "319 W 48th St, New York, NY, 10036, ",
+   "star rating": "(4.2)",
+   "ANSWER": "Club Quarters Hotel, Wall Street"
+  }
+ },
+ "b981a6987b": {
+  "instruction": {
+   "date": "2/28/2017",
+   "geographic location": "French Quarter, New Orleans",
+   "star rating": "4.6",
+   "ANSWER": "Hyatt Centric French Quarter"
+  }
+ },
+ "ee4a49641e": {
+  "instruction": {
+   "star rating": "5.0",
+   "date": "4/10/2017",
+   "geographic location": "Phoenix"
+  }
+ },
+ "caf44af834": {
+  "instruction": {
+   "star rating": "2",
+   "date": "3/01/2017",
+   "ANSWER": "Super 8 Salt Lake City Airport",
+   "geographic location": "Salt Lake City, Utah"
+  }
+ },
+ "661e839900": {
+  "instruction": {
+   "star rating": "(4.4) ",
+   "date": "(2/21/2017)",
+   "ANSWER": "The London NYC",
+   "geographic location": "(151 W 54th St, New York, NY)"
+  }
+ }
+}

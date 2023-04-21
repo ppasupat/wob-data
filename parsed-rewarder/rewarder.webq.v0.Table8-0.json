@@ -1,0 +1,62 @@
+{
+ "122861a844": {
+  "instruction": {
+   "french": "Korean",
+   "Seattle": "Joule"
+  }
+ },
+ "84696ae2fa": {
+  "instruction": {
+   "french": "Modern American",
+   "Seattle": "Nell's Restaurant "
+  }
+ },
+ "025782422c": {
+  "instruction": {
+   "french": "Wine Bars, French",
+   "Seattle": "Le Caviste, Denny Triangle 1919 7th Ave Seattle, WA 98101 Phone number (206) 728-2657"
+  }
+ },
+ "3c1e8fde33": {
+  "instruction": {
+   "french": "Cajun/Creole",
+   "Seattle": "Toulouse Petit "
+  }
+ },
+ "f2c13d8450": {
+  "instruction": {
+   "french": "Modern French",
+   "Seattle": "Loulay "
+  }
+ },
+ "67d972684d": {
+  "instruction": {
+   "french": "French Bistro",
+   "Seattle": "Mar\u00e9e Bistro & Bar "
+  }
+ },
+ "15beda166a": {
+  "instruction": {
+   "french": "French Steakhouse",
+   "Seattle": "Red Cow "
+  }
+ },
+ "81468d17dd": {
+  "instruction": {
+   "french": " French Bistro  89",
+   "Seattle": "Cafe Campagne"
+  }
+ },
+ "a1d82857c3": {
+  "instruction": {
+   "french": " American (New), French, Wine Bars",
+   "Seattle": "RN74, Downtown 1433 4th Ave Seattle, WA 98101 Phone number (206) 456-7474"
+  }
+ },
+ "45c5a61cbe": {
+  "instruction": {
+   "french": "French, Wine Bars, Brasseries",
+   "Seattle": "Le Pichet, Downtown Located in Pike Place Market Phone number (206) 256-1499"
+  }
+ }
+}

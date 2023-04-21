@@ -1,0 +1,62 @@
+{
+ "94568ba7e7": {
+  "instruction": {
+   "product": "21.5-inch iMac",
+   "price": "$1,099.00  "
+  }
+ },
+ "a9ca90e5ca": {
+  "instruction": {
+   "product": "21.5-inch iMac with Retina 4K display",
+   "price": "$1,499.00"
+  }
+ },
+ "8bd3f08364": {
+  "instruction": {
+   "product": "27-inch iMac with Retina 5K display",
+   "price": "$1,799.00"
+  }
+ },
+ "be29f99391": {
+  "instruction": {
+   "product": "MacBook Pro 15\"",
+   "price": "$2,399.00"
+  }
+ },
+ "f9961ba539": {
+  "instruction": {
+   "product": "iPhone 7 128GB",
+   "price": "$749.00"
+  }
+ },
+ "2890a18a21": {
+  "instruction": {
+   "product": "iPhone 7 32GB",
+   "price": "$649.00"
+  }
+ },
+ "64b3f2149a": {
+  "instruction": {
+   "product": "MacBook Pro 13\"",
+   "price": "$1,499.00"
+  }
+ },
+ "fadbf0250f": {
+  "instruction": {
+   "product": "Mac Pro",
+   "price": "$2,999.00"
+  }
+ },
+ "680b04c94c": {
+  "instruction": {
+   "product": "iPhone 7 256GB",
+   "price": "$849.00"
+  }
+ },
+ "0326dfc997": {
+  "instruction": {
+   "product": "Apple TV 32GB",
+   "price": "$149.00"
+  }
+ }
+}

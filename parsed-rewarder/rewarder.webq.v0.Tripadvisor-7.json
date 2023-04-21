@@ -1,0 +1,62 @@
+{
+ "af23f95243": {
+  "instruction": {
+   "geographic location": "Rome, Italy",
+   "type of art": "Sculptures "
+  }
+ },
+ "f126f19fd2": {
+  "instruction": {
+   "geographic location": "Gatlinburg, Tennessee",
+   "type of art": "Pottery "
+  }
+ },
+ "716fda7704": {
+  "instruction": {
+   "geographic location": "Paris, France",
+   "type of art": "Tapestries"
+  }
+ },
+ "6c0ff18fe2": {
+  "instruction": {
+   "geographic location": "San Francisco, California",
+   "type of art": "Animated Drawings"
+  }
+ },
+ "70e4a45940": {
+  "instruction": {
+   "geographic location": "Los Angeles, California",
+   "type of art": "Modern Art"
+  }
+ },
+ "84440fb7f8": {
+  "instruction": {
+   "geographic location": "Candolim, India",
+   "type of art": "Sketchings"
+  }
+ },
+ "af69cc514a": {
+  "instruction": {
+   "geographic location": "Marrakech, Morocco",
+   "type of art": "Photography"
+  }
+ },
+ "7f6d3d69d3": {
+  "instruction": {
+   "geographic location": "Sacred Valley, Peru",
+   "type of art": "Weavings"
+  }
+ },
+ "6922253f61": {
+  "instruction": {
+   "geographic location": "New York, New York",
+   "type of art": "Oil Paintings"
+  }
+ },
+ "bd823396f9": {
+  "instruction": {
+   "geographic location": "Boston, Massachusetts ",
+   "type of art": "Ancient Art"
+  }
+ }
+}

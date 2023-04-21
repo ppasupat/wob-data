@@ -1,0 +1,1202 @@
+{
+ "55dca7d9d5": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "geographic location": "Carlsbad"
+  }
+ },
+ "ce25256118": {
+  "instruction": {
+   "type of attraction": "Birch Aquarium at Scripps",
+   "geographic location": "San Diego ",
+   "ANSWER": "What is the price for a Birch Aquarium at Scripps tour in San Diego?"
+  }
+ },
+ "eeeda612a1": {
+  "instruction": {
+   "type of attraction": "Academy of Sciences",
+   "geographic location": "San Francisco",
+   "ANSWER": "15.00"
+  }
+ },
+ "a908f34f73": {
+  "instruction": {
+   "geographic location": "Monterey",
+   "type of attraction": "aquarium"
+  }
+ },
+ "6731a58b0b": {
+  "instruction": {
+   "type of attraction": "Aquarium",
+   "ANSWER": "40.00",
+   "geographic location": "Chicago"
+  }
+ },
+ "a79566abd9": {
+  "instruction": {
+   "type of attraction": "aquarium ",
+   "geographic location": "Long Beach",
+   "ANSWER": "31$"
+  }
+ },
+ "e483ca2451": {
+  "instruction": {
+   "type of attraction": "San Diego Zoo Safari Park",
+   "geographic location": "Escondido ",
+   "ANSWER": "What is the price for a San Diego Zoo Safari Park tour in Escondido ?"
+  }
+ },
+ "f704a89e14": {
+  "instruction": {
+   "type of attraction": "zoo tour ",
+   "ANSWER": "$40.00",
+   "geographic location": "San Diego"
+  }
+ },
+ "88148c8dae": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "ANSWER": "20.00",
+   "geographic location": "San Francisco"
+  }
+ },
+ "08a94f703c": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "ANSWER": "40.00",
+   "geographic location": "San Diego"
+  }
+ },
+ "96e0f8abe4": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "44.00 & up",
+   "geographic location": "Atlanta"
+  }
+ },
+ "6de3d42674": {
+  "instruction": {
+   "type of attraction": "Aquarium",
+   "ANSWER": "33.00",
+   "geographic location": "Seattle"
+  }
+ },
+ "c4dd2d6a8d": {
+  "instruction": {
+   "type of attraction": "Sea World",
+   "geographic location": "San Diego",
+   "ANSWER": "$19"
+  }
+ },
+ "d2a756542b": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "geographic location": "San Diego"
+  }
+ },
+ "6b2f4b7962": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "geographic location": "Long Beach"
+  }
+ },
+ "0f771dd4cb": {
+  "instruction": {
+   "type of attraction": "Living Desert Zoo & Gardens",
+   "geographic location": "Palm desert",
+   "ANSWER": "What is the price for a Living Desert Zoo & Gardens tour in Palm Desert?"
+  }
+ },
+ "89ab29b6f9": {
+  "instruction": {
+   "type of attraction": "San Diego Zoo Safari Park",
+   "ANSWER": "What is the price for a San Diego Zoo Safari Park tour in Escondido ?",
+   "geographic location": "Escondido "
+  }
+ },
+ "d88456fea1": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "geographic location": "Long Beach",
+   "ANSWER": "2105.25"
+  }
+ },
+ "a74cc9916d": {
+  "instruction": {
+   "type of attraction": "California Academy of Sciences",
+   "geographic location": "San Francisco ",
+   "ANSWER": "What is the price for a California Academy of Sciences tour in San Francisco ?"
+  }
+ },
+ "c43fbf4c31": {
+  "instruction": {
+   "type of attraction": "Aquarium",
+   "geographic location": "La Jolla",
+   "ANSWER": "$84"
+  }
+ },
+ "f4e779b365": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "ANSWER": "18.75$",
+   "geographic location": "Oakland"
+  }
+ },
+ "8c75fae526": {
+  "instruction": {
+   "type of attraction": "Fresno Chaffee Zoo",
+   "geographic location": "Fresno",
+   "ANSWER": "What is the price for a Fresno Chaffee Zoo tour in Fresno?"
+  }
+ },
+ "2472e51393": {
+  "instruction": {
+   "type of attraction": "aquarium tour",
+   "ANSWER": "$25.00",
+   "geographic location": "San Francisco"
+  }
+ },
+ "884204e7dc": {
+  "instruction": {
+   "type of attraction": "Aquarium",
+   "ANSWER": "$84",
+   "geographic location": "La Jolla"
+  }
+ },
+ "eb4f240c44": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "Escondido"
+  }
+ },
+ "b07c51e8b6": {
+  "instruction": {
+   "type of attraction": "aqaurium",
+   "geographic location": "Carlsbad"
+  }
+ },
+ "11769e1117": {
+  "instruction": {
+   "type of attraction": "Zoo",
+   "geographic location": "San Diego",
+   "ANSWER": "$40"
+  }
+ },
+ "e0d9f48e6a": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "Palm Desert"
+  }
+ },
+ "ec6cde90ce": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "Santa Barbara",
+   "ANSWER": "17$"
+  }
+ },
+ "8cdd8c6ab1": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "ANSWER": "1377.78",
+   "geographic location": "San Francisco"
+  }
+ },
+ "3567108541": {
+  "instruction": {
+   "type of attraction": "City Tour",
+   "geographic location": "Seattle",
+   "ANSWER": "60.72"
+  }
+ },
+ "fbb207d9f2": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "geographic location": "Monterey"
+  }
+ },
+ "16ee889f06": {
+  "instruction": {
+   "type of attraction": "aquarium tour",
+   "ANSWER": "$40.00",
+   "geographic location": "Chicago"
+  }
+ },
+ "1f5916e5fe": {
+  "instruction": {
+   "type of attraction": "aquarium ",
+   "ANSWER": "31$",
+   "geographic location": "Long Beach"
+  }
+ },
+ "1b80038f3e": {
+  "instruction": {
+   "type of attraction": "Museum",
+   "ANSWER": "78.99",
+   "geographic location": "Seattle"
+  }
+ },
+ "c06f9a7414": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "San Diego"
+  }
+ },
+ "fb5f7ee6de": {
+  "instruction": {
+   "type of attraction": "Amusement Park ",
+   "geographic location": "Los Angeles",
+   "ANSWER": "79.98"
+  }
+ },
+ "4b293eaadb": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "ANSWER": "17$",
+   "geographic location": "Santa Barbara"
+  }
+ },
+ "0c19e9540b": {
+  "instruction": {
+   "type of attraction": "Museum",
+   "ANSWER": "30.00",
+   "geographic location": "Chicago"
+  }
+ },
+ "604a0e44ae": {
+  "instruction": {
+   "type of attraction": "Zoo",
+   "geographic location": "San Francisco",
+   "ANSWER": "$20"
+  }
+ },
+ "b40f77dcf5": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "San Diego",
+   "ANSWER": "40.00"
+  }
+ },
+ "f1384380c1": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "12.00 & up",
+   "geographic location": "Orlando"
+  }
+ },
+ "cf97b2dd80": {
+  "instruction": {
+   "geographic location": "Carlsbad",
+   "type of attraction": "aquarium"
+  }
+ },
+ "e273c75d64": {
+  "instruction": {
+   "type of attraction": "Zoo",
+   "ANSWER": "$20",
+   "geographic location": "San Francisco"
+  }
+ },
+ "97ab4581bf": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "Oakland",
+   "ANSWER": "18.75$"
+  }
+ },
+ "6f85b7653b": {
+  "instruction": {
+   "type of attraction": "aquarium tour",
+   "geographic location": "San Francisco",
+   "ANSWER": "$25.00"
+  }
+ },
+ "f4a45c487d": {
+  "instruction": {
+   "type of attraction": "Aquarium of the Pacific",
+   "ANSWER": "31.00",
+   "geographic location": "Long Beach"
+  }
+ },
+ "db7e86bfdb": {
+  "instruction": {
+   "type of attraction": "Living Desert",
+   "ANSWER": "20.00",
+   "geographic location": "Palm Desert"
+  }
+ },
+ "d835c94b57": {
+  "instruction": {
+   "type of attraction": "Aquarium",
+   "geographic location": "Chicago",
+   "ANSWER": "40.00"
+  }
+ },
+ "85b8787bcf": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "40.00 & up",
+   "geographic location": "Chattanooga"
+  }
+ },
+ "0d29e39b7f": {
+  "instruction": {
+   "type of attraction": "zoo tour ",
+   "geographic location": "San Diego",
+   "ANSWER": "$40.00"
+  }
+ },
+ "e4c42430b7": {
+  "instruction": {
+   "type of attraction": "aquarium tour",
+   "ANSWER": "$24.00",
+   "geographic location": "New Orleans"
+  }
+ },
+ "6fdf2ed152": {
+  "instruction": {
+   "type of attraction": "aquarium tour",
+   "geographic location": "New Orleans",
+   "ANSWER": "$24.00"
+  }
+ },
+ "a9c7c76345": {
+  "instruction": {
+   "type of attraction": "Science Academy",
+   "ANSWER": "$15",
+   "geographic location": "San Francisco"
+  }
+ },
+ "7af6f27c07": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "ANSWER": "79$",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "eebfea3395": {
+  "instruction": {
+   "type of attraction": "Living Desert",
+   "geographic location": "Palm Desert",
+   "ANSWER": "20.00"
+  }
+ },
+ "7928fe5029": {
+  "instruction": {
+   "type of attraction": "aquarium ",
+   "geographic location": "Monterey",
+   "ANSWER": "50$"
+  }
+ },
+ "ee162d04a5": {
+  "instruction": {
+   "type of attraction": "Natural History Museums",
+   "ANSWER": "1374.34",
+   "geographic location": "Palm Desert"
+  }
+ },
+ "862d5d8d84": {
+  "instruction": {
+   "geographic location": "Los Angeles",
+   "type of attraction": "zoo"
+  }
+ },
+ "6627966ff8": {
+  "instruction": {
+   "type of attraction": "Amusement Park ",
+   "ANSWER": "79.98",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "c8be28623b": {
+  "instruction": {
+   "type of attraction": "Aquarium of the Pacific",
+   "ANSWER": "What is the price for aAquarium of the Pacific tour in Long Beach ?",
+   "geographic location": "Long Beach "
+  }
+ },
+ "f46f2adcc9": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "geographic location": "La Jolla"
+  }
+ },
+ "1dedd23ef4": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "31.00 & up",
+   "geographic location": "Long Beach"
+  }
+ },
+ "4c2a486a5c": {
+  "instruction": {
+   "type of attraction": "Museum",
+   "geographic location": "Seattle",
+   "ANSWER": "78.99"
+  }
+ },
+ "3395ce4d4a": {
+  "instruction": {
+   "type of attraction": "Living Desert Zoo & Gardens",
+   "ANSWER": "What is the price for a Living Desert Zoo & Gardens tour in Palm Desert?",
+   "geographic location": "Palm desert"
+  }
+ },
+ "7ce06761b4": {
+  "instruction": {
+   "type of attraction": "Chaffee Zoo",
+   "geographic location": "Fresno",
+   "ANSWER": "10.00 "
+  }
+ },
+ "1180b2023c": {
+  "instruction": {
+   "type of attraction": "Birch Aquarium at Scripps",
+   "ANSWER": "What is the price for a Birch Aquarium at Scripps tour in San Diego?",
+   "geographic location": "San Diego "
+  }
+ },
+ "693f391588": {
+  "instruction": {
+   "type of attraction": "Aquarium",
+   "ANSWER": "$31",
+   "geographic location": "Long Beach"
+  }
+ },
+ "52b01c0198": {
+  "instruction": {
+   "type of attraction": "aquarium tour",
+   "geographic location": "Long Beach",
+   "ANSWER": "$31.00"
+  }
+ },
+ "b5067b3096": {
+  "instruction": {
+   "type of attraction": "Educational sites",
+   "geographic location": "San Francisco",
+   "ANSWER": "2407.67"
+  }
+ },
+ "09231e27dc": {
+  "instruction": {
+   "type of attraction": "City Tour",
+   "ANSWER": "59.99",
+   "geographic location": "San Francisco"
+  }
+ },
+ "d9622d6a6c": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "2105.25",
+   "geographic location": "Long Beach"
+  }
+ },
+ "1bed2eaaa8": {
+  "instruction": {
+   "type of attraction": "SeaWorld San Diego",
+   "ANSWER": "What is the price for a SeaWorld San Diego tour in San Diego?",
+   "geographic location": "San Diego"
+  }
+ },
+ "8685394552": {
+  "instruction": {
+   "type of attraction": "aqaurium",
+   "geographic location": "Long Beach"
+  }
+ },
+ "76733e5e9e": {
+  "instruction": {
+   "geographic location": "San Diego",
+   "type of attraction": "aquarium"
+  }
+ },
+ "0e5cdc0e31": {
+  "instruction": {
+   "type of attraction": "San Diego Zoo",
+   "geographic location": "San Diego",
+   "ANSWER": "What is the price for a San Diego Zoo tour in San Diego?"
+  }
+ },
+ "6c994b0ea3": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "Palm Desert",
+   "ANSWER": "20$"
+  }
+ },
+ "8653566a40": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "San Francisco",
+   "ANSWER": "20.00"
+  }
+ },
+ "f529025052": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "5785.99",
+   "geographic location": "Carlsbad"
+  }
+ },
+ "1091c71b5c": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "ANSWER": "14.95$",
+   "geographic location": "Sacramento"
+  }
+ },
+ "0494ebd292": {
+  "instruction": {
+   "type of attraction": "zoo tour ",
+   "ANSWER": "$20.00",
+   "geographic location": "San Francisco"
+  }
+ },
+ "33a0af1440": {
+  "instruction": {
+   "type of attraction": "Chaffee Zoo",
+   "ANSWER": "10.00 ",
+   "geographic location": "Fresno"
+  }
+ },
+ "d5ff866a31": {
+  "instruction": {
+   "type of attraction": "Zoo Safari",
+   "ANSWER": "$39",
+   "geographic location": "San Diego"
+  }
+ },
+ "ff9447a20a": {
+  "instruction": {
+   "type of attraction": "Aquarium",
+   "geographic location": "Seattle",
+   "ANSWER": "33.00"
+  }
+ },
+ "32c4e65ba5": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "5440.86",
+   "geographic location": "San Diego"
+  }
+ },
+ "59abb8f4ec": {
+  "instruction": {
+   "geographic location": "Palm Desert",
+   "type of attraction": "zoo"
+  }
+ },
+ "a8b9c87fe0": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "geographic location": "Monterey",
+   "ANSWER": "3441.01"
+  }
+ },
+ "33af05b236": {
+  "instruction": {
+   "type of attraction": "Museum",
+   "geographic location": "Denver",
+   "ANSWER": "92.00"
+  }
+ },
+ "da44f267eb": {
+  "instruction": {
+   "geographic location": "Escondido",
+   "type of attraction": "zoo"
+  }
+ },
+ "2ace9e749f": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "40.00 & up",
+   "geographic location": "Chicago"
+  }
+ },
+ "4c3033f2b9": {
+  "instruction": {
+   "type of attraction": "Zoo & Botanical Garden",
+   "ANSWER": "$79",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "5fd2fb3dd5": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "34.00 & up",
+   "geographic location": "Gatlinburg"
+  }
+ },
+ "fb726b747b": {
+  "instruction": {
+   "type of attraction": "SeaWorld",
+   "geographic location": "San Diego",
+   "ANSWER": "19.00"
+  }
+ },
+ "4ea4da4529": {
+  "instruction": {
+   "type of attraction": "Academy of Sciences",
+   "ANSWER": "15.00",
+   "geographic location": "San Francisco"
+  }
+ },
+ "c569bac659": {
+  "instruction": {
+   "type of attraction": "Educational sites",
+   "ANSWER": "2407.67",
+   "geographic location": "San Francisco"
+  }
+ },
+ "b635e063ba": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "232c148df1": {
+  "instruction": {
+   "type of attraction": "Aquarium",
+   "geographic location": "Monterey",
+   "ANSWER": "$50"
+  }
+ },
+ "67f492d338": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "geographic location": "Carlsbad",
+   "ANSWER": "84$"
+  }
+ },
+ "e6b763eeb7": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "ANSWER": "16.00 & up",
+   "geographic location": "Atlanta"
+  }
+ },
+ "0ddecb290b": {
+  "instruction": {
+   "type of attraction": "aqaurium",
+   "geographic location": "San Francisco"
+  }
+ },
+ "39e963de1c": {
+  "instruction": {
+   "type of attraction": "aquarium tour",
+   "ANSWER": "$31.00",
+   "geographic location": "Long Beach"
+  }
+ },
+ "ad4ea0881e": {
+  "instruction": {
+   "type of attraction": "aquarium ",
+   "ANSWER": "50$",
+   "geographic location": "Monterey"
+  }
+ },
+ "b95eaee97c": {
+  "instruction": {
+   "geographic location": "Long Beach",
+   "type of attraction": "aquarium"
+  }
+ },
+ "79a422539e": {
+  "instruction": {
+   "type of attraction": "Santa Barbara Zoo",
+   "geographic location": "Santa Barbara",
+   "ANSWER": "What is the price for a Santa Barbara Zoo tour in Santa Barbara?"
+  }
+ },
+ "f23d64fbdc": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "24.95 & up",
+   "geographic location": "Baltimore"
+  }
+ },
+ "77a0067626": {
+  "instruction": {
+   "type of attraction": "Zoo Safari",
+   "geographic location": "San Diego",
+   "ANSWER": "$39"
+  }
+ },
+ "2edc60b949": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "San Diego",
+   "ANSWER": "3582,23"
+  }
+ },
+ "cd36d69889": {
+  "instruction": {
+   "type of attraction": "Monterey Bay Aquarium",
+   "ANSWER": "What is the price for a Monterey Bay Aquarium tour in Monterey?",
+   "geographic location": "Monterey"
+  }
+ },
+ "a72c52f097": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "3441.01",
+   "geographic location": "Monterey"
+  }
+ },
+ "d77020d795": {
+  "instruction": {
+   "type of attraction": "City Tour",
+   "geographic location": "Chicago",
+   "ANSWER": "33.00"
+  }
+ },
+ "d0b12c371d": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "5785.99",
+   "geographic location": "La Jolla"
+  }
+ },
+ "8b94395f54": {
+  "instruction": {
+   "type of attraction": "California Academy of Sciences",
+   "ANSWER": "What is the price for a California Academy of Sciences tour in San Francisco ?",
+   "geographic location": "San Francisco "
+  }
+ },
+ "ed5868c49d": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "ANSWER": "20$",
+   "geographic location": "San Francisco"
+  }
+ },
+ "413e8ab590": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "San Jose"
+  }
+ },
+ "3ff4d31401": {
+  "instruction": {
+   "type of attraction": "zoo Safari Park",
+   "geographic location": "San Diego",
+   "ANSWER": "39.00"
+  }
+ },
+ "e057b33beb": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "ANSWER": "12.00 & up",
+   "geographic location": "Cincinnati"
+  }
+ },
+ "53eb6b2f10": {
+  "instruction": {
+   "type of attraction": "Aquarium",
+   "ANSWER": "$50",
+   "geographic location": "Monterey"
+  }
+ },
+ "83cc6dd8b2": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "Santa Barbara",
+   "ANSWER": "17.00"
+  }
+ },
+ "8d18979eb2": {
+  "instruction": {
+   "type of attraction": "San Diego Zoo",
+   "ANSWER": "What is the price for a San Diego Zoo tour in San Diego?",
+   "geographic location": "San Diego"
+  }
+ },
+ "1cb22dde90": {
+  "instruction": {
+   "type of attraction": "Zoo & Garden",
+   "geographic location": "Palm Desert",
+   "ANSWER": "$20"
+  }
+ },
+ "14ac475ddb": {
+  "instruction": {
+   "type of attraction": "Natural History Museums",
+   "geographic location": "Palm Desert",
+   "ANSWER": "1374.34"
+  }
+ },
+ "8773107656": {
+  "instruction": {
+   "type of attraction": "Science Academy",
+   "geographic location": "San Francisco",
+   "ANSWER": "$15"
+  }
+ },
+ "0050d5d16a": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "ANSWER": "3582,23",
+   "geographic location": "San Diego"
+  }
+ },
+ "bb6e50b7a5": {
+  "instruction": {
+   "type of attraction": "zoo tour ",
+   "ANSWER": "$40.00",
+   "geographic location": "Chicago"
+  }
+ },
+ "459bf77c85": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "Sacramento",
+   "ANSWER": "14.95$"
+  }
+ },
+ "48ee812045": {
+  "instruction": {
+   "type of attraction": "Santa Barbara Zoo",
+   "ANSWER": "What is the price for a Santa Barbara Zoo tour in Santa Barbara?",
+   "geographic location": "Santa Barbara"
+  }
+ },
+ "835fd54e6e": {
+  "instruction": {
+   "geographic location": "San Francisco",
+   "type of attraction": "zoo"
+  }
+ },
+ "de73c07269": {
+  "instruction": {
+   "type of attraction": "Zoo & Garden",
+   "ANSWER": "$20",
+   "geographic location": "Palm Desert"
+  }
+ },
+ "a7d3ef8557": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "84$",
+   "geographic location": "Carlsbad"
+  }
+ },
+ "f12ebb41f2": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "Los Angeles",
+   "ANSWER": "79$"
+  }
+ },
+ "7287d323f8": {
+  "instruction": {
+   "type of attraction": "aquarium ",
+   "geographic location": "San Francisco",
+   "ANSWER": "25$"
+  }
+ },
+ "8b2c2201b3": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "San Francisco"
+  }
+ },
+ "e95b505e50": {
+  "instruction": {
+   "type of attraction": "aquarium tour",
+   "geographic location": "La Jolla",
+   "ANSWER": "$84.00"
+  }
+ },
+ "c3f60b1c94": {
+  "instruction": {
+   "type of attraction": "zoo Safari Park",
+   "ANSWER": "39.00",
+   "geographic location": "San Diego"
+  }
+ },
+ "1b0ba1d462": {
+  "instruction": {
+   "type of attraction": "Zoo",
+   "geographic location": "New York City",
+   "ANSWER": "55.00"
+  }
+ },
+ "16a2607c94": {
+  "instruction": {
+   "type of attraction": "aquarium tour",
+   "geographic location": "Chicago",
+   "ANSWER": "$40.00"
+  }
+ },
+ "d35621e7d9": {
+  "instruction": {
+   "type of attraction": "Zoo",
+   "ANSWER": "$40",
+   "geographic location": "San Diego"
+  }
+ },
+ "e3643f011b": {
+  "instruction": {
+   "type of attraction": "City Tour",
+   "ANSWER": "60.72",
+   "geographic location": "Seattle"
+  }
+ },
+ "1ec37a73b1": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "geographic location": "San Diego",
+   "ANSWER": "5440.86"
+  }
+ },
+ "d1ddc131e0": {
+  "instruction": {
+   "type of attraction": "Aquarium of the Pacific",
+   "geographic location": "Long Beach",
+   "ANSWER": "31.00"
+  }
+ },
+ "eb2b3416e6": {
+  "instruction": {
+   "type of attraction": "SeaWorld San Diego",
+   "geographic location": "San Diego",
+   "ANSWER": "What is the price for a SeaWorld San Diego tour in San Diego?"
+  }
+ },
+ "8d9d296764": {
+  "instruction": {
+   "type of attraction": "zoo tour ",
+   "ANSWER": "$79.00",
+   "geographic location": "Los Angeles"
+  }
+ },
+ "55074199f0": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "ANSWER": "20$",
+   "geographic location": "Palm Desert"
+  }
+ },
+ "24dfacf2e8": {
+  "instruction": {
+   "geographic location": "La Jolla",
+   "type of attraction": "aquarium"
+  }
+ },
+ "3eda1dcb34": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "geographic location": "Monterey Bay",
+   "ANSWER": "49.95"
+  }
+ },
+ "cf8dd55f07": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "San Francisco",
+   "ANSWER": "20$"
+  }
+ },
+ "0211efbde4": {
+  "instruction": {
+   "type of attraction": "Monterey Bay Aquarium",
+   "geographic location": "Monterey",
+   "ANSWER": "What is the price for a Monterey Bay Aquarium tour in Monterey?"
+  }
+ },
+ "ffe01aba2a": {
+  "instruction": {
+   "type of attraction": "Museum",
+   "geographic location": "Chicago",
+   "ANSWER": "30.00"
+  }
+ },
+ "2f92641328": {
+  "instruction": {
+   "type of attraction": "aquarium tour",
+   "geographic location": "Monteray",
+   "ANSWER": "$50.00"
+  }
+ },
+ "c251187408": {
+  "instruction": {
+   "type of attraction": "zoo tour ",
+   "geographic location": "San Francisco",
+   "ANSWER": "$20.00"
+  }
+ },
+ "50ac1deeb7": {
+  "instruction": {
+   "geographic location": "San Diego",
+   "type of attraction": "zoo"
+  }
+ },
+ "a67e87be14": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "geographic location": "La Jolla",
+   "ANSWER": "5785.99"
+  }
+ },
+ "af8ab90a5e": {
+  "instruction": {
+   "type of attraction": "zoo tour ",
+   "geographic location": "Chicago",
+   "ANSWER": "$40.00"
+  }
+ },
+ "0a86d42676": {
+  "instruction": {
+   "type of attraction": "zoo tour ",
+   "geographic location": "Los Angeles",
+   "ANSWER": "$79.00"
+  }
+ },
+ "d951dd0d73": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "geographic location": "San Francisco",
+   "ANSWER": "1377.78"
+  }
+ },
+ "48ad1ad805": {
+  "instruction": {
+   "type of attraction": "Fresno Chaffee Zoo",
+   "ANSWER": "What is the price for a Fresno Chaffee Zoo tour in Fresno?",
+   "geographic location": "Fresno"
+  }
+ },
+ "5e23072466": {
+  "instruction": {
+   "type of attraction": "Aquarium",
+   "geographic location": "Long Beach",
+   "ANSWER": "$31"
+  }
+ },
+ "0028619fa0": {
+  "instruction": {
+   "type of attraction": "aqaurium",
+   "geographic location": "Monterey"
+  }
+ },
+ "8272827f92": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "49.95",
+   "geographic location": "Monterey Bay"
+  }
+ },
+ "7cbaeed4d6": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "1718.78",
+   "geographic location": "San Francisco"
+  }
+ },
+ "3376bcf29e": {
+  "instruction": {
+   "type of attraction": "aquarium ",
+   "ANSWER": "25$",
+   "geographic location": "San Francisco"
+  }
+ },
+ "7ef1346841": {
+  "instruction": {
+   "type of attraction": "City Tour",
+   "geographic location": "San Francisco",
+   "ANSWER": "59.99"
+  }
+ },
+ "f214619f90": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "ANSWER": "22.00 & up",
+   "geographic location": "Tampa"
+  }
+ },
+ "064d59a649": {
+  "instruction": {
+   "type of attraction": "Aquarium of the Pacific",
+   "geographic location": "Long Beach ",
+   "ANSWER": "What is the price for aAquarium of the Pacific tour in Long Beach ?"
+  }
+ },
+ "eee013e369": {
+  "instruction": {
+   "type of attraction": "Sea World",
+   "ANSWER": "$19",
+   "geographic location": "San Diego"
+  }
+ },
+ "f6894c44b8": {
+  "instruction": {
+   "type of attraction": "aquarium tour",
+   "ANSWER": "$50.00",
+   "geographic location": "Monteray"
+  }
+ },
+ "203daab8ff": {
+  "instruction": {
+   "type of attraction": "City Tour",
+   "ANSWER": "33.00",
+   "geographic location": "Chicago"
+  }
+ },
+ "a4c184e1d5": {
+  "instruction": {
+   "type of attraction": "SeaWorld",
+   "ANSWER": "19.00",
+   "geographic location": "San Diego"
+  }
+ },
+ "f210bec963": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "geographic location": "Carlsbad",
+   "ANSWER": "5785.99"
+  }
+ },
+ "6c2e251ba9": {
+  "instruction": {
+   "type of attraction": "zoo",
+   "ANSWER": "17.00",
+   "geographic location": "Santa Barbara"
+  }
+ },
+ "961a177485": {
+  "instruction": {
+   "type of attraction": "aquarium",
+   "geographic location": "San Francisco",
+   "ANSWER": "1718.78"
+  }
+ },
+ "95ca2c0187": {
+  "instruction": {
+   "type of attraction": "aquarium tour",
+   "ANSWER": "$84.00",
+   "geographic location": "La Jolla"
+  }
+ },
+ "fce935c7e2": {
+  "instruction": {
+   "type of attraction": "Museum",
+   "ANSWER": "92.00",
+   "geographic location": "Denver"
+  }
+ },
+ "1d865a695b": {
+  "instruction": {
+   "type of attraction": "Zoo & Botanical Garden",
+   "geographic location": "Los Angeles",
+   "ANSWER": "$79"
+  }
+ },
+ "039b3e013a": {
+  "instruction": {
+   "type of attraction": "Zoo",
+   "ANSWER": "55.00",
+   "geographic location": "New York City"
+  }
+ }
+}

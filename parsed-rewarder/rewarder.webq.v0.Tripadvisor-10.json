@@ -1,0 +1,72 @@
+{
+ "624de73c73": {
+  "instruction": {
+   "month": "May",
+   "area": "Hershey, PA",
+   "entertainment": "Concerts"
+  }
+ },
+ "0917cd41e1": {
+  "instruction": {
+   "month": "February",
+   "area": "Washington, DC",
+   "entertainment": "Wine Tasting Tours"
+  }
+ },
+ "c165115be7": {
+  "instruction": {
+   "month": "August",
+   "area": "Harrisburg, PA",
+   "entertainment": "Museums"
+  }
+ },
+ "a9cf279725": {
+  "instruction": {
+   "month": "June",
+   "area": "Los Angeles, CA",
+   "entertainment": "Water Parks"
+  }
+ },
+ "db80c57c48": {
+  "instruction": {
+   "month": "October",
+   "area": "Philadelphia, PA",
+   "entertainment": "Restaurants"
+  }
+ },
+ "dffc203e15": {
+  "instruction": {
+   "month": "July",
+   "area": "Gettysburg, PA",
+   "entertainment": "Tours"
+  }
+ },
+ "4e42d98a02": {
+  "instruction": {
+   "month": "June",
+   "area": "Hershey, PA",
+   "entertainment": "Amusement Parks"
+  }
+ },
+ "9831488fc8": {
+  "instruction": {
+   "month": "January",
+   "area": "Houston, TX",
+   "entertainment": "Sporting Events"
+  }
+ },
+ "e247d3dc5b": {
+  "instruction": {
+   "month": "December",
+   "area": "San Francisco, CA",
+   "entertainment": "Musicals"
+  }
+ },
+ "87cff6e696": {
+  "instruction": {
+   "month": "July",
+   "area": "New York, NY",
+   "entertainment": "Theatre Shows"
+  }
+ }
+}

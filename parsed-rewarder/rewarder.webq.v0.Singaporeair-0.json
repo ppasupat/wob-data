@@ -1,0 +1,72 @@
+{
+ "655cc45a64": {
+  "instruction": {
+   "singapore": "17:50",
+   "date": "15 Feb (Wed)",
+   "mumbai": "13:50"
+  }
+ },
+ "21cd26b04f": {
+  "instruction": {
+   "singapore": "17:00",
+   "date": "26 Feb (Sun)",
+   "mumbai": "13:00"
+  }
+ },
+ "6ff524902b": {
+  "instruction": {
+   "singapore": "12:00",
+   "date": "21 Feb (Tue)",
+   "mumbai": "9:00"
+  }
+ },
+ "97b4fee034": {
+  "instruction": {
+   "singapore": "07:30",
+   "date": "13 Feb (Mon)",
+   "mumbai": "23:35"
+  }
+ },
+ "b6df152188": {
+  "instruction": {
+   "singapore": "11:30",
+   "date": "23 Feb (Thu)",
+   "mumbai": "7:00"
+  }
+ },
+ "f78bd20d74": {
+  "instruction": {
+   "singapore": "16:00",
+   "date": "17 Feb (Thu)",
+   "mumbai": "12:00"
+  }
+ },
+ "ad7f2ceab7": {
+  "instruction": {
+   "singapore": "19:00",
+   "date": "19 Feb (Sun)",
+   "mumbai": "15:30"
+  }
+ },
+ "6cd1287d59": {
+  "instruction": {
+   "singapore": "4:00",
+   "date": "28 Feb (Tue)",
+   "mumbai": "1:00 "
+  }
+ },
+ "d36f7cde18": {
+  "instruction": {
+   "singapore": "19:50",
+   "date": "13 Feb (Mon)",
+   "mumbai": "11:50"
+  }
+ },
+ "ce949a1a4e": {
+  "instruction": {
+   "singapore": "7:00",
+   "date": "02 Mar (Thu)",
+   "mumbai": "4:00"
+  }
+ }
+}

@@ -1,0 +1,1842 @@
+{
+ "dd6ca6a20c": {
+  "instruction": {
+   "number": "2",
+   "city": "Portland, OR",
+   "minimum": "1300",
+   "ANSWER": "Golf Creek Apartments - 1807 SW Golf Creek Dr, Portland, OR 97225",
+   "maximum": "1425"
+  }
+ },
+ "5d58776d68": {
+  "instruction": {
+   "number": "1",
+   "city": "San Antonio, Texas",
+   "minimum": "550",
+   "ANSWER": "Stoneybrook Apartments & Townhomes 6933 Borderbrook Dr, San Antonio, TX 78238",
+   "maximum": "600"
+  }
+ },
+ "b479e8fc53": {
+  "instruction": {
+   "number": "3",
+   "city": "Chicago",
+   "minimum": "1991",
+   "ANSWER": "Wolf Point West",
+   "maximum": "9195"
+  }
+ },
+ "d5e72a449a": {
+  "instruction": {
+   "maximum": "1350",
+   "number": "1",
+   "city": "Fair Oaks",
+   "minimum": "1200"
+  }
+ },
+ "e60c348bde": {
+  "instruction": {
+   "minimum": "700",
+   "number": "2 bedroom",
+   "ANSWER": "Orchard Estates $758-1096",
+   "maximum": "1450",
+   "city": "Syracuse, NY"
+  }
+ },
+ "84ed1d9539": {
+  "instruction": {
+   "number": "1",
+   "city": "Hoboken, NJ",
+   "minimum": "2500",
+   "ANSWER": "Hudson Square South -205 Hudson St, Hoboken, NJ 07030 ",
+   "maximum": "3000"
+  }
+ },
+ "b97e906af8": {
+  "instruction": {
+   "number": "3",
+   "city": "New York",
+   "minimum": "2950",
+   "ANSWER": "New York",
+   "maximum": "8625"
+  }
+ },
+ "f849ea931d": {
+  "instruction": {
+   "minimum": "900",
+   "number": "1",
+   "ANSWER": "Meadow Creek Apartments, Glen Creek",
+   "maximum": "1500",
+   "city": "Denver, CO"
+  }
+ },
+ "0674051649": {
+  "instruction": {
+   "minimum": "1200",
+   "number": "1",
+   "city": "Fair Oaks",
+   "maximum": "1350"
+  }
+ },
+ "43bf8a8c80": {
+  "instruction": {
+   "number": "1 bedroom",
+   "city": "Annapolis, MD",
+   "minimum": "700",
+   "ANSWER": "Spa Cove Apartments $1400",
+   "maximum": "1950"
+  }
+ },
+ "b6f437a1b0": {
+  "instruction": {
+   "minimum": "500",
+   "number": "3",
+   "ANSWER": "https://www.apartments.com/400-grant-st-east-tawas-mi/evgpkdn/",
+   "maximum": "750",
+   "city": "East Tawas, M"
+  }
+ },
+ "8a8d7b28ba": {
+  "instruction": {
+   "number": "2",
+   "city": "Charlotte",
+   "minimum": "1065",
+   "ANSWER": "One305 Central",
+   "maximum": "1935"
+  }
+ },
+ "6f71d14429": {
+  "instruction": {
+   "minimum": "800",
+   "number": "Studio",
+   "ANSWER": "101 Boardwalk Ave, Atlantic City, NJ 08401",
+   "maximum": "1000",
+   "city": "Atlantic City, NJ"
+  }
+ },
+ "b09b493140": {
+  "instruction": {
+   "minimum": "700",
+   "number": "1",
+   "ANSWER": "https://www.apartments.com/port-clinton-pointe-port-clinton-oh/jwzjfx7/",
+   "maximum": "750",
+   "city": "Port Clinto,OH"
+  }
+ },
+ "86b04ac92f": {
+  "instruction": {
+   "number": "2",
+   "city": "Chesterfield, MO",
+   "minimum": "$500",
+   "ANSWER": "https://www.apartments.com/chesterfield-mo/2-bedrooms-2-bathrooms-500-to-2000/",
+   "maximum": "$2000"
+  }
+ },
+ "2f1a844bc9": {
+  "instruction": {
+   "minimum": "5000",
+   "number": "2",
+   "ANSWER": "Lincoln Square -21 W End Ave, New York, NY 10023",
+   "maximum": "6000",
+   "city": "New York, NY"
+  }
+ },
+ "a025738ddf": {
+  "instruction": {
+   "minimum": "1100",
+   "number": "1 bedroom",
+   "ANSWER": "Rosemont Vinings Ridge $1049-1293",
+   "maximum": "2100",
+   "city": "Atlanta, GA"
+  }
+ },
+ "7890afb3b0": {
+  "instruction": {
+   "number": "1",
+   "city": "Las Vegas, NV",
+   "minimum": "800",
+   "ANSWER": "https://www.apartments.com/avanti-apartments-las-vegas-nv/6qhmhmt/",
+   "maximum": "1000"
+  }
+ },
+ "23058414c9": {
+  "instruction": {
+   "number": "3",
+   "city": "Mt. Pleasant, MI",
+   "minimum": "750",
+   "ANSWER": "https://www.apartments.com/stone-crest-apartments-mount-pleasant-mi/j9nvkm7/ https://www.apartments.com/springbrook-townhomes-mount-pleasant-mi/eg21kmn/",
+   "maximum": "1200"
+  }
+ },
+ "71a043421d": {
+  "instruction": {
+   "minimum": "1300",
+   "number": "1",
+   "maximum": "1950",
+   "city": "Medford, MA"
+  }
+ },
+ "4578bf0d03": {
+  "instruction": {
+   "minimum": "700",
+   "number": "1 bedroom",
+   "ANSWER": "Spa Cove Apartments $1400",
+   "maximum": "1950",
+   "city": "Annapolis, MD"
+  }
+ },
+ "2096b18c66": {
+  "instruction": {
+   "minimum": "1065",
+   "number": "2",
+   "ANSWER": "One305 Central",
+   "maximum": "1935",
+   "city": "Charlotte"
+  }
+ },
+ "cbbb4b1bb4": {
+  "instruction": {
+   "number": "1",
+   "city": "Charlotte",
+   "minimum": "800",
+   "ANSWER": "Waterford Square Apartments",
+   "maximum": "2255"
+  }
+ },
+ "c3d000ae83": {
+  "instruction": {
+   "minimum": "500",
+   "number": "1",
+   "ANSWER": "https://www.apartments.com/eastlawn-arms-apartments-midland-mi/8s7rex0/",
+   "maximum": "1000",
+   "city": "Midland, MI"
+  }
+ },
+ "fd8dd19d98": {
+  "instruction": {
+   "minimum": "700",
+   "number": "1",
+   "ANSWER": "Villa Caridad 4202 Calle Real, Santa Barbara, CA 93110",
+   "maximum": "800",
+   "city": "Santa Barbara, CA"
+  }
+ },
+ "ca7d4f8e3b": {
+  "instruction": {
+   "minimum": "1200",
+   "number": "2",
+   "ANSWER": "https://www.apartments.com/cactus-forty-2-phoenix-az/e4wts9q/",
+   "maximum": "1600",
+   "city": "Pheonix,AZ"
+  }
+ },
+ "30fe695d28": {
+  "instruction": {
+   "number": "3",
+   "city": "Seattle",
+   "minimum": "1905",
+   "ANSWER": "Met Tower",
+   "maximum": "5303"
+  }
+ },
+ "3e2d9238c9": {
+  "instruction": {
+   "minimum": "1219",
+   "number": "1",
+   "ANSWER": "Sawyer Heights Lofts",
+   "maximum": "2873",
+   "city": "Houston"
+  }
+ },
+ "613db8e4c5": {
+  "instruction": {
+   "minimum": "700",
+   "number": "2 bedroom",
+   "ANSWER": "The Oaks, $700-825",
+   "maximum": "2100",
+   "city": "Athens, GA"
+  }
+ },
+ "1f83f3b650": {
+  "instruction": {
+   "minimum": "900",
+   "number": "3",
+   "ANSWER": "https://www.apartments.com/stone-crest-apartments-mount-pleasant-mi/j9nvkm7/",
+   "maximum": "1200",
+   "city": "Lansing, MI"
+  }
+ },
+ "7f6bf9bdc4": {
+  "instruction": {
+   "number": "1",
+   "city": "Sunnyvale, CA",
+   "minimum": "500",
+   "ANSWER": " Crescent Terrace Senior Apartments 130 Crescent Ave, Sunnyvale, CA 94087",
+   "maximum": "900"
+  }
+ },
+ "f07916e690": {
+  "instruction": {
+   "minimum": "700",
+   "number": "studio",
+   "maximum": "740",
+   "city": "Sunnyvale"
+  }
+ },
+ "ba14109563": {
+  "instruction": {
+   "minimum": "1300",
+   "number": "2",
+   "ANSWER": "Golf Creek Apartments - 1807 SW Golf Creek Dr, Portland, OR 97225",
+   "maximum": "1425",
+   "city": "Portland, OR"
+  }
+ },
+ "72aca1f80b": {
+  "instruction": {
+   "minimum": "$750",
+   "number": "3",
+   "ANSWER": "https://www.apartments.com/omaha-ne/3-bedrooms-2-bathrooms-750-to-2000/",
+   "maximum": "$2000",
+   "city": "Omaha, NE"
+  }
+ },
+ "240ba84ae7": {
+  "instruction": {
+   "minimum": "1400",
+   "number": "3",
+   "ANSWER": "Alpha Phase I-14421 8th Ave SW, Seattle, WA 98166",
+   "maximum": "1600",
+   "city": "Seattle"
+  }
+ },
+ "2b21897919": {
+  "instruction": {
+   "minimum": "1800",
+   "number": "1",
+   "maximum": "2200",
+   "city": "Boston, MA"
+  }
+ },
+ "3b545805a4": {
+  "instruction": {
+   "number": "2",
+   "city": "Seattle",
+   "minimum": "1553",
+   "ANSWER": "Via 6",
+   "maximum": "3729"
+  }
+ },
+ "04c29d3f8c": {
+  "instruction": {
+   "minimum": "700",
+   "number": "1",
+   "city": "Lynn, MA",
+   "maximum": "1100"
+  }
+ },
+ "43f309e374": {
+  "instruction": {
+   "number": "1",
+   "city": "Los Angeles, CA",
+   "minimum": "700",
+   "ANSWER": "4301 City Terrace Dr Los Angeles, CA 90063",
+   "maximum": "800"
+  }
+ },
+ "7d99397d0d": {
+  "instruction": {
+   "number": "2",
+   "city": "Santa Monica, CA",
+   "minimum": "750",
+   "ANSWER": "515-517 Pier Ave Santa Monica, CA 90405",
+   "maximum": "850"
+  }
+ },
+ "dcaeb4a6cd": {
+  "instruction": {
+   "minimum": "700",
+   "number": "1",
+   "ANSWER": "4301 City Terrace Dr Los Angeles, CA 90063",
+   "maximum": "800",
+   "city": "Los Angeles, CA"
+  }
+ },
+ "de040158a1": {
+  "instruction": {
+   "minimum": "500",
+   "number": "2",
+   "ANSWER": "Kashmere Royal Apartments 5701 Lockwood Dr, Houston, TX 77026",
+   "maximum": "550",
+   "city": "Houston, Texas"
+  }
+ },
+ "c1ee13f31b": {
+  "instruction": {
+   "maximum": "975",
+   "number": "3",
+   "city": "Monterey",
+   "minimum": "800"
+  }
+ },
+ "c860ffd3f2": {
+  "instruction": {
+   "minimum": "600",
+   "number": "2",
+   "city": "San Francisco, CA",
+   "maximum": "650"
+  }
+ },
+ "11bd6ec323": {
+  "instruction": {
+   "minimum": "800",
+   "number": "2",
+   "ANSWER": "Park Forest Apartments and Townhomes -7529 Fleta St, Saint Louis, MO 63123",
+   "maximum": "1400",
+   "city": "St. Louis, MO"
+  }
+ },
+ "1e32b7c1d7": {
+  "instruction": {
+   "minimum": "600",
+   "number": "1",
+   "ANSWER": "https://www.apartments.com/hillside-club-apartments-petoskey-mi/qtd7xmz/",
+   "maximum": "800",
+   "city": "Petoskey, MI"
+  }
+ },
+ "3d6d69f5a1": {
+  "instruction": {
+   "maximum": "1425",
+   "number": "2",
+   "city": "Portland, OR",
+   "minimum": "1300"
+  }
+ },
+ "91b898c746": {
+  "instruction": {
+   "minimum": "750",
+   "number": "1",
+   "ANSWER": "https://www.apartments.com/high-acres-apartments-townhomes-syracuse-ny/kqsfpdb/",
+   "maximum": "1200",
+   "city": "Syracuse, NY"
+  }
+ },
+ "5247e927fd": {
+  "instruction": {
+   "number": "1",
+   "city": "Seattle, WA",
+   "minimum": "1000",
+   "ANSWER": "Via 6, The Mill at 6th",
+   "maximum": "2000"
+  }
+ },
+ "054aab5840": {
+  "instruction": {
+   "minimum": "2500",
+   "number": "1",
+   "ANSWER": "Hudson Square South -205 Hudson St, Hoboken, NJ 07030 ",
+   "maximum": "3000",
+   "city": "Hoboken, NJ"
+  }
+ },
+ "46a50ec3c6": {
+  "instruction": {
+   "minimum": "5000",
+   "number": "4",
+   "ANSWER": "649 Bolsana Dr, 480 Bluebird Canyon Dr, 934 Emerald Bay",
+   "maximum": "10000",
+   "city": "Laguna Beach, CA"
+  }
+ },
+ "c3865aeed9": {
+  "instruction": {
+   "number": "2",
+   "city": "Berkeley, CA",
+   "minimum": "800",
+   "ANSWER": "2028 Dwight Way Berkeley, CA 94704",
+   "maximum": "900"
+  }
+ },
+ "e19965771a": {
+  "instruction": {
+   "minimum": "$1000",
+   "number": "Studio",
+   "ANSWER": "https://www.apartments.com/carmel-ca/studios-1-bathrooms-1500-to-2000/",
+   "maximum": "$1500",
+   "city": "Carmel, CA"
+  }
+ },
+ "d96ce9dfcb": {
+  "instruction": {
+   "number": "3",
+   "city": "Lansing, MI",
+   "minimum": "900",
+   "ANSWER": "https://www.apartments.com/stone-crest-apartments-mount-pleasant-mi/j9nvkm7/",
+   "maximum": "1200"
+  }
+ },
+ "eab472349f": {
+  "instruction": {
+   "minimum": "800",
+   "number": "2",
+   "ANSWER": "2028 Dwight Way Berkeley, CA 94704",
+   "maximum": "900",
+   "city": "Berkeley, CA"
+  }
+ },
+ "dae6477b46": {
+  "instruction": {
+   "number": "1 bedroom",
+   "city": "Reno, NV",
+   "minimum": "500",
+   "ANSWER": "Montebello At Summit Ridge $1189-1275",
+   "maximum": "1250"
+  }
+ },
+ "298222838c": {
+  "instruction": {
+   "minimum": "700",
+   "number": "1",
+   "ANSWER": "Cherry Grove Commons",
+   "maximum": "800",
+   "city": "North Myrtle Beach, SC"
+  }
+ },
+ "8849e8093f": {
+  "instruction": {
+   "minimum": "1000",
+   "number": "2",
+   "city": "Palo Alto, CA",
+   "maximum": "1085"
+  }
+ },
+ "eb95a078a4": {
+  "instruction": {
+   "minimum": "1448",
+   "number": "2",
+   "ANSWER": "Bowman",
+   "maximum": "5738",
+   "city": "Seattle"
+  }
+ },
+ "3ba14698f9": {
+  "instruction": {
+   "minimum": "900",
+   "number": "1",
+   "city": "Citrus Heights",
+   "maximum": "1025"
+  }
+ },
+ "6929b29ef1": {
+  "instruction": {
+   "number": "2",
+   "city": "Columbia, MO",
+   "minimum": "$500",
+   "ANSWER": "https://www.apartments.com/columbia-mo/3-bedrooms-2-bathrooms-500-to-1500/",
+   "maximum": "$1500"
+  }
+ },
+ "66bd506613": {
+  "instruction": {
+   "minimum": "500",
+   "number": "2",
+   "ANSWER": "https://www.apartments.com/200-e-elm-st-standish-mi/hsk4db0/",
+   "maximum": "950",
+   "city": "Standish, MI"
+  }
+ },
+ "af2ce85d73": {
+  "instruction": {
+   "number": "3",
+   "city": "East Tawas, M",
+   "minimum": "500",
+   "ANSWER": "https://www.apartments.com/400-grant-st-east-tawas-mi/evgpkdn/",
+   "maximum": "750"
+  }
+ },
+ "8f0adedef0": {
+  "instruction": {
+   "minimum": "1000",
+   "number": "2",
+   "ANSWER": "330 Crosby Ave Unit Lower, 330 Crosby Ave Unit Lower",
+   "maximum": "1200",
+   "city": "Buffalo, NY"
+  }
+ },
+ "090491591c": {
+  "instruction": {
+   "number": "3",
+   "city": "Omaha, NE",
+   "minimum": "$750",
+   "ANSWER": "https://www.apartments.com/omaha-ne/3-bedrooms-2-bathrooms-750-to-2000/",
+   "maximum": "$2000"
+  }
+ },
+ "36fee5dd29": {
+  "instruction": {
+   "minimum": "$750",
+   "number": "3",
+   "ANSWER": "https://www.apartments.com/saint-louis-mo/3-bedrooms-2-bathrooms-750-to-1500/",
+   "maximum": "$1500",
+   "city": "St. Louis, MO"
+  }
+ },
+ "225bd74638": {
+  "instruction": {
+   "number": "2",
+   "city": "Pheonix,AZ",
+   "minimum": "1200",
+   "ANSWER": "https://www.apartments.com/cactus-forty-2-phoenix-az/e4wts9q/",
+   "maximum": "1600"
+  }
+ },
+ "9487241576": {
+  "instruction": {
+   "minimum": "1991",
+   "number": "3",
+   "ANSWER": "Wolf Point West",
+   "maximum": "9195",
+   "city": "Chicago"
+  }
+ },
+ "9f761e1f56": {
+  "instruction": {
+   "number": "2",
+   "city": "Santa Monica, CA",
+   "minimum": "$1500",
+   "ANSWER": "https://www.apartments.com/santa-monica-ca/2-bedrooms-2-bathrooms-1500-to-3000/",
+   "maximum": "$3000"
+  }
+ },
+ "e0ddeaa2b3": {
+  "instruction": {
+   "number": "1",
+   "city": "Portland, OR",
+   "minimum": "750",
+   "ANSWER": "https://www.apartments.com/bethany-meadows-portland-or/fyj072t/",
+   "maximum": "800"
+  }
+ },
+ "9a2a79492d": {
+  "instruction": {
+   "number": "Studio",
+   "city": "Chicago, IL",
+   "minimum": "$1000",
+   "ANSWER": "https://www.apartments.com/chicago-il/studios-1-bathrooms-1000-to-2000/",
+   "maximum": "$2000"
+  }
+ },
+ "b3d66ae6c7": {
+  "instruction": {
+   "maximum": "650",
+   "number": "2",
+   "city": "San Francisco, CA",
+   "minimum": "600"
+  }
+ },
+ "df91451493": {
+  "instruction": {
+   "minimum": "1400",
+   "number": "1",
+   "city": "Framingham, MA ",
+   "maximum": "2000"
+  }
+ },
+ "004a4d8e39": {
+  "instruction": {
+   "number": "2",
+   "city": "Traverse City, MI",
+   "minimum": "500",
+   "ANSWER": "https://www.apartments.com/2790-boardman-lake-dr-traverse-city-mi/8f5ryx1/",
+   "maximum": "750"
+  }
+ },
+ "76079a39d2": {
+  "instruction": {
+   "minimum": "1100",
+   "number": "3",
+   "maximum": "1225",
+   "city": "Roseville"
+  }
+ },
+ "022ed3f3f4": {
+  "instruction": {
+   "number": "1",
+   "city": "Beverly Hills, CA",
+   "minimum": "$1000",
+   "ANSWER": "https://www.apartments.com/beverly-hills-ca/1-bedrooms-1-bathrooms-1000-to-3000/",
+   "maximum": "$3000"
+  }
+ },
+ "21b018cc15": {
+  "instruction": {
+   "minimum": "800",
+   "number": "1",
+   "ANSWER": "https://www.apartments.com/avanti-apartments-las-vegas-nv/6qhmhmt/",
+   "maximum": "1000",
+   "city": "Las Vegas, NV"
+  }
+ },
+ "eb5138dc5f": {
+  "instruction": {
+   "maximum": "550",
+   "number": "1",
+   "city": "Sacramento, CA",
+   "minimum": "500"
+  }
+ },
+ "b181c61fab": {
+  "instruction": {
+   "minimum": "700",
+   "number": "2 bedroom",
+   "ANSWER": "The Manor CityPlace Doral $2045-2096",
+   "maximum": "2100",
+   "city": "Miami, FL"
+  }
+ },
+ "c364498174": {
+  "instruction": {
+   "number": "4",
+   "city": "Laguna Beach, CA",
+   "minimum": "5000",
+   "ANSWER": "649 Bolsana Dr, 480 Bluebird Canyon Dr, 934 Emerald Bay",
+   "maximum": "10000"
+  }
+ },
+ "1692baf8ef": {
+  "instruction": {
+   "maximum": "1225",
+   "number": "3",
+   "city": "Roseville",
+   "minimum": "1100"
+  }
+ },
+ "7eb5d63dd5": {
+  "instruction": {
+   "minimum": "$500",
+   "number": "2",
+   "ANSWER": "https://www.apartments.com/chesterfield-mo/2-bedrooms-2-bathrooms-500-to-2000/",
+   "maximum": "$2000",
+   "city": "Chesterfield, MO"
+  }
+ },
+ "8d32b43fac": {
+  "instruction": {
+   "number": "2 bedroom",
+   "city": "Miami, FL",
+   "minimum": "700",
+   "ANSWER": "The Manor CityPlace Doral $2045-2096",
+   "maximum": "2100"
+  }
+ },
+ "a9e80a26da": {
+  "instruction": {
+   "number": "2",
+   "city": "Houston, Texas",
+   "minimum": "500",
+   "ANSWER": "Kashmere Royal Apartments 5701 Lockwood Dr, Houston, TX 77026",
+   "maximum": "550"
+  }
+ },
+ "f2a0430b5b": {
+  "instruction": {
+   "minimum": "900",
+   "number": "2 bedroom",
+   "ANSWER": "Chelsea Village Apartments $1115-1160",
+   "maximum": "1900",
+   "city": "Atlantic City, NJ"
+  }
+ },
+ "420d59eb61": {
+  "instruction": {
+   "number": "1",
+   "city": "Petoskey, MI",
+   "minimum": "600",
+   "ANSWER": "https://www.apartments.com/hillside-club-apartments-petoskey-mi/qtd7xmz/",
+   "maximum": "800"
+  }
+ },
+ "5c78232b9b": {
+  "instruction": {
+   "minimum": "1500",
+   "number": "1",
+   "city": "Quincy, MA",
+   "maximum": "1800"
+  }
+ },
+ "5e7e2101fa": {
+  "instruction": {
+   "number": "2",
+   "city": "San Francisco, CA",
+   "minimum": "600",
+   "ANSWER": "None",
+   "maximum": "650"
+  }
+ },
+ "2c806b1755": {
+  "instruction": {
+   "minimum": "1200",
+   "number": "3",
+   "ANSWER": "Waters Edge -8601 Roberts Dr, Atlanta, GA 30350 ",
+   "maximum": "1600",
+   "city": "Atlanta, GA"
+  }
+ },
+ "3c23938e24": {
+  "instruction": {
+   "number": "3",
+   "city": "Boulder, CO",
+   "minimum": "1000",
+   "ANSWER": "The Province at Boulder, Courtyard Apartments",
+   "maximum": "1200"
+  }
+ },
+ "bca67f16bd": {
+  "instruction": {
+   "minimum": "800",
+   "number": "3",
+   "maximum": "975",
+   "city": "Monterey"
+  }
+ },
+ "37c6b95cec": {
+  "instruction": {
+   "minimum": "1905",
+   "number": "3",
+   "ANSWER": "Met Tower",
+   "maximum": "5303",
+   "city": "Seattle"
+  }
+ },
+ "5d7297a523": {
+  "instruction": {
+   "minimum": "750",
+   "number": "3",
+   "ANSWER": "https://www.apartments.com/stone-crest-apartments-mount-pleasant-mi/j9nvkm7/ https://www.apartments.com/springbrook-townhomes-mount-pleasant-mi/eg21kmn/",
+   "maximum": "1200",
+   "city": "Mt. Pleasant, MI"
+  }
+ },
+ "66e091ae09": {
+  "instruction": {
+   "minimum": "1000",
+   "number": "2",
+   "maximum": "1085",
+   "city": "Palo Alto, CA"
+  }
+ },
+ "72018d0492": {
+  "instruction": {
+   "number": "1",
+   "city": "Seattle, WA",
+   "minimum": "950",
+   "ANSWER": "https://www.apartments.com/whisperwood-apartments-seattle-wa/r86wlk3/",
+   "maximum": "1000"
+  }
+ },
+ "34c8ccef15": {
+  "instruction": {
+   "maximum": "740",
+   "number": "studio",
+   "city": "Sunnyvale",
+   "minimum": "700"
+  }
+ },
+ "c86566bd08": {
+  "instruction": {
+   "minimum": "600",
+   "number": "2",
+   "ANSWER": "None",
+   "maximum": "650",
+   "city": "San Francisco, CA"
+  }
+ },
+ "e35031e979": {
+  "instruction": {
+   "minimum": "1400",
+   "number": "3",
+   "maximum": "1600",
+   "city": "Seattle"
+  }
+ },
+ "1208eba714": {
+  "instruction": {
+   "minimum": "1300",
+   "number": "2",
+   "city": "Portland, OR",
+   "maximum": "1425"
+  }
+ },
+ "a9b1a0c426": {
+  "instruction": {
+   "number": "1",
+   "city": "Midland, MI",
+   "minimum": "500",
+   "ANSWER": "https://www.apartments.com/eastlawn-arms-apartments-midland-mi/8s7rex0/",
+   "maximum": "1000"
+  }
+ },
+ "6f1d8584e3": {
+  "instruction": {
+   "minimum": "750",
+   "number": "2",
+   "ANSWER": "515-517 Pier Ave Santa Monica, CA 90405",
+   "maximum": "850",
+   "city": "Santa Monica, CA"
+  }
+ },
+ "e3074b2c9e": {
+  "instruction": {
+   "number": "1",
+   "city": "Kansas City, MO",
+   "minimum": "$750",
+   "ANSWER": "https://www.apartments.com/kansas-city-mo/1-bedrooms-1-bathrooms-750-to-1500/",
+   "maximum": "$1500"
+  }
+ },
+ "3630cd39f7": {
+  "instruction": {
+   "minimum": "1300",
+   "number": "2",
+   "city": "Quincy, MA",
+   "maximum": "2300"
+  }
+ },
+ "2e3dc2d335": {
+  "instruction": {
+   "minimum": "600",
+   "number": "2",
+   "maximum": "650",
+   "city": "San Francisco, CA"
+  }
+ },
+ "4474f5d7b8": {
+  "instruction": {
+   "minimum": "$1000",
+   "number": "1",
+   "ANSWER": "https://www.apartments.com/beverly-hills-ca/1-bedrooms-1-bathrooms-1000-to-3000/",
+   "maximum": "$3000",
+   "city": "Beverly Hills, CA"
+  }
+ },
+ "304c4e364a": {
+  "instruction": {
+   "number": "2",
+   "city": "Albany, NY",
+   "minimum": "900",
+   "ANSWER": "Woodlake Apartment, Willet Apartments, Cornerstone Apartments",
+   "maximum": "1400"
+  }
+ },
+ "ed6695b3ed": {
+  "instruction": {
+   "minimum": "1500",
+   "number": "2",
+   "ANSWER": "Axis West, Elan Audubon Park, The Sevens, Belmont",
+   "maximum": "2000",
+   "city": "Orlando, FL"
+  }
+ },
+ "c72f7e3653": {
+  "instruction": {
+   "minimum": "950",
+   "number": "1",
+   "ANSWER": "https://www.apartments.com/whisperwood-apartments-seattle-wa/r86wlk3/",
+   "maximum": "1000",
+   "city": "Seattle, WA"
+  }
+ },
+ "8493be75d0": {
+  "instruction": {
+   "minimum": "500",
+   "number": "1",
+   "maximum": "550",
+   "city": "Sacramento, CA"
+  }
+ },
+ "6d1d0740eb": {
+  "instruction": {
+   "number": "2 bedroom",
+   "city": "Atlantic City, NJ",
+   "minimum": "900",
+   "ANSWER": "Chelsea Village Apartments $1115-1160",
+   "maximum": "1900"
+  }
+ },
+ "a4bc9429a7": {
+  "instruction": {
+   "number": "1",
+   "city": "Port Clinto,OH",
+   "minimum": "700",
+   "ANSWER": "https://www.apartments.com/port-clinton-pointe-port-clinton-oh/jwzjfx7/",
+   "maximum": "750"
+  }
+ },
+ "99333bbf00": {
+  "instruction": {
+   "minimum": "700",
+   "number": "1",
+   "maximum": "1100",
+   "city": "Lynn, MA"
+  }
+ },
+ "b0719830c1": {
+  "instruction": {
+   "minimum": "$750",
+   "number": "1",
+   "ANSWER": "https://www.apartments.com/kansas-city-mo/1-bedrooms-1-bathrooms-750-to-1500/",
+   "maximum": "$1500",
+   "city": "Kansas City, MO"
+  }
+ },
+ "4b74a2b62b": {
+  "instruction": {
+   "number": "1",
+   "city": "Denver, CO",
+   "minimum": "900",
+   "ANSWER": "Meadow Creek Apartments, Glen Creek",
+   "maximum": "1500"
+  }
+ },
+ "3759b48fbb": {
+  "instruction": {
+   "minimum": "1500",
+   "number": "1",
+   "city": "Burlington, MA",
+   "maximum": "2100"
+  }
+ },
+ "9c1093cc6a": {
+  "instruction": {
+   "minimum": "1300",
+   "number": "2",
+   "maximum": "2300",
+   "city": "Quincy, MA"
+  }
+ },
+ "2415060883": {
+  "instruction": {
+   "minimum": "2950",
+   "number": "3",
+   "ANSWER": "New York",
+   "maximum": "8625",
+   "city": "New York"
+  }
+ },
+ "347ec877a2": {
+  "instruction": {
+   "number": "3",
+   "city": "St. Louis, MO",
+   "minimum": "$750",
+   "ANSWER": "https://www.apartments.com/saint-louis-mo/3-bedrooms-2-bathrooms-750-to-1500/",
+   "maximum": "$1500"
+  }
+ },
+ "cbf6bf45a0": {
+  "instruction": {
+   "minimum": "1300",
+   "number": "1",
+   "ANSWER": "https://www.apartments.com/abberly-square-waldorf-md/g2y11yy/",
+   "maximum": "1700",
+   "city": "Waldorf, MD"
+  }
+ },
+ "2dfa992368": {
+  "instruction": {
+   "minimum": "500",
+   "number": "1",
+   "ANSWER": " Crescent Terrace Senior Apartments 130 Crescent Ave, Sunnyvale, CA 94087",
+   "maximum": "900",
+   "city": "Sunnyvale, CA"
+  }
+ },
+ "b00290bfb9": {
+  "instruction": {
+   "minimum": "1000",
+   "number": "2",
+   "ANSWER": "Royal Pines Apartments",
+   "maximum": "2000",
+   "city": "San Mateo, CA"
+  }
+ },
+ "398b6a6bc8": {
+  "instruction": {
+   "minimum": "1000",
+   "number": "1",
+   "ANSWER": "Via 6, The Mill at 6th",
+   "maximum": "2000",
+   "city": "Seattle, WA"
+  }
+ },
+ "d77026c31f": {
+  "instruction": {
+   "minimum": "1200",
+   "number": "1",
+   "maximum": "1350",
+   "city": "Fair Oaks"
+  }
+ },
+ "0232f1118d": {
+  "instruction": {
+   "number": "1",
+   "city": "Syracuse, NY",
+   "minimum": "750",
+   "ANSWER": "https://www.apartments.com/high-acres-apartments-townhomes-syracuse-ny/kqsfpdb/",
+   "maximum": "1200"
+  }
+ },
+ "19e773d612": {
+  "instruction": {
+   "number": "1",
+   "city": "Santa Barbara, CA",
+   "minimum": "700",
+   "ANSWER": "Villa Caridad 4202 Calle Real, Santa Barbara, CA 93110",
+   "maximum": "800"
+  }
+ },
+ "7eb3fef5fa": {
+  "instruction": {
+   "minimum": "500",
+   "number": "4",
+   "ANSWER": "https://www.apartments.com/the-edge-ames-ia/2e6gy0c/ https://www.apartments.com/aspen-ames-ames-ia/z61ms8x/",
+   "maximum": "750",
+   "city": "Ames, IA"
+  }
+ },
+ "6bd76a5d49": {
+  "instruction": {
+   "number": "2",
+   "city": "St. Louis, MO",
+   "minimum": "800",
+   "ANSWER": "Park Forest Apartments and Townhomes -7529 Fleta St, Saint Louis, MO 63123",
+   "maximum": "1400"
+  }
+ },
+ "6dbfa3ae1b": {
+  "instruction": {
+   "minimum": "900",
+   "number": "2",
+   "ANSWER": "Woodlake Apartment, Willet Apartments, Cornerstone Apartments",
+   "maximum": "1400",
+   "city": "Albany, NY"
+  }
+ },
+ "782aabecea": {
+  "instruction": {
+   "minimum": "500",
+   "number": "1 bedroom",
+   "ANSWER": "Windsong Place Apartments $1057-1119",
+   "maximum": "1750",
+   "city": "Buffalo, NY"
+  }
+ },
+ "fd14a1c62b": {
+  "instruction": {
+   "number": "2",
+   "city": "Houston",
+   "minimum": "842",
+   "ANSWER": "Palazzo at Cypresswood",
+   "maximum": "2120"
+  }
+ },
+ "f7eef97fe4": {
+  "instruction": {
+   "minimum": "700",
+   "number": "studio",
+   "city": "Sunnyvale",
+   "maximum": "740"
+  }
+ },
+ "899653223a": {
+  "instruction": {
+   "minimum": "1300",
+   "number": "1",
+   "city": "Medford, MA",
+   "maximum": "1950"
+  }
+ },
+ "7ab91ea09f": {
+  "instruction": {
+   "maximum": "1600",
+   "number": "3",
+   "city": "Seattle",
+   "minimum": "1400"
+  }
+ },
+ "6f4889cad9": {
+  "instruction": {
+   "number": "1",
+   "city": "San Jose, CA",
+   "minimum": "1000",
+   "ANSWER": "The Colonnade Apartments 201 S 4th St, San Jose, CA 95112",
+   "maximum": "1500"
+  }
+ },
+ "0392e53290": {
+  "instruction": {
+   "minimum": "$1500",
+   "number": "2",
+   "ANSWER": "https://www.apartments.com/santa-monica-ca/2-bedrooms-2-bathrooms-1500-to-3000/",
+   "maximum": "$3000",
+   "city": "Santa Monica, CA"
+  }
+ },
+ "24cd19b57c": {
+  "instruction": {
+   "minimum": "1400",
+   "number": "1",
+   "city": "Belmont, MA",
+   "maximum": "1800"
+  }
+ },
+ "ac4601cf69": {
+  "instruction": {
+   "number": "1 bedroom",
+   "city": "Las Vegas, NV",
+   "minimum": "700",
+   "ANSWER": "Avanti Apartments $830-982",
+   "maximum": "1450"
+  }
+ },
+ "1ac216a55b": {
+  "instruction": {
+   "minimum": "1100",
+   "number": "3",
+   "city": "Roseville",
+   "maximum": "1225"
+  }
+ },
+ "ebffccf5eb": {
+  "instruction": {
+   "minimum": "1500",
+   "number": "1",
+   "maximum": "1800",
+   "city": "Quincy, MA"
+  }
+ },
+ "9530c2e85d": {
+  "instruction": {
+   "minimum": "2575",
+   "number": "2",
+   "ANSWER": "The Victor By Windsor",
+   "maximum": "4595",
+   "city": "Boston"
+  }
+ },
+ "645269498c": {
+  "instruction": {
+   "number": "1 bedroom",
+   "city": "Buffalo, NY",
+   "minimum": "500",
+   "ANSWER": "Windsong Place Apartments $1057-1119",
+   "maximum": "1750"
+  }
+ },
+ "d09d4b607c": {
+  "instruction": {
+   "minimum": "1500",
+   "number": "1",
+   "maximum": "2100",
+   "city": "Burlington, MA"
+  }
+ },
+ "67e67d97f2": {
+  "instruction": {
+   "number": "Studio",
+   "city": "Atlantic City, NJ",
+   "minimum": "800",
+   "ANSWER": "101 Boardwalk Ave, Atlantic City, NJ 08401",
+   "maximum": "1000"
+  }
+ },
+ "a209d5cd1f": {
+  "instruction": {
+   "minimum": "800",
+   "number": "2",
+   "ANSWER": "The Flats on San Felipe 7920 San Felipe Blvd, Austin, TX 78729",
+   "maximum": "900",
+   "city": "Austin, Texas"
+  }
+ },
+ "29d6d9483e": {
+  "instruction": {
+   "minimum": "1300",
+   "number": "2",
+   "maximum": "1425",
+   "city": "Portland, OR"
+  }
+ },
+ "793bc1c61a": {
+  "instruction": {
+   "minimum": "400",
+   "number": "1",
+   "ANSWER": "https://www.apartments.com/8378-s-baltimore-ave-chicago-il/9v49q96/",
+   "maximum": "450",
+   "city": "Chicago,IL"
+  }
+ },
+ "87be78721e": {
+  "instruction": {
+   "number": "2",
+   "city": "Buffalo, NY",
+   "minimum": "1000",
+   "ANSWER": "330 Crosby Ave Unit Lower, 330 Crosby Ave Unit Lower",
+   "maximum": "1200"
+  }
+ },
+ "4cd1729a12": {
+  "instruction": {
+   "number": "1 bedroom",
+   "city": "Atlanta, GA",
+   "minimum": "1100",
+   "ANSWER": "Rosemont Vinings Ridge $1049-1293",
+   "maximum": "2100"
+  }
+ },
+ "6c62c37a9c": {
+  "instruction": {
+   "number": "2",
+   "city": "Fresno, CA",
+   "minimum": "600",
+   "ANSWER": "Sierra Gardens Apartments 4726 E Church Ave, Fresno, CA 93725",
+   "maximum": "650"
+  }
+ },
+ "5c7431d77e": {
+  "instruction": {
+   "number": "1",
+   "city": "North Myrtle Beach, SC",
+   "minimum": "700",
+   "ANSWER": "Cherry Grove Commons",
+   "maximum": "800"
+  }
+ },
+ "d262bcb7c1": {
+  "instruction": {
+   "minimum": "700",
+   "number": "1 bedroom",
+   "ANSWER": "Avanti Apartments $830-982",
+   "maximum": "1450",
+   "city": "Las Vegas, NV"
+  }
+ },
+ "604cea0da1": {
+  "instruction": {
+   "minimum": "1000",
+   "number": "3",
+   "ANSWER": "The Province at Boulder, Courtyard Apartments",
+   "maximum": "1200",
+   "city": "Boulder, CO"
+  }
+ },
+ "ab3ae0da76": {
+  "instruction": {
+   "number": "2",
+   "city": "Austin, Texas",
+   "minimum": "800",
+   "ANSWER": "The Flats on San Felipe 7920 San Felipe Blvd, Austin, TX 78729",
+   "maximum": "900"
+  }
+ },
+ "9dc13bbafc": {
+  "instruction": {
+   "number": "2",
+   "city": "San Mateo, CA",
+   "minimum": "1000",
+   "ANSWER": "Royal Pines Apartments",
+   "maximum": "2000"
+  }
+ },
+ "fd6d9c5169": {
+  "instruction": {
+   "minimum": "1600",
+   "number": "3",
+   "ANSWER": "https://www.apartments.com/meadow-creek-apartments-boulder-co/l3hzczf/",
+   "maximum": "5000",
+   "city": "Boulder,CO"
+  }
+ },
+ "fd84f657d7": {
+  "instruction": {
+   "number": "2",
+   "city": "Seattle",
+   "minimum": "1448",
+   "ANSWER": "Bowman",
+   "maximum": "5738"
+  }
+ },
+ "411cf8549d": {
+  "instruction": {
+   "maximum": "1025",
+   "number": "1",
+   "city": "Citrus Heights",
+   "minimum": "900"
+  }
+ },
+ "38d1f8d06e": {
+  "instruction": {
+   "minimum": "500",
+   "number": "3",
+   "ANSWER": "https://www.apartments.com/central-park-west-youngstown-oh/0jqgbr0/ https://www.apartments.com/four-seasons-youngstown-oh/l3ctfse/",
+   "maximum": "750",
+   "city": "Austintown, OH"
+  }
+ },
+ "7dd6bda598": {
+  "instruction": {
+   "number": "2 bedroom",
+   "city": "Syracuse, NY",
+   "minimum": "700",
+   "ANSWER": "Orchard Estates $758-1096",
+   "maximum": "1450"
+  }
+ },
+ "2a20c72b5e": {
+  "instruction": {
+   "number": "2",
+   "city": "New York, NY",
+   "minimum": "5000",
+   "ANSWER": "Lincoln Square -21 W End Ave, New York, NY 10023",
+   "maximum": "6000"
+  }
+ },
+ "d0c6bcfe83": {
+  "instruction": {
+   "number": "2",
+   "city": "Madison Heights, MI",
+   "minimum": "1300",
+   "ANSWER": "https://www.apartments.com/the-heights-madison-heights-mi/90vmb45/",
+   "maximum": "1550"
+  }
+ },
+ "1a0163a24d": {
+  "instruction": {
+   "minimum": "1400",
+   "number": "1",
+   "maximum": "2000",
+   "city": "Framingham, MA "
+  }
+ },
+ "517d8f3948": {
+  "instruction": {
+   "minimum": "1800",
+   "number": "1",
+   "city": "Boston, MA",
+   "maximum": "2200"
+  }
+ },
+ "03ae711390": {
+  "instruction": {
+   "minimum": "2000",
+   "number": "2",
+   "ANSWER": "Savoy Park, 690 Fort Washington Ave Unit 3K, 98 Arden St Unit 1M",
+   "maximum": "3000",
+   "city": "New York City, NY"
+  }
+ },
+ "3bfd82cf5d": {
+  "instruction": {
+   "minimum": "500",
+   "number": "1 bedroom",
+   "ANSWER": "Montebello At Summit Ridge $1189-1275",
+   "maximum": "1250",
+   "city": "Reno, NV"
+  }
+ },
+ "fab475a040": {
+  "instruction": {
+   "number": "2",
+   "city": "Standish, MI",
+   "minimum": "500",
+   "ANSWER": "https://www.apartments.com/200-e-elm-st-standish-mi/hsk4db0/",
+   "maximum": "950"
+  }
+ },
+ "4b9b26b1f2": {
+  "instruction": {
+   "minimum": "1300",
+   "number": "1",
+   "city": "Providence, RI",
+   "maximum": "1600"
+  }
+ },
+ "1a88fa8940": {
+  "instruction": {
+   "minimum": "900",
+   "number": "1",
+   "maximum": "1025",
+   "city": "Citrus Heights"
+  }
+ },
+ "3592164e6b": {
+  "instruction": {
+   "minimum": "750",
+   "number": "1",
+   "ANSWER": "https://www.apartments.com/bethany-meadows-portland-or/fyj072t/",
+   "maximum": "800",
+   "city": "Portland, OR"
+  }
+ },
+ "5cbce45bf7": {
+  "instruction": {
+   "minimum": "500",
+   "number": "1",
+   "city": "Sacramento, CA",
+   "maximum": "550"
+  }
+ },
+ "4c4dffe71c": {
+  "instruction": {
+   "minimum": "550",
+   "number": "1",
+   "ANSWER": "Stoneybrook Apartments & Townhomes 6933 Borderbrook Dr, San Antonio, TX 78238",
+   "maximum": "600",
+   "city": "San Antonio, Texas"
+  }
+ },
+ "178b43b734": {
+  "instruction": {
+   "number": "3",
+   "city": "Boulder,CO",
+   "minimum": "1600",
+   "ANSWER": "https://www.apartments.com/meadow-creek-apartments-boulder-co/l3hzczf/",
+   "maximum": "5000"
+  }
+ },
+ "182d0838ce": {
+  "instruction": {
+   "number": "2",
+   "city": "New York City, NY",
+   "minimum": "2000",
+   "ANSWER": "Savoy Park, 690 Fort Washington Ave Unit 3K, 98 Arden St Unit 1M",
+   "maximum": "3000"
+  }
+ },
+ "618b557279": {
+  "instruction": {
+   "number": "Studio",
+   "city": "Carmel, CA",
+   "minimum": "$1000",
+   "ANSWER": "https://www.apartments.com/carmel-ca/studios-1-bathrooms-1500-to-2000/",
+   "maximum": "$1500"
+  }
+ },
+ "28cb18cdd6": {
+  "instruction": {
+   "number": "2",
+   "city": "Orlando, FL",
+   "minimum": "1500",
+   "ANSWER": "Axis West, Elan Audubon Park, The Sevens, Belmont",
+   "maximum": "2000"
+  }
+ },
+ "9780c236fe": {
+  "instruction": {
+   "minimum": "1400",
+   "number": "1",
+   "maximum": "1800",
+   "city": "Belmont, MA"
+  }
+ },
+ "32083f2087": {
+  "instruction": {
+   "minimum": "500",
+   "number": "2",
+   "ANSWER": "https://www.apartments.com/2790-boardman-lake-dr-traverse-city-mi/8f5ryx1/",
+   "maximum": "750",
+   "city": "Traverse City, MI"
+  }
+ },
+ "40f8de818d": {
+  "instruction": {
+   "number": "3",
+   "city": "Atlanta, GA",
+   "minimum": "1200",
+   "ANSWER": "Waters Edge -8601 Roberts Dr, Atlanta, GA 30350 ",
+   "maximum": "1600"
+  }
+ },
+ "503ac4bcb2": {
+  "instruction": {
+   "number": "1",
+   "city": "Fair Oaks",
+   "minimum": "1200",
+   "ANSWER": "Sungarden - 8176 Greenback Ln, Fair Oaks, CA 95628 ",
+   "maximum": "1350"
+  }
+ },
+ "bf8e902e5d": {
+  "instruction": {
+   "number": "1",
+   "city": "Waldorf, MD",
+   "minimum": "1300",
+   "ANSWER": "https://www.apartments.com/abberly-square-waldorf-md/g2y11yy/",
+   "maximum": "1700"
+  }
+ },
+ "0f642ec95d": {
+  "instruction": {
+   "minimum": "$1000",
+   "number": "Studio",
+   "ANSWER": "https://www.apartments.com/chicago-il/studios-1-bathrooms-1000-to-2000/",
+   "maximum": "$2000",
+   "city": "Chicago, IL"
+  }
+ },
+ "dffcd2fa5d": {
+  "instruction": {
+   "number": "1",
+   "city": "Chicago,IL",
+   "minimum": "400",
+   "ANSWER": "https://www.apartments.com/8378-s-baltimore-ave-chicago-il/9v49q96/",
+   "maximum": "450"
+  }
+ },
+ "bf968b6a5c": {
+  "instruction": {
+   "minimum": "$500",
+   "number": "2",
+   "ANSWER": "https://www.apartments.com/columbia-mo/3-bedrooms-2-bathrooms-500-to-1500/",
+   "maximum": "$1500",
+   "city": "Columbia, MO"
+  }
+ },
+ "2fc35b49c1": {
+  "instruction": {
+   "number": "3",
+   "city": "Seattle",
+   "minimum": "1400",
+   "ANSWER": "Alpha Phase I-14421 8th Ave SW, Seattle, WA 98166",
+   "maximum": "1600"
+  }
+ },
+ "1aa817ef9c": {
+  "instruction": {
+   "minimum": "500",
+   "number": "1 bedroom",
+   "ANSWER": "Lansing West Apartments $995",
+   "maximum": "1000",
+   "city": "Ithaca, NY"
+  }
+ },
+ "befb33fff7": {
+  "instruction": {
+   "minimum": "600",
+   "number": "2",
+   "ANSWER": "Sierra Gardens Apartments 4726 E Church Ave, Fresno, CA 93725",
+   "maximum": "650",
+   "city": "Fresno, CA"
+  }
+ },
+ "ed0860e3a7": {
+  "instruction": {
+   "minimum": "1300",
+   "number": "1",
+   "maximum": "1600",
+   "city": "Providence, RI"
+  }
+ },
+ "08c4dd1f38": {
+  "instruction": {
+   "number": "1",
+   "city": "Houston",
+   "minimum": "1219",
+   "ANSWER": "Sawyer Heights Lofts",
+   "maximum": "2873"
+  }
+ },
+ "1308702ad3": {
+  "instruction": {
+   "minimum": "700",
+   "number": "Studio",
+   "ANSWER": "None",
+   "maximum": "740",
+   "city": "Sunnyvale"
+  }
+ },
+ "bf1ce7caa7": {
+  "instruction": {
+   "minimum": "842",
+   "number": "2",
+   "ANSWER": "Palazzo at Cypresswood",
+   "maximum": "2120",
+   "city": "Houston"
+  }
+ },
+ "f4d5c68c3e": {
+  "instruction": {
+   "minimum": "1400",
+   "number": "3",
+   "city": "Seattle",
+   "maximum": "1600"
+  }
+ },
+ "29de2b7128": {
+  "instruction": {
+   "minimum": "800",
+   "number": "3",
+   "city": "Monterey",
+   "maximum": "975"
+  }
+ },
+ "09ea16a016": {
+  "instruction": {
+   "number": "3",
+   "city": "Austintown, OH",
+   "minimum": "500",
+   "ANSWER": "https://www.apartments.com/central-park-west-youngstown-oh/0jqgbr0/ https://www.apartments.com/four-seasons-youngstown-oh/l3ctfse/",
+   "maximum": "750"
+  }
+ },
+ "e8c0852291": {
+  "instruction": {
+   "minimum": "1300",
+   "number": "2",
+   "ANSWER": "https://www.apartments.com/the-heights-madison-heights-mi/90vmb45/",
+   "maximum": "1550",
+   "city": "Madison Heights, MI"
+  }
+ },
+ "8c12669a6a": {
+  "instruction": {
+   "number": "2",
+   "city": "Boston",
+   "minimum": "2575",
+   "ANSWER": "The Victor By Windsor",
+   "maximum": "4595"
+  }
+ },
+ "95a1d8f305": {
+  "instruction": {
+   "number": "Studio",
+   "city": "Sunnyvale",
+   "minimum": "700",
+   "ANSWER": "None",
+   "maximum": "740"
+  }
+ },
+ "78c05bc84b": {
+  "instruction": {
+   "minimum": "1000",
+   "number": "1",
+   "ANSWER": "The Colonnade Apartments 201 S 4th St, San Jose, CA 95112",
+   "maximum": "1500",
+   "city": "San Jose, CA"
+  }
+ },
+ "99e0018dbe": {
+  "instruction": {
+   "minimum": "1100",
+   "number": "1",
+   "maximum": "2100",
+   "city": "Dorchester, MA"
+  }
+ },
+ "0f1145e6e5": {
+  "instruction": {
+   "minimum": "800",
+   "number": "1",
+   "ANSWER": "Waterford Square Apartments",
+   "maximum": "2255",
+   "city": "Charlotte"
+  }
+ },
+ "483f45c40b": {
+  "instruction": {
+   "minimum": "1100",
+   "number": "1",
+   "city": "Dorchester, MA",
+   "maximum": "2100"
+  }
+ },
+ "21343beb51": {
+  "instruction": {
+   "number": "1 bedroom",
+   "city": "Ithaca, NY",
+   "minimum": "500",
+   "ANSWER": "Lansing West Apartments $995",
+   "maximum": "1000"
+  }
+ },
+ "4913e1a0ce": {
+  "instruction": {
+   "number": "2 bedroom",
+   "city": "Athens, GA",
+   "minimum": "700",
+   "ANSWER": "The Oaks, $700-825",
+   "maximum": "2100"
+  }
+ },
+ "e42ae503d9": {
+  "instruction": {
+   "number": "2",
+   "city": "Jacksonville, FL",
+   "minimum": "800",
+   "ANSWER": "https://www.apartments.com/aqua-jacksonville-fl/31zf0se/",
+   "maximum": "1300"
+  }
+ },
+ "3ed2b99fd7": {
+  "instruction": {
+   "minimum": "800",
+   "number": "2",
+   "ANSWER": "https://www.apartments.com/aqua-jacksonville-fl/31zf0se/",
+   "maximum": "1300",
+   "city": "Jacksonville, FL"
+  }
+ },
+ "189d322a32": {
+  "instruction": {
+   "minimum": "1553",
+   "number": "2",
+   "ANSWER": "Via 6",
+   "maximum": "3729",
+   "city": "Seattle"
+  }
+ },
+ "9a9c58d80c": {
+  "instruction": {
+   "minimum": "1200",
+   "number": "1",
+   "ANSWER": "Sungarden - 8176 Greenback Ln, Fair Oaks, CA 95628 ",
+   "maximum": "1350",
+   "city": "Fair Oaks"
+  }
+ },
+ "b34a8fd4bf": {
+  "instruction": {
+   "minimum": "$750",
+   "number": "3",
+   "ANSWER": "https://www.apartments.com/bishop-ca/3-bedrooms-1-bathrooms-750-to-2000/",
+   "maximum": "$2000",
+   "city": "Bishop, CA"
+  }
+ },
+ "61a012c402": {
+  "instruction": {
+   "number": "4",
+   "city": "Ames, IA",
+   "minimum": "500",
+   "ANSWER": "https://www.apartments.com/the-edge-ames-ia/2e6gy0c/ https://www.apartments.com/aspen-ames-ames-ia/z61ms8x/",
+   "maximum": "750"
+  }
+ },
+ "be03474cce": {
+  "instruction": {
+   "maximum": "1085",
+   "number": "2",
+   "city": "Palo Alto, CA",
+   "minimum": "1000"
+  }
+ },
+ "63b0c79c75": {
+  "instruction": {
+   "number": "3",
+   "city": "Bishop, CA",
+   "minimum": "$750",
+   "ANSWER": "https://www.apartments.com/bishop-ca/3-bedrooms-1-bathrooms-750-to-2000/",
+   "maximum": "$2000"
+  }
+ }
+}

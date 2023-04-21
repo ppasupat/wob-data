@@ -1,0 +1,1492 @@
+{
+ "bb7b7443d5": {
+  "instruction": {
+   "movie": "Jolly LLB 2",
+   "date": "2/19/2017",
+   "location": "Merrimack NH",
+   "ANSWER": "9:15 PM"
+  }
+ },
+ "e544178196": {
+  "instruction": {
+   "date": "2/22/17",
+   "movie": "John Wick: Chapter 2 (R)",
+   "location": "Merrimack, NH",
+   "ANSWER": "12:15 PM3:00 PM7:00 PM9:40 PM"
+  }
+ },
+ "7c15be2ca6": {
+  "instruction": {
+   "date": "2/20/17",
+   "movie": "Sing",
+   "location": "Westbrook, ME",
+   "ANSWER": "4:50 PM"
+  }
+ },
+ "b3738d68ad": {
+  "instruction": {
+   "date": "2/17/2017",
+   "movie": "A Cure for Wellness (R)",
+   "location": "Merrimack, NH",
+   "ANSWER": "In Merrimack, NH what times does A Cure for Wellness (R) play on 2/17/17"
+  }
+ },
+ "bc1ba69788": {
+  "instruction": {
+   "date": "2/20/2017",
+   "movie": "John Wick: Chaper 2 ",
+   "location": "Westbrook, ME",
+   "ANSWER": "12:30 PM, 3:40 PM, 7:00 PM, 9:40 PM"
+  }
+ },
+ "5f01f233a3": {
+  "instruction": {
+   "location": "Salisbury, MA",
+   "date": "2/10/17",
+   "movie": "The Comedian"
+  }
+ },
+ "fbdc45ff3f": {
+  "instruction": {
+   "date": "2/10/2017",
+   "movie": "John Wick: Chapter 2 (R)",
+   "location": "Sturbridge, MA",
+   "ANSWER": "In Sturbridge, MA what times does John Wick: Chapter 2 (R) play on 2/10/17"
+  }
+ },
+ "0a2f4da789": {
+  "instruction": {
+   "movie": "A Cure for Wellness",
+   "date": "2/10/17",
+   "location": "Portsmouth, NH"
+  }
+ },
+ "85b602236d": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "Nenu Local",
+   "location": "Salisbury, MA"
+  }
+ },
+ "f741986fa2": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "La La Land",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:45 PM"
+  }
+ },
+ "8d2ee7edaf": {
+  "instruction": {
+   "date": "02/19/2017",
+   "movie": "John Wick 2",
+   "location": "Salisbury MA",
+   "ANSWER": "7:00pm"
+  }
+ },
+ "1b5a88fddf": {
+  "instruction": {
+   "movie": "The Great Wall",
+   "date": "2/22/17",
+   "location": "Salisbury, MA",
+   "ANSWER": "2:20 PM"
+  }
+ },
+ "f4228a3435": {
+  "instruction": {
+   "movie": "Ghazi",
+   "date": "2/19/2017",
+   "location": "Merrimack NH",
+   "ANSWER": "4:00 PM"
+  }
+ },
+ "ef6d1b2b2d": {
+  "instruction": {
+   "movie": "Lion ",
+   "date": "2/20/2017",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:30 PM, 3:05 PM, 7:10 PM, 9:45 PM"
+  }
+ },
+ "b5b94c817e": {
+  "instruction": {
+   "movie": "The Great Wall",
+   "date": "02/22/2017",
+   "location": "Grand & Bistro",
+   "ANSWER": "12:10pm"
+  }
+ },
+ "a068582c17": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "The Lego Batman",
+   "location": "Westbrook ME",
+   "ANSWER": "4:50 PM"
+  }
+ },
+ "cf668229f1": {
+  "instruction": {
+   "date": "3/7/17",
+   "movie": "Logan",
+   "location": "Salisbury, MA",
+   "ANSWER": "2:55 PM"
+  }
+ },
+ "eeb1d83d77": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "Hidden Figures",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:15 PM"
+  }
+ },
+ "c387cd081e": {
+  "instruction": {
+   "location": "Sturbridge, MA",
+   "date": "2/10/17",
+   "movie": "Gold"
+  }
+ },
+ "43e61e9e90": {
+  "instruction": {
+   "date": "2/10/2017",
+   "movie": "Jolly LLB 2 (NR)",
+   "location": "Merrimack, NH",
+   "ANSWER": "In Merrimack, NH what times does Jolly LLB 2 (NR) play on 2/10/17"
+  }
+ },
+ "aada3fc592": {
+  "instruction": {
+   "movie": "A Cure for Wellness",
+   "date": "2/20/2017",
+   "location": "Salisbury, MA",
+   "ANSWER": "1:00 PM, 4:00 PM, 8:00 PM"
+  }
+ },
+ "7f9c67f7f2": {
+  "instruction": {
+   "date": "2/20/2017",
+   "movie": "Fifty Shades Darker",
+   "location": "Saco, ME",
+   "ANSWER": "11:50 AM, 2:25 PM, 5:00 PM, 7:30 PM, 10:00 PM"
+  }
+ },
+ "77578b2626": {
+  "instruction": {
+   "movie": "The Lego Batman Movie",
+   "date": "2/10/17",
+   "location": "Hooksett, NH"
+  }
+ },
+ "b59839d0f7": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "Gold",
+   "location": "Sturbridge, MA"
+  }
+ },
+ "fe6e57c80b": {
+  "instruction": {
+   "location": "Salisbury, MA",
+   "date": "2/10/17",
+   "movie": "Rings "
+  }
+ },
+ "6e5a3c1aaa": {
+  "instruction": {
+   "movie": "Logan",
+   "date": "3/7/17",
+   "location": "Salisbury, MA",
+   "ANSWER": "6:45 PM"
+  }
+ },
+ "0d898afbf2": {
+  "instruction": {
+   "movie": "Logan",
+   "date": "3/7/17",
+   "location": "Salisbury, MA",
+   "ANSWER": "2:55 PM"
+  }
+ },
+ "216e1be8af": {
+  "instruction": {
+   "date": "02/21/2017",
+   "movie": "La La Land",
+   "location": "Westbrook ME",
+   "ANSWER": "3:30pm"
+  }
+ },
+ "a94c1b4a3a": {
+  "instruction": {
+   "movie": "A Dog's Purpose",
+   "date": "2/20/17",
+   "location": "Saco, ME",
+   "ANSWER": "11:50 AM, 2:10 PM, 4:30 PM, 6:50 PM, 9:10 PM"
+  }
+ },
+ "1e42437ff9": {
+  "instruction": {
+   "movie": "Fist Fight",
+   "date": "2/20/17",
+   "location": "Westbrook, ME",
+   "ANSWER": "2:30 PM"
+  }
+ },
+ "6b6e2d4207": {
+  "instruction": {
+   "movie": "Fist Fight",
+   "date": "02/19/2017",
+   "location": "Saco ME",
+   "ANSWER": "12:00pm"
+  }
+ },
+ "316003eabf": {
+  "instruction": {
+   "date": "02/20/2017",
+   "movie": "A Cure For Wellness",
+   "location": "Hooksett NH",
+   "ANSWER": "12:00pm"
+  }
+ },
+ "ba219e3fc4": {
+  "instruction": {
+   "movie": "Hidden Figures",
+   "date": "02/21/2017",
+   "location": "Portsmouth NH",
+   "ANSWER": "6:50pm"
+  }
+ },
+ "a67610f037": {
+  "instruction": {
+   "movie": "A Cure For Wellness",
+   "date": "2/20/17",
+   "location": "Merrimack, NH",
+   "ANSWER": "12:00pm, 3:00pm, 6:50pm, 9:10pm"
+  }
+ },
+ "79d1084fd3": {
+  "instruction": {
+   "date": "02/21/2017",
+   "movie": "Hidden Figures",
+   "location": "Portsmouth NH",
+   "ANSWER": "6:50pm"
+  }
+ },
+ "1472219a72": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "fifty shades darker",
+   "location": "Westbrook, ME"
+  }
+ },
+ "0e6e9f62b9": {
+  "instruction": {
+   "movie": "The Great Wall (PG-13)",
+   "date": "2/23/17",
+   "location": "Sturbridge, MA",
+   "ANSWER": "11:50 AM2:15 PM4:40 PM7:10 PM9:40 PM"
+  }
+ },
+ "b1508f5d7a": {
+  "instruction": {
+   "movie": "The Great Wal",
+   "date": "2/19/2017",
+   "location": "Hooksett NH",
+   "ANSWER": "9:45 PM"
+  }
+ },
+ "fceac9fa03": {
+  "instruction": {
+   "movie": "Fist Fight",
+   "date": "2/19/2017",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:30 PM"
+  }
+ },
+ "80b3155c74": {
+  "instruction": {
+   "movie": "La La Land",
+   "date": "2/21/17",
+   "location": "Saco, ME",
+   "ANSWER": "3:15 PM"
+  }
+ },
+ "f0a884260f": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "The Comedian",
+   "location": "Salisbury, MA"
+  }
+ },
+ "86f5fa64ea": {
+  "instruction": {
+   "movie": "La La Land",
+   "date": "02/21/2017",
+   "location": "Westbrook ME",
+   "ANSWER": "3:30pm"
+  }
+ },
+ "68315742ba": {
+  "instruction": {
+   "date": "2/17/2017",
+   "movie": "Fist Fight (R)",
+   "location": "Merrimack, NH",
+   "ANSWER": "In Merrimack, NH what times does Fist Fight (R) play on 2/17/17"
+  }
+ },
+ "69edc988f3": {
+  "instruction": {
+   "date": "2/20/2017",
+   "movie": "The Lego Batman Movie ",
+   "location": "Saco, ME",
+   "ANSWER": "12:10 PM, 2:35 PM, 5:00 PM, 7:20 PM, 9:40 PM"
+  }
+ },
+ "f1210d2cb3": {
+  "instruction": {
+   "date": "2/22/17",
+   "movie": "The Great Wall",
+   "location": "Salisbury, MA",
+   "ANSWER": "2:20 PM"
+  }
+ },
+ "ae502b886c": {
+  "instruction": {
+   "movie": "The Great Wall",
+   "date": "2/22/17",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:00 PM"
+  }
+ },
+ "326e57a3ca": {
+  "instruction": {
+   "movie": "John Wick: Chapter 2 (R)",
+   "date": "2/22/17",
+   "location": "Merrimack, NH",
+   "ANSWER": "12:15 PM3:00 PM7:00 PM9:40 PM"
+  }
+ },
+ "92b3d5fb94": {
+  "instruction": {
+   "date": "2/24/2017",
+   "movie": "Collide (PG-13)",
+   "location": "Salisbury, MA",
+   "ANSWER": "In Salisbury, MA what times does Collide (PG-13) play on 2/24/17"
+  }
+ },
+ "220944ab38": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "Fifty Shades Darker",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:45 PM"
+  }
+ },
+ "34440da951": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "Space Between Us",
+   "location": "Saco, ME"
+  }
+ },
+ "db73d114d8": {
+  "instruction": {
+   "date": "3/7/17",
+   "movie": "Logan",
+   "location": "Salisbury, MA",
+   "ANSWER": "6:45 PM"
+  }
+ },
+ "114c9ec775": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "John Wick: Chapter 2 ",
+   "location": "Merrimack, NH"
+  }
+ },
+ "2317702310": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "The Lego Batman Movie",
+   "location": "Hooksett, NH"
+  }
+ },
+ "46b88ee7e5": {
+  "instruction": {
+   "date": "02/23/2017",
+   "movie": "Lion",
+   "location": "Hooksett NH",
+   "ANSWER": "12:10pm"
+  }
+ },
+ "b9205da2b6": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "Patriots Day",
+   "location": "Sturbridge MA",
+   "ANSWER": "9:30 PM"
+  }
+ },
+ "d1747e7143": {
+  "instruction": {
+   "date": "02/20/2017",
+   "movie": "Split",
+   "location": "Saco ME",
+   "ANSWER": "7:30pm"
+  }
+ },
+ "911beddc53": {
+  "instruction": {
+   "movie": "John Wick: Chapter 2",
+   "date": "2/20/17",
+   "location": "Sturbridge, MA",
+   "ANSWER": "12:00pm, 2:50pm, 7:10pm, 9:40pm"
+  }
+ },
+ "a6afa6d287": {
+  "instruction": {
+   "date": "2/20/2017",
+   "movie": "Fist Fight",
+   "location": "Sturbridge, MA",
+   "ANSWER": "12:00 PM, 2:10 PM, 4:20 PM, 7:00 PM, 9:50 PM"
+  }
+ },
+ "5c65225949": {
+  "instruction": {
+   "movie": "George Takei's Allegiance on Broadway",
+   "date": "2/19/2017",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:55 PM"
+  }
+ },
+ "73fb09891e": {
+  "instruction": {
+   "movie": "Allegiance",
+   "date": "2/19/2017",
+   "location": "Saco ME",
+   "ANSWER": "12:55 PM"
+  }
+ },
+ "b783931366": {
+  "instruction": {
+   "date": "02/19/2017",
+   "movie": "Fist Fight",
+   "location": "Saco ME",
+   "ANSWER": "12:00pm"
+  }
+ },
+ "0db4c63d9f": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "A Dogs Purpose",
+   "location": "Salisbury, MA"
+  }
+ },
+ "33c4045636": {
+  "instruction": {
+   "movie": "A Dog's Purpose (PG)",
+   "date": "2/20/17",
+   "location": "Saco,ME",
+   "ANSWER": "11:50 AM2:10 PM4:30 PM6:50 PM9:10 PM"
+  }
+ },
+ "15fbdf8a9c": {
+  "instruction": {
+   "date": "2/20/2017",
+   "movie": "Splite",
+   "location": "Merrimack, NH",
+   "ANSWER": "12:20 PM, 3:00 PM, 7:10 PM, 9:45 PM"
+  }
+ },
+ "8450a02c52": {
+  "instruction": {
+   "date": "2/20/17",
+   "movie": "Fist Fight (R)",
+   "location": "Westbrook, ME",
+   "ANSWER": "12:20 PM2:30 PM4:40 PM7:20 PM9:30 PM"
+  }
+ },
+ "bd60d493df": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "Split",
+   "location": "Portsmouth NH",
+   "ANSWER": "6:50 PM"
+  }
+ },
+ "2d5db4f6bc": {
+  "instruction": {
+   "movie": "John Wick: Chapter 2 ",
+   "date": "2/10/17",
+   "location": "Merrimack, NH"
+  }
+ },
+ "b9c2d7ee2b": {
+  "instruction": {
+   "location": "Salisbury, MA",
+   "date": "2/10/17",
+   "movie": "Nenu Local"
+  }
+ },
+ "d4bab9333e": {
+  "instruction": {
+   "movie": "A Cure For Wellness",
+   "date": "02/20/2017",
+   "location": "Hooksett NH",
+   "ANSWER": "12:00pm"
+  }
+ },
+ "2a6964dbf4": {
+  "instruction": {
+   "movie": "Fist Fight (R)",
+   "date": "2/20/17",
+   "location": "Westbrook, ME",
+   "ANSWER": "12:20 PM2:30 PM4:40 PM7:20 PM9:30 PM"
+  }
+ },
+ "1e16c53a5d": {
+  "instruction": {
+   "movie": "A Cure for Wellness",
+   "date": "2/19/2017",
+   "location": "Salisbury, MA",
+   "ANSWER": "1:00 PM"
+  }
+ },
+ "dcd6f4e725": {
+  "instruction": {
+   "movie": "A Cure for Wellness (R)",
+   "date": "2/21/17",
+   "location": "Portsmouth, NH",
+   "ANSWER": "12:20 PM3:30 PM7:00 PM9:20 PM"
+  }
+ },
+ "73efa28b47": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "Ghazi",
+   "location": "Merrimack NH",
+   "ANSWER": "4:00 PM"
+  }
+ },
+ "572f6262f0": {
+  "instruction": {
+   "date": "2/23/17",
+   "movie": "Lion (PG-13)",
+   "location": "Hooksett, NH",
+   "ANSWER": "12:10 PM3:00 PM6:30 PM9:20 PM"
+  }
+ },
+ "b824bf8221": {
+  "instruction": {
+   "movie": "Rings ",
+   "date": "2/10/17",
+   "location": "Salisbury, MA"
+  }
+ },
+ "1010601ccd": {
+  "instruction": {
+   "movie": "The Great Wall ",
+   "date": "2/20/2017",
+   "location": "Sturbridge, MA",
+   "ANSWER": "11:50 AM, 2:15 PM, 4:40 PM, 7:10 PM, 9:40 PM"
+  }
+ },
+ "5eeaec7a84": {
+  "instruction": {
+   "movie": "The Lego Batman Movie ",
+   "date": "2/20/2017",
+   "location": "Saco, ME",
+   "ANSWER": "12:10 PM, 2:35 PM, 5:00 PM, 7:20 PM, 9:40 PM"
+  }
+ },
+ "6db6889ee9": {
+  "instruction": {
+   "movie": "A Dogs Purpose",
+   "date": "2/10/17",
+   "location": "Salisbury, MA"
+  }
+ },
+ "a6df5d9f15": {
+  "instruction": {
+   "movie": "Jolly LLB 2 (NR)",
+   "date": "2/10/2017",
+   "location": "Merrimack, NH",
+   "ANSWER": "In Merrimack, NH what times does Jolly LLB 2 (NR) play on 2/10/17"
+  }
+ },
+ "51c171d3ea": {
+  "instruction": {
+   "movie": "Rings",
+   "date": "2/20/2017",
+   "location": "Westbrook, ME",
+   "ANSWER": "11:50 AM, 2:10 PM, 4:30 PM, 7:30 PM, 9:50 PM"
+  }
+ },
+ "5f97258238": {
+  "instruction": {
+   "date": "2/21/17",
+   "movie": "Rings (PG-13)",
+   "location": "Westbrook, ME",
+   "ANSWER": "11:50 AM2:10 PM4:30 PM7:30 PM9:50 PM"
+  }
+ },
+ "d32a4643a5": {
+  "instruction": {
+   "movie": "Rings (PG-13)",
+   "date": "2/03/2017",
+   "location": "Hooksett, NH",
+   "ANSWER": "In Hooksett, NH what times does Rings (PG-13) play on 2/03/17"
+  }
+ },
+ "42fc8fdcdf": {
+  "instruction": {
+   "movie": "Sing",
+   "date": "2/20/17",
+   "location": "Westbrook, ME",
+   "ANSWER": "12:00pm, 2:25pm, 4:50pm, 7:20pm, 9:40pm"
+  }
+ },
+ "d838c9f882": {
+  "instruction": {
+   "date": "2/20/17",
+   "movie": "Fifty Shades Darker (R)",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:45 PM3:20 PM7:10 PM9:55 PM"
+  }
+ },
+ "d1b04dd768": {
+  "instruction": {
+   "date": "2/21/17",
+   "movie": "A Cure for Wellness (R)",
+   "location": "Portsmouth, NH",
+   "ANSWER": "12:20 PM3:30 PM7:00 PM9:20 PM"
+  }
+ },
+ "9d96c93186": {
+  "instruction": {
+   "date": "02/22/2017",
+   "movie": "The Great Wall",
+   "location": "Grand & Bistro",
+   "ANSWER": "12:10pm"
+  }
+ },
+ "89a245c040": {
+  "instruction": {
+   "date": "1/27/2017",
+   "movie": "A Dog's Purpose (PG)",
+   "location": "Westbrook, ME",
+   "ANSWER": "In Hooksett, NH what times does A Dog's Purpose (PG) play on 1/27/17"
+  }
+ },
+ "18114b6506": {
+  "instruction": {
+   "date": "2/20/17",
+   "movie": "A Dog's Purpose (PG)",
+   "location": "Saco,ME",
+   "ANSWER": "11:50 AM2:10 PM4:30 PM6:50 PM9:10 PM"
+  }
+ },
+ "763911feb6": {
+  "instruction": {
+   "movie": "The Lego Batman Movie",
+   "date": "2/20/17",
+   "location": "Portsmouth, NH",
+   "ANSWER": "11:50am, 2:10pm, 4:40pm, 7:10pm, 9:30pm"
+  }
+ },
+ "5126e7bc3e": {
+  "instruction": {
+   "date": "2/20/2017",
+   "movie": "Lion ",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:30 PM, 3:05 PM, 7:10 PM, 9:45 PM"
+  }
+ },
+ "b0428e1cc4": {
+  "instruction": {
+   "movie": "Splite",
+   "date": "2/20/2017",
+   "location": "Merrimack, NH",
+   "ANSWER": "12:20 PM, 3:00 PM, 7:10 PM, 9:45 PM"
+  }
+ },
+ "414ee5b657": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "The Great Wall",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:00 PM"
+  }
+ },
+ "0ef28bcfb1": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "Allegiance",
+   "location": "Saco ME",
+   "ANSWER": "12:55 PM"
+  }
+ },
+ "9ccd92684d": {
+  "instruction": {
+   "movie": "Fist Fight",
+   "date": "2/20/17",
+   "location": "Saco, ME",
+   "ANSWER": "12:00 PM, 2:10 PM, 4:20 PM, 7:15 PM, 9:20 PM"
+  }
+ },
+ "8531da982e": {
+  "instruction": {
+   "movie": "Fist Fight",
+   "date": "2/20/17",
+   "location": "Hooksett, NH",
+   "ANSWER": "12:00pm, 2:30pm, 5:00pm, 7:20pm, 9:45pm"
+  }
+ },
+ "f4c5ce8b41": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "George Takei's Allegiance on Broadway",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:55 PM"
+  }
+ },
+ "cd15bd2ed9": {
+  "instruction": {
+   "movie": "A Dog's Purpose",
+   "date": "2/19/2017",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:15 PM"
+  }
+ },
+ "5cbe66b3c6": {
+  "instruction": {
+   "date": "2/21/17",
+   "movie": "Jolly LLB 2 (NR)",
+   "location": "Merrimack, NH",
+   "ANSWER": "9:15 PM"
+  }
+ },
+ "4052254488": {
+  "instruction": {
+   "movie": "Split",
+   "date": "2/20/17",
+   "location": "Saco, ME",
+   "ANSWER": "11:50 AM, 2:25 PM, 5:00 PM, 7:30 PM, 10:00 PM"
+  }
+ },
+ "daaa48c39b": {
+  "instruction": {
+   "movie": "Fifty Shades Darker (R)",
+   "date": "2/20/17",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:45 PM3:20 PM7:10 PM9:55 PM"
+  }
+ },
+ "a1b9dcfd39": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "The Great Wal",
+   "location": "Hooksett NH",
+   "ANSWER": "9:45 PM"
+  }
+ },
+ "e3103b45d1": {
+  "instruction": {
+   "movie": "Split",
+   "date": "2/19/2017",
+   "location": "Portsmouth NH",
+   "ANSWER": "6:50 PM"
+  }
+ },
+ "8f1e3a8680": {
+  "instruction": {
+   "movie": "George Takei's Allegiance on Broadway (NR)",
+   "date": "2/19/2017",
+   "location": "Merrimack, NH",
+   "ANSWER": "In Merrimack, NH what times does George Takei's Allegiance on Broadway (NR) play on 2/19/17"
+  }
+ },
+ "54c9ffe6da": {
+  "instruction": {
+   "movie": "Fifty Shades Darker",
+   "date": "2/19/2017",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:45 PM"
+  }
+ },
+ "7b71875007": {
+  "instruction": {
+   "movie": "Patriots Day",
+   "date": "2/20/17",
+   "location": "Saco, ME",
+   "ANSWER": "12:30 PM, 3:30 PM, 7:00 PM, 9:45 PM"
+  }
+ },
+ "b4688fcdf3": {
+  "instruction": {
+   "date": "2/20/17",
+   "movie": "Split",
+   "location": "Westbrook, ME",
+   "ANSWER": "3:40 PM"
+  }
+ },
+ "2870f80fa9": {
+  "instruction": {
+   "movie": "John Wick: Chaper 2 ",
+   "date": "2/20/2017",
+   "location": "Westbrook, ME",
+   "ANSWER": "12:30 PM, 3:40 PM, 7:00 PM, 9:40 PM"
+  }
+ },
+ "1f875de28c": {
+  "instruction": {
+   "location": "Merrimack, NH",
+   "date": "2/10/17",
+   "movie": "John Wick: Chapter 2 "
+  }
+ },
+ "f06f8683c1": {
+  "instruction": {
+   "movie": "A Dog's Purpose (PG)",
+   "date": "1/27/2017",
+   "location": "Westbrook, ME",
+   "ANSWER": "In Hooksett, NH what times does A Dog's Purpose (PG) play on 1/27/17"
+  }
+ },
+ "f8d4330dc4": {
+  "instruction": {
+   "movie": "Split",
+   "date": "2/20/17",
+   "location": "Westbrook, ME",
+   "ANSWER": "12:30pm, 3:40pm, 7:20pm, 9:50pm"
+  }
+ },
+ "c3f08ef921": {
+  "instruction": {
+   "date": "2/20/2017",
+   "movie": "A Dog's Purpose",
+   "location": "Merrimack, NH",
+   "ANSWER": "12:15 PM 2:30 PM, 4:45 PM, 7:10 PM, 9:30 PM"
+  }
+ },
+ "9d76ae6676": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "A Dog's Purpose",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:15 PM"
+  }
+ },
+ "ee4a070b25": {
+  "instruction": {
+   "movie": "The Lego Batman Movie",
+   "date": "2/20/17",
+   "location": "Saco, ME",
+   "ANSWER": "12:10 PM, 2:35 PM, 5:00 PM, 7:20 PM, 9:40 PM"
+  }
+ },
+ "ce169b4301": {
+  "instruction": {
+   "location": "Saco, ME",
+   "date": "2/10/17",
+   "movie": "Space Between Us"
+  }
+ },
+ "e02b481e38": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "Rings ",
+   "location": "Salisbury, MA"
+  }
+ },
+ "38ffe7e1ef": {
+  "instruction": {
+   "movie": "Patriots Day",
+   "date": "2/19/2017",
+   "location": "Sturbridge MA",
+   "ANSWER": "9:30 PM"
+  }
+ },
+ "39f186ee60": {
+  "instruction": {
+   "date": "2/10/2017",
+   "movie": "Fifty Shades Darker (R)",
+   "location": "Salisbury, MA",
+   "ANSWER": "In Salisbury, MA what times does Fifty Shades Darker (R) play on 2/10/17"
+  }
+ },
+ "836a6eb1fa": {
+  "instruction": {
+   "movie": "The Comedian",
+   "date": "2/10/17",
+   "location": "Salisbury, MA"
+  }
+ },
+ "1659031dba": {
+  "instruction": {
+   "movie": "Collide (PG-13)",
+   "date": "2/24/2017",
+   "location": "Salisbury, MA",
+   "ANSWER": "In Salisbury, MA what times does Collide (PG-13) play on 2/24/17"
+  }
+ },
+ "093398590a": {
+  "instruction": {
+   "date": "2/20/2017",
+   "movie": "Rings",
+   "location": "Westbrook, ME",
+   "ANSWER": "11:50 AM, 2:10 PM, 4:30 PM, 7:30 PM, 9:50 PM"
+  }
+ },
+ "98fe9d06f8": {
+  "instruction": {
+   "movie": "Lion",
+   "date": "2/23/17",
+   "location": "Saco, ME",
+   "ANSWER": "12:15 PM, 3:15 PM, 6:50 PM, 9:30 PM"
+  }
+ },
+ "ae0650119a": {
+  "instruction": {
+   "movie": "Split",
+   "date": "02/20/2017",
+   "location": "Saco ME",
+   "ANSWER": "7:30pm"
+  }
+ },
+ "47ad3e8a6f": {
+  "instruction": {
+   "movie": "The Great Wall (PG-13)",
+   "date": "2/17/2017",
+   "location": "Merrimack, NH",
+   "ANSWER": "In Merrimack, NH what times does The Great Wall (PG-13) play on 2/17/17"
+  }
+ },
+ "e7aababf04": {
+  "instruction": {
+   "movie": "Gold",
+   "date": "2/10/17",
+   "location": "Sturbridge, MA"
+  }
+ },
+ "6e88901c1f": {
+  "instruction": {
+   "movie": "Space Between Us",
+   "date": "2/10/17",
+   "location": "Saco, ME"
+  }
+ },
+ "e6f2c65463": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "Lion",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:30 PM"
+  }
+ },
+ "c0597d2720": {
+  "instruction": {
+   "movie": "fifty shades darker",
+   "date": "2/10/17",
+   "location": "Westbrook, ME"
+  }
+ },
+ "e9419b81ec": {
+  "instruction": {
+   "movie": "La La Land (PG-13)",
+   "date": "2/19/17",
+   "location": "Westbrook, ME",
+   "ANSWER": "12:20 PM3:30 PM7:00 PM9:45 PM"
+  }
+ },
+ "150714914d": {
+  "instruction": {
+   "date": "02/22/2017",
+   "movie": "A dog's Purpose",
+   "location": "Westbrook ME",
+   "ANSWER": "2:20pm"
+  }
+ },
+ "befde21f6f": {
+  "instruction": {
+   "date": "2/23/17",
+   "movie": "The Great Wall (PG-13)",
+   "location": "Sturbridge, MA",
+   "ANSWER": "11:50 AM2:15 PM4:40 PM7:10 PM9:40 PM"
+  }
+ },
+ "02dfce7132": {
+  "instruction": {
+   "location": "Hooksett, NH",
+   "date": "2/10/17",
+   "movie": "The Lego Batman Movie"
+  }
+ },
+ "872ffcf3b7": {
+  "instruction": {
+   "movie": "La La Land",
+   "date": "2/19/2017",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:45 PM"
+  }
+ },
+ "40e862222c": {
+  "instruction": {
+   "movie": "Fifty Shades Darker",
+   "date": "2/20/17",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:45pm, 3:20pm, 7:10pm, 9:55pm"
+  }
+ },
+ "66706e4ea5": {
+  "instruction": {
+   "movie": "The Lego Batman",
+   "date": "2/19/2017",
+   "location": "Westbrook ME",
+   "ANSWER": "4:50 PM"
+  }
+ },
+ "72eec1c22d": {
+  "instruction": {
+   "movie": "Lion",
+   "date": "2/19/2017",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:30 PM"
+  }
+ },
+ "bf76d0809a": {
+  "instruction": {
+   "movie": "Hidden Figures",
+   "date": "2/20/17",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:15pm, 2:55pm, 6:55pm, 9:35pm"
+  }
+ },
+ "528634a738": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": " A Cure for Wellness",
+   "location": "Westbrook ME",
+   "ANSWER": "9:20 PM"
+  }
+ },
+ "2543efdead": {
+  "instruction": {
+   "date": "2/19/17",
+   "movie": "La La Land (PG-13)",
+   "location": "Westbrook, ME",
+   "ANSWER": "12:20 PM3:30 PM7:00 PM9:45 PM"
+  }
+ },
+ "b47a7bb215": {
+  "instruction": {
+   "date": "3/7/17",
+   "movie": "Logan",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:00 PM"
+  }
+ },
+ "653d3a0586": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "John Wick: Chapter 2",
+   "location": "Merrimack NH",
+   "ANSWER": "7:00 PM"
+  }
+ },
+ "c33fd0ace8": {
+  "instruction": {
+   "date": "2/03/2017",
+   "movie": "Rings (PG-13)",
+   "location": "Hooksett, NH",
+   "ANSWER": "In Hooksett, NH what times does Rings (PG-13) play on 2/03/17"
+  }
+ },
+ "1233d907a3": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "Fist Fight",
+   "location": "Saco ME",
+   "ANSWER": "7:15 PM"
+  }
+ },
+ "c98606cccc": {
+  "instruction": {
+   "date": "2/21/17",
+   "movie": "La La Land",
+   "location": "Saco, ME",
+   "ANSWER": "3:15 PM"
+  }
+ },
+ "4cdbd55233": {
+  "instruction": {
+   "movie": "Fist Fight",
+   "date": "2/19/2017",
+   "location": "Saco ME",
+   "ANSWER": "7:15 PM"
+  }
+ },
+ "61d4ab9e05": {
+  "instruction": {
+   "location": "Salisbury, MA",
+   "date": "2/10/17",
+   "movie": "A Dogs Purpose"
+  }
+ },
+ "e5c9ae230f": {
+  "instruction": {
+   "movie": "Rings (PG-13)",
+   "date": "2/21/17",
+   "location": "Westbrook, ME",
+   "ANSWER": "11:50 AM2:10 PM4:30 PM7:30 PM9:50 PM"
+  }
+ },
+ "1fc9b90e9c": {
+  "instruction": {
+   "date": "2/17/2017",
+   "movie": "The Great Wall (PG-13)",
+   "location": "Merrimack, NH",
+   "ANSWER": "In Merrimack, NH what times does The Great Wall (PG-13) play on 2/17/17"
+  }
+ },
+ "2eb82831ee": {
+  "instruction": {
+   "movie": "The Great Wall",
+   "date": "2/20/17",
+   "location": "Saco, ME",
+   "ANSWER": "12:00pm, 2:30pm, 5:00pm, 7:20pm, 9:40pm"
+  }
+ },
+ "e0f187c8f0": {
+  "instruction": {
+   "movie": "Lion",
+   "date": "2/21/17",
+   "location": "Saco, ME",
+   "ANSWER": "12:15 PM"
+  }
+ },
+ "67f07efc97": {
+  "instruction": {
+   "movie": "La La Land",
+   "date": "2/23/17",
+   "location": "Saco, ME",
+   "ANSWER": "12:30 PM, 3:15 PM, 6:50 PM, 9:30 PM"
+  }
+ },
+ "d2e0377ca6": {
+  "instruction": {
+   "movie": "A Cure for Wellness (R)",
+   "date": "2/17/2017",
+   "location": "Merrimack, NH",
+   "ANSWER": "In Merrimack, NH what times does A Cure for Wellness (R) play on 2/17/17"
+  }
+ },
+ "58361fa106": {
+  "instruction": {
+   "movie": "Sing",
+   "date": "2/20/17",
+   "location": "Westbrook, ME",
+   "ANSWER": "4:50 PM"
+  }
+ },
+ "2db8f5016e": {
+  "instruction": {
+   "movie": "John Wick 2",
+   "date": "02/23/2017",
+   "location": "Merrimack NH",
+   "ANSWER": "3:00pm"
+  }
+ },
+ "859d11cd29": {
+  "instruction": {
+   "movie": "Hidden Figures",
+   "date": "2/19/2017",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:15 PM"
+  }
+ },
+ "d2207287a5": {
+  "instruction": {
+   "movie": "Lion",
+   "date": "02/23/2017",
+   "location": "Hooksett NH",
+   "ANSWER": "12:10pm"
+  }
+ },
+ "1f08ef3b60": {
+  "instruction": {
+   "date": "2/22/17",
+   "movie": "The Great Wall",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:00 PM"
+  }
+ },
+ "66bb949ae1": {
+  "instruction": {
+   "movie": "John Wick 2",
+   "date": "02/19/2017",
+   "location": "Salisbury MA",
+   "ANSWER": "7:00pm"
+  }
+ },
+ "7dbdde1ee2": {
+  "instruction": {
+   "movie": "Lion (PG-13)",
+   "date": "2/23/17",
+   "location": "Hooksett, NH",
+   "ANSWER": "12:10 PM3:00 PM6:30 PM9:20 PM"
+  }
+ },
+ "1fa063a876": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "George Takei's Allegiance on Broadway (NR)",
+   "location": "Merrimack, NH",
+   "ANSWER": "In Merrimack, NH what times does George Takei's Allegiance on Broadway (NR) play on 2/19/17"
+  }
+ },
+ "099ae84143": {
+  "instruction": {
+   "movie": "Fifty Shades Darker (R)",
+   "date": "2/10/2017",
+   "location": "Salisbury, MA",
+   "ANSWER": "In Salisbury, MA what times does Fifty Shades Darker (R) play on 2/10/17"
+  }
+ },
+ "22dbfb42a4": {
+  "instruction": {
+   "movie": "A Dog's Purpose",
+   "date": "2/20/2017",
+   "location": "Merrimack, NH",
+   "ANSWER": "12:15 PM 2:30 PM, 4:45 PM, 7:10 PM, 9:30 PM"
+  }
+ },
+ "e5b75a6969": {
+  "instruction": {
+   "movie": "Jolly LLB 2 (NR)",
+   "date": "2/21/17",
+   "location": "Merrimack, NH",
+   "ANSWER": "9:15 PM"
+  }
+ },
+ "92bb63dabe": {
+  "instruction": {
+   "movie": "Nenu Local",
+   "date": "2/10/17",
+   "location": "Salisbury, MA"
+  }
+ },
+ "a3e4806096": {
+  "instruction": {
+   "date": "2/20/2017",
+   "movie": "The Great Wall ",
+   "location": "Sturbridge, MA",
+   "ANSWER": "11:50 AM, 2:15 PM, 4:40 PM, 7:10 PM, 9:40 PM"
+  }
+ },
+ "59debf0ec1": {
+  "instruction": {
+   "date": "2/10/17",
+   "movie": "A Cure for Wellness",
+   "location": "Portsmouth, NH"
+  }
+ },
+ "62613aa81b": {
+  "instruction": {
+   "movie": "The Great Wall",
+   "date": "2/19/2017",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:00 PM"
+  }
+ },
+ "c3d47c28e2": {
+  "instruction": {
+   "movie": " A Cure for Wellness",
+   "date": "2/19/2017",
+   "location": "Westbrook ME",
+   "ANSWER": "9:20 PM"
+  }
+ },
+ "0aa0a4242f": {
+  "instruction": {
+   "movie": "Fifty Shades Darker",
+   "date": "2/20/2017",
+   "location": "Saco, ME",
+   "ANSWER": "11:50 AM, 2:25 PM, 5:00 PM, 7:30 PM, 10:00 PM"
+  }
+ },
+ "384b05abd7": {
+  "instruction": {
+   "date": "2/20/2017",
+   "movie": "A Cure for Wellness",
+   "location": "Salisbury, MA",
+   "ANSWER": "1:00 PM, 4:00 PM, 8:00 PM"
+  }
+ },
+ "2a67f74e21": {
+  "instruction": {
+   "location": "Westbrook, ME",
+   "date": "2/10/17",
+   "movie": "fifty shades darker"
+  }
+ },
+ "933f0dd9d3": {
+  "instruction": {
+   "movie": "John Wick: Chapter 2 (R)",
+   "date": "2/10/2017",
+   "location": "Sturbridge, MA",
+   "ANSWER": "In Sturbridge, MA what times does John Wick: Chapter 2 (R) play on 2/10/17"
+  }
+ },
+ "ca6dedfd53": {
+  "instruction": {
+   "date": "2/21/17",
+   "movie": "Lion",
+   "location": "Saco, ME",
+   "ANSWER": "12:15 PM"
+  }
+ },
+ "cc136cd7d3": {
+  "instruction": {
+   "date": "02/23/2017",
+   "movie": "John Wick 2",
+   "location": "Merrimack NH",
+   "ANSWER": "3:00pm"
+  }
+ },
+ "59e1b1f0bd": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "Jolly LLB 2",
+   "location": "Merrimack NH",
+   "ANSWER": "9:15 PM"
+  }
+ },
+ "ebe77d4da3": {
+  "instruction": {
+   "movie": "A Cure for Wellness",
+   "date": "2/23/17",
+   "location": "Hooksett, NH",
+   "ANSWER": "12:00 PM, 4:00 PM, 8:00 PM"
+  }
+ },
+ "e2f047651c": {
+  "instruction": {
+   "movie": "A Dog's Purpose",
+   "date": "2/20/17",
+   "location": "Hooksett, NH",
+   "ANSWER": "12:10pm, 2:30pm, 4:50pm, 7:10pm, 9:30pm"
+  }
+ },
+ "f804ab8fdf": {
+  "instruction": {
+   "date": "2/20/17",
+   "movie": "Fist Fight",
+   "location": "Westbrook, ME",
+   "ANSWER": "2:30 PM"
+  }
+ },
+ "7edd03eeb1": {
+  "instruction": {
+   "movie": "A dog's Purpose",
+   "date": "02/22/2017",
+   "location": "Westbrook ME",
+   "ANSWER": "2:20pm"
+  }
+ },
+ "11f68efafd": {
+  "instruction": {
+   "movie": "Split",
+   "date": "2/20/17",
+   "location": "Westbrook, ME",
+   "ANSWER": "3:40 PM"
+  }
+ },
+ "217e90b95f": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "A Cure for Wellness",
+   "location": "Salisbury, MA",
+   "ANSWER": "1:00 PM"
+  }
+ },
+ "a37d150ae8": {
+  "instruction": {
+   "movie": "Hidden Figures",
+   "date": "2/23/17",
+   "location": "Saco, ME",
+   "ANSWER": "12:30 PM, 3:30 PM, 6:50 PM, 9:30 PM"
+  }
+ },
+ "45e8f46fda": {
+  "instruction": {
+   "movie": "John Wick: Chapter 2",
+   "date": "2/19/2017",
+   "location": "Salisbury, MA",
+   "ANSWER": "7:00 PM"
+  }
+ },
+ "3ca9eeb86b": {
+  "instruction": {
+   "movie": "John Wick: Chapter 2",
+   "date": "2/19/2017",
+   "location": "Merrimack NH",
+   "ANSWER": "7:00 PM"
+  }
+ },
+ "8461ccfc9e": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "John Wick: Chapter 2",
+   "location": "Salisbury, MA",
+   "ANSWER": "7:00 PM"
+  }
+ },
+ "2c25acfa36": {
+  "instruction": {
+   "date": "2/19/2017",
+   "movie": "Fist Fight",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:30 PM"
+  }
+ },
+ "b30bf2cd2a": {
+  "instruction": {
+   "location": "Portsmouth, NH",
+   "date": "2/10/17",
+   "movie": "A Cure for Wellness"
+  }
+ },
+ "8935015dd3": {
+  "instruction": {
+   "movie": "Fist Fight",
+   "date": "2/20/2017",
+   "location": "Sturbridge, MA",
+   "ANSWER": "12:00 PM, 2:10 PM, 4:20 PM, 7:00 PM, 9:50 PM"
+  }
+ },
+ "47e5c612bf": {
+  "instruction": {
+   "movie": "Fifty Shades Darker",
+   "date": "2/20/17",
+   "location": "Saco, ME",
+   "ANSWER": "11:50 AM, 2:25 PM, 5:00 PM, 7:30 PM, 10:00 PM"
+  }
+ },
+ "f7fe5a42e5": {
+  "instruction": {
+   "movie": "Logan",
+   "date": "3/7/17",
+   "location": "Salisbury, MA",
+   "ANSWER": "12:00 PM"
+  }
+ },
+ "9b762d365d": {
+  "instruction": {
+   "movie": "Fist Fight (R)",
+   "date": "2/17/2017",
+   "location": "Merrimack, NH",
+   "ANSWER": "In Merrimack, NH what times does Fist Fight (R) play on 2/17/17"
+  }
+ }
+}

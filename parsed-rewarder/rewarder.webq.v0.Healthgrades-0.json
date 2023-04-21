@@ -1,0 +1,62 @@
+{
+ "88e67dc1f7": {
+  "instruction": {
+   "time of day": "early evening",
+   "specialty": "Cardiologist"
+  }
+ },
+ "8e0a8c1b36": {
+  "instruction": {
+   "time of day": "early morning",
+   "specialty": "Dermatologist"
+  }
+ },
+ "04666ee1dc": {
+  "instruction": {
+   "time of day": "noonish",
+   "specialty": "Internist"
+  }
+ },
+ "e064598dd8": {
+  "instruction": {
+   "time of day": "Afternoon",
+   "specialty": "Nephrologist"
+  }
+ },
+ "327edd8c89": {
+  "instruction": {
+   "time of day": "later in the day",
+   "specialty": "OBGYN"
+  }
+ },
+ "b77d7ddd3a": {
+  "instruction": {
+   "time of day": "evening",
+   "specialty": "Rheumatologist"
+  }
+ },
+ "0426631153": {
+  "instruction": {
+   "time of day": "Late afternoon",
+   "specialty": "Neurologist"
+  }
+ },
+ "37edf467b7": {
+  "instruction": {
+   "time of day": "weekend",
+   "specialty": "Oncologist "
+  }
+ },
+ "72db24de53": {
+  "instruction": {
+   "time of day": "very early",
+   "specialty": "Pediatrician"
+  }
+ },
+ "7d320e7e70": {
+  "instruction": {
+   "time of day": "lunch time",
+   "specialty": "Nurse Practitioner"
+  }
+ }
+}

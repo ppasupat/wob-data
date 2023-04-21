@@ -1,0 +1,1482 @@
+{
+ "adf3a85295": {
+  "instruction": {
+   "destination": "Miami, FL",
+   "location": "Milton, DE",
+   "ANSWER": "via US-13 S to I-95 S 17hr 38min 1,123mi "
+  }
+ },
+ "f87034f236": {
+  "instruction": {
+   "destination": "Dallas, TX",
+   "location": "Denver, CO",
+   "ANSWER": "12hr 20min"
+  }
+ },
+ "47e3b4efdf": {
+  "instruction": {
+   "destination": "Denver, CO",
+   "location": "Sacramento, CA"
+  }
+ },
+ "c2c9ee885a": {
+  "instruction": {
+   "destination": "Hollywood, CA",
+   "location": "Las Vegas, NV",
+   "ANSWER": "via I-15 N 4hr 17min 276mi "
+  }
+ },
+ "835d39bdc8": {
+  "instruction": {
+   "destination": "Portland, OR",
+   "location": "Seattle, WA",
+   "ANSWER": "2 hours 45 minutes"
+  }
+ },
+ "7fe4ea73f9": {
+  "instruction": {
+   "destination": "Miami, FL",
+   "location": "San Francisco, CA"
+  }
+ },
+ "6846a59e0b": {
+  "instruction": {
+   "destination": "Atlanta, GA",
+   "location": "Nashville, TN",
+   "ANSWER": "3hr 53min"
+  }
+ },
+ "775343998b": {
+  "instruction": {
+   "destination": "Trenton, NJ",
+   "location": "Concord, NH"
+  }
+ },
+ "589b99a698": {
+  "instruction": {
+   "destination": "Omaha, NE",
+   "location": "Darby, MT",
+   "ANSWER": "via I-90 E to I-29 S 16hr 38min 1,200mi "
+  }
+ },
+ "9a3eb35a8d": {
+  "instruction": {
+   "destination": "Phoenixville, PA",
+   "location": "Philadelphia, PA",
+   "ANSWER": "37min "
+  }
+ },
+ "3fa384c32f": {
+  "instruction": {
+   "destination": "Atlanta, GA",
+   "location": "Orlando, FL",
+   "ANSWER": "6 hr 28 min"
+  }
+ },
+ "be47a37e43": {
+  "instruction": {
+   "destination": "Atlanta, GA",
+   "location": "Jacksonville, FL",
+   "ANSWER": "Route #1 via I-10 W to I-75 N 5hr 7min 345mi"
+  }
+ },
+ "6a2dd09c58": {
+  "instruction": {
+   "destination": "Berne, NC",
+   "location": "Boston, MA"
+  }
+ },
+ "67e0670b92": {
+  "instruction": {
+   "location": "Buffalo, NY",
+   "destination": "Dearborn, MI"
+  }
+ },
+ "5c57db5ae3": {
+  "instruction": {
+   "destination": "Reno, NV",
+   "location": "Los Angeles, CA"
+  }
+ },
+ "01c81dfd08": {
+  "instruction": {
+   "destination": "Oklahoma City, OK",
+   "location": "Columbus, OH",
+   "ANSWER": "13hr 36min"
+  }
+ },
+ "ee7bc97aa5": {
+  "instruction": {
+   "destination": "Boise, ID",
+   "location": "Fresno, CA",
+   "ANSWER": "Route #1 via I-80 E 11hr 18min 720mi"
+  }
+ },
+ "996ca72647": {
+  "instruction": {
+   "destination": "Indianapolis, IN ",
+   "location": "Chicago, IL",
+   "ANSWER": "via I-65 S 2hr 56min 186mi "
+  }
+ },
+ "53810b56b2": {
+  "instruction": {
+   "destination": "Denver, CO",
+   "location": "Houston, TX",
+   "ANSWER": "1033"
+  }
+ },
+ "095b27956a": {
+  "instruction": {
+   "destination": "Jacksonville, FL",
+   "location": "New York, NY",
+   "ANSWER": "via I-495 W to I-95 S 14hr 24min 944mi "
+  }
+ },
+ "87824ff0ad": {
+  "instruction": {
+   "destination": "Austin, TX",
+   "location": "Colorado Springs, CO"
+  }
+ },
+ "feaaaa06cf": {
+  "instruction": {
+   "destination": "Charlotte, NC",
+   "location": "Columbus, OH",
+   "ANSWER": "6hr 50min"
+  }
+ },
+ "9add0027d8": {
+  "instruction": {
+   "destination": "Bentonville, AR",
+   "location": "Page, AZ",
+   "ANSWER": "via I-40 E to US-412 E 17hr 28min 1,217mi "
+  }
+ },
+ "71e58674be": {
+  "instruction": {
+   "destination": "San Diego, CA",
+   "location": "Dallas, TX"
+  }
+ },
+ "ca587f3b4b": {
+  "instruction": {
+   "destination": "Austin, KY",
+   "location": "San Antonio, TX",
+   "ANSWER": "15hr 2min "
+  }
+ },
+ "4b4c3542bf": {
+  "instruction": {
+   "destination": "Los Angeles, CA",
+   "location": "San Jose, CA",
+   "ANSWER": "via I-5 S 5hr 17min 340mi "
+  }
+ },
+ "1fd3d39a85": {
+  "instruction": {
+   "destination": "Detroit, MI",
+   "location": "Pittsburgh, PA",
+   "ANSWER": "4hr 20min"
+  }
+ },
+ "a62cf03179": {
+  "instruction": {
+   "destination": "Dallas, TX",
+   "location": "New York, NY",
+   "ANSWER": "via I-81 S 23hr 10min 1,548mi "
+  }
+ },
+ "8d6b809433": {
+  "instruction": {
+   "destination": "Palos Verdes Estates, CA",
+   "location": "Terra Bella, CA",
+   "ANSWER": "Start out going south on Road 236 toward Avenue 95. Then 0.00 miles Take the 1st right onto Avenue 95. If you reach Magnolia Ave you've gone a little too far  Then 0.52 miles Take the 3rd left onto State Highway 65/CA-65. Continue to follow CA-65. CA-65 is 0.1 miles past Eucalyptus St  If you reach Road 232 you've gone a little too far  Then 36.37 miles Merge onto CA-99 S. Then 31.05 miles CA-99 S becomes I-5 S/Golden State Fwy S. Then 61.93 miles Merge onto I-405 S/San Diego Fwy S via EXIT 158 toward Santa Monica. Then 29.34 miles Take the Rosecrans Ave W exit, EXIT 43B, toward Manhattan Beach. Then 0.26 miles Turn right onto W Rosecrans Ave. Then 0.45 miles Turn left onto S Aviation Blvd. S Aviation Blvd is 0.2 miles past Isis Ave  If you are on Rosecrans Ave and reach Continental Cir you've gone about 0.1 miles too far  Then 3.06 miles Turn left onto Pacific Coast Hwy/CA-1. Pacific Coast Hwy is just past Aubrey Park Ct  If you are on 10th St and reach Ardmore Ave you've gone about 0.1 miles too far  Then 3.13 miles Turn right onto Palos Verdes Blvd. Palos Verdes Blvd is just past Vista del Mar  If you reach Camino de Las Colinas you've gone a little too far  Then 1.43 miles Turn slight right onto Palos Verdes Dr W. Palos Verdes Dr W is 0.2 miles past Via Rosa  Then 0.14 miles Take the 3rd left onto Via Corta. Via Corta is just past Malaga Cove Plaza  If you reach Via del Puente you've gone a little too far Palos Verdes Estates, Los Angeles County, CA, US, 332 VIA CORTA is on the left."
+  }
+ },
+ "39c1f33a00": {
+  "instruction": {
+   "destination": "Cleveland, OH",
+   "location": "Ann Arbor, MI",
+   "ANSWER": "2 hours 45 minutes"
+  }
+ },
+ "9b463ee4b5": {
+  "instruction": {
+   "destination": "Houston, Texas",
+   "location": "Little Rock, Arkansas",
+   "ANSWER": "439"
+  }
+ },
+ "f476bfd8de": {
+  "instruction": {
+   "destination": "Huntsville, AL",
+   "location": "Savannah, GA",
+   "ANSWER": "7 hours, 8 minutes"
+  }
+ },
+ "a4449842a3": {
+  "instruction": {
+   "destination": "San Francisco, CA",
+   "location": "Los Angeles, CA",
+   "ANSWER": "via I-5 N to I-580 W 5hr 55min 382mi  Est. fuel cost: $38.50 "
+  }
+ },
+ "fef1740fe7": {
+  "instruction": {
+   "destination": "Santa Fe, NM",
+   "location": "Daytona Beach, FL"
+  }
+ },
+ "591fd2ad37": {
+  "instruction": {
+   "location": "Kansas City, MO",
+   "destination": "Detroit, MI"
+  }
+ },
+ "862d996b52": {
+  "instruction": {
+   "destination": "Lexington, KY",
+   "location": "Louisville, KY"
+  }
+ },
+ "35e8cd7aac": {
+  "instruction": {
+   "destination": "Jackson County, IN",
+   "location": "Indianapolis, IN",
+   "ANSWER": "1hr 17min "
+  }
+ },
+ "c8fd54c29c": {
+  "instruction": {
+   "destination": "Trenton, NJ",
+   "location": "Baltimore, MD",
+   "ANSWER": "2 hr 26 min"
+  }
+ },
+ "ad8b99d9ee": {
+  "instruction": {
+   "destination": "San Francisco, CA",
+   "location": "New Orleans, LA",
+   "ANSWER": "32hr 32min"
+  }
+ },
+ "90e802ba3a": {
+  "instruction": {
+   "destination": "Lincoln, NE",
+   "location": "Atlanta, GA",
+   "ANSWER": "15 hours 6 minutes"
+  }
+ },
+ "d0de96fdcf": {
+  "instruction": {
+   "destination": "Indianapolis, IN",
+   "location": "St. John, IN",
+   "ANSWER": "2 hr 24 min"
+  }
+ },
+ "edd4190eb7": {
+  "instruction": {
+   "destination": "New Orleans, LA",
+   "location": "Cincinnati, OH",
+   "ANSWER": "11hr 54min"
+  }
+ },
+ "cecc23c377": {
+  "instruction": {
+   "destination": "New Orleans, LA",
+   "location": "Chicago, IL",
+   "ANSWER": "13hr 42min"
+  }
+ },
+ "8901dbc995": {
+  "instruction": {
+   "destination": "Oklahoma City, OK",
+   "location": "Charlotte, NC",
+   "ANSWER": "16 hours 36 minutes"
+  }
+ },
+ "bfca9c7a72": {
+  "instruction": {
+   "destination": "Cincinnati, OH",
+   "location": "Seattle, WA"
+  }
+ },
+ "a5346c4868": {
+  "instruction": {
+   "destination": "New Orleans, LA",
+   "location": "Austin, TX",
+   "ANSWER": "8 hours 2 minutes"
+  }
+ },
+ "0acf514242": {
+  "instruction": {
+   "destination": "Pierre, SD",
+   "location": "Red Wing, MN"
+  }
+ },
+ "37538b3dc4": {
+  "instruction": {
+   "destination": "Denver, CO",
+   "location": "Cincinnati, OH"
+  }
+ },
+ "080ed89780": {
+  "instruction": {
+   "destination": "Sacramento, CA",
+   "location": "Los Angeles, CA",
+   "ANSWER": "Start out going northwest on E 1st St toward N Main St. Then 0.16 miles Turn right onto N Broadway. N Broadway is just past N Spring St  If you reach N Hill St you've gone a little too far  Then 0.37 miles Merge onto US-101 N toward Hollywood/Pasadena/Harbor Fwys. If you reach W Cesar E Chavez Ave you've gone a little too far  Then 10.29 miles Keep left to take CA-170 N/Hollywood Fwy N via EXIT 13 toward Sacramento. Then 6.84 miles CA-170 N/Hollywood Fwy N becomes I-5 N/Golden State Fwy N. Then 66.73 miles Keep right to take I-5 N toward San Francisco/Sacramento. Then 225.67 miles Keep right to take I-5 N toward Stockton/Sacramento. Then 72.98 miles Take the J Street exit, EXIT 519B, toward Downtown. Then 0.24 miles Turn slight right onto J St. Then 0.15 miles Turn right onto 5th St. 5th St is just past 4th St  If you reach David J. Stern Walk you've gone a little too far   Sacramento, Sacramento County, CA, US, 1000 5TH ST is on the right. If you reach L St you've gone about 0.1 miles too far"
+  }
+ },
+ "d972860b25": {
+  "instruction": {
+   "destination": "Juneau, AK",
+   "location": "Anchorage, AK",
+   "ANSWER": "Start out going east on W 6th Ave toward I St. Then 1.38 miles W 6th Ave becomes AK-1 N. Then 34.13 miles Merge onto AK-1 E toward Palmer. Then 160.94 miles Turn right onto AK-1/Glenn Highway Tok Cutoff. AK-1 is just past Rest Area Rd  If you are on AK-4 and reach Gulkana River Ranch Rd you've gone about 0.3 miles too far  Then 122.46 miles Turn right onto AK-2/Alaska Hwy. Continue to follow Alaska Hwy (Crossing into Yukon, Canada). Alaska Hwy is 0.1 miles past Wchena Way  If you are on Center St and reach W Slana Ave you've gone a little too far  Then 107.79 miles Stay straight to go onto YT-1/Alaska Hwy. Then 183.36 miles Turn left onto YT-1/Alaska Hwy. Continue to follow YT-1. YT-1 is just past Lucania St  If you are on Hume St and reach Backe St you've gone a little too far  Then 107.52 miles Turn right onto Klondike Hwy/YT-2. Continue to follow YT-2 (Crossing into British Columbia). YT-2 is 0.6 miles past Salmon Trail  If you reach Empress Rd you've gone about 0.6 miles too far  Then 48.25 miles YT-2 becomes S Klondike Hwy (Crossing into Alaska, United States). Then 47.83 miles S Klondike Hwy becomes AK-98. Then 0.98 miles Stay straight to go onto State St. Then 0.29 miles Turn left onto 1st Ave. 1st Ave is just past 2nd Ave SE  If you reach Main St you've gone about 0.1 miles too far  Then 0.07 miles Turn right onto AK-98/Broadway St. Then 0.33 miles Take the Haines - Skagway Ferry (Check schedule/fares). Then 14.61 miles Take the Juneau - Haines Ferry (Check schedule/fares). If you are on Alaska Marine Highway-Skagway and reach Lutak Rd you've gone a little too far  Then 75.56 miles Go north on Auke Bay Ferry Dock 2. Then 0.03 miles Auke Bay Ferry Dock 2 becomes Ferry Terminal Rd. Then 0.04 miles Turn right onto Glacier Hwy/AK-7. Then 1.62 miles Enter next roundabout and take the 1st exit onto AK-7. Then 10.86 miles Turn left onto W 10th St. If you reach W 9th St you've gone a little too far  Then 0.01 miles  Juneau, City and Borough of Juneau, AK, US, EGAN DR. If you reach F St you've gone a little too far"
+  }
+ },
+ "674d6733ec": {
+  "instruction": {
+   "destination": "Boulder, CO",
+   "location": "S Louis, MO",
+   "ANSWER": "872 miles"
+  }
+ },
+ "cd72d0e170": {
+  "instruction": {
+   "destination": "Montgomery County, VA",
+   "location": "Roads End, CA",
+   "ANSWER": "Start out going south on Kern River Hwy toward Bryn Cyn. Then 11.50 miles Kern River Hwy becomes Sierra Way. Then 3.30 miles Stay straight to go onto Sierra Way/County Hwy-521. Continue to follow County Hwy-521. Then 13.12 miles Turn left onto Highway 178/CA-178. Continue to follow CA-178. Then 32.27 miles Turn left onto CA-178/CA-14/State Highway 14. Then 2.77 miles Turn slight right onto CA-178/W Inyokern Rd. Then 4.77 miles Merge onto US-395 S. If you are on CA-178 and reach Cloct Rd you've gone about 0.2 miles too far  Then 50.92 miles Turn left onto E State Highway 58/CA-58. Continue to follow CA-58. CA-58 is 0.4 miles past Salton Rd  If you reach Edwards Air Force Sta you've gone about 0.3 miles too far  Then 29.27 miles Merge onto I-15 N/Barstow Fwy N toward I-40 E/Las Vegas. Then 4.55 miles Keep right to take I-40 E via EXIT 184A toward Needles (Passing through Arizona, New Mexico and Texas, then crossing into Oklahoma). Then 1217.05 miles Keep left to take I-40 E toward Ft Smith (Crossing into Arkansas). Then 332.56 miles Keep right to take I-40 E toward Memphis. Then 125.11 miles Keep left to take I-40 E toward Memphis/Nashville (Crossing into Tennessee). Then 218.13 miles Keep left to take I-40 E toward I-24 E/Knoxville/Chattanooga. Then 3.07 miles Keep left to take I-40 E toward Knoxville. Then 171.88 miles Keep left to take I-40 E toward Knoxville. Then 36.58 miles Merge onto I-81 N via EXIT 421 on the left toward Bristol (Crossing into Virginia). Then 189.77 miles Take the VA-8 exit, EXIT 114, toward Christiansburg/Floyd. Then 0.13 miles Turn left onto VA-8/W Main St. Continue to follow W Main St. Then 2.16 miles Turn right onto Depot St NE/VA-111 Bus. Then 0.00 miles  Montgomery County, VA, US, 800 DEPOT ST NE is on the left. If you reach S Grant St you've gone a little too far"
+  }
+ },
+ "27a9fa4d87": {
+  "instruction": {
+   "destination": "Jackson, Mississippi",
+   "location": "New Orleans, LA",
+   "ANSWER": "186"
+  }
+ },
+ "caa78a058a": {
+  "instruction": {
+   "destination": "Stillwater, OK",
+   "location": "McKinney, TX",
+   "ANSWER": "3 hr 53 min"
+  }
+ },
+ "62faef11ec": {
+  "instruction": {
+   "destination": "Houston, TX",
+   "location": "Dallas, TX",
+   "ANSWER": "3hr 30min"
+  }
+ },
+ "1b8982f69a": {
+  "instruction": {
+   "destination": "Archdale, NC",
+   "location": "Babylon, NY",
+   "ANSWER": "Start out going north on N Carll Ave toward W Main St/NY-27A. Take the 1st right onto W Main St/NY-27A. If you are on S Carll Ave and reach Prospect St you've gone a little too far  Then 0.47 miles Turn right onto Little East Neck Rd/NY-109. Continue to follow NY-109. NY-109 is just past Peninsula Dr  If you reach Tappan Ave you've gone about 0.1 miles too far  Then 4.48 miles Take the ramp toward New York. Then 0.18 miles Merge onto Southern State Pkwy W. Then 17.93 miles Keep left to take Laurelton Pkwy W toward JFK/Belt Pkwy W/Brooklyn. Then 2.52 miles Stay straight to go onto Southern State Pkwy W/Belt Pkwy W. Continue to follow Belt Pkwy W. Then 18.72 miles Merge onto I-278 W via EXIT 3 toward Verrazano Br/Staten Island (Portions toll). Then 8.74 miles Keep left to take I-278 W toward Goethals Br (Crossing into New Jersey). Then 2.48 miles Take the New Jersey Tpke/I-95 N exit on the left. Then 0.62 miles Keep right to take the I-95 S/Turnpike S ramp. Then 0.14 miles Keep left at the fork in the ramp. Then 0.43 miles Merge onto New Jersey Tpke S (Portions toll). Then 96.11 miles Keep right to take New Jersey Tpke S toward CASH (Portions toll) (Crossing into Delaware). Then 3.69 miles New Jersey Tpke S becomes I-295 S (Portions toll). Then 5.13 miles Merge onto I-95 S toward Del Tpke/Baltimore (Portions toll) (Crossing into Maryland). Then 59.65 miles Keep left to take I-95 S toward Baltimore (Portions toll). Then 33.49 miles Merge onto I-495 W/Capital Beltway W via EXIT 27 toward Silver Spring (Crossing into Virginia). Then 30.03 miles Take the exit toward I-95 S/I-495 E/Baltimore. Then 0.42 miles Keep left at the fork in the ramp. Then 0.41 miles Merge onto I-95 S via the ramp on the left toward I-95 S/Richmond. Then 118.37 miles Merge onto I-85 S via EXIT 51 toward Durham/Atlanta (Crossing into North Carolina). Then 192.30 miles Take the S Main St exit, EXIT 111, toward Archdale/High Point Downtown. Then 0.24 miles Keep right to take the ramp toward Archdale/High Point/High Point University. Then 0.04 miles Merge onto N Main St. Then 0.79 miles  Archdale, Randolph County, NC, US, 10799 N MAIN ST is on the left. Your destination is just past Frazier St  If you reach Julian Ave you've gone a little too far"
+  }
+ },
+ "8e81f9e744": {
+  "instruction": {
+   "destination": "Memphis, TN",
+   "location": "Lincoln, Nebraska",
+   "ANSWER": "648"
+  }
+ },
+ "7b5499cf99": {
+  "instruction": {
+   "destination": "Charlotte, NC",
+   "location": "Morgantown, WV",
+   "ANSWER": "5 hours, 55 minutes"
+  }
+ },
+ "2a788388d0": {
+  "instruction": {
+   "destination": "Austin, TX",
+   "location": "Atlanta, GA",
+   "ANSWER": "14 hours 6 minutes"
+  }
+ },
+ "2055c25707": {
+  "instruction": {
+   "destination": "Detroit, MI",
+   "location": "Washington, DC",
+   "ANSWER": "524 miles"
+  }
+ },
+ "caf57329bc": {
+  "instruction": {
+   "location": "Lexington, Ky",
+   "destination": "Cincinnati, OH"
+  }
+ },
+ "a60f7a4f23": {
+  "instruction": {
+   "location": "Dallas, TX",
+   "destination": "Fort Worth, TX"
+  }
+ },
+ "960a83c442": {
+  "instruction": {
+   "destination": "Redding, CA",
+   "location": "Jacksonville, FL",
+   "ANSWER": "42 hours 4 minutes"
+  }
+ },
+ "467a9a6d0a": {
+  "instruction": {
+   "destination": "Denver, CO",
+   "location": "New Haven, CT",
+   "ANSWER": "via I-80 W 27hr 12min 1,859mi "
+  }
+ },
+ "b63b4c48f8": {
+  "instruction": {
+   "destination": "Toledo, OH",
+   "location": "New Palestine, IN"
+  }
+ },
+ "ad90116d0e": {
+  "instruction": {
+   "destination": "San Francisco, CA",
+   "location": "New York, NY",
+   "ANSWER": "41hr 40min"
+  }
+ },
+ "d4a3a8178f": {
+  "instruction": {
+   "destination": "Pittsburgh, PA",
+   "location": "Washington, DC"
+  }
+ },
+ "9f9c754b84": {
+  "instruction": {
+   "destination": "Miami, FL",
+   "location": "Orlando, FL",
+   "ANSWER": "Route #1 via FL-91 S 3hr 34min 234mi "
+  }
+ },
+ "61c3a5b0f6": {
+  "instruction": {
+   "destination": "Montreal, QC, CA",
+   "location": "Detroit, MI",
+   "ANSWER": "Via ON-401 E 9hr 31min 561mi "
+  }
+ },
+ "5f454c2925": {
+  "instruction": {
+   "destination": "Honey Brook, PA",
+   "location": "Williamsburg, VA",
+   "ANSWER": "Start out going south on Armistead Ave toward Lafayette St/VA-162. Take the 1st left onto Lafayette St/VA-162. If you reach Harriett Tubman Dr you've gone a little too far  Then 0.16 miles Take the 2nd left onto N Henry St/VA-132. Continue to follow VA-132. VA-132 is just past N Boundary St  If you are on Lafayette St and reach N England St you've gone about 0.3 miles too far  Then 1.87 miles Turn left onto VA-143/Capitol Landing Rd. Then 0.51 miles Merge onto I-64 W. Then 37.22 miles Merge onto I-295 N via EXIT 200 toward Washington. Then 13.76 miles Merge onto I-95 N via EXIT 43A on the left toward Washington. Then 85.64 miles Keep right toward Washington/Tysons Corner Center. Then 0.66 miles Keep left to take I-395 N via EXIT 170A toward Washington (Crossing into District of Columbia). Then 11.71 miles Stay straight to go onto I-695 S/Southwest Fwy N. Continue to follow I-695 S. Then 1.94 miles Merge onto DC-295 N via EXIT 2B toward US-50 (Crossing into Maryland). Then 4.47 miles DC-295 N becomes MD-295 N. Then 27.80 miles Take the I-895 N/Baltimore Harbor Tunnel Thruway exit. Then 0.26 miles Merge onto I-895 N/Harbor Tunnel Trwy E (Portions toll). Then 10.47 miles Stay straight to go onto I-95 N/John F Kennedy Memorial Hwy N (Portions toll). Then 31.96 miles Take EXIT 93 toward MD-222/Perryville/Port Deposit. Then 0.38 miles Turn right onto MD-222/Perrylawn Dr. Continue to follow Perrylawn Dr. Then 2.79 miles Turn right onto Jacob Tome Memorial Hwy/MD-276. Then 5.09 miles Enter next roundabout and take the 2nd exit onto MD-276. Then 0.48 miles Take US-1 N (Crossing into Pennsylvania). Then 10.28 miles Take the PA-10 exit toward Cochranville/Oxford. Then 0.23 miles Turn right onto Limestone Rd/PA-10. Continue to follow PA-10. Then 17.09 miles Turn right onto Compass Rd/PA-10. Continue to follow PA-10. PA-10 is 0.1 miles past W Kings Hwy  If you are on Old Philadelphia Pike and reach Cains Rd you've gone about 0.6 miles too far  Then 5.82 miles Turn right onto Horseshoe Pike/US-322 E/PA-10. Horseshoe Pike is just past Firehouse Ln  Lucky Wok is on the corner  If you are on Conestoga Ave and reach Water St you've gone about 0.2 miles too far  Then 0.01 miles  Honey Brook, Chester County, PA, US, 4696 HORSESHOE PIKE is on the right. If you reach Railroad St you've gone a little too far"
+  }
+ },
+ "499240f4c4": {
+  "instruction": {
+   "destination": "South Bend, IN",
+   "location": "Oklahoma City, OK",
+   "ANSWER": "Route #1 via I-44 E to US-31 Bus S 12hr 55min 862mi"
+  }
+ },
+ "1fad4d019d": {
+  "instruction": {
+   "destination": "Boise, ID",
+   "location": "Denver, CO",
+   "ANSWER": "11hr 14min "
+  }
+ },
+ "e97278479d": {
+  "instruction": {
+   "destination": "Detroit, MI",
+   "location": "Houston, TX"
+  }
+ },
+ "a589436581": {
+  "instruction": {
+   "destination": "Fort Worth, TX",
+   "location": "Dallas, TX"
+  }
+ },
+ "287a4483d2": {
+  "instruction": {
+   "destination": "Chicago, IL",
+   "location": "Dallas, TX",
+   "ANSWER": "14hr 9min"
+  }
+ },
+ "04c7341bef": {
+  "instruction": {
+   "destination": "Dearborn, MI",
+   "location": "Buffalo, NY"
+  }
+ },
+ "7a411810be": {
+  "instruction": {
+   "destination": "San Francisco, CA",
+   "location": "Las Vegas, NV"
+  }
+ },
+ "111ade0335": {
+  "instruction": {
+   "destination": "Dover, DE",
+   "location": "Albany, NY",
+   "ANSWER": "Route #1 via New Jersey Tpke S 5hr 302mi"
+  }
+ },
+ "d9ab1de7ae": {
+  "instruction": {
+   "destination": "Council Bluffs, Iowa",
+   "location": "Lafayette, LA",
+   "ANSWER": "926"
+  }
+ },
+ "39ec9a0737": {
+  "instruction": {
+   "destination": "Seattle, WA",
+   "location": "Salem, OR",
+   "ANSWER": "3hr 36min"
+  }
+ },
+ "a9d6234a10": {
+  "instruction": {
+   "destination": "Silver Spring, MD",
+   "location": "Destin, FL"
+  }
+ },
+ "1c6beca10d": {
+  "instruction": {
+   "destination": "Minneapolis, MN",
+   "location": "Tacoma, WA",
+   "ANSWER": "23hr 4min"
+  }
+ },
+ "517a1fd1bf": {
+  "instruction": {
+   "destination": "Charlotte, NC",
+   "location": "San Francisco, CA",
+   "ANSWER": "39hr 40min "
+  }
+ },
+ "ae299fdb03": {
+  "instruction": {
+   "destination": "Boston, MA",
+   "location": "Chicago, IL",
+   "ANSWER": "via I-90 E to I-80 E 15hr 25min "
+  }
+ },
+ "d74ed8987a": {
+  "instruction": {
+   "destination": "Denton, TX",
+   "location": "Springfield, MO",
+   "ANSWER": "Route #1 via US-69 S 6hr 32min 408mi"
+  }
+ },
+ "27d22bc545": {
+  "instruction": {
+   "destination": "New Orlean",
+   "location": "Houston Zoo",
+   "ANSWER": "via I-10 W"
+  }
+ },
+ "80234b2482": {
+  "instruction": {
+   "destination": "Columbus, OH",
+   "location": "Detroit, MI",
+   "ANSWER": "207 miles"
+  }
+ },
+ "3177aa2847": {
+  "instruction": {
+   "destination": "Fort Wayne, IN",
+   "location": "Tulsa, OK"
+  }
+ },
+ "73cbe93924": {
+  "instruction": {
+   "destination": "San Jose, CA",
+   "location": "San Francisco, CA",
+   "ANSWER": "52 minutes "
+  }
+ },
+ "d383ece303": {
+  "instruction": {
+   "destination": "San Francisco, CA",
+   "location": "Portland, OR",
+   "ANSWER": "9hr 55min"
+  }
+ },
+ "f253c4d065": {
+  "instruction": {
+   "destination": "New Jack City",
+   "location": "San Francisco, CA",
+   "ANSWER": "via Mission St 11min 2.4mi  Est. fuel cost: $0.30 "
+  }
+ },
+ "72d4005c36": {
+  "instruction": {
+   "destination": "Phoenix, AZ",
+   "location": "San Diego, CA",
+   "ANSWER": "355 miles"
+  }
+ },
+ "0ada3be53d": {
+  "instruction": {
+   "destination": "Nashua, NH",
+   "location": "Syracuse, NY",
+   "ANSWER": "5 hours, 18 minutes"
+  }
+ },
+ "5b5e882078": {
+  "instruction": {
+   "destination": "Cincinnati, OH",
+   "location": "Santa Ana, CA",
+   "ANSWER": "31hr 5min "
+  }
+ },
+ "9c4c70dbbd": {
+  "instruction": {
+   "destination": "The  Florida Keys Visitor Center",
+   "location": "fort lauderdale",
+   "ANSWER": " via FL-821 S"
+  }
+ },
+ "d2dfdca38b": {
+  "instruction": {
+   "destination": "Cleveland, OH",
+   "location": "Detroit, MI"
+  }
+ },
+ "ecabadda19": {
+  "instruction": {
+   "destination": "Jackson, MO",
+   "location": "Memphis, TN",
+   "ANSWER": "2 hr 42 min"
+  }
+ },
+ "30b6635a1a": {
+  "instruction": {
+   "destination": "Los Angeles, CA",
+   "location": "New York, NY ",
+   "ANSWER": "40hr 22min "
+  }
+ },
+ "5b54d782f3": {
+  "instruction": {
+   "destination": "Fairbanks, AK",
+   "location": "McAllen, TX"
+  }
+ },
+ "ad6ed30ac4": {
+  "instruction": {
+   "destination": "Logansport, IN",
+   "location": "Woodbridge, VA"
+  }
+ },
+ "5cb547fc92": {
+  "instruction": {
+   "destination": "Las Vegas, NV",
+   "location": "Reno, NV",
+   "ANSWER": "Start out going north on N Virginia St/US-395 Bus N toward W 2nd St. Then 0.00 miles Take the 1st right onto E 2nd St. If you reach E Douglas Aly you've gone a little too far  Then 0.07 miles Take the 1st left onto N Center St. N Center St is just past Lincoln Aly  If you reach Lovers Ln you've gone a little too far  Then 0.52 miles Merge onto I-80 E. If you reach E 8th St you've gone a little too far  Then 34.78 miles Merge onto US-95 Alt W/NV-343/Commerce Way via EXIT 48 toward Fernley/VETERANS CEMETERY/Fallon/NAS FALLON. Then 1.25 miles Enter next roundabout and take the 3rd exit onto US-50 Alt E. Then 16.76 miles US-50 Alt E becomes Reno Hwy. Then 8.32 miles Reno Hwy becomes W Williams Ave/US-50 E. Then 1.02 miles Turn right onto S Taylor St/US-95 S. Continue to follow US-95 S. US-95 S is just past S Russell St  If you reach S Ada St you've gone a little too far  Then 70.88 miles Turn left onto Freedom Rd/US-95 Trk/NV-839. Continue to follow Freedom Rd/US-95 Trk. Freedom Rd is 0.1 miles past South C St  If you reach 10th St you've gone a little too far  Then 1.30 miles Turn left onto US-95 S/US Highway 95. Continue to follow US-95 S. Then 129.71 miles Turn slight right to stay on US-95 S. US-95 S is just past Bellevue Ave  Then 66.33 miles Turn left onto S 2nd St/US-95 S. Continue to follow US-95 S. US-95 S is just past S 1st St  If you are on W Main St and reach 3rd St you've gone a little too far  Then 116.93 miles Take the Las Vegas Blvd exit, EXIT 75A, toward Cashman Center/Fremont Street District. Then 0.24 miles Merge onto Las Vegas Blvd N/NV-604 toward Downtown LV. If you reach I-515 S you've gone about 0.3 miles too far  Then 0.33 miles Turn left onto Fremont St/NV-582. Fremont St is just past E Ogden Ave  If you are on Las Vegas Blvd S and reach E Carson Ave you've gone a little too far"
+  }
+ },
+ "5571a2aa20": {
+  "instruction": {
+   "destination": "Seattle, WA",
+   "location": "El paso TX",
+   "ANSWER": "via I-84 W"
+  }
+ },
+ "8c48efabfe": {
+  "instruction": {
+   "destination": "Green Bay, WI",
+   "location": "New York, NY"
+  }
+ },
+ "c36fc619af": {
+  "instruction": {
+   "destination": "Walt Disney World Resort",
+   "location": "New Orleans",
+   "ANSWER": "via I-10 E to FL-429 S"
+  }
+ },
+ "ae4223af08": {
+  "instruction": {
+   "destination": "Colorado Springs, CO",
+   "location": "Austin, TX",
+   "ANSWER": "867"
+  }
+ },
+ "26511f3a96": {
+  "instruction": {
+   "destination": "Syracuse Hancock International Airport (SYR)",
+   "location": "Miami FL",
+   "ANSWER": "via I-81 N"
+  }
+ },
+ "7e23b2cb2c": {
+  "instruction": {
+   "destination": "Denver, CO",
+   "location": "Memphis, TN",
+   "ANSWER": "15hr 40min"
+  }
+ },
+ "4c5f90d648": {
+  "instruction": {
+   "destination": "Miami, FL",
+   "location": "Pierre, SD"
+  }
+ },
+ "bb75fc8cb7": {
+  "instruction": {
+   "destination": "Indianapolis, IN",
+   "location": "Grand Rapids, MI"
+  }
+ },
+ "de6edf5f13": {
+  "instruction": {
+   "destination": "Seattle, WA",
+   "location": "Portland, KY",
+   "ANSWER": "33hr 16min "
+  }
+ },
+ "b81dce427f": {
+  "instruction": {
+   "destination": "New Orleans, LA",
+   "location": "Louisville, KY",
+   "ANSWER": "via I-59 S 10hr 25min 705mi"
+  }
+ },
+ "1311e67d9b": {
+  "instruction": {
+   "destination": "Tampa, FL",
+   "location": "Minneapolis, MN",
+   "ANSWER": "Start out going east on S 4th St toward 4th Ave S/MN-65. Then 0.00 miles Take the 1st right onto 4th Ave S/MN-65. If you reach 5th Ave S you've gone a little too far  Then 0.15 miles Turn left onto S 6th St. S 6th St is just past S 5th St  If you reach S 7th St you've gone a little too far  Then 0.70 miles Merge onto I-94 E/US-12 E/US-52 E. Then 8.47 miles Keep right to take I-94 E (Crossing into Wisconsin). Then 255.41 miles Keep right to take I-90 E/I-39 S toward Chicago (Portions toll) (Crossing into Illinois). Then 67.18 miles Merge onto I-39 S/US-51 S via EXIT 17 toward US-20/Bloomington. Then 2.94 miles Merge onto US-51 S toward Bloomington-Normal. Then 127.03 miles Keep left to take I-74 E via EXIT 157A toward Indianapolis/Decatur. Then 45.54 miles Merge onto I-57 S via EXIT 179A toward Memphis. Then 79.61 miles Keep left to take I-57 S toward Memphis. Then 113.08 miles Merge onto I-24 E via EXIT 44 toward Nashville (Passing through Kentucky, then crossing into Tennessee). Then 178.73 miles Keep left to take I-24 E via EXIT 86 toward I-40 E/Chattanooga/Knoxville. Then 4.82 miles Keep right to take I-24 E via EXIT 213A toward Chattanooga (Passing through Georgia, then crossing into Tennessee). Then 133.76 miles Merge onto I-85 S/I-75 S/GA-403 S/GA-401 S via EXIT 185A toward Atlanta (Crossing into Georgia). Then 113.58 miles Keep left to take I-75 S/GA-401 S toward International/Macon. Then 64.78 miles Keep right to take I-475 S/GA-408 S via EXIT 177 toward I-75 S/Valdosta. Then 15.59 miles Merge onto I-75 S via the exit on the left (Crossing into Florida). Then 299.95 miles Keep right to take I-75 S toward Tampa. Then 53.30 miles Merge onto I-275 S via EXIT 274 toward Tampa/St Petersburg. Then 15.88 miles Take EXIT 45A toward Downtown. Then 0.53 miles Keep left to take the Jefferson St ramp toward Downtown East. Then 0.22 miles Turn slight left onto N Orange Ave. Then 0.29 miles Turn slight left onto N Pierce St. N Pierce St is just past E Cass St  Then 0.25 miles Turn right onto E Kennedy Blvd/US-41 Bus N/FL-60. Continue to follow E Kennedy Blvd/FL-60. E Kennedy Blvd is just past E Madison St  If you reach E Jackson St you've gone a little too far  Then 0.28 miles  Tampa, Hillsborough County, FL, US, 199 E KENNEDY BLVD is on the left. Your destination is just past N Franklin St  If you are on FL-60 and reach N Ashley Dr you've gone a little too far"
+  }
+ },
+ "663953fd9f": {
+  "instruction": {
+   "destination": "Chicago, IL",
+   "location": "Los Angeles, CA",
+   "ANSWER": "28 hours 45 minutes"
+  }
+ },
+ "76208e7f48": {
+  "instruction": {
+   "destination": "Nashville, TN",
+   "location": "Detroit, MI",
+   "ANSWER": "537 miles "
+  }
+ },
+ "1c9409264c": {
+  "instruction": {
+   "destination": "Detroit, MI",
+   "location": "Charlotte, NC",
+   "ANSWER": "620 miles"
+  }
+ },
+ "d1b5b972c8": {
+  "instruction": {
+   "destination": "Columbus, OH",
+   "location": "Des Moines, IA"
+  }
+ },
+ "47e7031395": {
+  "instruction": {
+   "destination": "Houston, TX",
+   "location": "Washington, DC",
+   "ANSWER": "via I-59 S 21hr 20min 1,411mi  Est. fuel cost: $87.20 "
+  }
+ },
+ "daf593b19f": {
+  "instruction": {
+   "location": "Dallas, TX",
+   "destination": "San Diego, CA"
+  }
+ },
+ "ffa34d730a": {
+  "instruction": {
+   "destination": "Waldorf, MD",
+   "location": "Arlington, VA"
+  }
+ },
+ "90908974d2": {
+  "instruction": {
+   "destination": "Tulsa, OK",
+   "location": "Miami, FL",
+   "ANSWER": "21hr 21min "
+  }
+ },
+ "79673b3fc0": {
+  "instruction": {
+   "destination": "New York, NY",
+   "location": "Washington, D.C.",
+   "ANSWER": "3 hours 53 minutes "
+  }
+ },
+ "88d0cfbcd8": {
+  "instruction": {
+   "destination": "Santa Fe, NM",
+   "location": "Sedona, AZ",
+   "ANSWER": "6 hours, 4 minutes"
+  }
+ },
+ "f6cca7c5d8": {
+  "instruction": {
+   "destination": "Orlando, FL",
+   "location": "Myrtle Beach, SC"
+  }
+ },
+ "8f08dfd58d": {
+  "instruction": {
+   "destination": "Torrington, CT",
+   "location": "Miami, FL",
+   "ANSWER": "via I-95 N 21hr 20min 1,389mi "
+  }
+ },
+ "61a1af54b8": {
+  "instruction": {
+   "destination": "Los Angeles, CA",
+   "location": "New York, NY",
+   "ANSWER": "via I-80 W 40hr 21min 2,794mi  Est. fuel cost: $188.00 "
+  }
+ },
+ "3e0804802c": {
+  "instruction": {
+   "destination": "Seattle, WA",
+   "location": "Dallas, TX"
+  }
+ },
+ "8606b553b8": {
+  "instruction": {
+   "destination": "Orlando, FL",
+   "location": "S Louis, MO",
+   "ANSWER": "990 miles"
+  }
+ },
+ "68957707ef": {
+  "instruction": {
+   "destination": "Jackson, MS",
+   "location": "Manchester, MO"
+  }
+ },
+ "13f43af2ac": {
+  "instruction": {
+   "destination": "Meridian, ID",
+   "location": "Boise, ID",
+   "ANSWER": "Start out going northwest on W Idaho St toward N Capitol Blvd. Then 0.14 miles Turn left onto N 9th St. N 9th St is just past N 8th St  If you reach N 10th St you've gone a little too far  Then 0.20 miles Turn right onto W Front St/US-20 W/US-26 W. Continue to follow US-20 W/US-26 W. US-20 W is just past W Grove St  If you reach Broad St you've gone a little too far  Then 1.28 miles Stay straight to go onto I-184 W. Then 3.10 miles Merge onto I-84 W/US-30 W/Vietnam Veterans Memorial Hwy via the exit on the left toward Nampa/Ontario. Then 5.32 miles Take the ID-69 S exit, EXIT 44, toward Meridian/Kuna. Then 0.26 miles Keep right at the fork in the ramp. Then 0.07 miles Merge onto S Meridian Rd. Then 0.22 miles S Meridian Rd becomes S Main St. Meridian"
+  }
+ },
+ "86309746c4": {
+  "instruction": {
+   "destination": "Miami International airport",
+   "location": "El paso International airport",
+   "ANSWER": "via I-10 E to I-295 S"
+  }
+ },
+ "bc4df0d27c": {
+  "instruction": {
+   "destination": "Chicago, IL",
+   "location": "Boston, MA",
+   "ANSWER": "15hr 16min"
+  }
+ },
+ "f23b680a56": {
+  "instruction": {
+   "destination": "Detroit, MI",
+   "location": "Gloucester, MA",
+   "ANSWER": "via New York Trwy N to ON-401 W 12hr 13min 740mi "
+  }
+ },
+ "82e81cb73e": {
+  "instruction": {
+   "destination": "New York, NY",
+   "location": "Detroit, MI",
+   "ANSWER": "619 miles"
+  }
+ },
+ "c70bb01111": {
+  "instruction": {
+   "destination": "Pittsburgh, PA",
+   "location": "Raleigh, NC"
+  }
+ },
+ "929a2dff98": {
+  "instruction": {
+   "destination": "Rapids, NY",
+   "location": "Cleveland, OH",
+   "ANSWER": "3hr 24min "
+  }
+ },
+ "b6d4a19339": {
+  "instruction": {
+   "location": "Dayton, OH",
+   "destination": "Cincinnati, OH"
+  }
+ },
+ "21b239ad01": {
+  "instruction": {
+   "destination": "Alexandria, VA",
+   "location": "Nashville, TN"
+  }
+ },
+ "c253d173b1": {
+  "instruction": {
+   "destination": "San Francisco, CA",
+   "location": "Detroit, MI",
+   "ANSWER": "2402 miles"
+  }
+ },
+ "132f24f722": {
+  "instruction": {
+   "destination": "Skagway, AK",
+   "location": "Tuscalooa. AL",
+   "ANSWER": "via I-29 N 58hr 21min 3,629mi  "
+  }
+ },
+ "08fb4eed0c": {
+  "instruction": {
+   "destination": "Dallas, TX",
+   "location": "Nashville, TN",
+   "ANSWER": "via I-30 W 9hr 41min 664mi"
+  }
+ },
+ "55f158abbb": {
+  "instruction": {
+   "destination": "New Orleans, LA",
+   "location": "Reno, NV"
+  }
+ },
+ "7cabd3f621": {
+  "instruction": {
+   "destination": "Pittsburgh, PA",
+   "location": "Philadelphia, PA",
+   "ANSWER": "4 hr 44 min"
+  }
+ },
+ "f2a553ff7b": {
+  "instruction": {
+   "destination": "Los Angeles, CA",
+   "location": "San Diego, CA",
+   "ANSWER": "1 hour 56 minutes"
+  }
+ },
+ "0439927e4d": {
+  "instruction": {
+   "destination": "Lexington, KY",
+   "location": "Hartford, CT",
+   "ANSWER": "12 hours 48 minutes"
+  }
+ },
+ "74e3bccefd": {
+  "instruction": {
+   "destination": "Houston Zoo",
+   "location": "El paso TX",
+   "ANSWER": "via I-10 E to TX-1604"
+  }
+ },
+ "bbc9d72b8b": {
+  "instruction": {
+   "destination": "San Francisco, CA",
+   "location": "Anaheim, CA",
+   "ANSWER": "6 hr 16 min"
+  }
+ },
+ "6768107c49": {
+  "instruction": {
+   "destination": "Salt Lake City, UT",
+   "location": "Tuscon, AZ",
+   "ANSWER": "12 hours 1 minute"
+  }
+ },
+ "aabeaf8698": {
+  "instruction": {
+   "destination": "Coral Cape, FL",
+   "location": "Miami, FL",
+   "ANSWER": "2hr 33min"
+  }
+ },
+ "107b3a5fef": {
+  "instruction": {
+   "destination": "Miami, FL",
+   "location": "Denver, CO"
+  }
+ },
+ "32d4b43646": {
+  "instruction": {
+   "destination": "New York, NY",
+   "location": "Washington, DC",
+   "ANSWER": "225 miles"
+  }
+ },
+ "a9afb60b10": {
+  "instruction": {
+   "destination": "Hustisford, WI",
+   "location": "Chicago, IL",
+   "ANSWER": "2hr 23min"
+  }
+ },
+ "75a955e469": {
+  "instruction": {
+   "destination": "Tacoma, WA",
+   "location": "Milwaukee, WI",
+   "ANSWER": "2009"
+  }
+ },
+ "98b786ab44": {
+  "instruction": {
+   "destination": "Nashville, TN",
+   "location": "Champaign, IL",
+   "ANSWER": "5 hours, 34 minutes"
+  }
+ },
+ "8334f7f542": {
+  "instruction": {
+   "destination": "Nashville, TN",
+   "location": "Cleveland, OH"
+  }
+ },
+ "30620c5feb": {
+  "instruction": {
+   "destination": "Memphis, TN",
+   "location": "San Francisco, CA",
+   "ANSWER": "30hr 4min"
+  }
+ },
+ "3fcaf78d05": {
+  "instruction": {
+   "destination": "Roanoke, VA",
+   "location": "Helena, MT",
+   "ANSWER": "31 hours 26 minutes"
+  }
+ },
+ "8e5ddf646a": {
+  "instruction": {
+   "location": "Knoxville, TN",
+   "destination": "Cedar Rapids, IA"
+  }
+ },
+ "34ffea3de1": {
+  "instruction": {
+   "destination": "Tucson, AZ",
+   "location": "San Diego, CA",
+   "ANSWER": "6hr 1min"
+  }
+ },
+ "436829252e": {
+  "instruction": {
+   "destination": "Dayton, OH",
+   "location": "Raleigh, NC",
+   "ANSWER": "8hr 6min"
+  }
+ },
+ "c40832c250": {
+  "instruction": {
+   "destination": "New York, NY",
+   "location": "Portland, OR"
+  }
+ },
+ "69a0df0a8f": {
+  "instruction": {
+   "destination": "San Diego, CA",
+   "location": "Phoenix, Arizona",
+   "ANSWER": "355"
+  }
+ },
+ "0ebd40fb16": {
+  "instruction": {
+   "location": "Raleigh, NC",
+   "destination": "Pittsburgh, PA"
+  }
+ },
+ "3a71a38b84": {
+  "instruction": {
+   "destination": "Los Angeles, CA",
+   "location": "Augusta, ME"
+  }
+ },
+ "d19537cf40": {
+  "instruction": {
+   "destination": "Portland, OR",
+   "location": "Seattle, WA"
+  }
+ },
+ "ecfd5cd9f1": {
+  "instruction": {
+   "destination": "Houston, TX",
+   "location": "Coral Cape, FL",
+   "ANSWER": "16hr 22min"
+  }
+ },
+ "ce3c6a0932": {
+  "instruction": {
+   "destination": "Dallas, TX",
+   "location": "S Louis, MO",
+   "ANSWER": "630 miles"
+  }
+ },
+ "f779c71b63": {
+  "instruction": {
+   "destination": "Las Vegas, NV",
+   "location": "Los Angeles, CA",
+   "ANSWER": "4hr 8min"
+  }
+ },
+ "483401cb48": {
+  "instruction": {
+   "destination": "Sun Valley, ID",
+   "location": "Savannah, GA",
+   "ANSWER": "via I-80 W 34hr 46min 2,419mi"
+  }
+ },
+ "15db086821": {
+  "instruction": {
+   "destination": "San Diego, CA",
+   "location": "Miami, FL",
+   "ANSWER": "2657 miles"
+  }
+ },
+ "ba0f961e21": {
+  "instruction": {
+   "destination": "Las Vegas, Nevada",
+   "location": "El paso International airport",
+   "ANSWER": "via I-10 W to US-70 W"
+  }
+ },
+ "a78abf603c": {
+  "instruction": {
+   "destination": "Birmingham, AL",
+   "location": "Orlando, FL",
+   "ANSWER": "8 hours 41 minutes "
+  }
+ },
+ "3e1077a789": {
+  "instruction": {
+   "destination": "Evanston, IL",
+   "location": "Berkeley, CA",
+   "ANSWER": "30 hours, 6 minutes"
+  }
+ },
+ "de2c3e5329": {
+  "instruction": {
+   "destination": "Washington, DC",
+   "location": "S Louis, MO",
+   "ANSWER": "836 miles"
+  }
+ },
+ "2114210d5e": {
+  "instruction": {
+   "destination": "Louisville, KY",
+   "location": "Baltimore, MD",
+   "ANSWER": "9hr 9min"
+  }
+ },
+ "65e320b4ab": {
+  "instruction": {
+   "destination": "Pittsburgh, PA",
+   "location": "Aurora, CO",
+   "ANSWER": "21hr 4min "
+  }
+ },
+ "5ea5c3bb0e": {
+  "instruction": {
+   "destination": "Mianus, CT",
+   "location": "Virginia Beach, VA"
+  }
+ },
+ "6f83fa408a": {
+  "instruction": {
+   "destination": "Dallas, TX",
+   "location": "Miami, FL"
+  }
+ },
+ "1a10c0a0fa": {
+  "instruction": {
+   "destination": "Austin, TX",
+   "location": "Boise, ID"
+  }
+ },
+ "2e117e817b": {
+  "instruction": {
+   "destination": "Appleton, WI",
+   "location": "Providence, RI",
+   "ANSWER": "18 hours, 5 minutes"
+  }
+ },
+ "280b2b0b3a": {
+  "instruction": {
+   "destination": "Cincinnati, OH",
+   "location": "Lexington, Ky"
+  }
+ },
+ "fe195794d3": {
+  "instruction": {
+   "destination": "Raleigh, NC",
+   "location": "Atlanta, GA",
+   "ANSWER": "407"
+  }
+ },
+ "8baecf14f9": {
+  "instruction": {
+   "destination": "Seattle, WA",
+   "location": "S Louis, MO",
+   "ANSWER": "2145 miles"
+  }
+ },
+ "9244ebfd59": {
+  "instruction": {
+   "destination": "Bozeman, MT",
+   "location": "Seattle, WA",
+   "ANSWER": "677"
+  }
+ },
+ "bd859e9a05": {
+  "instruction": {
+   "destination": "Baltimore, MD",
+   "location": "Atlantic City, NJ",
+   "ANSWER": "2 hr 35 min"
+  }
+ },
+ "ebdbe2f3a0": {
+  "instruction": {
+   "location": "Louisville, KY",
+   "destination": "Lexington, KY"
+  }
+ },
+ "cf47d0fbcc": {
+  "instruction": {
+   "destination": "Chicago, IL",
+   "location": "Pontiac, IL",
+   "ANSWER": "1 hr 38 min"
+  }
+ },
+ "770acfde8c": {
+  "instruction": {
+   "destination": "Baltimore, MD",
+   "location": "Charleston, SC",
+   "ANSWER": "8 hours 54 minutes"
+  }
+ },
+ "36172782ec": {
+  "instruction": {
+   "destination": "New York, NY",
+   "location": "Houston, TX",
+   "ANSWER": "24hr 48min"
+  }
+ },
+ "637615599f": {
+  "instruction": {
+   "destination": "Virginia Beach City, VA",
+   "location": "Lincoln, IL",
+   "ANSWER": "via I-74 E 14hr 21min 928mi "
+  }
+ },
+ "a587888df9": {
+  "instruction": {
+   "destination": "Mobile, AL",
+   "location": "Tallahassee, FL ",
+   "ANSWER": "3 hr 40 min"
+  }
+ },
+ "dcf5b4cee6": {
+  "instruction": {
+   "destination": "New York, NY",
+   "location": "Baltimore, MD",
+   "ANSWER": "3 hours 12 minutes"
+  }
+ },
+ "5ddcdca909": {
+  "instruction": {
+   "destination": "Lubbock, TX",
+   "location": "Providence, RI",
+   "ANSWER": "30 hours 19 minutes"
+  }
+ },
+ "ad9f403d59": {
+  "instruction": {
+   "destination": "Rochester, NY",
+   "location": "S Louis, MO",
+   "ANSWER": "812 miles"
+  }
+ },
+ "1b24dd413a": {
+  "instruction": {
+   "destination": "Chicago, IL",
+   "location": "Philadelphia, PA",
+   "ANSWER": "11 hours, 23 minutes"
+  }
+ },
+ "f5b0eee746": {
+  "instruction": {
+   "destination": "Boston, CA",
+   "location": "Santa Fe, NM"
+  }
+ },
+ "1808db6334": {
+  "instruction": {
+   "destination": "St. Louis, MO",
+   "location": "Nashville, TN",
+   "ANSWER": "via I-24 W 4hr 35min 308mi "
+  }
+ },
+ "b060af2e3e": {
+  "instruction": {
+   "destination": "Pittsburgh, PA",
+   "location": "St. Cloud, MO",
+   "ANSWER": "Route #1 via I-70 E 10hr 18min 673mi "
+  }
+ },
+ "58443f4636": {
+  "instruction": {
+   "destination": "Detroit, MI",
+   "location": "Indianapolis, IN",
+   "ANSWER": "279 miles"
+  }
+ },
+ "956d848b0c": {
+  "instruction": {
+   "location": "Boise, ID",
+   "destination": "Austin, TX"
+  }
+ },
+ "5d52f3ce75": {
+  "instruction": {
+   "destination": "Kennewick, WA",
+   "location": "Seattle, WA",
+   "ANSWER": "Start out going northeast on James St toward 4th Ave. Then 0.10 miles Turn right onto 6th Ave. 6th Ave is just past 5th Ave  Then 0.10 miles Merge onto I-90 E toward Bellevue/Spokane. Then 135.99 miles Merge onto WA-26 E/Highway 26 W via EXIT 137 toward Othello/Pullman. Then 1.04 miles Turn right onto WA-243/Highway 243 S. Pass through 1 roundabout. Then 28.27 miles WA-243/Highway 243 S becomes WA-24. Then 5.41 miles Stay straight to go onto WA-240. Then 28.82 miles Turn right onto By Pass Hwy/WA-240. By Pass Hwy is 0.5 miles past Snyder St  Then 4.17 miles Merge onto I-182 E/US-12 E/WA-240 E toward Pasco/Kennewick. Then 0.93 miles Merge onto WA-240 E via EXIT 5A toward Kennewick. Then 7.11 miles Take the Columbia Dr exit on the left. Then 0.15 miles Merge onto WA-240. Then 0.13 miles Turn left to stay on WA-240. Then 0.01 miles Take the 1st right onto WA-240/W Columbia Dr. Continue to follow W Columbia Dr. Then 1.12 miles Turn right onto N Washington St. N Washington St is just past N Auburn St  If you are on E Columbia Dr and reach N Alder St you've gone a little too far"
+  }
+ },
+ "8d6488da1f": {
+  "instruction": {
+   "destination": "Boulder, CO",
+   "location": "Helena, MT"
+  }
+ },
+ "dd62ff41ef": {
+  "instruction": {
+   "destination": "Kansas City, MO",
+   "location": "St Louis, MO",
+   "ANSWER": "249 miles"
+  }
+ },
+ "9f41378925": {
+  "instruction": {
+   "destination": "Cincinnati, OH",
+   "location": "Dayton, OH"
+  }
+ },
+ "351cbede84": {
+  "instruction": {
+   "destination": "San Antonio, TX",
+   "location": "Phoenix, AZ",
+   "ANSWER": "13hr 17min"
+  }
+ },
+ "f3fd47ee05": {
+  "instruction": {
+   "destination": "Washington, DC",
+   "location": "Miami, FL",
+   "ANSWER": "15hr 36min "
+  }
+ },
+ "ff6b542978": {
+  "instruction": {
+   "destination": "Detroit, MI",
+   "location": "Kansas City, MO"
+  }
+ },
+ "aff0048e47": {
+  "instruction": {
+   "destination": "Charleston, NC",
+   "location": "S Louis, MO",
+   "ANSWER": "910 miles"
+  }
+ },
+ "463a1a1388": {
+  "instruction": {
+   "destination": "Miami International airport",
+   "location": "El paso International airport",
+   "ANSWER": "via I-10 E to FL-91 S"
+  }
+ },
+ "c71b900cc3": {
+  "instruction": {
+   "destination": "Kansas City, MO",
+   "location": "indianapolis",
+   "ANSWER": "7hr 19min"
+  }
+ },
+ "83248e2b9b": {
+  "instruction": {
+   "destination": "Kansas City, MO",
+   "location": "New York, NY"
+  }
+ },
+ "42c43576a7": {
+  "instruction": {
+   "destination": "Richmond, VA",
+   "location": "Bowie, MD"
+  }
+ },
+ "08661ba602": {
+  "instruction": {
+   "destination": "Cedar Rapids, IA",
+   "location": "Knoxville, TN"
+  }
+ },
+ "50a35a2e40": {
+  "instruction": {
+   "destination": "Honolulu, HI",
+   "location": "Kapolei, HI",
+   "ANSWER": "26min"
+  }
+ },
+ "73b0accc30": {
+  "instruction": {
+   "destination": "Salem, MA",
+   "location": "Salem, OR",
+   "ANSWER": "45 hours 46 minutes"
+  }
+ },
+ "05825032ec": {
+  "instruction": {
+   "destination": "Boise, ID",
+   "location": "Seattle, WA",
+   "ANSWER": "7 hours, 34 minutes"
+  }
+ },
+ "c14ef5f015": {
+  "instruction": {
+   "destination": "San Francisco, CA",
+   "location": "S Louis, MO",
+   "ANSWER": "2065 miles"
+  }
+ },
+ "dfcf3356e0": {
+  "instruction": {
+   "destination": "Brownsville, TX",
+   "location": "Springfield, MO",
+   "ANSWER": "14 hours, 33 minutes"
+  }
+ },
+ "82c70d2631": {
+  "instruction": {
+   "destination": "New Orleans, LA",
+   "location": "S Louis, MO",
+   "ANSWER": "675 miles"
+  }
+ },
+ "a61e467045": {
+  "instruction": {
+   "destination": "Shreveport, LA",
+   "location": "Madison, WI",
+   "ANSWER": "14 hours 4 minutes"
+  }
+ },
+ "bff55b31b7": {
+  "instruction": {
+   "destination": "fort lauderdale",
+   "location": "Walt Disney World Resort",
+   "ANSWER": "via FL-91 S"
+  }
+ }
+}

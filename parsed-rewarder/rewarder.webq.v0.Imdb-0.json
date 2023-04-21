@@ -1,0 +1,62 @@
+{
+ "15a8beadfb": {
+  "instruction": {
+   "channel": "The CW",
+   "TV Show": "Supergirl"
+  }
+ },
+ "19741593e4": {
+  "instruction": {
+   "channel": "NBC",
+   "TV Show": "Timeless"
+  }
+ },
+ "21ca786283": {
+  "instruction": {
+   "channel": "Fox",
+   "TV Show": "Lucifer"
+  }
+ },
+ "3765807714": {
+  "instruction": {
+   "channel": "FX Network",
+   "TV Show": "Taboo"
+  }
+ },
+ "e41cfd811d": {
+  "instruction": {
+   "channel": "NBC",
+   "TV Show": "Emerald City"
+  }
+ },
+ "73c78d6d13": {
+  "instruction": {
+   "channel": "The CW",
+   "TV Show": "Flash"
+  }
+ },
+ "c1a36f980e": {
+  "instruction": {
+   "channel": "NBC",
+   "TV Show": "Law and Order: SVU"
+  }
+ },
+ "e1af22666d": {
+  "instruction": {
+   "channel": "The CW",
+   "TV Show": "Supernatural"
+  }
+ },
+ "38b78631da": {
+  "instruction": {
+   "channel": "The CW",
+   "TV Show": "Arrow"
+  }
+ },
+ "32681801c4": {
+  "instruction": {
+   "channel": "The CW",
+   "TV Show": "Riverdale"
+  }
+ }
+}

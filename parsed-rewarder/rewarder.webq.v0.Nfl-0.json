@@ -1,0 +1,62 @@
+{
+ "f1e3a2eb27": {
+  "instruction": {
+   "team": "San Francisco 49ers",
+   "Week number": "2"
+  }
+ },
+ "756964497b": {
+  "instruction": {
+   "team": "St. Louis Rams",
+   "Week number": "3"
+  }
+ },
+ "717dc6f53a": {
+  "instruction": {
+   "team": "Miami Dolphins",
+   "Week number": "2"
+  }
+ },
+ "b48967074e": {
+  "instruction": {
+   "team": "Washington Redskins",
+   "Week number": "17"
+  }
+ },
+ "5db9a913a6": {
+  "instruction": {
+   "team": "New England Patriots",
+   "Week number": "1"
+  }
+ },
+ "4b0f03567b": {
+  "instruction": {
+   "team": "Buffalo Bills",
+   "Week number": "1"
+  }
+ },
+ "39cad3827e": {
+  "instruction": {
+   "team": "Tampa Bay Buccaneers",
+   "Week number": "1"
+  }
+ },
+ "c2f175f962": {
+  "instruction": {
+   "team": "Dallas Cowboys",
+   "Week number": "3"
+  }
+ },
+ "f928cdc32a": {
+  "instruction": {
+   "team": "Pittsburgh Steelers",
+   "Week number": "17"
+  }
+ },
+ "b66b6a4399": {
+  "instruction": {
+   "team": "Detroit Lions",
+   "Week number": "3"
+  }
+ }
+}

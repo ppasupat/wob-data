@@ -1,0 +1,2440 @@
+{
+ "f87034f236": {
+  "instruction": {
+   "location": "Denver, CO",
+   "destination": "Dallas, TX",
+   "ANSWER": "12hr 20min"
+  },
+  "spans": [
+   {
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div/div[2]/div",
+    "url": "https://www.mapquest.com/directions/from/us/co/denver/to/us/tx/dallas",
+    "text": "via I-25 S to US-287 S",
+    "html": "\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-25 S to US-287 S\r\n    "
+   }
+  ]
+ },
+ "adf3a85295": {
+  "instruction": {
+   "location": "Milton, DE",
+   "destination": "Miami, FL",
+   "ANSWER": "via US-13 S to I-95 S 17hr 38min 1,123mi "
+  },
+  "spans": [
+   {
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div/div[2]/div",
+    "url": "https://www.mapquest.com/directions/from/us/de/milton/to/us/fl/miami",
+    "text": "via US-13 S to I-95 S",
+    "html": "\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      US-13 S to I-95 S\r\n    "
+   }
+  ]
+ },
+ "4107542627": {
+  "instruction": {
+   "location": "Bowie, MD",
+   "destination": "Richmond, VA"
+  },
+  "spans": [
+   {
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div/div[2]/div",
+    "url": "https://www.mapquest.com/directions/from/us/md/bowie/to/us/va/richmond",
+    "text": "via I-95 S",
+    "html": "\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-95 S\r\n    "
+   }
+  ]
+ },
+ "47e3b4efdf": {
+  "spans": [
+   {
+    "html": "\r\n      View <span style=\"outline: none;\">Route </span>Directions\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[11]/div[2]/div/div[2]/div/form/div[2]/div/div/div/route-info/div/div[2]/button",
+    "url": "https://www.mapquest.com/directions/list/1/us/ca/sacramento/to/us/co/denver",
+    "text": "View Directions"
+   }
+  ],
+  "instruction": {
+   "destination": "Denver, CO",
+   "location": "Sacramento, CA"
+  }
+ },
+ "c2c9ee885a": {
+  "spans": [
+   {
+    "html": "\r\n      View <span style=\"outline: none;\">Route </span>Directions\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[11]/div[2]/div/div[2]/div/form/div[2]/div/div/div/route-info/div/div[2]/button",
+    "url": "https://www.mapquest.com/directions/list/1/us/nv/las-vegas/to/us/ca/hollywood",
+    "text": "View Directions"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-15 N 4hr 17min 276mi ",
+   "destination": "Hollywood, CA",
+   "location": "Las Vegas, NV"
+  }
+ },
+ "7fe4ea73f9": {
+  "spans": [
+   {
+    "html": "\r\n      View <span style=\"outline: none;\">Route </span>Directions\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[11]/div[2]/div/div[2]/div/form/div[2]/div/div/div/route-info/div/div[2]/button",
+    "url": "https://www.mapquest.com/directions/list/1/us/ca/san-francisco/to/us/fl/miami",
+    "text": "View Directions"
+   }
+  ],
+  "instruction": {
+   "destination": "Miami, FL",
+   "location": "San Francisco, CA"
+  }
+ },
+ "835d39bdc8": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/washington/seattle-wa-305963281/to/us/or/portland",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "2 hours 45 minutes",
+   "destination": "Portland, OR",
+   "location": "Seattle, WA"
+  }
+ },
+ "6846a59e0b": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/tn/nashville/to/us/ga/atlanta",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "3hr 53min",
+   "destination": "Atlanta, GA",
+   "location": "Nashville, TN"
+  }
+ },
+ "775343998b": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/nh/concord/to/us/nj/trenton",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Trenton, NJ",
+   "location": "Concord, NH"
+  }
+ },
+ "9a3eb35a8d": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/pa/philadelphia/to/us/pa/phoenixville",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "37min ",
+   "destination": "Phoenixville, PA",
+   "location": "Philadelphia, PA"
+  }
+ },
+ "589b99a698": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/mt/darby/to/us/ne/omaha",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-90 E to I-29 S 16hr 38min 1,200mi ",
+   "destination": "Omaha, NE",
+   "location": "Darby, MT"
+  }
+ },
+ "3fa384c32f": {
+  "spans": [
+   {
+    "html": "List",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[9]/map-list-toggle/div/nav/div/button",
+    "url": "https://www.mapquest.com/directions/list/1/us/fl/orlando/to/us/ga/atlanta",
+    "text": "List"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "6 hr 28 min",
+   "destination": "Atlanta, GA",
+   "location": "Orlando, FL"
+  }
+ },
+ "be47a37e43": {
+  "spans": [
+   {
+    "html": "List",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[9]/map-list-toggle/div/nav/div/button",
+    "url": "https://www.mapquest.com/directions/list/1/us/fl/jacksonville/to/us/ga/atlanta",
+    "text": "List"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "Route #1 via I-10 W to I-75 N 5hr 7min 345mi",
+   "destination": "Atlanta, GA",
+   "location": "Jacksonville, FL"
+  }
+ },
+ "6a2dd09c58": {
+  "spans": [
+   {
+    "html": "Get Directions",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[9]/section/div/h2",
+    "url": "https://www.mapquest.com/directions",
+    "text": "Get Directions"
+   }
+  ],
+  "instruction": {
+   "destination": "Berne, NC",
+   "location": "Boston, MA"
+  }
+ },
+ "01c81dfd08": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/oh/columbus/to/us/ok/oklahoma-city",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "13hr 36min",
+   "destination": "Oklahoma City, OK",
+   "location": "Columbus, OH"
+  }
+ },
+ "5c57db5ae3": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ca/los-angeles/to/us/nv/reno",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Reno, NV",
+   "location": "Los Angeles, CA"
+  }
+ },
+ "ee7bc97aa5": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ca/fresno/to/us/id/boise",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "Route #1 via I-80 E 11hr 18min 720mi",
+   "destination": "Boise, ID",
+   "location": "Fresno, CA"
+  }
+ },
+ "996ca72647": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/il/chicago/to/us/in/indianapolis",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-65 S 2hr 56min 186mi ",
+   "destination": "Indianapolis, IN ",
+   "location": "Chicago, IL"
+  }
+ },
+ "53810b56b2": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/tx/houston/to/us/co/denver",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "1033",
+   "destination": "Denver, CO",
+   "location": "Houston, TX"
+  }
+ },
+ "095b27956a": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ny/new-york/to/us/fl/jacksonville",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-495 W to I-95 S 14hr 24min 944mi ",
+   "destination": "Jacksonville, FL",
+   "location": "New York, NY"
+  }
+ },
+ "87824ff0ad": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/co/colorado-springs/to/us/tx/austin",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Austin, TX",
+   "location": "Colorado Springs, CO"
+  }
+ },
+ "feaaaa06cf": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/oh/columbus/to/us/nc/charlotte",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "6hr 50min",
+   "destination": "Charlotte, NC",
+   "location": "Columbus, OH"
+  }
+ },
+ "9add0027d8": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/az/page/to/us/ar/bentonville",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-40 E to US-412 E 17hr 28min 1,217mi ",
+   "destination": "Bentonville, AR",
+   "location": "Page, AZ"
+  }
+ },
+ "71e58674be": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/tx/dallas/to/us/ca/san-diego",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "San Diego, CA",
+   "location": "Dallas, TX"
+  }
+ },
+ "ca587f3b4b": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/tx/san-antonio/to/us/ky/austin",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "15hr 2min ",
+   "destination": "Austin, KY",
+   "location": "San Antonio, TX"
+  }
+ },
+ "4b4c3542bf": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ca/san-jose/to/us/ca/los-angeles",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-5 S 5hr 17min 340mi ",
+   "destination": "Los Angeles, CA",
+   "location": "San Jose, CA"
+  }
+ },
+ "1fd3d39a85": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/pa/pittsburgh/to/us/mi/detroit",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "4hr 20min",
+   "destination": "Detroit, MI",
+   "location": "Pittsburgh, PA"
+  }
+ },
+ "a62cf03179": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ny/new-york/to/us/tx/dallas",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-81 S 23hr 10min 1,548mi ",
+   "destination": "Dallas, TX",
+   "location": "New York, NY"
+  }
+ },
+ "39c1f33a00": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/mi/ann-arbor/to/us/oh/cleveland",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "2 hours 45 minutes",
+   "destination": "Cleveland, OH",
+   "location": "Ann Arbor, MI"
+  }
+ },
+ "9b463ee4b5": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ar/little-rock/to/us/tx/houston",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "439",
+   "destination": "Houston, Texas",
+   "location": "Little Rock, Arkansas"
+  }
+ },
+ "b7df2cc8f1": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/wa/seattle/to/us/oh/cincinnati",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Cincinnati, OH",
+   "location": "Seattle, WA"
+  }
+ },
+ "f476bfd8de": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ga/savannah/to/us/al/huntsville-283535435",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "7 hours, 8 minutes",
+   "destination": "Huntsville, AL",
+   "location": "Savannah, GA"
+  }
+ },
+ "a4449842a3": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ca/los-angeles/to/us/ca/san-francisco",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-5 N to I-580 W 5hr 55min 382mi  Est. fuel cost: $38.50 ",
+   "destination": "San Francisco, CA",
+   "location": "Los Angeles, CA"
+  }
+ },
+ "fef1740fe7": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/fl/daytona-beach/to/us/nm/santa-fe",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Santa Fe, NM",
+   "location": "Daytona Beach, FL"
+  }
+ },
+ "979c39abc8": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/dc/washington/to/us/pa/pittsburgh",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Pittsburgh, PA",
+   "location": "Washington, DC"
+  }
+ },
+ "ad8b99d9ee": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/la/new-orleans/to/us/ca/san-francisco",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "32hr 32min",
+   "destination": "San Francisco, CA",
+   "location": "New Orleans, LA"
+  }
+ },
+ "c8fd54c29c": {
+  "spans": [
+   {
+    "html": "List",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[9]/map-list-toggle/div/nav/div/button",
+    "url": "https://www.mapquest.com/directions/list/1/us/md/baltimore/to/us/nj/trenton",
+    "text": "List"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "2 hr 26 min",
+   "destination": "Trenton, NJ",
+   "location": "Baltimore, MD"
+  }
+ },
+ "35e8cd7aac": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/in/indianapolis/to/us/in/jackson-county",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "1hr 17min ",
+   "destination": "Jackson County, IN",
+   "location": "Indianapolis, IN"
+  }
+ },
+ "862d996b52": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ky/louisville/to/us/ky/lexington",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Lexington, KY",
+   "location": "Louisville, KY"
+  }
+ },
+ "90e802ba3a": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ga/atlanta/to/us/ne/lincoln",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "15 hours 6 minutes",
+   "destination": "Lincoln, NE",
+   "location": "Atlanta, GA"
+  }
+ },
+ "d0de96fdcf": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/in/st-john/to/us/in/indianapolis",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "2 hr 24 min",
+   "destination": "Indianapolis, IN",
+   "location": "St. John, IN"
+  }
+ },
+ "cecc23c377": {
+  "spans": [
+   {
+    "html": "\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-55 S\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/route-info/div/div[2]/div",
+    "url": "https://www.mapquest.com/directions/list/1/us/il/chicago/to/us/la/new-orleans",
+    "text": "via I-55 S"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "13hr 42min",
+   "destination": "New Orleans, LA",
+   "location": "Chicago, IL"
+  }
+ },
+ "edd4190eb7": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/oh/cincinnati/to/us/la/new-orleans",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "11hr 54min",
+   "destination": "New Orleans, LA",
+   "location": "Cincinnati, OH"
+  }
+ },
+ "8901dbc995": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/nc/charlotte/to/us/la/new-orleans",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "16 hours 36 minutes",
+   "destination": "Oklahoma City, OK",
+   "location": "Charlotte, NC"
+  }
+ },
+ "bfca9c7a72": {
+  "spans": [
+   {
+    "html": "\r\n      Route #2\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "url": "https://www.mapquest.com/directions/from/us/wa/seattle/to/us/oh/cincinnati",
+    "text": "Route #2"
+   }
+  ],
+  "instruction": {
+   "destination": "Cincinnati, OH",
+   "location": "Seattle, WA"
+  }
+ },
+ "0acf514242": {
+  "spans": [
+   {
+    "html": "\r\n      Route #2\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "url": "https://www.mapquest.com/directions/from/us/mn/red-wing/to/us/sd/pierre",
+    "text": "Route #2"
+   }
+  ],
+  "instruction": {
+   "destination": "Pierre, SD",
+   "location": "Red Wing, MN"
+  }
+ },
+ "a5346c4868": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/tx/austin/to/us/la/new-orleans",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "8 hours 2 minutes",
+   "destination": "New Orleans, LA",
+   "location": "Austin, TX"
+  }
+ },
+ "37538b3dc4": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/oh/cincinnati/to/us/co/denver",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Denver, CO",
+   "location": "Cincinnati, OH"
+  }
+ },
+ "27a9fa4d87": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/la/new-orleans/to/us/ms/jackson",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "186",
+   "destination": "Jackson, Mississippi",
+   "location": "New Orleans, LA"
+  }
+ },
+ "caa78a058a": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/tx/mckinney/to/us/ok/stillwater",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "3 hr 53 min",
+   "destination": "Stillwater, OK",
+   "location": "McKinney, TX"
+  }
+ },
+ "62faef11ec": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/tx/dallas/to/us/tx/houston",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "3hr 30min",
+   "destination": "Houston, TX",
+   "location": "Dallas, TX"
+  }
+ },
+ "8e81f9e744": {
+  "spans": [
+   {
+    "html": "\r\n  <div ng-transclude=\"\" style=\"outline: none;\"></div>\r\n\r\n  <h3 class=\"ng-binding\" style=\"outline: none;\"><span class=\"primary-only\" style=\"outline: none;\">Route </span><small style=\"outline: none;\">#</small>1</h3>\r\n\r\n  <div class=\"via-area\" style=\"outline: none;\">\r\n    <div class=\"name primary-only ng-binding\" ng-attr-title=\"via {{routeInfo.name}}\" title=\"via I-29 S\" style=\"outline: none;\">\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-29 S\r\n    </div>\r\n\r\n    <div class=\"time-distance\" style=\"outline: none;\">\r\n      <span class=\"time ng-binding\" ng-bind-html=\"routeInfo.time | routeTimeDisplay:{abbreviateLabel:true}\" style=\"outline: none;\">10<span class=\"label\" style=\"outline: none;\">hr</span> 40<span class=\"label\" style=\"outline: none;\">min</span></span>\r\n      <div class=\"distance primary-only ng-binding\" style=\"outline: none;\">\r\n        648<span class=\"label ng-binding\" ng-bind=\"::routeInfo.unit === 'miles' ? 'mi': routeInfo.unit\" style=\"outline: none;\">mi</span>\r\n      </div>\r\n      <span ng-class=\"{'icon-car': routeInfo.routeType === 'fastest', 'icon-walk': routeInfo.routeType === 'pedestrian'}\" class=\"icon-car\" style=\"outline: none;\"></span>\r\n    </div>\r\n\r\n    <!-- ngIf: ctrl.showCampaignRouteButton() -->\r\n\r\n    <!-- ngIf: ctrl.showRouteCost() --><div class=\"fuel-cost-estimate primary-only ng-scope\" ng-if=\"ctrl.showRouteCost()\" style=\"outline: none;\">\r\n      <div class=\"fuel-cost-info\" style=\"outline: none;\">\r\n        <span style=\"outline: none;\">\r\n          <!-- ngIf: $storage.useIRSReimbursement -->\r\n          <!-- ngIf: !$storage.useIRSReimbursement --><span class=\"cost ng-binding ng-scope\" ng-if=\"!$storage.useIRSReimbursement\" style=\"outline: none;\">Est. fuel cost: <span class=\"ng-binding\" style=\"outline: none;\">$43.30</span></span><!-- end ngIf: !$storage.useIRSReimbursement -->\r\n          <a ng-href=\"http://help.mapquest.com/section/200972474#218115483\" target=\"_blank\" class=\"icon-question-mark hidden-print\" title=\"Based on EPA average of 35mpg hwy/25mpg city and average cost per gallon along your route. Learn more.\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"help-button-clicked-route-selection\" href=\"http://help.mapquest.com/section/200972474#218115483\" style=\"outline: none;\"></a>\r\n        </span>\r\n        <button type=\"button\" class=\"fuel-cost-button ng-binding not-logged-in\" ng-class=\"{'not-logged-in' : !ctrl.isLoggedIn()}\" ng-click=\"ctrl.addEditVehicle()\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"route-add-vehicle-button-clicked-route-selection\" style=\"outline: none;\">\r\n          Add your vehicle for more accurate fuel cost\r\n        </button>\r\n      </div>\r\n      <div class=\"default-vehicle ng-binding ng-hide\" ng-show=\"ctrl.isLoggedIn()\" style=\"outline: none;\">Add your vehicle for more accurate fuel cost</div>\r\n    </div><!-- end ngIf: ctrl.showRouteCost() -->\r\n\r\n    <div class=\"traffic-info primary-only ng-hide N/A\" ng-attr-data-print=\"{{::ctrl.trafficTime(routeInfo)}}\" ng-class=\"routeInfo.traffic\" ng-show=\"routeInfo.distanceInMiles<200\" data-print=\"Trip time based on traffic conditions as of 10:00 AM on February 21, 2017.\" style=\"outline: none;\">\r\n      Current Traffic: <span class=\"ng-binding\" style=\"outline: none;\">N/A</span>\r\n    </div>\r\n\r\n    <button type=\"button\" autofocus=\"\" class=\"btn-lg highlight primary-only view-directions ng-scope\" ng-class=\"{highlight: hasFocus, traffic: routeInfo.distanceInMiles<200, spin: viewDirectionsSpinner}\" us-spinner=\"\" spinner-key=\"view-directions-spinner\" ng-click=\"ctrl.goToRoute(routeNumber)\" analytics-on=\"\" analytics-category=\"route-info\" analytics-event=\"directions-button-clicked\" style=\"outline: none;\">\r\n      View <span style=\"outline: none;\">Route </span>Directions\r\n    </button>\r\n  </div>\r\n",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div",
+    "url": "https://www.mapquest.com/directions/from/us/ne/lincoln/to/us/tn/memphis",
+    "text": "via I-29 S 10hr 40min 648mi\r\nEST. FUEL COST: $43.30 \r\nAdd your vehicle for more accurate fuel cost\r\nView Directions"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "648",
+   "destination": "Memphis, TN",
+   "location": "Lincoln, Nebraska"
+  }
+ },
+ "7b5499cf99": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/wv/morgantown/to/us/nc/charlotte",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "5 hours, 55 minutes",
+   "destination": "Charlotte, NC",
+   "location": "Morgantown, WV"
+  }
+ },
+ "2a788388d0": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ga/atlanta/to/us/tx/austin",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "14 hours 6 minutes",
+   "destination": "Austin, TX",
+   "location": "Atlanta, GA"
+  }
+ },
+ "960a83c442": {
+  "spans": [
+   {
+    "html": "\r\n      Route #2\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "url": "https://www.mapquest.com/directions/from/us/fl/jacksonville/to/us/ca/redding",
+    "text": "Route #2"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "42 hours 4 minutes",
+   "destination": "Redding, CA",
+   "location": "Jacksonville, FL"
+  }
+ },
+ "467a9a6d0a": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ct/new-haven/to/us/co/denver",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-80 W 27hr 12min 1,859mi ",
+   "destination": "Denver, CO",
+   "location": "New Haven, CT"
+  }
+ },
+ "ad90116d0e": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ny/new-york/to/us/ca/san-francisco",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "41hr 40min",
+   "destination": "San Francisco, CA",
+   "location": "New York, NY"
+  }
+ },
+ "d4a3a8178f": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/dc/washington/to/us/pa/pittsburgh",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Pittsburgh, PA",
+   "location": "Washington, DC"
+  }
+ },
+ "b63b4c48f8": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/in/new-palestine/to/us/oh/toledo",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Toledo, OH",
+   "location": "New Palestine, IN"
+  }
+ },
+ "9f9c754b84": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/fl/orlando/to/us/fl/miami",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "Route #1 via FL-91 S 3hr 34min 234mi ",
+   "destination": "Miami, FL",
+   "location": "Orlando, FL"
+  }
+ },
+ "61c3a5b0f6": {
+  "spans": [
+   {
+    "html": "\r\n  <div ng-transclude=\"\" style=\"outline: none;\"></div>\r\n\r\n  <h3 class=\"ng-binding\" style=\"outline: none;\"><span class=\"primary-only\" style=\"outline: none;\">Route </span><small style=\"outline: none;\">#</small>1</h3>\r\n\r\n  <div class=\"via-area\" style=\"outline: none;\">\r\n    <div class=\"name primary-only ng-binding\" ng-attr-title=\"via {{routeInfo.name}}\" title=\"via ON-401 E\" style=\"outline: none;\">\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      ON-401 E\r\n    </div>\r\n\r\n    <div class=\"time-distance\" style=\"outline: none;\">\r\n      <span class=\"time ng-binding\" ng-bind-html=\"routeInfo.time | routeTimeDisplay:{abbreviateLabel:true}\" style=\"outline: none;\">9<span class=\"label\" style=\"outline: none;\">hr</span> 30<span class=\"label\" style=\"outline: none;\">min</span></span>\r\n      <div class=\"distance primary-only ng-binding\" style=\"outline: none;\">\r\n        561<span class=\"label ng-binding\" ng-bind=\"::routeInfo.unit === 'miles' ? 'mi': routeInfo.unit\" style=\"outline: none;\">mi</span>\r\n      </div>\r\n      <span ng-class=\"{'icon-car': routeInfo.routeType === 'fastest', 'icon-walk': routeInfo.routeType === 'pedestrian'}\" class=\"icon-car\" style=\"outline: none;\"></span>\r\n    </div>\r\n\r\n    <!-- ngIf: ctrl.showCampaignRouteButton() -->\r\n\r\n    <!-- ngIf: ctrl.showRouteCost() --><div class=\"fuel-cost-estimate primary-only ng-scope\" ng-if=\"ctrl.showRouteCost()\" style=\"outline: none;\">\r\n      <div class=\"fuel-cost-info\" style=\"outline: none;\">\r\n        <span style=\"outline: none;\">\r\n          <!-- ngIf: $storage.useIRSReimbursement -->\r\n          <!-- ngIf: !$storage.useIRSReimbursement --><span class=\"cost ng-binding ng-scope\" ng-if=\"!$storage.useIRSReimbursement\" style=\"outline: none;\">Est. fuel cost: <span class=\"ng-binding\" style=\"outline: none;\">$38.60</span></span><!-- end ngIf: !$storage.useIRSReimbursement -->\r\n          <a ng-href=\"http://help.mapquest.com/section/200972474#218115483\" target=\"_blank\" class=\"icon-question-mark hidden-print\" title=\"Based on EPA average of 35mpg hwy/25mpg city and average cost per gallon along your route. Learn more.\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"help-button-clicked-route-selection\" href=\"http://help.mapquest.com/section/200972474#218115483\" style=\"outline: none;\"></a>\r\n        </span>\r\n        <button type=\"button\" class=\"fuel-cost-button ng-binding not-logged-in\" ng-class=\"{'not-logged-in' : !ctrl.isLoggedIn()}\" ng-click=\"ctrl.addEditVehicle()\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"route-add-vehicle-button-clicked-route-selection\" style=\"outline: none;\">\r\n          Add your vehicle for more accurate fuel cost\r\n        </button>\r\n      </div>\r\n      <div class=\"default-vehicle ng-binding ng-hide\" ng-show=\"ctrl.isLoggedIn()\" style=\"outline: none;\">Add your vehicle for more accurate fuel cost</div>\r\n    </div><!-- end ngIf: ctrl.showRouteCost() -->\r\n\r\n    <div class=\"traffic-info primary-only ng-hide N/A\" ng-attr-data-print=\"{{::ctrl.trafficTime(routeInfo)}}\" ng-class=\"routeInfo.traffic\" ng-show=\"routeInfo.distanceInMiles<200\" data-print=\"Trip time based on traffic conditions as of 10:10 AM on February 21, 2017.\" style=\"outline: none;\">\r\n      Current Traffic: <span class=\"ng-binding\" style=\"outline: none;\">N/A</span>\r\n    </div>\r\n\r\n    <button type=\"button\" autofocus=\"\" class=\"btn-lg highlight primary-only view-directions ng-scope\" ng-class=\"{highlight: hasFocus, traffic: routeInfo.distanceInMiles<200, spin: viewDirectionsSpinner}\" us-spinner=\"\" spinner-key=\"view-directions-spinner\" ng-click=\"ctrl.goToRoute(routeNumber)\" analytics-on=\"\" analytics-category=\"route-info\" analytics-event=\"directions-button-clicked\" style=\"outline: none;\">\r\n      View <span style=\"outline: none;\">Route </span>Directions\r\n    </button>\r\n  </div>\r\n",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div",
+    "url": "https://www.mapquest.com/directions/from/us/mi/detroit/to/ca/qc/montreal",
+    "text": "via ON-401 E 9hr 30min 561mi\r\nEST. FUEL COST: $38.60 \r\nAdd your vehicle for more accurate fuel cost\r\nView Directions"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "Via ON-401 E 9hr 31min 561mi ",
+   "destination": "Montreal, QC, CA",
+   "location": "Detroit, MI"
+  }
+ },
+ "499240f4c4": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ok/oklahoma-city/to/us/in/south-bend",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "Route #1 via I-44 E to US-31 Bus S 12hr 55min 862mi",
+   "destination": "South Bend, IN",
+   "location": "Oklahoma City, OK"
+  }
+ },
+ "1fad4d019d": {
+  "spans": [
+   {
+    "html": "\r\n      Route #2\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "url": "https://www.mapquest.com/directions/from/us/co/denver/to/us/id/boise",
+    "text": "Route #2"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "11hr 14min ",
+   "destination": "Boise, ID",
+   "location": "Denver, CO"
+  }
+ },
+ "a589436581": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/tx/dallas/to/us/tx/fort-worth",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Fort Worth, TX",
+   "location": "Dallas, TX"
+  }
+ },
+ "e97278479d": {
+  "spans": [
+   {
+    "html": "\r\n  <div ng-transclude=\"\" style=\"outline: none;\"></div>\r\n\r\n  <h3 class=\"ng-binding\" style=\"outline: none;\"><span class=\"primary-only\" style=\"outline: none;\">Route </span><small style=\"outline: none;\">#</small>1</h3>\r\n\r\n  <div class=\"via-area\" style=\"outline: none;\">\r\n    <div class=\"name primary-only ng-binding\" ng-attr-title=\"via {{routeInfo.name}}\" title=\"via I-70 E\" style=\"outline: none;\">\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-70 E\r\n    </div>\r\n\r\n    <div class=\"time-distance\" style=\"outline: none;\">\r\n      <span class=\"time ng-binding\" ng-bind-html=\"routeInfo.time | routeTimeDisplay:{abbreviateLabel:true}\" style=\"outline: none;\">19<span class=\"label\" style=\"outline: none;\">hr</span> 47<span class=\"label\" style=\"outline: none;\">min</span></span>\r\n      <div class=\"distance primary-only ng-binding\" style=\"outline: none;\">\r\n        1,306<span class=\"label ng-binding\" ng-bind=\"::routeInfo.unit === 'miles' ? 'mi': routeInfo.unit\" style=\"outline: none;\">mi</span>\r\n      </div>\r\n      <span ng-class=\"{'icon-car': routeInfo.routeType === 'fastest', 'icon-walk': routeInfo.routeType === 'pedestrian'}\" class=\"icon-car\" style=\"outline: none;\"></span>\r\n    </div>\r\n\r\n    <!-- ngIf: ctrl.showCampaignRouteButton() -->\r\n\r\n    <!-- ngIf: ctrl.showRouteCost() --><div class=\"fuel-cost-estimate primary-only ng-scope\" ng-if=\"ctrl.showRouteCost()\" style=\"outline: none;\">\r\n      <div class=\"fuel-cost-info\" style=\"outline: none;\">\r\n        <span style=\"outline: none;\">\r\n          <!-- ngIf: $storage.useIRSReimbursement -->\r\n          <!-- ngIf: !$storage.useIRSReimbursement --><span class=\"cost ng-binding ng-scope\" ng-if=\"!$storage.useIRSReimbursement\" style=\"outline: none;\">Est. fuel cost: <span class=\"ng-binding\" style=\"outline: none;\">$81.00</span></span><!-- end ngIf: !$storage.useIRSReimbursement -->\r\n          <a ng-href=\"http://help.mapquest.com/section/200972474#218115483\" target=\"_blank\" class=\"icon-question-mark hidden-print\" title=\"Based on EPA average of 35mpg hwy/25mpg city and average cost per gallon along your route. Learn more.\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"help-button-clicked-route-selection\" href=\"http://help.mapquest.com/section/200972474#218115483\" style=\"outline: none;\"></a>\r\n        </span>\r\n        <button type=\"button\" class=\"fuel-cost-button ng-binding not-logged-in\" ng-class=\"{'not-logged-in' : !ctrl.isLoggedIn()}\" ng-click=\"ctrl.addEditVehicle()\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"route-add-vehicle-button-clicked-route-selection\" style=\"outline: none;\">\r\n          Add your vehicle for more accurate fuel cost\r\n        </button>\r\n      </div>\r\n      <div class=\"default-vehicle ng-binding ng-hide\" ng-show=\"ctrl.isLoggedIn()\" style=\"outline: none;\">Add your vehicle for more accurate fuel cost</div>\r\n    </div><!-- end ngIf: ctrl.showRouteCost() -->\r\n\r\n    <div class=\"traffic-info primary-only ng-hide N/A\" ng-attr-data-print=\"{{::ctrl.trafficTime(routeInfo)}}\" ng-class=\"routeInfo.traffic\" ng-show=\"routeInfo.distanceInMiles<200\" data-print=\"Trip time based on traffic conditions as of 10:22 AM on February 21, 2017.\" style=\"outline: none;\">\r\n      Current Traffic: <span class=\"ng-binding\" style=\"outline: none;\">N/A</span>\r\n    </div>\r\n\r\n    <button type=\"button\" autofocus=\"\" class=\"btn-lg highlight primary-only view-directions ng-scope\" ng-class=\"{highlight: hasFocus, traffic: routeInfo.distanceInMiles<200, spin: viewDirectionsSpinner}\" us-spinner=\"\" spinner-key=\"view-directions-spinner\" ng-click=\"ctrl.goToRoute(routeNumber)\" analytics-on=\"\" analytics-category=\"route-info\" analytics-event=\"directions-button-clicked\" style=\"outline: none;\">\r\n      View <span style=\"outline: none;\">Route </span>Directions\r\n    </button>\r\n  </div>\r\n",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div",
+    "url": "https://www.mapquest.com/directions/from/us/tx/houston/to/us/mi/detroit",
+    "text": "via I-70 E 19hr 47min 1,306mi\r\nEST. FUEL COST: $81.00 \r\nAdd your vehicle for more accurate fuel cost\r\nView Directions"
+   }
+  ],
+  "instruction": {
+   "destination": "Detroit, MI",
+   "location": "Houston, TX"
+  }
+ },
+ "287a4483d2": {
+  "spans": [
+   {
+    "html": "\r\n      Route #2\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "url": "https://www.mapquest.com/directions/from/us/tx/dallas/to/us/il/chicago",
+    "text": "Route #2"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "14hr 9min",
+   "destination": "Chicago, IL",
+   "location": "Dallas, TX"
+  }
+ },
+ "04c7341bef": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ny/buffalo/to/us/mi/dearborn",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Dearborn, MI",
+   "location": "Buffalo, NY"
+  }
+ },
+ "47f46b5680": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/co/denver/to/us/fl/miami",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Miami, FL",
+   "location": "Denver, CO"
+  }
+ },
+ "7a411810be": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/nv/las-vegas/to/us/ca/san-francisco",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "San Francisco, CA",
+   "location": "Las Vegas, NV"
+  }
+ },
+ "111ade0335": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ny/albany/to/us/de/dover",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "Route #1 via New Jersey Tpke S 5hr 302mi",
+   "destination": "Dover, DE",
+   "location": "Albany, NY"
+  }
+ },
+ "d9ab1de7ae": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/la/lafayette/to/us/ia/council-bluffs",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "926",
+   "destination": "Council Bluffs, Iowa",
+   "location": "Lafayette, LA"
+  }
+ },
+ "39ec9a0737": {
+  "spans": [
+   {
+    "html": "\r\n  <div ng-transclude=\"\" style=\"outline: none;\"></div>\r\n\r\n  <h3 class=\"ng-binding\" style=\"outline: none;\"><span class=\"primary-only\" style=\"outline: none;\">Route </span><small style=\"outline: none;\">#</small>1</h3>\r\n\r\n  <div class=\"via-area\" style=\"outline: none;\">\r\n    <div class=\"name primary-only ng-binding\" ng-attr-title=\"via {{routeInfo.name}}\" title=\"via I-5 N\" style=\"outline: none;\">\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-5 N\r\n    </div>\r\n\r\n    <div class=\"time-distance\" style=\"outline: none;\">\r\n      <span class=\"time ng-binding\" ng-bind-html=\"routeInfo.time | routeTimeDisplay:{abbreviateLabel:true}\" style=\"outline: none;\">3<span class=\"label\" style=\"outline: none;\">hr</span> 41<span class=\"label\" style=\"outline: none;\">min</span></span>\r\n      <div class=\"distance primary-only ng-binding\" style=\"outline: none;\">\r\n        222<span class=\"label ng-binding\" ng-bind=\"::routeInfo.unit === 'miles' ? 'mi': routeInfo.unit\" style=\"outline: none;\">mi</span>\r\n      </div>\r\n      <span ng-class=\"{'icon-car': routeInfo.routeType === 'fastest', 'icon-walk': routeInfo.routeType === 'pedestrian'}\" class=\"icon-car\" style=\"outline: none;\"></span>\r\n    </div>\r\n\r\n    <!-- ngIf: ctrl.showCampaignRouteButton() -->\r\n\r\n    <!-- ngIf: ctrl.showRouteCost() --><div class=\"fuel-cost-estimate primary-only ng-scope\" ng-if=\"ctrl.showRouteCost()\" style=\"outline: none;\">\r\n      <div class=\"fuel-cost-info\" style=\"outline: none;\">\r\n        <span style=\"outline: none;\">\r\n          <!-- ngIf: $storage.useIRSReimbursement -->\r\n          <!-- ngIf: !$storage.useIRSReimbursement --><span class=\"cost ng-binding ng-scope\" ng-if=\"!$storage.useIRSReimbursement\" style=\"outline: none;\">Est. fuel cost: <span class=\"ng-binding\" style=\"outline: none;\">$15.30</span></span><!-- end ngIf: !$storage.useIRSReimbursement -->\r\n          <a ng-href=\"http://help.mapquest.com/section/200972474#218115483\" target=\"_blank\" class=\"icon-question-mark hidden-print\" title=\"Based on EPA average of 35mpg hwy/25mpg city and average cost per gallon along your route. Learn more.\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"help-button-clicked-route-selection\" href=\"http://help.mapquest.com/section/200972474#218115483\" style=\"outline: none;\"></a>\r\n        </span>\r\n        <button type=\"button\" class=\"fuel-cost-button ng-binding not-logged-in\" ng-class=\"{'not-logged-in' : !ctrl.isLoggedIn()}\" ng-click=\"ctrl.addEditVehicle()\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"route-add-vehicle-button-clicked-route-selection\" style=\"outline: none;\">\r\n          Add your vehicle for more accurate fuel cost\r\n        </button>\r\n      </div>\r\n      <div class=\"default-vehicle ng-binding ng-hide\" ng-show=\"ctrl.isLoggedIn()\" style=\"outline: none;\">Add your vehicle for more accurate fuel cost</div>\r\n    </div><!-- end ngIf: ctrl.showRouteCost() -->\r\n\r\n    <div class=\"traffic-info primary-only ng-hide Light\" ng-attr-data-print=\"{{::ctrl.trafficTime(routeInfo)}}\" ng-class=\"routeInfo.traffic\" ng-show=\"routeInfo.distanceInMiles<200\" data-print=\"Trip time based on traffic conditions as of 10:29 AM on February 21, 2017.\" style=\"outline: none;\">\r\n      Current Traffic: <span class=\"ng-binding\" style=\"outline: none;\">Light</span>\r\n    </div>\r\n\r\n    <button type=\"button\" autofocus=\"\" class=\"btn-lg highlight primary-only view-directions ng-scope\" ng-class=\"{highlight: hasFocus, traffic: routeInfo.distanceInMiles<200, spin: viewDirectionsSpinner}\" us-spinner=\"\" spinner-key=\"view-directions-spinner\" ng-click=\"ctrl.goToRoute(routeNumber)\" analytics-on=\"\" analytics-category=\"route-info\" analytics-event=\"directions-button-clicked\" style=\"outline: none;\">\r\n      View <span style=\"outline: none;\">Route </span>Directions\r\n    </button>\r\n  </div>\r\n",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div",
+    "url": "https://www.mapquest.com/directions/from/us/or/salem/to/us/washington/seattle-wa-305963281",
+    "text": "via I-5 N 3hr 41min 222mi\r\nEST. FUEL COST: $15.30 \r\nAdd your vehicle for more accurate fuel cost\r\nView Directions"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "3hr 36min",
+   "destination": "Seattle, WA",
+   "location": "Salem, OR"
+  }
+ },
+ "517a1fd1bf": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ca/san-francisco/to/us/nc/charlotte",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "39hr 40min ",
+   "destination": "Charlotte, NC",
+   "location": "San Francisco, CA"
+  }
+ },
+ "a9d6234a10": {
+  "spans": [
+   {
+    "html": "\r\n      Route #3\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[3]",
+    "url": "https://www.mapquest.com/directions/from/us/fl/destin/to/us/md/silver-spring",
+    "text": "Route #3"
+   }
+  ],
+  "instruction": {
+   "destination": "Silver Spring, MD",
+   "location": "Destin, FL"
+  }
+ },
+ "1c6beca10d": {
+  "spans": [
+   {
+    "html": "\r\n  <div ng-transclude=\"\" style=\"outline: none;\"></div>\r\n\r\n  <h3 class=\"ng-binding\" style=\"outline: none;\"><span class=\"primary-only\" style=\"outline: none;\">Route </span><small style=\"outline: none;\">#</small>1</h3>\r\n\r\n  <div class=\"via-area\" style=\"outline: none;\">\r\n    <div class=\"name primary-only ng-binding\" ng-attr-title=\"via {{routeInfo.name}}\" title=\"via I-90 E\" style=\"outline: none;\">\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-90 E\r\n    </div>\r\n\r\n    <div class=\"time-distance\" style=\"outline: none;\">\r\n      <span class=\"time ng-binding\" ng-bind-html=\"routeInfo.time | routeTimeDisplay:{abbreviateLabel:true}\" style=\"outline: none;\">23<span class=\"label\" style=\"outline: none;\">hr</span> 5<span class=\"label\" style=\"outline: none;\">min</span></span>\r\n      <div class=\"distance primary-only ng-binding\" style=\"outline: none;\">\r\n        1,673<span class=\"label ng-binding\" ng-bind=\"::routeInfo.unit === 'miles' ? 'mi': routeInfo.unit\" style=\"outline: none;\">mi</span>\r\n      </div>\r\n      <span ng-class=\"{'icon-car': routeInfo.routeType === 'fastest', 'icon-walk': routeInfo.routeType === 'pedestrian'}\" class=\"icon-car\" style=\"outline: none;\"></span>\r\n    </div>\r\n\r\n    <!-- ngIf: ctrl.showCampaignRouteButton() -->\r\n\r\n    <!-- ngIf: ctrl.showRouteCost() --><div class=\"fuel-cost-estimate primary-only ng-scope\" ng-if=\"ctrl.showRouteCost()\" style=\"outline: none;\">\r\n      <div class=\"fuel-cost-info\" style=\"outline: none;\">\r\n        <span style=\"outline: none;\">\r\n          <!-- ngIf: $storage.useIRSReimbursement -->\r\n          <!-- ngIf: !$storage.useIRSReimbursement --><span class=\"cost ng-binding ng-scope\" ng-if=\"!$storage.useIRSReimbursement\" style=\"outline: none;\">Est. fuel cost: <span class=\"ng-binding\" style=\"outline: none;\">$118.00</span></span><!-- end ngIf: !$storage.useIRSReimbursement -->\r\n          <a ng-href=\"http://help.mapquest.com/section/200972474#218115483\" target=\"_blank\" class=\"icon-question-mark hidden-print\" title=\"Based on EPA average of 35mpg hwy/25mpg city and average cost per gallon along your route. Learn more.\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"help-button-clicked-route-selection\" href=\"http://help.mapquest.com/section/200972474#218115483\" style=\"outline: none;\"></a>\r\n        </span>\r\n        <button type=\"button\" class=\"fuel-cost-button ng-binding not-logged-in\" ng-class=\"{'not-logged-in' : !ctrl.isLoggedIn()}\" ng-click=\"ctrl.addEditVehicle()\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"route-add-vehicle-button-clicked-route-selection\" style=\"outline: none;\">\r\n          Add your vehicle for more accurate fuel cost\r\n        </button>\r\n      </div>\r\n      <div class=\"default-vehicle ng-binding ng-hide\" ng-show=\"ctrl.isLoggedIn()\" style=\"outline: none;\">Add your vehicle for more accurate fuel cost</div>\r\n    </div><!-- end ngIf: ctrl.showRouteCost() -->\r\n\r\n    <div class=\"traffic-info primary-only ng-hide N/A\" ng-attr-data-print=\"{{::ctrl.trafficTime(routeInfo)}}\" ng-class=\"routeInfo.traffic\" ng-show=\"routeInfo.distanceInMiles<200\" data-print=\"Trip time based on traffic conditions as of 10:31 AM on February 21, 2017.\" style=\"outline: none;\">\r\n      Current Traffic: <span class=\"ng-binding\" style=\"outline: none;\">N/A</span>\r\n    </div>\r\n\r\n    <button type=\"button\" autofocus=\"\" class=\"btn-lg highlight primary-only view-directions ng-scope\" ng-class=\"{highlight: hasFocus, traffic: routeInfo.distanceInMiles<200, spin: viewDirectionsSpinner}\" us-spinner=\"\" spinner-key=\"view-directions-spinner\" ng-click=\"ctrl.goToRoute(routeNumber)\" analytics-on=\"\" analytics-category=\"route-info\" analytics-event=\"directions-button-clicked\" style=\"outline: none;\">\r\n      View <span style=\"outline: none;\">Route </span>Directions\r\n    </button>\r\n  </div>\r\n",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div",
+    "url": "https://www.mapquest.com/directions/from/us/wa/tacoma/to/us/mn/minneapolis",
+    "text": "via I-90 E 23hr 5min 1,673mi\r\nEST. FUEL COST: $118.00 \r\nAdd your vehicle for more accurate fuel cost\r\nView Directions"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "23hr 4min",
+   "destination": "Minneapolis, MN",
+   "location": "Tacoma, WA"
+  }
+ },
+ "ae299fdb03": {
+  "spans": [
+   {
+    "html": "\r\n      Route #2\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "url": "https://www.mapquest.com/directions/from/us/il/chicago/to/us/ma/boston",
+    "text": "Route #2"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-90 E to I-80 E 15hr 25min ",
+   "destination": "Boston, MA",
+   "location": "Chicago, IL"
+  }
+ },
+ "27d22bc545": {
+  "spans": [
+   {
+    "html": "\r\n  <div ng-transclude=\"\" style=\"outline: none;\"></div>\r\n\r\n  <h3 class=\"ng-binding\" style=\"outline: none;\"><span class=\"primary-only\" style=\"outline: none;\">Route </span><small style=\"outline: none;\">#</small>1</h3>\r\n\r\n  <div class=\"via-area\" style=\"outline: none;\">\r\n    <div class=\"name primary-only ng-binding\" ng-attr-title=\"via {{routeInfo.name}}\" title=\"via I-10 E\" style=\"outline: none;\">\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-10 E\r\n    </div>\r\n\r\n    <div class=\"time-distance\" style=\"outline: none;\">\r\n      <span class=\"time ng-binding\" ng-bind-html=\"routeInfo.time | routeTimeDisplay:{abbreviateLabel:true}\" style=\"outline: none;\">5<span class=\"label\" style=\"outline: none;\">hr</span> 22<span class=\"label\" style=\"outline: none;\">min</span></span>\r\n      <div class=\"distance primary-only ng-binding\" style=\"outline: none;\">\r\n        351<span class=\"label ng-binding\" ng-bind=\"::routeInfo.unit === 'miles' ? 'mi': routeInfo.unit\" style=\"outline: none;\">mi</span>\r\n      </div>\r\n      <span ng-class=\"{'icon-car': routeInfo.routeType === 'fastest', 'icon-walk': routeInfo.routeType === 'pedestrian'}\" class=\"icon-car\" style=\"outline: none;\"></span>\r\n    </div>\r\n\r\n    <!-- ngIf: ctrl.showCampaignRouteButton() -->\r\n\r\n    <!-- ngIf: ctrl.showRouteCost() --><div class=\"fuel-cost-estimate primary-only ng-scope\" ng-if=\"ctrl.showRouteCost()\" style=\"outline: none;\">\r\n      <div class=\"fuel-cost-info\" style=\"outline: none;\">\r\n        <span style=\"outline: none;\">\r\n          <!-- ngIf: $storage.useIRSReimbursement -->\r\n          <!-- ngIf: !$storage.useIRSReimbursement --><span class=\"cost ng-binding ng-scope\" ng-if=\"!$storage.useIRSReimbursement\" style=\"outline: none;\">Est. fuel cost: <span class=\"ng-binding\" style=\"outline: none;\">$23.00</span></span><!-- end ngIf: !$storage.useIRSReimbursement -->\r\n          <a ng-href=\"http://help.mapquest.com/section/200972474#218115483\" target=\"_blank\" class=\"icon-question-mark hidden-print\" title=\"Based on EPA average of 35mpg hwy/25mpg city and average cost per gallon along your route. Learn more.\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"help-button-clicked-route-selection\" href=\"http://help.mapquest.com/section/200972474#218115483\" style=\"outline: none;\"></a>\r\n        </span>\r\n        <button type=\"button\" class=\"fuel-cost-button ng-binding not-logged-in\" ng-class=\"{'not-logged-in' : !ctrl.isLoggedIn()}\" ng-click=\"ctrl.addEditVehicle()\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"route-add-vehicle-button-clicked-route-selection\" style=\"outline: none;\">\r\n          Add your vehicle for more accurate fuel cost\r\n        </button>\r\n      </div>\r\n      <div class=\"default-vehicle ng-binding ng-hide\" ng-show=\"ctrl.isLoggedIn()\" style=\"outline: none;\">Add your vehicle for more accurate fuel cost</div>\r\n    </div><!-- end ngIf: ctrl.showRouteCost() -->\r\n\r\n    <div class=\"traffic-info primary-only ng-hide N/A\" ng-attr-data-print=\"{{::ctrl.trafficTime(routeInfo)}}\" ng-class=\"routeInfo.traffic\" ng-show=\"routeInfo.distanceInMiles<200\" data-print=\"Trip time based on traffic conditions as of 11:20 AM on February 21, 2017.\" style=\"outline: none;\">\r\n      Current Traffic: <span class=\"ng-binding\" style=\"outline: none;\">N/A</span>\r\n    </div>\r\n\r\n    <button type=\"button\" autofocus=\"\" class=\"btn-lg highlight primary-only view-directions ng-scope\" ng-class=\"{highlight: hasFocus, traffic: routeInfo.distanceInMiles<200, spin: viewDirectionsSpinner}\" us-spinner=\"\" spinner-key=\"view-directions-spinner\" ng-click=\"ctrl.goToRoute(routeNumber)\" analytics-on=\"\" analytics-category=\"route-info\" analytics-event=\"directions-button-clicked\" style=\"outline: none;\">\r\n      View <span style=\"outline: none;\">Route </span>Directions\r\n    </button>\r\n  </div>\r\n",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div",
+    "url": "https://www.mapquest.com/directions/from/us/texas/houston-zoo-265888825/to/us/la/new-orleans",
+    "text": "via I-10 E 5hr 22min 351mi\r\nEST. FUEL COST: $23.00 \r\nAdd your vehicle for more accurate fuel cost\r\nView Directions"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-10 W",
+   "destination": "New Orlean",
+   "location": "Houston Zoo"
+  }
+ },
+ "d74ed8987a": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/mo/springfield/to/us/tx/denton",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "Route #1 via US-69 S 6hr 32min 408mi",
+   "destination": "Denton, TX",
+   "location": "Springfield, MO"
+  }
+ },
+ "3177aa2847": {
+  "spans": [
+   {
+    "html": "\r\n  <div ng-transclude=\"\" style=\"outline: none;\"></div>\r\n\r\n  <h3 class=\"ng-binding\" style=\"outline: none;\"><span class=\"primary-only\" style=\"outline: none;\">Route </span><small style=\"outline: none;\">#</small>1</h3>\r\n\r\n  <div class=\"via-area\" style=\"outline: none;\">\r\n    <div class=\"name primary-only ng-binding\" ng-attr-title=\"via {{routeInfo.name}}\" title=\"via I-44 E\" style=\"outline: none;\">\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-44 E\r\n    </div>\r\n\r\n    <div class=\"time-distance\" style=\"outline: none;\">\r\n      <span class=\"time ng-binding\" ng-bind-html=\"routeInfo.time | routeTimeDisplay:{abbreviateLabel:true}\" style=\"outline: none;\">11<span class=\"label\" style=\"outline: none;\">hr</span> 28<span class=\"label\" style=\"outline: none;\">min</span></span>\r\n      <div class=\"distance primary-only ng-binding\" style=\"outline: none;\">\r\n        763<span class=\"label ng-binding\" ng-bind=\"::routeInfo.unit === 'miles' ? 'mi': routeInfo.unit\" style=\"outline: none;\">mi</span>\r\n      </div>\r\n      <span ng-class=\"{'icon-car': routeInfo.routeType === 'fastest', 'icon-walk': routeInfo.routeType === 'pedestrian'}\" class=\"icon-car\" style=\"outline: none;\"></span>\r\n    </div>\r\n\r\n    <!-- ngIf: ctrl.showCampaignRouteButton() -->\r\n\r\n    <!-- ngIf: ctrl.showRouteCost() --><div class=\"fuel-cost-estimate primary-only ng-scope\" ng-if=\"ctrl.showRouteCost()\" style=\"outline: none;\">\r\n      <div class=\"fuel-cost-info\" style=\"outline: none;\">\r\n        <span style=\"outline: none;\">\r\n          <!-- ngIf: $storage.useIRSReimbursement -->\r\n          <!-- ngIf: !$storage.useIRSReimbursement --><span class=\"cost ng-binding ng-scope\" ng-if=\"!$storage.useIRSReimbursement\" style=\"outline: none;\">Est. fuel cost: <span class=\"ng-binding\" style=\"outline: none;\">$47.30</span></span><!-- end ngIf: !$storage.useIRSReimbursement -->\r\n          <a ng-href=\"http://help.mapquest.com/section/200972474#218115483\" target=\"_blank\" class=\"icon-question-mark hidden-print\" title=\"Based on EPA average of 35mpg hwy/25mpg city and average cost per gallon along your route. Learn more.\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"help-button-clicked-route-selection\" href=\"http://help.mapquest.com/section/200972474#218115483\" style=\"outline: none;\"></a>\r\n        </span>\r\n        <button type=\"button\" class=\"fuel-cost-button ng-binding not-logged-in\" ng-class=\"{'not-logged-in' : !ctrl.isLoggedIn()}\" ng-click=\"ctrl.addEditVehicle()\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"route-add-vehicle-button-clicked-route-selection\" style=\"outline: none;\">\r\n          Add your vehicle for more accurate fuel cost\r\n        </button>\r\n      </div>\r\n      <div class=\"default-vehicle ng-binding ng-hide\" ng-show=\"ctrl.isLoggedIn()\" style=\"outline: none;\">Add your vehicle for more accurate fuel cost</div>\r\n    </div><!-- end ngIf: ctrl.showRouteCost() -->\r\n\r\n    <div class=\"traffic-info primary-only ng-hide N/A\" ng-attr-data-print=\"{{::ctrl.trafficTime(routeInfo)}}\" ng-class=\"routeInfo.traffic\" ng-show=\"routeInfo.distanceInMiles<200\" data-print=\"Trip time based on traffic conditions as of 11:21 AM on February 21, 2017.\" style=\"outline: none;\">\r\n      Current Traffic: <span class=\"ng-binding\" style=\"outline: none;\">N/A</span>\r\n    </div>\r\n\r\n    <button type=\"button\" autofocus=\"\" class=\"btn-lg highlight primary-only view-directions ng-scope\" ng-class=\"{highlight: hasFocus, traffic: routeInfo.distanceInMiles<200, spin: viewDirectionsSpinner}\" us-spinner=\"\" spinner-key=\"view-directions-spinner\" ng-click=\"ctrl.goToRoute(routeNumber)\" analytics-on=\"\" analytics-category=\"route-info\" analytics-event=\"directions-button-clicked\" style=\"outline: none;\">\r\n      View <span style=\"outline: none;\">Route </span>Directions\r\n    </button>\r\n  </div>\r\n",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div",
+    "url": "https://www.mapquest.com/directions/from/us/ok/tulsa/to/us/in/fort-wayne",
+    "text": "via I-44 E 11hr 28min 763mi\r\nEST. FUEL COST: $47.30 \r\nAdd your vehicle for more accurate fuel cost\r\nView Directions"
+   }
+  ],
+  "instruction": {
+   "destination": "Fort Wayne, IN",
+   "location": "Tulsa, OK"
+  }
+ },
+ "823ca0f226": {
+  "spans": [
+   {
+    "html": "\r\n      Route #3\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[3]",
+    "url": "https://www.mapquest.com/directions/from/us/oh/cincinnati/to/us/co/denver",
+    "text": "Route #3"
+   }
+  ],
+  "instruction": {
+   "destination": "Denver, CO",
+   "location": "Cincinnati, OH"
+  }
+ },
+ "73cbe93924": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ca/san-francisco/to/us/ca/san-jose",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "52 minutes ",
+   "destination": "San Jose, CA",
+   "location": "San Francisco, CA"
+  }
+ },
+ "d383ece303": {
+  "spans": [
+   {
+    "html": "\r\n      Route #2\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "url": "https://www.mapquest.com/directions/from/us/or/portland/to/us/ca/san-francisco",
+    "text": "Route #2"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "9hr 55min",
+   "destination": "San Francisco, CA",
+   "location": "Portland, OR"
+  }
+ },
+ "f253c4d065": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ca/san-francisco/to/us/california/new-jack-city-351306650",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via Mission St 11min 2.4mi  Est. fuel cost: $0.30 ",
+   "destination": "New Jack City",
+   "location": "San Francisco, CA"
+  }
+ },
+ "5b5e882078": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ca/santa-ana/to/us/oh/cincinnati",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "31hr 5min ",
+   "destination": "Cincinnati, OH",
+   "location": "Santa Ana, CA"
+  }
+ },
+ "0ada3be53d": {
+  "spans": [
+   {
+    "html": "\r\n      Route #3\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[3]",
+    "url": "https://www.mapquest.com/directions/from/us/ny/syracuse/to/us/nh/nashua",
+    "text": "Route #3"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "5 hours, 18 minutes",
+   "destination": "Nashua, NH",
+   "location": "Syracuse, NY"
+  }
+ },
+ "9c4c70dbbd": {
+  "spans": [
+   {
+    "html": "\r\n      Route #2\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "url": "https://www.mapquest.com/directions/from/us/fl/fort-lauderdale/to/us/florida/the-florida-keys-visitor-center-285028636",
+    "text": "Route #2"
+   }
+  ],
+  "instruction": {
+   "ANSWER": " via FL-821 S",
+   "destination": "The  Florida Keys Visitor Center",
+   "location": "fort lauderdale"
+  }
+ },
+ "d2dfdca38b": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/mi/detroit/to/us/oh/cleveland",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Cleveland, OH",
+   "location": "Detroit, MI"
+  }
+ },
+ "ecabadda19": {
+  "spans": [
+   {
+    "html": "\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-55 N\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div/div[2]/div",
+    "url": "https://www.mapquest.com/directions/from/us/tn/memphis/to/us/mo/jackson",
+    "text": "via I-55 N"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "2 hr 42 min",
+   "destination": "Jackson, MO",
+   "location": "Memphis, TN"
+  }
+ },
+ "30b6635a1a": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ny/new-york/to/us/ca/los-angeles",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "40hr 22min ",
+   "destination": "Los Angeles, CA",
+   "location": "New York, NY "
+  }
+ },
+ "10b44636ec": {
+  "spans": [
+   {
+    "html": "\r\n      Route #3\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[3]",
+    "url": "https://www.mapquest.com/directions/from/us/ca/san-francisco/to/us/fl/miami",
+    "text": "Route #3"
+   }
+  ],
+  "instruction": {
+   "destination": "Miami, FL",
+   "location": "San Francisco, CA"
+  }
+ },
+ "5b54d782f3": {
+  "spans": [
+   {
+    "html": "\r\n      Route #2\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "url": "https://www.mapquest.com/directions/from/us/tx/mcallen/to/us/ak/fairbanks",
+    "text": "Route #2"
+   }
+  ],
+  "instruction": {
+   "destination": "Fairbanks, AK",
+   "location": "McAllen, TX"
+  }
+ },
+ "ad6ed30ac4": {
+  "spans": [
+   {
+    "html": "\r\n      Route #3\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[3]",
+    "url": "https://www.mapquest.com/directions/from/us/va/woodbridge/to/us/in/logansport",
+    "text": "Route #3"
+   }
+  ],
+  "instruction": {
+   "destination": "Logansport, IN",
+   "location": "Woodbridge, VA"
+  }
+ },
+ "5571a2aa20": {
+  "spans": [
+   {
+    "html": "\r\n  <div ng-transclude=\"\" style=\"outline: none;\"></div>\r\n\r\n  <h3 class=\"ng-binding\" style=\"outline: none;\"><span class=\"primary-only\" style=\"outline: none;\">Route </span><small style=\"outline: none;\">#</small>1</h3>\r\n\r\n  <div class=\"via-area\" style=\"outline: none;\">\r\n    <div class=\"name primary-only ng-binding\" ng-attr-title=\"via {{routeInfo.name}}\" title=\"via I-84 W\" style=\"outline: none;\">\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-84 W\r\n    </div>\r\n\r\n    <div class=\"time-distance\" style=\"outline: none;\">\r\n      <span class=\"time ng-binding\" ng-bind-html=\"routeInfo.time | routeTimeDisplay:{abbreviateLabel:true}\" style=\"outline: none;\">25<span class=\"label\" style=\"outline: none;\">hr</span> 50<span class=\"label\" style=\"outline: none;\">min</span></span>\r\n      <div class=\"distance primary-only ng-binding\" style=\"outline: none;\">\r\n        1,766<span class=\"label ng-binding\" ng-bind=\"::routeInfo.unit === 'miles' ? 'mi': routeInfo.unit\" style=\"outline: none;\">mi</span>\r\n      </div>\r\n      <span ng-class=\"{'icon-car': routeInfo.routeType === 'fastest', 'icon-walk': routeInfo.routeType === 'pedestrian'}\" class=\"icon-car\" style=\"outline: none;\"></span>\r\n    </div>\r\n\r\n    <!-- ngIf: ctrl.showCampaignRouteButton() -->\r\n\r\n    <!-- ngIf: ctrl.showRouteCost() --><div class=\"fuel-cost-estimate primary-only ng-scope\" ng-if=\"ctrl.showRouteCost()\" style=\"outline: none;\">\r\n      <div class=\"fuel-cost-info\" style=\"outline: none;\">\r\n        <span style=\"outline: none;\">\r\n          <!-- ngIf: $storage.useIRSReimbursement -->\r\n          <!-- ngIf: !$storage.useIRSReimbursement --><span class=\"cost ng-binding ng-scope\" ng-if=\"!$storage.useIRSReimbursement\" style=\"outline: none;\">Est. fuel cost: <span class=\"ng-binding\" style=\"outline: none;\">$114.00</span></span><!-- end ngIf: !$storage.useIRSReimbursement -->\r\n          <a ng-href=\"http://help.mapquest.com/section/200972474#218115483\" target=\"_blank\" class=\"icon-question-mark hidden-print\" title=\"Based on EPA average of 35mpg hwy/25mpg city and average cost per gallon along your route. Learn more.\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"help-button-clicked-route-selection\" href=\"http://help.mapquest.com/section/200972474#218115483\" style=\"outline: none;\"></a>\r\n        </span>\r\n        <button type=\"button\" class=\"fuel-cost-button ng-binding not-logged-in\" ng-class=\"{'not-logged-in' : !ctrl.isLoggedIn()}\" ng-click=\"ctrl.addEditVehicle()\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"route-add-vehicle-button-clicked-route-selection\" style=\"outline: none;\">\r\n          Add your vehicle for more accurate fuel cost\r\n        </button>\r\n      </div>\r\n      <div class=\"default-vehicle ng-binding ng-hide\" ng-show=\"ctrl.isLoggedIn()\" style=\"outline: none;\">Add your vehicle for more accurate fuel cost</div>\r\n    </div><!-- end ngIf: ctrl.showRouteCost() -->\r\n\r\n    <div class=\"traffic-info primary-only ng-hide N/A\" ng-attr-data-print=\"{{::ctrl.trafficTime(routeInfo)}}\" ng-class=\"routeInfo.traffic\" ng-show=\"routeInfo.distanceInMiles<200\" data-print=\"Trip time based on traffic conditions as of 11:35 AM on February 21, 2017.\" style=\"outline: none;\">\r\n      Current Traffic: <span class=\"ng-binding\" style=\"outline: none;\">N/A</span>\r\n    </div>\r\n\r\n    <button type=\"button\" autofocus=\"\" class=\"btn-lg highlight primary-only view-directions ng-scope\" ng-class=\"{highlight: hasFocus, traffic: routeInfo.distanceInMiles<200, spin: viewDirectionsSpinner}\" us-spinner=\"\" spinner-key=\"view-directions-spinner\" ng-click=\"ctrl.goToRoute(routeNumber)\" analytics-on=\"\" analytics-category=\"route-info\" analytics-event=\"directions-button-clicked\" style=\"outline: none;\">\r\n      View <span style=\"outline: none;\">Route </span>Directions\r\n    </button>\r\n  </div>\r\n",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div",
+    "url": "https://www.mapquest.com/directions/from/us/tx/el-paso/to/us/wa/seattle",
+    "text": "via I-84 W 25hr 50min 1,766mi\r\nEST. FUEL COST: $114.00 \r\nAdd your vehicle for more accurate fuel cost\r\nView Directions"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-84 W",
+   "destination": "Seattle, WA",
+   "location": "El paso TX"
+  }
+ },
+ "8c48efabfe": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ny/new-york/to/us/wi/green-bay",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Green Bay, WI",
+   "location": "New York, NY"
+  }
+ },
+ "c36fc619af": {
+  "spans": [
+   {
+    "html": "\r\n      Route #2\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "url": "https://www.mapquest.com/directions/from/us/la/new-orleans/to/us/florida/walt-disney-world-resort-265689609",
+    "text": "Route #2"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-10 E to FL-429 S",
+   "destination": "Walt Disney World Resort",
+   "location": "New Orleans"
+  }
+ },
+ "ae4223af08": {
+  "spans": [
+   {
+    "html": "\r\n      Route #2\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "url": "https://www.mapquest.com/directions/from/us/tx/austin/to/us/co/colorado-springs",
+    "text": "Route #2"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "867",
+   "destination": "Colorado Springs, CO",
+   "location": "Austin, TX"
+  }
+ },
+ "26511f3a96": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/fl/miami/to/us/new-york/syracuse-hancock-international-airport-syr-1728266",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-81 N",
+   "destination": "Syracuse Hancock International Airport (SYR)",
+   "location": "Miami FL"
+  }
+ },
+ "7e23b2cb2c": {
+  "spans": [
+   {
+    "html": "\r\n      Route #2\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "url": "https://www.mapquest.com/directions/from/us/tn/memphis/to/us/co/denver",
+    "text": "Route #2"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "15hr 40min",
+   "destination": "Denver, CO",
+   "location": "Memphis, TN"
+  }
+ },
+ "4c5f90d648": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/sd/pierre/to/us/fl/miami",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Miami, FL",
+   "location": "Pierre, SD"
+  }
+ },
+ "bb75fc8cb7": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/mi/grand-rapids/to/us/in/indianapolis",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Indianapolis, IN",
+   "location": "Grand Rapids, MI"
+  }
+ },
+ "b81dce427f": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ky/louisville/to/us/la/new-orleans",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-59 S 10hr 25min 705mi",
+   "destination": "New Orleans, LA",
+   "location": "Louisville, KY"
+  }
+ },
+ "de6edf5f13": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ky/portland/to/us/wa/seattle",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "33hr 16min ",
+   "destination": "Seattle, WA",
+   "location": "Portland, KY"
+  }
+ },
+ "663953fd9f": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ca/los-angeles/to/us/il/chicago",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "28 hours 45 minutes",
+   "destination": "Chicago, IL",
+   "location": "Los Angeles, CA"
+  }
+ },
+ "d1b5b972c8": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ia/des-moines/to/us/oh/columbus",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Columbus, OH",
+   "location": "Des Moines, IA"
+  }
+ },
+ "47e7031395": {
+  "spans": [
+   {
+    "html": "\r\n  <div ng-transclude=\"\" style=\"outline: none;\"></div>\r\n\r\n  <h3 class=\"ng-binding\" style=\"outline: none;\"><span class=\"primary-only\" style=\"outline: none;\">Route </span><small style=\"outline: none;\">#</small>1</h3>\r\n\r\n  <div class=\"via-area\" style=\"outline: none;\">\r\n    <div class=\"name primary-only ng-binding\" ng-attr-title=\"via {{routeInfo.name}}\" title=\"via I-59 S\" style=\"outline: none;\">\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-59 S\r\n    </div>\r\n\r\n    <div class=\"time-distance\" style=\"outline: none;\">\r\n      <span class=\"time ng-binding\" ng-bind-html=\"routeInfo.time | routeTimeDisplay:{abbreviateLabel:true}\" style=\"outline: none;\">21<span class=\"label\" style=\"outline: none;\">hr</span> 24<span class=\"label\" style=\"outline: none;\">min</span></span>\r\n      <div class=\"distance primary-only ng-binding\" style=\"outline: none;\">\r\n        1,411<span class=\"label ng-binding\" ng-bind=\"::routeInfo.unit === 'miles' ? 'mi': routeInfo.unit\" style=\"outline: none;\">mi</span>\r\n      </div>\r\n      <span ng-class=\"{'icon-car': routeInfo.routeType === 'fastest', 'icon-walk': routeInfo.routeType === 'pedestrian'}\" class=\"icon-car\" style=\"outline: none;\"></span>\r\n    </div>\r\n\r\n    <!-- ngIf: ctrl.showCampaignRouteButton() -->\r\n\r\n    <!-- ngIf: ctrl.showRouteCost() --><div class=\"fuel-cost-estimate primary-only ng-scope\" ng-if=\"ctrl.showRouteCost()\" style=\"outline: none;\">\r\n      <div class=\"fuel-cost-info\" style=\"outline: none;\">\r\n        <span style=\"outline: none;\">\r\n          <!-- ngIf: $storage.useIRSReimbursement -->\r\n          <!-- ngIf: !$storage.useIRSReimbursement --><span class=\"cost ng-binding ng-scope\" ng-if=\"!$storage.useIRSReimbursement\" style=\"outline: none;\">Est. fuel cost: <span class=\"ng-binding\" style=\"outline: none;\">$86.80</span></span><!-- end ngIf: !$storage.useIRSReimbursement -->\r\n          <a ng-href=\"http://help.mapquest.com/section/200972474#218115483\" target=\"_blank\" class=\"icon-question-mark hidden-print\" title=\"Based on EPA average of 35mpg hwy/25mpg city and average cost per gallon along your route. Learn more.\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"help-button-clicked-route-selection\" href=\"http://help.mapquest.com/section/200972474#218115483\" style=\"outline: none;\"></a>\r\n        </span>\r\n        <button type=\"button\" class=\"fuel-cost-button ng-binding not-logged-in\" ng-class=\"{'not-logged-in' : !ctrl.isLoggedIn()}\" ng-click=\"ctrl.addEditVehicle()\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"route-add-vehicle-button-clicked-route-selection\" style=\"outline: none;\">\r\n          Add your vehicle for more accurate fuel cost\r\n        </button>\r\n      </div>\r\n      <div class=\"default-vehicle ng-binding ng-hide\" ng-show=\"ctrl.isLoggedIn()\" style=\"outline: none;\">Add your vehicle for more accurate fuel cost</div>\r\n    </div><!-- end ngIf: ctrl.showRouteCost() -->\r\n\r\n    <div class=\"traffic-info primary-only ng-hide N/A\" ng-attr-data-print=\"{{::ctrl.trafficTime(routeInfo)}}\" ng-class=\"routeInfo.traffic\" ng-show=\"routeInfo.distanceInMiles<200\" data-print=\"Trip time based on traffic conditions as of 11:42 AM on February 21, 2017.\" style=\"outline: none;\">\r\n      Current Traffic: <span class=\"ng-binding\" style=\"outline: none;\">N/A</span>\r\n    </div>\r\n\r\n    <button type=\"button\" autofocus=\"\" class=\"btn-lg highlight primary-only view-directions ng-scope\" ng-class=\"{highlight: hasFocus, traffic: routeInfo.distanceInMiles<200, spin: viewDirectionsSpinner}\" us-spinner=\"\" spinner-key=\"view-directions-spinner\" ng-click=\"ctrl.goToRoute(routeNumber)\" analytics-on=\"\" analytics-category=\"route-info\" analytics-event=\"directions-button-clicked\" style=\"outline: none;\">\r\n      View <span style=\"outline: none;\">Route </span>Directions\r\n    </button>\r\n  </div>\r\n",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div",
+    "url": "https://www.mapquest.com/directions/from/us/dc/washington/to/us/tx/houston",
+    "text": "via I-59 S 21hr 24min 1,411mi\r\nEST. FUEL COST: $86.80 \r\nAdd your vehicle for more accurate fuel cost\r\nView Directions"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "via I-59 S 21hr 20min 1,411mi  Est. fuel cost: $87.20 ",
+   "destination": "Houston, TX",
+   "location": "Washington, DC"
+  }
+ },
+ "90908974d2": {
+  "spans": [
+   {
+    "html": "\r\n      Route #3\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[3]",
+    "url": "https://www.mapquest.com/directions/from/us/fl/miami/to/us/ok/tulsa",
+    "text": "Route #3"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "21hr 21min ",
+   "destination": "Tulsa, OK",
+   "location": "Miami, FL"
+  }
+ },
+ "ffa34d730a": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/va/arlington/to/us/md/waldorf",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Waldorf, MD",
+   "location": "Arlington, VA"
+  }
+ },
+ "88d0cfbcd8": {
+  "spans": [
+   {
+    "html": "\r\n  <div ng-transclude=\"\" style=\"outline: none;\"></div>\r\n\r\n  <h3 class=\"ng-binding\" style=\"outline: none;\"><span class=\"primary-only\" style=\"outline: none;\">Route </span><small style=\"outline: none;\">#</small>1</h3>\r\n\r\n  <div class=\"via-area\" style=\"outline: none;\">\r\n    <div class=\"name primary-only ng-binding\" ng-attr-title=\"via {{routeInfo.name}}\" title=\"via I-40 E\" style=\"outline: none;\">\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-40 E\r\n    </div>\r\n\r\n    <div class=\"time-distance\" style=\"outline: none;\">\r\n      <span class=\"time ng-binding\" ng-bind-html=\"routeInfo.time | routeTimeDisplay:{abbreviateLabel:true}\" style=\"outline: none;\">6<span class=\"label\" style=\"outline: none;\">hr</span> 4<span class=\"label\" style=\"outline: none;\">min</span></span>\r\n      <div class=\"distance primary-only ng-binding\" style=\"outline: none;\">\r\n        412<span class=\"label ng-binding\" ng-bind=\"::routeInfo.unit === 'miles' ? 'mi': routeInfo.unit\" style=\"outline: none;\">mi</span>\r\n      </div>\r\n      <span ng-class=\"{'icon-car': routeInfo.routeType === 'fastest', 'icon-walk': routeInfo.routeType === 'pedestrian'}\" class=\"icon-car\" style=\"outline: none;\"></span>\r\n    </div>\r\n\r\n    <!-- ngIf: ctrl.showCampaignRouteButton() -->\r\n\r\n    <!-- ngIf: ctrl.showRouteCost() --><div class=\"fuel-cost-estimate primary-only ng-scope\" ng-if=\"ctrl.showRouteCost()\" style=\"outline: none;\">\r\n      <div class=\"fuel-cost-info\" style=\"outline: none;\">\r\n        <span style=\"outline: none;\">\r\n          <!-- ngIf: $storage.useIRSReimbursement -->\r\n          <!-- ngIf: !$storage.useIRSReimbursement --><span class=\"cost ng-binding ng-scope\" ng-if=\"!$storage.useIRSReimbursement\" style=\"outline: none;\">Est. fuel cost: <span class=\"ng-binding\" style=\"outline: none;\">$27.00</span></span><!-- end ngIf: !$storage.useIRSReimbursement -->\r\n          <a ng-href=\"http://help.mapquest.com/section/200972474#218115483\" target=\"_blank\" class=\"icon-question-mark hidden-print\" title=\"Based on EPA average of 35mpg hwy/25mpg city and average cost per gallon along your route. Learn more.\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"help-button-clicked-route-selection\" href=\"http://help.mapquest.com/section/200972474#218115483\" style=\"outline: none;\"></a>\r\n        </span>\r\n        <button type=\"button\" class=\"fuel-cost-button ng-binding not-logged-in\" ng-class=\"{'not-logged-in' : !ctrl.isLoggedIn()}\" ng-click=\"ctrl.addEditVehicle()\" analytics-on=\"\" analytics-category=\"manage-vehicles\" analytics-event=\"route-add-vehicle-button-clicked-route-selection\" style=\"outline: none;\">\r\n          Add your vehicle for more accurate fuel cost\r\n        </button>\r\n      </div>\r\n      <div class=\"default-vehicle ng-binding ng-hide\" ng-show=\"ctrl.isLoggedIn()\" style=\"outline: none;\">Add your vehicle for more accurate fuel cost</div>\r\n    </div><!-- end ngIf: ctrl.showRouteCost() -->\r\n\r\n    <div class=\"traffic-info primary-only ng-hide N/A\" ng-attr-data-print=\"{{::ctrl.trafficTime(routeInfo)}}\" ng-class=\"routeInfo.traffic\" ng-show=\"routeInfo.distanceInMiles<200\" data-print=\"Trip time based on traffic conditions as of 11:43 AM on February 21, 2017.\" style=\"outline: none;\">\r\n      Current Traffic: <span class=\"ng-binding\" style=\"outline: none;\">N/A</span>\r\n    </div>\r\n\r\n    <button type=\"button\" autofocus=\"\" class=\"btn-lg highlight primary-only view-directions ng-scope\" ng-class=\"{highlight: hasFocus, traffic: routeInfo.distanceInMiles<200, spin: viewDirectionsSpinner}\" us-spinner=\"\" spinner-key=\"view-directions-spinner\" ng-click=\"ctrl.goToRoute(routeNumber)\" analytics-on=\"\" analytics-category=\"route-info\" analytics-event=\"directions-button-clicked\" style=\"outline: none;\">\r\n      View <span style=\"outline: none;\">Route </span>Directions\r\n    </button>\r\n  </div>\r\n",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div",
+    "url": "https://www.mapquest.com/directions/from/us/az/sedona/to/us/nm/santa-fe",
+    "text": "via I-40 E 6hr 4min 412mi\r\nEST. FUEL COST: $27.00 \r\nAdd your vehicle for more accurate fuel cost\r\nView Directions"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "6 hours, 4 minutes",
+   "destination": "Santa Fe, NM",
+   "location": "Sedona, AZ"
+  }
+ },
+ "79673b3fc0": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/dc/washington/to/us/ny/new-york",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "ANSWER": "3 hours 53 minutes ",
+   "destination": "New York, NY",
+   "location": "Washington, D.C."
+  }
+ },
+ "ac8a5eb6bc": {
+  "spans": [
+   {
+    "html": "\r\n      Route #1\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "url": "https://www.mapquest.com/directions/from/us/ny/new-york/to/us/mo/kansas-city",
+    "text": "Route #1"
+   }
+  ],
+  "instruction": {
+   "destination": "Kansas City, MO",
+   "location": "New York, NY"
+  }
+ },
+ "f6cca7c5d8": {
+  "spans": [
+   {
+    "html": "\r\n      Route #2\r\n    ",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "url": "https://www.mapquest.com/directions/from/us/sc/myrtle-beach/to/us/fl/orlando",
+    "text": "Route #2"
+   }
+  ],
+  "instruction": {
+   "destination": "Orlando, FL",
+   "location": "Myrtle Beach, SC"
+  }
+ },
+ "8f08dfd58d": {
+  "instruction": {
+   "location": "Miami, FL",
+   "destination": "Torrington, CT",
+   "ANSWER": "via I-95 N 21hr 20min 1,389mi "
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/fl/miami/to/us/ct/torrington",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div/div[2]/div",
+    "text": "via I-95 N",
+    "html": "\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-95 N\r\n    "
+   }
+  ]
+ },
+ "61a1af54b8": {
+  "instruction": {
+   "location": "New York, NY",
+   "destination": "Los Angeles, CA",
+   "ANSWER": "via I-80 W 40hr 21min 2,794mi  Est. fuel cost: $188.00 "
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/ny/new-york/to/us/ca/los-angeles",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "3e0804802c": {
+  "instruction": {
+   "location": "Dallas, TX",
+   "destination": "Seattle, WA"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/tx/dallas/to/us/wa/seattle",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "68957707ef": {
+  "instruction": {
+   "location": "Manchester, MO",
+   "destination": "Jackson, MS"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/mo/manchester/to/us/ms/jackson",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "86309746c4": {
+  "instruction": {
+   "location": "El paso International airport",
+   "destination": "Miami International airport",
+   "ANSWER": "via I-10 E to I-295 S"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/texas/el-paso-international-airport-elp-9896137/to/us/florida/miami-international-airport-mia-366305216",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "bc4df0d27c": {
+  "instruction": {
+   "location": "Boston, MA",
+   "destination": "Chicago, IL",
+   "ANSWER": "15hr 16min"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/ma/boston/to/us/il/chicago",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "f23b680a56": {
+  "instruction": {
+   "location": "Gloucester, MA",
+   "destination": "Detroit, MI",
+   "ANSWER": "via New York Trwy N to ON-401 W 12hr 13min 740mi "
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/ma/gloucester/to/us/mi/detroit",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "c70bb01111": {
+  "instruction": {
+   "location": "Raleigh, NC",
+   "destination": "Pittsburgh, PA"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/nc/raleigh/to/us/pa/pittsburgh",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "21b239ad01": {
+  "instruction": {
+   "location": "Nashville, TN",
+   "destination": "Alexandria, VA"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/tn/nashville/to/us/va/alexandria",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div/div[2]/div",
+    "text": "via I-81 N",
+    "html": "\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-81 N\r\n    "
+   }
+  ]
+ },
+ "929a2dff98": {
+  "instruction": {
+   "location": "Cleveland, OH",
+   "destination": "Rapids, NY",
+   "ANSWER": "3hr 24min "
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/oh/cleveland/to/us/ny/rapids",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "132f24f722": {
+  "instruction": {
+   "location": "Tuscalooa. AL",
+   "destination": "Skagway, AK",
+   "ANSWER": "via I-29 N 58hr 21min 3,629mi  "
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions",
+    "xpath": "//*[@id=\"input-directions-0\"]",
+    "text": "",
+    "html": ""
+   }
+  ]
+ },
+ "08fb4eed0c": {
+  "instruction": {
+   "location": "Nashville, TN",
+   "destination": "Dallas, TX",
+   "ANSWER": "via I-30 W 9hr 41min 664mi"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/tn/nashville/to/us/tx/dallas",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div/div[2]/div",
+    "text": "via I-30 W",
+    "html": "\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-30 W\r\n    "
+   }
+  ]
+ },
+ "55f158abbb": {
+  "instruction": {
+   "location": "Reno, NV",
+   "destination": "New Orleans, LA"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/nv/reno/to/us/la/new-orleans",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "7cabd3f621": {
+  "instruction": {
+   "location": "Philadelphia, PA",
+   "destination": "Pittsburgh, PA",
+   "ANSWER": "4 hr 44 min"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/pa/philadelphia/to/us/pa/pittsburgh",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "f2a553ff7b": {
+  "instruction": {
+   "location": "San Diego, CA",
+   "destination": "Los Angeles, CA",
+   "ANSWER": "1 hour 56 minutes"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/ca/san-diego/to/us/ca/los-angeles",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "0439927e4d": {
+  "instruction": {
+   "location": "Hartford, CT",
+   "destination": "Lexington, KY",
+   "ANSWER": "12 hours 48 minutes"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/ct/hartford/to/us/ky/lexington",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "74e3bccefd": {
+  "instruction": {
+   "location": "El paso TX",
+   "destination": "Houston Zoo",
+   "ANSWER": "via I-10 E to TX-1604"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/tx/el-paso/to/us/texas/houston-zoo-265888825",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "text": "Route #2",
+    "html": "\r\n      Route #2\r\n    "
+   }
+  ]
+ },
+ "bbc9d72b8b": {
+  "instruction": {
+   "location": "Anaheim, CA",
+   "destination": "San Francisco, CA",
+   "ANSWER": "6 hr 16 min"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/ca/anaheim/to/us/ca/san-francisco",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "6768107c49": {
+  "instruction": {
+   "location": "Tuscon, AZ",
+   "destination": "Salt Lake City, UT",
+   "ANSWER": "12 hours 1 minute"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions",
+    "xpath": "//*[@id=\"input-directions-0\"]",
+    "text": "",
+    "html": ""
+   }
+  ]
+ },
+ "aabeaf8698": {
+  "instruction": {
+   "location": "Miami, FL",
+   "destination": "Coral Cape, FL",
+   "ANSWER": "2hr 33min"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions",
+    "xpath": "//*[@id=\"input-directions-1\"]",
+    "text": "",
+    "html": ""
+   }
+  ]
+ },
+ "46d03f339c": {
+  "instruction": {
+   "location": "Tulsa, OK",
+   "destination": "Fort Wayne, IN"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/ok/tulsa/to/us/in/fort-wayne",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div/div[2]/div",
+    "text": "via I-44 E",
+    "html": "\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-44 E\r\n    "
+   }
+  ]
+ },
+ "107b3a5fef": {
+  "instruction": {
+   "location": "Denver, CO",
+   "destination": "Miami, FL"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/co/denver/to/us/fl/miami",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "a9afb60b10": {
+  "instruction": {
+   "location": "Chicago, IL",
+   "destination": "Hustisford, WI",
+   "ANSWER": "2hr 23min"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/il/chicago/to/us/wi/hustisford",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "text": "Route #2",
+    "html": "\r\n      Route #2\r\n    "
+   }
+  ]
+ },
+ "75a955e469": {
+  "instruction": {
+   "location": "Milwaukee, WI",
+   "destination": "Tacoma, WA",
+   "ANSWER": "2009"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/wi/milwaukee/to/us/wa/tacoma",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "6ed1d70e1f": {
+  "instruction": {
+   "location": "Dallas, TX",
+   "destination": "Seattle, WA"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/tx/dallas/to/us/wa/seattle",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "30620c5feb": {
+  "instruction": {
+   "location": "San Francisco, CA",
+   "destination": "Memphis, TN",
+   "ANSWER": "30hr 4min"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/ca/san-francisco/to/us/tn/memphis",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div/div[2]/div",
+    "text": "via I-40 E",
+    "html": "\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-40 E\r\n    "
+   }
+  ]
+ },
+ "8334f7f542": {
+  "instruction": {
+   "location": "Cleveland, OH",
+   "destination": "Nashville, TN"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/oh/cleveland/to/us/tn/nashville",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "98b786ab44": {
+  "instruction": {
+   "location": "Champaign, IL",
+   "destination": "Nashville, TN",
+   "ANSWER": "5 hours, 34 minutes"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/il/champaign/to/us/tn/nashville",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[2]",
+    "text": "Route #2",
+    "html": "\r\n      Route #2\r\n    "
+   }
+  ]
+ },
+ "34ffea3de1": {
+  "instruction": {
+   "location": "San Diego, CA",
+   "destination": "Tucson, AZ",
+   "ANSWER": "6hr 1min"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/ca/san-diego/to/us/az/tucson",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div/div[2]/div",
+    "text": "via I-8 E",
+    "html": "\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-8 E\r\n    "
+   }
+  ]
+ },
+ "3fcaf78d05": {
+  "instruction": {
+   "location": "Helena, MT",
+   "destination": "Roanoke, VA",
+   "ANSWER": "31 hours 26 minutes"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/mt/helena/to/us/va/roanoke",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/div/route-info/div/div[2]/div",
+    "text": "via I-80 E",
+    "html": "\r\n      <!-- ngIf: routeInfo.name !== 'Multiple Stops' --><span class=\"via ng-scope\" ng-if=\"routeInfo.name !== 'Multiple Stops'\" style=\"outline: none;\">via</span><!-- end ngIf: routeInfo.name !== 'Multiple Stops' -->\r\n      I-80 E\r\n    "
+   }
+  ]
+ },
+ "ca39d5a2ab": {
+  "instruction": {
+   "location": "Miami, FL",
+   "destination": "Dallas, TX"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/fl/miami/to/us/tx/dallas",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li[3]",
+    "text": "Route #3",
+    "html": "\r\n      Route #3\r\n    "
+   }
+  ]
+ },
+ "c40832c250": {
+  "instruction": {
+   "location": "Portland, OR",
+   "destination": "New York, NY"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/or/portland/to/us/ny/new-york",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "436829252e": {
+  "instruction": {
+   "location": "Raleigh, NC",
+   "destination": "Dayton, OH",
+   "ANSWER": "8hr 6min"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/nc/raleigh/to/us/oh/dayton",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "69a0df0a8f": {
+  "instruction": {
+   "location": "Phoenix, Arizona",
+   "destination": "San Diego, CA",
+   "ANSWER": "355"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/az/phoenix/to/us/ca/san-diego",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "3a71a38b84": {
+  "instruction": {
+   "location": "Augusta, ME",
+   "destination": "Los Angeles, CA"
+  },
+  "spans": [
+   {
+    "url": "https://www.mapquest.com/directions/from/us/me/augusta/to/us/ca/los-angeles",
+    "xpath": "//*[@id=\"primaryPanel\"]/div[10]/div/div/div[2]/div/form/div[2]/div/div/ol/li",
+    "text": "Route #1",
+    "html": "\r\n      Route #1\r\n    "
+   }
+  ]
+ },
+ "d19537cf40": {
+  "instruction": {
+   "destination": "Portland, OR",
+   "location": "Seattle, WA"
+  }
+ },
+ "ecfd5cd9f1": {
+  "instruction": {
+   "destination": "Houston, TX",
+   "location": "Coral Cape, FL",
+   "ANSWER": "16hr 22min"
+  }
+ },
+ "f779c71b63": {
+  "instruction": {
+   "destination": "Las Vegas, NV",
+   "location": "Los Angeles, CA",
+   "ANSWER": "4hr 8min"
+  }
+ },
+ "483401cb48": {
+  "instruction": {
+   "destination": "Sun Valley, ID",
+   "location": "Savannah, GA",
+   "ANSWER": "via I-80 W 34hr 46min 2,419mi"
+  }
+ },
+ "ba0f961e21": {
+  "instruction": {
+   "destination": "Las Vegas, Nevada",
+   "location": "El paso International airport",
+   "ANSWER": "via I-10 W to US-70 W"
+  }
+ },
+ "a78abf603c": {
+  "instruction": {
+   "destination": "Birmingham, AL",
+   "location": "Orlando, FL",
+   "ANSWER": "8 hours 41 minutes "
+  }
+ },
+ "3e1077a789": {
+  "instruction": {
+   "destination": "Evanston, IL",
+   "location": "Berkeley, CA",
+   "ANSWER": "30 hours, 6 minutes"
+  }
+ },
+ "2114210d5e": {
+  "instruction": {
+   "destination": "Louisville, KY",
+   "location": "Baltimore, MD",
+   "ANSWER": "9hr 9min"
+  }
+ },
+ "65e320b4ab": {
+  "instruction": {
+   "destination": "Pittsburgh, PA",
+   "location": "Aurora, CO",
+   "ANSWER": "21hr 4min "
+  }
+ },
+ "6f83fa408a": {
+  "instruction": {
+   "destination": "Dallas, TX",
+   "location": "Miami, FL"
+  }
+ },
+ "5ea5c3bb0e": {
+  "instruction": {
+   "destination": "Mianus, CT",
+   "location": "Virginia Beach, VA"
+  }
+ },
+ "1a10c0a0fa": {
+  "instruction": {
+   "destination": "Austin, TX",
+   "location": "Boise, ID"
+  }
+ },
+ "2e117e817b": {
+  "instruction": {
+   "destination": "Appleton, WI",
+   "location": "Providence, RI",
+   "ANSWER": "18 hours, 5 minutes"
+  }
+ },
+ "280b2b0b3a": {
+  "instruction": {
+   "destination": "Cincinnati, OH",
+   "location": "Lexington, Ky"
+  }
+ },
+ "fe195794d3": {
+  "instruction": {
+   "destination": "Raleigh, NC",
+   "location": "Atlanta, GA",
+   "ANSWER": "407"
+  }
+ },
+ "9244ebfd59": {
+  "instruction": {
+   "destination": "Bozeman, MT",
+   "location": "Seattle, WA",
+   "ANSWER": "677"
+  }
+ },
+ "bd859e9a05": {
+  "instruction": {
+   "destination": "Baltimore, MD",
+   "location": "Atlantic City, NJ",
+   "ANSWER": "2 hr 35 min"
+  }
+ },
+ "cf47d0fbcc": {
+  "instruction": {
+   "destination": "Chicago, IL",
+   "location": "Pontiac, IL",
+   "ANSWER": "1 hr 38 min"
+  }
+ },
+ "770acfde8c": {
+  "instruction": {
+   "destination": "Baltimore, MD",
+   "location": "Charleston, SC",
+   "ANSWER": "8 hours 54 minutes"
+  }
+ },
+ "36172782ec": {
+  "instruction": {
+   "destination": "New York, NY",
+   "location": "Houston, TX",
+   "ANSWER": "24hr 48min"
+  }
+ },
+ "637615599f": {
+  "instruction": {
+   "destination": "Virginia Beach City, VA",
+   "location": "Lincoln, IL",
+   "ANSWER": "via I-74 E 14hr 21min 928mi "
+  }
+ },
+ "a587888df9": {
+  "instruction": {
+   "destination": "Mobile, AL",
+   "location": "Tallahassee, FL ",
+   "ANSWER": "3 hr 40 min"
+  }
+ },
+ "5ddcdca909": {
+  "instruction": {
+   "destination": "Lubbock, TX",
+   "location": "Providence, RI",
+   "ANSWER": "30 hours 19 minutes"
+  }
+ },
+ "dcf5b4cee6": {
+  "instruction": {
+   "destination": "New York, NY",
+   "location": "Baltimore, MD",
+   "ANSWER": "3 hours 12 minutes"
+  }
+ },
+ "1808db6334": {
+  "instruction": {
+   "destination": "St. Louis, MO",
+   "location": "Nashville, TN",
+   "ANSWER": "via I-24 W 4hr 35min 308mi "
+  }
+ },
+ "f5b0eee746": {
+  "instruction": {
+   "destination": "Boston, CA",
+   "location": "Santa Fe, NM"
+  }
+ },
+ "1b24dd413a": {
+  "instruction": {
+   "destination": "Chicago, IL",
+   "location": "Philadelphia, PA",
+   "ANSWER": "11 hours, 23 minutes"
+  }
+ },
+ "b060af2e3e": {
+  "instruction": {
+   "destination": "Pittsburgh, PA",
+   "location": "St. Cloud, MO",
+   "ANSWER": "Route #1 via I-70 E 10hr 18min 673mi "
+  }
+ },
+ "8d6488da1f": {
+  "instruction": {
+   "destination": "Boulder, CO",
+   "location": "Helena, MT"
+  }
+ },
+ "9f41378925": {
+  "instruction": {
+   "destination": "Cincinnati, OH",
+   "location": "Dayton, OH"
+  }
+ },
+ "351cbede84": {
+  "instruction": {
+   "destination": "San Antonio, TX",
+   "location": "Phoenix, AZ",
+   "ANSWER": "13hr 17min"
+  }
+ },
+ "f3fd47ee05": {
+  "instruction": {
+   "destination": "Washington, DC",
+   "location": "Miami, FL",
+   "ANSWER": "15hr 36min "
+  }
+ },
+ "ff6b542978": {
+  "instruction": {
+   "destination": "Detroit, MI",
+   "location": "Kansas City, MO"
+  }
+ },
+ "463a1a1388": {
+  "instruction": {
+   "destination": "Miami International airport",
+   "location": "El paso International airport",
+   "ANSWER": "via I-10 E to FL-91 S"
+  }
+ },
+ "c71b900cc3": {
+  "instruction": {
+   "destination": "Kansas City, MO",
+   "location": "indianapolis",
+   "ANSWER": "7hr 19min"
+  }
+ },
+ "83248e2b9b": {
+  "instruction": {
+   "destination": "Kansas City, MO",
+   "location": "New York, NY"
+  }
+ },
+ "42c43576a7": {
+  "instruction": {
+   "destination": "Richmond, VA",
+   "location": "Bowie, MD"
+  }
+ },
+ "73b0accc30": {
+  "instruction": {
+   "destination": "Salem, MA",
+   "location": "Salem, OR",
+   "ANSWER": "45 hours 46 minutes"
+  }
+ },
+ "08661ba602": {
+  "instruction": {
+   "destination": "Cedar Rapids, IA",
+   "location": "Knoxville, TN"
+  }
+ },
+ "50a35a2e40": {
+  "instruction": {
+   "destination": "Honolulu, HI",
+   "location": "Kapolei, HI",
+   "ANSWER": "26min"
+  }
+ },
+ "05825032ec": {
+  "instruction": {
+   "destination": "Boise, ID",
+   "location": "Seattle, WA",
+   "ANSWER": "7 hours, 34 minutes"
+  }
+ },
+ "dfcf3356e0": {
+  "instruction": {
+   "destination": "Brownsville, TX",
+   "location": "Springfield, MO",
+   "ANSWER": "14 hours, 33 minutes"
+  }
+ },
+ "a61e467045": {
+  "instruction": {
+   "destination": "Shreveport, LA",
+   "location": "Madison, WI",
+   "ANSWER": "14 hours 4 minutes"
+  }
+ },
+ "bff55b31b7": {
+  "instruction": {
+   "destination": "fort lauderdale",
+   "location": "Walt Disney World Resort",
+   "ANSWER": "via FL-91 S"
+  }
+ }
+}

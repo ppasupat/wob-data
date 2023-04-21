@@ -1,0 +1,62 @@
+{
+ "9f189127f6": {
+  "instruction": {
+   "electronics": "audio equipment",
+   "price": "150 dollars"
+  }
+ },
+ "5e42106d26": {
+  "instruction": {
+   "electronics": "computers",
+   "price": "800 dollars"
+  }
+ },
+ "4d7f893adf": {
+  "instruction": {
+   "electronics": "smart devices",
+   "price": "400 dollars"
+  }
+ },
+ "c7a3939a5a": {
+  "instruction": {
+   "electronics": "video games",
+   "price": "80 dollars"
+  }
+ },
+ "90e5ff52ba": {
+  "instruction": {
+   "electronics": "video game systems",
+   "price": "300 dollars"
+  }
+ },
+ "e1e788b68d": {
+  "instruction": {
+   "electronics": "wearable tech",
+   "price": "200 dollars"
+  }
+ },
+ "31502c5998": {
+  "instruction": {
+   "electronics": "cameras",
+   "price": "250 dollars"
+  }
+ },
+ "edc584dd11": {
+  "instruction": {
+   "electronics": "GPS equipment",
+   "price": "300 dollars"
+  }
+ },
+ "bf7e519485": {
+  "instruction": {
+   "electronics": "Smart TVs ",
+   "price": "1000 dollars"
+  }
+ },
+ "9b83570f1c": {
+  "instruction": {
+   "electronics": "headphones",
+   "price": "90 dollars"
+  }
+ }
+}

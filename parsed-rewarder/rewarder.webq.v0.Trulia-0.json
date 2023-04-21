@@ -1,0 +1,1325 @@
+{
+ "f72a2207e7": {
+  "instruction": {
+   "state": "FL",
+   "city": "Tampa Heights",
+   "ANSWER": "$258,404.00"
+  }
+ },
+ "f7ec13b67c": {
+  "instruction": {
+   "state": "TN",
+   "city": "Nashville",
+   "ANSWER": "147,000"
+  }
+ },
+ "3478a5aec0": {
+  "instruction": {
+   "state": "SC",
+   "city": "Charleston",
+   "ANSWER": "$670,872.00"
+  }
+ },
+ "d986c107bc": {
+  "instruction": {
+   "state": "NY",
+   "city": "Albany"
+  }
+ },
+ "cd3ebdb5cf": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "location": "Daytona Beach, FL",
+   "price": "200,000"
+  }
+ },
+ "d2ad82976a": {
+  "instruction": {
+   "amount of bedrooms": "1",
+   "ANSWER": "good price",
+   "location": "New York",
+   "price": "345500"
+  }
+ },
+ "e7b096f5a5": {
+  "instruction": {
+   "state": "GA",
+   "city": "Atlanta"
+  }
+ },
+ "7c4810dbfc": {
+  "instruction": {
+   "state": "VT",
+   "city": "Burlington"
+  }
+ },
+ "6630bef8ba": {
+  "instruction": {
+   "state": "NY",
+   "city": "Queens",
+   "ANSWER": "$711,625"
+  }
+ },
+ "b75a9ae8ae": {
+  "instruction": {
+   "state": "LA",
+   "city": "Iberia",
+   "ANSWER": "$163,001.00"
+  }
+ },
+ "6fd41ceeec": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "2511 Rancho Siringo Dr Santa Fe, NM 87505",
+   "location": "Santa Fe, NM",
+   "price": "99900"
+  }
+ },
+ "d33630dda5": {
+  "instruction": {
+   "state": "AK",
+   "city": "Fairbanks"
+  }
+ },
+ "6272bfb3b6": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "location": "Detroit, MI",
+   "price": "450000"
+  }
+ },
+ "06634a7158": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "3111 Kellogg Ave Dallas, TX 75216 ",
+   "location": "Dallas, TX",
+   "price": "15000"
+  }
+ },
+ "5e7ed68c33": {
+  "instruction": {
+   "state": "OH",
+   "city": "Youngstown",
+   "ANSWER": "18,500"
+  }
+ },
+ "a3b7fa5476": {
+  "instruction": {
+   "amount of bedrooms": "3-5",
+   "ANSWER": "good",
+   "location": "Imperial Beach",
+   "price": "539000"
+  }
+ },
+ "ceb54804cb": {
+  "instruction": {
+   "state": "NJ",
+   "city": "Salem",
+   "ANSWER": "$126,806"
+  }
+ },
+ "9c8034ef67": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "location": "Orlando, FL",
+   "price": "250000"
+  }
+ },
+ "a4d0f62ad2": {
+  "instruction": {
+   "location": "Providence, RI",
+   "price": "600000",
+   "amount of bedrooms": "4"
+  }
+ },
+ "af809659c2": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "ANSWER": "169786",
+   "location": "Lake Mary, FL",
+   "price": "250000"
+  }
+ },
+ "8fde4a4824": {
+  "instruction": {
+   "amount of bedrooms": "5",
+   "ANSWER": "155999",
+   "location": "Baton Rouge, LA",
+   "price": "500000"
+  }
+ },
+ "42729281d4": {
+  "instruction": {
+   "state": "Wisconsin",
+   "city": "Belleville",
+   "ANSWER": "209,450"
+  }
+ },
+ "c0991a62ed": {
+  "instruction": {
+   "amount of bedrooms": "5",
+   "ANSWER": "100000",
+   "location": "Orlando, FL",
+   "price": "300000"
+  }
+ },
+ "96b6de1513": {
+  "instruction": {
+   "amount of bedrooms": "1",
+   "ANSWER": "611 Pine Ridge Pl Raleigh, NC 27609 (North Raleigh",
+   "location": "Raleigh, NC",
+   "price": "250000"
+  }
+ },
+ "ac52c6aec6": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "79900",
+   "location": "Provo, UT",
+   "price": "250000"
+  }
+ },
+ "f1b9cf9e5e": {
+  "instruction": {
+   "amount of bedrooms": "4-5",
+   "ANSWER": "bit cost ",
+   "location": "Manhasset",
+   "price": "1798000"
+  }
+ },
+ "55bb352a86": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "$99,900",
+   "location": "Flaggstaff, Az",
+   "price": "100,000"
+  }
+ },
+ "caf2291de3": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "3944 University St Memphis, TN 38127 (Frayser - Raleigh PD)",
+   "location": "Memphis, TN",
+   "price": "200000"
+  }
+ },
+ "039cae8c3e": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "cheap price",
+   "location": "Indian Lake",
+   "price": "138000"
+  }
+ },
+ "160713e85d": {
+  "instruction": {
+   "state": "SC",
+   "city": "Columbia",
+   "ANSWER": "$201,386.00"
+  }
+ },
+ "130ee3a49a": {
+  "instruction": {
+   "location": "Phoenix, AZ",
+   "price": "200000",
+   "amount of bedrooms": "1"
+  }
+ },
+ "c4ea8d15d5": {
+  "instruction": {
+   "amount of bedrooms": "1",
+   "location": "Phoenix, AZ",
+   "price": "200000"
+  }
+ },
+ "09633b41dc": {
+  "instruction": {
+   "state": "CO",
+   "city": "Boulder",
+   "ANSWER": "434,966"
+  }
+ },
+ "bff5bb9204": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "19900",
+   "location": "Jacksonville, FL",
+   "price": "200000"
+  }
+ },
+ "7f017cf71c": {
+  "instruction": {
+   "state": "NC",
+   "city": "Asheville",
+   "ANSWER": "343,700"
+  }
+ },
+ "360eaf6fed": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "https://www.trulia.com/property/3222121048-251-W-Warren-St-Washington-NJ-07882",
+   "location": "Washington, NJ",
+   "price": "300000"
+  }
+ },
+ "d49d6832d3": {
+  "instruction": {
+   "state": "TN",
+   "city": "Knoxville ",
+   "ANSWER": "299,500"
+  }
+ },
+ "b45dcb522d": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "30000",
+   "location": "tampa, FL",
+   "price": "200000"
+  }
+ },
+ "bbd54d9be7": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "$84,774",
+   "location": "Seattle, Wa",
+   "price": "100,000"
+  }
+ },
+ "bdecf7114d": {
+  "instruction": {
+   "amount of bedrooms": "1",
+   "ANSWER": "145500",
+   "location": "Flagstaff, AZ",
+   "price": "250000"
+  }
+ },
+ "b29e130bfa": {
+  "instruction": {
+   "state": "FL",
+   "city": "Sarasota",
+   "ANSWER": "$847,000.00"
+  }
+ },
+ "b14d895f53": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "location": "Huntsville, AL",
+   "price": "300000"
+  }
+ },
+ "58129bdb4a": {
+  "instruction": {
+   "location": "Boston, MA",
+   "price": "500000",
+   "amount of bedrooms": "4"
+  }
+ },
+ "c98174dcbe": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "15000",
+   "location": "Jacksonville, FL",
+   "price": "200000"
+  }
+ },
+ "e113514934": {
+  "instruction": {
+   "state": "PA",
+   "city": "Pittsburgh"
+  }
+ },
+ "b84d6ceee9": {
+  "instruction": {
+   "state": "OH",
+   "city": "Columbus",
+   "ANSWER": "294,100"
+  }
+ },
+ "129bcd98b6": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "location": "Texas City, TX",
+   "price": "400,000"
+  }
+ },
+ "bf49686945": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "https://www.trulia.com/property/3257967658-903-Garden-St-Hoboken-NJ-07030",
+   "location": "Hoboken, NJ",
+   "price": "500000"
+  }
+ },
+ "c2ebc39d63": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "18000",
+   "location": "Wichita, KS",
+   "price": "200000"
+  }
+ },
+ "8d79336949": {
+  "instruction": {
+   "state": "DE",
+   "city": "New Castle",
+   "ANSWER": "$230,410"
+  }
+ },
+ "3f7c1f4f94": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "ANSWER": "11723 Glowing Sunset Ln Las Vegas, NV 89135 (Summerlin South)",
+   "location": "Las Vegas, NV",
+   "price": "600000"
+  }
+ },
+ "f018c38e8b": {
+  "instruction": {
+   "state": "Wisconsin",
+   "city": "Middleton ",
+   "ANSWER": "389,950"
+  }
+ },
+ "9642dce8f2": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "location": "Elizabeth, NJ",
+   "price": "275000"
+  }
+ },
+ "aaca5736f3": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "location": "Atlanta, GA",
+   "price": "350000"
+  }
+ },
+ "8e27e20ebd": {
+  "instruction": {
+   "state": "CA",
+   "city": "Sacremento",
+   "ANSWER": "375,000"
+  }
+ },
+ "0783b22dad": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "718 N Raymond Ave #9 Pasadena, CA 91103 (North Central)",
+   "location": "Pasadena, CA",
+   "price": "350000"
+  }
+ },
+ "76683a2159": {
+  "instruction": {
+   "amount of bedrooms": "1",
+   "ANSWER": "9900",
+   "location": "Barstow, CA",
+   "price": "250000"
+  }
+ },
+ "54b534ac9d": {
+  "instruction": {
+   "state": "NJ",
+   "city": "Cumberland",
+   "ANSWER": "$124,440"
+  }
+ },
+ "17bec6e866": {
+  "instruction": {
+   "state": "ME",
+   "city": "Bangor"
+  }
+ },
+ "f60f3579de": {
+  "instruction": {
+   "state": "GA",
+   "city": "Augusta",
+   "ANSWER": "92,975"
+  }
+ },
+ "228797148d": {
+  "instruction": {
+   "state": "MI",
+   "city": "Ann Arbor",
+   "ANSWER": "315,000"
+  }
+ },
+ "35ab5612e3": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "101500",
+   "location": "Baton Rouge, LA",
+   "price": "250000"
+  }
+ },
+ "1848da8cff": {
+  "instruction": {
+   "location": "Orlando, FL",
+   "price": "250000",
+   "amount of bedrooms": "2"
+  }
+ },
+ "ab6442074f": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "location": "Las Vegas, NV",
+   "price": "300000"
+  }
+ },
+ "a2e365e25e": {
+  "instruction": {
+   "amount of bedrooms": "3-4",
+   "ANSWER": "good price",
+   "location": "Penfield",
+   "price": "255400"
+  }
+ },
+ "1d4c268b08": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "ANSWER": "95000",
+   "location": "Las Vegas, NV",
+   "price": "250000"
+  }
+ },
+ "fe51a13e59": {
+  "instruction": {
+   "location": "Elizabeth, NJ",
+   "price": "275000",
+   "amount of bedrooms": "2"
+  }
+ },
+ "ad7405bd16": {
+  "instruction": {
+   "amount of bedrooms": "3-5",
+   "ANSWER": "BIT COST",
+   "location": "Malibu",
+   "price": "1449000"
+  }
+ },
+ "14427648c8": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "location": "Queens, NY",
+   "price": "600,000"
+  }
+ },
+ "680f3651d8": {
+  "instruction": {
+   "state": "Wisconsin",
+   "city": "Milwaukee",
+   "ANSWER": "123,583"
+  }
+ },
+ "104bfdc690": {
+  "instruction": {
+   "amount of bedrooms": "1",
+   "ANSWER": "https://www.trulia.com/property/3165233647-614-Columbus-Ave-B2-Boston-MA-02118",
+   "location": "Boston, MA",
+   "price": "200000"
+  }
+ },
+ "914c104df7": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "27500",
+   "location": "New Orleans, LA",
+   "price": "100000"
+  }
+ },
+ "39da23e2d7": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "$34,500",
+   "location": "Auburn, Ca",
+   "price": "50,000"
+  }
+ },
+ "63edbc06d6": {
+  "instruction": {
+   "location": "Huntsville, AL",
+   "price": "300000",
+   "amount of bedrooms": "2"
+  }
+ },
+ "0be11b139c": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "8312 Citation Ave Austin, TX",
+   "location": "Austin, TX",
+   "price": "50000"
+  }
+ },
+ "a481dff884": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "location": "Las Vegas, NV",
+   "price": "375,000"
+  }
+ },
+ "6e056dd0f9": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "location": "Boston, MA",
+   "price": "500000"
+  }
+ },
+ "a9e15cfb54": {
+  "instruction": {
+   "state": "OH",
+   "city": "Toledo",
+   "ANSWER": "101,750"
+  }
+ },
+ "6d0d3398dd": {
+  "instruction": {
+   "state": "OH",
+   "city": "Cleveland",
+   "ANSWER": "192,400"
+  }
+ },
+ "dc1a4cd3fe": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "$349,900",
+   "location": "Bend, Or",
+   "price": "500,000"
+  }
+ },
+ "21885ffe9b": {
+  "instruction": {
+   "state": "NY",
+   "city": "Bronx",
+   "ANSWER": "$467,110"
+  }
+ },
+ "e9e8412aaa": {
+  "instruction": {
+   "state": "GA",
+   "city": "Atlanta",
+   "ANSWER": "237,500"
+  }
+ },
+ "975cae0e4c": {
+  "instruction": {
+   "state": "CA",
+   "city": "Humboldt",
+   "ANSWER": "259,900"
+  }
+ },
+ "d7426b363e": {
+  "instruction": {
+   "location": "Detroit, MI",
+   "price": "450000",
+   "amount of bedrooms": "4"
+  }
+ },
+ "2d02b6827b": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "$182,900",
+   "location": "Dallas, Tx",
+   "price": "200,000"
+  }
+ },
+ "220a2b981b": {
+  "instruction": {
+   "state": "Wisconsin",
+   "city": "Wisconsin Dells",
+   "ANSWER": "217,200"
+  }
+ },
+ "2f13261570": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "ANSWER": "430 Evonshire Ave Santa Barbara, CA",
+   "location": "Santa Barbara, CA",
+   "price": "699000"
+  }
+ },
+ "bb7095df29": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "https://www.trulia.com/property/3225841884-1064-William-St-Elizabeth-NJ-07201",
+   "location": "Elizabeth, NJ",
+   "price": "500000"
+  }
+ },
+ "bb2e1c25e2": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "15000",
+   "location": "Wichita, KS",
+   "price": "200000"
+  }
+ },
+ "2d5fa74842": {
+  "instruction": {
+   "state": "DE",
+   "city": "Sussex",
+   "ANSWER": "$343,397"
+  }
+ },
+ "eef4a91e35": {
+  "instruction": {
+   "state": "AZ",
+   "city": "Phoenix",
+   "ANSWER": "244,145"
+  }
+ },
+ "50a46c9476": {
+  "instruction": {
+   "state": "OR",
+   "city": "Portland ",
+   "ANSWER": "319,000"
+  }
+ },
+ "5346702be3": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "19900",
+   "location": "Winslow, AZ",
+   "price": "250000"
+  }
+ },
+ "cdea9fbbdc": {
+  "instruction": {
+   "amount of bedrooms": "1",
+   "ANSWER": "45000",
+   "location": "Mesquite, NV",
+   "price": "250000"
+  }
+ },
+ "55230b057f": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "38000",
+   "location": "tampa, FL",
+   "price": "200000"
+  }
+ },
+ "d7bba37c33": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "$325,990",
+   "location": "Orlando, Fl",
+   "price": "400,000"
+  }
+ },
+ "106e400e4d": {
+  "instruction": {
+   "state": "VA",
+   "city": "Richmond"
+  }
+ },
+ "c1f46d7e99": {
+  "instruction": {
+   "location": "Atlanta, GA",
+   "price": "350000",
+   "amount of bedrooms": "3"
+  }
+ },
+ "104c023c73": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "207 W 147th St #2C New York, NY 10039 (Harlem)",
+   "location": "New York City, NY",
+   "price": "100000"
+  }
+ },
+ "c223d4bace": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "location": "Newark, NJ",
+   "price": "500,000"
+  }
+ },
+ "c38690f568": {
+  "instruction": {
+   "state": "Wisconsin",
+   "city": "Madison",
+   "ANSWER": "309,900"
+  }
+ },
+ "fbeb0cc403": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "location": "Oakland, CA",
+   "price": "350,000"
+  }
+ },
+ "231ca37d94": {
+  "instruction": {
+   "amount of bedrooms": "1",
+   "ANSWER": "https://www.trulia.com/property/3235115093-42-E-73rd-St-2A-New-York-NY-10021",
+   "location": "New York NY",
+   "price": "200000"
+  }
+ },
+ "98a49b9d1f": {
+  "instruction": {
+   "state": "IA",
+   "city": "Black Hawk",
+   "ANSWER": "$156,537"
+  }
+ },
+ "b8756028c8": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "$273,995",
+   "location": "Houston, Tx",
+   "price": "300,000"
+  }
+ },
+ "ed5d8fc292": {
+  "instruction": {
+   "state": "Wisconsin",
+   "city": "Green Bay",
+   "ANSWER": "73,200"
+  }
+ },
+ "d066faa7b0": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "4808 W 25th St Oak Forest, Little Rock, AR",
+   "location": "Little Rock, AR",
+   "price": "14000"
+  }
+ },
+ "f6f0886a82": {
+  "instruction": {
+   "state": "LA",
+   "city": "Natchitoches",
+   "ANSWER": "$199,875.00"
+  }
+ },
+ "b4404da104": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "2306 Stirrup Dr Round Rock, TX 78681 ",
+   "location": "Round Rock,TX",
+   "price": "139000"
+  }
+ },
+ "67fcd3a44a": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "2208 Manor Ave Pittsburgh, PA 15218",
+   "location": "Pittsburgh, PA",
+   "price": "200000"
+  }
+ },
+ "3a426cc51d": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "85000",
+   "location": "hazlet, NJ",
+   "price": "100000"
+  }
+ },
+ "92285e3b2d": {
+  "instruction": {
+   "state": "AK",
+   "city": "Sitka",
+   "ANSWER": "$414,158.00"
+  }
+ },
+ "bbb5a02da8": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "$450,990",
+   "location": "Tampa, Fl",
+   "price": "500,000"
+  }
+ },
+ "ebb9a1a526": {
+  "instruction": {
+   "state": "AZ",
+   "city": "Kingman",
+   "ANSWER": "159,970"
+  }
+ },
+ "76a6457272": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "https://www.trulia.com/property/1071654903-406-408-S-7th-St-Elizabeth-NJ-07202",
+   "location": "Elizabeth, NJ",
+   "price": "500000"
+  }
+ },
+ "4b05c44a4d": {
+  "instruction": {
+   "amount of bedrooms": "1",
+   "ANSWER": "16900",
+   "location": "Keansburg,NJ",
+   "price": "100000"
+  }
+ },
+ "236cb59a31": {
+  "instruction": {
+   "state": "MI",
+   "city": "Detroit",
+   "ANSWER": "126,200"
+  }
+ },
+ "d13aa88a13": {
+  "instruction": {
+   "amount of bedrooms": "6",
+   "ANSWER": "87500",
+   "location": "New Orleans, LA",
+   "price": "200000"
+  }
+ },
+ "6bc6c7da9a": {
+  "instruction": {
+   "amount of bedrooms": "1",
+   "ANSWER": "55500",
+   "location": "Needles, CA",
+   "price": "250000"
+  }
+ },
+ "a1f8beae94": {
+  "instruction": {
+   "state": "IA",
+   "city": "Johnson",
+   "ANSWER": "$291,101"
+  }
+ },
+ "30058b9a68": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "ANSWER": "179 Paris St Athens, GA 30606",
+   "location": "Athens, GA",
+   "price": "500000"
+  }
+ },
+ "ae1fbf02ff": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "5430 Bronco Billy San Antonio, TX",
+   "location": "San Antonio, TX",
+   "price": "11000"
+  }
+ },
+ "2fcc31db58": {
+  "instruction": {
+   "amount of bedrooms": "5",
+   "ANSWER": "53000",
+   "location": "Wichita, KS",
+   "price": "300000"
+  }
+ },
+ "a7ab38137d": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "7319 Ridge Oak Dr Houston, TX 77088 ",
+   "location": "Houston, TX",
+   "price": "1557"
+  }
+ },
+ "d6a374db00": {
+  "instruction": {
+   "state": "NV",
+   "city": "Las Vegas",
+   "ANSWER": "239,321"
+  }
+ },
+ "76d093063a": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "ANSWER": "25000",
+   "location": "Jacksonville, FL",
+   "price": "300000"
+  }
+ },
+ "a09b3f16eb": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "ANSWER": "28500",
+   "location": "Wichita, KS",
+   "price": "300000"
+  }
+ },
+ "8bfa1f816d": {
+  "instruction": {
+   "state": "Wisconsin",
+   "city": "Wausau",
+   "ANSWER": "114900"
+  }
+ },
+ "c7e1f65788": {
+  "instruction": {
+   "amount of bedrooms": "1",
+   "ANSWER": "27900",
+   "location": "St. George, UT",
+   "price": "250000"
+  }
+ },
+ "dd47a89db5": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "good",
+   "location": "Sonoma",
+   "price": "137500"
+  }
+ },
+ "650578f69c": {
+  "instruction": {
+   "state": "NC",
+   "city": "Fayetteville",
+   "ANSWER": "$118,888.00"
+  }
+ },
+ "1ff724fc31": {
+  "instruction": {
+   "state": "DE",
+   "city": "Kent",
+   "ANSWER": "$211,063"
+  }
+ },
+ "be1f9707d1": {
+  "instruction": {
+   "state": "OH",
+   "city": "Cincinnati",
+   "ANSWER": "287,450"
+  }
+ },
+ "9e3e7b30e6": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "location": "Charloette, NC",
+   "price": "300,000"
+  }
+ },
+ "252eda9681": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "$11,000",
+   "location": "Memphis, Tn",
+   "price": "15,000"
+  }
+ },
+ "9887347aeb": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "location": "Woodstock, GA",
+   "price": "275,000"
+  }
+ },
+ "3a1a41a6a9": {
+  "instruction": {
+   "state": "Minnesota",
+   "city": "Minneapolis ",
+   "ANSWER": "235,000"
+  }
+ },
+ "3a735fd8cd": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "ANSWER": "https://www.trulia.com/property/1031728212-821-Wood-Trl-Azle-TX-76020",
+   "location": "Azle, TX",
+   "price": "300000"
+  }
+ },
+ "59797d5fe8": {
+  "instruction": {
+   "state": "TN",
+   "city": "Murfreesboro",
+   "ANSWER": "197,475"
+  }
+ },
+ "d520c8fe33": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "505 Lakeway Dr Georgetown, TX",
+   "location": "Georgetown, TX",
+   "price": "116500"
+  }
+ },
+ "ed22c486da": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "9206 Palatine Ave N Seattle, WA 98103 (Greenwood)",
+   "location": "Seattle, WA",
+   "price": "150000"
+  }
+ },
+ "c8d7bc1407": {
+  "instruction": {
+   "state": "OH",
+   "city": "Dayton",
+   "ANSWER": "159,900"
+  }
+ },
+ "dcf7dedae0": {
+  "instruction": {
+   "amount of bedrooms": "2-3",
+   "ANSWER": "good price",
+   "location": "Richfield Springs",
+   "price": "39000"
+  }
+ },
+ "3a40168899": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "912 Anvil Creek Dr Arlington, TX 76001 (Southeast)",
+   "location": "Arlington, TX",
+   "price": "300000"
+  }
+ },
+ "05f94af973": {
+  "instruction": {
+   "state": "NV",
+   "city": "Reno",
+   "ANSWER": "201,333"
+  }
+ },
+ "9f1edd5f87": {
+  "instruction": {
+   "state": "NC",
+   "city": "Raleigh"
+  }
+ },
+ "02040f64c3": {
+  "instruction": {
+   "state": "SC",
+   "city": "Columbia ",
+   "ANSWER": "159,131"
+  }
+ },
+ "1698e33b12": {
+  "instruction": {
+   "amount of bedrooms": "1",
+   "ANSWER": "35000",
+   "location": "Kingman, AZ",
+   "price": "250000"
+  }
+ },
+ "e5943f6b48": {
+  "instruction": {
+   "location": "Las Vegas, NV",
+   "price": "300000",
+   "amount of bedrooms": "3"
+  }
+ },
+ "7c5ff9cf1a": {
+  "instruction": {
+   "amount of bedrooms": "5",
+   "ANSWER": "https://www.trulia.com/property/3239830657-3527-Southside-Ave-Phoenix-MD-21131",
+   "location": "Phoenix, MD",
+   "price": "700000"
+  }
+ },
+ "868541eff4": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "https://www.trulia.com/foreclosure/3208746487-4414-Walbridge-St-Orlando-FL-32809",
+   "location": "Orlando, FL",
+   "price": "200000"
+  }
+ },
+ "4b9ec3e2ff": {
+  "instruction": {
+   "state": "MI",
+   "city": "Grand Rapids",
+   "ANSWER": "99,900"
+  }
+ },
+ "c4ef2b0cd5": {
+  "instruction": {
+   "state": "HI",
+   "city": "Waikiki",
+   "ANSWER": "$1,027,468.00"
+  }
+ },
+ "caec4d4575": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "1702 Lotus Ln Charleston, SC 29412",
+   "location": "Charleston, SC",
+   "price": "200000"
+  }
+ },
+ "869d58860f": {
+  "instruction": {
+   "state": "TX",
+   "city": "Dallas",
+   "ANSWER": "212,500"
+  }
+ },
+ "d227722b18": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "good",
+   "location": "North Hollywood",
+   "price": "928500"
+  }
+ },
+ "41715c4770": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "305 Blanton Ave Texarkana, TX 75501",
+   "location": "Texarkana, TX",
+   "price": "12000"
+  }
+ },
+ "ee96beae2f": {
+  "instruction": {
+   "state": "UT",
+   "city": "Salt Lake City",
+   "ANSWER": "269,900"
+  }
+ },
+ "77cb99a203": {
+  "instruction": {
+   "location": "Jacksonville, FL",
+   "price": "500000",
+   "amount of bedrooms": "4"
+  }
+ },
+ "5fe7e2bed4": {
+  "instruction": {
+   "amount of bedrooms": "1",
+   "ANSWER": "74900",
+   "location": "Grand Junction, CO",
+   "price": "250000"
+  }
+ },
+ "f95e881184": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "ANSWER": "37500",
+   "location": "tampa, FL",
+   "price": "300000"
+  }
+ },
+ "7f67037f7e": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "location": "Tampa, FL",
+   "price": "250,000"
+  }
+ },
+ "ed986fb502": {
+  "instruction": {
+   "state": "OH",
+   "city": "Akron",
+   "ANSWER": "274,900"
+  }
+ },
+ "8c4e42985b": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "ANSWER": "65000",
+   "location": "Denham Springs, LA",
+   "price": "125000"
+  }
+ },
+ "b842060e82": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "ANSWER": "133000",
+   "location": "Baker, CA",
+   "price": "250000"
+  }
+ },
+ "f141651da8": {
+  "instruction": {
+   "amount of bedrooms": "3",
+   "ANSWER": "good",
+   "location": "Richmondville",
+   "price": "279000"
+  }
+ },
+ "4b6591d362": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "location": "Jacksonville, FL",
+   "price": "500000"
+  }
+ },
+ "20be471879": {
+  "instruction": {
+   "state": "AK",
+   "city": "Anchorage",
+   "ANSWER": "$324,579.00"
+  }
+ },
+ "1a651aee91": {
+  "instruction": {
+   "state": "FL",
+   "city": "Miami"
+  }
+ },
+ "30f6d0df52": {
+  "instruction": {
+   "state": "IA",
+   "city": "Polk",
+   "ANSWER": "$195,916"
+  }
+ },
+ "29cfd753cb": {
+  "instruction": {
+   "state": "FL",
+   "city": "Orlando",
+   "ANSWER": "265,000"
+  }
+ },
+ "cba2f62ebf": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "location": "Providence, RI",
+   "price": "600000"
+  }
+ },
+ "9f643248d0": {
+  "instruction": {
+   "amount of bedrooms": "4",
+   "ANSWER": "https://www.trulia.com/property/3206789731-51-Gray-St-Boston-MA-02116",
+   "location": "Boston, MA",
+   "price": "200000"
+  }
+ },
+ "9e72d79256": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "ANSWER": "$243,500",
+   "location": "Portland, Or",
+   "price": "300,000"
+  }
+ },
+ "08b2746b3b": {
+  "instruction": {
+   "state": "Wisconsin",
+   "city": "Appleton",
+   "ANSWER": "98,000"
+  }
+ },
+ "2d70a2df5d": {
+  "instruction": {
+   "amount of bedrooms": "2",
+   "location": "Chicago, IL",
+   "price": "450,000"
+  }
+ },
+ "27800142c1": {
+  "instruction": {
+   "state": "DC",
+   "city": "Washington"
+  }
+ },
+ "519ea71db4": {
+  "instruction": {
+   "state": "Illinois ",
+   "city": "Chicago",
+   "ANSWER": "299,990"
+  }
+ },
+ "8b8e67eeb8": {
+  "instruction": {
+   "state": "MT",
+   "city": "Billings",
+   "ANSWER": "165,000"
+  }
+ }
+}

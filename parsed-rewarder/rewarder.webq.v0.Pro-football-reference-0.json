@@ -1,0 +1,613 @@
+{
+ "be681a8879": {
+  "instruction": {
+   "year": "2011",
+   "conference": "afc"
+  }
+ },
+ "0f8ecc00a7": {
+  "instruction": {
+   "year": "2012",
+   "conference": "afc",
+   "ANSWER": "Baltimore Ravens "
+  }
+ },
+ "8bab8971fd": {
+  "instruction": {
+   "year": "2016",
+   "conference": "afc",
+   "ANSWER": "New England Patriots"
+  }
+ },
+ "d124bf938f": {
+  "instruction": {
+   "year": "1994",
+   "conference": "afc",
+   "ANSWER": "Denver Broncos"
+  }
+ },
+ "a4feeee59e": {
+  "instruction": {
+   "year": "2010",
+   "conference": "AFC",
+   "ANSWER": "Pittsburgh Steelers"
+  }
+ },
+ "a7e0b2a90c": {
+  "instruction": {
+   "year": "2011",
+   "conference": "AFC",
+   "ANSWER": "New England Patriots"
+  }
+ },
+ "5b71060473": {
+  "instruction": {
+   "year": "2014",
+   "conference": "nfc",
+   "ANSWER": "Seattle Seahawks"
+  }
+ },
+ "4448d7bf1f": {
+  "instruction": {
+   "year": "1985",
+   "conference": "afc",
+   "ANSWER": "New England Patriots"
+  }
+ },
+ "d5a1012724": {
+  "instruction": {
+   "year": "2011",
+   "conference": "nfc",
+   "ANSWER": "New York Giants "
+  }
+ },
+ "ef8fc2fab3": {
+  "instruction": {
+   "year": "2015",
+   "conference": "AFC",
+   "ANSWER": "Denver Broncos"
+  }
+ },
+ "2612d3f2bd": {
+  "instruction": {
+   "year": "2015",
+   "conference": "afc",
+   "ANSWER": "Denver Broncos "
+  }
+ },
+ "2b449bd877": {
+  "instruction": {
+   "year": "2012",
+   "conference": "NFC",
+   "ANSWER": "San Francisco 49ers"
+  }
+ },
+ "26084af1cf": {
+  "instruction": {
+   "year": "1999",
+   "conference": "nfl"
+  }
+ },
+ "bba951fe03": {
+  "instruction": {
+   "year": "2010",
+   "conference": "nfc",
+   "ANSWER": "Green Bay Packers"
+  }
+ },
+ "61982a0989": {
+  "instruction": {
+   "year": "2016",
+   "conference": "AFC",
+   "ANSWER": "New England Patriots"
+  }
+ },
+ "3fff1ebc0c": {
+  "instruction": {
+   "year": "1998",
+   "conference": "afc",
+   "ANSWER": "Denver Broncos"
+  }
+ },
+ "eb24fcfefe": {
+  "instruction": {
+   "year": "2005",
+   "conference": "nfc"
+  }
+ },
+ "0fa48560ad": {
+  "instruction": {
+   "year": "2012",
+   "conference": "nfc",
+   "ANSWER": "san francisco 49ers"
+  }
+ },
+ "d0230578e4": {
+  "instruction": {
+   "year": "2012",
+   "conference": "nfc",
+   "ANSWER": "San Francisco 49ers"
+  }
+ },
+ "d2cf9b002f": {
+  "instruction": {
+   "year": "1979",
+   "conference": "afc"
+  }
+ },
+ "8915e67295": {
+  "instruction": {
+   "year": "2008",
+   "conference": "nfc",
+   "ANSWER": "Arizona Cardinals"
+  }
+ },
+ "06f52fd1d3": {
+  "instruction": {
+   "year": "2005",
+   "conference": "NFL",
+   "ANSWER": "Pittsburgh Steelers and  Seattle Seahawks"
+  }
+ },
+ "166306f528": {
+  "instruction": {
+   "year": "1972",
+   "conference": "AFC",
+   "ANSWER": "Miami Dolphins"
+  }
+ },
+ "c9b80fa189": {
+  "instruction": {
+   "year": "2007",
+   "conference": "nfc",
+   "ANSWER": "new york giants"
+  }
+ },
+ "bb044045de": {
+  "instruction": {
+   "year": "2015",
+   "conference": "AFC",
+   "ANSWER": "New England Patriots"
+  }
+ },
+ "9a6fadae21": {
+  "instruction": {
+   "year": "2013",
+   "conference": "nfc",
+   "ANSWER": "seattle seahawks"
+  }
+ },
+ "603212ca49": {
+  "instruction": {
+   "year": "1991",
+   "conference": "nfl"
+  }
+ },
+ "393fea3de8": {
+  "instruction": {
+   "year": "2013",
+   "conference": "NFL",
+   "ANSWER": "Seattle Seahawks and Denver Broncos"
+  }
+ },
+ "7ee1ecf2ac": {
+  "instruction": {
+   "year": "2001",
+   "conference": "NFC",
+   "ANSWER": "St. Louis Rams"
+  }
+ },
+ "be1ef8a78d": {
+  "instruction": {
+   "year": "2013",
+   "conference": "NFC",
+   "ANSWER": "Seattle Seahawks"
+  }
+ },
+ "a6dad0487b": {
+  "instruction": {
+   "year": "2010",
+   "conference": "afc",
+   "ANSWER": "Pittsburgh Steelers"
+  }
+ },
+ "f19f103267": {
+  "instruction": {
+   "year": "2015",
+   "conference": "NFC",
+   "ANSWER": "Carolina Panthers"
+  }
+ },
+ "fca1138ed3": {
+  "instruction": {
+   "year": "2004",
+   "conference": "NFL",
+   "ANSWER": "New England Patriots and  Philadelphia Eagles"
+  }
+ },
+ "6b913a20a6": {
+  "instruction": {
+   "year": "2016",
+   "conference": "nfc",
+   "ANSWER": "Atlanta Falcons"
+  }
+ },
+ "5d112b5fb2": {
+  "instruction": {
+   "year": "2016",
+   "conference": "nfc",
+   "ANSWER": "atlanta falcons"
+  }
+ },
+ "e4dfcd01c6": {
+  "instruction": {
+   "year": "2008",
+   "conference": "NFL",
+   "ANSWER": "Pittsburgh Steelers and Arizona Cardinals"
+  }
+ },
+ "228e789e2c": {
+  "instruction": {
+   "year": "2009",
+   "conference": "nfc",
+   "ANSWER": "New Orleans Saints "
+  }
+ },
+ "5f9658fe8b": {
+  "instruction": {
+   "year": "2006",
+   "conference": "nfc",
+   "ANSWER": "Chicago Bears"
+  }
+ },
+ "06efd6758f": {
+  "instruction": {
+   "year": "1985",
+   "conference": "AFC",
+   "ANSWER": "New England Patriots"
+  }
+ },
+ "6fa8a82b97": {
+  "instruction": {
+   "year": "1996",
+   "conference": "afc"
+  }
+ },
+ "2ada796e2d": {
+  "instruction": {
+   "year": "2013",
+   "conference": "AFC",
+   "ANSWER": "Denver Broncos"
+  }
+ },
+ "062e6eed29": {
+  "instruction": {
+   "year": "2009",
+   "conference": "NFL",
+   "ANSWER": "New Orleans Saints and Indianapolis Colts"
+  }
+ },
+ "917095f0f3": {
+  "instruction": {
+   "year": "2013",
+   "conference": "afc",
+   "ANSWER": "Denver Broncos"
+  }
+ },
+ "d64f201b28": {
+  "instruction": {
+   "year": "1983",
+   "conference": "afc",
+   "ANSWER": "Los Angeles Raiders"
+  }
+ },
+ "7d0cf016bb": {
+  "instruction": {
+   "year": "1988",
+   "conference": "nfc"
+  }
+ },
+ "7460d6af0f": {
+  "instruction": {
+   "year": "2011",
+   "conference": "afc",
+   "ANSWER": "New England Patriots"
+  }
+ },
+ "cc71410332": {
+  "instruction": {
+   "year": "2015",
+   "conference": "nfc",
+   "ANSWER": "carolina panthers"
+  }
+ },
+ "62f34e4726": {
+  "instruction": {
+   "year": "1978",
+   "conference": "nfc",
+   "ANSWER": "Dallas Cowboys"
+  }
+ },
+ "df6e3c5b52": {
+  "instruction": {
+   "year": "2010",
+   "conference": "nfc"
+  }
+ },
+ "e724a0d941": {
+  "instruction": {
+   "year": "1992",
+   "conference": "NFL",
+   "ANSWER": "Dallas Cowboys and Buffalo Bills"
+  }
+ },
+ "99e84cf12d": {
+  "instruction": {
+   "year": "2007",
+   "conference": "nfc",
+   "ANSWER": "New York Giants "
+  }
+ },
+ "ce530d8689": {
+  "instruction": {
+   "year": "2016",
+   "conference": "NFC",
+   "ANSWER": "Atlanta Falcons"
+  }
+ },
+ "8c3535992b": {
+  "instruction": {
+   "year": "2014",
+   "conference": "nfc",
+   "ANSWER": "seattle seahawks"
+  }
+ },
+ "2b1b2f6fef": {
+  "instruction": {
+   "year": "2008",
+   "conference": "afc"
+  }
+ },
+ "ee82406d41": {
+  "instruction": {
+   "year": "2014",
+   "conference": "NFL",
+   "ANSWER": "New England Patriots and Denver Broncos"
+  }
+ },
+ "9c74578960": {
+  "instruction": {
+   "year": "1973",
+   "conference": "afc"
+  }
+ },
+ "7799cc7035": {
+  "instruction": {
+   "year": "1997",
+   "conference": "AFC",
+   "ANSWER": "Denver Broncos"
+  }
+ },
+ "8387e48a10": {
+  "instruction": {
+   "year": "2001",
+   "conference": "nfl"
+  }
+ },
+ "c16eae0c20": {
+  "instruction": {
+   "year": "2011",
+   "conference": "NFL",
+   "ANSWER": "New York Giants and New England Patriots"
+  }
+ },
+ "75f6c945e1": {
+  "instruction": {
+   "year": "2003",
+   "conference": "NFL",
+   "ANSWER": "New England Patriots and Carolina Panthers"
+  }
+ },
+ "8f44429137": {
+  "instruction": {
+   "year": "1982",
+   "conference": "NFC",
+   "ANSWER": "Washington Redskins"
+  }
+ },
+ "97a35986fb": {
+  "instruction": {
+   "year": "2006",
+   "conference": "NFL",
+   "ANSWER": "Indianapolis Colts and Chicago Bears"
+  }
+ },
+ "53fbb271cb": {
+  "instruction": {
+   "year": "2010",
+   "conference": "nfc",
+   "ANSWER": "green bay packers"
+  }
+ },
+ "ef088c2359": {
+  "instruction": {
+   "year": "2000",
+   "conference": "NFC",
+   "ANSWER": "New York Giants"
+  }
+ },
+ "019188aa0f": {
+  "instruction": {
+   "year": "1984",
+   "conference": "afc"
+  }
+ },
+ "1e24a82b40": {
+  "instruction": {
+   "year": "1989",
+   "conference": "nfl"
+  }
+ },
+ "36707d5b4d": {
+  "instruction": {
+   "year": "2000",
+   "conference": "nfc"
+  }
+ },
+ "1b885b0c7d": {
+  "instruction": {
+   "year": "1992",
+   "conference": "nfc"
+  }
+ },
+ "c76e988ed4": {
+  "instruction": {
+   "year": "2014",
+   "conference": "NFC",
+   "ANSWER": "Seattle Seahawks"
+  }
+ },
+ "e355bc8509": {
+  "instruction": {
+   "year": "1994",
+   "conference": "AFC",
+   "ANSWER": "San Diego Chargers"
+  }
+ },
+ "58c1c173bc": {
+  "instruction": {
+   "year": "2009",
+   "conference": "afc",
+   "ANSWER": "Indianapolis Colts"
+  }
+ },
+ "2773017aae": {
+  "instruction": {
+   "year": "2008",
+   "conference": "afc",
+   "ANSWER": "Pittsburgh Steelers "
+  }
+ },
+ "15e87dafd4": {
+  "instruction": {
+   "year": "2011",
+   "conference": "NFC",
+   "ANSWER": "New York Giants"
+  }
+ },
+ "d84deeccc4": {
+  "instruction": {
+   "year": "2016",
+   "conference": "afc"
+  }
+ },
+ "f198f03e04": {
+  "instruction": {
+   "year": "2012",
+   "conference": "AFC",
+   "ANSWER": "Baltimore Ravens"
+  }
+ },
+ "bb86489d68": {
+  "instruction": {
+   "year": "2011",
+   "conference": "nfc",
+   "ANSWER": "new york giants"
+  }
+ },
+ "35d6e94955": {
+  "instruction": {
+   "year": "2009",
+   "conference": "nfc",
+   "ANSWER": "new orlean saints"
+  }
+ },
+ "211712a3a1": {
+  "instruction": {
+   "year": "2013",
+   "conference": "nfc",
+   "ANSWER": "Seattle Seahawks "
+  }
+ },
+ "857de88709": {
+  "instruction": {
+   "year": "2008",
+   "conference": "nfc",
+   "ANSWER": "arizona cardinals"
+  }
+ },
+ "8b096bb3b3": {
+  "instruction": {
+   "year": "2009",
+   "conference": "AFC",
+   "ANSWER": "Indianapolis Colts"
+  }
+ },
+ "7bb8f51495": {
+  "instruction": {
+   "year": "1965",
+   "conference": "afl",
+   "ANSWER": "Buffalo Bills"
+  }
+ },
+ "b7b5ec4d9c": {
+  "instruction": {
+   "year": "2015",
+   "conference": "nfc",
+   "ANSWER": "Carolina Panthers"
+  }
+ },
+ "5c338fca88": {
+  "instruction": {
+   "year": "1990",
+   "conference": "nfc"
+  }
+ },
+ "caad1da718": {
+  "instruction": {
+   "year": "2001",
+   "conference": "afc"
+  }
+ },
+ "18de3146fa": {
+  "instruction": {
+   "year": "2007",
+   "conference": "afc",
+   "ANSWER": "New England Patriots"
+  }
+ },
+ "4303745481": {
+  "instruction": {
+   "year": "2014",
+   "conference": "AFC",
+   "ANSWER": "New England Patroits"
+  }
+ },
+ "4c2533822b": {
+  "instruction": {
+   "year": "2004",
+   "conference": "afc",
+   "ANSWER": "New England Patriots"
+  }
+ },
+ "03fb485983": {
+  "instruction": {
+   "year": "2014",
+   "conference": "afc",
+   "ANSWER": "New England Patriots"
+  }
+ },
+ "94e0dd3a6d": {
+  "instruction": {
+   "year": "1975",
+   "conference": "NFC",
+   "ANSWER": "Dallas Cowboys"
+  }
+ },
+ "b5d3d20047": {
+  "instruction": {
+   "year": "1985",
+   "conference": "afc"
+  }
+ }
+}

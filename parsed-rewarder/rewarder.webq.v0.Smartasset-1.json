@@ -1,0 +1,72 @@
+{
+ "6ff0f52190": {
+  "instruction": {
+   "Home value": "550000",
+   "state": "OK",
+   "city": "Tulsa"
+  }
+ },
+ "923b6e2872": {
+  "instruction": {
+   "Home value": "250000",
+   "state": "TX",
+   "city": "Austin"
+  }
+ },
+ "3222e71274": {
+  "instruction": {
+   "Home value": "675000",
+   "state": "MT",
+   "city": "Butte"
+  }
+ },
+ "8471e74269": {
+  "instruction": {
+   "Home value": "350000",
+   "state": "WA",
+   "city": "Seattle"
+  }
+ },
+ "c3c260238e": {
+  "instruction": {
+   "Home value": "100000",
+   "state": "VA",
+   "city": "Richmond"
+  }
+ },
+ "859b963c37": {
+  "instruction": {
+   "Home value": "1250000",
+   "state": "NY",
+   "city": "New York"
+  }
+ },
+ "4b67cf2b9d": {
+  "instruction": {
+   "Home value": "400000",
+   "state": "OH",
+   "city": "Cincinnati "
+  }
+ },
+ "a584321694": {
+  "instruction": {
+   "Home value": "189000",
+   "state": "WY",
+   "city": "Casper   "
+  }
+ },
+ "0ae7512846": {
+  "instruction": {
+   "Home value": "200000",
+   "state": "TX",
+   "city": "Dallas"
+  }
+ },
+ "faa63ea376": {
+  "instruction": {
+   "Home value": "750000",
+   "state": "SD",
+   "city": "Sioux Falls"
+  }
+ }
+}

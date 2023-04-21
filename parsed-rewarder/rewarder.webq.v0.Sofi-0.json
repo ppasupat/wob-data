@@ -1,0 +1,1662 @@
+{
+ "823a2bd27d": {
+  "instruction": {
+   "Loan amount": "3000",
+   "monthly Payments": "12",
+   "months remaining": "393",
+   "rate": "3"
+  }
+ },
+ "c6eace9eb2": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "234",
+   "Loan amount": "20000",
+   "rate": "4"
+  }
+ },
+ "ba0459606c": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "88",
+   "Loan amount": "7500",
+   "rate": "4.5",
+   "ANSWER": "100"
+  }
+ },
+ "b3ee85ef84": {
+  "instruction": {
+   "Loan amount": "8000",
+   "monthly Payments": "12",
+   "months remaining": "244",
+   "rate": "2"
+  }
+ },
+ "ddced8221e": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "50",
+   "Loan amount": "5000",
+   "rate": "3",
+   "ANSWER": "107"
+  }
+ },
+ "4acd8808af": {
+  "instruction": {
+   "rate": "4",
+   "months remaining": "718",
+   "Loan amount": "4000",
+   "monthly Payments": "12"
+  }
+ },
+ "9040ccb0cc": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "48",
+   "Loan amount": "5000",
+   "rate": "5",
+   "ANSWER": "115"
+  }
+ },
+ "3a60d7c76e": {
+  "instruction": {
+   "Loan amount": "10000",
+   "monthly Payments": "12",
+   "months remaining": "84",
+   "rate": "3.75",
+   "ANSWER": "136.00"
+  }
+ },
+ "31bf115897": {
+  "instruction": {
+   "Loan amount": "30000",
+   "monthly Payments": "12",
+   "months remaining": "48",
+   "rate": "3.4",
+   "ANSWER": "669"
+  }
+ },
+ "1e140ee524": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "360",
+   "Loan amount": "350000",
+   "rate": "4.5",
+   "ANSWER": "1773"
+  }
+ },
+ "dd85f17b28": {
+  "instruction": {
+   "Loan amount": "9000",
+   "monthly Payments": "12",
+   "months remaining": "60",
+   "rate": "4.25",
+   "ANSWER": "167.00"
+  }
+ },
+ "2cd5517b8c": {
+  "instruction": {
+   "Loan amount": "9000",
+   "monthly Payments": "12",
+   "months remaining": "48",
+   "rate": "2",
+   "ANSWER": "7271"
+  }
+ },
+ "5a039c819c": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "30",
+   "Loan amount": "4500",
+   "rate": "1.6",
+   "ANSWER": "153"
+  }
+ },
+ "59f0003527": {
+  "instruction": {
+   "Loan amount": "1000",
+   "monthly Payments": "12",
+   "months remaining": "40",
+   "rate": "5",
+   "ANSWER": "272"
+  }
+ },
+ "1a798e70f9": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "70",
+   "Loan amount": "6500",
+   "rate": "3.5",
+   "ANSWER": "103"
+  }
+ },
+ "ee8a739d66": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "60",
+   "Loan amount": "3200",
+   "rate": "4",
+   "ANSWER": "59"
+  }
+ },
+ "0564ff641a": {
+  "instruction": {
+   "Loan amount": "9000",
+   "monthly Payments": "12",
+   "months remaining": "90",
+   "rate": "9",
+   "ANSWER": "138"
+  }
+ },
+ "c45b026145": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "12",
+   "Loan amount": "4000",
+   "rate": "7",
+   "ANSWER": "monthly payment is 346"
+  }
+ },
+ "d911e354fa": {
+  "instruction": {
+   "Loan amount": "4500",
+   "monthly Payments": "12",
+   "months remaining": "6",
+   "rate": "7",
+   "ANSWER": "monthly payment is 765"
+  }
+ },
+ "2020c04577": {
+  "instruction": {
+   "Loan amount": "4000",
+   "monthly Payments": "12",
+   "months remaining": "718",
+   "rate": "4"
+  }
+ },
+ "43d29a17a4": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "78",
+   "Loan amount": "8500",
+   "rate": "5",
+   "ANSWER": "128"
+  }
+ },
+ "533d48cb84": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "72",
+   "Loan amount": "6000",
+   "rate": "3.5",
+   "ANSWER": "93"
+  }
+ },
+ "3d55daeb6b": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "48",
+   "Loan amount": "9000",
+   "rate": "2",
+   "ANSWER": "7271"
+  }
+ },
+ "14eb45365c": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "36",
+   "Loan amount": "25000",
+   "rate": "3",
+   "ANSWER": "727"
+  }
+ },
+ "188e410af6": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "60",
+   "Loan amount": "9000",
+   "rate": "4.25",
+   "ANSWER": "167.00"
+  }
+ },
+ "52164d297d": {
+  "instruction": {
+   "Loan amount": "15000",
+   "monthly Payments": "12",
+   "months remaining": "18",
+   "rate": "3",
+   "ANSWER": "monthly payment is 880"
+  }
+ },
+ "831f5e9c3c": {
+  "instruction": {
+   "Loan amount": "120000",
+   "monthly Payments": "12",
+   "months remaining": "96",
+   "rate": "4.2",
+   "ANSWER": "1474"
+  }
+ },
+ "c84eaacdbe": {
+  "instruction": {
+   "Loan amount": "7500",
+   "monthly Payments": "12",
+   "months remaining": "364",
+   "rate": "3",
+   "ANSWER": "7089"
+  }
+ },
+ "fd8ba0bf6b": {
+  "instruction": {
+   "Loan amount": "18000",
+   "monthly Payments": "12",
+   "months remaining": "196",
+   "rate": "4"
+  }
+ },
+ "da3bc624b0": {
+  "instruction": {
+   "Loan amount": "22500",
+   "monthly Payments": "12",
+   "months remaining": "150",
+   "rate": "1.2",
+   "ANSWER": "162"
+  }
+ },
+ "0743fbecb8": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "340",
+   "Loan amount": "10000",
+   "rate": "6",
+   "ANSWER": "9451"
+  }
+ },
+ "121749f113": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "75",
+   "Loan amount": "4000",
+   "rate": "6",
+   "ANSWER": "64"
+  }
+ },
+ "946f078460": {
+  "instruction": {
+   "rate": "4",
+   "months remaining": "162",
+   "Loan amount": "15000",
+   "monthly Payments": "12"
+  }
+ },
+ "4bf91c1e6e": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "60",
+   "Loan amount": "100000",
+   "rate": "4.2",
+   "ANSWER": "1851"
+  }
+ },
+ "aa21046083": {
+  "instruction": {
+   "rate": "3",
+   "months remaining": "71",
+   "Loan amount": "8000",
+   "monthly Payments": "12"
+  }
+ },
+ "674b2f029c": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "155",
+   "Loan amount": "5000",
+   "rate": "5"
+  }
+ },
+ "5626563699": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "86",
+   "Loan amount": "6000",
+   "rate": "2"
+  }
+ },
+ "363f445ee2": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "36",
+   "Loan amount": "8000",
+   "rate": "2",
+   "ANSWER": "6060"
+  }
+ },
+ "6ba00ae98f": {
+  "instruction": {
+   "Loan amount": "5000",
+   "monthly Payments": "12",
+   "months remaining": "90",
+   "rate": "3.5",
+   "ANSWER": "63"
+  }
+ },
+ "d4fb25cc13": {
+  "instruction": {
+   "Loan amount": "3200",
+   "monthly Payments": "12",
+   "months remaining": "60",
+   "rate": "4",
+   "ANSWER": "59"
+  }
+ },
+ "551ce7c3f9": {
+  "instruction": {
+   "rate": "2",
+   "months remaining": "195",
+   "Loan amount": "2000",
+   "monthly Payments": "12"
+  }
+ },
+ "798e71faab": {
+  "instruction": {
+   "Loan amount": "15000",
+   "monthly Payments": "12",
+   "months remaining": "30",
+   "rate": "3.2",
+   "ANSWER": "521"
+  }
+ },
+ "8c0fee33f0": {
+  "instruction": {
+   "Loan amount": "6000",
+   "monthly Payments": "12",
+   "months remaining": "24",
+   "rate": "5",
+   "ANSWER": "4099"
+  }
+ },
+ "26d5a20f1f": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "18",
+   "Loan amount": "1620",
+   "rate": "3",
+   "ANSWER": "92"
+  }
+ },
+ "c186b017d0": {
+  "instruction": {
+   "Loan amount": "10000",
+   "monthly Payments": "12",
+   "months remaining": "340",
+   "rate": "6",
+   "ANSWER": "9451"
+  }
+ },
+ "030db6362d": {
+  "instruction": {
+   "Loan amount": "4000",
+   "monthly Payments": "12",
+   "months remaining": "75",
+   "rate": "6",
+   "ANSWER": "64"
+  }
+ },
+ "6854007d2a": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "71",
+   "Loan amount": "8000",
+   "rate": "3"
+  }
+ },
+ "74cfbb0d56": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "50",
+   "Loan amount": "5000",
+   "rate": "5",
+   "ANSWER": "111"
+  }
+ },
+ "2f93ed430e": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "224",
+   "Loan amount": "8500",
+   "rate": "1.5",
+   "ANSWER": "44"
+  }
+ },
+ "2d973dee0b": {
+  "instruction": {
+   "Loan amount": "2000",
+   "monthly Payments": "12",
+   "months remaining": "195",
+   "rate": "2"
+  }
+ },
+ "c3d371de1d": {
+  "instruction": {
+   "Loan amount": "20000",
+   "monthly Payments": "12",
+   "months remaining": "376",
+   "rate": "6",
+   "ANSWER": "19600"
+  }
+ },
+ "1421f8b6e6": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "180",
+   "Loan amount": "3000",
+   "rate": "2",
+   "ANSWER": "19"
+  }
+ },
+ "e39c87adc9": {
+  "instruction": {
+   "Loan amount": "5000",
+   "monthly Payments": "12",
+   "months remaining": "48",
+   "rate": "5",
+   "ANSWER": "115"
+  }
+ },
+ "40d3bfad94": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "100",
+   "Loan amount": "4000",
+   "rate": "3",
+   "ANSWER": "45"
+  }
+ },
+ "44f2ae8fd1": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "39",
+   "Loan amount": "4000",
+   "rate": "5",
+   "ANSWER": "3190"
+  }
+ },
+ "0cdfa8e1ae": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "40",
+   "Loan amount": "4000",
+   "rate": "4",
+   "ANSWER": "107"
+  }
+ },
+ "cd0d580de6": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "24",
+   "Loan amount": "12000",
+   "rate": "1",
+   "ANSWER": "monthly payment is 672"
+  }
+ },
+ "68c6b10970": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "325",
+   "Loan amount": "3500",
+   "rate": "1.3",
+   "ANSWER": "13"
+  }
+ },
+ "e3f3c10eaa": {
+  "instruction": {
+   "Loan amount": "2000",
+   "monthly Payments": "12",
+   "months remaining": "20",
+   "rate": "8",
+   "ANSWER": "107"
+  }
+ },
+ "702620386b": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "196",
+   "Loan amount": "18000",
+   "rate": "4"
+  }
+ },
+ "a8b866f04a": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "90",
+   "Loan amount": "5000",
+   "rate": "3.5",
+   "ANSWER": "63"
+  }
+ },
+ "6bf60c98c8": {
+  "instruction": {
+   "Loan amount": "1000",
+   "monthly Payments": "12",
+   "months remaining": "88",
+   "rate": "1.5"
+  }
+ },
+ "2e5f479c5f": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "364",
+   "Loan amount": "7500",
+   "rate": "3",
+   "ANSWER": "7089"
+  }
+ },
+ "4d4ac3711b": {
+  "instruction": {
+   "Loan amount": "8000",
+   "monthly Payments": "12",
+   "months remaining": "36",
+   "rate": "2",
+   "ANSWER": "6060"
+  }
+ },
+ "9b5ae5a03e": {
+  "instruction": {
+   "Loan amount": "25000",
+   "monthly Payments": "12",
+   "months remaining": "175",
+   "rate": "4"
+  }
+ },
+ "cf70660a76": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "195",
+   "Loan amount": "2000",
+   "rate": "2"
+  }
+ },
+ "eded2a30e2": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "321",
+   "Loan amount": "16420",
+   "rate": "2",
+   "ANSWER": "66"
+  }
+ },
+ "7827cd5918": {
+  "instruction": {
+   "Loan amount": "30000",
+   "monthly Payments": "12",
+   "months remaining": "315",
+   "rate": "4"
+  }
+ },
+ "962300865a": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "12",
+   "Loan amount": "1500",
+   "rate": "3",
+   "ANSWER": "127"
+  }
+ },
+ "6f3c653d4b": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "12",
+   "Loan amount": "2500",
+   "rate": "5",
+   "ANSWER": "214"
+  }
+ },
+ "aad412c0bc": {
+  "instruction": {
+   "Loan amount": "12000",
+   "monthly Payments": "12",
+   "months remaining": "24",
+   "rate": "1",
+   "ANSWER": "monthly payment is 672"
+  }
+ },
+ "fb1b50769a": {
+  "instruction": {
+   "rate": "2",
+   "months remaining": "90",
+   "Loan amount": "10000",
+   "monthly Payments": "12"
+  }
+ },
+ "c417d3a51b": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "555",
+   "Loan amount": "22000",
+   "rate": "2"
+  }
+ },
+ "2ac8d9d1bb": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "24",
+   "Loan amount": "715",
+   "rate": "3",
+   "ANSWER": "31"
+  }
+ },
+ "f1d8c4c061": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "100",
+   "Loan amount": "12000",
+   "rate": "3",
+   "ANSWER": "136"
+  }
+ },
+ "38147d459c": {
+  "instruction": {
+   "Loan amount": "8500",
+   "monthly Payments": "12",
+   "months remaining": "78",
+   "rate": "5",
+   "ANSWER": "128"
+  }
+ },
+ "2edb6194e0": {
+  "instruction": {
+   "rate": "3",
+   "months remaining": "393",
+   "Loan amount": "3000",
+   "monthly Payments": "12"
+  }
+ },
+ "dada548c2b": {
+  "instruction": {
+   "Loan amount": "7500",
+   "monthly Payments": "12",
+   "months remaining": "88",
+   "rate": "4.5",
+   "ANSWER": "100"
+  }
+ },
+ "56a6d5edd0": {
+  "instruction": {
+   "Loan amount": "6500",
+   "monthly Payments": "12",
+   "months remaining": "70",
+   "rate": "3.5",
+   "ANSWER": "103"
+  }
+ },
+ "1dd95a34a2": {
+  "instruction": {
+   "Loan amount": "1800",
+   "monthly Payments": "12",
+   "months remaining": "36",
+   "rate": "4",
+   "ANSWER": "53.00"
+  }
+ },
+ "a3348a9ab6": {
+  "instruction": {
+   "Loan amount": "10000",
+   "monthly Payments": "12",
+   "months remaining": "90",
+   "rate": "2"
+  }
+ },
+ "63d615e94e": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "90",
+   "Loan amount": "9000",
+   "rate": "9",
+   "ANSWER": "138"
+  }
+ },
+ "b584d786b7": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "20",
+   "Loan amount": "2000",
+   "rate": "8",
+   "ANSWER": "107"
+  }
+ },
+ "edf059cdfa": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "252",
+   "Loan amount": "8500",
+   "rate": "3",
+   "ANSWER": "7529"
+  }
+ },
+ "dba11fcb0a": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "120",
+   "Loan amount": "36000",
+   "rate": "4.6",
+   "ANSWER": "375"
+  }
+ },
+ "96e2f52fd9": {
+  "instruction": {
+   "Loan amount": "12000",
+   "monthly Payments": "12",
+   "months remaining": "340",
+   "rate": "5"
+  }
+ },
+ "523b67863f": {
+  "instruction": {
+   "Loan amount": "36000",
+   "monthly Payments": "12",
+   "months remaining": "120",
+   "rate": "4.6",
+   "ANSWER": "375"
+  }
+ },
+ "7b353243b2": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "48",
+   "Loan amount": "30000",
+   "rate": "3.4",
+   "ANSWER": "669"
+  }
+ },
+ "42e39d7839": {
+  "instruction": {
+   "Loan amount": "8500",
+   "monthly Payments": "12",
+   "months remaining": "71",
+   "rate": "3",
+   "ANSWER": "monthly payment is 784 "
+  }
+ },
+ "56c6254af3": {
+  "instruction": {
+   "Loan amount": "9000",
+   "monthly Payments": "12",
+   "months remaining": "86",
+   "rate": "4"
+  }
+ },
+ "fd08e0cd00": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "340",
+   "Loan amount": "12000",
+   "rate": "5"
+  }
+ },
+ "2c377cd3db": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "180",
+   "Loan amount": "4500",
+   "rate": "2.5",
+   "ANSWER": "30"
+  }
+ },
+ "4b24e85ce1": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "18",
+   "Loan amount": "10500",
+   "rate": "3",
+   "ANSWER": "monthly payment is 597"
+  }
+ },
+ "7e6d071a0a": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "150",
+   "Loan amount": "6000",
+   "rate": "1",
+   "ANSWER": "43"
+  }
+ },
+ "ffa94bab7c": {
+  "instruction": {
+   "Loan amount": "3000",
+   "monthly Payments": "12",
+   "months remaining": "30",
+   "rate": "3",
+   "ANSWER": "104"
+  }
+ },
+ "6dc2ad4bd6": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "212",
+   "Loan amount": "6120",
+   "rate": "1.5",
+   "ANSWER": "33"
+  }
+ },
+ "2ebf912851": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "6",
+   "Loan amount": "4500",
+   "rate": "7",
+   "ANSWER": "monthly payment is 765"
+  }
+ },
+ "08d5500b88": {
+  "instruction": {
+   "Loan amount": "7000",
+   "monthly Payments": "12",
+   "months remaining": "70",
+   "rate": "7",
+   "ANSWER": "122"
+  }
+ },
+ "6054e19cc7": {
+  "instruction": {
+   "Loan amount": "7500",
+   "monthly Payments": "12",
+   "months remaining": "68",
+   "rate": "3"
+  }
+ },
+ "2fb47315b4": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "393",
+   "Loan amount": "3000",
+   "rate": "3"
+  }
+ },
+ "1bf4c930df": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "90",
+   "Loan amount": "3000",
+   "rate": "4.2",
+   "ANSWER": "39"
+  }
+ },
+ "389964c400": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "84",
+   "Loan amount": "10000",
+   "rate": "3.75",
+   "ANSWER": "136.00"
+  }
+ },
+ "843135a403": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "84",
+   "Loan amount": "80000",
+   "rate": "3.9",
+   "ANSWER": "1090"
+  }
+ },
+ "42ce60332f": {
+  "instruction": {
+   "Loan amount": "7000",
+   "monthly Payments": "12",
+   "months remaining": "96",
+   "rate": "3",
+   "ANSWER": "82.00"
+  }
+ },
+ "4596331e8a": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "72",
+   "Loan amount": "60000",
+   "rate": "3.8",
+   "ANSWER": "933"
+  }
+ },
+ "c4f70f7a2c": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "24",
+   "Loan amount": "9500",
+   "rate": "2",
+   "ANSWER": "404"
+  }
+ },
+ "d3c25fa663": {
+  "instruction": {
+   "Loan amount": "22000",
+   "monthly Payments": "12",
+   "months remaining": "555",
+   "rate": "2"
+  }
+ },
+ "0c0ed808ba": {
+  "instruction": {
+   "Loan amount": "4000",
+   "monthly Payments": "12",
+   "months remaining": "12",
+   "rate": "7",
+   "ANSWER": "monthly payment is 346"
+  }
+ },
+ "a7dff6793a": {
+  "instruction": {
+   "Loan amount": "80000",
+   "monthly Payments": "12",
+   "months remaining": "84",
+   "rate": "3.9",
+   "ANSWER": "1090"
+  }
+ },
+ "9985288388": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "315",
+   "Loan amount": "30000",
+   "rate": "4"
+  }
+ },
+ "7dc807576e": {
+  "instruction": {
+   "Loan amount": "10500",
+   "monthly Payments": "12",
+   "months remaining": "18",
+   "rate": "3",
+   "ANSWER": "monthly payment is 597"
+  }
+ },
+ "54f089f481": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "80",
+   "Loan amount": "2500",
+   "rate": "2",
+   "ANSWER": "33"
+  }
+ },
+ "5526751a43": {
+  "instruction": {
+   "Loan amount": "2500",
+   "monthly Payments": "12",
+   "months remaining": "12",
+   "rate": "5",
+   "ANSWER": "214"
+  }
+ },
+ "792096125c": {
+  "instruction": {
+   "Loan amount": "8500",
+   "monthly Payments": "12",
+   "months remaining": "252",
+   "rate": "3",
+   "ANSWER": "7529"
+  }
+ },
+ "7c75c7a9f5": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "40",
+   "Loan amount": "1000",
+   "rate": "5",
+   "ANSWER": "272"
+  }
+ },
+ "584f08bcd6": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "124",
+   "Loan amount": "5000",
+   "rate": "3",
+   "ANSWER": "47"
+  }
+ },
+ "903526ee03": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "24",
+   "Loan amount": "7500",
+   "rate": "3",
+   "ANSWER": "monthly payment is 322"
+  }
+ },
+ "d2a2f4e3c1": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "187",
+   "Loan amount": "2000",
+   "rate": "1.5"
+  }
+ },
+ "9718d8b357": {
+  "instruction": {
+   "Loan amount": "17000",
+   "monthly Payments": "12",
+   "months remaining": "24",
+   "rate": "4",
+   "ANSWER": "monthly payment is 975"
+  }
+ },
+ "021a8ca720": {
+  "instruction": {
+   "rate": "4",
+   "months remaining": "86",
+   "Loan amount": "9000",
+   "monthly Payments": "12"
+  }
+ },
+ "b2c6dd0a2d": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "30",
+   "Loan amount": "15000",
+   "rate": "3.2",
+   "ANSWER": "521"
+  }
+ },
+ "1b5ad5e2ef": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "30",
+   "Loan amount": "8000",
+   "rate": "5",
+   "ANSWER": "284"
+  }
+ },
+ "1dca4fae1e": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "24",
+   "Loan amount": "28000",
+   "rate": "4",
+   "ANSWER": "monthly payment is 1216"
+  }
+ },
+ "c27f7b132d": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "244",
+   "Loan amount": "8000",
+   "rate": "2"
+  }
+ },
+ "33e42f6c85": {
+  "instruction": {
+   "Loan amount": "5000",
+   "monthly Payments": "12",
+   "months remaining": "240",
+   "rate": "4",
+   "ANSWER": "4355"
+  }
+ },
+ "719e70bfcc": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "27",
+   "Loan amount": "876",
+   "rate": "2",
+   "ANSWER": "33"
+  }
+ },
+ "fcecf0fe09": {
+  "instruction": {
+   "Loan amount": "2000",
+   "monthly Payments": "12",
+   "months remaining": "187",
+   "rate": "1.5"
+  }
+ },
+ "b27eba9fc4": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "150",
+   "Loan amount": "22500",
+   "rate": "1.2",
+   "ANSWER": "162"
+  }
+ },
+ "447b4b7f87": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "325",
+   "Loan amount": "28000",
+   "rate": "4"
+  }
+ },
+ "64a87afcf9": {
+  "instruction": {
+   "Loan amount": "10000",
+   "monthly Payments": "12",
+   "months remaining": "100",
+   "rate": "5",
+   "ANSWER": "122"
+  }
+ },
+ "6e6327dc7d": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "24",
+   "Loan amount": "6000",
+   "rate": "5",
+   "ANSWER": "4099"
+  }
+ },
+ "85b5ef3472": {
+  "instruction": {
+   "Loan amount": "350000",
+   "monthly Payments": "12",
+   "months remaining": "360",
+   "rate": "4.5",
+   "ANSWER": "1773"
+  }
+ },
+ "5dd31adbfe": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "36",
+   "Loan amount": "1800",
+   "rate": "4",
+   "ANSWER": "53.00"
+  }
+ },
+ "88c65275fa": {
+  "instruction": {
+   "Loan amount": "4500",
+   "monthly Payments": "12",
+   "months remaining": "180",
+   "rate": "2.5",
+   "ANSWER": "30"
+  }
+ },
+ "76c431dd01": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "62",
+   "Loan amount": "7000",
+   "rate": "1.4",
+   "ANSWER": "117"
+  }
+ },
+ "f893b86466": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "70",
+   "Loan amount": "3500",
+   "rate": "5.5",
+   "ANSWER": "59"
+  }
+ },
+ "55b332498a": {
+  "instruction": {
+   "rate": "1.5",
+   "months remaining": "187",
+   "Loan amount": "2000",
+   "monthly Payments": "12"
+  }
+ },
+ "050db9129d": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "175",
+   "Loan amount": "25000",
+   "rate": "4"
+  }
+ },
+ "af4356fb79": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "180",
+   "Loan amount": "3500",
+   "rate": "4",
+   "ANSWER": "2867"
+  }
+ },
+ "1cd2c7fc3d": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "86",
+   "Loan amount": "9000",
+   "rate": "4"
+  }
+ },
+ "1c0cf6a828": {
+  "instruction": {
+   "Loan amount": "6000",
+   "monthly Payments": "12",
+   "months remaining": "100",
+   "rate": "4",
+   "ANSWER": "71"
+  }
+ },
+ "281eabcf1f": {
+  "instruction": {
+   "Loan amount": "3500",
+   "monthly Payments": "12",
+   "months remaining": "180",
+   "rate": "4",
+   "ANSWER": "2867"
+  }
+ },
+ "ca91ca10b0": {
+  "instruction": {
+   "Loan amount": "3500",
+   "monthly Payments": "12",
+   "months remaining": "70",
+   "rate": "5.5",
+   "ANSWER": "59"
+  }
+ },
+ "e5882a7992": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "120",
+   "Loan amount": "3000",
+   "rate": "4",
+   "ANSWER": "30"
+  }
+ },
+ "6b5196da35": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "718",
+   "Loan amount": "4000",
+   "rate": "4"
+  }
+ },
+ "f05cf800ec": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "70",
+   "Loan amount": "7000",
+   "rate": "7",
+   "ANSWER": "122"
+  }
+ },
+ "69a3d24fe8": {
+  "instruction": {
+   "Loan amount": "9100",
+   "monthly Payments": "12",
+   "months remaining": "24",
+   "rate": "5",
+   "ANSWER": "monthly payment is 399 "
+  }
+ },
+ "8dbb5cd79e": {
+  "instruction": {
+   "Loan amount": "5000",
+   "monthly Payments": "12",
+   "months remaining": "20",
+   "rate": "7",
+   "ANSWER": "266"
+  }
+ },
+ "288403a088": {
+  "instruction": {
+   "Loan amount": "5000",
+   "monthly Payments": "12",
+   "months remaining": "50",
+   "rate": "3",
+   "ANSWER": "107"
+  }
+ },
+ "95fa002e2c": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "71",
+   "Loan amount": "8500",
+   "rate": "3",
+   "ANSWER": "monthly payment is 784 "
+  }
+ },
+ "7f6feb4c4f": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "24",
+   "Loan amount": "2300",
+   "rate": "3",
+   "ANSWER": "99"
+  }
+ },
+ "d261308069": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "112",
+   "Loan amount": "13500",
+   "rate": "2",
+   "ANSWER": "132"
+  }
+ },
+ "86b510cd82": {
+  "instruction": {
+   "Loan amount": "4000",
+   "monthly Payments": "12",
+   "months remaining": "39",
+   "rate": "5",
+   "ANSWER": "3190"
+  }
+ },
+ "103a8451d4": {
+  "instruction": {
+   "Loan amount": "7500",
+   "monthly Payments": "12",
+   "months remaining": "24",
+   "rate": "3",
+   "ANSWER": "monthly payment is 322"
+  }
+ },
+ "0a47f283b9": {
+  "instruction": {
+   "Loan amount": "3000",
+   "monthly Payments": "12",
+   "months remaining": "120",
+   "rate": "4",
+   "ANSWER": "30"
+  }
+ },
+ "e465bc7c95": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "116",
+   "Loan amount": "27300",
+   "rate": "2",
+   "ANSWER": "259"
+  }
+ },
+ "5e2f848a36": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "100",
+   "Loan amount": "10000",
+   "rate": "5",
+   "ANSWER": "122"
+  }
+ },
+ "9b78d6ccc0": {
+  "instruction": {
+   "Loan amount": "8000",
+   "monthly Payments": "12",
+   "months remaining": "71",
+   "rate": "3"
+  }
+ },
+ "1a8c535ad0": {
+  "instruction": {
+   "Loan amount": "6000",
+   "monthly Payments": "12",
+   "months remaining": "86",
+   "rate": "2"
+  }
+ },
+ "bca4a9af62": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "88",
+   "Loan amount": "1000",
+   "rate": "1.5"
+  }
+ },
+ "0846106a6d": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "162",
+   "Loan amount": "15000",
+   "rate": "4"
+  }
+ },
+ "bd5cea1541": {
+  "instruction": {
+   "Loan amount": "4000",
+   "monthly Payments": "12",
+   "months remaining": "100",
+   "rate": "3",
+   "ANSWER": "45"
+  }
+ },
+ "7e74565875": {
+  "instruction": {
+   "rate": "1.5",
+   "months remaining": "88",
+   "Loan amount": "1000",
+   "monthly Payments": "12"
+  }
+ },
+ "e761686d7c": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "68",
+   "Loan amount": "7500",
+   "rate": "3"
+  }
+ },
+ "a7c5bb19a9": {
+  "instruction": {
+   "Loan amount": "4000",
+   "monthly Payments": "12",
+   "months remaining": "40",
+   "rate": "4",
+   "ANSWER": "107"
+  }
+ },
+ "81535d4a76": {
+  "instruction": {
+   "Loan amount": "8000",
+   "monthly Payments": "12",
+   "months remaining": "30",
+   "rate": "5",
+   "ANSWER": "284"
+  }
+ },
+ "1762640164": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "24",
+   "Loan amount": "9100",
+   "rate": "5",
+   "ANSWER": "monthly payment is 399 "
+  }
+ },
+ "409f309c72": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "24",
+   "Loan amount": "17000",
+   "rate": "4",
+   "ANSWER": "monthly payment is 975"
+  }
+ },
+ "84af45e3ca": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "18",
+   "Loan amount": "15000",
+   "rate": "3",
+   "ANSWER": "monthly payment is 880"
+  }
+ },
+ "369a69dcbf": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "96",
+   "Loan amount": "120000",
+   "rate": "4.2",
+   "ANSWER": "1474"
+  }
+ },
+ "924f729291": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "30",
+   "Loan amount": "3000",
+   "rate": "3",
+   "ANSWER": "104"
+  }
+ },
+ "d578f679fa": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "90",
+   "Loan amount": "10000",
+   "rate": "2"
+  }
+ },
+ "a740c215b4": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "96",
+   "Loan amount": "7000",
+   "rate": "3",
+   "ANSWER": "82.00"
+  }
+ },
+ "a81db0b71d": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "14",
+   "Loan amount": "5222",
+   "rate": "1.5",
+   "ANSWER": "377"
+  }
+ },
+ "522a73628c": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "376",
+   "Loan amount": "20000",
+   "rate": "6",
+   "ANSWER": "19600"
+  }
+ },
+ "a2196b709c": {
+  "instruction": {
+   "Loan amount": "25000",
+   "monthly Payments": "12",
+   "months remaining": "36",
+   "rate": "3",
+   "ANSWER": "727"
+  }
+ },
+ "af5591b4ec": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "20",
+   "Loan amount": "5000",
+   "rate": "7",
+   "ANSWER": "266"
+  }
+ },
+ "60b165ea7c": {
+  "instruction": {
+   "Loan amount": "28000",
+   "monthly Payments": "12",
+   "months remaining": "24",
+   "rate": "4",
+   "ANSWER": "monthly payment is 1216"
+  }
+ },
+ "0db81ce290": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "100",
+   "Loan amount": "6000",
+   "rate": "4",
+   "ANSWER": "71"
+  }
+ },
+ "262d1febf5": {
+  "instruction": {
+   "Loan amount": "20000",
+   "monthly Payments": "12",
+   "months remaining": "234",
+   "rate": "4"
+  }
+ },
+ "7586f869f4": {
+  "instruction": {
+   "Loan amount": "15000",
+   "monthly Payments": "12",
+   "months remaining": "162",
+   "rate": "4"
+  }
+ },
+ "1b8b352fbf": {
+  "instruction": {
+   "Loan amount": "5000",
+   "monthly Payments": "12",
+   "months remaining": "155",
+   "rate": "5"
+  }
+ },
+ "0a99e04c37": {
+  "instruction": {
+   "Loan amount": "6000",
+   "monthly Payments": "12",
+   "months remaining": "72",
+   "rate": "3.5",
+   "ANSWER": "93"
+  }
+ },
+ "602f8a0b00": {
+  "instruction": {
+   "Loan amount": "28000",
+   "monthly Payments": "12",
+   "months remaining": "325",
+   "rate": "4"
+  }
+ },
+ "8e46b03bea": {
+  "instruction": {
+   "monthly Payments": "12",
+   "months remaining": "240",
+   "Loan amount": "5000",
+   "rate": "4",
+   "ANSWER": "4355"
+  }
+ },
+ "cebbb03abc": {
+  "instruction": {
+   "Loan amount": "100000",
+   "monthly Payments": "12",
+   "months remaining": "60",
+   "rate": "4.2",
+   "ANSWER": "1851"
+  }
+ },
+ "db35b6376a": {
+  "instruction": {
+   "Loan amount": "5000",
+   "monthly Payments": "12",
+   "months remaining": "50",
+   "rate": "5",
+   "ANSWER": "111"
+  }
+ },
+ "f7916feb2d": {
+  "instruction": {
+   "Loan amount": "60000",
+   "monthly Payments": "12",
+   "months remaining": "72",
+   "rate": "3.8",
+   "ANSWER": "933"
+  }
+ },
+ "947549ea6e": {
+  "instruction": {
+   "rate": "3",
+   "months remaining": "68",
+   "Loan amount": "7500",
+   "monthly Payments": "12"
+  }
+ },
+ "75531815c1": {
+  "instruction": {
+   "Loan amount": "3000",
+   "monthly Payments": "12",
+   "months remaining": "180",
+   "rate": "2",
+   "ANSWER": "19"
+  }
+ }
+}

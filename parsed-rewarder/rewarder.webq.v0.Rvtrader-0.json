@@ -1,0 +1,62 @@
+{
+ "99028f65fb": {
+  "instruction": {
+   "RV type": "Class B",
+   "Max Price": "$250,000"
+  }
+ },
+ "064fcc681d": {
+  "instruction": {
+   "RV type": "Class C",
+   "Max Price": "$500,000"
+  }
+ },
+ "dccc981e65": {
+  "instruction": {
+   "RV type": "Class A",
+   "Max Price": "$250,000"
+  }
+ },
+ "9de7aea56c": {
+  "instruction": {
+   "RV type": "Class C",
+   "Max Price": "$300,000"
+  }
+ },
+ "cf242dd7dd": {
+  "instruction": {
+   "RV type": "Class A",
+   "Max Price": "$500,000"
+  }
+ },
+ "175fdde99e": {
+  "instruction": {
+   "RV type": "Class A",
+   "Max Price": "$300,000"
+  }
+ },
+ "2c3fbaba83": {
+  "instruction": {
+   "RV type": "Class B",
+   "Max Price": "$500,000"
+  }
+ },
+ "a7d2374f66": {
+  "instruction": {
+   "RV type": "Class C",
+   "Max Price": "$250,000"
+  }
+ },
+ "d17daa8a77": {
+  "instruction": {
+   "RV type": "Class A",
+   "Max Price": "$200,000"
+  }
+ },
+ "a27d403676": {
+  "instruction": {
+   "RV type": "Class B",
+   "Max Price": "$300,000"
+  }
+ }
+}

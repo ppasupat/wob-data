@@ -1,0 +1,62 @@
+{
+ "75a6d19e83": {
+  "instruction": {
+   "Recipes": "Creamy Corn Pasta with Basil",
+   "Chef": "Melissa Clark"
+  }
+ },
+ "5a786fead9": {
+  "instruction": {
+   "Recipes": "Pot Roast",
+   "Chef": "Brett Anderson"
+  }
+ },
+ "aacb1907df": {
+  "instruction": {
+   "Recipes": "Mississippi Roast",
+   "Chef": "Sam Sifton"
+  }
+ },
+ "bef7230857": {
+  "instruction": {
+   "Recipes": "Mushroom-Spinach Soup with Middle Eastern Spices",
+   "Chef": "N/A"
+  }
+ },
+ "54fb0ca6c2": {
+  "instruction": {
+   "Recipes": "Chicken Enchiladas with Salsa Verde",
+   "Chef": "Sam Sifton"
+  }
+ },
+ "792d3d0c87": {
+  "instruction": {
+   "Recipes": "Middle Eastern Herb and Garlic Chicken",
+   "Chef": "Melissa Clark"
+  }
+ },
+ "3a85b5c401": {
+  "instruction": {
+   "Recipes": "Hot Honey Shrimp",
+   "Chef": "Melissa Clark"
+  }
+ },
+ "3f5a08f5f8": {
+  "instruction": {
+   "Recipes": "Best Chicken Salad",
+   "Chef": "Julia Moskin"
+  }
+ },
+ "dfcb364fe9": {
+  "instruction": {
+   "Recipes": "Modern Chicken Potpie",
+   "Chef": "Julia Moskin"
+  }
+ },
+ "30ea28b8f3": {
+  "instruction": {
+   "Recipes": "Flattened Chicken Thighs with Roasted Lemon Slices",
+   "Chef": "N/A"
+  }
+ }
+}

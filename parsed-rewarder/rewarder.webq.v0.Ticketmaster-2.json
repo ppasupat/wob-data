@@ -1,0 +1,1572 @@
+{
+ "53ada502a7": {
+  "instruction": {
+   "type of music played": "Rap and Hip Hop",
+   "name of City": "Seattle",
+   "start date": "2/20/2017",
+   "end date": "3/30/2017",
+   "ANSWER": "Rick the Kid"
+  }
+ },
+ "8fbbf5c198": {
+  "instruction": {
+   "event type": "live music",
+   "state": "kentucky"
+  }
+ },
+ "3e53521e3e": {
+  "instruction": {
+   "type of music played": "Pop and Rock",
+   "name of City": "Baraboo",
+   "start date": "2/20/2017",
+   "end date": "3/15/2017",
+   "ANSWER": "Frankie Avalon"
+  }
+ },
+ "34e66986ec": {
+  "instruction": {
+   "type of music played": "trap",
+   "name of City": "San Diego",
+   "start date": "4/06/17",
+   "end date": "5/20/17",
+   "ANSWER": "Jeezy - The Trap or Die Tour"
+  }
+ },
+ "eff3b4fb50": {
+  "instruction": {
+   "type of music played": "Rap and Hip-Hop",
+   "name of City": "Nashville, TN",
+   "start date": "03/12/2017",
+   "end date": "03/19/2017",
+   "ANSWER": "Freak Me"
+  }
+ },
+ "cd9e1405ed": {
+  "instruction": {
+   "end date": "03/21/2017",
+   "start date": "03/14/2017",
+   "name of City": "Atlanta",
+   "type of music played": "R&B/Urban Soul"
+  }
+ },
+ "6345b17f3c": {
+  "instruction": {
+   "type of music played": "Country and Folk",
+   "name of City": "Houston, TX",
+   "start date": "02/20/17",
+   "end date": "02/28/17",
+   "ANSWER": "Monster Energy Outbreak Pres. The Cadillac Three: The Black Roses Tour"
+  }
+ },
+ "3520a8f9f4": {
+  "instruction": {
+   "type of music played": "Classical",
+   "name of City": "Nashville",
+   "start date": "03/16/2017",
+   "end date": "03/20/2017",
+   "ANSWER": "Ravel's Bolero"
+  }
+ },
+ "490d0755b5": {
+  "instruction": {
+   "end date": "04/30/2017",
+   "start date": "04/20/2017",
+   "name of City": "Toledo",
+   "type of music played": "Country",
+   "ANSWER": "Jason Aldean"
+  }
+ },
+ "047dbba1b7": {
+  "instruction": {
+   "end date": "04/20/2017",
+   "start date": "04/01/2017",
+   "name of City": "Tampa",
+   "type of music played": "Dance/Electronic",
+   "ANSWER": "Chainsmokers"
+  }
+ },
+ "16015ed2e6": {
+  "instruction": {
+   "type of music played": "Classical",
+   "name of City": "Honolulu, HI",
+   "start date": "03/10/17",
+   "end date": "03/20/17",
+   "ANSWER": "Hawaii Symphony Orchestra - POPS5 - Cirque de la Symphonie"
+  }
+ },
+ "5a2b160aef": {
+  "instruction": {
+   "type of music played": "R&B/Urban Soul",
+   "name of City": "San Diego",
+   "start date": "06/04/2017",
+   "end date": "06/10/2017",
+   "ANSWER": "Morgan James - Reckless Abandon Tour"
+  }
+ },
+ "061c16faad": {
+  "instruction": {
+   "end date": "02/24/2017",
+   "start date": "02/23/2017",
+   "name of City": "Chicago",
+   "type of music played": "Hard Rock/Metal",
+   "ANSWER": "After The Burial with Emmure, Fit For A King, Fit For An Autopsy and Invent, Animate"
+  }
+ },
+ "24e2b927a4": {
+  "instruction": {
+   "type of music played": "World Music",
+   "name of City": "Ft Lauderdale, FL",
+   "start date": "02/22/2017",
+   "end date": " 02/23/2017",
+   "ANSWER": "Ladysmith Black Mambazo"
+  }
+ },
+ "9a7590553a": {
+  "instruction": {
+   "end date": "05/08/2017",
+   "start date": "05/04/2017",
+   "name of City": "Onamia",
+   "type of music played": "Country and Folk",
+   "ANSWER": "Craig Morgan"
+  }
+ },
+ "fde355f787": {
+  "instruction": {
+   "type of music played": "R&B/Urban Soul",
+   "name of City": "Seattle",
+   "start date": "4/01/2017",
+   "end date": "04/17/2017",
+   "ANSWER": "Black Violin"
+  }
+ },
+ "1012e8a80f": {
+  "instruction": {
+   "type of music played": "Classical",
+   "name of City": "Columbia",
+   "start date": "04/19/2017",
+   "end date": "04/24/2017",
+   "ANSWER": "MU Choral Union"
+  }
+ },
+ "3f017b80bd": {
+  "instruction": {
+   "type of music played": "Country and Folk ",
+   "name of City": "Los Angeles, CA",
+   "start date": "02/27/17",
+   "end date": "03/02/17",
+   "ANSWER": "Nick Sherwin Project"
+  }
+ },
+ "7290a2cb7f": {
+  "instruction": {
+   "type of music played": " Rock and Pop",
+   "name of City": "Cincinnati, OH",
+   "start date": "06/02/2017",
+   "end date": "06/04/2017",
+   "ANSWER": "Muse"
+  }
+ },
+ "10c3b2584c": {
+  "instruction": {
+   "type of music played": "Hard Rock/Metal",
+   "name of City": "Chicago",
+   "start date": "02/23/2017",
+   "end date": "02/24/2017",
+   "ANSWER": "After The Burial with Emmure, Fit For A King, Fit For An Autopsy and Invent, Animate"
+  }
+ },
+ "54aa03c703": {
+  "instruction": {
+   "end date": "04/24/2017",
+   "start date": "04/16/2017",
+   "name of City": "San Diego",
+   "type of music played": "New Age and Spiritual"
+  }
+ },
+ "52afce0905": {
+  "instruction": {
+   "end date": "02/28/17",
+   "start date": "02/20/17",
+   "name of City": "Houston, TX",
+   "type of music played": "Country and Folk",
+   "ANSWER": "Monster Energy Outbreak Pres. The Cadillac Three: The Black Roses Tour"
+  }
+ },
+ "597755d3c9": {
+  "instruction": {
+   "event type": "volleyball",
+   "state": "ichigan"
+  }
+ },
+ "6d3f861a2c": {
+  "instruction": {
+   "type of music played": "R&B/Urban Soul",
+   "name of City": "Nashville, TN",
+   "start date": "04/01/17",
+   "end date": "04/10/17",
+   "ANSWER": "Gladys Knight"
+  }
+ },
+ "64f5ee871d": {
+  "instruction": {
+   "type of music played": "Alternative Rock",
+   "name of City": "Noblesville",
+   "start date": "08/10/2017",
+   "end date": "08/20/2017",
+   "ANSWER": "Green Day - Revolution Radio Tour"
+  }
+ },
+ "bebfca82f2": {
+  "instruction": {
+   "end date": "05/19/2017",
+   "start date": "05/16/2017",
+   "name of City": "Little Rock",
+   "type of music played": "World Music",
+   "ANSWER": "Celtic Woman"
+  }
+ },
+ "08c4c2770f": {
+  "instruction": {
+   "type of music played": "Rock and Pop",
+   "name of City": "Seattle",
+   "start date": "05/01/2017",
+   "end date": "05/15/2017",
+   "ANSWER": "U2"
+  }
+ },
+ "3ffcf83fa4": {
+  "instruction": {
+   "type of music played": "Rock and Pop",
+   "name of City": "Houston & More",
+   "start date": "03/01/17",
+   "end date": "03/02/17",
+   "ANSWER": "Bebe Rexha"
+  }
+ },
+ "cd497618fb": {
+  "instruction": {
+   "type of music played": "Comedy",
+   "name of City": "New York, NY",
+   "start date": "03/17/2017",
+   "end date": "03/19/2017",
+   "ANSWER": "Janeane Garofalo featuring Harris Stanton"
+  }
+ },
+ "bec11de5b5": {
+  "instruction": {
+   "end date": "03/27/2017",
+   "start date": "03/06/2017",
+   "name of City": "San Diego",
+   "type of music played": "Latin"
+  }
+ },
+ "b3edb7d4f2": {
+  "instruction": {
+   "type of music played": "Alternative Rock",
+   "name of City": "Charlotte",
+   "start date": "2/20/2017",
+   "end date": "3/15/2017",
+   "ANSWER": "St. Paul Presents: Less than Jake and Pepper"
+  }
+ },
+ "dec0803219": {
+  "instruction": {
+   "type of music played": "Comedy",
+   "name of City": "Philadelphia, PA",
+   "start date": "03/09/2017",
+   "end date": "03/11/2017",
+   "ANSWER": "Ian Bagg"
+  }
+ },
+ "f1a10f0f39": {
+  "instruction": {
+   "end date": "02/28/2017",
+   "start date": "02/23/2017",
+   "name of City": "St Louis",
+   "type of music played": "R&B/Urban Soul",
+   "ANSWER": "Charlie Wilson"
+  }
+ },
+ "c1b46bbf99": {
+  "instruction": {
+   "end date": "02/27/17",
+   "start date": "02/24/17",
+   "name of City": "New York, NY",
+   "type of music played": "New Age and Spiritual",
+   "ANSWER": "HARLEM GOSPEL CHOIR - SUNDAY GOSPEL BRUNCH - ALL YOU CAN EAT BUFFET"
+  }
+ },
+ "17f8e15620": {
+  "instruction": {
+   "end date": "3/1/17",
+   "start date": "2/25/17",
+   "name of City": "Los Angeles",
+   "type of music played": "hip hop",
+   "ANSWER": "The Palms, Blackalicious, Kodie Shane, Anderson .Paak & the Free Nationals"
+  }
+ },
+ "9cdc5792c7": {
+  "instruction": {
+   "type of music played": "Festivals",
+   "name of City": "Memphis, TN",
+   "start date": "05/01/17",
+   "end date": "05/10/17",
+   "ANSWER": "Beale St Music Festival"
+  }
+ },
+ "b9028430a0": {
+  "instruction": {
+   "end date": "03/04/2017",
+   "start date": "03/02/2017",
+   "name of City": "Chicago",
+   "type of music played": "World Music"
+  }
+ },
+ "00c2c356cb": {
+  "instruction": {
+   "type of music played": "Latin",
+   "name of City": "Philadelphia",
+   "start date": "03/07/2017",
+   "end date": "03/10/2017",
+   "ANSWER": "Los Campesinos!"
+  }
+ },
+ "e6428e2245": {
+  "instruction": {
+   "end date": "02/28/17",
+   "start date": "02/27/17",
+   "name of City": "San Francisco, CA",
+   "type of music played": "Jazz and Blues",
+   "ANSWER": "Jazz Mafia Mardi Gras All-Stars, MJ's Brass Boppers"
+  }
+ },
+ "5f61667568": {
+  "instruction": {
+   "type of music played": "Dance/Electronic",
+   "name of City": "Philadelphia",
+   "start date": "02/22/2017",
+   "end date": "02/23/2017",
+   "ANSWER": "Xxyyxx"
+  }
+ },
+ "dea3c90648": {
+  "instruction": {
+   "end date": "03/30/17",
+   "start date": "03/15/17",
+   "name of City": "Dallas, TX",
+   "type of music played": "Country and Folk",
+   "ANSWER": "Cody Johnson"
+  }
+ },
+ "fdc098a181": {
+  "instruction": {
+   "end date": "02/28/2017",
+   "start date": "02/20/2017",
+   "name of City": "St. Louis",
+   "type of music played": "R&b/Urban Soul",
+   "ANSWER": "Charlie Wilson"
+  }
+ },
+ "5e422d8dc5": {
+  "instruction": {
+   "type of music played": "Rock and Pop",
+   "name of City": "Denver, CO",
+   "start date": "03/19/2017",
+   "end date": "03/26/2017",
+   "ANSWER": "The Unlikely Candidates"
+  }
+ },
+ "af7c4681b1": {
+  "instruction": {
+   "end date": "05/10/17",
+   "start date": "05/01/17",
+   "name of City": "Memphis, TN",
+   "type of music played": "Festivals",
+   "ANSWER": "Beale St Music Festival"
+  }
+ },
+ "20cda9c710": {
+  "instruction": {
+   "type of music played": "hard rock",
+   "name of City": "Atlanta",
+   "start date": "3/08/17",
+   "end date": "3/22/17",
+   "ANSWER": "Breaking Wheel, Anvil, The Noise Presents: The Decibel Magazine 2017 Tour. SoulTrap w/ Tombstone, All Is Lost, All My Vices At Once, After The Burial"
+  }
+ },
+ "4df12483ba": {
+  "instruction": {
+   "end date": "03/20/2017",
+   "start date": "03/16/2017",
+   "name of City": "Nashville",
+   "type of music played": "Classical",
+   "ANSWER": "Ravel's Bolero"
+  }
+ },
+ "f3b98df11c": {
+  "instruction": {
+   "end date": "2/26/17",
+   "start date": "2/22/17",
+   "name of City": "Atlanta, GA",
+   "type of music played": "Cabaret",
+   "ANSWER": "Dita Von Teese's \"The Art of the Teese\" Burlesque Revue"
+  }
+ },
+ "4381cea217": {
+  "instruction": {
+   "type of music played": "Latin",
+   "name of City": "San Diego",
+   "start date": "03/06/2017",
+   "end date": "03/27/2017"
+  }
+ },
+ "1a26a295ae": {
+  "instruction": {
+   "end date": "02/23/2017",
+   "start date": "02/22/2017",
+   "name of City": "Seattle",
+   "type of music played": "Country and Folk",
+   "ANSWER": "Parsonsfield, Old Coast, Evan Egerer"
+  }
+ },
+ "58c9d6f084": {
+  "instruction": {
+   "end date": "02/23/2017",
+   "start date": "02/22/2017",
+   "name of City": "Chicago",
+   "type of music played": "Country and Folk",
+   "ANSWER": "South Side Salsa presented by U of C Ballroom & Latin Dance Association & WHPK"
+  }
+ },
+ "a3b9040cbb": {
+  "instruction": {
+   "end date": "02/25/2017",
+   "start date": "02/14/2017",
+   "name of City": "Boston",
+   "type of music played": "Jazz and Blues"
+  }
+ },
+ "160f9d76f7": {
+  "instruction": {
+   "type of music played": "Hard Rock/Metal",
+   "name of City": "Orlando, FL",
+   "start date": "03/15/2017",
+   "end date": "03/19/2017",
+   "ANSWER": "Anvil, Night Demon, Graveshadow"
+  }
+ },
+ "d616cbde43": {
+  "instruction": {
+   "type of music played": " Rock and Pop",
+   "name of City": "Inglewood, CA",
+   "start date": "08/08/2017",
+   "end date": "08/09/2017",
+   "ANSWER": "Lady Gaga Joanne World Tour"
+  }
+ },
+ "54779f991b": {
+  "instruction": {
+   "end date": "03/02/2017",
+   "start date": "02/26/2017",
+   "name of City": "New York",
+   "type of music played": "R&B/Urban Soul"
+  }
+ },
+ "b80040a8e5": {
+  "instruction": {
+   "type of music played": "Country and Folk",
+   "name of City": "Chicago",
+   "start date": "02/22/2017",
+   "end date": "02/23/2017",
+   "ANSWER": "South Side Salsa presented by U of C Ballroom & Latin Dance Association & WHPK"
+  }
+ },
+ "4940822f4a": {
+  "instruction": {
+   "type of music played": "R&B/Urban Soul",
+   "name of City": "Ft Lauderdale, FL",
+   "start date": "03/14/2017",
+   "end date": "03/14/2017",
+   "ANSWER": "Patti LaBelle"
+  }
+ },
+ "8488b15d09": {
+  "instruction": {
+   "type of music played": "Classical Music",
+   "name of City": "Mankato",
+   "start date": "2/19/2017",
+   "end date": "2/28/2017",
+   "ANSWER": "Mankato Symphony Orchestra"
+  }
+ },
+ "39d2b3fa42": {
+  "instruction": {
+   "type of music played": "Dance/Electronic",
+   "name of City": "Columbus, OH",
+   "start date": "02/26/17",
+   "end date": "02/28/17",
+   "ANSWER": "Tchami"
+  }
+ },
+ "b9fa963b3a": {
+  "instruction": {
+   "type of music played": "World Music",
+   "name of City": "New York",
+   "start date": "02/23/2017",
+   "end date": "02/24/2017",
+   "ANSWER": "Unapologetic: Dope"
+  }
+ },
+ "77b0635df9": {
+  "instruction": {
+   "end date": "03/02/17",
+   "start date": "03/01/17",
+   "name of City": "Houston & More",
+   "type of music played": "Rock and Pop",
+   "ANSWER": "Bebe Rexha"
+  }
+ },
+ "91f54e9e30": {
+  "instruction": {
+   "type of music played": "pop",
+   "name of City": "New York City",
+   "start date": "3/1/17",
+   "end date": "3/14/17",
+   "ANSWER": " Shop by Dates From:\t  03/01/2017 From Date To:\t  03/14/2017 To Date Go   Greater Los Angeles Area (0) There are no matching events in Greater Los Angeles Area. United States Of America (4) Search Results: United States Of America Event\tLocation\tDateAscending - Sort Descending\tFind Tickets Night of the Living Funk, the Phryg, Arjun American Beauty NYC New York City, NY\tWed, 03/01/17 08:00 PM\tSee Tickets on TicketWeb A Tribute To Butch Trucks, Ft. Big In China and Extended Allman Family American Beauty NYC New York City, NY\tWed, 03/01/17 08:15 PM\tSee Tickets on TicketWeb Multibeast - Phish Tribute Ft. Teddy Midnight, Kung Fu, Consider the S American Beauty NYC New York City, NY\tThu, 03/02/17 08:00 PM\tSee Tickets on TicketWeb Broccoli Samurai, Electric Love MacHine, Multibeast - Phish Tribute Ft. Teddy Midnight, Kung Fu, Consider the S, Night of the Living Funk, the Phryg, Arjun. A Tribute To Butch Trucks, Ft. Big In China and Extended Allman Family,"
+  }
+ },
+ "9e9cd59b38": {
+  "instruction": {
+   "event type": "pop music",
+   "state": "california"
+  }
+ },
+ "79e82e1220": {
+  "instruction": {
+   "end date": "5/20/17",
+   "start date": "4/06/17",
+   "name of City": "San Diego",
+   "type of music played": "trap",
+   "ANSWER": "Jeezy - The Trap or Die Tour"
+  }
+ },
+ "492db6f08d": {
+  "instruction": {
+   "end date": "02/23/17",
+   "start date": "02/20/17",
+   "name of City": "Santa Ana, CA",
+   "type of music played": "R&B/Urban Soul",
+   "ANSWER": "Jojo with Stanaj"
+  }
+ },
+ "b9308a6f55": {
+  "instruction": {
+   "end date": "04/20/2017",
+   "start date": "04/14/2017",
+   "name of City": "Orlando",
+   "type of music played": "Latin",
+   "ANSWER": "Fiel A La Vega"
+  }
+ },
+ "6d36f2384a": {
+  "instruction": {
+   "type of music played": "World Music",
+   "name of City": "Chicago",
+   "start date": "03/02/2017",
+   "end date": "03/04/2017"
+  }
+ },
+ "bc5545d5d5": {
+  "instruction": {
+   "type of music played": "hip hop",
+   "name of City": "Brooklyn",
+   "start date": "2/20/17",
+   "end date": "2/27/17",
+   "ANSWER": "Kool Keith, Large Professor, Ave Campbell, Siimba Liives Long, Ain't No Party Music By Mekdot, Spintelect, Where's Nasty and Hosted B, Sonreal, Kahli Abdu, Clairmont, Robb Banks, Wifisfuneral, Warhol & Slump God, Ronny J, Ill Chris, Milo with Elucid and Denmark Vesey. "
+  }
+ },
+ "22afb749ed": {
+  "instruction": {
+   "type of music played": "Pop and Rock",
+   "name of City": "Madison",
+   "start date": "2/20/2017",
+   "end date": "3/30/2017",
+   "ANSWER": "Jojo"
+  }
+ },
+ "d4d910cc3f": {
+  "instruction": {
+   "type of music played": "Rap and Hip-Hop",
+   "name of City": "Chicago",
+   "start date": "03/27/2017",
+   "end date": "04/26/2017"
+  }
+ },
+ "13e03b087d": {
+  "instruction": {
+   "type of music played": "Jazz and Blues",
+   "name of City": "Portland, OR",
+   "start date": "03/10/17",
+   "end date": "03/20/17",
+   "ANSWER": "Heatwave Jazz and Show Band Fundraiser"
+  }
+ },
+ "822cfff628": {
+  "instruction": {
+   "end date": "04/26/2017",
+   "start date": "03/27/2017",
+   "name of City": "Los Angelos",
+   "type of music played": "Latin"
+  }
+ },
+ "059d75168b": {
+  "instruction": {
+   "end date": "04/31/2017",
+   "start date": "04/01/2017",
+   "name of City": "Houston",
+   "type of music played": "Rock and Pop"
+  }
+ },
+ "5afe412b18": {
+  "instruction": {
+   "end date": "03/02/17",
+   "start date": "02/27/17",
+   "name of City": "Los Angeles, CA",
+   "type of music played": "Country and Folk ",
+   "ANSWER": "Nick Sherwin Project"
+  }
+ },
+ "b6c41ab129": {
+  "instruction": {
+   "type of music played": "Country and Folk",
+   "name of City": "Seattle",
+   "start date": "02/22/2017",
+   "end date": "02/23/2017",
+   "ANSWER": "Parsonsfield, Old Coast, Evan Egerer"
+  }
+ },
+ "926f5f7ffc": {
+  "instruction": {
+   "type of music played": "Jazz and Blues",
+   "name of City": "North Charleston",
+   "start date": "3/07/2017",
+   "end date": "3/10/2017",
+   "ANSWER": "Norah Jones"
+  }
+ },
+ "a0c214dd89": {
+  "instruction": {
+   "end date": "3/04/17",
+   "start date": "2/20/17",
+   "name of City": "Miami",
+   "type of music played": "latin",
+   "ANSWER": "Premio Lo Nuestro. Benise"
+  }
+ },
+ "f6da8d13bf": {
+  "instruction": {
+   "type of music played": "World Music",
+   "name of City": "Orlando, FL",
+   "start date": "03/01/17",
+   "end date": "03/10/17",
+   "ANSWER": "Celtic Woman"
+  }
+ },
+ "d65dacbaaf": {
+  "instruction": {
+   "type of music played": " Rock and Pop",
+   "name of City": "Nashville, TN",
+   "start date": "04/25/2017",
+   "end date": "04/25/2017",
+   "ANSWER": "Tom Petty & The Heartbreakers"
+  }
+ },
+ "946d86d17b": {
+  "instruction": {
+   "end date": "3/14/17",
+   "start date": "3/1/17",
+   "name of City": "New York City",
+   "type of music played": "pop",
+   "ANSWER": " Shop by Dates From:\t  03/01/2017 From Date To:\t  03/14/2017 To Date Go   Greater Los Angeles Area (0) There are no matching events in Greater Los Angeles Area. United States Of America (4) Search Results: United States Of America Event\tLocation\tDateAscending - Sort Descending\tFind Tickets Night of the Living Funk, the Phryg, Arjun American Beauty NYC New York City, NY\tWed, 03/01/17 08:00 PM\tSee Tickets on TicketWeb A Tribute To Butch Trucks, Ft. Big In China and Extended Allman Family American Beauty NYC New York City, NY\tWed, 03/01/17 08:15 PM\tSee Tickets on TicketWeb Multibeast - Phish Tribute Ft. Teddy Midnight, Kung Fu, Consider the S American Beauty NYC New York City, NY\tThu, 03/02/17 08:00 PM\tSee Tickets on TicketWeb Broccoli Samurai, Electric Love MacHine, Multibeast - Phish Tribute Ft. Teddy Midnight, Kung Fu, Consider the S, Night of the Living Funk, the Phryg, Arjun. A Tribute To Butch Trucks, Ft. Big In China and Extended Allman Family,"
+  }
+ },
+ "3e916c3bd3": {
+  "instruction": {
+   "end date": "03/02/17",
+   "start date": "02/19/17",
+   "name of City": "New York, NY",
+   "type of music played": "Cabaret",
+   "ANSWER": "Concert For America"
+  }
+ },
+ "8490adc50c": {
+  "instruction": {
+   "type of music played": "New Age and Spiritual",
+   "name of City": "New York, NY",
+   "start date": "02/24/17",
+   "end date": "02/27/17",
+   "ANSWER": "HARLEM GOSPEL CHOIR - SUNDAY GOSPEL BRUNCH - ALL YOU CAN EAT BUFFET"
+  }
+ },
+ "c3f62e076a": {
+  "instruction": {
+   "type of music played": "Dance/Electronic",
+   "name of City": "Chicago, IL",
+   "start date": "02/26/2017",
+   "end date": "03/05/2017",
+   "ANSWER": "Chirp Welcomes Electric Guest with Nine Pound Shadow"
+  }
+ },
+ "b220264595": {
+  "instruction": {
+   "end date": "03/15/2017",
+   "start date": "03/01/2017",
+   "name of City": "Inglewood",
+   "type of music played": "Rock and Pop",
+   "ANSWER": "Bruno Mars"
+  }
+ },
+ "2ff1fa9f95": {
+  "instruction": {
+   "type of music played": "Rock and Pop",
+   "name of City": "Fargo, ND",
+   "start date": "03/17/2017",
+   "end date": "03/31/2017",
+   "ANSWER": "Huey Lewis and the News"
+  }
+ },
+ "4a4ac416d6": {
+  "instruction": {
+   "type of music played": "R&B/Urban Soul",
+   "name of City": "Chicago",
+   "start date": "02/23/2017",
+   "end date": "02/24/2017",
+   "ANSWER": "Eci Presents Stepping Into Hyde Park"
+  }
+ },
+ "fb4e62be75": {
+  "instruction": {
+   "end date": "04/30/2017",
+   "start date": "04/20/2017",
+   "name of City": "Oakland",
+   "type of music played": "Rap and Hip Hop",
+   "ANSWER": "Chance the Rapper"
+  }
+ },
+ "b87792b0fe": {
+  "instruction": {
+   "type of music played": "R&B/Urban Soul",
+   "name of City": "St Augustine, FL",
+   "start date": "05/14/2017",
+   "end date": "05/14/2017",
+   "ANSWER": "John Legend"
+  }
+ },
+ "e77331fb1c": {
+  "instruction": {
+   "type of music played": "electronic",
+   "name of City": "Los Angeles",
+   "start date": "4/4/17",
+   "end date": "4/20/17",
+   "ANSWER": "Havoc Thursdays featuring: TimmyTrumpet, Hippie Sabotage, Little Dragon, Hinds / Twin Peaks"
+  }
+ },
+ "95b3d3298a": {
+  "instruction": {
+   "type of music played": "Rap and Hip Hop",
+   "name of City": "Oakland",
+   "start date": "04/20/2017",
+   "end date": "04/30/2017",
+   "ANSWER": "Chance the Rapper"
+  }
+ },
+ "dae06e19a1": {
+  "instruction": {
+   "type of music played": "Jazz and Blues",
+   "name of City": "Boston",
+   "start date": "02/14/2017",
+   "end date": "02/25/2017"
+  }
+ },
+ "f191ad4a2e": {
+  "instruction": {
+   "type of music played": "World Music",
+   "name of City": "Little Rock",
+   "start date": "05/16/2017",
+   "end date": "05/19/2017",
+   "ANSWER": "Celtic Woman"
+  }
+ },
+ "60edc3d8ad": {
+  "instruction": {
+   "type of music played": " Latin",
+   "name of City": "Fairfax, VA",
+   "start date": "03/24/2017",
+   "end date": "03/24/2017",
+   "ANSWER": "Franco De Vita"
+  }
+ },
+ "3a28e615d7": {
+  "instruction": {
+   "end date": "04/30/2017",
+   "start date": "04/01/2017",
+   "name of City": "Orlando",
+   "type of music played": "Alternative Rock ",
+   "ANSWER": "Red Hot Chili Peppers"
+  }
+ },
+ "69f000bc38": {
+  "instruction": {
+   "end date": "03/10/2017",
+   "start date": "03/07/2017",
+   "name of City": "Philadelphia",
+   "type of music played": "Latin",
+   "ANSWER": "Los Campesinos!"
+  }
+ },
+ "280c267665": {
+  "instruction": {
+   "end date": "04/10/17",
+   "start date": "04/01/17",
+   "name of City": "Nashville, TN",
+   "type of music played": "R&B/Urban Soul",
+   "ANSWER": "Gladys Knight"
+  }
+ },
+ "3262a8ce7e": {
+  "instruction": {
+   "end date": "02/23/2017",
+   "start date": "02/22/2017",
+   "name of City": "New York",
+   "type of music played": "Hard Rock/Metal",
+   "ANSWER": "Carnifex Fallujah, Rings of Saturn, Lorna Shore, She Must Burn"
+  }
+ },
+ "63aea4d10b": {
+  "instruction": {
+   "type of music played": "Jazz and Blues",
+   "name of City": "Boston",
+   "start date": "02/22/2017",
+   "end date": "02/23/2017",
+   "ANSWER": "Alex Bugnon and Nelson Rangell"
+  }
+ },
+ "96550eb012": {
+  "instruction": {
+   "type of music played": "Country and Folk",
+   "name of City": "Dallas, TX",
+   "start date": "03/15/17",
+   "end date": "03/30/17",
+   "ANSWER": "Cody Johnson"
+  }
+ },
+ "c7311ec194": {
+  "instruction": {
+   "end date": "04/17/2017",
+   "start date": "04/10/2017",
+   "name of City": "Orlando",
+   "type of music played": "Rock and Pop",
+   "ANSWER": "Ariana Grande"
+  }
+ },
+ "7fd4d7a323": {
+  "instruction": {
+   "type of music played": "R&b/Urban Soul",
+   "name of City": "St. Louis",
+   "start date": "02/20/2017",
+   "end date": "02/28/2017",
+   "ANSWER": "Charlie Wilson"
+  }
+ },
+ "b9a87a6eec": {
+  "instruction": {
+   "event type": "rock concert",
+   "state": "indiana"
+  }
+ },
+ "78703a67db": {
+  "instruction": {
+   "type of music played": "electronic",
+   "name of City": "Las Vegas",
+   "start date": "4/5/17",
+   "end date": "4/27/17",
+   "ANSWER": "Jabbawockeez"
+  }
+ },
+ "c41c84000d": {
+  "instruction": {
+   "end date": "05/01/17",
+   "start date": "04/01/17",
+   "name of City": "St. Louis, MO",
+   "type of music played": "Alternative Rock",
+   "ANSWER": "An Evening With Chris Robinson Brotherhood"
+  }
+ },
+ "4decb257cb": {
+  "instruction": {
+   "type of music played": "Alternative Rock",
+   "name of City": "Charleston",
+   "start date": "2/20/2017",
+   "end date": "3/15/2017",
+   "ANSWER": "Jimmy Eats World"
+  }
+ },
+ "32168d4936": {
+  "instruction": {
+   "event type": "classical music",
+   "state": "michigan"
+  }
+ },
+ "1625737851": {
+  "instruction": {
+   "type of music played": "Rock and Pop",
+   "name of City": "Inglewood",
+   "start date": "03/01/2017",
+   "end date": "03/15/2017",
+   "ANSWER": "Bruno Mars"
+  }
+ },
+ "3e7b3c9aff": {
+  "instruction": {
+   "end date": "03/15/17",
+   "start date": "03/10/17",
+   "name of City": "Chicago, IL",
+   "type of music played": "Dance/Electronic",
+   "ANSWER": "HOB and React Presents: Hippie Sabotage Chasing the Wild Tour"
+  }
+ },
+ "92cdd46447": {
+  "instruction": {
+   "event type": "opera",
+   "state": "illinois"
+  }
+ },
+ "f615c42608": {
+  "instruction": {
+   "type of music played": "Alternative Rock",
+   "name of City": "San Francisco, CA",
+   "start date": "02/24/17",
+   "end date": "02/26/17",
+   "ANSWER": "Radical Face"
+  }
+ },
+ "dca565b82b": {
+  "instruction": {
+   "type of music played": " Rock and Pop",
+   "name of City": "Las Vegas, NV",
+   "start date": "04/01/2017",
+   "end date": "04/01/2017",
+   "ANSWER": "Jimmy Buffett"
+  }
+ },
+ "f676b8c8d0": {
+  "instruction": {
+   "type of music played": "rap",
+   "name of City": "Chicago",
+   "start date": "5/1/17",
+   "end date": "5/15/17",
+   "ANSWER": "NF - Therapy Session Tour 2017"
+  }
+ },
+ "bbb3ef7928": {
+  "instruction": {
+   "end date": "02/23/2017",
+   "start date": "02/22/2017",
+   "name of City": "Boston",
+   "type of music played": "Jazz and Blues",
+   "ANSWER": "Alex Bugnon and Nelson Rangell"
+  }
+ },
+ "776faede6d": {
+  "instruction": {
+   "end date": "4/14/17",
+   "start date": "3/27/17",
+   "name of City": "Nashville",
+   "type of music played": "classical",
+   "ANSWER": "Beethoven's Second, Coffee & Classics - New American Classics, Guerrero Conducts Bernstein, Brahms v. Radiohead: A Symphonic Mash-Up Experience,  Dr. Seuss' Green Eggs and Ham"
+  }
+ },
+ "9b0b138d1c": {
+  "instruction": {
+   "end date": "02/24/2017",
+   "start date": "02/23/2017",
+   "name of City": "New York",
+   "type of music played": "World Music",
+   "ANSWER": "Unapologetic: Dope"
+  }
+ },
+ "34790fab31": {
+  "instruction": {
+   "type of music played": "Alternative Rock",
+   "name of City": "Pittsburgh, PA",
+   "start date": "02/28/2017",
+   "end date": "03/11/2017",
+   "ANSWER": "The Menzingers, with Special Guests Jeff Rosenstock and Rozwell Kid"
+  }
+ },
+ "c17179a265": {
+  "instruction": {
+   "type of music played": "Latin",
+   "name of City": "Los Angelos",
+   "start date": "03/27/2017",
+   "end date": "04/26/2017"
+  }
+ },
+ "969fccd87b": {
+  "instruction": {
+   "type of music played": "Rock and Pop",
+   "name of City": "Orlando",
+   "start date": "04/10/2017",
+   "end date": "04/17/2017",
+   "ANSWER": "Ariana Grande"
+  }
+ },
+ "0ad7497e2f": {
+  "instruction": {
+   "event type": "hockey",
+   "state": "michigan"
+  }
+ },
+ "3189f29e0b": {
+  "instruction": {
+   "type of music played": "Rock and Pop",
+   "name of City": "Houston",
+   "start date": "04/01/2017",
+   "end date": "04/31/2017"
+  }
+ },
+ "a3d3266824": {
+  "instruction": {
+   "type of music played": "R&B/Urban Soul",
+   "name of City": "Santa Ana, CA",
+   "start date": "02/20/17",
+   "end date": "02/23/17",
+   "ANSWER": "Jojo with Stanaj"
+  }
+ },
+ "9b3d07f7aa": {
+  "instruction": {
+   "type of music played": "Country Music",
+   "name of City": "Minneapolis",
+   "start date": "2/19/2017",
+   "end date": "2/28/2017",
+   "ANSWER": "Lyle Lovett and John Hiatt"
+  }
+ },
+ "9a18e68474": {
+  "instruction": {
+   "event type": "basketball",
+   "state": "indiana"
+  }
+ },
+ "f2e41286b0": {
+  "instruction": {
+   "end date": "02/20/2017",
+   "start date": "02/15/2017",
+   "name of City": "Indianapolis",
+   "type of music played": "Alternative Rock",
+   "ANSWER": "Skillet - Unleashed Tour 2017"
+  }
+ },
+ "31c4db028d": {
+  "instruction": {
+   "end date": "03/10/17",
+   "start date": "03/01/17",
+   "name of City": "Orlando, FL",
+   "type of music played": "World Music",
+   "ANSWER": "Celtic Woman"
+  }
+ },
+ "f74cfc9027": {
+  "instruction": {
+   "end date": "02/23/2017",
+   "start date": "02/22/2017",
+   "name of City": "Philadelphia",
+   "type of music played": "Dance/Electronic",
+   "ANSWER": "Xxyyxx"
+  }
+ },
+ "d6ee81f07f": {
+  "instruction": {
+   "type of music played": "classical",
+   "name of City": "Nashville",
+   "start date": "3/27/17",
+   "end date": "4/14/17",
+   "ANSWER": "Beethoven's Second, Coffee & Classics - New American Classics, Guerrero Conducts Bernstein, Brahms v. Radiohead: A Symphonic Mash-Up Experience,  Dr. Seuss' Green Eggs and Ham"
+  }
+ },
+ "d113eb0bef": {
+  "instruction": {
+   "end date": "2/27/17",
+   "start date": "2/20/17",
+   "name of City": "Brooklyn",
+   "type of music played": "hip hop",
+   "ANSWER": "Kool Keith, Large Professor, Ave Campbell, Siimba Liives Long, Ain't No Party Music By Mekdot, Spintelect, Where's Nasty and Hosted B, Sonreal, Kahli Abdu, Clairmont, Robb Banks, Wifisfuneral, Warhol & Slump God, Ronny J, Ill Chris, Milo with Elucid and Denmark Vesey. "
+  }
+ },
+ "e627445ac1": {
+  "instruction": {
+   "end date": "03/15/2017",
+   "start date": "02/20/2017",
+   "name of City": "New York",
+   "type of music played": "Rock and Pop",
+   "ANSWER": "ZZ Top"
+  }
+ },
+ "d28fe0574f": {
+  "instruction": {
+   "type of music played": "Cabaret",
+   "name of City": "New York, NY",
+   "start date": "02/19/17",
+   "end date": "03/02/17",
+   "ANSWER": "Concert For America"
+  }
+ },
+ "d1137b9ba0": {
+  "instruction": {
+   "type of music played": "Hard Rock/Metal",
+   "name of City": "Baltimore",
+   "start date": "05/01/2017",
+   "end date": "05/15/2017",
+   "ANSWER": "Metallica"
+  }
+ },
+ "9acee40846": {
+  "instruction": {
+   "type of music played": "Miscellaneous",
+   "name of City": "Los Angeles, CA",
+   "start date": "02/26/2017",
+   "end date": "03/05/2017",
+   "ANSWER": "A Red Carpet Evening At The Fox"
+  }
+ },
+ "da4022c340": {
+  "instruction": {
+   "end date": "02/23/2017",
+   "start date": "02/22/2017",
+   "name of City": "New York",
+   "type of music played": "World Music",
+   "ANSWER": "Tribal Seeds: Winter Roots Tour"
+  }
+ },
+ "0c47ed2a28": {
+  "instruction": {
+   "type of music played": "R&B/Urban Soul",
+   "name of City": "St Louis",
+   "start date": "02/23/2017",
+   "end date": "02/28/2017",
+   "ANSWER": "Charlie Wilson"
+  }
+ },
+ "5c37b56ec2": {
+  "instruction": {
+   "type of music played": "Alternative Rock",
+   "name of City": "St. Louis, MO",
+   "start date": "04/01/17",
+   "end date": "05/01/17",
+   "ANSWER": "An Evening With Chris Robinson Brotherhood"
+  }
+ },
+ "983c41cd3a": {
+  "instruction": {
+   "end date": "02/28/17",
+   "start date": "02/26/17",
+   "name of City": "Columbus, OH",
+   "type of music played": "Dance/Electronic",
+   "ANSWER": "Tchami"
+  }
+ },
+ "b9ca08b1e4": {
+  "instruction": {
+   "end date": "08/20/2017",
+   "start date": "08/10/2017",
+   "name of City": "Noblesville",
+   "type of music played": "Alternative Rock",
+   "ANSWER": "Green Day - Revolution Radio Tour"
+  }
+ },
+ "d35047e194": {
+  "instruction": {
+   "type of music played": "Hard Rock/Metal",
+   "name of City": "New York",
+   "start date": "02/22/2017",
+   "end date": "02/23/2017",
+   "ANSWER": "Carnifex Fallujah, Rings of Saturn, Lorna Shore, She Must Burn"
+  }
+ },
+ "08593f59a3": {
+  "instruction": {
+   "end date": "02/24/2017",
+   "start date": "02/23/2017",
+   "name of City": "Chicago",
+   "type of music played": "R&B/Urban Soul",
+   "ANSWER": "Eci Presents Stepping Into Hyde Park"
+  }
+ },
+ "d5414569ed": {
+  "instruction": {
+   "type of music played": "R&B/Urban Soul",
+   "name of City": "Cleveland, OH",
+   "start date": "03/01/2017",
+   "end date": "03/26/2017",
+   "ANSWER": "REVOLT Presents Ro James"
+  }
+ },
+ "1e47510b59": {
+  "instruction": {
+   "type of music played": "Hard Rock/Metal",
+   "name of City": "Baltimore, MD",
+   "start date": "05/10/2017",
+   "end date": "05/10/2017",
+   "ANSWER": "Metallica - WorldWired Tour "
+  }
+ },
+ "60875bbfa4": {
+  "instruction": {
+   "end date": "04/26/2017",
+   "start date": "03/27/2017",
+   "name of City": "Chicago",
+   "type of music played": "Rap and Hip-Hop"
+  }
+ },
+ "753b3df715": {
+  "instruction": {
+   "type of music played": "latin",
+   "name of City": "Miami",
+   "start date": "2/20/17",
+   "end date": "3/04/17",
+   "ANSWER": "Premio Lo Nuestro. Benise"
+  }
+ },
+ "99a10b269b": {
+  "instruction": {
+   "end date": "03/20/17",
+   "start date": "03/10/17",
+   "name of City": "Honolulu, HI",
+   "type of music played": "Classical",
+   "ANSWER": "Hawaii Symphony Orchestra - POPS5 - Cirque de la Symphonie"
+  }
+ },
+ "0bcf997e12": {
+  "instruction": {
+   "end date": "5/15/17",
+   "start date": "5/1/17",
+   "name of City": "Chicago",
+   "type of music played": "rap",
+   "ANSWER": "NF - Therapy Session Tour 2017"
+  }
+ },
+ "f1811be3d0": {
+  "instruction": {
+   "type of music played": "Classical",
+   "name of City": "Philadelphia, PA",
+   "start date": "03/01/17",
+   "end date": "03/10/17",
+   "ANSWER": "Reading Symphony Orchestra An Evening of Beethoven"
+  }
+ },
+ "dcdeb18164": {
+  "instruction": {
+   "end date": "02/25/2017",
+   "start date": "02/20/2017",
+   "name of City": "Boston",
+   "type of music played": "Country and Folk"
+  }
+ },
+ "8e0266cd9a": {
+  "instruction": {
+   "type of music played": "Country",
+   "name of City": "Toledo",
+   "start date": "04/20/2017",
+   "end date": "04/30/2017",
+   "ANSWER": "Jason Aldean"
+  }
+ },
+ "8d019acdc1": {
+  "instruction": {
+   "type of music played": "Rock and Pop",
+   "name of City": "New York",
+   "start date": "02/20/2017",
+   "end date": "03/15/2017",
+   "ANSWER": "ZZ Top"
+  }
+ },
+ "1e32d74f72": {
+  "instruction": {
+   "end date": "04/24/2017",
+   "start date": "04/19/2017",
+   "name of City": "Columbia",
+   "type of music played": "Classical",
+   "ANSWER": "MU Choral Union"
+  }
+ },
+ "91e8f105e9": {
+  "instruction": {
+   "end date": "03/20/17",
+   "start date": "03/10/17",
+   "name of City": "Portland, OR",
+   "type of music played": "Jazz and Blues",
+   "ANSWER": "Heatwave Jazz and Show Band Fundraiser"
+  }
+ },
+ "f1b7917c19": {
+  "instruction": {
+   "type of music played": "hip hop",
+   "name of City": "Los Angeles",
+   "start date": "2/25/17",
+   "end date": "3/1/17",
+   "ANSWER": "The Palms, Blackalicious, Kodie Shane, Anderson .Paak & the Free Nationals"
+  }
+ },
+ "c3d881612b": {
+  "instruction": {
+   "type of music played": "R&B/Urban Soul",
+   "name of City": "New York",
+   "start date": "02/26/2017",
+   "end date": "03/02/2017"
+  }
+ },
+ "6c8566726e": {
+  "instruction": {
+   "type of music played": "R&B/Urban Soul",
+   "name of City": "Atlanta",
+   "start date": "03/14/2017",
+   "end date": "03/21/2017"
+  }
+ },
+ "4cf75373da": {
+  "instruction": {
+   "end date": "05/15/2017",
+   "start date": "05/01/2017",
+   "name of City": "Baltimore",
+   "type of music played": "Hard Rock/Metal",
+   "ANSWER": "Metallica"
+  }
+ },
+ "e8bf6b99e3": {
+  "instruction": {
+   "end date": "02/26/17",
+   "start date": "02/24/17",
+   "name of City": "San Francisco, CA",
+   "type of music played": "Alternative Rock",
+   "ANSWER": "Radical Face"
+  }
+ },
+ "df4a2d30f6": {
+  "instruction": {
+   "end date": "04/10/17",
+   "start date": "04/01/17",
+   "name of City": "Houston, TX",
+   "type of music played": "Hard Rock/Metal",
+   "ANSWER": "Testament"
+  }
+ },
+ "769caf4c90": {
+  "instruction": {
+   "end date": "3/22/17",
+   "start date": "3/08/17",
+   "name of City": "Atlanta",
+   "type of music played": "hard rock",
+   "ANSWER": "Breaking Wheel, Anvil, The Noise Presents: The Decibel Magazine 2017 Tour. SoulTrap w/ Tombstone, All Is Lost, All My Vices At Once, After The Burial"
+  }
+ },
+ "7bf9692a36": {
+  "instruction": {
+   "type of music played": "Latin",
+   "name of City": "Orlando",
+   "start date": "04/14/2017",
+   "end date": "04/20/2017",
+   "ANSWER": "Fiel A La Vega"
+  }
+ },
+ "8a65977ef0": {
+  "instruction": {
+   "end date": "02/24/2017",
+   "start date": "02/23/2017",
+   "name of City": "New York",
+   "type of music played": "R&B/Urban Soul",
+   "ANSWER": "West End Blend with Vinegar Mother"
+  }
+ },
+ "e8075b2f96": {
+  "instruction": {
+   "type of music played": "World Music",
+   "name of City": "New York",
+   "start date": "02/22/2017",
+   "end date": "02/23/2017",
+   "ANSWER": "Tribal Seeds: Winter Roots Tour"
+  }
+ },
+ "0dfd482bc8": {
+  "instruction": {
+   "type of music played": "Jazz and Blues",
+   "name of City": "San Francisco, CA",
+   "start date": "02/27/17",
+   "end date": "02/28/17",
+   "ANSWER": "Jazz Mafia Mardi Gras All-Stars, MJ's Brass Boppers"
+  }
+ },
+ "286daa8db5": {
+  "instruction": {
+   "type of music played": "Country and Folk",
+   "name of City": "Boston",
+   "start date": "02/20/2017",
+   "end date": "02/25/2017"
+  }
+ },
+ "96bce1d208": {
+  "instruction": {
+   "end date": "05/15/2017",
+   "start date": "05/01/2017",
+   "name of City": "Seattle",
+   "type of music played": "Rock and Pop",
+   "ANSWER": "U2"
+  }
+ },
+ "91988b4200": {
+  "instruction": {
+   "event type": "football",
+   "state": "michigan"
+  }
+ },
+ "28203d1fe9": {
+  "instruction": {
+   "type of music played": "Dance/Electronic",
+   "name of City": "Chicago, IL",
+   "start date": "03/10/17",
+   "end date": "03/15/17",
+   "ANSWER": "HOB and React Presents: Hippie Sabotage Chasing the Wild Tour"
+  }
+ },
+ "84edc51f09": {
+  "instruction": {
+   "type of music played": "Hard Rock/Metal",
+   "name of City": "Houston, TX",
+   "start date": "04/01/17",
+   "end date": "04/10/17",
+   "ANSWER": "Testament"
+  }
+ },
+ "3f9e1f08df": {
+  "instruction": {
+   "type of music played": "Cabaret",
+   "name of City": "Atlanta, GA",
+   "start date": "2/22/17",
+   "end date": "2/26/17",
+   "ANSWER": "Dita Von Teese's \"The Art of the Teese\" Burlesque Revue"
+  }
+ },
+ "c55c4e4eba": {
+  "instruction": {
+   "end date": "03/10/17",
+   "start date": "03/01/17",
+   "name of City": "Philadelphia, PA",
+   "type of music played": "Classical",
+   "ANSWER": "Reading Symphony Orchestra An Evening of Beethoven"
+  }
+ },
+ "cf4eb76a4a": {
+  "instruction": {
+   "type of music played": "New Age and Spiritual",
+   "name of City": "San Diego",
+   "start date": "04/16/2017",
+   "end date": "04/24/2017"
+  }
+ },
+ "8e79292ec6": {
+  "instruction": {
+   "type of music played": "Alternative Rock",
+   "name of City": "Indianapolis",
+   "start date": "02/15/2017",
+   "end date": "02/20/2017",
+   "ANSWER": "Skillet - Unleashed Tour 2017"
+  }
+ },
+ "5b2ec140ff": {
+  "instruction": {
+   "type of music played": "New Age and Spiritual",
+   "name of City": "Milwaukee",
+   "start date": "2/20/2017",
+   "end date": "3/15/2017",
+   "ANSWER": "Casting Crowns"
+  }
+ },
+ "c2f92d774a": {
+  "instruction": {
+   "event type": "soccer",
+   "state": "california"
+  }
+ },
+ "ec5cc764eb": {
+  "instruction": {
+   "end date": "06/10/2017",
+   "start date": "06/04/2017",
+   "name of City": "San Diego",
+   "type of music played": "R&B/Urban Soul",
+   "ANSWER": "Morgan James - Reckless Abandon Tour"
+  }
+ },
+ "ec03838982": {
+  "instruction": {
+   "type of music played": "Dance/Electronic",
+   "name of City": "Tampa",
+   "start date": "04/01/2017",
+   "end date": "04/20/2017",
+   "ANSWER": "Chainsmokers"
+  }
+ },
+ "4cd151e724": {
+  "instruction": {
+   "type of music played": "Alternative Rock ",
+   "name of City": "Orlando",
+   "start date": "04/01/2017",
+   "end date": "04/30/2017",
+   "ANSWER": "Red Hot Chili Peppers"
+  }
+ },
+ "65fdcb22ca": {
+  "instruction": {
+   "type of music played": "Country and Folk",
+   "name of City": "Onamia",
+   "start date": "05/04/2017",
+   "end date": "05/08/2017",
+   "ANSWER": "Craig Morgan"
+  }
+ },
+ "cde4776c47": {
+  "instruction": {
+   "type of music played": "Country and Folk",
+   "name of City": "Davie, FL",
+   "start date": "02/25/2017",
+   "end date": "02/25/2017",
+   "ANSWER": "David Allan Coe"
+  }
+ },
+ "7f0fc76fc4": {
+  "instruction": {
+   "end date": "4/20/17",
+   "start date": "4/4/17",
+   "name of City": "Los Angeles",
+   "type of music played": "electronic",
+   "ANSWER": "Havoc Thursdays featuring: TimmyTrumpet, Hippie Sabotage, Little Dragon, Hinds / Twin Peaks"
+  }
+ },
+ "a346ed1da6": {
+  "instruction": {
+   "end date": "4/27/17",
+   "start date": "4/5/17",
+   "name of City": "Las Vegas",
+   "type of music played": "electronic",
+   "ANSWER": "Jabbawockeez"
+  }
+ },
+ "e1b847f241": {
+  "instruction": {
+   "type of music played": "R&B/Urban Soul",
+   "name of City": "New York",
+   "start date": "02/23/2017",
+   "end date": "02/24/2017",
+   "ANSWER": "West End Blend with Vinegar Mother"
+  }
+ }
+}

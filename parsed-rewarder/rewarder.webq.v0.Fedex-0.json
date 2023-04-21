@@ -1,0 +1,1102 @@
+{
+ "fb05f80d48": {
+  "instruction": {
+   "destination": "Las Vegas Nevada ",
+   "ANSWER": "11.07",
+   "origin": "Salt Lake City,Utah "
+  }
+ },
+ "d816d19c6b": {
+  "instruction": {
+   "origin": "Berlin, DEU",
+   "destination": "Moscow, RUS"
+  }
+ },
+ "b0002a22ae": {
+  "instruction": {
+   "destination": "Bouar, Lebanon",
+   "origin": "Ambato, Ecuador",
+   "ANSWER": "235.18"
+  }
+ },
+ "1a3b17bbb3": {
+  "instruction": {
+   "destination": "Owasso, OK",
+   "ANSWER": "$13.06",
+   "origin": "Orlando, Fl"
+  }
+ },
+ "ef56052ddb": {
+  "instruction": {
+   "destination": "Abingdon, VA",
+   "ANSWER": "$515.57",
+   "origin": "Butare, Rwanda"
+  }
+ },
+ "f6d1102d40": {
+  "instruction": {
+   "destination": "Orlando",
+   "ANSWER": "181.11",
+   "origin": "London,GBR"
+  }
+ },
+ "b5beef2277": {
+  "instruction": {
+   "destination": "08824",
+   "origin": "Seattle, WA"
+  }
+ },
+ "1aa70cb409": {
+  "instruction": {
+   "destination": "Hartford, CT",
+   "ANSWER": "$16.53",
+   "origin": "Phoenix, AZ"
+  }
+ },
+ "b609583e24": {
+  "instruction": {
+   "destination": "Orlando FL",
+   "ANSWER": "111.94",
+   "origin": "Birmingham, AL"
+  }
+ },
+ "c80c963a17": {
+  "instruction": {
+   "destination": "Greig, NY",
+   "origin": "Berlin, Germany",
+   "ANSWER": "$245.98"
+  }
+ },
+ "2cd1cb9d02": {
+  "instruction": {
+   "destination": "Moscow, RUS",
+   "origin": "Berlin, DEU"
+  }
+ },
+ "0ac51e3051": {
+  "instruction": {
+   "origin": "New York, NY",
+   "destination": "Kansas City, MO"
+  }
+ },
+ "dd895379db": {
+  "instruction": {
+   "destination": "Entebbe, Uganda",
+   "origin": "Manzini, Swaziland",
+   "ANSWER": "388.62"
+  }
+ },
+ "15a2699bac": {
+  "instruction": {
+   "destination": "New Delhi",
+   "ANSWER": "11.86",
+   "origin": "Mumbai"
+  }
+ },
+ "bacd680c42": {
+  "instruction": {
+   "destination": "Bouar, Lebanon",
+   "ANSWER": "235.18",
+   "origin": "Ambato, Ecuador"
+  }
+ },
+ "024ca0543d": {
+  "instruction": {
+   "destination": "St. Louis, MO",
+   "ANSWER": "$11.07",
+   "origin": "Birmingham, AL"
+  }
+ },
+ "3150107696": {
+  "instruction": {
+   "destination": "Le Marin, Martinique",
+   "ANSWER": "212.98",
+   "origin": "Bigand, Santa Fe, Argentina"
+  }
+ },
+ "8f0885cfdd": {
+  "instruction": {
+   "destination": "Azrou, Morocco",
+   "ANSWER": "146.96",
+   "origin": "Oruro, Bolivia"
+  }
+ },
+ "31126c29e1": {
+  "instruction": {
+   "destination": "Tulsa, OK",
+   "ANSWER": "$13.63",
+   "origin": "New York City, NY"
+  }
+ },
+ "3ed11b9c66": {
+  "instruction": {
+   "destination": "Buffalo, NY",
+   "origin": "Columbia, SC"
+  }
+ },
+ "0fb8e8e95f": {
+  "instruction": {
+   "destination": "Cuttack",
+   "ANSWER": "19.04",
+   "origin": "Coimbatore"
+  }
+ },
+ "0533cd620a": {
+  "instruction": {
+   "destination": "Wallingford, CT",
+   "ANSWER": "$16.53",
+   "origin": "Beverly Hills, CA"
+  }
+ },
+ "9e087c540f": {
+  "instruction": {
+   "destination": "Des Moines, IA",
+   "origin": "Paris, FRA"
+  }
+ },
+ "d8821a6843": {
+  "instruction": {
+   "destination": "Bangor, ME",
+   "ANSWER": "102.93",
+   "origin": "Salt Lake City, UT"
+  }
+ },
+ "d53a5557c7": {
+  "instruction": {
+   "destination": "Louisville, KY",
+   "origin": "Cincinnati, OH"
+  }
+ },
+ "6a5db62af1": {
+  "instruction": {
+   "destination": "Orlando FL",
+   "origin": "Birmingham, AL",
+   "ANSWER": "111.94"
+  }
+ },
+ "d3ef412b6e": {
+  "instruction": {
+   "destination": "Azrou, Morocco",
+   "origin": "Oruro, Bolivia",
+   "ANSWER": "146.96"
+  }
+ },
+ "be8221ac8a": {
+  "instruction": {
+   "destination": "Denver, CO",
+   "origin": "Albuquerque, NM",
+   "ANSWER": "$11.07"
+  }
+ },
+ "7c5283a9b7": {
+  "instruction": {
+   "destination": "Le Marin, Martinique",
+   "origin": "Bigand, Santa Fe, Argentina",
+   "ANSWER": "212.98"
+  }
+ },
+ "fdd8450e0b": {
+  "instruction": {
+   "destination": "Austin,Texas",
+   "ANSWER": "9.35",
+   "origin": "Austin,Texas "
+  }
+ },
+ "efb838ebef": {
+  "instruction": {
+   "destination": "Jericho, NY",
+   "origin": "Paris, France",
+   "ANSWER": "$245.98"
+  }
+ },
+ "0ce01ac592": {
+  "instruction": {
+   "destination": "Atlanta, GA",
+   "origin": "Tallahassee, FL",
+   "ANSWER": "88.13"
+  }
+ },
+ "ef1fcb527b": {
+  "instruction": {
+   "destination": "Madrid, ESP",
+   "origin": "London, GBR"
+  }
+ },
+ "a5dc54446a": {
+  "instruction": {
+   "destination": "Tulsa, OK",
+   "ANSWER": "$265.79",
+   "origin": "Ate, Peru"
+  }
+ },
+ "c473af0bf0": {
+  "instruction": {
+   "destination": "Los Angeles, CA",
+   "origin": "Milton, FL",
+   "ANSWER": "$16.53"
+  }
+ },
+ "d9cf427b1e": {
+  "instruction": {
+   "destination": "Tanga, Tanzania",
+   "ANSWER": "383.99",
+   "origin": "Masis, Armenia"
+  }
+ },
+ "48660b1bfb": {
+  "instruction": {
+   "destination": "Greig, NY",
+   "ANSWER": "$245.98",
+   "origin": "Berlin, Germany"
+  }
+ },
+ "237e647556": {
+  "instruction": {
+   "destination": "Bruree, Limerick, Ireland",
+   "origin": "Ba, Fiji",
+   "ANSWER": "116.20"
+  }
+ },
+ "add63e768f": {
+  "instruction": {
+   "destination": "Tulsa, OK",
+   "origin": "Ate, Peru",
+   "ANSWER": "$265.79"
+  }
+ },
+ "aaadbb7ba4": {
+  "instruction": {
+   "destination": "Bloomington, IN",
+   "origin": "Terre Haute, IN",
+   "ANSWER": "73.33"
+  }
+ },
+ "dd1a74aa4f": {
+  "instruction": {
+   "destination": "Gaur, Nepal",
+   "ANSWER": "198.09",
+   "origin": "Comilla, Bangladesh"
+  }
+ },
+ "bf74ea6a2e": {
+  "instruction": {
+   "origin": "San Francisco, CA",
+   "destination": "San Diego, CA"
+  }
+ },
+ "de6711df1b": {
+  "instruction": {
+   "destination": "Pensacola, FL",
+   "origin": "Houston, TX",
+   "ANSWER": "$11.07"
+  }
+ },
+ "4002115afe": {
+  "instruction": {
+   "destination": "Boston MA",
+   "ANSWER": "13.63",
+   "origin": "Baton Rouge LA"
+  }
+ },
+ "d6c054e2f2": {
+  "instruction": {
+   "destination": "Salt, Jordan",
+   "origin": "Damien, Haiti",
+   "ANSWER": "126.87"
+  }
+ },
+ "7947365e1a": {
+  "instruction": {
+   "destination": " Bangalore city",
+   "ANSWER": "46.94",
+   "origin": "Ballia"
+  }
+ },
+ "eea0a50e88": {
+  "instruction": {
+   "destination": "Los Angeles, CA",
+   "ANSWER": "$16.53",
+   "origin": "Milton, FL"
+  }
+ },
+ "df455d7b01": {
+  "instruction": {
+   "destination": "Austin, TX",
+   "ANSWER": "$15.07",
+   "origin": "Wallingford, CT"
+  }
+ },
+ "372c4c55b1": {
+  "instruction": {
+   "destination": "Beverly Hills, CA",
+   "ANSWER": "130.88",
+   "origin": "Jamaica, NY"
+  }
+ },
+ "bc243f522d": {
+  "instruction": {
+   "destination": "Los Angeles, CA",
+   "ANSWER": "$16.53",
+   "origin": "Washington, DC"
+  }
+ },
+ "f75485acdc": {
+  "instruction": {
+   "destination": "Pittsburgh, PA",
+   "origin": "Saint Louis, MO"
+  }
+ },
+ "0a113610ea": {
+  "instruction": {
+   "destination": "Staten Island, NY",
+   "origin": "St. Louis, MO",
+   "ANSWER": "120.42"
+  }
+ },
+ "db80d15c97": {
+  "instruction": {
+   "destination": "New York, NY",
+   "ANSWER": "$272.22",
+   "origin": "Tosu-Shi, Japan"
+  }
+ },
+ "0ba9e33e7b": {
+  "instruction": {
+   "destination": "84456",
+   "ANSWER": "$15.07",
+   "origin": "39530"
+  }
+ },
+ "55e2b97768": {
+  "instruction": {
+   "destination": "Burlington, VT",
+   "ANSWER": "122.65",
+   "origin": "Miami, FL"
+  }
+ },
+ "f544e3356c": {
+  "instruction": {
+   "destination": "Memphis, TN",
+   "ANSWER": "$515.57",
+   "origin": "Manzini, Swaziland"
+  }
+ },
+ "a5b28e88b0": {
+  "instruction": {
+   "destination": "Miami, FL",
+   "origin": "Mobile, AL",
+   "ANSWER": "$11.07"
+  }
+ },
+ "2c71a61bc7": {
+  "instruction": {
+   "destination": "Orlando, FL",
+   "origin": "Ba, Fiji",
+   "ANSWER": "$515.57"
+  }
+ },
+ "2a1499a9e1": {
+  "instruction": {
+   "destination": "St. John, U.S. Virgin Islands",
+   "origin": "Beverly Hills, CA",
+   "ANSWER": "165.39"
+  }
+ },
+ "6b31dc52b2": {
+  "instruction": {
+   "destination": "Orlando, FL",
+   "ANSWER": "$515.57",
+   "origin": "Ba, Fiji"
+  }
+ },
+ "f3f42498ca": {
+  "instruction": {
+   "destination": "Chicago, IL",
+   "origin": "Urbana, IL",
+   "ANSWER": "73.33"
+  }
+ },
+ "58584ef093": {
+  "instruction": {
+   "destination": "Chicago, IL",
+   "ANSWER": "111.94",
+   "origin": "Buffalo, NY"
+  }
+ },
+ "a2f3d78e74": {
+  "instruction": {
+   "destination": "Atlanta, GA",
+   "ANSWER": "88.13",
+   "origin": "Tallahassee, FL"
+  }
+ },
+ "d552cdde7c": {
+  "instruction": {
+   "destination": "Taipa Island, Macau",
+   "origin": "Abaco, Bahamas",
+   "ANSWER": "87.99"
+  }
+ },
+ "763361e60d": {
+  "instruction": {
+   "destination": "Memphis, TN",
+   "origin": "Manzini, Swaziland",
+   "ANSWER": "$515.57"
+  }
+ },
+ "bbbceea0c5": {
+  "instruction": {
+   "destination": "Staten Island, NY",
+   "ANSWER": "120.42",
+   "origin": "St. Louis, MO"
+  }
+ },
+ "61e5b07200": {
+  "instruction": {
+   "destination": "Bangor, ME",
+   "origin": "Salt Lake City, UT",
+   "ANSWER": "102.93"
+  }
+ },
+ "e14ce5b09c": {
+  "instruction": {
+   "destination": "Argentina, Abasto",
+   "ANSWER": "17.72",
+   "origin": "Venezuela, Cabudare"
+  }
+ },
+ "c124f807f3": {
+  "instruction": {
+   "destination": "Denver, CO",
+   "ANSWER": "$11.07",
+   "origin": "Albuquerque, NM"
+  }
+ },
+ "22174d8b29": {
+  "instruction": {
+   "destination": "Santa Fe NM",
+   "ANSWER": "13.63",
+   "origin": "Lexington KY"
+  }
+ },
+ "93f86bb283": {
+  "instruction": {
+   "destination": "Austin, TX",
+   "ANSWER": "120.42",
+   "origin": "Chicago, IL"
+  }
+ },
+ "77c72cc06c": {
+  "instruction": {
+   "destination": "Entebbe, Uganda",
+   "ANSWER": "388.62",
+   "origin": "Manzini, Swaziland"
+  }
+ },
+ "690b66021d": {
+  "instruction": {
+   "destination": "Indianapolis, IN",
+   "ANSWER": "$9.35",
+   "origin": "Chicago, IL"
+  }
+ },
+ "1177b342ad": {
+  "instruction": {
+   "destination": "Schenectady, NY",
+   "ANSWER": "$137.54",
+   "origin": "St. Thomas, US Virgin Islands"
+  }
+ },
+ "88b54859aa": {
+  "instruction": {
+   "destination": "Jericho, NY",
+   "ANSWER": "$245.98",
+   "origin": "Paris, France"
+  }
+ },
+ "1600a843f1": {
+  "instruction": {
+   "destination": "Tanga, Tanzania",
+   "origin": "Masis, Armenia",
+   "ANSWER": "383.99"
+  }
+ },
+ "76b7c127f6": {
+  "instruction": {
+   "destination": "New York, NY",
+   "origin": "Tosu-Shi, Japan",
+   "ANSWER": "$272.22"
+  }
+ },
+ "864ac0dcf8": {
+  "instruction": {
+   "destination": "Zurich, Switerzland",
+   "ANSWER": "163.00",
+   "origin": "Stockholm Sweden"
+  }
+ },
+ "fa2813fe37": {
+  "instruction": {
+   "destination": "Gaur, Nepal",
+   "origin": "Comilla, Bangladesh",
+   "ANSWER": "198.09"
+  }
+ },
+ "cd016b1e98": {
+  "instruction": {
+   "origin": "Seattle, WA",
+   "destination": "08824"
+  }
+ },
+ "bc4dc4e767": {
+  "instruction": {
+   "destination": "San Francisco CA",
+   "ANSWER": "16.53",
+   "origin": "Miami FL"
+  }
+ },
+ "165a73e573": {
+  "instruction": {
+   "destination": "Alwar",
+   "ANSWER": "19.04",
+   "origin": "Allappuzha"
+  }
+ },
+ "d8bd5ba32c": {
+  "instruction": {
+   "origin": "Columbia, SC",
+   "destination": "Buffalo, NY"
+  }
+ },
+ "1c1abd3fdf": {
+  "instruction": {
+   "destination": "Miami,FL",
+   "ANSWER": "13.35",
+   "origin": "Orlando,FL "
+  }
+ },
+ "d177ac7a57": {
+  "instruction": {
+   "destination": "Seattle, WA",
+   "ANSWER": "$16.53",
+   "origin": "Philadelphia, PA"
+  }
+ },
+ "16f67edd2c": {
+  "instruction": {
+   "destination": "Albany NY",
+   "ANSWER": "10.35",
+   "origin": "Fredonia NY"
+  }
+ },
+ "971cec4f82": {
+  "instruction": {
+   "destination": "Atlanta, GA",
+   "ANSWER": "$10.35",
+   "origin": "Charlotte, NC"
+  }
+ },
+ "f7572f7999": {
+  "instruction": {
+   "destination": "Houston, TX",
+   "ANSWER": "135.02",
+   "origin": "Seattle, WA"
+  }
+ },
+ "583740e1f4": {
+  "instruction": {
+   "destination": "Inglewood, CA",
+   "ANSWER": "$16.53",
+   "origin": "Burlington, VT"
+  }
+ },
+ "15d30895c9": {
+  "instruction": {
+   "destination": "Portland, OR",
+   "ANSWER": "116.28",
+   "origin": "Las Vegas, NV"
+  }
+ },
+ "b2b44da2d0": {
+  "instruction": {
+   "destination": "Paris, FRA",
+   "ANSWER": "$165.39",
+   "origin": "Buffalo, NY"
+  }
+ },
+ "b6187a8b12": {
+  "instruction": {
+   "destination": "Baltimore MD",
+   "ANSWER": "11.07",
+   "origin": "Detroit MI"
+  }
+ },
+ "f684df2f12": {
+  "instruction": {
+   "destination": "Brooklyn, NY",
+   "ANSWER": "88.13",
+   "origin": "Boston, MA"
+  }
+ },
+ "67a0809f46": {
+  "instruction": {
+   "destination": "Taipa Island, Macau",
+   "ANSWER": "87.99",
+   "origin": "Abaco, Bahamas"
+  }
+ },
+ "1ae96274ad": {
+  "instruction": {
+   "origin": "Dubai, UAE",
+   "destination": "Bangor, ME"
+  }
+ },
+ "5489a39e79": {
+  "instruction": {
+   "destination": "Billings, MT",
+   "ANSWER": "88.34",
+   "origin": "Portland, OR"
+  }
+ },
+ "01cd766e8f": {
+  "instruction": {
+   "destination": "San Jose, CA",
+   "origin": "Detroit, MI",
+   "ANSWER": "135.02"
+  }
+ },
+ "d88cbc10f2": {
+  "instruction": {
+   "destination": "Bhadravathi",
+   "ANSWER": "19.04",
+   "origin": "Bhubaneswar"
+  }
+ },
+ "c2f03734bf": {
+  "instruction": {
+   "destination": "Kalamazoo MI",
+   "ANSWER": "13.06",
+   "origin": "Havelock NC"
+  }
+ },
+ "3bcc36c8ad": {
+  "instruction": {
+   "destination": "Hoboken, NJ",
+   "origin": "Brooklyn, NY",
+   "ANSWER": "$9.35"
+  }
+ },
+ "08220d86d3": {
+  "instruction": {
+   "destination": "San Juan, PR",
+   "origin": "Beverly Hills, CA",
+   "ANSWER": "$62.51"
+  }
+ },
+ "783af5ff5a": {
+  "instruction": {
+   "destination": "Boise, ID",
+   "origin": "Portland, ME",
+   "ANSWER": "135.02"
+  }
+ },
+ "8f9e054936": {
+  "instruction": {
+   "destination": "Russia Moscow",
+   "ANSWER": "191.17",
+   "origin": "China, Shanghai"
+  }
+ },
+ "d109c04682": {
+  "instruction": {
+   "destination": "04034",
+   "ANSWER": "$14.56",
+   "origin": "24517"
+  }
+ },
+ "37126d2022": {
+  "instruction": {
+   "destination": "Miami, FL",
+   "ANSWER": "$11.07",
+   "origin": "Mobile, AL"
+  }
+ },
+ "c9389e3b77": {
+  "instruction": {
+   "origin": "Cincinnati, OH",
+   "destination": "Louisville, KY"
+  }
+ },
+ "0cdedc90db": {
+  "instruction": {
+   "destination": "San Juan, PR",
+   "ANSWER": "$62.51",
+   "origin": "Salt Lake City, Utah"
+  }
+ },
+ "0d9241118e": {
+  "instruction": {
+   "origin": "London, GBR",
+   "destination": "Madrid, ESP"
+  }
+ },
+ "e51b9d9698": {
+  "instruction": {
+   "destination": "Nashville, TN",
+   "ANSWER": "$13.06",
+   "origin": "Newport, RI"
+  }
+ },
+ "e02fff9c09": {
+  "instruction": {
+   "destination": "Kansas City, MO",
+   "origin": "New York, NY"
+  }
+ },
+ "3896eddecd": {
+  "instruction": {
+   "destination": "Ashland, NH",
+   "ANSWER": "$16.53",
+   "origin": "Reno, NV"
+  }
+ },
+ "b71efd2423": {
+  "instruction": {
+   "destination": "Austin,Texas",
+   "ANSWER": "13.06",
+   "origin": "Colorado Springs, CO"
+  }
+ },
+ "0724daa2a4": {
+  "instruction": {
+   "destination": "Chicago, IL",
+   "origin": "Miami, FL",
+   "ANSWER": "$13.63"
+  }
+ },
+ "4ec3ffff23": {
+  "instruction": {
+   "destination": "San Juan, PR",
+   "ANSWER": "$62.51",
+   "origin": "Beverly Hills, CA"
+  }
+ },
+ "7cf952778a": {
+  "instruction": {
+   "destination": "Darjeeling",
+   "ANSWER": "19.04",
+   "origin": "Coimbatore"
+  }
+ },
+ "b59977e722": {
+  "instruction": {
+   "destination": "Bruree, Limerick, Ireland",
+   "ANSWER": "116.20",
+   "origin": "Ba, Fiji"
+  }
+ },
+ "d262b25953": {
+  "instruction": {
+   "destination": "Chicago, IL",
+   "ANSWER": "73.33",
+   "origin": "Urbana, IL"
+  }
+ },
+ "aadf6f0e98": {
+  "instruction": {
+   "destination": "Boise, ID",
+   "ANSWER": "135.02",
+   "origin": "Portland, ME"
+  }
+ },
+ "c826c47d29": {
+  "instruction": {
+   "destination": "St. Louis, MO",
+   "origin": "Birmingham, AL",
+   "ANSWER": "$11.07"
+  }
+ },
+ "9e2bb023f9": {
+  "instruction": {
+   "destination": "Washington, DC",
+   "ANSWER": "$13.06",
+   "origin": "New Orleans, LA"
+  }
+ },
+ "dc381fad60": {
+  "instruction": {
+   "destination": "Owasso, OK",
+   "origin": "Orlando, Fl",
+   "ANSWER": "$13.06"
+  }
+ },
+ "70128fbf27": {
+  "instruction": {
+   "destination": "Auburn AL",
+   "ANSWER": "12.57",
+   "origin": "Greensboro NC"
+  }
+ },
+ "32cfbb99b4": {
+  "instruction": {
+   "destination": "Winston Salem NC",
+   "ANSWER": "11.07",
+   "origin": "Phillipsburg NJ"
+  }
+ },
+ "1a160b69aa": {
+  "instruction": {
+   "destination": "Pensacola, FL",
+   "ANSWER": "$11.07",
+   "origin": "Houston, TX"
+  }
+ },
+ "fc5dfeb970": {
+  "instruction": {
+   "destination": "San Jose, CA",
+   "ANSWER": "135.02",
+   "origin": "Detroit, MI"
+  }
+ },
+ "22f77cfc93": {
+  "instruction": {
+   "destination": "Washington, DC",
+   "origin": "New Orleans, LA",
+   "ANSWER": "$13.06"
+  }
+ },
+ "9956c59737": {
+  "instruction": {
+   "destination": "Schenectady, NY",
+   "origin": "St. Thomas, US Virgin Islands",
+   "ANSWER": "$137.54"
+  }
+ },
+ "2fa956d952": {
+  "instruction": {
+   "destination": "Orlando,FL",
+   "ANSWER": "16.06",
+   "origin": "New York "
+  }
+ },
+ "29ec2003e8": {
+  "instruction": {
+   "destination": "Tulsa, OK",
+   "origin": "New York City, NY",
+   "ANSWER": "$13.63"
+  }
+ },
+ "15a942c977": {
+  "instruction": {
+   "origin": "Paris, FRA",
+   "destination": "Des Moines, IA"
+  }
+ },
+ "1dd9e21efa": {
+  "instruction": {
+   "destination": "Beverly Hills, CA",
+   "ANSWER": "131.45",
+   "origin": "Milwaukee, WI"
+  }
+ },
+ "426ffd4143": {
+  "instruction": {
+   "destination": "Abingdon, VA",
+   "origin": "Butare, Rwanda",
+   "ANSWER": "$515.57"
+  }
+ },
+ "aaa846f648": {
+  "instruction": {
+   "destination": "San Juan, PR",
+   "origin": "Salt Lake City, Utah",
+   "ANSWER": "$62.51"
+  }
+ },
+ "164f4d4d64": {
+  "instruction": {
+   "origin": "Saint Louis, MO",
+   "destination": "Pittsburgh, PA"
+  }
+ },
+ "b55dcd9591": {
+  "instruction": {
+   "destination": "Houston, TX",
+   "ANSWER": "116.28",
+   "origin": "Cincinnati, OH"
+  }
+ },
+ "f1e7787a31": {
+  "instruction": {
+   "destination": "Bangor, ME",
+   "origin": "Dubai, UAE"
+  }
+ },
+ "633ba27674": {
+  "instruction": {
+   "destination": "Santa Fe, NM",
+   "ANSWER": "$11.07",
+   "origin": "Tulsa, OK"
+  }
+ },
+ "d8eee0ade3": {
+  "instruction": {
+   "destination": "Hoboken, NJ",
+   "ANSWER": "$9.35",
+   "origin": "Brooklyn, NY"
+  }
+ },
+ "8c8f9a1d73": {
+  "instruction": {
+   "destination": "Salt, Jordan",
+   "ANSWER": "126.87",
+   "origin": "Damien, Haiti"
+  }
+ },
+ "4e07cfb24d": {
+  "instruction": {
+   "destination": "St. John, U.S. Virgin Islands",
+   "ANSWER": "165.39",
+   "origin": "Beverly Hills, CA"
+  }
+ },
+ "a663d4da46": {
+  "instruction": {
+   "destination": "Houston TX",
+   "ANSWER": "13.06",
+   "origin": "Knoxville TN"
+  }
+ },
+ "77695a8dae": {
+  "instruction": {
+   "destination": "Portland, OR",
+   "ANSWER": "$16.53",
+   "origin": "Cleveland, OH"
+  }
+ },
+ "84bba11dae": {
+  "instruction": {
+   "destination": "Gurgaon",
+   "ANSWER": "12.38",
+   "origin": "Firozabad"
+  }
+ },
+ "a0968a1fd8": {
+  "instruction": {
+   "destination": "Bagalkot",
+   "ANSWER": "12.38",
+   "origin": "Aluva"
+  }
+ },
+ "9df7eb62fd": {
+  "instruction": {
+   "destination": "France, Paris",
+   "ANSWER": "340.94",
+   "origin": "Nigeria, Lagos"
+  }
+ },
+ "dd024ae3e0": {
+  "instruction": {
+   "destination": "Brooklyn, NY",
+   "origin": "Boston, MA",
+   "ANSWER": "88.13"
+  }
+ },
+ "5469a2bf12": {
+  "instruction": {
+   "destination": "Chicago, IL",
+   "ANSWER": "$13.63",
+   "origin": "Miami, FL"
+  }
+ },
+ "62923617b9": {
+  "instruction": {
+   "destination": "Calicut",
+   "ANSWER": "51.83",
+   "origin": "Panaji"
+  }
+ },
+ "fca44d7759": {
+  "instruction": {
+   "destination": "Bloomington, IN",
+   "ANSWER": "73.33",
+   "origin": "Terre Haute, IN"
+  }
+ },
+ "8765013d77": {
+  "instruction": {
+   "destination": "San Diego, CA",
+   "origin": "San Francisco, CA"
+  }
+ },
+ "1a12c82000": {
+  "instruction": {
+   "destination": "Billings, MT",
+   "origin": "Portland, OR",
+   "ANSWER": "88.34"
+  }
+ },
+ "a677e73e3a": {
+  "instruction": {
+   "destination": "Miami, FL",
+   "ANSWER": "$15.07",
+   "origin": "Bangor, ME"
+  }
+ },
+ "d369bb01ed": {
+  "instruction": {
+   "destination": "Kanas City, MO",
+   "ANSWER": "$13.06",
+   "origin": "Albuquerque, NM"
+  }
+ },
+ "8a2724185f": {
+  "instruction": {
+   "destination": "Ferozepur",
+   "ANSWER": "12.38",
+   "origin": "Faridabad"
+  }
+ },
+ "13e282875a": {
+  "instruction": {
+   "destination": "Columbus OH",
+   "ANSWER": "9.35",
+   "origin": "Richmond KY"
+  }
+ },
+ "3c79e4f758": {
+  "instruction": {
+   "destination": "Detroit, MI",
+   "ANSWER": "$13.06",
+   "origin": "Jacksonville, FL"
+  }
+ },
+ "79f0d0440d": {
+  "instruction": {
+   "destination": "Nashville, TN",
+   "ANSWER": "$13.06",
+   "origin": "Flushing, NY"
+  }
+ },
+ "59bd76e3d1": {
+  "instruction": {
+   "destination": "Atlanta, GA",
+   "ANSWER": "120.42",
+   "origin": "Staten Island, NY"
+  }
+ },
+ "35a4d896f2": {
+  "instruction": {
+   "destination": "Montpelier, MA",
+   "ANSWER": "135.02",
+   "origin": "San Jose, CA"
+  }
+ },
+ "ab3c3ac22a": {
+  "instruction": {
+   "destination": "Dallas, TX",
+   "ANSWER": "$13.06",
+   "origin": "Atlanta, GA"
+  }
+ }
+}

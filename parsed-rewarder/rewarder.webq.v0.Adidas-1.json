@@ -1,0 +1,62 @@
+{
+ "ebb7536b66": {
+  "instruction": {
+   "shoe": "Women's Gazelle Shoes",
+   "size": "9.5"
+  }
+ },
+ "e0d3288781": {
+  "instruction": {
+   "shoe": "Men's D Rose 7 Shoes",
+   "size": "7"
+  }
+ },
+ "18c3b78662": {
+  "instruction": {
+   "shoe": "Women's Adilette Slides",
+   "size": "6"
+  }
+ },
+ "c62270954f": {
+  "instruction": {
+   "shoe": "Men's Ultra Boost Shoes",
+   "size": "11"
+  }
+ },
+ "5fc1294170": {
+  "instruction": {
+   "shoe": "Men's NMD_R1 Primeknit Shoes",
+   "size": "10"
+  }
+ },
+ "d9812aa4b9": {
+  "instruction": {
+   "shoe": "Women's EQT Support ADV Shoes",
+   "size": "8"
+  }
+ },
+ "382abb41d3": {
+  "instruction": {
+   "shoe": "Kids ZX Flux Shoes",
+   "size": "7"
+  }
+ },
+ "e466e271c9": {
+  "instruction": {
+   "shoe": "Kids Lite Racer Shoes",
+   "size": "5"
+  }
+ },
+ "ab6e05c5a5": {
+  "instruction": {
+   "shoe": "Adult Yeezy 350 V2",
+   "size": "9"
+  }
+ },
+ "0dc65c2d8c": {
+  "instruction": {
+   "shoe": "Men's Harden Vol. 1 Shoes",
+   "size": "8.5"
+  }
+ }
+}

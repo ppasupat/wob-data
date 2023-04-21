@@ -1,0 +1,62 @@
+{
+ "ed9f3c174e": {
+  "instruction": {
+   "weight in kg": "61",
+   "height in cm": "152"
+  }
+ },
+ "8985d99230": {
+  "instruction": {
+   "weight in kg": "64",
+   "height in cm": "162"
+  }
+ },
+ "ba63d14008": {
+  "instruction": {
+   "weight in kg": "80",
+   "height in cm": "175"
+  }
+ },
+ "5e419501b4": {
+  "instruction": {
+   "weight in kg": "78",
+   "height in cm": "178"
+  }
+ },
+ "f4b602e6af": {
+  "instruction": {
+   "weight in kg": "62",
+   "height in cm": "166"
+  }
+ },
+ "4c42668c65": {
+  "instruction": {
+   "weight in kg": "58",
+   "height in cm": "168"
+  }
+ },
+ "ce29c04fb8": {
+  "instruction": {
+   "weight in kg": "60",
+   "height in cm": "172"
+  }
+ },
+ "05fbfbf4e0": {
+  "instruction": {
+   "weight in kg": "95",
+   "height in cm": "176"
+  }
+ },
+ "d92c84ccde": {
+  "instruction": {
+   "weight in kg": "50",
+   "height in cm": "149"
+  }
+ },
+ "14ebafc81d": {
+  "instruction": {
+   "weight in kg": "55",
+   "height in cm": "160"
+  }
+ }
+}

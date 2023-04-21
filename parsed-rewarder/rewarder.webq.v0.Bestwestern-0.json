@@ -1,0 +1,1018 @@
+{
+ "a07b441be3": {
+  "instruction": {
+   "number of children": "7",
+   "ANSWER": "14",
+   "number of guests": "7"
+  }
+ },
+ "1f0a2b22eb": {
+  "instruction": {
+   "number of children": "1",
+   "number of guests": "4",
+   "ANSWER": "San Diego/Miramar Hotel"
+  }
+ },
+ "f01700daba": {
+  "instruction": {
+   "number of children": "5",
+   "ANSWER": "8",
+   "number of guests": "3"
+  }
+ },
+ "faef7e27bb": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "San Diego/Miramar Hotel",
+   "number of guests": "4"
+  }
+ },
+ "ea81f1427e": {
+  "instruction": {
+   "number of children": "2",
+   "number of guests": "5",
+   "ANSWER": "Courtesy Inn"
+  }
+ },
+ "3e48b7dfbf": {
+  "instruction": {
+   "number of children": "1",
+   "number of guests": "1",
+   "ANSWER": "Island Palms Hotel & Marina"
+  }
+ },
+ "68fd924d49": {
+  "instruction": {
+   "number of children": "5",
+   "ANSWER": "Bayside Inn",
+   "number of guests": "5"
+  }
+ },
+ "794573484a": {
+  "instruction": {
+   "number of children": "5",
+   "number of guests": "5",
+   "ANSWER": "Bayside Inn"
+  }
+ },
+ "bbec302238": {
+  "instruction": {
+   "number of children": "5",
+   "ANSWER": "Yacht Harbor Hotel",
+   "number of guests": "6"
+  }
+ },
+ "67a1569233": {
+  "instruction": {
+   "number of children": "2",
+   "ANSWER": "Courtesy Inn",
+   "number of guests": "5"
+  }
+ },
+ "3f26168818": {
+  "instruction": {
+   "number of children": "8",
+   "number of guests": "5",
+   "ANSWER": "13"
+  }
+ },
+ "8a0ad6235f": {
+  "instruction": {
+   "number of children": "4",
+   "number of guests": "2",
+   "ANSWER": "Cabrillo Garden Inn"
+  }
+ },
+ "b39923253b": {
+  "instruction": {
+   "number of children": "9",
+   "number of guests": "5",
+   "ANSWER": "14"
+  }
+ },
+ "f128abe6cc": {
+  "instruction": {
+   "number of children": "7",
+   "number of guests": "8",
+   "ANSWER": "15"
+  }
+ },
+ "a09decf40a": {
+  "instruction": {
+   "number of children": "5",
+   "number of guests": "10"
+  }
+ },
+ "dcf2eb7a4f": {
+  "instruction": {
+   "number of children": "5",
+   "number of guests": "9"
+  }
+ },
+ "fa7c8f560a": {
+  "instruction": {
+   "number of children": "(2)",
+   "ANSWER": "(Hacienda Hotel Old Town)",
+   "number of guests": "(2)"
+  }
+ },
+ "1df18b71bd": {
+  "instruction": {
+   "number of children": "1",
+   "number of guests": "4",
+   "ANSWER": "La Mesa San Diego"
+  }
+ },
+ "1962bd098c": {
+  "instruction": {
+   "number of children": "5",
+   "ANSWER": "Courtesy Inn",
+   "number of guests": "3"
+  }
+ },
+ "5cac4f7e4e": {
+  "instruction": {
+   "number of children": "4",
+   "number of guests": "5"
+  }
+ },
+ "4a887f5998": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Suites Hotel Coronado Island, Seven Seas, The Dana on Mission Bay, Mission Bay, La Mesa San Diego, Otay Valley Hotel, Americana Inn, San Diego/Miramar Hotel, Continental Inn, Santee Lodge, Courtesy Inn, Poway/San Diego Hotel, Escondido Hotel, Beach View Lodge, Oceanside Inn, Oceanside Palms",
+   "number of guests": "3"
+  }
+ },
+ "042ec1112f": {
+  "instruction": {
+   "number of children": "8",
+   "ANSWER": "17",
+   "number of guests": "9"
+  }
+ },
+ "644037f542": {
+  "instruction": {
+   "number of children": "2",
+   "ANSWER": "Continental Inn",
+   "number of guests": "6"
+  }
+ },
+ "bde90c0c8e": {
+  "instruction": {
+   "number of children": "(2)",
+   "ANSWER": "(Seven Seas)",
+   "number of guests": "(2)"
+  }
+ },
+ "5a18c6a6ce": {
+  "instruction": {
+   "number of children": "(2)",
+   "ANSWER": "(The Dana on Mission Bay, BW)",
+   "number of guests": "(2)"
+  }
+ },
+ "e839423512": {
+  "instruction": {
+   "number of children": "1",
+   "number of guests": "6",
+   "ANSWER": "Courtesy Inn"
+  }
+ },
+ "dee831dba8": {
+  "instruction": {
+   "number of children": "1",
+   "number of guests": "4",
+   "ANSWER": "Beach View Lodge"
+  }
+ },
+ "8b5510ab97": {
+  "instruction": {
+   "number of children": "(2)",
+   "ANSWER": "(Mission Bay)",
+   "number of guests": "(2)"
+  }
+ },
+ "ed849b3f03": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Americana Inn",
+   "number of guests": "4"
+  }
+ },
+ "31d22f129a": {
+  "instruction": {
+   "number of children": "4",
+   "ANSWER": "9",
+   "number of guests": "5"
+  }
+ },
+ "ef7dd87c22": {
+  "instruction": {
+   "number of children": "3",
+   "number of guests": "9"
+  }
+ },
+ "05f711f081": {
+  "instruction": {
+   "number of children": "4",
+   "number of guests": "5",
+   "ANSWER": "9"
+  }
+ },
+ "298d515426": {
+  "instruction": {
+   "number of children": "2",
+   "ANSWER": "Bayside Inn",
+   "number of guests": "2"
+  }
+ },
+ "25db9af590": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Otay Valley Hotel",
+   "number of guests": "4"
+  }
+ },
+ "4715666cbf": {
+  "instruction": {
+   "number of children": "9",
+   "ANSWER": "18",
+   "number of guests": "9"
+  }
+ },
+ "f74c7f2a6c": {
+  "instruction": {
+   "number of children": "10",
+   "number of guests": "12"
+  }
+ },
+ "3c4adef37a": {
+  "instruction": {
+   "number of children": "2",
+   "number of guests": "3"
+  }
+ },
+ "4d470cc355": {
+  "instruction": {
+   "number of children": "(2)",
+   "number of guests": "(2)",
+   "ANSWER": "(Marina Gateway Hotel)"
+  }
+ },
+ "aa784ba8bb": {
+  "instruction": {
+   "number of children": "5",
+   "number of guests": "4",
+   "ANSWER": "Hacienda Hotel Old Town"
+  }
+ },
+ "d9f9040187": {
+  "instruction": {
+   "number of children": "1",
+   "number of guests": "4",
+   "ANSWER": "Oceanside Palms"
+  }
+ },
+ "4cf9168eb8": {
+  "instruction": {
+   "number of children": "5",
+   "number of guests": "3",
+   "ANSWER": "Cabrillo Garden Inn"
+  }
+ },
+ "8696d2a08f": {
+  "instruction": {
+   "number of children": "5",
+   "number of guests": "6",
+   "ANSWER": "Yacht Harbor Hotel"
+  }
+ },
+ "21efa44d61": {
+  "instruction": {
+   "number of children": "5",
+   "number of guests": "2",
+   "ANSWER": "Hacienda Hotel Old Town"
+  }
+ },
+ "df409b427c": {
+  "instruction": {
+   "number of children": "5",
+   "ANSWER": "No Hotels",
+   "number of guests": "6"
+  }
+ },
+ "3b090542b4": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Oceanside Palms",
+   "number of guests": "4"
+  }
+ },
+ "fe00fe1b15": {
+  "instruction": {
+   "number of children": "4",
+   "ANSWER": "Cabrillo Garden Inn",
+   "number of guests": "2"
+  }
+ },
+ "bd3601f12e": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Courtesy Inn",
+   "number of guests": "6"
+  }
+ },
+ "e8665bddbe": {
+  "instruction": {
+   "number of children": "3",
+   "ANSWER": "Suites Hotel Coronado Island",
+   "number of guests": "1"
+  }
+ },
+ "067c57af31": {
+  "instruction": {
+   "number of children": "(2)",
+   "number of guests": "(2)",
+   "ANSWER": "(Cabrillo Garden Inn)"
+  }
+ },
+ "efc2ae4d4a": {
+  "instruction": {
+   "number of children": "8",
+   "ANSWER": "15",
+   "number of guests": "7"
+  }
+ },
+ "6c06be587a": {
+  "instruction": {
+   "number of children": "(2)",
+   "ANSWER": "(Suites Hotel Coronado Island)",
+   "number of guests": "(2)"
+  }
+ },
+ "9500413ecf": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Suites Hotel Coronado Island, Seven Seas, The Dana on Mission Bay, Mission Bay, La Mesa San Diego, Otay Valley Hotel, Americana Inn, San Diego/Miramar Hotel, Continental Inn, Santee Lodge, Courtesy Inn, Poway/San Diego Hotel, Encinitas Inn & Suites at Moonlight Beach, Escondido Hotel, Beach View Lodge, Oceanside Inn, Oceanside Palms, ",
+   "number of guests": "1"
+  }
+ },
+ "4ab9fe1740": {
+  "instruction": {
+   "number of children": "(2)",
+   "ANSWER": "(Yacht Harbor Hotel)",
+   "number of guests": "(2)"
+  }
+ },
+ "81d83d578b": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Cabrillo Garden Inn",
+   "number of guests": "2"
+  }
+ },
+ "654a89a405": {
+  "instruction": {
+   "number of children": "2",
+   "number of guests": "7"
+  }
+ },
+ "d5c1b4950a": {
+  "instruction": {
+   "number of children": "(2)",
+   "number of guests": "(2)",
+   "ANSWER": "(Island Palms Hotel & Marina)"
+  }
+ },
+ "5e582f1f0b": {
+  "instruction": {
+   "number of children": "3",
+   "ANSWER": "Suites Hotel Coronado Island",
+   "number of guests": "2"
+  }
+ },
+ "6d83494855": {
+  "instruction": {
+   "number of children": "(2)",
+   "ANSWER": "(Island Palms Hotel & Marina)",
+   "number of guests": "(2)"
+  }
+ },
+ "4b3ff20ead": {
+  "instruction": {
+   "number of children": "4",
+   "number of guests": "7"
+  }
+ },
+ "d8153ec214": {
+  "instruction": {
+   "number of children": "6",
+   "number of guests": "5"
+  }
+ },
+ "d2c0818b75": {
+  "instruction": {
+   "number of children": "(2)",
+   "ANSWER": "(South Bay Inn)",
+   "number of guests": "(2)"
+  }
+ },
+ "ba2dfdaf17": {
+  "instruction": {
+   "number of children": "(2)",
+   "number of guests": "(2)",
+   "ANSWER": "(Seven Seas)"
+  }
+ },
+ "b7b8059901": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Continental Inn, Courtesy Inn, Escondido Hotel",
+   "number of guests": "5"
+  }
+ },
+ "654bb49fff": {
+  "instruction": {
+   "number of children": "9",
+   "number of guests": "2",
+   "ANSWER": "11"
+  }
+ },
+ "4a9343d3c1": {
+  "instruction": {
+   "number of children": "1",
+   "number of guests": "4",
+   "ANSWER": "Santee Lodge"
+  }
+ },
+ "0b3c02773e": {
+  "instruction": {
+   "number of children": "1",
+   "number of guests": "4",
+   "ANSWER": "Otay Valley Hotel"
+  }
+ },
+ "20f1a04dd6": {
+  "instruction": {
+   "number of children": "8",
+   "number of guests": "7",
+   "ANSWER": "15"
+  }
+ },
+ "a08721c5d3": {
+  "instruction": {
+   "number of children": "3",
+   "number of guests": "8"
+  }
+ },
+ "c4b5eb255c": {
+  "instruction": {
+   "number of children": "10",
+   "number of guests": "15"
+  }
+ },
+ "489cfcf2bf": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Island Palms Hotel & Marina",
+   "number of guests": "1"
+  }
+ },
+ "05a2a86925": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Suites Hotel Coronado Island",
+   "number of guests": "3"
+  }
+ },
+ "397a7a2cb4": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Suites Hotel Coronado Island",
+   "number of guests": "1"
+  }
+ },
+ "bf0585af6c": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "La Mesa San Diego",
+   "number of guests": "4"
+  }
+ },
+ "b6f81bc92f": {
+  "instruction": {
+   "number of children": "(1)",
+   "ANSWER": "Cabrillo Garden Inn",
+   "number of guests": "(1)"
+  }
+ },
+ "72c2b5479e": {
+  "instruction": {
+   "number of children": "9",
+   "ANSWER": "11",
+   "number of guests": "2"
+  }
+ },
+ "9f2e1f9127": {
+  "instruction": {
+   "number of children": "3",
+   "number of guests": "3",
+   "ANSWER": "Island Palms Hotel & Marina"
+  }
+ },
+ "a3513c5afc": {
+  "instruction": {
+   "number of children": "3",
+   "ANSWER": "Hacienda Hotel Old Town",
+   "number of guests": "5"
+  }
+ },
+ "8411258551": {
+  "instruction": {
+   "number of children": "2",
+   "number of guests": "4"
+  }
+ },
+ "af82f39f89": {
+  "instruction": {
+   "number of children": "3",
+   "ANSWER": "No Hotels",
+   "number of guests": "6"
+  }
+ },
+ "b53f159c1a": {
+  "instruction": {
+   "number of children": "(3)",
+   "ANSWER": "Lamplighter Inn & Suites at SDSU",
+   "number of guests": "(4)"
+  }
+ },
+ "a6a00fb20a": {
+  "instruction": {
+   "number of children": "5",
+   "number of guests": "3",
+   "ANSWER": "8"
+  }
+ },
+ "9229ef8b3c": {
+  "instruction": {
+   "number of children": "5",
+   "ANSWER": "Courtesy Inn",
+   "number of guests": "2"
+  }
+ },
+ "640e8df557": {
+  "instruction": {
+   "number of children": "3",
+   "number of guests": "2",
+   "ANSWER": "Suites Hotel Coronado Island"
+  }
+ },
+ "4cc5b556a4": {
+  "instruction": {
+   "number of children": "3",
+   "number of guests": "3"
+  }
+ },
+ "dda221a3f3": {
+  "instruction": {
+   "number of children": "4",
+   "ANSWER": "No Hotels",
+   "number of guests": "6"
+  }
+ },
+ "ab0da448cb": {
+  "instruction": {
+   "number of children": "1",
+   "number of guests": "4",
+   "ANSWER": "Americana Inn"
+  }
+ },
+ "409ae413e3": {
+  "instruction": {
+   "number of children": "0",
+   "number of guests": "4",
+   "ANSWER": "Suites Hotel Coronado Island"
+  }
+ },
+ "67b1f01645": {
+  "instruction": {
+   "number of children": "5",
+   "ANSWER": "Cabrillo Garden Inn",
+   "number of guests": "3"
+  }
+ },
+ "9feb14174f": {
+  "instruction": {
+   "number of children": "1",
+   "number of guests": "4",
+   "ANSWER": "The Dana on Mission Bay, BW"
+  }
+ },
+ "8c6e7a5cca": {
+  "instruction": {
+   "number of children": "(1)",
+   "ANSWER": " Cabrillo Garden Inn",
+   "number of guests": "(3)"
+  }
+ },
+ "c3d75cf969": {
+  "instruction": {
+   "number of children": "2",
+   "number of guests": "6",
+   "ANSWER": "Continental Inn"
+  }
+ },
+ "cbedeadcd0": {
+  "instruction": {
+   "number of children": "3",
+   "number of guests": "1",
+   "ANSWER": "Suites Hotel Coronado Island"
+  }
+ },
+ "1437040018": {
+  "instruction": {
+   "number of children": "(2)",
+   "number of guests": "(2)",
+   "ANSWER": "(South Bay Inn)"
+  }
+ },
+ "e06f5ec490": {
+  "instruction": {
+   "number of children": "2",
+   "number of guests": "2",
+   "ANSWER": "Suites Hotel Coronado Island"
+  }
+ },
+ "29019c2685": {
+  "instruction": {
+   "number of children": "(2)",
+   "number of guests": "(2)",
+   "ANSWER": "(The Dana on Mission Bay, BW)"
+  }
+ },
+ "9db767bc0b": {
+  "instruction": {
+   "number of children": "5",
+   "number of guests": "5"
+  }
+ },
+ "9deec2665b": {
+  "instruction": {
+   "number of children": "7",
+   "number of guests": "7",
+   "ANSWER": "14"
+  }
+ },
+ "405e960041": {
+  "instruction": {
+   "number of children": "2",
+   "ANSWER": "Island Palms Hotel & Marina",
+   "number of guests": "4"
+  }
+ },
+ "1729a03b28": {
+  "instruction": {
+   "number of children": "7",
+   "ANSWER": "15",
+   "number of guests": "8"
+  }
+ },
+ "fae6b697cc": {
+  "instruction": {
+   "number of children": "2",
+   "ANSWER": "Suites Hotel Coronado Island, Seven Seas, The Dana on Mission Bay, Mission Bay, La Mesa San Diego, Otay Valley Hotel, Americana Inn, San Diego/Miramar Hotel, Continental Inn, Santee Lodge, Courtesy Inn, Poway/San Diego Hotel, Escondido Hotel, Beach View Lodge, Oceanside Inn, Oceanside Palms",
+   "number of guests": "2"
+  }
+ },
+ "38394d0330": {
+  "instruction": {
+   "number of children": "2",
+   "ANSWER": "Suites Hotel Coronado Island",
+   "number of guests": "2"
+  }
+ },
+ "e57599291b": {
+  "instruction": {
+   "number of children": "1",
+   "number of guests": "2"
+  }
+ },
+ "ee573badf1": {
+  "instruction": {
+   "number of children": "8",
+   "number of guests": "9",
+   "ANSWER": "17"
+  }
+ },
+ "9a622245aa": {
+  "instruction": {
+   "number of children": "(2)",
+   "ANSWER": "Cabrillo Garden Inn",
+   "number of guests": "(2)"
+  }
+ },
+ "02caec11be": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Suites Hotel Coronado Island",
+   "number of guests": "5"
+  }
+ },
+ "36e4deee54": {
+  "instruction": {
+   "number of children": "2",
+   "ANSWER": "Cabrillo Garden Inn",
+   "number of guests": "2"
+  }
+ },
+ "6b865ca86c": {
+  "instruction": {
+   "number of children": "(2)",
+   "ANSWER": "Lamplighter Inn & Suites at SDSU",
+   "number of guests": "(4)"
+  }
+ },
+ "e244b6d24a": {
+  "instruction": {
+   "number of children": "(2)",
+   "ANSWER": "Suites Hotel Coronado Island",
+   "number of guests": "(3)"
+  }
+ },
+ "3d01612204": {
+  "instruction": {
+   "number of children": "(3)",
+   "ANSWER": "Lamplighter Inn & Suites at SDSU",
+   "number of guests": "(3)"
+  }
+ },
+ "d1801d162d": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Cabrillo Garden Inn",
+   "number of guests": "4"
+  }
+ },
+ "9ba483b1dd": {
+  "instruction": {
+   "number of children": "5",
+   "number of guests": "3",
+   "ANSWER": "Courtesy Inn"
+  }
+ },
+ "89a98878e7": {
+  "instruction": {
+   "number of children": "2",
+   "number of guests": "2",
+   "ANSWER": "Bayside Inn"
+  }
+ },
+ "c7a92d5e30": {
+  "instruction": {
+   "number of children": "5",
+   "ANSWER": "Hacienda Hotel Old Town",
+   "number of guests": "4"
+  }
+ },
+ "f118ab2d9f": {
+  "instruction": {
+   "number of children": "3",
+   "ANSWER": "Lamplighter Inn & Suites at SDSU",
+   "number of guests": "6"
+  }
+ },
+ "d0ba7a2d7d": {
+  "instruction": {
+   "number of children": "(5)",
+   "ANSWER": "No hotels or resorts found matching your filters",
+   "number of guests": "(5)"
+  }
+ },
+ "bba6212a1f": {
+  "instruction": {
+   "number of children": "0",
+   "ANSWER": "Suites Hotel Coronado Island",
+   "number of guests": "4"
+  }
+ },
+ "73bddcefd3": {
+  "instruction": {
+   "number of children": "(1)",
+   "ANSWER": "Cabrillo Garden Inn",
+   "number of guests": "(2)"
+  }
+ },
+ "7ab8b4d6a7": {
+  "instruction": {
+   "number of children": "2",
+   "ANSWER": "Courtesy Inn",
+   "number of guests": "6"
+  }
+ },
+ "83074592fa": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Santee Lodge",
+   "number of guests": "4"
+  }
+ },
+ "1e8b167fae": {
+  "instruction": {
+   "number of children": "(2)",
+   "ANSWER": "(Marina Gateway Hotel)",
+   "number of guests": "(2)"
+  }
+ },
+ "96a6a84c92": {
+  "instruction": {
+   "number of children": "9",
+   "ANSWER": "14",
+   "number of guests": "5"
+  }
+ },
+ "3ef772c86d": {
+  "instruction": {
+   "number of children": "(2)",
+   "ANSWER": "(Cabrillo Garden Inn)",
+   "number of guests": "(2)"
+  }
+ },
+ "7d653030fd": {
+  "instruction": {
+   "number of children": "(2)",
+   "number of guests": "(2)",
+   "ANSWER": "(Suites Hotel Coronado Island)"
+  }
+ },
+ "b650f7eaec": {
+  "instruction": {
+   "number of children": "6",
+   "number of guests": "4"
+  }
+ },
+ "114ddcdf75": {
+  "instruction": {
+   "number of children": "(2)",
+   "number of guests": "(2)",
+   "ANSWER": "(Mission Bay)"
+  }
+ },
+ "d7f7b958d4": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "The Dana on Mission Bay, BW",
+   "number of guests": "4"
+  }
+ },
+ "55dc9113e8": {
+  "instruction": {
+   "number of children": "6",
+   "number of guests": "10"
+  }
+ },
+ "33c2b42533": {
+  "instruction": {
+   "number of children": "5",
+   "number of guests": "4"
+  }
+ },
+ "add2173c2a": {
+  "instruction": {
+   "number of children": "4",
+   "number of guests": "4"
+  }
+ },
+ "1342ca3a7b": {
+  "instruction": {
+   "number of children": "2",
+   "number of guests": "4",
+   "ANSWER": "Island Palms Hotel & Marina"
+  }
+ },
+ "fa2e0af054": {
+  "instruction": {
+   "number of children": "(4)",
+   "ANSWER": "Courtesy Inn",
+   "number of guests": "(4)"
+  }
+ },
+ "8568cefb20": {
+  "instruction": {
+   "number of children": "8",
+   "ANSWER": "13",
+   "number of guests": "5"
+  }
+ },
+ "4920c10f99": {
+  "instruction": {
+   "number of children": "5",
+   "ANSWER": "Hacienda Hotel Old Town",
+   "number of guests": "2"
+  }
+ },
+ "19a8676db4": {
+  "instruction": {
+   "number of children": "1",
+   "number of guests": "2",
+   "ANSWER": "Cabrillo Garden Inn"
+  }
+ },
+ "2833aa7c2a": {
+  "instruction": {
+   "number of children": "2",
+   "number of guests": "6",
+   "ANSWER": "Courtesy Inn"
+  }
+ },
+ "23cafeffa6": {
+  "instruction": {
+   "number of children": "5",
+   "number of guests": "2",
+   "ANSWER": "Courtesy Inn"
+  }
+ },
+ "e0d5ad908b": {
+  "instruction": {
+   "number of children": "5",
+   "ANSWER": "Courtesy Inn",
+   "number of guests": "7"
+  }
+ },
+ "cf5659f00b": {
+  "instruction": {
+   "number of children": "3",
+   "ANSWER": "Island Palms Hotel & Marina",
+   "number of guests": "3"
+  }
+ },
+ "4e6ab5402a": {
+  "instruction": {
+   "number of children": "(2)",
+   "number of guests": "(2)",
+   "ANSWER": "(Hacienda Hotel Old Town)"
+  }
+ },
+ "d351cb0f06": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Beach View Lodge",
+   "number of guests": "4"
+  }
+ },
+ "ceb9015334": {
+  "instruction": {
+   "number of children": "9",
+   "number of guests": "9",
+   "ANSWER": "18"
+  }
+ },
+ "ec0dbdefda": {
+  "instruction": {
+   "number of children": "1",
+   "number of guests": "1",
+   "ANSWER": "Suites Hotel Coronado Island"
+  }
+ },
+ "1b2ea8bdf0": {
+  "instruction": {
+   "number of children": "(2)",
+   "number of guests": "(2)",
+   "ANSWER": "(Yacht Harbor Hotel)"
+  }
+ },
+ "c5d855575e": {
+  "instruction": {
+   "number of children": "1",
+   "ANSWER": "Suites Hotel Coronado Island, The Dana on Mission Bay, Continental Inn, Courtesy Inn, Escondido Hotel ",
+   "number of guests": "4"
+  }
+ },
+ "af2cbcd65b": {
+  "instruction": {
+   "number of children": "6",
+   "number of guests": "8"
+  }
+ },
+ "050effd547": {
+  "instruction": {
+   "number of children": "3",
+   "ANSWER": "Courtesy Inn",
+   "number of guests": "4"
+  }
+ },
+ "18a357636c": {
+  "instruction": {
+   "number of children": "2",
+   "ANSWER": "Suites Hotel Coronado Island",
+   "number of guests": "5"
+  }
+ },
+ "4ed27a79b1": {
+  "instruction": {
+   "number of children": "3",
+   "ANSWER": "Cabrillo Garden Inn",
+   "number of guests": "2"
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "b853924a98": {
+  "instruction": {
+   "coverage type": "property damage coverage per incident",
+   "state": "California "
+  }
+ },
+ "faeae3871b": {
+  "instruction": {
+   "coverage type": "bodily injury liability per accident",
+   "state": "New Mexico"
+  }
+ },
+ "45fc9fff3a": {
+  "instruction": {
+   "coverage type": "property damage liability per accident",
+   "state": "New Mexico"
+  }
+ },
+ "2275197d44": {
+  "instruction": {
+   "coverage type": "bodily injury coverage per incident",
+   "state": "California "
+  }
+ },
+ "db57218f48": {
+  "instruction": {
+   "coverage type": "property damage liability coverage per accident",
+   "state": "Connecticut"
+  }
+ },
+ "d1d08ab68a": {
+  "instruction": {
+   "coverage type": "bodily injury liability coverage per person",
+   "state": "Connecticut"
+  }
+ },
+ "fa02df019c": {
+  "instruction": {
+   "coverage type": "bodily injury coverage per person",
+   "state": "California "
+  }
+ },
+ "b0cf5f5abb": {
+  "instruction": {
+   "coverage type": "bodily injury liability coverage per person",
+   "state": "Illinois "
+  }
+ },
+ "dbedfcf239": {
+  "instruction": {
+   "coverage type": "bodily injury liability per person",
+   "state": "New Mexico"
+  }
+ },
+ "30b50de8d4": {
+  "instruction": {
+   "coverage type": "property damage liability coverage per incident",
+   "state": "Illinois "
+  }
+ }
+}

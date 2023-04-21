@@ -1,0 +1,62 @@
+{
+ "fdefcff45a": {
+  "instruction": {
+   "type of event": "Football",
+   "city and state": "Chicago, Illinois"
+  }
+ },
+ "565d1e096d": {
+  "instruction": {
+   "type of event": "Basketball",
+   "city and state": "Knoxsville, Kentucky"
+  }
+ },
+ "f03d19621f": {
+  "instruction": {
+   "type of event": "Women's basketball",
+   "city and state": "Indianapolis, Indiana"
+  }
+ },
+ "32f897c50f": {
+  "instruction": {
+   "type of event": "Opera",
+   "city and state": "Bloomington, Indiana"
+  }
+ },
+ "38cfa24640": {
+  "instruction": {
+   "type of event": "Hockey",
+   "city and state": "Birmingham, MIchigan"
+  }
+ },
+ "0ed1519b2c": {
+  "instruction": {
+   "type of event": "College Basketball",
+   "city and state": "Bloomington, Indiana"
+  }
+ },
+ "4e0b51defe": {
+  "instruction": {
+   "type of event": "Classical music",
+   "city and state": "Indianapolis, Indiana"
+  }
+ },
+ "427ba82fbb": {
+  "instruction": {
+   "type of event": "College Football",
+   "city and state": "Ann Arbor, Michigan"
+  }
+ },
+ "8651168e3f": {
+  "instruction": {
+   "type of event": "Volleyball",
+   "city and state": "Berkeley, California"
+  }
+ },
+ "1971a263cf": {
+  "instruction": {
+   "type of event": "Soccer",
+   "city and state": "Los Angeles, California"
+  }
+ }
+}

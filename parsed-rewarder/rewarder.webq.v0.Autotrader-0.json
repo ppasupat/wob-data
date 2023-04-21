@@ -1,0 +1,62 @@
+{
+ "0c94460421": {
+  "instruction": {
+   "type of car": "Mazda",
+   "zipcode": "35801"
+  }
+ },
+ "5f4c74c004": {
+  "instruction": {
+   "type of car": "Mini Cooper",
+   "zipcode": "90001"
+  }
+ },
+ "edb4ffe7ae": {
+  "instruction": {
+   "type of car": "Nissan",
+   "zipcode": "94203"
+  }
+ },
+ "3bdc4acbaa": {
+  "instruction": {
+   "type of car": "Lamborghini ",
+   "zipcode": "90209"
+  }
+ },
+ "b78ac08ac3": {
+  "instruction": {
+   "type of car": "Toyota",
+   "zipcode": "85001"
+  }
+ },
+ "36c0f024d0": {
+  "instruction": {
+   "type of car": "Honda",
+   "zipcode": "72201"
+  }
+ },
+ "3c6b19523e": {
+  "instruction": {
+   "type of car": "Tesla",
+   "zipcode": "06101"
+  }
+ },
+ "d576ed5f83": {
+  "instruction": {
+   "type of car": "Chevorlet",
+   "zipcode": "80120"
+  }
+ },
+ "2db5782144": {
+  "instruction": {
+   "type of car": "Ford",
+   "zipcode": "99501"
+  }
+ },
+ "00ff3fce21": {
+  "instruction": {
+   "type of car": "Saturn",
+   "zipcode": "80201"
+  }
+ }
+}

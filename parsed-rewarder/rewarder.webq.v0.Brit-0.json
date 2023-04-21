@@ -1,0 +1,62 @@
+{
+ "18ecf7c719": {
+  "instruction": {
+   "type of dish": "Fish Tacos",
+   "state": "California"
+  }
+ },
+ "a098952798": {
+  "instruction": {
+   "type of dish": "Frozen Custard",
+   "state": "Delaware"
+  }
+ },
+ "ffbf3d742c": {
+  "instruction": {
+   "type of dish": "Gumbo",
+   "state": "Louisiana"
+  }
+ },
+ "7070a65468": {
+  "instruction": {
+   "type of dish": "Potatoes",
+   "state": "Idaho"
+  }
+ },
+ "fa2cbdf892": {
+  "instruction": {
+   "type of dish": "Akutaq ",
+   "state": "Alaska"
+  }
+ },
+ "5f11b7554a": {
+  "instruction": {
+   "type of dish": "Key Lime Pie",
+   "state": "Florida"
+  }
+ },
+ "babad567b2": {
+  "instruction": {
+   "type of dish": "Sweet Corn",
+   "state": "Iowa"
+  }
+ },
+ "c22a8cda5e": {
+  "instruction": {
+   "type of dish": "Salt Water Taffy",
+   "state": "New Jersey"
+  }
+ },
+ "116e0a73c6": {
+  "instruction": {
+   "type of dish": "Crab Cakes",
+   "state": "Maryland"
+  }
+ },
+ "ad7d93d746": {
+  "instruction": {
+   "type of dish": "Mud Pie",
+   "state": "Mississippi"
+  }
+ }
+}

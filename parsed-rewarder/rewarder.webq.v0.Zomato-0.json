@@ -1,0 +1,1442 @@
+{
+ "9bdd81f76f": {
+  "instruction": {
+   "geographic location": "Mumbai",
+   "type of food": "Italian food ",
+   "ANSWER": "Pizza by The Bay"
+  }
+ },
+ "8307a54770": {
+  "instruction": {
+   "geographic location": "New Orleans",
+   "type of food": "Soul Food",
+   "ANSWER": "Cochon"
+  }
+ },
+ "22ac786416": {
+  "instruction": {
+   "geographic location": "Chennai",
+   "type of food": "Buffet places",
+   "ANSWER": "AB's - Absolute Barbecues, T.nagar"
+  }
+ },
+ "2207f20922": {
+  "instruction": {
+   "Restaurant name": "Flex Mussels",
+   "Restaurant address": "174 East 82nd Street, New York, NY 10028"
+  }
+ },
+ "c0e08e7c5e": {
+  "instruction": {
+   "type of food": "barbecue",
+   "ANSWER": "Redbones Barbecue",
+   "geographic location": "somerville"
+  }
+ },
+ "9ff15b60ec": {
+  "instruction": {
+   "type of food": "Lunch",
+   "ANSWER": "Pai",
+   "geographic location": "Toronto, ON"
+  }
+ },
+ "60b68716ee": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Indian"
+  }
+ },
+ "5afa7ecc40": {
+  "instruction": {
+   "type of food": "Delievery",
+   "geographic location": "Sacramento"
+  }
+ },
+ "f2a0d9582b": {
+  "instruction": {
+   "geographic location": "Baton Rouge, LA",
+   "type of food": "Southern Food",
+   "ANSWER": "Southern Dawgz"
+  }
+ },
+ "07af795570": {
+  "instruction": {
+   "type of food": "Dessert",
+   "ANSWER": " PortLand Malt Shoppe",
+   "geographic location": "Duluth, MN"
+  }
+ },
+ "f07f0f78d9": {
+  "instruction": {
+   "geographic location": "Fisherman's Wharf, San Francisco",
+   "type of food": "Fish",
+   "ANSWER": "Fog Harbor Fish House"
+  }
+ },
+ "3eb8bfeb6e": {
+  "instruction": {
+   "geographic location": "Ottawa, ON",
+   "type of food": "Breakfast",
+   "ANSWER": "Vittoria Trattoria"
+  }
+ },
+ "12e1ecdf3e": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": " Clyde Iron Works",
+   "geographic location": "Duluth, MN"
+  }
+ },
+ "b9f3d73c70": {
+  "instruction": {
+   "type of food": "Fast food ",
+   "ANSWER": "H parmeshwar fast food corner",
+   "geographic location": "Mumbai"
+  }
+ },
+ "d0a56dc42f": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": "La Carnita",
+   "geographic location": "Toronto"
+  }
+ },
+ "d6403a916b": {
+  "instruction": {
+   "Restaurant name": "Russ & Daughters",
+   "Restaurant address": "179 E Houston Street, New York, NY 10002"
+  }
+ },
+ "84704f69bb": {
+  "instruction": {
+   "geographic location": "Toronto, ON",
+   "type of food": "Breakfast",
+   "ANSWER": "Mildred's Temple Kitchen"
+  }
+ },
+ "78691f17ab": {
+  "instruction": {
+   "geographic location": "Powai Mumbai",
+   "type of food": "Chicken ",
+   "ANSWER": "Mirchi And Mime"
+  }
+ },
+ "7cbc4a7f19": {
+  "instruction": {
+   "geographic location": "Toronto",
+   "type of food": "Burgers",
+   "ANSWER": "The Burger's Priest"
+  }
+ },
+ "2333095217": {
+  "instruction": {
+   "type of food": "Delivery",
+   "ANSWER": "La Bottega Nicastro",
+   "geographic location": "Ottawa, ON"
+  }
+ },
+ "e37b407a2f": {
+  "instruction": {
+   "geographic location": "Malad Mumbai",
+   "type of food": "Chinese Lollipop",
+   "ANSWER": "Stir Fry Grill"
+  }
+ },
+ "436e0106fb": {
+  "instruction": {
+   "geographic location": "Chennai",
+   "type of food": "Luxury dining",
+   "ANSWER": "Pan Asian - ITC Grand Chola,Guindy"
+  }
+ },
+ "7ddd080cb5": {
+  "instruction": {
+   "type of food": "Meat Pies",
+   "ANSWER": "Ma's Cajun Meat Pies",
+   "geographic location": "Natchitoches, LA"
+  }
+ },
+ "587925550a": {
+  "instruction": {
+   "type of food": "Mexican food",
+   "ANSWER": "Coma coma ",
+   "geographic location": "Mumbai"
+  }
+ },
+ "3522d87c5a": {
+  "instruction": {
+   "geographic location": "Mumbai",
+   "type of food": "Marathi thali",
+   "ANSWER": "Mee marathi"
+  }
+ },
+ "772581df29": {
+  "instruction": {
+   "type of food": "Lunch",
+   "ANSWER": "Ahora",
+   "geographic location": "Ottawa, ON"
+  }
+ },
+ "bf10546dde": {
+  "instruction": {
+   "geographic location": "Mumbai",
+   "type of food": "Mexican food",
+   "ANSWER": "Coma coma "
+  }
+ },
+ "5a1e48dda9": {
+  "instruction": {
+   "type of food": "Burgers",
+   "ANSWER": "The Burger's Priest",
+   "geographic location": "Toronto"
+  }
+ },
+ "f522e9e3f8": {
+  "instruction": {
+   "geographic location": "Toronto",
+   "type of food": "Pasta",
+   "ANSWER": "Grazie Ristorante"
+  }
+ },
+ "5da88400a6": {
+  "instruction": {
+   "geographic location": "Duluth, MN",
+   "type of food": "Pizza",
+   "ANSWER": "Old Chicago"
+  }
+ },
+ "90ab12de21": {
+  "instruction": {
+   "geographic location": "Duluth, MN",
+   "type of food": "Sushi",
+   "ANSWER": "Hanabi Japanese Cuisine"
+  }
+ },
+ "bed5c50eed": {
+  "instruction": {
+   "geographic location": "Mumbai",
+   "type of food": "Gujarati thali",
+   "ANSWER": "Maharaja bhog"
+  }
+ },
+ "2e32b114a1": {
+  "instruction": {
+   "type of food": "Desserts & Bakery",
+   "ANSWER": "Art Is In Bakery, Little Italy",
+   "geographic location": "Ottawa, ON"
+  }
+ },
+ "02243376b0": {
+  "instruction": {
+   "geographic location": "Albuquerque",
+   "type of food": "Lunch",
+   "ANSWER": "Nexus Brewery"
+  }
+ },
+ "1eddf27fee": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Chinese"
+  }
+ },
+ "06f6e7debb": {
+  "instruction": {
+   "Restaurant name": "Blue Water Grill",
+   "Restaurant address": "31 Union Square West, New York, NY 10003"
+  }
+ },
+ "e0a28a0630": {
+  "instruction": {
+   "type of food": "Lunch",
+   "ANSWER": "AB's - Absolute Barbecues Velachery",
+   "geographic location": "Chennai"
+  }
+ },
+ "b5ab38d2cd": {
+  "instruction": {
+   "geographic location": "Matunga Mumbai",
+   "type of food": "Dosa",
+   "ANSWER": "Hotel Ramashray"
+  }
+ },
+ "40843bb2b2": {
+  "instruction": {
+   "geographic location": "Toronto",
+   "type of food": "Sandwiches",
+   "ANSWER": "Banh Mi Boys"
+  }
+ },
+ "0a9e367ec7": {
+  "instruction": {
+   "geographic location": "Chennai",
+   "type of food": "North Indian",
+   "ANSWER": "Batlivala & Khanabhoy Alwarpet"
+  }
+ },
+ "eea7c81d74": {
+  "instruction": {
+   "type of food": "Dinner",
+   "geographic location": "Sacramento"
+  }
+ },
+ "eca2dfc7d7": {
+  "instruction": {
+   "type of food": "Dinner",
+   "ANSWER": "Ahora",
+   "geographic location": "Ottawa, ON"
+  }
+ },
+ "4839746ba0": {
+  "instruction": {
+   "geographic location": "Toronto",
+   "type of food": "Mexican",
+   "ANSWER": "La Carnita"
+  }
+ },
+ "127a32cccb": {
+  "instruction": {
+   "type of food": "Thai food",
+   "ANSWER": "Thai pavilion - vivanta by taj president",
+   "geographic location": "Mumbai"
+  }
+ },
+ "f73943fc1a": {
+  "instruction": {
+   "geographic location": "Mumbai",
+   "type of food": "North Indian food ",
+   "ANSWER": "Spice Klub"
+  }
+ },
+ "1c4d827f58": {
+  "instruction": {
+   "geographic location": "Belapur Navi Mumbai",
+   "type of food": "Biryani",
+   "ANSWER": "Birista-Biryanis & kebabs"
+  }
+ },
+ "ede3400d78": {
+  "instruction": {
+   "type of food": "Vietnamese ",
+   "ANSWER": "Taste Of Saigon",
+   "geographic location": "Duluth, MN"
+  }
+ },
+ "7f695cdeb1": {
+  "instruction": {
+   "type of food": "Breakfast",
+   "geographic location": "Sacramento"
+  }
+ },
+ "fe36991e3d": {
+  "instruction": {
+   "type of food": "Chinese ",
+   "ANSWER": "Gypsy",
+   "geographic location": "Mumbai"
+  }
+ },
+ "7bd0f1849a": {
+  "instruction": {
+   "geographic location": "Chennai",
+   "type of food": "Lunch",
+   "ANSWER": "AB's - Absolute Barbecues Velachery"
+  }
+ },
+ "4c9407506b": {
+  "instruction": {
+   "geographic location": "Toronto",
+   "type of food": "Korean",
+   "ANSWER": "Buk Chang Dong Soon Tofu"
+  }
+ },
+ "73e2c6df99": {
+  "instruction": {
+   "type of food": "Luxury dining",
+   "ANSWER": "Pan Asian - ITC Grand Chola,Guindy",
+   "geographic location": "Chennai"
+  }
+ },
+ "2011cf5acf": {
+  "instruction": {
+   "type of food": "Delis",
+   "ANSWER": "The Scone Witch",
+   "geographic location": "Ottawa, ON"
+  }
+ },
+ "e5c9026233": {
+  "instruction": {
+   "type of food": "Dosa",
+   "ANSWER": "Hotel Ramashray",
+   "geographic location": "Matunga Mumbai"
+  }
+ },
+ "656a10221a": {
+  "instruction": {
+   "geographic location": "Duluth, MN",
+   "type of food": "Dessert",
+   "ANSWER": " PortLand Malt Shoppe"
+  }
+ },
+ "ae2bf8cd45": {
+  "instruction": {
+   "geographic location": "Oakland, CA",
+   "type of food": "Vegan",
+   "ANSWER": "Vegan & Tikka Masala"
+  }
+ },
+ "de2e582aba": {
+  "instruction": {
+   "geographic location": "cambridge",
+   "type of food": "southern",
+   "ANSWER": "Border Cafe"
+  }
+ },
+ "105d1042d2": {
+  "instruction": {
+   "type of food": "Steak",
+   "ANSWER": "Doe's Eat Place",
+   "geographic location": "Greenville, Mississippi"
+  }
+ },
+ "63e93bf641": {
+  "instruction": {
+   "type of food": "Drinks & Nightlife",
+   "ANSWER": "The Flying Elephant - Park Hyatt,  Park Hyatt, Guindy",
+   "geographic location": "Chennai"
+  }
+ },
+ "43db6064aa": {
+  "instruction": {
+   "geographic location": "somerville",
+   "type of food": "barbecue",
+   "ANSWER": "Redbones Barbecue"
+  }
+ },
+ "a06aaf96d6": {
+  "instruction": {
+   "type of food": "Korean",
+   "ANSWER": "SJ Omogari",
+   "geographic location": "San Jose"
+  }
+ },
+ "face80061c": {
+  "instruction": {
+   "geographic location": "Albuquerque",
+   "type of food": "Thai",
+   "ANSWER": "Thai Tip"
+  }
+ },
+ "0bd65f7eb6": {
+  "instruction": {
+   "geographic location": "Toronto",
+   "type of food": "Sushi buffet",
+   "ANSWER": "Yuzu No Hana"
+  }
+ },
+ "797f55ae06": {
+  "instruction": {
+   "type of food": "Pasta",
+   "ANSWER": "Grazie Ristorante",
+   "geographic location": "Toronto"
+  }
+ },
+ "83083bd2f9": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Mexican"
+  }
+ },
+ "964fb54d24": {
+  "instruction": {
+   "type of food": "Gujarati thali",
+   "ANSWER": "Maharaja bhog",
+   "geographic location": "Mumbai"
+  }
+ },
+ "19e6872bb7": {
+  "instruction": {
+   "geographic location": "Albuquerque",
+   "type of food": "Breakfast",
+   "ANSWER": "Frontier Restaurant"
+  }
+ },
+ "510d7c737f": {
+  "instruction": {
+   "geographic location": "Toronto, ON",
+   "type of food": "Lunch",
+   "ANSWER": "Pai"
+  }
+ },
+ "a100566f64": {
+  "instruction": {
+   "geographic location": "Mumbai",
+   "type of food": "Fast food ",
+   "ANSWER": "H parmeshwar fast food corner"
+  }
+ },
+ "c367d321f6": {
+  "instruction": {
+   "Restaurant name": "Catch",
+   "Restaurant address": "21 9th Avenue, New York, NY 10014"
+  }
+ },
+ "174d02238d": {
+  "instruction": {
+   "geographic location": "Schomberg",
+   "type of food": "Breakfast",
+   "ANSWER": "Hot Stacks Family Restaurant"
+  }
+ },
+ "60bd35a98a": {
+  "instruction": {
+   "geographic location": "Albuquerque",
+   "type of food": "Seafood",
+   "ANSWER": "Pappadeaux Seafood Kitchen"
+  }
+ },
+ "237a466223": {
+  "instruction": {
+   "geographic location": "new york city",
+   "type of food": "donuts",
+   "ANSWER": "Doughnut Plant"
+  }
+ },
+ "bb6ed678ca": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Lunch"
+  }
+ },
+ "1726090691": {
+  "instruction": {
+   "type of food": "Sandwiches",
+   "ANSWER": "Banh Mi Boys",
+   "geographic location": "Toronto"
+  }
+ },
+ "83a6e85bec": {
+  "instruction": {
+   "geographic location": "suffern",
+   "type of food": "chinese",
+   "ANSWER": "Jade Bistro"
+  }
+ },
+ "5447b529f0": {
+  "instruction": {
+   "geographic location": "Ottawa, ON",
+   "type of food": "Delivery",
+   "ANSWER": "La Bottega Nicastro"
+  }
+ },
+ "0e4d49ed13": {
+  "instruction": {
+   "type of food": "Take-out",
+   "ANSWER": "Ahora",
+   "geographic location": "Ottawa, ON"
+  }
+ },
+ "94962b78d1": {
+  "instruction": {
+   "type of food": "pizza",
+   "ANSWER": "Sa Za Serious Italian",
+   "geographic location": "montgomery"
+  }
+ },
+ "88c4875d13": {
+  "instruction": {
+   "type of food": "Breakfast",
+   "ANSWER": "Mildred's Temple Kitchen",
+   "geographic location": "Toronto"
+  }
+ },
+ "ea2c3f2bef": {
+  "instruction": {
+   "geographic location": "Ottawa, ON",
+   "type of food": "Drinks",
+   "ANSWER": "Union Local 613"
+  }
+ },
+ "2de9f4aafb": {
+  "instruction": {
+   "geographic location": "Mumbai",
+   "type of food": "South indian",
+   "ANSWER": "Ramashray"
+  }
+ },
+ "6c77d1768c": {
+  "instruction": {
+   "geographic location": "Chennai",
+   "type of food": "Drinks & Nightlife",
+   "ANSWER": "The Flying Elephant - Park Hyatt,  Park Hyatt, Guindy"
+  }
+ },
+ "4bf212a1de": {
+  "instruction": {
+   "geographic location": "Albuquerque",
+   "type of food": "Mexican",
+   "ANSWER": "Mary & Tito's Cafe"
+  }
+ },
+ "166bf83d33": {
+  "instruction": {
+   "geographic location": "Natchitoches, LA",
+   "type of food": "Meat Pies",
+   "ANSWER": "Ma's Cajun Meat Pies"
+  }
+ },
+ "0483e42aea": {
+  "instruction": {
+   "type of food": "southern",
+   "ANSWER": "Border Cafe",
+   "geographic location": "cambridge"
+  }
+ },
+ "fb29a1c936": {
+  "instruction": {
+   "geographic location": "Greenville, Mississippi",
+   "type of food": "Steak",
+   "ANSWER": "Doe's Eat Place"
+  }
+ },
+ "b2ba3325b1": {
+  "instruction": {
+   "type of food": "Chinese",
+   "ANSWER": "Pan Asian - ITC Grand Chola,Guindy",
+   "geographic location": "Chennai"
+  }
+ },
+ "35aa2bf233": {
+  "instruction": {
+   "geographic location": "Ottawa, ON",
+   "type of food": "Dinner",
+   "ANSWER": "Ahora"
+  }
+ },
+ "18cd83bc89": {
+  "instruction": {
+   "type of food": "Vegan",
+   "ANSWER": "Vegan & Tikka Masala",
+   "geographic location": "Oakland, CA"
+  }
+ },
+ "be4be98c64": {
+  "instruction": {
+   "geographic location": "San Jose",
+   "type of food": "Korean",
+   "ANSWER": "SJ Omogari"
+  }
+ },
+ "5b1124ed03": {
+  "instruction": {
+   "geographic location": "Mumbai",
+   "type of food": "Pizza",
+   "ANSWER": "1441 Pizzeria"
+  }
+ },
+ "f3ee974e5d": {
+  "instruction": {
+   "type of food": "Southern Food",
+   "ANSWER": "Southern Dawgz",
+   "geographic location": "Baton Rouge, LA"
+  }
+ },
+ "61704f193a": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Dinner"
+  }
+ },
+ "a2e00e642b": {
+  "instruction": {
+   "type of food": "Coffee",
+   "ANSWER": "Coffee House Express",
+   "geographic location": "Duluth, MN"
+  }
+ },
+ "43c407a0dc": {
+  "instruction": {
+   "type of food": "Sandwich",
+   "ANSWER": "Taj Mahal Tea House",
+   "geographic location": "Bandra Mumbai"
+  }
+ },
+ "3276f84d52": {
+  "instruction": {
+   "type of food": "Burgers",
+   "ANSWER": "Five Guys Burgers and Fries",
+   "geographic location": "Albuquerque"
+  }
+ },
+ "38099c897a": {
+  "instruction": {
+   "geographic location": "Memphis ",
+   "type of food": "Barbecue ",
+   "ANSWER": "Memphis Barbecue Company"
+  }
+ },
+ "6723570e1d": {
+  "instruction": {
+   "type of food": "Chicken ",
+   "ANSWER": "Mirchi And Mime",
+   "geographic location": "Powai Mumbai"
+  }
+ },
+ "e065fd9843": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": "Mary & Tito's Cafe",
+   "geographic location": "Albuquerque"
+  }
+ },
+ "9e88c5a9af": {
+  "instruction": {
+   "geographic location": "Powai Mumbai",
+   "type of food": "Berger",
+   "ANSWER": "theobroma"
+  }
+ },
+ "f2b4453cfb": {
+  "instruction": {
+   "type of food": "Marathi thali",
+   "ANSWER": "Mee marathi",
+   "geographic location": "Mumbai"
+  }
+ },
+ "809576992c": {
+  "instruction": {
+   "type of food": "Buffet places",
+   "ANSWER": "AB's - Absolute Barbecues, T.nagar",
+   "geographic location": "Chennai"
+  }
+ },
+ "752d32b706": {
+  "instruction": {
+   "type of food": "Dinner",
+   "ANSWER": "Chili's  Express Avenue Mall, Royapettah",
+   "geographic location": "Chennai"
+  }
+ },
+ "4fb7b3636c": {
+  "instruction": {
+   "geographic location": "Duluth, MN",
+   "type of food": "Italian",
+   "ANSWER": " Clyde Iron Works"
+  }
+ },
+ "7403758c7f": {
+  "instruction": {
+   "geographic location": "Ottawa, ON",
+   "type of food": "Desserts & Bakery",
+   "ANSWER": "Art Is In Bakery, Little Italy"
+  }
+ },
+ "59c0fec5b7": {
+  "instruction": {
+   "geographic location": "Duluth, MN",
+   "type of food": "Brewery",
+   "ANSWER": "Fitger's Brewhouse Brewery & Grille"
+  }
+ },
+ "6e222aa7d1": {
+  "instruction": {
+   "type of food": "Mexican",
+   "ANSWER": "Burrito Union",
+   "geographic location": "Duluth, MN"
+  }
+ },
+ "0cb760afbe": {
+  "instruction": {
+   "type of food": "Biryani",
+   "ANSWER": "Birista-Biryanis & kebabs",
+   "geographic location": "Belapur Navi Mumbai"
+  }
+ },
+ "14b3e83e01": {
+  "instruction": {
+   "type of food": "Brewery",
+   "ANSWER": "Fitger's Brewhouse Brewery & Grille",
+   "geographic location": "Duluth, MN"
+  }
+ },
+ "84628708c2": {
+  "instruction": {
+   "type of food": "Pies",
+   "ANSWER": "Tom's Original Fried Pies",
+   "geographic location": "Jackson, MS"
+  }
+ },
+ "c5cffcb89d": {
+  "instruction": {
+   "geographic location": "Albuquerque",
+   "type of food": "Chinese",
+   "ANSWER": "Budai Gourmet Chinese"
+  }
+ },
+ "e37ee5aeca": {
+  "instruction": {
+   "geographic location": "Bandra Mumbai",
+   "type of food": "Sandwich",
+   "ANSWER": "Taj Mahal Tea House"
+  }
+ },
+ "1f6331251f": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "1441 Pizzeria",
+   "geographic location": "Mumbai"
+  }
+ },
+ "bb02bbc08c": {
+  "instruction": {
+   "type of food": "Lunch",
+   "geographic location": "Sacramento"
+  }
+ },
+ "015b9732bd": {
+  "instruction": {
+   "geographic location": "Mumbai",
+   "type of food": "Thai food",
+   "ANSWER": "Thai pavilion - vivanta by taj president"
+  }
+ },
+ "9e5f0ed386": {
+  "instruction": {
+   "type of food": "Breakfast",
+   "ANSWER": "Pantry D'Or Cordon Bleu Alwarpet",
+   "geographic location": "Chennai"
+  }
+ },
+ "917d06d34c": {
+  "instruction": {
+   "geographic location": "Duluth, MN",
+   "type of food": "Mexican",
+   "ANSWER": "Burrito Union"
+  }
+ },
+ "05ec45b256": {
+  "instruction": {
+   "geographic location": "Jackson, MS",
+   "type of food": "Pies",
+   "ANSWER": "Tom's Original Fried Pies"
+  }
+ },
+ "7b2295b9e3": {
+  "instruction": {
+   "type of food": "Berger",
+   "ANSWER": "theobroma",
+   "geographic location": "Powai Mumbai"
+  }
+ },
+ "4801d3db72": {
+  "instruction": {
+   "geographic location": "Mumbai",
+   "type of food": "Chinese ",
+   "ANSWER": "Gypsy"
+  }
+ },
+ "1421b4cb7b": {
+  "instruction": {
+   "geographic location": "montgomery",
+   "type of food": "pizza",
+   "ANSWER": "Sa Za Serious Italian"
+  }
+ },
+ "5e6a194be4": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Mediterranean "
+  }
+ },
+ "5d9efc84a0": {
+  "instruction": {
+   "type of food": "Chinese",
+   "geographic location": "Sacramento"
+  }
+ },
+ "7543441c3b": {
+  "instruction": {
+   "type of food": "Wadapav",
+   "ANSWER": "Ashok Vada Pav Stall",
+   "geographic location": "Prabhadevi Mumbai"
+  }
+ },
+ "436144b3e9": {
+  "instruction": {
+   "type of food": "Soul Food",
+   "ANSWER": "Cochon",
+   "geographic location": "New Orleans"
+  }
+ },
+ "5f80279ef5": {
+  "instruction": {
+   "type of food": "Lunch",
+   "ANSWER": "Nexus Brewery",
+   "geographic location": "Albuquerque"
+  }
+ },
+ "7bf74988b2": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Old Chicago",
+   "geographic location": "Duluth, MN"
+  }
+ },
+ "51baa59da1": {
+  "instruction": {
+   "type of food": "Fish",
+   "ANSWER": "Fog Harbor Fish House",
+   "geographic location": "Fisherman's Wharf, San Francisco"
+  }
+ },
+ "bbff6a3375": {
+  "instruction": {
+   "geographic location": "Toronto",
+   "type of food": "Pizza",
+   "ANSWER": "Gusto 101"
+  }
+ },
+ "f2f67a3b6f": {
+  "instruction": {
+   "type of food": "Sushi",
+   "ANSWER": "Hanabi Japanese Cuisine",
+   "geographic location": "Duluth, MN"
+  }
+ },
+ "1f2eb08e95": {
+  "instruction": {
+   "geographic location": "Chennai",
+   "type of food": "cafe",
+   "ANSWER": "Waf O'Bel, Chetpet"
+  }
+ },
+ "43734fd3b8": {
+  "instruction": {
+   "geographic location": "Chennai",
+   "type of food": "Desserts & Bakes",
+   "ANSWER": "Bombay Kulfi, Besant Nagar"
+  }
+ },
+ "7474000715": {
+  "instruction": {
+   "geographic location": "Chennai",
+   "type of food": "Chinese",
+   "ANSWER": "Pan Asian - ITC Grand Chola,Guindy"
+  }
+ },
+ "fd218c934f": {
+  "instruction": {
+   "geographic location": "Duluth, MN",
+   "type of food": "Delivery ",
+   "ANSWER": " Pizza Luce"
+  }
+ },
+ "056fe8b26a": {
+  "instruction": {
+   "Restaurant name": "Bubba Gump Shrimp Co.",
+   "Restaurant address": "1501 Broadway, New York, NY 1003"
+  }
+ },
+ "d859c66766": {
+  "instruction": {
+   "type of food": "Dinner",
+   "ANSWER": "Saggio's",
+   "geographic location": "Albuquerque"
+  }
+ },
+ "84110b945f": {
+  "instruction": {
+   "geographic location": "Toronto",
+   "type of food": "Breakfast",
+   "ANSWER": "Mildred's Temple Kitchen"
+  }
+ },
+ "f113063aee": {
+  "instruction": {
+   "type of food": "Korean",
+   "ANSWER": "Buk Chang Dong Soon Tofu",
+   "geographic location": "Toronto"
+  }
+ },
+ "83987856c1": {
+  "instruction": {
+   "type of food": "chinese",
+   "ANSWER": "Jade Bistro",
+   "geographic location": "suffern"
+  }
+ },
+ "e17f39b049": {
+  "instruction": {
+   "type of food": "french cuisine",
+   "ANSWER": "Brasserie 292",
+   "geographic location": "poughkeepsie"
+  }
+ },
+ "1843497ce4": {
+  "instruction": {
+   "geographic location": "Prabhadevi Mumbai",
+   "type of food": "Wadapav",
+   "ANSWER": "Ashok Vada Pav Stall"
+  }
+ },
+ "355c1e96c0": {
+  "instruction": {
+   "type of food": "Breakfast",
+   "ANSWER": "Hot Stacks Family Restaurant",
+   "geographic location": "Schomberg"
+  }
+ },
+ "f9ce209b31": {
+  "instruction": {
+   "geographic location": "montvale",
+   "type of food": "burgers",
+   "ANSWER": "Burger King"
+  }
+ },
+ "f26cdfbd95": {
+  "instruction": {
+   "type of food": "Thai",
+   "ANSWER": "Thai Tip",
+   "geographic location": "Albuquerque"
+  }
+ },
+ "f16f3b9f3b": {
+  "instruction": {
+   "type of food": "Mediterranean",
+   "ANSWER": "Mykonos Caf\u00e9",
+   "geographic location": "Albuquerque"
+  }
+ },
+ "895cb40544": {
+  "instruction": {
+   "type of food": "cafe",
+   "ANSWER": "Waf O'Bel, Chetpet",
+   "geographic location": "Chennai"
+  }
+ },
+ "38fe9e9e41": {
+  "instruction": {
+   "geographic location": "Duluth, MN",
+   "type of food": "Coffee",
+   "ANSWER": "Coffee House Express"
+  }
+ },
+ "b39b8e5c3b": {
+  "instruction": {
+   "type of food": "Mexican",
+   "geographic location": "Sacramento"
+  }
+ },
+ "712ca7d5a3": {
+  "instruction": {
+   "geographic location": "Duluth, MN",
+   "type of food": "Pub Food",
+   "ANSWER": "Dubh Linn Irish Pub"
+  }
+ },
+ "e66128fe4d": {
+  "instruction": {
+   "type of food": "Mediterranean ",
+   "geographic location": "Sacramento"
+  }
+ },
+ "1875634ba2": {
+  "instruction": {
+   "type of food": "Sandwiches",
+   "ANSWER": "Togo's Sandwiches",
+   "geographic location": "Levi's Stadium"
+  }
+ },
+ "a408abe699": {
+  "instruction": {
+   "Restaurant name": "Pearl Oyster Bar",
+   "Restaurant address": "18 Cornelia Street, New York, NY 10014"
+  }
+ },
+ "3b98d30d63": {
+  "instruction": {
+   "type of food": "Chinese",
+   "ANSWER": "Budai Gourmet Chinese",
+   "geographic location": "Albuquerque"
+  }
+ },
+ "cf82c6fbed": {
+  "instruction": {
+   "type of food": "Breakfast",
+   "ANSWER": "Frontier Restaurant",
+   "geographic location": "Albuquerque"
+  }
+ },
+ "cb7e5b45cf": {
+  "instruction": {
+   "geographic location": "Chennai",
+   "type of food": "Breakfast",
+   "ANSWER": "Pantry D'Or Cordon Bleu Alwarpet"
+  }
+ },
+ "3961ecc449": {
+  "instruction": {
+   "type of food": "Indian",
+   "geographic location": "Sacramento"
+  }
+ },
+ "4dbedb8e0f": {
+  "instruction": {
+   "geographic location": "Toronto",
+   "type of food": "Sushi",
+   "ANSWER": "Japango"
+  }
+ },
+ "d31e013d1f": {
+  "instruction": {
+   "type of food": "Chinese Lollipop",
+   "ANSWER": "Stir Fry Grill",
+   "geographic location": "Malad Mumbai"
+  }
+ },
+ "355cd60758": {
+  "instruction": {
+   "geographic location": "Albuquerque",
+   "type of food": "Dinner",
+   "ANSWER": "Saggio's"
+  }
+ },
+ "6e816ac660": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Take Out"
+  }
+ },
+ "6e7fbdaa4e": {
+  "instruction": {
+   "geographic location": "Albuquerque",
+   "type of food": "Italian",
+   "ANSWER": "Il Vicino"
+  }
+ },
+ "9a17c3b4fd": {
+  "instruction": {
+   "geographic location": "Albuquerque",
+   "type of food": "Mediterranean",
+   "ANSWER": "Mykonos Caf\u00e9"
+  }
+ },
+ "9e9d00d4a4": {
+  "instruction": {
+   "geographic location": "Kurla Mumbai",
+   "type of food": "Mutton",
+   "ANSWER": "Masala Library"
+  }
+ },
+ "e369d7bac1": {
+  "instruction": {
+   "geographic location": "Ottawa, ON",
+   "type of food": "Lunch",
+   "ANSWER": "Ahora"
+  }
+ },
+ "374802bab8": {
+  "instruction": {
+   "type of food": "burgers",
+   "ANSWER": "Burger King",
+   "geographic location": "montvale"
+  }
+ },
+ "d998346cfb": {
+  "instruction": {
+   "Restaurant name": "Lure Fishbar",
+   "Restaurant address": "142 Mercer Street, Soho, NY 10012"
+  }
+ },
+ "9b4874fd0e": {
+  "instruction": {
+   "geographic location": "poughkeepsie",
+   "type of food": "french cuisine",
+   "ANSWER": "Brasserie 292"
+  }
+ },
+ "abfb2f8055": {
+  "instruction": {
+   "geographic location": "Ottawa, ON",
+   "type of food": "Take-out",
+   "ANSWER": "Ahora"
+  }
+ },
+ "79cd13e485": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Korean"
+  }
+ },
+ "1a8f569d94": {
+  "instruction": {
+   "type of food": "Drinks",
+   "ANSWER": "Union Local 613",
+   "geographic location": "Ottawa, ON"
+  }
+ },
+ "1cf1fcd63a": {
+  "instruction": {
+   "geographic location": "Mumbai",
+   "type of food": "Chaat",
+   "ANSWER": "Chaat stories"
+  }
+ },
+ "0bc8593e47": {
+  "instruction": {
+   "type of food": "Cake",
+   "ANSWER": "Mirchi And Mime",
+   "geographic location": "Powai Mumbai"
+  }
+ },
+ "bbbefeb160": {
+  "instruction": {
+   "geographic location": "Levi's Stadium",
+   "type of food": "Sandwiches",
+   "ANSWER": "Togo's Sandwiches"
+  }
+ },
+ "c5d58b6bc4": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Delievery"
+  }
+ },
+ "bd69180d79": {
+  "instruction": {
+   "type of food": "South indian",
+   "ANSWER": "Ramashray",
+   "geographic location": "Mumbai"
+  }
+ },
+ "c6f29533a3": {
+  "instruction": {
+   "type of food": "Sushi buffet",
+   "ANSWER": "Yuzu No Hana",
+   "geographic location": "Toronto"
+  }
+ },
+ "a4c40de34d": {
+  "instruction": {
+   "type of food": "Mutton",
+   "ANSWER": "Masala Library",
+   "geographic location": "Kurla Mumbai"
+  }
+ },
+ "08c1c8422b": {
+  "instruction": {
+   "type of food": "Delivery ",
+   "ANSWER": " Pizza Luce",
+   "geographic location": "Duluth, MN"
+  }
+ },
+ "c0118f6e78": {
+  "instruction": {
+   "type of food": "asian",
+   "ANSWER": "Masa",
+   "geographic location": "tallahassee"
+  }
+ },
+ "73e1fd5f38": {
+  "instruction": {
+   "type of food": "Breakfast",
+   "ANSWER": "Mildred's Temple Kitchen",
+   "geographic location": "Toronto, ON"
+  }
+ },
+ "e6af97b2cc": {
+  "instruction": {
+   "type of food": "Pizza",
+   "ANSWER": "Gusto 101",
+   "geographic location": "Toronto"
+  }
+ },
+ "2fd11b57e3": {
+  "instruction": {
+   "type of food": "Sushi",
+   "ANSWER": "Japango",
+   "geographic location": "Toronto"
+  }
+ },
+ "991ad618bd": {
+  "instruction": {
+   "type of food": "North Indian",
+   "ANSWER": "Batlivala & Khanabhoy Alwarpet",
+   "geographic location": "Chennai"
+  }
+ },
+ "f78414661d": {
+  "instruction": {
+   "type of food": "North Indian food ",
+   "ANSWER": "Spice Klub",
+   "geographic location": "Mumbai"
+  }
+ },
+ "03ca2e23e7": {
+  "instruction": {
+   "type of food": "donuts",
+   "ANSWER": "Doughnut Plant",
+   "geographic location": "new york city"
+  }
+ },
+ "c9978fbe29": {
+  "instruction": {
+   "Restaurant name": "Grand Central Oyster Bar & Restaurant",
+   "Restaurant address": "Grand Central Terminal, 89 E 42nd Street, New York,"
+  }
+ },
+ "20902e032f": {
+  "instruction": {
+   "type of food": "bagels",
+   "ANSWER": "Sunrise Bagel & Deli",
+   "geographic location": "kingston"
+  }
+ },
+ "2249bd75ef": {
+  "instruction": {
+   "type of food": "Chaat",
+   "ANSWER": "Chaat stories",
+   "geographic location": "Mumbai"
+  }
+ },
+ "3f953c2abd": {
+  "instruction": {
+   "geographic location": "kingston",
+   "type of food": "bagels",
+   "ANSWER": "Sunrise Bagel & Deli"
+  }
+ },
+ "e28088a328": {
+  "instruction": {
+   "geographic location": "Powai Mumbai",
+   "type of food": "Cake",
+   "ANSWER": "Mirchi And Mime"
+  }
+ },
+ "b2e09c0782": {
+  "instruction": {
+   "type of food": "Take Out",
+   "geographic location": "Sacramento"
+  }
+ },
+ "f154f13c97": {
+  "instruction": {
+   "geographic location": "Duluth, MN",
+   "type of food": "Vietnamese ",
+   "ANSWER": "Taste Of Saigon"
+  }
+ },
+ "d005d0df12": {
+  "instruction": {
+   "type of food": "Barbecue ",
+   "ANSWER": "Memphis Barbecue Company",
+   "geographic location": "Memphis "
+  }
+ },
+ "dccc5e19ff": {
+  "instruction": {
+   "geographic location": "Albuquerque",
+   "type of food": "Burgers",
+   "ANSWER": "Five Guys Burgers and Fries"
+  }
+ },
+ "46c46176b5": {
+  "instruction": {
+   "geographic location": "tallahassee",
+   "type of food": "asian",
+   "ANSWER": "Masa"
+  }
+ },
+ "27a627a880": {
+  "instruction": {
+   "geographic location": "poughkeepsie",
+   "type of food": "deli",
+   "ANSWER": "Bottomless Belly Deli"
+  }
+ },
+ "37d3fb9db2": {
+  "instruction": {
+   "type of food": "deli",
+   "ANSWER": "Bottomless Belly Deli",
+   "geographic location": "poughkeepsie"
+  }
+ },
+ "09292b9cbb": {
+  "instruction": {
+   "geographic location": "Sacramento",
+   "type of food": "Breakfast"
+  }
+ },
+ "c39d88c0f1": {
+  "instruction": {
+   "type of food": "Italian",
+   "ANSWER": "Il Vicino",
+   "geographic location": "Albuquerque"
+  }
+ },
+ "3a3055a496": {
+  "instruction": {
+   "type of food": "Korean",
+   "geographic location": "Sacramento"
+  }
+ },
+ "3111a704ee": {
+  "instruction": {
+   "type of food": "Seafood",
+   "ANSWER": "Pappadeaux Seafood Kitchen",
+   "geographic location": "Albuquerque"
+  }
+ },
+ "3349fb5f56": {
+  "instruction": {
+   "type of food": "Italian food ",
+   "ANSWER": "Pizza by The Bay",
+   "geographic location": "Mumbai"
+  }
+ },
+ "14d9f61af2": {
+  "instruction": {
+   "type of food": "Breakfast",
+   "ANSWER": "Vittoria Trattoria",
+   "geographic location": "Ottawa, ON"
+  }
+ },
+ "5887dcac19": {
+  "instruction": {
+   "geographic location": "Chennai",
+   "type of food": "Dinner",
+   "ANSWER": "Chili's  Express Avenue Mall, Royapettah"
+  }
+ },
+ "11c62e6054": {
+  "instruction": {
+   "type of food": "Pub Food",
+   "ANSWER": "Dubh Linn Irish Pub",
+   "geographic location": "Duluth, MN"
+  }
+ },
+ "33954dc4fa": {
+  "instruction": {
+   "Restaurant name": "Luke's Lobster",
+   "Restaurant address": "93 E 7th Street, New York, NY 10009"
+  }
+ },
+ "e4376b0c4e": {
+  "instruction": {
+   "geographic location": "Ottawa, ON",
+   "type of food": "Delis",
+   "ANSWER": "The Scone Witch"
+  }
+ },
+ "ccfb937684": {
+  "instruction": {
+   "Restaurant name": "Mary's Fish Camp",
+   "Restaurant address": "64 Charles Street, New York, NY 10014"
+  }
+ },
+ "6567206d8b": {
+  "instruction": {
+   "type of food": "Desserts & Bakes",
+   "ANSWER": "Bombay Kulfi, Besant Nagar",
+   "geographic location": "Chennai"
+  }
+ }
+}

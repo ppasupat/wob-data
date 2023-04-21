@@ -1,0 +1,1312 @@
+{
+ "42a0ccefdc": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "https://www.forrent.com/find/TX/metro-Houston/Houston/price-500+900/beds-2",
+   "location": "Houston, TX",
+   "price": "500-900"
+  }
+ },
+ "54e970ece5": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "https://www.forrent.com/find/LA/metro-New+Orleans/New+Orleans/price-1000+2500/beds-2",
+   "location": "New Orleans, LA",
+   "price": "1,000 - 2,500"
+  }
+ },
+ "aed95213d3": {
+  "instruction": {
+   "price": "1,200 - 1,500",
+   "ANSWER": "https://www.forrent.com/find/IL/metro-Chicago/Chicago/price-1200+1500/beds-1",
+   "location": "Chicago, IL",
+   "bed": "1"
+  }
+ },
+ "c354fa4051": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "5385, peachtree dunwoody Rd, Atlanta, GA",
+   "location": "Atlanta, GA",
+   "price": "1,000 - 1,300"
+  }
+ },
+ "278128bd6a": {
+  "instruction": {
+   "bed": "4",
+   "ANSWER": "Washington Heights 4BR Washington Heights 4BR , New York, NY 10032",
+   "location": "New York, NY",
+   "price": "2,000 - 2,499"
+  }
+ },
+ "27b2a20b20": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "Mansions At Moses Lake2211 34th Street, Texas City TX 77590",
+   "location": "Texas City, Texas",
+   "price": "500 - 1000"
+  }
+ },
+ "81777a8b14": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "Forest Isle Apartments",
+   "location": "New Orleans, LA",
+   "price": "1,000 - 1,249"
+  }
+ },
+ "77bbfa0411": {
+  "instruction": {
+   "price": "800 - 1,000",
+   "ANSWER": "10, Hill street, Newark, NJ",
+   "location": "Newark, NJ",
+   "bed": "2"
+  }
+ },
+ "31ecdc32d7": {
+  "instruction": {
+   "bed": "1-3",
+   "ANSWER": "good",
+   "location": "Pensacola",
+   "price": "1000-2000"
+  }
+ },
+ "9b358d5665": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "Civic Plaza Apartments",
+   "location": "Boise, ID",
+   "price": "400-699"
+  }
+ },
+ "13fecc2d89": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "IMT MetroPoint Apts., 11615  Firestone Blvd., Norwalk, CAS 90650",
+   "location": "Los Angeles, CA",
+   "price": "1,500 - 2,000"
+  }
+ },
+ "fee285c1d7": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "Toledo Club Apartments",
+   "location": "Port Charlotte, FL ",
+   "price": "1,000 - 1,249"
+  }
+ },
+ "c167cb1e97": {
+  "instruction": {
+   "location": "Seattle, WA",
+   "price": "1,250 - 1499",
+   "bed": "2"
+  }
+ },
+ "67e24511f4": {
+  "instruction": {
+   "bed": "2",
+   "location": "Dallas, TX",
+   "price": "1,200-1500"
+  }
+ },
+ "45259eef5c": {
+  "instruction": {
+   "price": "1,000 - 1249",
+   "location": "Portland, ME",
+   "bed": "1"
+  }
+ },
+ "d01da976b0": {
+  "instruction": {
+   "bed": "1",
+   "location": " Madison, WI ",
+   "price": "1,000 - 1249"
+  }
+ },
+ "1d0b1048aa": {
+  "instruction": {
+   "price": "1200-1500",
+   "ANSWER": "Vista Palms",
+   "location": "Miami, FL",
+   "bed": "3"
+  }
+ },
+ "2c1cf9866e": {
+  "instruction": {
+   "bed": "1-3",
+   "ANSWER": "good",
+   "location": "New Orleans",
+   "price": "1050-1250"
+  }
+ },
+ "2456d7745b": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "222 halleck St, San Francisco, CA",
+   "location": "San Francisco, CA",
+   "price": "2,500 - 3000"
+  }
+ },
+ "db78a4ebd2": {
+  "instruction": {
+   "bed": "1",
+   "location": "Washington, DC",
+   "price": "1,000 - 1249"
+  }
+ },
+ "b443e6ae94": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "Nashboro Village",
+   "location": "Nashville, TN",
+   "price": "700-1200"
+  }
+ },
+ "5e9d234a92": {
+  "instruction": {
+   "price": "1,500 - 3,500",
+   "ANSWER": "https://www.forrent.com/find/CA/metro-Los+Angeles/Los+Angeles/price-1500+3500/beds-3",
+   "location": "Los Angeles, CA",
+   "bed": "3"
+  }
+ },
+ "5b862b7963": {
+  "instruction": {
+   "price": "900-1,200",
+   "location": "Concord NC",
+   "bed": "2"
+  }
+ },
+ "5a96e1ec42": {
+  "instruction": {
+   "price": "1,000 - 1249",
+   "location": "Washington, DC",
+   "bed": "1"
+  }
+ },
+ "e534d6623d": {
+  "instruction": {
+   "price": "1,500 - 1999",
+   "location": "New York, NY",
+   "bed": "1"
+  }
+ },
+ "cf308b11d3": {
+  "instruction": {
+   "price": "2,000 - 5,000",
+   "ANSWER": "https://www.forrent.com/find/FL/metro-Miami/Miami+Beach/price-2000+3000/beds-3",
+   "location": "Miami Beach, FL",
+   "bed": "3"
+  }
+ },
+ "2e4785c5da": {
+  "instruction": {
+   "price": "1,000 - 2,500",
+   "ANSWER": "https://www.forrent.com/find/LA/metro-New+Orleans/New+Orleans/price-1000+2500/beds-2",
+   "location": "New Orleans, LA",
+   "bed": "2"
+  }
+ },
+ "bfd99c0085": {
+  "instruction": {
+   "bed": "3",
+   "ANSWER": "https://www.forrent.com/find/CA/metro-Los+Angeles/Los+Angeles/price-1500+3500/beds-3",
+   "location": "Los Angeles, CA",
+   "price": "1,500 - 3,500"
+  }
+ },
+ "67432dc111": {
+  "instruction": {
+   "bed": "3",
+   "ANSWER": "174 BEVERLEE 174 BEVERLEE , Westmorland, CA 92281",
+   "location": "Westmorland, CA",
+   "price": "1,000-1,249"
+  }
+ },
+ "99521da8f3": {
+  "instruction": {
+   "bed": "3",
+   "ANSWER": "2317 30th Avenue, Texas City Tx 77590",
+   "location": "Texas City, Texas",
+   "price": "1000 - 1500"
+  }
+ },
+ "14ebbb6ff1": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "Gardens at West",
+   "location": "San Antonio, TX",
+   "price": "900-1500"
+  }
+ },
+ "50438331a8": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "Commonwealth at York Apartments",
+   "location": "Newport News,VA",
+   "price": "1,000 - 1,249"
+  }
+ },
+ "a0cbf3061d": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "661 covington drive, Detroit, MI",
+   "location": "Detroit, MI",
+   "price": "300 - 500"
+  }
+ },
+ "d272a8332e": {
+  "instruction": {
+   "bed": "2",
+   "location": "Austin, TX",
+   "price": "1,200-1,500"
+  }
+ },
+ "0a9276583f": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "https://www.forrent.com/find/TX/metro-Houston/Texas+City/price-700+1000/beds-2",
+   "location": "Texas City, TX",
+   "price": "600 - 1,000"
+  }
+ },
+ "ba58fa92b5": {
+  "instruction": {
+   "bed": "2",
+   "location": "Monroe, LA",
+   "price": "800-1,200"
+  }
+ },
+ "16ced5ebaa": {
+  "instruction": {
+   "bed": "3",
+   "ANSWER": "University Apartments",
+   "location": "Portsmouth, VA ",
+   "price": "1,250 - 1,499"
+  }
+ },
+ "bd21efa548": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "1427 11th Ave, Seattle, WA",
+   "location": "Seattle, WA",
+   "price": "3,000 - 5,000"
+  }
+ },
+ "6c881aa72b": {
+  "instruction": {
+   "price": "700-1200",
+   "ANSWER": "Nashboro Village",
+   "location": "Nashville, TN",
+   "bed": "2"
+  }
+ },
+ "c551627bcd": {
+  "instruction": {
+   "price": "3,000 - 5,000",
+   "ANSWER": "1427 11th Ave, Seattle, WA",
+   "location": "Seattle, WA",
+   "bed": "2"
+  }
+ },
+ "178c782563": {
+  "instruction": {
+   "bed": "3",
+   "location": "Texas City, TX",
+   "price": "1,250 - 1499"
+  }
+ },
+ "bf52ea32b9": {
+  "instruction": {
+   "price": "600 - 1,000",
+   "ANSWER": "https://www.forrent.com/find/TX/metro-Houston/Texas+City/price-700+1000/beds-2",
+   "location": "Texas City, TX",
+   "bed": "2"
+  }
+ },
+ "7d239a9b7b": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "Westchase Ranch",
+   "location": "Houston, TX",
+   "price": "600-1000"
+  }
+ },
+ "8bc3b541ab": {
+  "instruction": {
+   "price": "700 - 1,000",
+   "ANSWER": "4713 cottage grove Rd, Madison, WI",
+   "location": "Madison, WI",
+   "bed": "2"
+  }
+ },
+ "4a87835447": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "https://www.forrent.com/find/MI/metro-Detroit/Detroit/price-1400+2500/beds-2",
+   "location": "Detroit, MI",
+   "price": "1,400 - 2,500"
+  }
+ },
+ "aa5ed2cc9d": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "Towne At Glendale, 1717 N. Verdugo Rd., Glendale, Ca",
+   "location": "Los Angeles, CA",
+   "price": "2000 - 2500"
+  }
+ },
+ "780e7bd7e3": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "Sunrise Harbor",
+   "location": "Fort Lauderdale, FL",
+   "price": "1500-2500"
+  }
+ },
+ "8f268cb17a": {
+  "instruction": {
+   "bed": "3",
+   "ANSWER": "Aspens at Belvedere Apartments",
+   "location": "Seatac, WA",
+   "price": "2,000 - 2,499"
+  }
+ },
+ "51a50a93cf": {
+  "instruction": {
+   "price": "700-1200",
+   "ANSWER": "SouthRidge Apartments",
+   "location": "Kansas City, KS",
+   "bed": "3"
+  }
+ },
+ "46b46b241d": {
+  "instruction": {
+   "price": "1050-1250",
+   "ANSWER": "good",
+   "location": "New Orleans",
+   "bed": "1-3"
+  }
+ },
+ "2dfa182ba8": {
+  "instruction": {
+   "bed": "3",
+   "ANSWER": "Arium Pine Lakes Apartments",
+   "location": "Port Saint Lucie, FL",
+   "price": "1,500 - 1,999"
+  }
+ },
+ "36bbd8bab5": {
+  "instruction": {
+   "bed": "2",
+   "location": "Concord NC",
+   "price": "900-1,200"
+  }
+ },
+ "004508ff5e": {
+  "instruction": {
+   "price": "800-1000",
+   "ANSWER": "Arioso at Northeast Heights Apartments",
+   "location": "Albuquerque, NM",
+   "bed": "3"
+  }
+ },
+ "928c3e2428": {
+  "instruction": {
+   "price": "1,400 - 2,500",
+   "ANSWER": "https://www.forrent.com/find/MI/metro-Detroit/Detroit/price-1400+2500/beds-2",
+   "location": "Detroit, MI",
+   "bed": "2"
+  }
+ },
+ "8153b208a7": {
+  "instruction": {
+   "price": "2,000 - 7,000",
+   "ANSWER": "https://www.forrent.com/find/CA/metro-San+Francisco+Bay/San+Francisco/price-2000+7000/beds-2",
+   "location": "San Francisco, CA",
+   "bed": "2"
+  }
+ },
+ "90e0247441": {
+  "instruction": {
+   "price": "500-1,000",
+   "location": "Shreveport, LA",
+   "bed": "2"
+  }
+ },
+ "5927f36ae1": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "Chenal Place",
+   "location": "Little Rock, AR",
+   "price": "400-700"
+  }
+ },
+ "89b78257b2": {
+  "instruction": {
+   "location": "Boston, MA",
+   "price": "1,000 - 1249",
+   "bed": "1"
+  }
+ },
+ "4298d74794": {
+  "instruction": {
+   "bed": "1",
+   "location": "New York, NY",
+   "price": "1,500 - 1999"
+  }
+ },
+ "b67391348d": {
+  "instruction": {
+   "price": "1250-1800",
+   "ANSWER": "GOOD",
+   "location": "Marysville",
+   "bed": "1-3"
+  }
+ },
+ "bf5d0f3d11": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "Capital Place",
+   "location": "Phoenix, AZ",
+   "price": "1000-2000"
+  }
+ },
+ "1790572438": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "Colonial Pointe Apartments",
+   "location": "Orlando, Fl",
+   "price": "1,250 - 1,499"
+  }
+ },
+ "03e76720b9": {
+  "instruction": {
+   "price": "400-699",
+   "ANSWER": "Civic Plaza Apartments",
+   "location": "Boise, ID",
+   "bed": "1"
+  }
+ },
+ "849043572c": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "The Landings Apartments",
+   "location": "Albany, NY",
+   "price": "1,250 - 1,499"
+  }
+ },
+ "65ada4240c": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "Partenza On Highlands 1320 E. Highland Ave. Phoenix AZ 85014",
+   "location": "Phoenix, AZ",
+   "price": "1000 - 1500"
+  }
+ },
+ "a02289241f": {
+  "instruction": {
+   "price": "700 - 1,000",
+   "ANSWER": "https://www.forrent.com/find/IA/metro-Southeast+Iowa/Coralville/price-700+1000/beds-2",
+   "location": "Coralville, IA",
+   "bed": "2"
+  }
+ },
+ "697db52cad": {
+  "instruction": {
+   "bed": "1-3",
+   "ANSWER": "good",
+   "location": "Austin",
+   "price": "839-1000"
+  }
+ },
+ "c58f6b702f": {
+  "instruction": {
+   "location": "Hollywood, CA",
+   "price": "2,000 - 1449",
+   "bed": "2"
+  }
+ },
+ "b7632f75da": {
+  "instruction": {
+   "bed": "2",
+   "location": "Shreveport, LA",
+   "price": "500-1,000"
+  }
+ },
+ "f032bd7282": {
+  "instruction": {
+   "price": "800-1500",
+   "ANSWER": "8101 South Justine Street",
+   "location": "Chicago, IL",
+   "bed": "2"
+  }
+ },
+ "545a2655a2": {
+  "instruction": {
+   "bed": "2",
+   "location": "Atlanta, GA",
+   "price": "1,200-1,500"
+  }
+ },
+ "4b2b3fb39e": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "https://www.forrent.com/find/CA/metro-San+Francisco+Bay/San+Francisco/price-2000+7000/beds-2",
+   "location": "San Francisco, CA",
+   "price": "2,000 - 7,000"
+  }
+ },
+ "aea8ac77cb": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "High Pointe Club",
+   "location": "Harrisburg, PA",
+   "price": "700-1500"
+  }
+ },
+ "f5ee4e7ff0": {
+  "instruction": {
+   "bed": "2",
+   "location": "Hollywood, CA",
+   "price": "2,000 - 1449"
+  }
+ },
+ "9ba29514e5": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "Karcher Artspace Lofts, 405 Washington St. Waukegan, Il 60085 ",
+   "location": "Waukegan, Il",
+   "price": "500 - 1000"
+  }
+ },
+ "82e49ba46c": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "Somerset Place Apartments",
+   "location": "Chicago, IL",
+   "price": "1,000 - 1,249"
+  }
+ },
+ "d09cf2ff83": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "33 Gold St #212 33 Gold St #212, New York, NY 10038",
+   "location": "New York, NY",
+   "price": "2,000-2,499"
+  }
+ },
+ "e753c82519": {
+  "instruction": {
+   "bed": "1",
+   "location": "Boston, MA",
+   "price": "1,000 - 1249"
+  }
+ },
+ "67a1c603f7": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "Merydian at Murrayhill",
+   "location": "Beaverton, OR",
+   "price": "1000-1500"
+  }
+ },
+ "a1edf0bdb8": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "1334 Eastern Parkway #3D 1334 Eastern Parkway #3D, New York, NY 11233",
+   "location": "New York, NY",
+   "price": "2,000-2,499"
+  }
+ },
+ "d3d01061e5": {
+  "instruction": {
+   "price": "2,000 - 1449",
+   "location": "Hollywood, CA",
+   "bed": "2"
+  }
+ },
+ "994acd3747": {
+  "instruction": {
+   "price": "800-1,200",
+   "location": "Monroe, LA",
+   "bed": "2"
+  }
+ },
+ "eb6d8938cf": {
+  "instruction": {
+   "bed": "1-3",
+   "ANSWER": "good",
+   "location": "Hawthorne",
+   "price": "1995-2500"
+  }
+ },
+ "ba9443a69c": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "Camelback Courtyard, 3802 N 28thSt. Phoenix AZ 85016",
+   "location": "Phoenix, Az",
+   "price": "500 - 1000"
+  }
+ },
+ "65d90d8c3a": {
+  "instruction": {
+   "bed": "2",
+   "location": "Chicago, IL",
+   "price": "1,250 - 1499"
+  }
+ },
+ "92a4aa84d7": {
+  "instruction": {
+   "price": "750-2500",
+   "ANSWER": "good",
+   "location": "Richmond",
+   "bed": "1-3"
+  }
+ },
+ "78e5a61b65": {
+  "instruction": {
+   "bed": "4",
+   "ANSWER": "ARIUM Metrowest 2450 Lake Debra Drive, Orlando, FL 32835",
+   "location": "Orlando, FL",
+   "price": "1,000-1,249"
+  }
+ },
+ "da598c025f": {
+  "instruction": {
+   "bed": "1-3",
+   "ANSWER": "good",
+   "location": "Makanda",
+   "price": "425-850"
+  }
+ },
+ "5564292758": {
+  "instruction": {
+   "price": "1,250 - 1499",
+   "location": "Seattle, WA",
+   "bed": "2"
+  }
+ },
+ "1071ac8239": {
+  "instruction": {
+   "price": "800-1,200",
+   "location": "Augusta, GA",
+   "bed": "3"
+  }
+ },
+ "613643e86c": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "305 Clarkson Ave. #3 Brooklyn,NY 11226",
+   "location": "Brooklyn, NY",
+   "price": "1500 - 2000"
+  }
+ },
+ "33a93185d0": {
+  "instruction": {
+   "bed": "3",
+   "location": "Charlotte, NC",
+   "price": "800-1,200"
+  }
+ },
+ "8984b0b92e": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "Sunset Summit",
+   "location": "Portland, OR",
+   "price": "1000-2000"
+  }
+ },
+ "3ee2163735": {
+  "instruction": {
+   "price": "1,000 - 1,500",
+   "ANSWER": "3078 terrace street, Pittsburgh, PA",
+   "location": "Pittsburgh, PA",
+   "bed": "1"
+  }
+ },
+ "f11363e061": {
+  "instruction": {
+   "bed": "2",
+   "location": "Seattle, WA",
+   "price": "1,250 - 1499"
+  }
+ },
+ "9af84acee5": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "9000 avenue pointe circle, Orlando, FL",
+   "location": "Orlando, FL",
+   "price": "1,000 - 1,300"
+  }
+ },
+ "9492ff0b6e": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "1710 Cavin Dr. Great Lakes Il 60088",
+   "location": "Great Lakes, Il",
+   "price": "1000 - 1500"
+  }
+ },
+ "fa7c82b72a": {
+  "instruction": {
+   "price": "1,000 - 1249",
+   "location": "Boston, MA",
+   "bed": "1"
+  }
+ },
+ "9bdc4ef50f": {
+  "instruction": {
+   "price": "1,200-1,500",
+   "location": "Atlanta, GA",
+   "bed": "2"
+  }
+ },
+ "8816612fc0": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "21 Furnace St 21 Furnace St , Akron, OH 44308",
+   "location": "North Canton, OH",
+   "price": "1,500-1,999"
+  }
+ },
+ "98e568d173": {
+  "instruction": {
+   "price": "600-1000",
+   "ANSWER": "Westchase Ranch",
+   "location": "Houston, TX",
+   "bed": "1"
+  }
+ },
+ "caf6179488": {
+  "instruction": {
+   "price": "500-900",
+   "ANSWER": "https://www.forrent.com/find/TX/metro-Houston/Houston/price-500+900/beds-2",
+   "location": "Houston, TX",
+   "bed": "2"
+  }
+ },
+ "ac2f562ba3": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "8101 South Justine Street",
+   "location": "Chicago, IL",
+   "price": "800-1500"
+  }
+ },
+ "17b20e7856": {
+  "instruction": {
+   "price": "800-1,200",
+   "location": "Lake Charles, LA",
+   "bed": "2"
+  }
+ },
+ "348ae757ac": {
+  "instruction": {
+   "location": "Portland, ME",
+   "price": "1,000 - 1249",
+   "bed": "1"
+  }
+ },
+ "ff5a0a8a1d": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "4713 cottage grove Rd, Madison, WI",
+   "location": "Madison, WI",
+   "price": "700 - 1,000"
+  }
+ },
+ "78a42a9bbc": {
+  "instruction": {
+   "location": "Chicago, IL",
+   "price": "1,250 - 1499",
+   "bed": "2"
+  }
+ },
+ "1334f338bb": {
+  "instruction": {
+   "bed": "3",
+   "location": "Augusta, GA",
+   "price": "800-1,200"
+  }
+ },
+ "b6dd1cbdbd": {
+  "instruction": {
+   "price": "839-1000",
+   "ANSWER": "good",
+   "location": "Austin",
+   "bed": "1-3"
+  }
+ },
+ "95141b45a2": {
+  "instruction": {
+   "price": "1,000 - 1,300",
+   "ANSWER": "9000 avenue pointe circle, Orlando, FL",
+   "location": "Orlando, FL",
+   "bed": "1"
+  }
+ },
+ "801a0e078f": {
+  "instruction": {
+   "price": "1,000 - 1249",
+   "location": " Madison, WI ",
+   "bed": "1"
+  }
+ },
+ "7f459b2355": {
+  "instruction": {
+   "bed": "3",
+   "ANSWER": "Vista Palms",
+   "location": "Miami, FL",
+   "price": "1200-1500"
+  }
+ },
+ "685eef8480": {
+  "instruction": {
+   "price": "3,000 - 3,500",
+   "ANSWER": "https://www.forrent.com/find/DC/metro-Washington+DC/Washington/price-3000+3500/beds-3",
+   "location": "Washington, DC",
+   "bed": "3"
+  }
+ },
+ "eb0c81a18d": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "1434 N Wayside Drive,1434 N Wayside Drive , Texas City, TX 77590",
+   "location": "Texas City, TX",
+   "price": "1,000-1,249"
+  }
+ },
+ "930c27a573": {
+  "instruction": {
+   "price": "1,250 - 1499",
+   "location": "Chicago, IL",
+   "bed": "2"
+  }
+ },
+ "dce019838a": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "Springhill Ridge",
+   "location": "Omaha, NE",
+   "price": "600-1000"
+  }
+ },
+ "ff9ace766b": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "Bellevue Crossing",
+   "location": "Bend, OR",
+   "price": "1000-1500"
+  }
+ },
+ "b6a8e3af73": {
+  "instruction": {
+   "bed": "3",
+   "ANSWER": "Knightsbridge at StoneyBrook 2802 Cheval Street, Orlando, FL 32828",
+   "location": "Orlando, FL",
+   "price": "1,000-1,249"
+  }
+ },
+ "c3e9c42464": {
+  "instruction": {
+   "price": "300 - 500",
+   "ANSWER": "661 covington drive, Detroit, MI",
+   "location": "Detroit, MI",
+   "bed": "1"
+  }
+ },
+ "6003f0bac9": {
+  "instruction": {
+   "price": "425-850",
+   "ANSWER": "good",
+   "location": "Makanda",
+   "bed": "1-3"
+  }
+ },
+ "7064ddbee5": {
+  "instruction": {
+   "price": "1995-2500",
+   "ANSWER": "good",
+   "location": "Hawthorne",
+   "bed": "1-3"
+  }
+ },
+ "11f8d167e8": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "10, Hill street, Newark, NJ",
+   "location": "Newark, NJ",
+   "price": "800 - 1,000"
+  }
+ },
+ "adc5ff3f00": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "Grandview Place",
+   "location": "Vancouver, WA",
+   "price": "800-1500"
+  }
+ },
+ "587a1ee693": {
+  "instruction": {
+   "bed": "3",
+   "ANSWER": "https://www.forrent.com/find/FL/metro-Miami/Miami+Beach/price-2000+3000/beds-3",
+   "location": "Miami Beach, FL",
+   "price": "2,000 - 5,000"
+  }
+ },
+ "23725b09a3": {
+  "instruction": {
+   "price": "1,000 - 1,300",
+   "ANSWER": "5385, peachtree dunwoody Rd, Atlanta, GA",
+   "location": "Atlanta, GA",
+   "bed": "2"
+  }
+ },
+ "fb328a61bb": {
+  "instruction": {
+   "bed": "3",
+   "ANSWER": "Arioso at Northeast Heights Apartments",
+   "location": "Albuquerque, NM",
+   "price": "800-1000"
+  }
+ },
+ "021994fe1e": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "Colonial Pointe 2300 Econ Cir, Orlando, FL 32817",
+   "location": "Orlando, FL",
+   "price": "1,000-1,249"
+  }
+ },
+ "3542efca20": {
+  "instruction": {
+   "price": "1,500 - 1999",
+   "location": "Orlando, Fl",
+   "bed": "1"
+  }
+ },
+ "2ffacbe7d5": {
+  "instruction": {
+   "location": "Texas City, TX",
+   "price": "1,250 - 1499",
+   "bed": "3"
+  }
+ },
+ "611fdd0ec0": {
+  "instruction": {
+   "price": "750-1500",
+   "ANSWER": "good",
+   "location": "Marietta",
+   "bed": "1-3"
+  }
+ },
+ "a5006870de": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "Sierra Vista Apartments",
+   "location": "South Lake Tahoe",
+   "price": "500-1500"
+  }
+ },
+ "b51a9f9bd3": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "911 leadenhall street, Baltimore, MD",
+   "location": "Baltimore, MD",
+   "price": "800 - 1,000"
+  }
+ },
+ "6270af3cba": {
+  "instruction": {
+   "bed": "1-3",
+   "ANSWER": "good",
+   "location": "Richmond",
+   "price": "750-2500"
+  }
+ },
+ "23fe687943": {
+  "instruction": {
+   "price": "1,000 - 1,500",
+   "ANSWER": "909 texas ave, Houston, TX",
+   "location": "Houston, TX",
+   "bed": "2"
+  }
+ },
+ "4a014ef872": {
+  "instruction": {
+   "bed": "3",
+   "ANSWER": "Vista Palms 361 NE 191st St, Miami, FL 33179",
+   "location": "North Miami, FL",
+   "price": "1,250 - 1,499"
+  }
+ },
+ "22a47d721c": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "3078 terrace street, Pittsburgh, PA",
+   "location": "Pittsburgh, PA",
+   "price": "1,000 - 1,500"
+  }
+ },
+ "571c395dd6": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "Santo Tomas Apts. 4318 Santo Tomas Dr. Baldwin Hills LA",
+   "location": "Los Angeles,CA",
+   "price": "500 - 1,000"
+  }
+ },
+ "6157bb96bf": {
+  "instruction": {
+   "price": "1,200-1,500",
+   "location": "Austin, TX",
+   "bed": "2"
+  }
+ },
+ "b520c266d6": {
+  "instruction": {
+   "price": "350-500",
+   "ANSWER": "good",
+   "location": "atlas",
+   "bed": "1-3"
+  }
+ },
+ "e317b703fd": {
+  "instruction": {
+   "location": " Madison, WI ",
+   "price": "1,000 - 1249",
+   "bed": "1"
+  }
+ },
+ "dc3d72a635": {
+  "instruction": {
+   "bed": "3",
+   "ANSWER": "Edenbridge Apartments",
+   "location": "Orland Hills, IL ",
+   "price": "1,500 - 1,999 "
+  }
+ },
+ "908bc02cfe": {
+  "instruction": {
+   "price": "800-1,200",
+   "location": "Charlotte, NC",
+   "bed": "3"
+  }
+ },
+ "aa9fbba342": {
+  "instruction": {
+   "bed": "1-3",
+   "ANSWER": "good",
+   "location": "New York",
+   "price": "3000-10000"
+  }
+ },
+ "c7331731e5": {
+  "instruction": {
+   "location": "New York, NY",
+   "price": "1,500 - 1999",
+   "bed": "1"
+  }
+ },
+ "82c9ef399f": {
+  "instruction": {
+   "bed": "3",
+   "ANSWER": "https://www.forrent.com/find/DC/metro-Washington+DC/Washington/price-3000+3500/beds-3",
+   "location": "Washington, DC",
+   "price": "3,000 - 3,500"
+  }
+ },
+ "8980d2d1d7": {
+  "instruction": {
+   "bed": "3",
+   "ANSWER": "Forest Woods Apartments",
+   "location": "St. Louis, MO",
+   "price": "600-1200"
+  }
+ },
+ "a73c9e47cd": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "https://www.forrent.com/find/IL/metro-Chicago/Chicago/price-1200+1500/beds-1",
+   "location": "Chicago, IL",
+   "price": "1,200 - 1,500"
+  }
+ },
+ "f6ab1985ca": {
+  "instruction": {
+   "bed": "3",
+   "ANSWER": "SouthRidge Apartments",
+   "location": "Kansas City, KS",
+   "price": "700-1200"
+  }
+ },
+ "ea5e09b39b": {
+  "instruction": {
+   "bed": "1-3",
+   "ANSWER": "good",
+   "location": "Marietta",
+   "price": "750-1500"
+  }
+ },
+ "5f6f7781d0": {
+  "instruction": {
+   "bed": "1",
+   "location": "Orlando, Fl",
+   "price": "1,500 - 1999"
+  }
+ },
+ "889c0b0763": {
+  "instruction": {
+   "bed": "1-3",
+   "ANSWER": "GOOD",
+   "location": "Marysville",
+   "price": "1250-1800"
+  }
+ },
+ "20c1f7aa28": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "909 texas ave, Houston, TX",
+   "location": "Houston, TX",
+   "price": "1,000 - 1,500"
+  }
+ },
+ "a62ef25dcf": {
+  "instruction": {
+   "bed": "2",
+   "ANSWER": "https://www.forrent.com/find/IA/metro-Southeast+Iowa/Coralville/price-700+1000/beds-2",
+   "location": "Coralville, IA",
+   "price": "700 - 1,000"
+  }
+ },
+ "3c0427822c": {
+  "instruction": {
+   "price": "1000-2000",
+   "ANSWER": "good",
+   "location": "Pensacola",
+   "bed": "1-3"
+  }
+ },
+ "4cf1d220e2": {
+  "instruction": {
+   "price": "1,200-1500",
+   "location": "Dallas, TX",
+   "bed": "2"
+  }
+ },
+ "8b2fb69337": {
+  "instruction": {
+   "location": "Washington, DC",
+   "price": "1,000 - 1249",
+   "bed": "1"
+  }
+ },
+ "1a40f18e7e": {
+  "instruction": {
+   "bed": "2",
+   "location": "Lake Charles, LA",
+   "price": "800-1,200"
+  }
+ },
+ "bd29448c40": {
+  "instruction": {
+   "bed": "1",
+   "ANSWER": "Lions Park Apartments",
+   "location": "Elk River, MN",
+   "price": "700-1400"
+  }
+ },
+ "501c09c5eb": {
+  "instruction": {
+   "price": "1,250 - 1499",
+   "location": "Texas City, TX",
+   "bed": "3"
+  }
+ },
+ "d275637340": {
+  "instruction": {
+   "bed": "1-3",
+   "ANSWER": "good",
+   "location": "atlas",
+   "price": "350-500"
+  }
+ },
+ "ab5f3d6bc4": {
+  "instruction": {
+   "price": "800 - 1,000",
+   "ANSWER": "911 leadenhall street, Baltimore, MD",
+   "location": "Baltimore, MD",
+   "bed": "2"
+  }
+ },
+ "e7f129f4ec": {
+  "instruction": {
+   "bed": "3",
+   "location": "El Paso, TX",
+   "price": "600-900"
+  }
+ },
+ "f0c22eeb83": {
+  "instruction": {
+   "price": "2,500 - 3000",
+   "ANSWER": "222 halleck St, San Francisco, CA",
+   "location": "San Francisco, CA",
+   "bed": "2"
+  }
+ },
+ "8135f54349": {
+  "instruction": {
+   "price": "600-900",
+   "location": "El Paso, TX",
+   "bed": "3"
+  }
+ },
+ "0d00358cb1": {
+  "instruction": {
+   "price": "600-1000",
+   "ANSWER": "Springhill Ridge",
+   "location": "Omaha, NE",
+   "bed": "2"
+  }
+ },
+ "b43bee1569": {
+  "instruction": {
+   "location": "Orlando, Fl",
+   "price": "1,500 - 1999",
+   "bed": "1"
+  }
+ },
+ "5650d2a63f": {
+  "instruction": {
+   "price": "400-700",
+   "ANSWER": "Chenal Place",
+   "location": "Little Rock, AR",
+   "bed": "1"
+  }
+ },
+ "289ed7ad69": {
+  "instruction": {
+   "price": "600-1200",
+   "ANSWER": "Forest Woods Apartments",
+   "location": "St. Louis, MO",
+   "bed": "3"
+  }
+ },
+ "f59f307ca9": {
+  "instruction": {
+   "price": "3000-10000",
+   "ANSWER": "good",
+   "location": "New York",
+   "bed": "1-3"
+  }
+ },
+ "507d5c45c4": {
+  "instruction": {
+   "bed": "1",
+   "location": "Portland, ME",
+   "price": "1,000 - 1249"
+  }
+ }
+}

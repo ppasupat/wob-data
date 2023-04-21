@@ -1,0 +1,62 @@
+{
+ "bf9d8b18f9": {
+  "instruction": {
+   "geographical location": "Queens, NY",
+   "bands": "Bon Jovi"
+  }
+ },
+ "453f9c17e9": {
+  "instruction": {
+   "geographical location": "Denver, CO",
+   "bands": "Kings of Leon"
+  }
+ },
+ "603592ede9": {
+  "instruction": {
+   "geographical location": "Los Angeles, CA",
+   "bands": "The Chainsmokers"
+  }
+ },
+ "488c7fc6a0": {
+  "instruction": {
+   "geographical location": "San Diego, CA",
+   "bands": "U2"
+  }
+ },
+ "0465fa8fea": {
+  "instruction": {
+   "geographical location": "Seattle, WA",
+   "bands": "Ariana Grande"
+  }
+ },
+ "373c4b2a57": {
+  "instruction": {
+   "geographical location": "The Knitting Factory, Spokane, WA",
+   "bands": "Hinder"
+  }
+ },
+ "683933d954": {
+  "instruction": {
+   "geographical location": "Portland, Oregan",
+   "bands": "Def Leppard"
+  }
+ },
+ "afbc733fbf": {
+  "instruction": {
+   "geographical location": "Electric Factory, Philadelphia, PA",
+   "bands": "Mac DeMarco"
+  }
+ },
+ "c0ae06f388": {
+  "instruction": {
+   "geographical location": "The Gorge Amphitheater, WA",
+   "bands": "Vince Staples"
+  }
+ },
+ "76afc5deef": {
+  "instruction": {
+   "geographical location": "Boston, MA",
+   "bands": "Justin Bieber"
+  }
+ }
+}

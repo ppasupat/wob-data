@@ -1,0 +1,2288 @@
+{
+ "eb9a7e58f5": {
+  "instruction": {
+   "value": "150",
+   "currency1": "MYR - Malaysian Ringgit",
+   "ANSWER": "709.213",
+   "currency2": "EUR - Euro"
+  },
+  "spans": [
+   {
+    "text": "709.536",
+    "html": "709.536",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=150&From=EUR&To=MYR"
+   }
+  ]
+ },
+ "2f11525854": {
+  "instruction": {
+   "value": "70",
+   "currency1": "COP - Colombian Peso",
+   "currency2": "USD - US Dollar"
+  },
+  "spans": [
+   {
+    "text": "201,880.00",
+    "html": "201,880.00",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=70&From=USD&To=COP"
+   }
+  ]
+ },
+ "ce051eb811": {
+  "instruction": {
+   "value": "1",
+   "currency1": "MMK - Burmese Kyat",
+   "currency2": "LSL - Basotho Loti",
+   "ANSWER": "104.04"
+  }
+ },
+ "f9533a4249": {
+  "instruction": {
+   "value": "100",
+   "currency1": "ANG-Dutch Guilder",
+   "ANSWER": "1.88360ANG",
+   "currency2": "LRD-Liberian Dollar"
+  },
+  "spans": [
+   {
+    "text": "1.88413",
+    "html": "1.88413",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=100&From=LRD&To=ANG"
+   }
+  ]
+ },
+ "eae02ea60b": {
+  "instruction": {
+   "value": "50",
+   "currency1": "BGN-Bulgarian Lev",
+   "currency2": "GBP-British Pound",
+   "ANSWER": "114.374BGN"
+  }
+ },
+ "5f1427ed9f": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/div[3]/span",
+    "text": "1 XAF = 0.110286 HTG",
+    "html": "1 XAF = 0.110286 HTG",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=1&From=HTG&To=XAF"
+   }
+  ],
+  "instruction": {
+   "value": "50",
+   "currency2": "HTG Haitian gourde",
+   "ANSWER": "50 HTG =453.202XAF Haitian Gourde 1 HTG = 9.06405 XAF \u2194Central African CFA Franc BEAC 1 XAF = 0.110326 HTG",
+   "currency1": "XAF Central African CFA franc BEAC"
+  }
+ },
+ "73f85345be": {
+  "instruction": {
+   "value": "10",
+   "currency1": "SGD - Singapore Dollar",
+   "currency2": "GBP - British Pound",
+   "ANSWER": "17.6062"
+  }
+ },
+ "3b775a5b20": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/div[3]/span",
+    "text": "1 AUD = 0.768251 USD",
+    "html": "1 AUD = 0.768251 USD",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=30&From=USD&To=AUD"
+   }
+  ],
+  "instruction": {
+   "value": "30",
+   "currency2": "USD - US Dollar",
+   "ANSWER": "39.1441",
+   "currency1": "AUD - Australian Dollar"
+  }
+ },
+ "8aa4096f3f": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/div[3]/span",
+    "text": "1 QAR = 0.258654 EUR",
+    "html": "1 QAR = 0.258654 EUR",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=100&From=EUR&To=QAR"
+   }
+  ],
+  "instruction": {
+   "value": "100",
+   "currency2": "EUR European euro",
+   "ANSWER": "100 EUR =386.578QAR Euro 1 EUR = 3.86578 QAR \u2194Qatari Riyal 1 QAR = 0.258680 EUR",
+   "currency1": "QAR Qatari riyal"
+  }
+ },
+ "6f110ede36": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/div[3]/span",
+    "text": "1 NPR = 69.6047 SLL",
+    "html": "1 NPR = 69.6047 SLL",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=1&From=SLL&To=NPR"
+   }
+  ],
+  "instruction": {
+   "value": "50",
+   "currency2": "SLL - Sierra Leonean Leone",
+   "ANSWER": "3,544.12",
+   "currency1": "NPR - Nepalese Rupee"
+  }
+ },
+ "4529e7a2a9": {
+  "instruction": {
+   "value": "65",
+   "currency1": "CUP - Cuban Peso",
+   "currency2": "GHS - Ghanaian Cedi",
+   "ANSWER": "380.24"
+  }
+ },
+ "a49c5dd183": {
+  "instruction": {
+   "value": "2",
+   "currency1": "USD - US Dollar",
+   "currency2": "GBP - British Pound",
+   "ANSWER": "1.61147GBP"
+  }
+ },
+ "7cd92cabff": {
+  "instruction": {
+   "value": "4,000",
+   "currency1": "USD - US Dollar",
+   "currency2": "IQD - Iraqi Dinar",
+   "ANSWER": "3.38"
+  }
+ },
+ "ae455a285c": {
+  "instruction": {
+   "value": "50",
+   "currency1": "USD-US DOLLAR",
+   "currency2": "AUD-Australian Dollar",
+   "ANSWER": "38.3325USD"
+  }
+ },
+ "63c95221e4": {
+  "instruction": {
+   "value": "90",
+   "currency1": "OMR - Omani Rial",
+   "currency2": "USD - US Dollar"
+  },
+  "spans": [
+   {
+    "text": "34.6728",
+    "html": "34.6728",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=90&From=USD&To=OMR"
+   },
+   {
+    "text": "34.6728",
+    "html": "34.6728",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=90&From=USD&To=OMR"
+   },
+   {
+    "text": "34.6728",
+    "html": "34.6728",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=90&From=USD&To=OMR"
+   },
+   {
+    "text": "34.6728",
+    "html": "34.6728",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=90&From=USD&To=OMR"
+   },
+   {
+    "text": "34.6728",
+    "html": "34.6728",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=90&From=USD&To=OMR"
+   },
+   {
+    "text": "34.6728",
+    "html": "34.6728",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=90&From=USD&To=OMR"
+   },
+   {
+    "text": "34.6728",
+    "html": "34.6728",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=90&From=USD&To=OMR"
+   }
+  ]
+ },
+ "85fa1b1d4d": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/div[3]/span",
+    "text": "1 ISK = 1.15107 JMD",
+    "html": "1 ISK = 1.15107 JMD",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=60&From=JMD&To=ISK"
+   }
+  ],
+  "instruction": {
+   "value": "60",
+   "currency2": "JMD Jamaican dollar",
+   "ANSWER": "60 JMD =52.1914ISK Jamaican Dollar 1 JMD = 0.869856 ISK \u2194Icelandic Krona 1 ISK = 1.14962 JMD",
+   "currency1": "ISK Icelandic krona"
+  }
+ },
+ "535c2b3a8f": {
+  "instruction": {
+   "value": "500",
+   "currency1": "ZMW - Zambian Kwacha",
+   "currency2": "TMT - Turkmenistani Manat",
+   "ANSWER": "179.349"
+  }
+ },
+ "aefb6f57c3": {
+  "instruction": {
+   "value": "10",
+   "currency1": "SHP Saint Helena pound",
+   "currency2": "TWD New Taiwan dollar",
+   "ANSWER": "10 TWD =0.260798SHP Taiwan New Dollar 1 TWD = 0.0260798 SHP \u2194Saint Helenian Pound 1 SHP = 38.3438 TWD"
+  }
+ },
+ "695da8ff46": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "0.0298940",
+    "html": "0.0298940",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=2&From=AFN&To=USD"
+   }
+  ],
+  "instruction": {
+   "value": "2",
+   "currency2": "Afghan Afghani",
+   "ANSWER": "133.955AFN",
+   "currency1": "USD - US Dollar"
+  }
+ },
+ "b8f0908604": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "1.41092",
+    "html": "1.41092",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=2&From=SGD&To=USD"
+   }
+  ],
+  "instruction": {
+   "value": "2",
+   "currency2": "Singapore Dollar",
+   "ANSWER": "2.83720SGD",
+   "currency1": "USD - US Dollar"
+  }
+ },
+ "492e90653f": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "3,858.51",
+    "html": "3,858.51",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=75&From=AUD&To=INR"
+   }
+  ],
+  "instruction": {
+   "value": "75",
+   "currency2": "AUD - Australian Dollar",
+   "ANSWER": "3,855.38",
+   "currency1": "INR - Indian Rupee"
+  }
+ },
+ "e9ac95e107": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "16.1813",
+    "html": "16.1813",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=10&From=GBP&To=AUD"
+   }
+  ],
+  "instruction": {
+   "value": "10",
+   "currency2": "GBP - British Pound",
+   "ANSWER": "16.1939",
+   "currency1": "AUD - Australian Dollar"
+  }
+ },
+ "c3d192ae5e": {
+  "instruction": {
+   "value": "10",
+   "currency1": "AUD - Australian Dollar",
+   "currency2": "EUR - Euro",
+   "ANSWER": "13.8525"
+  }
+ },
+ "0ca02f79cb": {
+  "instruction": {
+   "value": "50",
+   "currency1": "XAF Central African CFA franc BEAC",
+   "currency2": "HTG Haitian gourde",
+   "ANSWER": "50 HTG =453.202XAF Haitian Gourde 1 HTG = 9.06405 XAF \u2194Central African CFA Franc BEAC 1 XAF = 0.110326 HTG"
+  }
+ },
+ "5f3b766c9d": {
+  "instruction": {
+   "value": "90",
+   "currency1": "USD - US Dollar",
+   "currency2": "AUD - Australian Dollar",
+   "ANSWER": "68.9760"
+  }
+ },
+ "da8f281bf9": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "24.4588",
+    "html": "24.4588",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=62&From=CUP&To=BWP"
+   }
+  ],
+  "instruction": {
+   "value": "62",
+   "currency2": "CUP - Cuban Peso",
+   "ANSWER": "24.3769",
+   "currency1": "BWP - Botswana Pula"
+  }
+ },
+ "c1b9f96c68": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "44.2229",
+    "html": "44.2229",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=44&From=AUD&To=CAD"
+   }
+  ],
+  "instruction": {
+   "value": "44",
+   "currency2": "AUD Australian Dollar",
+   "ANSWER": "44.1601",
+   "currency1": "CAD - Canadian Dollar"
+  }
+ },
+ "5b8fc60359": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "19.8275",
+    "html": "19.8275",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=100&From=ARS&To=BRL"
+   }
+  ],
+  "instruction": {
+   "value": "100",
+   "currency2": "ARS - Argentine Peso",
+   "ANSWER": "504.058",
+   "currency1": "BRL - Brazilian Real"
+  }
+ },
+ "57ae79b2d9": {
+  "instruction": {
+   "value": "76",
+   "currency1": "INR - Indian Rupee",
+   "currency2": "EUR - Euro",
+   "ANSWER": "5,412.02"
+  }
+ },
+ "aab7e7ec4c": {
+  "instruction": {
+   "value": "44",
+   "currency1": "CAD - Canadian Dollar",
+   "currency2": "AUD Australian Dollar",
+   "ANSWER": "44.1601"
+  }
+ },
+ "751fcb1704": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "51.4365",
+    "html": "51.4365",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=1&From=AUD&To=INR"
+   }
+  ],
+  "instruction": {
+   "value": "1",
+   "currency2": "Australian Dollar",
+   "ANSWER": "0.0194528AUD",
+   "currency1": "Indian Rupee"
+  }
+ },
+ "9f554f9b09": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "104.586",
+    "html": "104.586",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=1&From=LSL&To=MMK"
+   }
+  ],
+  "instruction": {
+   "value": "1",
+   "currency2": "LSL - Basotho Loti",
+   "ANSWER": "104.04",
+   "currency1": "MMK - Burmese Kyat"
+  }
+ },
+ "1687404cf3": {
+  "instruction": {
+   "value": "34",
+   "currency1": "INR - Indian Rupee",
+   "currency2": "KES - Kenyan Shilling",
+   "ANSWER": "52.5155"
+  }
+ },
+ "3c653bb269": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "45.1450",
+    "html": "45.1450",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=30&From=EUR&To=SGD"
+   }
+  ],
+  "instruction": {
+   "value": "30",
+   "currency2": "EUR - Euro",
+   "ANSWER": "45.1819",
+   "currency1": "SGD - Singapore Dollar"
+  }
+ },
+ "c19af9ae87": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "0.0999739",
+    "html": "0.0999739",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=100&From=CUC&To=XPT"
+   }
+  ],
+  "instruction": {
+   "value": "100",
+   "currency2": "CUC - Cuban Convertible Peso",
+   "ANSWER": "100,335.50",
+   "currency1": "XPT - Platinum Ounce"
+  }
+ },
+ "c52a9884f8": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "94.2142",
+    "html": "94.2142",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=100&From=USD&To=EUR"
+   }
+  ],
+  "instruction": {
+   "value": "100",
+   "currency2": "USD - US Dollar",
+   "ANSWER": "94.21",
+   "currency1": "EUR - Euro"
+  }
+ },
+ "7b5a758c26": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "1,338.06",
+    "html": "1,338.06",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=20&From=BSD&To=AFN"
+   }
+  ],
+  "instruction": {
+   "value": "20",
+   "currency2": "BSD Bahamian dollar",
+   "ANSWER": "20 BSD =1,339.55AFN Bahamian Dollar 1 BSD = 66.9775 AFN \u2194Afghan Afghani 1 AFN = 0.0149304 BSD",
+   "currency1": "AFN Afghan afghani"
+  }
+ },
+ "c362d25b1d": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "0.0458632",
+    "html": "0.0458632",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=21&From=MGA&To=CNY"
+   }
+  ],
+  "instruction": {
+   "value": "21",
+   "currency2": "MGA - Malagasy Ariary",
+   "ANSWER": "0.0460690",
+   "currency1": "CNY - Chinese Yuan Renminbi"
+  }
+ },
+ "82a6b6145a": {
+  "instruction": {
+   "value": "10",
+   "currency1": "USD - US Dollar",
+   "currency2": "GBP - British Pound",
+   "ANSWER": "12.4110"
+  }
+ },
+ "f157c530ee": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "384.069",
+    "html": "384.069",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=65&From=GHS&To=CUP"
+   }
+  ],
+  "instruction": {
+   "value": "65",
+   "currency2": "GHS - Ghanaian Cedi",
+   "ANSWER": "380.24",
+   "currency1": "CUP - Cuban Peso"
+  }
+ },
+ "a6fd87b7b6": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "50.0000",
+    "html": "50.0000",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=50&From=USD&To=BMD"
+   }
+  ],
+  "instruction": {
+   "value": "50",
+   "currency2": "USD - US Dollar",
+   "currency1": "BMD -  Bermudian Dollar"
+  }
+ },
+ "475e59b7e8": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "0.351556",
+    "html": "0.351556",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=25&From=INR&To=EUR"
+   }
+  ],
+  "instruction": {
+   "value": "25",
+   "currency2": "INR - Indian Rupee",
+   "ANSWER": "0.351079",
+   "currency1": "EUR - Euro"
+  }
+ },
+ "8dcd7c6ae6": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "16.2593",
+    "html": "16.2593",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=10&From=GBP&To=CAD"
+   }
+  ],
+  "instruction": {
+   "value": "10",
+   "currency2": "GBP - British Pound",
+   "ANSWER": "16.2528",
+   "currency1": "CAD - Canadian Dollar"
+  }
+ },
+ "4c94d1d6cc": {
+  "instruction": {
+   "value": "85",
+   "currency1": "JMD - Jamaican Dollar",
+   "currency2": "TRY - Turkish Lira",
+   "ANSWER": "2.42741"
+  }
+ },
+ "2912d13ea0": {
+  "instruction": {
+   "value": "100",
+   "currency2": "USD-US DOLLAR",
+   "currency1": "INR-Indian Rupee",
+   "ANSWER": "6,707.35INR"
+  }
+ },
+ "ef9dffdb73": {
+  "instruction": {
+   "value": "100",
+   "currency1": "QAR - Qatari Riyal",
+   "currency2": "EUR - Euro"
+  },
+  "spans": [
+   {
+    "text": "106.166",
+    "html": "106.166",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=100&From=EUR&To=USD"
+   },
+   {
+    "text": "386.617",
+    "html": "386.617",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=100&From=EUR&To=QAR"
+   },
+   {
+    "text": "386.617",
+    "html": "386.617",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=100&From=EUR&To=QAR"
+   },
+   {
+    "text": "386.617",
+    "html": "386.617",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=100&From=EUR&To=QAR"
+   },
+   {
+    "text": "386.617",
+    "html": "386.617",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=100&From=EUR&To=QAR"
+   },
+   {
+    "text": "386.617",
+    "html": "386.617",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=100&From=EUR&To=QAR"
+   },
+   {
+    "text": "386.617",
+    "html": "386.617",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=100&From=EUR&To=QAR"
+   }
+  ]
+ },
+ "8d9eb6492d": {
+  "instruction": {
+   "value": "21",
+   "currency1": "SGD - Singapore Dollar",
+   "currency2": "ANG - Dutch Guilder",
+   "ANSWER": "16.7363"
+  }
+ },
+ "1b8fcec344": {
+  "instruction": {
+   "value": "35",
+   "currency2": "INR - Indian Rupee",
+   "currency1": "GBP - British Pound",
+   "ANSWER": "0.420446"
+  }
+ },
+ "41dd5d9b05": {
+  "instruction": {
+   "value": "25",
+   "currency1": "EUR - Euro",
+   "currency2": "INR - Indian Rupee",
+   "ANSWER": "0.351079"
+  }
+ },
+ "af281f293e": {
+  "instruction": {
+   "value": "50",
+   "currency1": "BMD -  Bermudian Dollar",
+   "currency2": "USD - US Dollar"
+  },
+  "spans": [
+   {
+    "text": "47.0962",
+    "html": "47.0962",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=50&From=USD&To=EUR"
+   },
+   {
+    "text": "50.0000",
+    "html": "50.0000",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=50&From=USD&To=BMD"
+   },
+   {
+    "text": "50.0000",
+    "html": "50.0000",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=50&From=USD&To=BMD"
+   },
+   {
+    "text": "50.0000",
+    "html": "50.0000",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=50&From=USD&To=BMD"
+   },
+   {
+    "text": "50.0000",
+    "html": "50.0000",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=50&From=USD&To=BMD"
+   },
+   {
+    "text": "50.0000",
+    "html": "50.0000",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=50&From=USD&To=BMD"
+   },
+   {
+    "text": "50.0000",
+    "html": "50.0000",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=50&From=USD&To=BMD"
+   }
+  ]
+ },
+ "0d8a09b2d0": {
+  "instruction": {
+   "value": "10",
+   "currency1": "AUD - Australian Dollar",
+   "currency2": "GBP - British Pound",
+   "ANSWER": "16.1939"
+  }
+ },
+ "eee36be9f9": {
+  "instruction": {
+   "value": "62",
+   "currency1": "BWP - Botswana Pula",
+   "currency2": "CUP - Cuban Peso",
+   "ANSWER": "24.3769"
+  }
+ },
+ "eb88532e01": {
+  "instruction": {
+   "value": "1",
+   "currency2": "Canadian Dollar",
+   "currency1": "USD - US Dollar",
+   "ANSWER": "1.30955CAD"
+  }
+ },
+ "6561474174": {
+  "instruction": {
+   "value": "11",
+   "currency1": "AFN - Afghan Afghani",
+   "currency2": "USD - US Dollar",
+   "ANSWER": "736.752"
+  }
+ },
+ "983803145e": {
+  "instruction": {
+   "value": "100",
+   "currency2": "USD-US DOLLAR",
+   "currency1": "KWD-Kuwiti Dnar",
+   "ANSWER": "30.5627KWD"
+  }
+ },
+ "86bddfbace": {
+  "instruction": {
+   "value": "520",
+   "currency1": "NGN - Nigerian Naira",
+   "currency2": "EUR - Euro",
+   "ANSWER": "175,002.44"
+  }
+ },
+ "74a3f86075": {
+  "instruction": {
+   "value": "45",
+   "currency1": "USD - US Dollar",
+   "currency2": "INR - Indian Rupee",
+   "ANSWER": "0.670906"
+  }
+ },
+ "c6c6af297b": {
+  "instruction": {
+   "value": "50",
+   "currency2": "GBP-British Pound",
+   "currency1": "BGN-Bulgarian Lev",
+   "ANSWER": "114.374BGN"
+  }
+ },
+ "313a9b47dc": {
+  "instruction": {
+   "value": "1,000",
+   "currency2": "GBP - British Pound",
+   "currency1": "INR - Indian Rupee",
+   "ANSWER": "83,238.21"
+  }
+ },
+ "6b3cd40f1c": {
+  "instruction": {
+   "value": "30",
+   "currency2": "USD - US Dollar",
+   "currency1": "SGD - Singapore Dollar",
+   "ANSWER": "42.5580"
+  }
+ },
+ "70f8828178": {
+  "instruction": {
+   "value": "50",
+   "currency2": "CUP-Cuban Peso",
+   "currency1": "EUR-Euro",
+   "ANSWER": "1.77755EUR"
+  }
+ },
+ "9f358db8c0": {
+  "instruction": {
+   "value": "1",
+   "currency1": "Indian Rupee",
+   "currency2": "Canadian Dollar",
+   "ANSWER": "0.0195236CAD"
+  }
+ },
+ "070ae0dc03": {
+  "instruction": {
+   "value": "100",
+   "currency2": "JPY-Japanese Yen",
+   "currency1": "INR-Indian Rupee",
+   "ANSWER": "59.4423INR"
+  }
+ },
+ "9d011f5b15": {
+  "instruction": {
+   "value": "189",
+   "currency2": "COP - Colombian Peso",
+   "currency1": "BDT - Bangladeshi Taka",
+   "ANSWER": "5.24407"
+  }
+ },
+ "571f808715": {
+  "instruction": {
+   "value": "50",
+   "currency1": "NPR - Nepalese Rupee",
+   "currency2": "SLL - Sierra Leonean Leone",
+   "ANSWER": "3,544.12"
+  }
+ },
+ "dcbd63f279": {
+  "instruction": {
+   "value": "60",
+   "currency1": "BRL - Brazilian Real",
+   "currency2": "EUR - Euro"
+  },
+  "spans": [
+   {
+    "text": "197.821",
+    "html": "197.821",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=60&From=EUR&To=BRL"
+   },
+   {
+    "text": "197.821",
+    "html": "197.821",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=60&From=EUR&To=BRL"
+   },
+   {
+    "text": "197.821",
+    "html": "197.821",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=60&From=EUR&To=BRL"
+   },
+   {
+    "text": "197.821",
+    "html": "197.821",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=60&From=EUR&To=BRL"
+   },
+   {
+    "text": "197.821",
+    "html": "197.821",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=60&From=EUR&To=BRL"
+   },
+   {
+    "text": "197.821",
+    "html": "197.821",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=60&From=EUR&To=BRL"
+   }
+  ]
+ },
+ "eb30ef117a": {
+  "instruction": {
+   "value": "55",
+   "currency2": "AUD - Australian Dollar",
+   "currency1": "EUR - Euro",
+   "ANSWER": "39.7040"
+  }
+ },
+ "fbef794f7e": {
+  "instruction": {
+   "value": "40",
+   "currency1": "CAD - Canadian Dollar",
+   "currency2": "EUR - Euro",
+   "ANSWER": "55.6116"
+  }
+ },
+ "5654dd6ff6": {
+  "instruction": {
+   "value": "2",
+   "currency1": "USD - US Dollar",
+   "currency2": "Singapore Dollar",
+   "ANSWER": "2.83720SGD"
+  }
+ },
+ "149ed3583d": {
+  "instruction": {
+   "value": "100",
+   "currency1": "EUR - Euro",
+   "currency2": "USD - US Dollar",
+   "ANSWER": "94.21"
+  }
+ },
+ "e339c501d2": {
+  "instruction": {
+   "value": "300",
+   "currency2": "SBD - Solomon Islander Dollar",
+   "currency1": "JEP - Jersey Pound",
+   "ANSWER": "2,930.77"
+  }
+ },
+ "7100aff929": {
+  "instruction": {
+   "value": "100",
+   "currency1": "INR-Indian Rupee",
+   "currency2": "USD-US DOLLAR",
+   "ANSWER": "6,707.35INR"
+  }
+ },
+ "face38b4a3": {
+  "instruction": {
+   "value": "40",
+   "currency1": "AED - Emirati Dirham",
+   "currency2": "PGK - Papua New Guinean Kina",
+   "ANSWER": "34.5776"
+  }
+ },
+ "1db0015540": {
+  "instruction": {
+   "value": "60",
+   "currency1": "ISK Icelandic krona",
+   "currency2": "JMD Jamaican dollar",
+   "ANSWER": "60 JMD =52.1914ISK Jamaican Dollar 1 JMD = 0.869856 ISK \u2194Icelandic Krona 1 ISK = 1.14962 JMD"
+  }
+ },
+ "fed305bb07": {
+  "instruction": {
+   "value": "100",
+   "currency2": "MXN-Mexican peso",
+   "currency1": "USD-US DOLLAR",
+   "ANSWER": "4.89303USD"
+  }
+ },
+ "3e291eeb8d": {
+  "instruction": {
+   "value": "2",
+   "currency1": "Indian Rupee",
+   "currency2": "Bosnian Convertible Marka",
+   "ANSWER": "0.0549307BAM"
+  }
+ },
+ "80b496121d": {
+  "instruction": {
+   "value": "34",
+   "currency2": "KES - Kenyan Shilling",
+   "currency1": "INR - Indian Rupee",
+   "ANSWER": "52.5155"
+  }
+ },
+ "999a5996d5": {
+  "instruction": {
+   "value": "100",
+   "currency1": "CHF - Swiss Franc",
+   "currency2": "EUR - Euro",
+   "ANSWER": "106.410"
+  }
+ },
+ "642254de97": {
+  "instruction": {
+   "value": "55",
+   "currency2": "EUR - Euro",
+   "currency1": "GBP - British Pound",
+   "ANSWER": "47.0478"
+  }
+ },
+ "befcc77ebe": {
+  "instruction": {
+   "value": "80",
+   "currency2": "NAD Namibian dollar",
+   "currency1": "MOP Macau pataca",
+   "ANSWER": "80 NAD =48.9200MOP Namibian Dollar 1 NAD = 0.611499 MOP \u2194Macau Pataca 1 MOP = 1.63532 NAD"
+  }
+ },
+ "a8ac20ba2e": {
+  "instruction": {
+   "value": "30",
+   "currency1": "CAD - Canadian Dollar",
+   "currency2": "USD - US Dollar",
+   "ANSWER": "39.2865"
+  }
+ },
+ "b53b1b0b1f": {
+  "instruction": {
+   "value": "20",
+   "currency1": "AUD - Australian Dollar",
+   "currency2": "EUR - Euro"
+  }
+ },
+ "8a10995789": {
+  "instruction": {
+   "value": "40",
+   "currency1": "SGD - Singapore Dollar",
+   "currency2": "EUR - Euro"
+  },
+  "spans": [
+   {
+    "text": "37.6770",
+    "html": "37.6770",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=40&From=USD&To=EUR"
+   },
+   {
+    "text": "60.2428",
+    "html": "60.2428",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=40&From=EUR&To=SGD"
+   },
+   {
+    "text": "60.2428",
+    "html": "60.2428",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=40&From=EUR&To=SGD"
+   },
+   {
+    "text": "60.2428",
+    "html": "60.2428",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=40&From=EUR&To=SGD"
+   },
+   {
+    "text": "60.2428",
+    "html": "60.2428",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=40&From=EUR&To=SGD"
+   },
+   {
+    "text": "60.2428",
+    "html": "60.2428",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=40&From=EUR&To=SGD"
+   },
+   {
+    "text": "60.2428",
+    "html": "60.2428",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=40&From=EUR&To=SGD"
+   }
+  ]
+ },
+ "81316792cd": {
+  "instruction": {
+   "value": "200",
+   "currency2": "HKD - Hong Kong Dollar",
+   "currency1": "IDR - Indonesian Rupiah",
+   "ANSWER": "343,782.98"
+  }
+ },
+ "e9f807cde7": {
+  "instruction": {
+   "value": "255",
+   "currency1": "CNY - Chinese Yuan Renminbi",
+   "currency2": "EUR - Euro",
+   "ANSWER": "1,855.94"
+  }
+ },
+ "9ebb6b46c3": {
+  "instruction": {
+   "value": "21",
+   "currency1": "CNY - Chinese Yuan Renminbi",
+   "currency2": "MGA - Malagasy Ariary",
+   "ANSWER": "0.0460690"
+  }
+ },
+ "dc2e2eb1c7": {
+  "instruction": {
+   "value": "150",
+   "currency2": "GBP - British Pound",
+   "currency1": "MXN - Mexican Peso",
+   "ANSWER": "3,804.39"
+  }
+ },
+ "e7d8a29acd": {
+  "instruction": {
+   "value": "45",
+   "currency2": "INR - Indian Rupee",
+   "currency1": "USD - US Dollar",
+   "ANSWER": "0.670906"
+  }
+ },
+ "08e7c9e9c8": {
+  "instruction": {
+   "value": "1",
+   "currency2": "Canadian Dollar",
+   "currency1": "Indian Rupee",
+   "ANSWER": "0.0195236CAD"
+  }
+ },
+ "a681700ae1": {
+  "instruction": {
+   "value": "46",
+   "currency2": "GBP - British Pound",
+   "currency1": "EUR - Euro",
+   "ANSWER": "53.7751"
+  }
+ },
+ "069fd41c90": {
+  "instruction": {
+   "value": "90",
+   "currency1": "OMR - Omani Rial",
+   "currency2": "USD - US Dollar"
+  }
+ },
+ "d7ccded2cd": {
+  "instruction": {
+   "value": "100",
+   "currency1": "BRL - Brazilian Real",
+   "currency2": "ARS - Argentine Peso",
+   "ANSWER": "504.058"
+  }
+ },
+ "1e2395d925": {
+  "instruction": {
+   "value": "10",
+   "currency2": "GBP - British Pound",
+   "currency1": "EUR - Euro",
+   "ANSWER": "11.6902"
+  }
+ },
+ "1a8f30ca23": {
+  "instruction": {
+   "value": "20",
+   "currency1": "AUD - Australian Dollar",
+   "currency2": "EUR - Euro"
+  },
+  "spans": [
+   {
+    "text": "27.7182",
+    "html": "27.7182",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=20&From=EUR&To=AUD"
+   },
+   {
+    "text": "27.7182",
+    "html": "27.7182",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=20&From=EUR&To=AUD"
+   },
+   {
+    "text": "27.7182",
+    "html": "27.7182",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=20&From=EUR&To=AUD"
+   },
+   {
+    "text": "27.7182",
+    "html": "27.7182",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=20&From=EUR&To=AUD"
+   },
+   {
+    "text": "27.7182",
+    "html": "27.7182",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=20&From=EUR&To=AUD"
+   },
+   {
+    "text": "27.7182",
+    "html": "27.7182",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=20&From=EUR&To=AUD"
+   },
+   {
+    "text": "27.7182",
+    "html": "27.7182",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=20&From=EUR&To=AUD"
+   }
+  ]
+ },
+ "d8fdd9d49a": {
+  "instruction": {
+   "value": "10",
+   "currency1": "GBP - British Pound",
+   "currency2": "USD - US Dollar"
+  },
+  "spans": [
+   {
+    "text": "8.04358",
+    "html": "8.04358",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=10&From=USD&To=GBP"
+   },
+   {
+    "text": "8.04358",
+    "html": "8.04358",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=10&From=USD&To=GBP"
+   },
+   {
+    "text": "8.04358",
+    "html": "8.04358",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=10&From=USD&To=GBP"
+   },
+   {
+    "text": "8.04358",
+    "html": "8.04358",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=10&From=USD&To=GBP"
+   },
+   {
+    "text": "8.04358",
+    "html": "8.04358",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=10&From=USD&To=GBP"
+   },
+   {
+    "text": "8.04358",
+    "html": "8.04358",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=10&From=USD&To=GBP"
+   },
+   {
+    "text": "8.04358",
+    "html": "8.04358",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=10&From=USD&To=GBP"
+   }
+  ]
+ },
+ "d5118aeaac": {
+  "instruction": {
+   "value": "80",
+   "currency1": "MOP Macau pataca",
+   "currency2": "NAD Namibian dollar",
+   "ANSWER": "80 NAD =48.9200MOP Namibian Dollar 1 NAD = 0.611499 MOP \u2194Macau Pataca 1 MOP = 1.63532 NAD"
+  }
+ },
+ "37d7227f6b": {
+  "instruction": {
+   "value": "10",
+   "currency2": "EUR - Euro",
+   "currency1": "AUD - Australian Dollar",
+   "ANSWER": "13.8525"
+  }
+ },
+ "30b862ae5b": {
+  "instruction": {
+   "value": "45",
+   "currency2": "EUR - Euro",
+   "currency1": "USD - US Dollar",
+   "ANSWER": "47.7745"
+  }
+ },
+ "c080329f61": {
+  "instruction": {
+   "value": "50",
+   "currency1": "USD-US DOLLAR",
+   "currency2": "BMD-Bermudian Dollar",
+   "ANSWER": "50.0000USD"
+  }
+ },
+ "304093a14d": {
+  "instruction": {
+   "value": "21",
+   "currency2": "ANG - Dutch Guilder",
+   "currency1": "SGD - Singapore Dollar",
+   "ANSWER": "16.7363"
+  }
+ },
+ "49e36e5b90": {
+  "instruction": {
+   "value": "500",
+   "currency2": "TMT - Turkmenistani Manat",
+   "currency1": "ZMW - Zambian Kwacha",
+   "ANSWER": "179.349"
+  }
+ },
+ "a759165c2f": {
+  "instruction": {
+   "value": "300",
+   "currency1": "JEP - Jersey Pound",
+   "currency2": "SBD - Solomon Islander Dollar",
+   "ANSWER": "2,930.77"
+  }
+ },
+ "8bffb048f0": {
+  "instruction": {
+   "value": "46",
+   "currency1": "EUR - Euro",
+   "currency2": "GBP - British Pound",
+   "ANSWER": "53.7751"
+  }
+ },
+ "b5dbdb66da": {
+  "instruction": {
+   "value": "30",
+   "currency1": "SGD - Singapore Dollar",
+   "currency2": "USD - US Dollar",
+   "ANSWER": "42.5580"
+  }
+ },
+ "0b478f1070": {
+  "instruction": {
+   "value": "10",
+   "currency2": "GBP - British Pound",
+   "currency1": "SGD - Singapore Dollar",
+   "ANSWER": "17.6062"
+  }
+ },
+ "fbf52ea6f4": {
+  "instruction": {
+   "value": "55",
+   "currency1": "GBP - British Pound",
+   "currency2": "EUR - Euro",
+   "ANSWER": "47.0478"
+  }
+ },
+ "5868d12e7c": {
+  "instruction": {
+   "value": "44",
+   "currency1": "CAD - Canadian Dollar",
+   "currency2": "KGS - Kyrgyzstani Som",
+   "ANSWER": "0.833795"
+  }
+ },
+ "004219d55d": {
+  "instruction": {
+   "value": "25",
+   "currency1": "KES - Kenyan Shilling",
+   "currency2": "OMR - Omani Real",
+   "ANSWER": "6,722.85"
+  }
+ },
+ "a8be9b6d35": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "594.696",
+    "html": "594.696",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=80&From=EUR&To=DKK"
+   }
+  ],
+  "instruction": {
+   "value": "80",
+   "currency2": "EUR - Euro",
+   "currency1": "DKK - Danish Krone"
+  }
+ },
+ "4045859cee": {
+  "instruction": {
+   "value": "100",
+   "currency1": "ANG-Dutch Guilder",
+   "currency2": "LRD-Liberian Dollar",
+   "ANSWER": "1.88360ANG"
+  }
+ },
+ "ca2478c03e": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/div[3]/span",
+    "text": "1 GBP = 1.24323 USD",
+    "html": "1 GBP = 1.24323 USD",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=10&From=USD&To=GBP"
+   }
+  ],
+  "instruction": {
+   "value": "10",
+   "currency2": "USD - US Dollar",
+   "currency1": "GBP - British Pound"
+  }
+ },
+ "2db267a38e": {
+  "instruction": {
+   "value": "100",
+   "currency1": "USD-US DOLLAR",
+   "currency2": "MXN-Mexican peso",
+   "ANSWER": "4.89303USD"
+  }
+ },
+ "6a18ab69de": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "17,865.17",
+    "html": "17,865.17",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=1000&From=PEN&To=RUB"
+   }
+  ],
+  "instruction": {
+   "value": "1,500",
+   "currency2": "PEN - Peruvian Sol",
+   "ANSWER": "26,847.60",
+   "currency1": "RUB - Russian Ruble"
+  }
+ },
+ "d32f9181d9": {
+  "instruction": {
+   "value": "30",
+   "currency1": "CAD - Canadian Dollar",
+   "currency2": "USD - US Dollar"
+  },
+  "spans": [
+   {
+    "text": "39.2653",
+    "html": "39.2653",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=30&From=USD&To=CAD"
+   },
+   {
+    "text": "39.2653",
+    "html": "39.2653",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=30&From=USD&To=CAD"
+   },
+   {
+    "text": "39.2653",
+    "html": "39.2653",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=30&From=USD&To=CAD"
+   },
+   {
+    "text": "39.2653",
+    "html": "39.2653",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=30&From=USD&To=CAD"
+   },
+   {
+    "text": "39.2653",
+    "html": "39.2653",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=30&From=USD&To=CAD"
+   },
+   {
+    "text": "39.2653",
+    "html": "39.2653",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=30&From=USD&To=CAD"
+   },
+   {
+    "text": "39.2653",
+    "html": "39.2653",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=30&From=USD&To=CAD"
+   }
+  ]
+ },
+ "3c85a6a27a": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "0.941925",
+    "html": "0.941925",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=EUR"
+   }
+  ],
+  "instruction": {
+   "value": "1",
+   "currency2": "EUR - Euro",
+   "ANSWER": "0.941925EUR",
+   "currency1": "USD - US Dollar"
+  }
+ },
+ "6df6ed5253": {
+  "instruction": {
+   "value": "55",
+   "currency1": "EUR - Euro",
+   "currency2": "AUD - Australian Dollar",
+   "ANSWER": "39.7040"
+  }
+ },
+ "1105e145dc": {
+  "instruction": {
+   "value": "45",
+   "currency1": "USD - US Dollar",
+   "currency2": "EUR - Euro",
+   "ANSWER": "47.7745"
+  }
+ },
+ "8d5cd1f6a5": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "0.261148",
+    "html": "0.261148",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=10&From=TWD&To=SHP"
+   }
+  ],
+  "instruction": {
+   "value": "10",
+   "currency2": "TWD New Taiwan dollar",
+   "ANSWER": "10 TWD =0.260798SHP Taiwan New Dollar 1 TWD = 0.0260798 SHP \u2194Saint Helenian Pound 1 SHP = 38.3438 TWD",
+   "currency1": "SHP Saint Helena pound"
+  }
+ },
+ "2fec8c1670": {
+  "instruction": {
+   "value": "310",
+   "currency1": "JPY - Japanese Yen",
+   "currency2": "EUR - Euro",
+   "ANSWER": "37,129.08"
+  }
+ },
+ "cb86688d15": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "25.3876",
+    "html": "25.3876",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=200&From=EGP&To=BZD"
+   }
+  ],
+  "instruction": {
+   "value": "200",
+   "currency2": "EGP - Egyptian Pound",
+   "ANSWER": "1,571.24",
+   "currency1": "BZD - Belizean Dollar"
+  }
+ },
+ "8d3583e30f": {
+  "instruction": {
+   "value": "200",
+   "currency1": "IDR - Indonesian Rupiah",
+   "currency2": "HKD - Hong Kong Dollar",
+   "ANSWER": "343,782.98"
+  }
+ },
+ "c3723ff25b": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "39.2653",
+    "html": "39.2653",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=30&From=USD&To=CAD"
+   }
+  ],
+  "instruction": {
+   "value": "30",
+   "currency2": "USD - US Dollar",
+   "currency1": "CAD - Canadian Dollar"
+  }
+ },
+ "e880978269": {
+  "instruction": {
+   "value": "50",
+   "currency1": "EUR-Euro",
+   "currency2": "CUP-Cuban Peso",
+   "ANSWER": "1.77755EUR"
+  }
+ },
+ "0dddb34258": {
+  "spans": [
+   {
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "text": "38.4096",
+    "html": "38.4096",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=50&From=AUD&To=USD"
+   }
+  ],
+  "instruction": {
+   "value": "50",
+   "currency2": "AUD-Australian Dollar",
+   "ANSWER": "38.3325USD",
+   "currency1": "USD-US DOLLAR"
+  }
+ },
+ "a35ef30c47": {
+  "instruction": {
+   "value": "1,000",
+   "currency1": "INR - Indian Rupee",
+   "currency2": "GBP - British Pound",
+   "ANSWER": "83,238.21"
+  }
+ },
+ "2b66f2316c": {
+  "instruction": {
+   "value": "1",
+   "currency1": "USD - US Dollar",
+   "currency2": "Australian Dollar",
+   "ANSWER": "1.30480AUD"
+  }
+ },
+ "02223e7e04": {
+  "instruction": {
+   "value": "70",
+   "currency1": "KZT Kazakhstani tenge",
+   "currency2": "LAK Lao or Laotian kip",
+   "ANSWER": "70 LAK =2.71848KZT Lao or Laotian Kip 1 LAK = 0.0388354 KZT \u2194Kazakhstani Tenge 1 KZT = 25.7497 LAK"
+  }
+ },
+ "ee2e307788": {
+  "instruction": {
+   "value": "100",
+   "currency1": "QAR Qatari riyal",
+   "currency2": "EUR European euro",
+   "ANSWER": "100 EUR =386.578QAR Euro 1 EUR = 3.86578 QAR \u2194Qatari Riyal 1 QAR = 0.258680 EUR"
+  }
+ },
+ "5f5eb43d12": {
+  "instruction": {
+   "value": "1",
+   "currency1": "Indian Rupee",
+   "currency2": "Australian Dollar",
+   "ANSWER": "0.0194528AUD"
+  }
+ },
+ "44964a9744": {
+  "instruction": {
+   "value": "40",
+   "currency2": "FKP Falkland Islands pound",
+   "currency1": "EGP Egyptian pound",
+   "ANSWER": "40 FKP =793.907EGP Falkland Island Pound 1 FKP = 19.8477 EGP \u2194Egyptian Pound 1 EGP = 0.0503837 FKP"
+  }
+ },
+ "b64b9448f4": {
+  "instruction": {
+   "value": "100",
+   "currency2": "EUR - Euro",
+   "currency1": "CHF - Swiss Franc",
+   "ANSWER": "106.410"
+  }
+ },
+ "e50fc993eb": {
+  "instruction": {
+   "value": "40",
+   "currency1": "EGP Egyptian pound",
+   "currency2": "FKP Falkland Islands pound",
+   "ANSWER": "40 FKP =793.907EGP Falkland Island Pound 1 FKP = 19.8477 EGP \u2194Egyptian Pound 1 EGP = 0.0503837 FKP"
+  }
+ },
+ "4a8d8a60d9": {
+  "instruction": {
+   "value": "11",
+   "currency2": "USD - US Dollar",
+   "currency1": "AFN - Afghan Afghani",
+   "ANSWER": "736.752"
+  }
+ },
+ "af79204215": {
+  "instruction": {
+   "value": "65",
+   "currency1": "GBP - British Pound",
+   "currency2": "AUD - Australian Dollar",
+   "ANSWER": "40.1386"
+  }
+ },
+ "5f13a544a5": {
+  "instruction": {
+   "value": "40",
+   "currency1": "SGD - Singapore Dollar",
+   "currency2": "EUR - Euro"
+  }
+ },
+ "1d15e9910d": {
+  "instruction": {
+   "value": "15",
+   "currency1": "EUR - Euro",
+   "currency2": "GNF - Guinean Franc",
+   "ANSWER": "0.00151394"
+  }
+ },
+ "8bf0a3e1e0": {
+  "instruction": {
+   "value": "10",
+   "currency2": "GBP - British Pound",
+   "currency1": "USD - US Dollar",
+   "ANSWER": "12.4110"
+  }
+ },
+ "fb47434971": {
+  "instruction": {
+   "value": "65",
+   "currency1": "GBP - British Pound",
+   "currency2": "USD - US Dollar",
+   "ANSWER": "52.3729"
+  }
+ },
+ "a25ac55d5f": {
+  "instruction": {
+   "value": "60",
+   "currency1": "BRL - Brazilian Real",
+   "currency2": "EUR - Euro"
+  }
+ },
+ "c638bb3d6a": {
+  "instruction": {
+   "value": "1,500",
+   "currency1": "RUB - Russian Ruble",
+   "currency2": "PEN - Peruvian Sol",
+   "ANSWER": "26,847.60"
+  }
+ },
+ "687bc5bddd": {
+  "instruction": {
+   "value": "200",
+   "currency1": "BZD - Belizean Dollar",
+   "currency2": "EGP - Egyptian Pound",
+   "ANSWER": "1,571.24"
+  }
+ },
+ "c04644a5fd": {
+  "instruction": {
+   "value": "100",
+   "currency1": "XPT - Platinum Ounce",
+   "currency2": "CUC - Cuban Convertible Peso",
+   "ANSWER": "100,335.50"
+  }
+ },
+ "5f5a2b9eee": {
+  "instruction": {
+   "value": "2",
+   "currency2": "Bosnian Convertible Marka",
+   "currency1": "Indian Rupee",
+   "ANSWER": "0.0549307BAM"
+  }
+ },
+ "c3cdfde7c7": {
+  "instruction": {
+   "value": "1",
+   "currency2": "Australian Dollar",
+   "currency1": "USD - US Dollar",
+   "ANSWER": "1.30480AUD"
+  }
+ },
+ "d87d4c44a5": {
+  "instruction": {
+   "value": "100",
+   "currency1": "QAR - Qatari Riyal",
+   "currency2": "EUR - Euro"
+  }
+ },
+ "ba319f8f69": {
+  "instruction": {
+   "value": "70",
+   "currency1": "COP - Colombian Peso",
+   "currency2": "USD - US Dollar"
+  },
+  "spans": [
+   {
+    "text": "201,880.00",
+    "html": "201,880.00",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=70&From=USD&To=COP"
+   },
+   {
+    "text": "201,880.00",
+    "html": "201,880.00",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=70&From=USD&To=COP"
+   },
+   {
+    "text": "201,880.00",
+    "html": "201,880.00",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=70&From=USD&To=COP"
+   },
+   {
+    "text": "201,880.00",
+    "html": "201,880.00",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=70&From=USD&To=COP"
+   },
+   {
+    "text": "201,880.00",
+    "html": "201,880.00",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=70&From=USD&To=COP"
+   },
+   {
+    "text": "201,880.00",
+    "html": "201,880.00",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=70&From=USD&To=COP"
+   },
+   {
+    "text": "201,880.00",
+    "html": "201,880.00",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=70&From=USD&To=COP"
+   }
+  ]
+ },
+ "a0d5c4884f": {
+  "instruction": {
+   "value": "4,000",
+   "currency2": "IQD - Iraqi Dinar",
+   "currency1": "USD - US Dollar",
+   "ANSWER": "3.38"
+  }
+ },
+ "c383300e73": {
+  "instruction": {
+   "value": "25",
+   "currency2": "JPY - Japanese Yen",
+   "currency1": "SGD - Singapore Dollar",
+   "ANSWER": "1,989.28"
+  }
+ },
+ "1008537328": {
+  "instruction": {
+   "value": "1",
+   "currency1": "USD - US Dollar",
+   "currency2": "Bosnian Convertible Marka",
+   "ANSWER": "3.68449BAM"
+  }
+ },
+ "8956043b98": {
+  "instruction": {
+   "value": "30",
+   "currency1": "GBP - British Pound",
+   "currency2": "USD - US Dollar",
+   "ANSWER": "24.1721"
+  }
+ },
+ "34ff814618": {
+  "instruction": {
+   "value": "30",
+   "currency1": "CVE Cape Verdean escudo",
+   "currency2": "DKK Danish krone",
+   "ANSWER": "30 DKK =445.979CVE Danish Krone 1 DKK = 14.8660 CVE \u2194Cape Verdean Escudo 1 CVE = 0.0672677 DKK"
+  }
+ },
+ "23a51c1bca": {
+  "instruction": {
+   "value": "90",
+   "currency2": "PKR Pakistani rupee",
+   "currency1": "OMR Omani rial",
+   "ANSWER": "90 PKR =0.330847OMR Pakistani Rupee 1 PKR = 0.00367608 OMR \u2194Omani Rial 1 OMR = 272.029 PKR"
+  }
+ },
+ "9f7b64d78c": {
+  "instruction": {
+   "value": "150",
+   "currency1": "MYR - Malaysian Ringgit",
+   "currency2": "EUR - Euro",
+   "ANSWER": "709.213"
+  }
+ },
+ "c3dbd2e1b6": {
+  "instruction": {
+   "value": "2",
+   "currency2": "GBP - British Pound",
+   "currency1": "USD - US Dollar",
+   "ANSWER": "1.61147GBP"
+  }
+ },
+ "48f8570c25": {
+  "instruction": {
+   "value": "80",
+   "currency1": "DKK - Danish Krone",
+   "currency2": "EUR - Euro"
+  },
+  "spans": [
+   {
+    "text": "594.696",
+    "html": "594.696",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=80&From=EUR&To=DKK"
+   },
+   {
+    "text": "594.696",
+    "html": "594.696",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=80&From=EUR&To=DKK"
+   },
+   {
+    "text": "594.696",
+    "html": "594.696",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=80&From=EUR&To=DKK"
+   },
+   {
+    "text": "594.696",
+    "html": "594.696",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=80&From=EUR&To=DKK"
+   },
+   {
+    "text": "594.696",
+    "html": "594.696",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=80&From=EUR&To=DKK"
+   },
+   {
+    "text": "594.696",
+    "html": "594.696",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=80&From=EUR&To=DKK"
+   },
+   {
+    "text": "594.696",
+    "html": "594.696",
+    "xpath": "//*[@id=\"ucc-container\"]/span[2]/span[2]",
+    "url": "http://www.xe.com/currencyconverter/convert/?Amount=80&From=EUR&To=DKK"
+   }
+  ]
+ },
+ "fa1fe06ab5": {
+  "instruction": {
+   "value": "30",
+   "currency2": "DKK Danish krone",
+   "currency1": "CVE Cape Verdean escudo",
+   "ANSWER": "30 DKK =445.979CVE Danish Krone 1 DKK = 14.8660 CVE \u2194Cape Verdean Escudo 1 CVE = 0.0672677 DKK"
+  }
+ },
+ "5b80c72739": {
+  "instruction": {
+   "value": "10",
+   "currency1": "CAD - Canadian Dollar",
+   "currency2": "GBP - British Pound",
+   "ANSWER": "16.2528"
+  }
+ },
+ "e08545ee4f": {
+  "instruction": {
+   "value": "65",
+   "currency2": "AUD - Australian Dollar",
+   "currency1": "GBP - British Pound",
+   "ANSWER": "40.1386"
+  }
+ },
+ "ef42bb39b7": {
+  "instruction": {
+   "value": "65",
+   "currency2": "EUR - Euro",
+   "currency1": "MNT - Mongolian Tughrik",
+   "ANSWER": "170,517.82"
+  }
+ },
+ "3d767ca31b": {
+  "instruction": {
+   "value": "150",
+   "currency1": "MXN - Mexican Peso",
+   "currency2": "GBP - British Pound",
+   "ANSWER": "3,804.39"
+  }
+ },
+ "1513bc9ada": {
+  "instruction": {
+   "value": "255",
+   "currency2": "EUR - Euro",
+   "currency1": "CNY - Chinese Yuan Renminbi",
+   "ANSWER": "1,855.94"
+  }
+ },
+ "82625cdc41": {
+  "instruction": {
+   "value": "70",
+   "currency2": "LAK Lao or Laotian kip",
+   "currency1": "KZT Kazakhstani tenge",
+   "ANSWER": "70 LAK =2.71848KZT Lao or Laotian Kip 1 LAK = 0.0388354 KZT \u2194Kazakhstani Tenge 1 KZT = 25.7497 LAK"
+  }
+ },
+ "2ca2892812": {
+  "instruction": {
+   "value": "35",
+   "currency1": "GBP - British Pound",
+   "currency2": "INR - Indian Rupee",
+   "ANSWER": "0.420446"
+  }
+ },
+ "955a2a194e": {
+  "instruction": {
+   "value": "40",
+   "currency2": "PGK - Papua New Guinean Kina",
+   "currency1": "AED - Emirati Dirham",
+   "ANSWER": "34.5776"
+  }
+ },
+ "7c83da943b": {
+  "instruction": {
+   "value": "2",
+   "currency1": "USD - US Dollar",
+   "currency2": "Afghan Afghani",
+   "ANSWER": "133.955AFN"
+  }
+ },
+ "9529a71878": {
+  "instruction": {
+   "value": "310",
+   "currency2": "EUR - Euro",
+   "currency1": "JPY - Japanese Yen",
+   "ANSWER": "37,129.08"
+  }
+ },
+ "3d583ab9f6": {
+  "instruction": {
+   "value": "50",
+   "currency2": "BMD-Bermudian Dollar",
+   "currency1": "USD-US DOLLAR",
+   "ANSWER": "50.0000USD"
+  }
+ },
+ "eb0393dda0": {
+  "instruction": {
+   "value": "25",
+   "currency2": "OMR - Omani Real",
+   "currency1": "KES - Kenyan Shilling",
+   "ANSWER": "6,722.85"
+  }
+ },
+ "4516a96eeb": {
+  "instruction": {
+   "value": "44",
+   "currency2": "KGS - Kyrgyzstani Som",
+   "currency1": "CAD - Canadian Dollar",
+   "ANSWER": "0.833795"
+  }
+ },
+ "0aef34ce0a": {
+  "instruction": {
+   "value": "90",
+   "currency2": "AUD - Australian Dollar",
+   "currency1": "USD - US Dollar",
+   "ANSWER": "68.9760"
+  }
+ },
+ "70bb8cfc47": {
+  "instruction": {
+   "value": "520",
+   "currency2": "EUR - Euro",
+   "currency1": "NGN - Nigerian Naira",
+   "ANSWER": "175,002.44"
+  }
+ },
+ "53c6602506": {
+  "instruction": {
+   "value": "30",
+   "currency2": "USD - US Dollar",
+   "currency1": "CAD - Canadian Dollar",
+   "ANSWER": "39.2865"
+  }
+ },
+ "b7554ad252": {
+  "instruction": {
+   "value": "100",
+   "currency1": "INR-Indian Rupee",
+   "currency2": "JPY-Japanese Yen",
+   "ANSWER": "59.4423INR"
+  }
+ },
+ "04e1a7ce45": {
+  "instruction": {
+   "value": "20",
+   "currency1": "AFN Afghan afghani",
+   "currency2": "BSD Bahamian dollar",
+   "ANSWER": "20 BSD =1,339.55AFN Bahamian Dollar 1 BSD = 66.9775 AFN \u2194Afghan Afghani 1 AFN = 0.0149304 BSD"
+  }
+ },
+ "aadf76cd4d": {
+  "instruction": {
+   "value": "15",
+   "currency2": "USD - US Dollar",
+   "currency1": "CRC - Costa Rican Colon",
+   "ANSWER": "8,322.00"
+  }
+ },
+ "20a644110f": {
+  "instruction": {
+   "value": "100",
+   "currency1": "KWD-Kuwiti Dnar",
+   "currency2": "USD-US DOLLAR",
+   "ANSWER": "30.5627KWD"
+  }
+ },
+ "8d3b27d93a": {
+  "instruction": {
+   "value": "15",
+   "currency1": "CRC - Costa Rican Colon",
+   "currency2": "USD - US Dollar",
+   "ANSWER": "8,322.00"
+  }
+ },
+ "6cb7d5a168": {
+  "instruction": {
+   "value": "1",
+   "currency2": "Bosnian Convertible Marka",
+   "currency1": "USD - US Dollar",
+   "ANSWER": "3.68449BAM"
+  }
+ },
+ "b3b53a6fa6": {
+  "instruction": {
+   "value": "15",
+   "currency2": "GNF - Guinean Franc",
+   "currency1": "EUR - Euro",
+   "ANSWER": "0.00151394"
+  }
+ },
+ "09e3fd1612": {
+  "instruction": {
+   "value": "76",
+   "currency2": "EUR - Euro",
+   "currency1": "INR - Indian Rupee",
+   "ANSWER": "5,412.02"
+  }
+ },
+ "4b709c8846": {
+  "instruction": {
+   "value": "500",
+   "currency1": "ARS - Argentine Peso",
+   "currency2": "BRL - Brazilian Real",
+   "ANSWER": "2,520.29"
+  }
+ },
+ "4dc43b5293": {
+  "instruction": {
+   "value": "30",
+   "currency1": "AUD - Australian Dollar",
+   "currency2": "USD - US Dollar",
+   "ANSWER": "39.1441"
+  }
+ },
+ "9b14c949d9": {
+  "instruction": {
+   "value": "65",
+   "currency2": "USD - US Dollar",
+   "currency1": "GBP - British Pound",
+   "ANSWER": "52.3729"
+  }
+ },
+ "5f3c80095e": {
+  "instruction": {
+   "value": "75",
+   "currency1": "INR - Indian Rupee",
+   "currency2": "AUD - Australian Dollar",
+   "ANSWER": "3,855.38"
+  }
+ },
+ "1704e95ca0": {
+  "instruction": {
+   "value": "65",
+   "currency1": "MNT - Mongolian Tughrik",
+   "currency2": "EUR - Euro",
+   "ANSWER": "170,517.82"
+  }
+ },
+ "efaa6b5046": {
+  "instruction": {
+   "value": "30",
+   "currency2": "USD - US Dollar",
+   "currency1": "EUR - Euro",
+   "ANSWER": "28.2578"
+  }
+ },
+ "4ef5aa945a": {
+  "instruction": {
+   "value": "85",
+   "currency2": "TRY - Turkish Lira",
+   "currency1": "JMD - Jamaican Dollar",
+   "ANSWER": "2.42741"
+  }
+ },
+ "9138f25c49": {
+  "instruction": {
+   "value": "100",
+   "currency1": "SGD-Singapore Dollar",
+   "currency2": "EUR-Euro",
+   "ANSWER": "150.568SGD"
+  }
+ },
+ "881df3b6d4": {
+  "instruction": {
+   "value": "25",
+   "currency1": "SGD - Singapore Dollar",
+   "currency2": "JPY - Japanese Yen",
+   "ANSWER": "1,989.28"
+  }
+ },
+ "5ff9e406f6": {
+  "instruction": {
+   "value": "30",
+   "currency1": "EUR - Euro",
+   "currency2": "USD - US Dollar",
+   "ANSWER": "28.2578"
+  }
+ },
+ "905e8199ec": {
+  "instruction": {
+   "value": "30",
+   "currency1": "SGD - Singapore Dollar",
+   "currency2": "EUR - Euro",
+   "ANSWER": "45.1819"
+  }
+ },
+ "c8c9524c1f": {
+  "instruction": {
+   "value": "90",
+   "currency1": "OMR Omani rial",
+   "currency2": "PKR Pakistani rupee",
+   "ANSWER": "90 PKR =0.330847OMR Pakistani Rupee 1 PKR = 0.00367608 OMR \u2194Omani Rial 1 OMR = 272.029 PKR"
+  }
+ },
+ "41f21db4ce": {
+  "instruction": {
+   "value": "100",
+   "currency2": "EUR-Euro",
+   "currency1": "SGD-Singapore Dollar",
+   "ANSWER": "150.568SGD"
+  }
+ },
+ "58e40c8b55": {
+  "instruction": {
+   "value": "30",
+   "currency2": "USD - US Dollar",
+   "currency1": "GBP - British Pound",
+   "ANSWER": "24.1721"
+  }
+ },
+ "3673f8658b": {
+  "instruction": {
+   "value": "10",
+   "currency1": "EUR - Euro",
+   "currency2": "GBP - British Pound",
+   "ANSWER": "11.6902"
+  }
+ },
+ "41a296ed1f": {
+  "instruction": {
+   "value": "189",
+   "currency1": "BDT - Bangladeshi Taka",
+   "currency2": "COP - Colombian Peso",
+   "ANSWER": "5.24407"
+  }
+ },
+ "2048eb32e2": {
+  "instruction": {
+   "value": "1",
+   "currency1": "USD - US Dollar",
+   "currency2": "Canadian Dollar",
+   "ANSWER": "1.30955CAD"
+  }
+ },
+ "542395ccb9": {
+  "instruction": {
+   "value": "40",
+   "currency2": "EUR - Euro",
+   "currency1": "CAD - Canadian Dollar",
+   "ANSWER": "55.6116"
+  }
+ },
+ "8d0dfce6ce": {
+  "instruction": {
+   "value": "500",
+   "currency2": "BRL - Brazilian Real",
+   "currency1": "ARS - Argentine Peso",
+   "ANSWER": "2,520.29"
+  }
+ },
+ "57bb9c48fe": {
+  "instruction": {
+   "value": "1",
+   "currency1": "USD - US Dollar",
+   "currency2": "EUR - Euro",
+   "ANSWER": "0.941925EUR"
+  }
+ }
+}

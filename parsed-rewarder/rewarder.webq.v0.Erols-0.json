@@ -1,0 +1,72 @@
+{
+ "07ba8ce72a": {
+  "instruction": {
+   "Dates": "1945-54",
+   "War": "French Indochina",
+   "Death Toll": "385,000"
+  }
+ },
+ "53ee327176": {
+  "instruction": {
+   "Dates": "1911-20",
+   "War": "Mexican Revolution",
+   "Death Toll": "200,000"
+  }
+ },
+ "5c1a5aba9d": {
+  "instruction": {
+   "Dates": "1980-88",
+   "War": "Iran-Iraq War",
+   "Death Toll": "850,000"
+  }
+ },
+ "68765f409f": {
+  "instruction": {
+   "Dates": "1914-18",
+   "War": "First World War",
+   "Death Toll": "8,5000,000"
+  }
+ },
+ "67dfa99972": {
+  "instruction": {
+   "Dates": "1950-33",
+   "War": "Korean War",
+   "Death Toll": "1,200,000"
+  }
+ },
+ "c83cbba863": {
+  "instruction": {
+   "Dates": "1927-37",
+   "War": "Chinese Civil War",
+   "Death Toll": "400,000"
+  }
+ },
+ "fb50eb9069": {
+  "instruction": {
+   "Dates": "1918-21",
+   "War": "Russian Civil War",
+   "Death Toll": "800,000"
+  }
+ },
+ "55ed531b20": {
+  "instruction": {
+   "Dates": "1980-89",
+   "War": "Afghanistan",
+   "Death Toll": "150,000"
+  }
+ },
+ "412acd3621": {
+  "instruction": {
+   "Dates": "1954-62",
+   "War": "French-Algerian War",
+   "Death Toll": "160,000"
+  }
+ },
+ "30d90e2708": {
+  "instruction": {
+   "Dates": "1937-45",
+   "War": "Second World War",
+   "Death Toll": "20,000,000"
+  }
+ }
+}

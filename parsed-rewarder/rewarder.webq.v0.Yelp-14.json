@@ -1,0 +1,62 @@
+{
+ "82b328d9f6": {
+  "instruction": {
+   "name": "Fuki Sushi",
+   "rating": "3.5/5"
+  }
+ },
+ "82cb52766a": {
+  "instruction": {
+   "name": "Go Fish Poke Bar",
+   "rating": "4/5"
+  }
+ },
+ "a923981912": {
+  "instruction": {
+   "name": "Jin Sho",
+   "rating": "3.5/5"
+  }
+ },
+ "1ca837f8a2": {
+  "instruction": {
+   "name": "Poki Bowl",
+   "rating": "4/5"
+  }
+ },
+ "cce79961a7": {
+  "instruction": {
+   "name": "Rangoon",
+   "rating": "4/5"
+  }
+ },
+ "455ebc0707": {
+  "instruction": {
+   "name": "Odori Sushi and Teppanyaki",
+   "rating": "4/5"
+  }
+ },
+ "36d420d5e2": {
+  "instruction": {
+   "name": "Shoji Sushi",
+   "rating": "3.5/5"
+  }
+ },
+ "8b33fb24f6": {
+  "instruction": {
+   "name": "Sushirrito",
+   "rating": "4/5"
+  }
+ },
+ "f9496af3ec": {
+  "instruction": {
+   "name": "Sushi House",
+   "rating": "3.5/5"
+  }
+ },
+ "6d6f128af2": {
+  "instruction": {
+   "name": "Kanpai",
+   "rating": "3/5"
+  }
+ }
+}

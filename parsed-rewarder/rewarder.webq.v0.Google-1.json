@@ -1,0 +1,72 @@
+{
+ "db1ebc3b72": {
+  "instruction": {
+   "departure geographic location": "New York, NY",
+   "departure date": "03/25/2017",
+   "destination geographic location": "Minneapolis, MN"
+  }
+ },
+ "04e183009e": {
+  "instruction": {
+   "departure geographic location": "Houston, TX",
+   "departure date": "05/01/2017",
+   "destination geographic location": "Salt Lake City, UT"
+  }
+ },
+ "7d70ed9114": {
+  "instruction": {
+   "departure geographic location": "Los Angeles, CA",
+   "departure date": "03/20/2017",
+   "destination geographic location": "Portland, OR"
+  }
+ },
+ "cad5b41938": {
+  "instruction": {
+   "departure geographic location": "Sacramento, CA",
+   "departure date": "02/21/2017",
+   "destination geographic location": "Los Angeles, CA"
+  }
+ },
+ "2ff0c0766f": {
+  "instruction": {
+   "departure geographic location": "San Francisco, CA",
+   "departure date": "03/10/2017",
+   "destination geographic location": "Los Angeles, CA"
+  }
+ },
+ "b8b58fa13f": {
+  "instruction": {
+   "departure geographic location": "Seattle, WA",
+   "departure date": "05/14/2017",
+   "destination geographic location": "Portland, OR"
+  }
+ },
+ "248a22472f": {
+  "instruction": {
+   "departure geographic location": "Boise, ID",
+   "departure date": "05/04/2017",
+   "destination geographic location": "Dallas, TX"
+  }
+ },
+ "b671980e14": {
+  "instruction": {
+   "departure geographic location": "Orlando, FL",
+   "departure date": "05/10/2017",
+   "destination geographic location": "Richmond, VA"
+  }
+ },
+ "a8126f6d6c": {
+  "instruction": {
+   "departure geographic location": "Miami, FL",
+   "departure date": "06/23/2017",
+   "destination geographic location": "St. Louis, MO"
+  }
+ },
+ "64db653281": {
+  "instruction": {
+   "departure geographic location": "San Diego, CA",
+   "departure date": "04/12/2017",
+   "destination geographic location": "New York, NY"
+  }
+ }
+}
