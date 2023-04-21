@@ -12,7 +12,7 @@ Data for the QAWoB and FlightWoB web interaction benchmarks from the [World of B
 }
 ```
 
-# Using the parsed files
+## Using the parsed files
 
 * The cache files in `extracted-cache/` contain cached HTML responses. Each archive contains:
   * `index.tsv`: Each line contains:
@@ -25,7 +25,7 @@ Data for the QAWoB and FlightWoB web interaction benchmarks from the [World of B
   * `${ID}.response`: The response. Note that the file is empty if there is no response (usually for POST requests).
 * The rewarder files in `parsed-rewarder/` contain task inputs and outputs, as annotated by the crowdworkers.
 
-# Reproducing the parsed files from scratch
+## Reproducing the parsed files from scratch
 
 **Requirements:** Python 3 and [`rdbtools`](https://pypi.org/project/rdbtools/).
 
